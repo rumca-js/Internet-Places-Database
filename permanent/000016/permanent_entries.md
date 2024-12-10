@@ -1,3 +1,23 @@
+ ## FranklinCovey Brasil | Aprimoramento de Performance
+ - [https://www.franklincovey.com.br](https://www.franklincovey.com.br)
+ - date_published: 2024-06-21T10:44:36+00:00
+
+ ## BeFranq - Franq Open Banking
+ - [https://be.franq.com.br](https://be.franq.com.br)
+ - date_published: 2024-10-24T19:20:18+00:00
+
+ ## Franq | Mais autonomia financeira com Bancário Autônomo
+ - [https://franq.com.br](https://franq.com.br)
+ - date_published: 2024-10-28T13:54:12.103705+00:00
+
+ ## Franq | Mais autonomia financeira com Bancário Autônomo
+ - [https://site.franq.com.br](https://site.franq.com.br)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## FCC - Fundação Cultural de Curitiba
+ - [http://fundacaoculturaldecuritiba.com.br](http://fundacaoculturaldecuritiba.com.br)
+ - date_published: 2024-06-12T11:18:30.371953+00:00
+
  ## Página Inicial - Fundação Santillana
  - [http://www.fundacaosantillana.com.br](http://www.fundacaosantillana.com.br)
  - date_published: 2024-09-06T00:00:00+00:00
@@ -1030,6 +1050,10 @@
  ## Home - Pix Force
  - [https://www.pixforce.com.br](https://www.pixforce.com.br)
  - date_published: 2023-07-21T14:40:50+00:00
+
+ ## Planeta
+ - [https://www.planetadelivros.com.br](https://www.planetadelivros.com.br)
+ - date_published: 2024-12-09T17:34:35.397561+00:00
 
  ## Plataformatec Blog
  - [http://blog.plataformatec.com.br](http://blog.plataformatec.com.br)
@@ -3987,28 +4011,4 @@
  ## Партизаны Беларуси
  - [https://partizany.by](https://partizany.by)
  - date_published: 2024-06-30T03:40:24.019135+00:00
-
- ## PERI - Опалубка и строительные леса
- - [https://www.peri.by](https://www.peri.by)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Philips -  Беларусь
- - [https://www.philips.by](https://www.philips.by)
- - date_published: 2024-10-30T09:58:42+00:00
-
- ## Русская версия
- - [https://photobelta.by](https://photobelta.by)
- - date_published: 2024-08-11T15:58:15.836772+00:00
-
- ## pocketbook
- - [https://company.pocketbook.by](https://company.pocketbook.by)
- - date_published: 2024-07-20T16:13:21.398506+00:00
-
- ## Что приготовить на ужин, на завтрак, на обед
- - [https://eda.sb.by](https://eda.sb.by)
- - date_published: 2024-06-30T03:40:39.570597+00:00
-
- ## Издательский дом «Беларусь сегодня»
- - [https://org.sb.by](https://org.sb.by)
- - date_published: 2024-06-30T03:40:19.537784+00:00
 

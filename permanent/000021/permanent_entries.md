@@ -1,3 +1,31 @@
+ ## betevé | el mitjà de proximitat de Barcelona
+ - [https://beteve.cat](https://beteve.cat)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## HOME - Biblioteca Montserrat
+ - [https://bibliotecademontserrat.cat](https://bibliotecademontserrat.cat)
+ - date_published: 2023-02-21T00:00:00+00:00
+
+ ## Trending topics - Priviblur
+ - [https://pb.bloat.cat](https://pb.bloat.cat)
+ - date_published: 2024-09-06T01:13:58.936846+00:00
+
+ ## Akkoma
+ - [https://blob.cat](https://blob.cat)
+ - date_published: 2024-07-10T05:59:42.405020+00:00
+
+ ## Bongo Cat
+ - [https://bongo.cat](https://bongo.cat)
+ - date_published: 2023-10-13T22:32:33+00:00
+
+ ## Botiga UAB · Botiga oficial online de la UAB – Botiga oficial de la UAB
+ - [https://botigauab.cat](https://botigauab.cat)
+ - date_published: 2024-10-14T23:50:24.168938+00:00
+
+ ## B:SM - Barcelona de Serveis Municipals
+ - [https://www.bsmsa.cat](https://www.bsmsa.cat)
+ - date_published: 2024-07-02T10:44:56.775712+00:00
+
  ## Casa Batlló de Gaudí, Barcelona | Web oficial
  - [http://casabatllo.cat](http://casabatllo.cat)
  - date_published: 2024-05-27T00:00:00+00:00
@@ -161,6 +189,10 @@
  ## Google
  - [https://www.google.cat](https://www.google.cat)
  - date_published: 2024-06-21T22:25:41.148764+00:00
+
+ ## Llibres en català | Grup62
+ - [https://www.grup62.cat](https://www.grup62.cat)
+ - date_published: 2024-12-09T17:34:28.175705+00:00
 
  ## Vall de l'Hidrogen de Catalunya
  - [https://www.h2valley.cat](https://www.h2valley.cat)
@@ -3423,6 +3455,7 @@
  ## abuse.ch | Fighting malware and botnets
  - [https://abuse.ch](https://abuse.ch)
  - date_published: 2024-04-07T00:00:00+00:00
+ - tags: ['cybersecurity', 'hacking']
 
  ## MalwareBazaar | Malware sample exchange
  - [https://bazaar.abuse.ch](https://bazaar.abuse.ch)
@@ -4004,36 +4037,4 @@
  ## []
  - [http://www.armada.ch](http://www.armada.ch)
  - date_published: 2012-11-21T18:52:28+00:00
-
- ## Art By Arab Bank - Art By ArabBank
- - [https://artbyarabbank.ch](https://artbyarabbank.ch)
- - date_published: 2024-07-21T06:32:57+00:00
-
- ## ART EN VILLE
- - [https://www.art-en-ville.ch](https://www.art-en-ville.ch)
- - date_published: 2024-07-21T06:19:17.887939+00:00
-
- ## Anmelden - Artmotion Support
- - [https://support.artmotion.ch](https://support.artmotion.ch)
- - date_published: 2024-07-20T04:58:48.264478+00:00
-
- ## Ascento - Secure Assets with Robotics and AI
- - [https://ascento.ch](https://ascento.ch)
- - date_published: 2024-10-27T06:21:30+00:00
-
- ## ASSODIGITALE NEWS TECH & FINTECH - HOME PAGE
- - [https://www.assodigitale.ch](https://www.assodigitale.ch)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## astetic.ch
- - [http://astetic.ch](http://astetic.ch)
- - date_published: 2022-08-09T19:59:57+00:00
-
- ## Atabasca Systems AG — Identity Access Management
- - [https://atabasca.ch](https://atabasca.ch)
- - date_published: 2022-02-08T00:00:00+00:00
-
- ## ATD Quart Monde
- - [https://www.atd-quartmonde.ch](https://www.atd-quartmonde.ch)
- - date_published: 2024-07-13T19:49:44.924763+00:00
 

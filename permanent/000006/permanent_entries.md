@@ -1,3 +1,7 @@
+ ## Satyrn
+ - [https://satyrn.app](https://satyrn.app)
+ - date_published: 2024-07-07T17:59:31+00:00
+
  ## Savepad - Join the Waitlist!
  - [https://savepad.app](https://savepad.app)
  - date_published: 2024-03-23T00:00:00+00:00
@@ -2334,6 +2338,10 @@
  - [https://latex.vercel.app](https://latex.vercel.app)
  - date_published: 2024-07-14T11:34:21.188576+00:00
 
+ ## Lean
+ - [https://lean-seven.vercel.app](https://lean-seven.vercel.app)
+ - date_published: 2024-12-09T14:39:27.740427+00:00
+
  ## Let's Play
  - [https://letsplaytime.vercel.app](https://letsplaytime.vercel.app)
  - date_published: 2024-08-07T22:04:59.945761+00:00
@@ -2550,6 +2558,10 @@
  ## NextAuth.js Example
  - [https://next-auth-example.vercel.app](https://next-auth-example.vercel.app)
  - date_published: 2024-04-29T07:20:05.749263+00:00
+
+ ## Next Beats | Your Ultimate Music Experience
+ - [https://nextbeats.vercel.app](https://nextbeats.vercel.app)
+ - date_published: 2024-12-09T19:10:25.173018+00:00
 
  ## Devansh Bajaj
  - [https://nextjs-devanshblog.vercel.app](https://nextjs-devanshblog.vercel.app)
@@ -4006,17 +4018,4 @@
  ## I Built a AI Job Interview Companion with Real Time Feedback
  - [https://wyspa.app](https://wyspa.app)
  - date_published: 2024-05-12T23:17:02+00:00
-
- ## Xaman. Your XRP. Your wallet.
- - [https://xaman.app](https://xaman.app)
- - date_published: 2024-10-12T19:50:23.798215+00:00
-
- ## Home
- - [https://xbackbone.app](https://xbackbone.app)
- - date_published: 2024-04-08T19:32:04.837665+00:00
- - tags: ['file manager', 'self-host']
-
- ## XDAO – MultiChain DAO Ecosystem
- - [https://www.xdao.app](https://www.xdao.app)
- - date_published: 2024-09-25T11:16:29.271698+00:00
 

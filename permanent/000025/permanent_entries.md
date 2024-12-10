@@ -1,3 +1,43 @@
+ ## Bit. Composable software platform.
+ - [https://bit.cloud](https://bit.cloud)
+ - date_published: 2024-06-17T07:33:06+00:00
+
+ ## Bits and Cloud
+ - [https://bitsand.cloud](https://bitsand.cloud)
+ - date_published: 2024-04-30T06:17:22.288549+00:00
+
+ ## Ackee
+ - [https://stats.blago.cloud](https://stats.blago.cloud)
+ - date_published: 2024-04-28T02:00:15.685351+00:00
+
+ ## BlueOS
+ - [https://blueos.cloud](https://blueos.cloud)
+ - date_published: 2024-06-10T13:21:44.342638+00:00
+
+ ## Mastodon
+ - [https://breadandroses.cloud](https://breadandroses.cloud)
+ - date_published: 2024-07-14T10:21:51.769632+00:00
+
+ ## Briefer
+ - [https://app.briefer.cloud](https://app.briefer.cloud)
+ - date_published: 2024-09-10T08:20:34.491001+00:00
+
+ ## Briefer | The collaborative data platform
+ - [https://briefer.cloud](https://briefer.cloud)
+ - date_published: 2024-06-11T15:47:37.893739+00:00
+
+ ## Die Vorteile von Online-Bezahlsystemen | Amazon Pay
+ - [https://de.origin.pay.production.k1.amazon.brightspot.cloud](https://de.origin.pay.production.k1.amazon.brightspot.cloud)
+ - date_published: 2024-10-07T23:13:17.101207+00:00
+
+ ## La plataforma de pagos online de confianza | Amazon Pay
+ - [https://es.pay.production.k1.amazon.brightspot.cloud](https://es.pay.production.k1.amazon.brightspot.cloud)
+ - date_published: 2024-10-07T23:15:10.602808+00:00
+
+ ## Online Payment System for Your Needs | Amazon Pay
+ - [https://eu.origin.pay.production.k1.amazon.brightspot.cloud](https://eu.origin.pay.production.k1.amazon.brightspot.cloud)
+ - date_published: 2024-10-07T23:15:30.637910+00:00
+
  ## Service de paiement en ligne simple et pratique | Amazon Pay
  - [https://fr.pay.production.k1.amazon.brightspot.cloud](https://fr.pay.production.k1.amazon.brightspot.cloud)
  - date_published: 2024-10-07T23:15:20.809795+00:00
@@ -3972,44 +4012,4 @@
  ## 中国科学院计算技术研究所
  - [https://ict.cas.cn](https://ict.cas.cn)
  - date_published: 2024-07-08T08:44:09.289148+00:00
-
- ## 中国科学院科技期刊网
- - [http://journals.cas.cn](http://journals.cas.cn)
- - date_published: 2024-06-30T18:17:48.667875+00:00
-
- ## 中国科学院重大科技基础设施共享服务平台
- - [http://lssf.cas.cn](http://lssf.cas.cn)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## 昆明动物博物馆
- - [http://museum.kiz.cas.cn](http://museum.kiz.cas.cn)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## 中国科学院群团工作
- - [http://qtgz.cas.cn](http://qtgz.cas.cn)
- - date_published: 2024-06-30T18:17:20.401146+00:00
-
- ## 科学与中国
- - [http://scicn.casad.cas.cn](http://scicn.casad.cas.cn)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## 中国科学院发展规划局
- - [http://www.bdp.cas.cn](http://www.bdp.cas.cn)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## 中国科学院前沿科学与基础研究局
- - [http://www.bfse.cas.cn](http://www.bfse.cas.cn)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## 国际合作局
- - [http://www.bic.cas.cn](http://www.bic.cas.cn)
- - date_published: 2024-06-30T18:17:52.733743+00:00
-
- ## 中国科学院重大科技任务局
- - [http://www.bmrdp.cas.cn](http://www.bmrdp.cas.cn)
- - date_published: 2024-06-30T18:10:07.440543+00:00
-
- ## 中国科学院财务与资产管理局
- - [http://www.bpf.cas.cn](http://www.bpf.cas.cn)
- - date_published: 2024-06-30T18:19:18.301405+00:00
 

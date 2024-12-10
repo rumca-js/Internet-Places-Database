@@ -1,3 +1,31 @@
+ ## Home page - University of Ottawa Press - EN
+ - [http://www.press.uottawa.ca](http://www.press.uottawa.ca)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Upside Foundation
+ - [http://upsidefoundation.ca](http://upsidefoundation.ca)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Home | Institut des sciences mathématiques
+ - [http://ism.uqam.ca](http://ism.uqam.ca)
+ - date_published: 2024-09-06T21:08:52.947102+00:00
+
+ ## Répertoire des professeurs
+ - [https://professeurs.uqam.ca](https://professeurs.uqam.ca)
+ - date_published: 2024-06-30T09:12:39.791572+00:00
+
+ ## UQAM | Université du Québec à Montréal | Accueil
+ - [https://uqam.ca](https://uqam.ca)
+ - date_published: 2024-10-30T20:19:44.655018+00:00
+
+ ## Observatoire des sciences et des technologies | Mesure de la science, de la technologie et de l'innovation
+ - [http://www.ost.uqam.ca](http://www.ost.uqam.ca)
+ - date_published: 2024-09-06T21:13:41.128748+00:00
+
+ ## UrbanToronto
+ - [http://urbantoronto.ca](http://urbantoronto.ca)
+ - date_published: 2024-06-28T12:52:12.700570+00:00
+
  ## Admissions
  - [https://admissions.usask.ca](https://admissions.usask.ca)
  - date_published: 2024-09-15T13:01:16.769102+00:00
@@ -3981,32 +4009,4 @@
  ## Plànol BCN: carrers, equipaments  | Ajuntament de Barcelona
  - [https://w33.bcn.cat](https://w33.bcn.cat)
  - date_published: 2024-07-07T01:33:40.237964+00:00
-
- ## betevé | el mitjà de proximitat de Barcelona
- - [https://beteve.cat](https://beteve.cat)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## HOME - Biblioteca Montserrat
- - [https://bibliotecademontserrat.cat](https://bibliotecademontserrat.cat)
- - date_published: 2023-02-21T00:00:00+00:00
-
- ## Trending topics - Priviblur
- - [https://pb.bloat.cat](https://pb.bloat.cat)
- - date_published: 2024-09-06T01:13:58.936846+00:00
-
- ## Akkoma
- - [https://blob.cat](https://blob.cat)
- - date_published: 2024-07-10T05:59:42.405020+00:00
-
- ## Bongo Cat
- - [https://bongo.cat](https://bongo.cat)
- - date_published: 2023-10-13T22:32:33+00:00
-
- ## Botiga UAB · Botiga oficial online de la UAB – Botiga oficial de la UAB
- - [https://botigauab.cat](https://botigauab.cat)
- - date_published: 2024-10-14T23:50:24.168938+00:00
-
- ## B:SM - Barcelona de Serveis Municipals
- - [https://www.bsmsa.cat](https://www.bsmsa.cat)
- - date_published: 2024-07-02T10:44:56.775712+00:00
 

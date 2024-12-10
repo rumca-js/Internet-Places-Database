@@ -3129,6 +3129,10 @@
  - [https://eatfeed.app](https://eatfeed.app)
  - date_published: 2024-09-02T09:48:00.181715+00:00
 
+ ## Cursos, especializaciones y diplomados en línea.
+ - [https://co.landings.ebac.app](https://co.landings.ebac.app)
+ - date_published: 2024-12-09T16:40:15.767653+00:00
+
  ## AI Studio · EBI.AI
  - [https://ebiai.app](https://ebiai.app)
  - date_published: 2024-10-30T08:40:42.593782+00:00
@@ -4015,8 +4019,4 @@
  ## HamWaves - Your Guide to Getting Started in Amateur Radio
  - [https://hamwaves.app](https://hamwaves.app)
  - date_published: 2024-10-14T16:56:47.155227+00:00
-
- ## Hands Time
- - [https://handstime.app](https://handstime.app)
- - date_published: 2024-07-09T19:01:00.181784+00:00
 

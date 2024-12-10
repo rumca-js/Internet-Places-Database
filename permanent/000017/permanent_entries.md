@@ -1,3 +1,27 @@
+ ## PERI - Опалубка и строительные леса
+ - [https://www.peri.by](https://www.peri.by)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Philips -  Беларусь
+ - [https://www.philips.by](https://www.philips.by)
+ - date_published: 2024-10-30T09:58:42+00:00
+
+ ## Русская версия
+ - [https://photobelta.by](https://photobelta.by)
+ - date_published: 2024-08-11T15:58:15.836772+00:00
+
+ ## pocketbook
+ - [https://company.pocketbook.by](https://company.pocketbook.by)
+ - date_published: 2024-07-20T16:13:21.398506+00:00
+
+ ## Что приготовить на ужин, на завтрак, на обед
+ - [https://eda.sb.by](https://eda.sb.by)
+ - date_published: 2024-06-30T03:40:39.570597+00:00
+
+ ## Издательский дом «Беларусь сегодня»
+ - [https://org.sb.by](https://org.sb.by)
+ - date_published: 2024-06-30T03:40:19.537784+00:00
+
  ## Спецпроекты
  - [http://photo.sb.by](http://photo.sb.by)
  - date_published: 2024-03-29T10:27:18+00:00
@@ -3996,28 +4020,4 @@
  ## AI-Powered Cloud-Native Ediscovery Software for Legal Professionals
  - [https://www.everlaw.ca](https://www.everlaw.ca)
  - date_published: 2024-09-27T00:00:00+00:00
-
- ## eAwards
- - [https://fondationdefrance.evision.ca](https://fondationdefrance.evision.ca)
- - date_published: 2018-09-10T14:20:27+00:00
-
- ## Business Products and Solutions | Experian
- - [https://www.experian.ca](https://www.experian.ca)
- - date_published: 2024-06-25T21:32:00.596633+00:00
-
- ## LEGEND - SIMPLE. SESSIONABLE. AFFORDABLE.
- - [https://experiencelegend.ca](https://experiencelegend.ca)
- - date_published: 2023-04-04T00:00:00+00:00
-
- ## ICI EXPLORA
- - [http://ici.exploratv.ca](http://ici.exploratv.ca)
- - date_published: 2024-07-10T05:32:02.643262+00:00
-
- ## Extreme Taxidermy – Quality Alberta Taxidermy
- - [http://www.extremetaxidermy.ca](http://www.extremetaxidermy.ca)
- - date_published: 2024-08-20T05:35:50.278066+00:00
-
- ## Buy Prescription Glasses Online from $9 | Eyebuydirect Canada
- - [https://www.eyebuydirect.ca](https://www.eyebuydirect.ca)
- - date_published: 2024-07-09T10:17:13.237970+00:00
 

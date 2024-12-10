@@ -1,3 +1,27 @@
+ ## P. I. Moore
+ - [https://pimoore.ca](https://pimoore.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## reilly dow
+ - [https://www.pinkfish.ca](https://www.pinkfish.ca)
+ - date_published: 2024-09-12T19:04:21.311035+00:00
+
+ ## Pinterest
+ - [https://pinterest.ca](https://pinterest.ca)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home - Pioneer Wood Designs Inc. Commercial Millwork
+ - [https://pioneerwooddesigns.ca](https://pioneerwooddesigns.ca)
+ - date_published: 2016-08-26T10:40:44+00:00
+
+ ## Pirate Party of Canada
+ - [http://www.pirateparty.ca](http://www.pirateparty.ca)
+ - date_published: 2023-10-30T17:14:57+00:00
+
+ ## pirati.ca - social networking for pirates | Home
+ - [https://pirati.ca](https://pirati.ca)
+ - date_published: 2024-07-10T07:29:06.359563+00:00
+
  ## Home Page - Placement Pass
  - [https://georgebrowncollege.placementpass.ca](https://georgebrowncollege.placementpass.ca)
  - date_published: 2024-08-12T00:00:00+00:00
@@ -1939,6 +1963,10 @@
  ## Free Driving Test Practice | Driver's License 2024 Canada - Tests.ca
  - [https://tests.ca](https://tests.ca)
  - date_published: 2024-09-02T06:38:40+00:00
+
+ ## HomePage - TFO Canada
+ - [https://tfocanada.ca](https://tfocanada.ca)
+ - date_published: 2024-12-09T16:04:17.930475+00:00
 
  ## ThatGeoGuy - Home
  - [https://www.thatgeoguy.ca](https://www.thatgeoguy.ca)
@@ -4001,32 +4029,4 @@
  ## Home | University of Ottawa
  - [https://www2.uottawa.ca](https://www2.uottawa.ca)
  - date_published: 2024-07-19T18:00:37+00:00
-
- ## Home page - University of Ottawa Press - EN
- - [http://www.press.uottawa.ca](http://www.press.uottawa.ca)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Upside Foundation
- - [http://upsidefoundation.ca](http://upsidefoundation.ca)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Home | Institut des sciences mathématiques
- - [http://ism.uqam.ca](http://ism.uqam.ca)
- - date_published: 2024-09-06T21:08:52.947102+00:00
-
- ## Répertoire des professeurs
- - [https://professeurs.uqam.ca](https://professeurs.uqam.ca)
- - date_published: 2024-06-30T09:12:39.791572+00:00
-
- ## UQAM | Université du Québec à Montréal | Accueil
- - [https://uqam.ca](https://uqam.ca)
- - date_published: 2024-10-30T20:19:44.655018+00:00
-
- ## Observatoire des sciences et des technologies | Mesure de la science, de la technologie et de l'innovation
- - [http://www.ost.uqam.ca](http://www.ost.uqam.ca)
- - date_published: 2024-09-06T21:13:41.128748+00:00
-
- ## UrbanToronto
- - [http://urbantoronto.ca](http://urbantoronto.ca)
- - date_published: 2024-06-28T12:52:12.700570+00:00
 

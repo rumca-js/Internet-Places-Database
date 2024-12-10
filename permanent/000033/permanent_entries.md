@@ -1,3 +1,103 @@
+ ## Ripio Trade - API Documentation
+ - [https://apidocs.ripiotrade.co](https://apidocs.ripiotrade.co)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Top Digital Marketing Agency
+ - [https://rise.co](https://rise.co)
+ - date_published: 2024-06-20T23:24:08+00:00
+
+ ## My Tickets | ShowClix
+ - [https://tickets.riseny.co](https://tickets.riseny.co)
+ - date_published: 2024-07-08T11:26:32.942575+00:00
+
+ ## Riskology
+ - [https://riskology.co](https://riskology.co)
+ - date_published: 2016-01-01T00:00:00+00:00
+
+ ## Rissun - The dream journal that helps you make sense
+ - [https://rissun.co](https://rissun.co)
+ - date_published: 2024-06-19T19:18:50.842453+00:00
+
+ ## Ritual: Online Ordering System & Food Ordering App
+ - [https://invite.ritual.co](https://invite.ritual.co)
+ - date_published: 2024-07-04T02:28:20.859669+00:00
+
+ ## Ritual Partner Support
+ - [https://partnersupport.ritual.co](https://partnersupport.ritual.co)
+ - date_published: 2019-05-31T00:00:00+00:00
+
+ ## Ritual: Online Ordering System & Food Ordering App
+ - [https://ritual.co](https://ritual.co)
+ - date_published: 2024-05-08T04:31:23.361812+00:00
+
+ ## Ritual for Companies
+ - [https://teams.ritual.co](https://teams.ritual.co)
+ - date_published: 2024-07-04T02:28:22.939066+00:00
+
+ ## Ritza | Your Technical Publishing Team
+ - [https://ritza.co](https://ritza.co)
+ - date_published: 2024-01-23T11:10:15+00:00
+
+ ## Sportsbetting - Bet now online at Rivalo
+ - [https://www.rivalo.co](https://www.rivalo.co)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## RK Media
+ - [https://rkmedia.co](https://rkmedia.co)
+ - date_published: 2024-06-28T16:12:37.634026+00:00
+
+ ## HOME
+ - [https://www.robertsonandco.co](https://www.robertsonandco.co)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Upgrade your Thinkific site from one of the Top Thinkific Experts
+ - [https://www.robgalvin.co](https://www.robgalvin.co)
+ - date_published: 2021-01-21T00:00:00+00:00
+
+ ## Robin House
+ - [https://robinhouse.co](https://robinhouse.co)
+ - date_published: 2023-10-18T19:20:31+00:00
+
+ ## Home - Rockbase
+ - [https://demo.rockbase.co](https://demo.rockbase.co)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Rockbase - A WordPress theme for creative pro's
+ - [https://rockbase.co](https://rockbase.co)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Explora la documentacion de Rocketbot - Rocketbot Docs
+ - [https://docs.rocketbot.co](https://docs.rocketbot.co)
+ - date_published: 2024-10-30T13:58:25.930131+00:00
+
+ ## Home - Rocketbot MARKET
+ - [https://market.rocketbot.co](https://market.rocketbot.co)
+ - date_published: 2024-10-30T13:58:23.840213+00:00
+
+ ## Remote Jobs in Programming, Design, Sales and more #OpenSalaries
+ - [https://rok.co](https://rok.co)
+ - date_published: 2024-01-07T00:00:00+00:00
+
+ ## Romaine
+ - [http://romaine.co](http://romaine.co)
+ - date_published: 2024-07-13T14:46:23.305067+00:00
+
+ ## Ronan Harrington | Motivational Speaker
+ - [https://ronanharrington.co](https://ronanharrington.co)
+ - date_published: 2024-06-12T12:49:14.540167+00:00
+
+ ## Roote
+ - [https://roote.co](https://roote.co)
+ - date_published: 2024-06-12T12:50:19.912618+00:00
+
+ ## borganstein — Social Technologist. Cyborg. Digital Research. ...
+ - [https://listed.rostron.co](https://listed.rostron.co)
+ - date_published: 2024-06-18T16:14:38.815554+00:00
+
+ ## Route3: Setup, maintenance, and operations tools for Web3
+ - [https://route3.co](https://route3.co)
+ - date_published: 2024-09-23T12:58:25.826186+00:00
+
  ## Routine | The Most Advanced Calendar for Productive People
  - [https://www.routine.co](https://www.routine.co)
  - date_published: 2024-07-19T16:17:43.448635+00:00
@@ -2357,6 +2457,10 @@
  - date_published: 2017-02-21T22:03:29+00:00
  - tags: ['veritasium']
 
+ ## Home Vectorial
+ - [https://www.vectorial.co](https://www.vectorial.co)
+ - date_published: 2024-12-09T15:44:03.725188+00:00
+
  ## vectormaker | Convert PNG-to-SVG Vectors
  - [https://vectormaker.co](https://vectormaker.co)
  - date_published: 2024-07-19T18:33:29.161344+00:00
@@ -3085,23 +3189,103 @@
  - date_published: 2024-08-06T10:11:49.986737+00:00
 
  ## Resilient Leaders | Women in Leadership
- - [https://www.zerogap.co](https://www.zerogap.co)
+ - [https://zerogap.co](https://zerogap.co)
  - date_published: 2024-07-01T08:16:16.458118+00:00
 
  ## ZeroSpace Brooklyn
- - [https://www.zerospace.co](https://www.zerospace.co)
+ - [https://zerospace.co](https://zerospace.co)
  - date_published: 2024-02-04T00:00:00+00:00
+
+ ## A Signature Welcome gifting portal - Powered by Zest
+ - [https://asignaturewelcome.zest.co](https://asignaturewelcome.zest.co)
+ - date_published: 2024-12-09T15:15:46.160800+00:00
+
+ ## Bissinger's Handcrafted Chocolatier gifting portal - Powered by Zest
+ - [https://bissingers.zest.co](https://bissingers.zest.co)
+ - date_published: 2024-12-09T15:15:56.677387+00:00
+
+ ## BloomsyBox gifting portal - Powered by Zest
+ - [https://bloomsybox.zest.co](https://bloomsybox.zest.co)
+ - date_published: 2024-12-09T15:15:27.391624+00:00
+
+ ## Brightland gifting portal - Powered by Zest
+ - [https://brightland.zest.co](https://brightland.zest.co)
+ - date_published: 2024-12-09T15:16:01.373405+00:00
+
+ ## Dana's Bakery gifting portal - Powered by Zest
+ - [https://danasbakery.zest.co](https://danasbakery.zest.co)
+ - date_published: 2024-12-09T15:15:38.263009+00:00
+
+ ## Esker Beauty gifting portal - Powered by Zest
+ - [https://eskerbeauty.zest.co](https://eskerbeauty.zest.co)
+ - date_published: 2024-12-09T15:16:11.205048+00:00
 
  ## Shop
  - [https://gifts.zest.co](https://gifts.zest.co)
  - date_published: 2024-07-19T16:54:16.090275+00:00
+
+ ## Jiggy Puzzles gifting portal - Powered by Zest
+ - [https://jiggypuzzles.zest.co](https://jiggypuzzles.zest.co)
+ - date_published: 2024-12-09T15:15:33.816276+00:00
+
+ ## Kally Gifting  - Powered by Zest
+ - [https://kally.zest.co](https://kally.zest.co)
+ - date_published: 2024-12-09T15:16:15.257465+00:00
+
+ ## La Fleur Bouquets gifting portal - Powered by Zest
+ - [https://lafleur.zest.co](https://lafleur.zest.co)
+ - date_published: 2024-12-09T15:15:58.902477+00:00
+
+ ## Lively Root gifting portal - Powered by Zest
+ - [https://livelyroot.zest.co](https://livelyroot.zest.co)
+ - date_published: 2024-12-09T15:16:25.333874+00:00
+
+ ## Partners Coffee gifting portal - Powered by Zest
+ - [https://partnerscoffee.zest.co](https://partnerscoffee.zest.co)
+ - date_published: 2024-12-09T15:15:40.451007+00:00
+
+ ## Porter Road gifting portal - Powered by Zest
+ - [https://porterroad.zest.co](https://porterroad.zest.co)
+ - date_published: 2024-12-09T15:16:06.998144+00:00
+
+ ## ROCKS Whiskey Chilling Stones gifting portal - Powered by Zest
+ - [https://rockschillingstones.zest.co](https://rockschillingstones.zest.co)
+ - date_published: 2024-12-09T15:16:13.440257+00:00
+
+ ## Tasty Ribbon gifting portal - Powered by Zest
+ - [https://tastyribbon.zest.co](https://tastyribbon.zest.co)
+ - date_published: 2024-12-09T15:16:17.408832+00:00
+
+ ## The Cocktail Box Co. gifting portal - Powered by Zest
+ - [https://thecocktailboxco.zest.co](https://thecocktailboxco.zest.co)
+ - date_published: 2024-12-09T15:15:42.462559+00:00
+
+ ## Unboxme gifting portal - Powered by Zest
+ - [https://unboxme.zest.co](https://unboxme.zest.co)
+ - date_published: 2024-12-09T15:15:36.310704+00:00
+
+ ## Walden gifting portal - Powered by Zest
+ - [https://walden.zest.co](https://walden.zest.co)
+ - date_published: 2024-12-09T15:15:25.368459+00:00
+
+ ## Wandering Bear Coffee gifting portal - Powered by Zest
+ - [https://wanderingbearcoffee.zest.co](https://wanderingbearcoffee.zest.co)
+ - date_published: 2024-12-09T15:15:29.414364+00:00
+
+ ## Wildwood Chocolate gifting portal - Powered by Zest
+ - [https://wildwoodchocolate.zest.co](https://wildwoodchocolate.zest.co)
+ - date_published: 2024-12-09T15:15:54.969994+00:00
+
+ ## Online Gifting Platform Built to Scale Brands • Zest
+ - [https://zest.co](https://zest.co)
+ - date_published: 2024-12-08T05:00:45+00:00
 
  ## Jamstik | MIDI Guitar Technology, Software and Apps
  - [https://zivix.co](https://zivix.co)
  - date_published: 2024-03-12T00:00:00+00:00
 
  ## zobele.co
- - [http://zobele.co](http://zobele.co)
+ - [https://zobele.co](https://zobele.co)
  - date_published: 2024-07-12T06:53:07.765888+00:00
 
  ## ZoneBitcoin
@@ -3141,15 +3325,31 @@
  - date_published: 2024-01-01T00:00:00+00:00
 
  ## 3M Ciencia. Aplicada a la vida. | 3M Colombia
- - [https://www.3m.com.co](https://www.3m.com.co)
+ - [https://3m.com.co](https://3m.com.co)
  - date_published: 2024-08-06T10:38:49.471506+00:00
 
+ ## 3M Science. Applied to Life.  3M United States
+ - [http://solutions.3m.com.co](http://solutions.3m.com.co)
+ - date_published: 2024-12-09T15:22:27.124096+00:00
+
+ ## Command
+ - [https://www.command.3m.com.co](https://www.command.3m.com.co)
+ - date_published: 2024-12-09T15:21:46.905298+00:00
+
+ ## Estetoscopios 3M Littmann | 3M
+ - [https://www.littmann.3m.com.co](https://www.littmann.3m.com.co)
+ - date_published: 2024-12-09T15:22:20.209394+00:00
+
+ ## Nexcare
+ - [https://www.nexcare.3m.com.co](https://www.nexcare.3m.com.co)
+ - date_published: 2024-12-09T15:22:25.237697+00:00
+
  ## Fabricación y Montaje de Circuitos Impresos
- - [https://www.7pcb.com.co](https://www.7pcb.com.co)
+ - [https://7pcb.com.co](https://7pcb.com.co)
  - date_published: 2024-06-17T01:07:31.758620+00:00
 
  ## Acesco
- - [https://www.acesco.com.co](https://www.acesco.com.co)
+ - [https://acesco.com.co](https://acesco.com.co)
  - date_published: 2024-09-04T00:00:00+00:00
 
  ## ACH Colombia - prdredisenionach.com.co
@@ -3161,7 +3361,11 @@
  - date_published: 2024-10-29T04:04:39+00:00
 
  ## AG Digital es la mejor agencia de Bogotá para el sector constructor
- - [http://agdigital.com.co](http://agdigital.com.co)
+ - [https://ag-digital.com.co](https://ag-digital.com.co)
+ - date_published: 2024-12-09T20:56:22.654766+00:00
+
+ ## AG Digital es la mejor agencia de Bogotá para el sector constructor
+ - [https://agdigital.com.co](https://agdigital.com.co)
  - date_published: 2023-04-09T00:00:00+00:00
 
  ## Agenti
@@ -3189,7 +3393,7 @@
  - date_published: 2024-08-11T15:40:59.541832+00:00
 
  ## Ahora - Actualidad económica de Colombia y el mundo
- - [https://www.ahora.com.co](https://www.ahora.com.co)
+ - [https://ahora.com.co](https://ahora.com.co)
  - date_published: 2024-09-10T23:24:41.036809+00:00
 
  ## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
@@ -3203,6 +3407,7 @@
  ## Apache Tomcat
  - [https://asistencia.webv2.allus.com.co](https://asistencia.webv2.allus.com.co)
  - date_published: 2012-10-16T08:04:46+00:00
+ - date_dead_since: 2024-12-09T15:28:52.202884+00:00
 
  ## Almaviva - Logística Integral - almaviva
  - [https://www.almaviva.com.co](https://www.almaviva.com.co)
@@ -3225,8 +3430,12 @@
  - date_published: 2024-06-12T06:06:22.889480+00:00
 
  ## Amor Stereo Bogotá EN VIVO 1340 AM | RCN Radio
- - [https://www.amores.com.co](https://www.amores.com.co)
+ - [https://amores.com.co](https://amores.com.co)
  - date_published: 2024-09-13T15:50:17.781238+00:00
+
+ ## Desarrolladores de Negocios y Proyectos Inmobiliarios | Apiros
+ - [https://apiros.com.co](https://apiros.com.co)
+ - date_published: 2024-12-09T20:56:17.701162+00:00
 
  ## Inicio - Apostar S.A
  - [https://apostar.com.co](https://apostar.com.co)
@@ -3248,16 +3457,28 @@
  - [https://publicar.asuntoslegales.com.co](https://publicar.asuntoslegales.com.co)
  - date_published: 2024-09-13T15:37:54+00:00
 
+ ## ATH | ATH | A Toda Hora S.A.
+ - [http://www.ath.com.co](http://www.ath.com.co)
+ - date_published: 2024-12-09T17:32:47.095306+00:00
+
  ## Home - Audi Colombia
- - [https://www.audi.com.co](https://www.audi.com.co)
+ - [https://audi.com.co](https://audi.com.co)
  - date_published: 2024-07-19T22:46:00.735003+00:00
+
+ ## Búsqueda de camiones, autobuses y piezas de recambio
+ - [https://autoline.com.co](https://autoline.com.co)
+ - date_published: 2024-12-09T15:26:22.542292+00:00
+
+ ## Autoplanet - Llantas, Baterías, Lubricantes, repuestos y accesorios de carros
+ - [https://www.autoplanet.com.co](https://www.autoplanet.com.co)
+ - date_published: 2024-12-09T16:22:20+00:00
 
  ## Inicio - Aventec Agencia Digital
  - [https://aventec.com.co](https://aventec.com.co)
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Aviacarga – Grupo logístico Carga Aviatur
- - [http://www.aviacarga.com.co](http://www.aviacarga.com.co)
+ - [https://www.aviacarga.com.co](https://www.aviacarga.com.co)
  - date_published: 2024-09-10T20:54:44.356105+00:00
 
  ## Solicita tus productos bancarios en línea - Banco AV Villas
@@ -3269,7 +3490,7 @@
  - date_published: 2024-09-10T23:20:25.581042+00:00
 
  ## Ban100: Aliado de Crédito, Ahorro e Inversión
- - [https://ban100.com.co](https://ban100.com.co)
+ - [http://ban100.com.co](http://ban100.com.co)
  - date_published: 2024-06-12T10:32:05.173427+00:00
 
  ## Digital Banco de Bogotá
@@ -3301,7 +3522,7 @@
  - date_published: 2024-09-03T05:00:42+00:00
 
  ## Inicio - Banco W |
- - [https://www.bancow.com.co](https://www.bancow.com.co)
+ - [https://bancow.com.co](https://bancow.com.co)
  - date_published: 2024-09-10T23:12:10.997502+00:00
 
  ## Bienvenido a la Banca Virtual | BBVA Colombia
@@ -3317,7 +3538,7 @@
  - date_published: 2024-08-23T04:17:19+00:00
 
  ## Bienvenido a la Banca Virtual | BBVA Colombia
- - [https://www.bbvabancaresponsable.com.co](https://www.bbvabancaresponsable.com.co)
+ - [https://bbvabancaresponsable.com.co](https://bbvabancaresponsable.com.co)
  - date_published: 2024-09-10T12:00:00+00:00
 
  ## Redireccion
@@ -3325,12 +3546,13 @@
  - date_published: 2020-06-04T21:12:32+00:00
 
  ## BBVA | Bienvenido a BBVA Seguros / BBVA Seguros Colombia
- - [https://www.bbvaseguros.com.co](https://www.bbvaseguros.com.co)
+ - [https://bbvaseguros.com.co](https://bbvaseguros.com.co)
  - date_published: 2024-08-13T00:00:00+00:00
 
  ## Apuestas Deportivas en Vivo | Apuestas en Línea BetPlay
  - [https://betplay.com.co](https://betplay.com.co)
  - date_published: 2024-09-04T20:22:38+00:00
+ - date_dead_since: 2024-12-09T15:50:16.709082+00:00
 
  ## Inicio - Banco Mundo Mujer
  - [https://bmm.com.co](https://bmm.com.co)
@@ -3341,23 +3563,27 @@
  - date_published: 2023-07-21T01:32:28+00:00
 
  ## Marketing Digital en Bogotá | BOMERANG AGENCIA DIGITAL
- - [https://www.bomerang.com.co](https://www.bomerang.com.co)
+ - [https://bomerang.com.co](https://bomerang.com.co)
  - date_published: 2024-09-10T12:49:41.415505+00:00
 
  ## BTG PACTUAL
- - [https://www.btgpactual.com.co](https://www.btgpactual.com.co)
+ - [https://btgpactual.com.co](https://btgpactual.com.co)
  - date_published: 2024-09-10T20:34:39+00:00
 
  ## Buscalibre: Comprar libros en la librería con más variedad
- - [https://www.buscalibre.com.co](https://www.buscalibre.com.co)
+ - [https://buscalibre.com.co](https://buscalibre.com.co)
  - date_published: 2024-07-21T00:00:00+00:00
 
  ## Cafam, Caja de Compensación Familiar en Colombia
- - [https://www.cafam.com.co](https://www.cafam.com.co)
+ - [https://cafam.com.co](https://cafam.com.co)
  - date_published: 2024-09-10T14:37:26.500256+00:00
 
+ ## Premio Cafam a la Mujer 2025: Historia y reconocimientos
+ - [https://premiomujer.cafam.com.co](https://premiomujer.cafam.com.co)
+ - date_published: 2024-12-09T15:53:05.613749+00:00
+
  ## Venta Almácigos, Chapolas y Plantulas de Café Colombia
- - [https://www.cafecundinamarca.com.co](https://www.cafecundinamarca.com.co)
+ - [https://cafecundinamarca.com.co](https://cafecundinamarca.com.co)
  - date_published: 2023-12-20T00:00:00+00:00
 
  ## New home - Café Quindio
@@ -3381,8 +3607,12 @@
  - date_published: 2018-02-05T22:38:03+00:00
 
  ## Últimas noticias y entretenimiento de Colombia | CM&
- - [https://www.canal1.com.co](https://www.canal1.com.co)
+ - [https://canal1.com.co](https://canal1.com.co)
  - date_published: 2024-09-12T14:46:24.350383+00:00
+
+ ## Canal 1 En vivo: Últimas noticias, nuestros programas y más
+ - [https://cms.canal1.com.co](https://cms.canal1.com.co)
+ - date_published: 2024-12-09T15:57:50.752415+00:00
 
  ## Caracol Radio | Noticias, deportes y opinión en Colombia | Caracol Radio
  - [https://caracol.com.co](https://caracol.com.co)
@@ -3408,9 +3638,17 @@
  - [https://www.cetaphil.com.co](https://www.cetaphil.com.co)
  - date_published: 2024-10-30T23:02:48.261561+00:00
 
+ ## Inicio - CFA
+ - [https://www.cfa.com.co](https://www.cfa.com.co)
+ - date_published: 2024-12-09T15:25:03.676588+00:00
+
  ## Nvivo
  - [https://front.nvivo.cheil.com.co](https://front.nvivo.cheil.com.co)
  - date_published: 2024-07-02T16:27:28+00:00
+
+ ## Home - Compañía de Galletas Noel
+ - [https://ciadegalletasnoel.com.co](https://ciadegalletasnoel.com.co)
+ - date_published: 2019-06-28T13:30:31+00:00
 
  ## Cinvest – 6º Congreso Internacional de Investigación en Ciencias de la Salud, la Educación y la Música
  - [https://cinvest.com.co](https://cinvest.com.co)
@@ -3433,12 +3671,16 @@
  - date_published: 2024-06-12T01:28:17.229185+00:00
 
  ## Club Vital
- - [https://www.clubvital.com.co](https://www.clubvital.com.co)
+ - [https://clubvital.com.co](https://clubvital.com.co)
  - date_published: 2022-01-05T20:14:54+00:00
 
  ## Sitio oficial del dominio .CO | Registra el tuyo
- - [http://www.cointernet.com.co](http://www.cointernet.com.co)
+ - [https://cointernet.com.co](https://cointernet.com.co)
  - date_published: 2024-09-06T20:43:51.264702+00:00
+
+ ## Supersite
+ - [http://registros.cointernet.com.co](http://registros.cointernet.com.co)
+ - date_published: 2024-12-09T20:57:34.897085+00:00
 
  ## CRM Alkomprar
  - [https://multicrm.colcomercio.com.co](https://multicrm.colcomercio.com.co)
@@ -3457,11 +3699,11 @@
  - date_published: 2024-06-12T13:11:23.751450+00:00
 
  ## Página de inicio Colombia Trade | Procolombia
- - [https://www.colombiatrade.com.co](https://www.colombiatrade.com.co)
+ - [https://colombiatrade.com.co](https://colombiatrade.com.co)
  - date_published: 2024-07-21T04:06:36.429041+00:00
 
  ## Coltefinanciera
- - [https://www.coltefinanciera.com.co](https://www.coltefinanciera.com.co)
+ - [https://coltefinanciera.com.co](https://coltefinanciera.com.co)
  - date_published: 2024-06-12T10:34:29.217703+00:00
 
  ## Cargando...
@@ -3469,19 +3711,19 @@
  - date_published: 2024-09-10T07:24:30+00:00
 
  ## Cooperativa COMUNA
- - [https://www.comuna.com.co](https://www.comuna.com.co)
+ - [https://comuna.com.co](https://comuna.com.co)
  - date_published: 2024-09-12T00:00:00+00:00
 
  ## Crate & Barrel Colombia
- - [https://www.crateandbarrel.com.co](https://www.crateandbarrel.com.co)
+ - [https://crateandbarrel.com.co](https://crateandbarrel.com.co)
  - date_published: 2024-08-05T21:07:25+00:00
 
  ## Inicio | Créame
- - [https://www.creame.com.co](https://www.creame.com.co)
+ - [https://creame.com.co](https://creame.com.co)
  - date_published: 2024-03-22T00:00:00+00:00
 
  ## Sé una au pair en USA | Cultural Care
- - [https://www.culturalcare.com.co](https://www.culturalcare.com.co)
+ - [https://culturalcare.com.co](https://culturalcare.com.co)
  - date_published: 2024-03-21T00:00:00+00:00
 
  ## Dale!
@@ -3517,7 +3759,7 @@
  - date_published: 2024-07-20T00:00:00+00:00
 
  ## Digimarketing – Somos el aliado que necesita tu empresa para hacer publicidad, branding y marketing digital con estrategias efectivas y consolidando tus objetivos de marca.
- - [https://www.digimarketing.com.co](https://www.digimarketing.com.co)
+ - [https://digimarketing.com.co](https://digimarketing.com.co)
  - date_published: 2024-09-10T12:22:11.711449+00:00
 
  ## 403 - Prohibido: acceso denegado.
@@ -3529,7 +3771,7 @@
  - date_published: 2024-09-10T23:12:07.250176+00:00
 
  ## Inicio - Dodge Colombia
- - [https://www.dodge.com.co](https://www.dodge.com.co)
+ - [https://dodge.com.co](https://dodge.com.co)
  - date_published: 2024-06-19T08:57:09.944969+00:00
 
  ## DO – Marketing Digital
@@ -3540,12 +3782,16 @@
  - [https://downdetector.com.co](https://downdetector.com.co)
  - date_published: 2024-05-12T00:00:00+00:00
 
+ ## DS AUTOMOBILES: Coches franceses de alta gama
+ - [https://www.dsautomobiles.com.co](https://www.dsautomobiles.com.co)
+ - date_published: 2024-12-09T11:57:38+00:00
+
  ## Cursos, especializaciones y diplomados en línea.
  - [https://ebac.com.co](https://ebac.com.co)
  - date_published: 2024-03-01T00:00:00+00:00
 
  ## EF Education First | Colombia
- - [https://www.ef.com.co](https://www.ef.com.co)
+ - [https://ef.com.co](https://ef.com.co)
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## Giros, pagos y recargas | Efecty
@@ -3565,19 +3811,31 @@
  - date_published: 2024-06-12T01:29:49.561427+00:00
 
  ## Noticias de Cali, Valle y Colombia - Periodico: Diario El País
- - [https://www.elpais.com.co](https://www.elpais.com.co)
+ - [https://elpais.com.co](https://elpais.com.co)
  - date_published: 2024-07-21T23:37:30+00:00
+
+ ## Avisos Empleo - Encuentre trabajo en Clasificados El País
+ - [https://empleos.elpais.com.co](https://empleos.elpais.com.co)
+ - date_published: 2024-12-09T16:44:14.745225+00:00
+
+ ## Finca Raíz - Compre, Venda, Alquile - Avisos Clasificados El País
+ - [https://fincaraiz.elpais.com.co](https://fincaraiz.elpais.com.co)
+ - date_published: 2024-12-09T16:43:51.081760+00:00
+
+ ## Carros Nuevos y Usados - Compre, Venda en Clasificados el País
+ - [https://vehiculos.elpais.com.co](https://vehiculos.elpais.com.co)
+ - date_published: 2024-12-09T16:44:33.446814+00:00
 
  ## El Pilón | Noticias de Valledupar, El Vallenato y el Caribe Colombiano
  - [https://elpilon.com.co](https://elpilon.com.co)
  - date_published: 2024-09-10T10:55:07+00:00
 
  ## El Sol Bogotá EN VIVO 105.4 FM | RCN Radio
- - [http://www.elsol.com.co](http://www.elsol.com.co)
+ - [https://elsol.com.co](https://elsol.com.co)
  - date_published: 2024-09-13T15:38:22.963433+00:00
 
  ## El Termostato – Publicación digital estudiantil y participativa. Laboratorio pedagógico UGC
- - [https://www.eltermostato.com.co](https://www.eltermostato.com.co)
+ - [https://eltermostato.com.co](https://eltermostato.com.co)
  - date_published: 2024-09-12T13:09:34.223409+00:00
 
  ## Inicio
@@ -3593,8 +3851,8 @@
  - date_published: 2024-09-10T12:36:45.456502+00:00
 
  ## Emagister: Cursos, Carreras y Maestrías presenciales y virtuales
- - [https://www.emagister.com.co](https://www.emagister.com.co)
- - date_published: 2024-06-12T10:57:18.921740+00:00
+ - [https://emagister.com.co](https://emagister.com.co)
+ - date_published: 2024-04-10T11:42:46+00:00
 
  ## Enel Colombia la empresa de energía en Bogotá y Cundinamarca
  - [https://enel.com.co](https://enel.com.co)
@@ -3605,24 +3863,28 @@
  - date_published: 2024-09-10T21:28:33.279829+00:00
 
  ## ESPN Colombia - Lo Último del Mundo Deportivo
- - [https://www.espn.com.co](https://www.espn.com.co)
+ - [https://espn.com.co](https://espn.com.co)
  - date_published: 2024-05-02T09:42:15.363121+00:00
+
+ ## Home
+ - [https://estahl.com.co](https://estahl.com.co)
+ - date_published: 2024-12-09T20:56:13.701367+00:00
 
  ## FAIA | Fondo de Acceso a Insumos Agropecuarios
  - [https://faia.com.co](https://faia.com.co)
  - date_published: 2024-06-12T03:00:47.386985+00:00
 
  ## Fantástica Medellín EN VIVO 96.9 FM | RCN Radio
- - [https://www.fantastica.com.co](https://www.fantastica.com.co)
+ - [https://fantastica.com.co](https://fantastica.com.co)
  - date_published: 2024-09-13T15:37:00.255683+00:00
+
+ ## Fiat Colombia: carros, camionetas y repuestos para tu Fiat
+ - [https://fiat.com.co](https://fiat.com.co)
+ - date_published: 2024-04-30T00:00:00+00:00
 
  ## Fiat Store
  - [https://store.fiat.com.co](https://store.fiat.com.co)
  - date_published: 2024-10-28T21:34:48.659550+00:00
-
- ## Fiat Colombia: carros, camionetas y repuestos para tu Fiat
- - [https://www.fiat.com.co](https://www.fiat.com.co)
- - date_published: 2024-04-30T00:00:00+00:00
 
  ## Fiducoldex
  - [https://fics.fiducoldex.com.co](https://fics.fiducoldex.com.co)
@@ -3641,40 +3903,50 @@
  - date_published: 2024-06-12T13:24:10.687966+00:00
 
  ## Fiesta Bogotá EN VIVO 104.4 FM | RCN Radio
- - [https://www.fiesta.com.co](https://www.fiesta.com.co)
+ - [https://fiesta.com.co](https://fiesta.com.co)
  - date_published: 2024-09-13T15:49:43.344558+00:00
 
  ## Fondo para el financiamiento del sector agropecuario | Finagro
- - [https://www.finagro.com.co](https://www.finagro.com.co)
+ - [https://finagro.com.co](https://finagro.com.co)
  - date_published: 2024-09-10T15:33:35+00:00
 
  ## INICIO | FONTUR
  - [https://fontur.com.co](https://fontur.com.co)
  - date_published: 2024-06-12T02:57:12.348492+00:00
 
+ ## Buque carretillas elevadoras, así como maquinaria y equipos para almacenes
+ - [https://forkliftonline.com.co](https://forkliftonline.com.co)
+ - date_published: 2024-12-09T15:26:25.095954+00:00
+
  ## FranklinCovey Colombia: la compañía de liderazgo más confiable del mundo
- - [https://www.franklincovey.com.co](https://www.franklincovey.com.co)
+ - [https://franklincovey.com.co](https://franklincovey.com.co)
  - date_published: 2024-06-22T00:00:00+00:00
 
  ## Contrata a freelancers y encuentra trabajo freelance en línea
- - [https://www.freelancer.com.co](https://www.freelancer.com.co)
+ - [https://freelancer.com.co](https://freelancer.com.co)
  - date_published: 2024-06-16T12:00:53.472319+00:00
 
  ## Gestam
  - [https://analytics.gestam.com.co](https://analytics.gestam.com.co)
  - date_published: 2024-08-28T15:21:50+00:00
 
+ ## gestionredtecnoparquecolombia.com.co
+ - [https://gestionredtecnoparquecolombia.com.co](https://gestionredtecnoparquecolombia.com.co)
+ - date_published: 2024-12-09T23:31:49.558472+00:00
+
  ## Descubre las mejores aplicaciones para hacer crecer tu negocio
- - [https://www.getapp.com.co](https://www.getapp.com.co)
+ - [https://getapp.com.co](https://getapp.com.co)
  - date_published: 2024-08-08T18:07:07.939143+00:00
 
  ## Giant Colombia
  - [https://giant-bicycles.com.co](https://giant-bicycles.com.co)
  - date_published: 2024-09-18T00:00:00+00:00
+ - date_dead_since: 2024-12-09T17:07:08.867134+00:00
 
  ## Giramás
  - [https://giramas.com.co](https://giramas.com.co)
  - date_published: 2024-09-10T23:21:01.931939+00:00
+ - date_dead_since: 2024-12-09T17:07:55.520077+00:00
 
  ## Goldfish agencia líder en Influencer Marketing en Latinoamérica
  - [https://goldfish.com.co](https://goldfish.com.co)
@@ -3693,7 +3965,7 @@
  - date_published: 2024-07-20T07:11:05+00:00
 
  ## Grant Thornton Colombia
- - [https://www.grantthornton.com.co](https://www.grantthornton.com.co)
+ - [https://grantthornton.com.co](https://grantthornton.com.co)
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## Home-principal
@@ -3701,7 +3973,7 @@
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## Grünenthal Colombiana S.A.
- - [https://www.grunenthal.com.co](https://www.grunenthal.com.co)
+ - [https://grunenthal.com.co](https://grunenthal.com.co)
  - date_published: 2024-10-16T18:49:31.309370+00:00
 
  ## {{ngMeta.title}}
@@ -3709,15 +3981,15 @@
  - date_published: 2022-06-04T19:15:05+00:00
 
  ## Home
- - [https://www.henkel.com.co](https://www.henkel.com.co)
+ - [https://henkel.com.co](https://henkel.com.co)
  - date_published: 2024-10-18T20:18:04.373728+00:00
 
  ## Hilti Colombia - Herramientas Eléctricas, Fijaciones y Software para Construcción
- - [https://www.hilti.com.co](https://www.hilti.com.co)
+ - [https://hilti.com.co](https://hilti.com.co)
  - date_published: 2024-06-20T07:27:34.450751+00:00
 
  ## Bienvenido a Hotfrog
- - [https://www.hotfrog.com.co](https://www.hotfrog.com.co)
+ - [https://hotfrog.com.co](https://hotfrog.com.co)
  - date_published: 2024-06-29T16:51:50.236143+00:00
 
  ## HOY DIARIO DEL MAGDALENA - Periódico líder de Santa Marta | Noticias Santa Marta
@@ -3733,11 +4005,11 @@
  - date_published: 2023-12-29T10:00:23+00:00
 
  ## IDC Colombia - Inicio - IDC COLOMBIA | Analiza el futuro
- - [http://www.idccolombia.com.co](http://www.idccolombia.com.co)
+ - [https://idccolombia.com.co](https://idccolombia.com.co)
  - date_published: 2023-01-16T00:00:00+00:00
 
  ## Invest in Colombia
- - [http://www.inviertaencolombia.com.co](http://www.inviertaencolombia.com.co)
+ - [https://inviertaencolombia.com.co](https://inviertaencolombia.com.co)
  - date_published: 2024-09-10T15:37:42.265704+00:00
 
  ## IRIS
@@ -3749,280 +4021,10 @@
  - date_published: 2024-09-10T23:18:26.042604+00:00
 
  ## ISAGEN Energía Productiva - ISAGEN
- - [https://www.isagen.com.co](https://www.isagen.com.co)
+ - [https://isagen.com.co](https://isagen.com.co)
  - date_published: 2024-09-10T15:05:00.529435+00:00
 
  ## Javesalud IPS - Javesalud IPS
  - [https://javesalud.com.co](https://javesalud.com.co)
  - date_published: 2024-06-07T00:00:00+00:00
-
- ## Jeep Store
- - [https://store.jeep.com.co](https://store.jeep.com.co)
- - date_published: 2024-10-28T16:45:01.124939+00:00
-
- ## Jeep®| La marca de camionetas 4x4  Jeep Colombia
- - [https://www.jeep.com.co](https://www.jeep.com.co)
- - date_published: 2024-06-19T08:42:10.907657+00:00
-
- ## JLL
- - [https://www.jll.com.co](https://www.jll.com.co)
- - date_published: 2024-10-30T21:40:41.367793+00:00
-
- ## La FM
- - [https://lafm.com.co](https://lafm.com.co)
- - date_published: 2024-06-12T13:32:03.973863+00:00
- - tags: ['news']
-
- ## La Mega EN VIVO: Noticias de famosos colombianos y entretenimiento HOY
- - [https://lamega.com.co](https://lamega.com.co)
- - date_published: 2024-06-12T13:32:38.387177+00:00
-
- ## Radio EN VIVO, música, entretenimiento, famosos, tecnología, tendencias y eventos
- - [http://www.editor.lamega.com.co](http://www.editor.lamega.com.co)
- - date_published: 2024-09-13T15:39:05+00:00
-
- ## Las Islas Hotel | Barú Cartagena Colombia hotels
- - [https://lasislas.com.co](https://lasislas.com.co)
- - date_published: 2024-06-12T11:02:40.224676+00:00
-
- ## LOS40: noticias musicales y radio online con todos los éxitos
- - [https://los40.com.co](https://los40.com.co)
- - date_published: 2024-06-12T06:04:59.985420+00:00
-
- ## LOS40: noticias musicales y radio online con todos los éxitos
- - [https://seguro.los40.com.co](https://seguro.los40.com.co)
- - date_published: 2024-06-12T13:01:57.410543+00:00
-
- ## Guía de los mejores restaurantes con 50K
- - [https://losinsaciables.com.co](https://losinsaciables.com.co)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## MakeMake - Biblioteca Digital
- - [https://makemake.com.co](https://makemake.com.co)
- - date_published: 2024-06-05T19:36:53+00:00
-
- ## Make Systems – Agencia de Diseño & Desarrollo
- - [https://makesystems.com.co](https://makesystems.com.co)
- - date_published: 2024-09-12T13:31:33.565123+00:00
-
- ## Mary Kay | Sitio Oficial
- - [https://www.marykay.com.co](https://www.marykay.com.co)
- - date_published: 2024-06-30T09:56:19.482961+00:00
-
- ## Mccarthy's Irish Pub
- - [https://mccarthys.com.co](https://mccarthys.com.co)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## MDE Consulting Group - Agencia Expertos en Marketing Digital - Colombia
- - [https://www.mde.com.co](https://www.mde.com.co)
- - date_published: 2024-09-10T12:21:09.879977+00:00
-
- ## Penguin Libros CO
- - [https://www.megustaleer.com.co](https://www.megustaleer.com.co)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Categorías y Secciones en Mercado Libre
- - [https://listado.mercadolibre.com.co](https://listado.mercadolibre.com.co)
- - date_published: 2024-10-28T16:44:56.391083+00:00
-
- ## Mercado Libre Colombia - Envíos Gratis en el día
- - [https://www.mercadolibre.com.co](https://www.mercadolibre.com.co)
- - date_published: 2020-07-20T03:12:09+00:00
-
- ## MetaScraping
- - [https://metascraping.metabiblioteca.com.co](https://metascraping.metabiblioteca.com.co)
- - date_published: 2024-06-12T11:25:35.235303+00:00
-
- ## Inicio Metabiblioteca
- - [https://voicetotext.metabiblioteca.com.co](https://voicetotext.metabiblioteca.com.co)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## MetLife Colombia Seguros de vida
- - [https://www.metlife.com.co](https://www.metlife.com.co)
- - date_published: 2024-07-19T16:43:11+00:00
-
- ## Registrador Oficial de Dominios y Hosting para Colombia
- - [https://mi.com.co](https://mi.com.co)
- - date_published: 2024-09-09T21:35:12.929671+00:00
-
- ## Inicio - Mobile Citi - Conoce más de marketing mobile para tu empresa
- - [https://mobileciti.com.co](https://mobileciti.com.co)
- - date_published: 2023-10-02T00:00:00+00:00
-
- ## Revista Motor | Toda la información sobre carros, motos, vehículos precios y tips.
- - [https://motor.com.co](https://motor.com.co)
- - date_published: 2024-06-11T23:29:42.681340+00:00
-
- ## www.movii.com.co
- - [https://movii.com.co](https://movii.com.co)
- - date_published: 2024-06-12T10:33:04.044268+00:00
-
- ## Movii | Moviido$
- - [https://www.beneficios.movii.com.co](https://www.beneficios.movii.com.co)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## MOVii | Empresas
- - [https://www.empresas.movii.com.co](https://www.empresas.movii.com.co)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Centro de ayuda
- - [https://ayuda.nequi.com.co](https://ayuda.nequi.com.co)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Clientes - Nequi
- - [https://clientes.nequi.com.co](https://clientes.nequi.com.co)
- - date_published: 2024-08-16T16:07:58+00:00
-
- ## Nequi - Usa tu plata sin cuota de manejo desde el celu
- - [https://nequi.com.co](https://nequi.com.co)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Nutrición, Salud y Bienestar | Nestlé Colombia
- - [https://www.nestle.com.co](https://www.nestle.com.co)
- - date_published: 2024-09-14T18:22:45+00:00
-
- ## Nike Colombia
- - [https://www.nike.com.co](https://www.nike.com.co)
- - date_published: 2024-06-20T15:42:36.067906+00:00
-
- ## Galletas Noel - Juntos la vida sabe mejor ❤
- - [https://noel.com.co](https://noel.com.co)
- - date_published: 2019-08-29T13:21:42+00:00
-
- ## Humanos, simples y transparentes
- - [https://blog.nu.com.co](https://blog.nu.com.co)
- - date_published: 2024-06-15T17:12:39+00:00
-
- ## Nu Colombia - Tarjeta de crédito
- - [https://nu.com.co](https://nu.com.co)
- - date_published: 2024-06-12T10:33:04.807778+00:00
-
- ## ACH Colombia
- - [https://servicio.nuevosoi.com.co](https://servicio.nuevosoi.com.co)
- - date_published: 2024-06-12T10:55:07.160245+00:00
-
- ## Persona - prdredisenionsoi.com.co
- - [https://www.nuevosoi.com.co](https://www.nuevosoi.com.co)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Home
- - [http://www.oal.com.co](http://www.oal.com.co)
- - date_published: 2024-09-10T12:31:48.431343+00:00
-
- ## Tiquetes baratos, hoteles y paquetes turísticos en línea
- - [https://www.octopus.com.co](https://www.octopus.com.co)
- - date_published: 2024-09-10T20:51:56.143483+00:00
-
- ## AEROCAFE | UNIDAD DE GESTIÓN PATRIMONIO AUTÓNOMO
- - [https://pa-aerocafe.com.co](https://pa-aerocafe.com.co)
- - date_published: 2024-09-11T17:02:50.361111+00:00
-
- ## Pago sin inscripción
- - [https://www.pagosvirtualesavvillas.com.co](https://www.pagosvirtualesavvillas.com.co)
- - date_published: 2024-06-12T03:05:17.866447+00:00
-
- ## Panamericana Librería y Papelería Colombia
- - [https://www.panamericana.com.co](https://www.panamericana.com.co)
- - date_published: 2024-06-15T03:30:42.009721+00:00
-
- ## Productos y consejos para el cuidado del cabello | Pantene
- - [https://www.pantene.com.co](https://www.pantene.com.co)
- - date_published: 2024-10-17T11:14:32+00:00
-
- ## PERI Colombia | Especialista en Encofrados y Andamios
- - [https://www.peri.com.co](https://www.peri.com.co)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Philips - Colombia
- - [https://www.philips.com.co](https://www.philips.com.co)
- - date_published: 2024-10-30T09:58:42+00:00
-
- ## PlanetadeLibros
- - [https://www.planetadelibros.com.co](https://www.planetadelibros.com.co)
- - date_published: 2024-07-11T10:47:19.935160+00:00
-
- ## POSA Colombia
- - [https://posa.com.co](https://posa.com.co)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Persona - prdredisenionpse.com.co
- - [https://www.pse.com.co](https://www.pse.com.co)
- - date_published: 2024-06-12T03:12:09.098146+00:00
-
- ## inicio - portal.psepagos.com.co
- - [https://portal.psepagos.com.co](https://portal.psepagos.com.co)
- - date_published: 2024-09-10T23:06:12.512780+00:00
-
- ## PTAR Salitre | Megaproyecto de Ampliación y Optimización de la Planta de Tratamiento de Aguas Residuales, PTAR Salitre en Bogotá. Este proyecto hace parte del Plan de recuperación del Río Bogotá, contribuirá con la descontaminación del río y el mejoramiento de las aguas para uso agrícola y pecuario.
- - [https://ptarsalitre.com.co](https://ptarsalitre.com.co)
- - date_published: 2024-06-08T02:15:39+00:00
-
- ## Editorial Publimundo – Imagina, transforma, alcanza
- - [http://publimundo.com.co](http://publimundo.com.co)
- - date_published: 2024-06-12T13:11:12.304447+00:00
-
- ## Puerto Antioquia
- - [https://www.puertoantioquia.com.co](https://www.puertoantioquia.com.co)
- - date_published: 2024-10-31T06:43:39.023138+00:00
-
- ## Punto de Pago
- - [https://puntodepago.com.co](https://puntodepago.com.co)
- - date_published: 2023-11-18T03:42:02+00:00
-
- ## Radio Uno Bogotá EN VIVO 88.9 FM | RCN Radio
- - [http://www.radio1.com.co](http://www.radio1.com.co)
- - date_published: 2024-09-12T14:47:07.748080+00:00
-
- ## Radio Red Bogotá 970 AM EN VIVO | RCN Radio
- - [http://www.radiored.com.co](http://www.radiored.com.co)
- - date_published: 2024-09-13T15:38:21.691632+00:00
-
- ## Radio Uno Bogotá 88.9 FM EN VIVO | RCN Radio
- - [https://www.radiouno.com.co](https://www.radiouno.com.co)
- - date_published: 2024-06-12T14:23:29.083938+00:00
- - tags: ['radio station']
-
- ## 98.3FM - RadioUno Villavicencio
- - [https://radiounovillavo.com.co](https://radiounovillavo.com.co)
- - date_published: 2024-07-18T14:59:46+00:00
-
- ## Legal | Rappi Colombia | Términos y Condiciones - Acceso al Botón Rayo
- - [https://legal.rappi.com.co](https://legal.rappi.com.co)
- - date_published: 2024-05-31T20:20:49+00:00
-
- ## Pide Comida a Domicilio y mucho más - Rappi Colombia
- - [https://www.rappi.com.co](https://www.rappi.com.co)
- - date_published: 2024-07-01T06:26:05.649998+00:00
-
- ## Red Aval - Red de Cajeros del Grupo Aval
- - [https://www.redaval.com.co](https://www.redaval.com.co)
- - date_published: 2024-09-10T23:06:47.510571+00:00
-
- ## Inicio
- - [https://www.redbooks.com.co](https://www.redbooks.com.co)
- - date_published: 2024-06-12T11:00:06.212408+00:00
-
- ## Página Principal | RenoBo
- - [https://renobo.com.co](https://renobo.com.co)
- - date_published: 2024-07-21T04:07:39.456331+00:00
-
- ## Revista Cromos: Noticias de estilo de vida, moda, famosos, horóscopo y recetas
- - [https://revistacromos.com.co](https://revistacromos.com.co)
- - date_published: 2024-06-12T12:13:58.433865+00:00
-
- ## Publicidad y Mercadeo - Lo que necesitas saber en Revista P&M
- - [https://revistapym.com.co](https://revistapym.com.co)
- - date_published: 2024-06-12T01:29:52.300394+00:00
-
- ## Revista Vea: noticias del entretenimiento, horóscopo y recetas
- - [https://revistavea.com.co](https://revistavea.com.co)
- - date_published: 2024-06-12T12:14:05.057372+00:00
-
- ## Richmond – English Language Teaching
- - [https://beta.richmond.com.co](https://beta.richmond.com.co)
- - date_published: 2024-09-12T21:56:35.578335+00:00
-
- ## Richmond – English Language Teaching
- - [https://richmond.com.co](https://richmond.com.co)
- - date_published: 2024-06-12T12:55:53.335870+00:00
 
