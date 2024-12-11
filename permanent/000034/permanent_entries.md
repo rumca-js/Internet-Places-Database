@@ -1,3 +1,273 @@
+ ## Inicio - Dodge Colombia
+ - [https://dodge.com.co](https://dodge.com.co)
+ - date_published: 2024-06-19T08:57:09.944969+00:00
+
+ ## DO – Marketing Digital
+ - [https://domarketing.com.co](https://domarketing.com.co)
+ - date_published: 2024-09-10T12:20:03.732093+00:00
+
+ ## Resumen del estado
+ - [https://downdetector.com.co](https://downdetector.com.co)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## DS AUTOMOBILES: Coches franceses de alta gama
+ - [https://www.dsautomobiles.com.co](https://www.dsautomobiles.com.co)
+ - date_published: 2024-12-09T11:57:38+00:00
+
+ ## Cursos, especializaciones y diplomados en línea.
+ - [https://ebac.com.co](https://ebac.com.co)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Home Page - Edubar
+ - [https://edubar.com.co](https://edubar.com.co)
+ - date_published: 2024-12-10T05:05:35.332005+00:00
+
+ ## EF Education First | Colombia
+ - [https://ef.com.co](https://ef.com.co)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Giros, pagos y recargas | Efecty
+ - [https://www.efecty.com.co](https://www.efecty.com.co)
+ - date_published: 2024-02-02T02:18:17+00:00
+
+ ## El Catolicismo
+ - [https://elcatolicismo.com.co](https://elcatolicismo.com.co)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## El Diario - Noticias Pereira, Colombia y el Mundo
+ - [https://eldiario.com.co](https://eldiario.com.co)
+ - date_published: 2022-05-25T17:36:39+00:00
+
+ ## El Nuevo Siglo
+ - [https://elnuevosiglo.com.co](https://elnuevosiglo.com.co)
+ - date_published: 2024-06-12T01:29:49.561427+00:00
+
+ ## Noticias de Cali, Valle y Colombia - Periodico: Diario El País
+ - [https://elpais.com.co](https://elpais.com.co)
+ - date_published: 2024-07-21T23:37:30+00:00
+
+ ## Avisos Empleo - Encuentre trabajo en Clasificados El País
+ - [https://empleos.elpais.com.co](https://empleos.elpais.com.co)
+ - date_published: 2024-12-09T16:44:14.745225+00:00
+
+ ## Finca Raíz - Compre, Venda, Alquile - Avisos Clasificados El País
+ - [https://fincaraiz.elpais.com.co](https://fincaraiz.elpais.com.co)
+ - date_published: 2024-12-09T16:43:51.081760+00:00
+
+ ## Carros Nuevos y Usados - Compre, Venda en Clasificados el País
+ - [https://vehiculos.elpais.com.co](https://vehiculos.elpais.com.co)
+ - date_published: 2024-12-09T16:44:33.446814+00:00
+
+ ## El Pilón | Noticias de Valledupar, El Vallenato y el Caribe Colombiano
+ - [https://elpilon.com.co](https://elpilon.com.co)
+ - date_published: 2024-09-10T10:55:07+00:00
+
+ ## El Sol Bogotá EN VIVO 105.4 FM | RCN Radio
+ - [https://elsol.com.co](https://elsol.com.co)
+ - date_published: 2024-09-13T15:38:22.963433+00:00
+
+ ## El Termostato – Publicación digital estudiantil y participativa. Laboratorio pedagógico UGC
+ - [https://eltermostato.com.co](https://eltermostato.com.co)
+ - date_published: 2024-09-12T13:09:34.223409+00:00
+
+ ## Inicio
+ - [https://blogs.eluniversal.com.co](https://blogs.eluniversal.com.co)
+ - date_published: 2024-09-10T12:25:22+00:00
+
+ ## El Universal
+ - [https://eluniversal.com.co](https://eluniversal.com.co)
+ - date_published: 2024-06-12T01:29:33.303148+00:00
+
+ ## Empresas
+ - [https://empresas.eluniversal.com.co](https://empresas.eluniversal.com.co)
+ - date_published: 2024-09-10T12:36:45.456502+00:00
+
+ ## Emagister: Cursos, Carreras y Maestrías presenciales y virtuales
+ - [https://emagister.com.co](https://emagister.com.co)
+ - date_published: 2024-04-10T11:42:46+00:00
+
+ ## Enel Colombia la empresa de energía en Bogotá y Cundinamarca
+ - [https://enel.com.co](https://enel.com.co)
+ - date_published: 2024-06-11T16:44:10+00:00
+
+ ## Normas y especificaciones técnicas de energía | Enel Colombia
+ - [https://likinormas.enelcol.com.co](https://likinormas.enelcol.com.co)
+ - date_published: 2024-09-10T21:28:33.279829+00:00
+
+ ## ESPN Colombia - Lo Último del Mundo Deportivo
+ - [https://espn.com.co](https://espn.com.co)
+ - date_published: 2024-05-02T09:42:15.363121+00:00
+
+ ## Home
+ - [https://estahl.com.co](https://estahl.com.co)
+ - date_published: 2024-12-09T20:56:13.701367+00:00
+
+ ## Inicio - ESU
+ - [http://www.esu.com.co](http://www.esu.com.co)
+ - date_published: 2024-12-09T14:39:15+00:00
+
+ ## FAIA | Fondo de Acceso a Insumos Agropecuarios
+ - [https://faia.com.co](https://faia.com.co)
+ - date_published: 2024-06-12T03:00:47.386985+00:00
+
+ ## Fantástica Medellín EN VIVO 96.9 FM | RCN Radio
+ - [https://fantastica.com.co](https://fantastica.com.co)
+ - date_published: 2024-09-13T15:37:00.255683+00:00
+
+ ## Fiat Colombia: carros, camionetas y repuestos para tu Fiat
+ - [https://fiat.com.co](https://fiat.com.co)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Fiat Store
+ - [https://store.fiat.com.co](https://store.fiat.com.co)
+ - date_published: 2024-10-28T21:34:48.659550+00:00
+
+ ## Fiducoldex
+ - [https://fics.fiducoldex.com.co](https://fics.fiducoldex.com.co)
+ - date_published: 2024-09-10T15:05:03.401742+00:00
+
+ ## Home | Fiducoldex
+ - [https://fiducoldex.com.co](https://fiducoldex.com.co)
+ - date_published: 2024-06-12T02:51:24.331446+00:00
+
+ ## Servicio al Cliente Fiducoldex
+ - [https://pqrsf.fiducoldex.com.co](https://pqrsf.fiducoldex.com.co)
+ - date_published: 2024-09-10T15:05:04.730735+00:00
+
+ ## Fiduciaria Popular | Nueva Alternativa de Inversión - fidupopular.com.co
+ - [https://www.fidupopular.com.co](https://www.fidupopular.com.co)
+ - date_published: 2024-06-12T13:24:10.687966+00:00
+
+ ## Fiesta Bogotá EN VIVO 104.4 FM | RCN Radio
+ - [https://fiesta.com.co](https://fiesta.com.co)
+ - date_published: 2024-09-13T15:49:43.344558+00:00
+
+ ## Fondo para el financiamiento del sector agropecuario | Finagro
+ - [https://finagro.com.co](https://finagro.com.co)
+ - date_published: 2024-09-10T15:33:35+00:00
+
+ ## INICIO | FONTUR
+ - [https://fontur.com.co](https://fontur.com.co)
+ - date_published: 2024-06-12T02:57:12.348492+00:00
+
+ ## Buque carretillas elevadoras, así como maquinaria y equipos para almacenes
+ - [https://forkliftonline.com.co](https://forkliftonline.com.co)
+ - date_published: 2024-12-09T15:26:25.095954+00:00
+
+ ## FranklinCovey Colombia: la compañía de liderazgo más confiable del mundo
+ - [https://franklincovey.com.co](https://franklincovey.com.co)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Contrata a freelancers y encuentra trabajo freelance en línea
+ - [https://freelancer.com.co](https://freelancer.com.co)
+ - date_published: 2024-06-16T12:00:53.472319+00:00
+
+ ## Gestam
+ - [https://analytics.gestam.com.co](https://analytics.gestam.com.co)
+ - date_published: 2024-08-28T15:21:50+00:00
+
+ ## gestionredtecnoparquecolombia.com.co
+ - [https://gestionredtecnoparquecolombia.com.co](https://gestionredtecnoparquecolombia.com.co)
+ - date_published: 2024-12-09T23:31:49.558472+00:00
+
+ ## Descubre las mejores aplicaciones para hacer crecer tu negocio
+ - [https://getapp.com.co](https://getapp.com.co)
+ - date_published: 2024-08-08T18:07:07.939143+00:00
+
+ ## Giant Colombia
+ - [https://giant-bicycles.com.co](https://giant-bicycles.com.co)
+ - date_published: 2024-09-18T00:00:00+00:00
+ - date_dead_since: 2024-12-09T17:07:08.867134+00:00
+
+ ## Giramás
+ - [https://giramas.com.co](https://giramas.com.co)
+ - date_published: 2024-09-10T23:21:01.931939+00:00
+ - date_dead_since: 2024-12-09T17:07:55.520077+00:00
+
+ ## Goldfish agencia líder en Influencer Marketing en Latinoamérica
+ - [https://goldfish.com.co](https://goldfish.com.co)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Google
+ - [https://google.com.co](https://google.com.co)
+ - date_published: 2024-06-12T03:18:34.684846+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.com.co](https://maps.google.com.co)
+ - date_published: 2024-07-20T07:36:05.107429+00:00
+
+ ## Gou
+ - [https://www.goupagos.com.co](https://www.goupagos.com.co)
+ - date_published: 2024-07-20T07:11:05+00:00
+
+ ## Grant Thornton Colombia
+ - [https://grantthornton.com.co](https://grantthornton.com.co)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Home-principal
+ - [https://greatplacetowork.com.co](https://greatplacetowork.com.co)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Grünenthal Colombiana S.A.
+ - [https://grunenthal.com.co](https://grunenthal.com.co)
+ - date_published: 2024-10-16T18:49:31.309370+00:00
+
+ ## {{ngMeta.title}}
+ - [https://hablalo.com.co](https://hablalo.com.co)
+ - date_published: 2022-06-04T19:15:05+00:00
+
+ ## Home
+ - [https://henkel.com.co](https://henkel.com.co)
+ - date_published: 2024-10-18T20:18:04.373728+00:00
+
+ ## Hilti Colombia - Herramientas Eléctricas, Fijaciones y Software para Construcción
+ - [https://hilti.com.co](https://hilti.com.co)
+ - date_published: 2024-06-20T07:27:34.450751+00:00
+
+ ## Hipertexto - Netizen - Hipertexto - Netizen Digital Solutions
+ - [https://hipertexto.com.co](https://hipertexto.com.co)
+ - date_published: 2024-12-10T03:15:02.984628+00:00
+
+ ## Bienvenido a Hotfrog
+ - [https://hotfrog.com.co](https://hotfrog.com.co)
+ - date_published: 2024-06-29T16:51:50.236143+00:00
+
+ ## HOY DIARIO DEL MAGDALENA - Periódico líder de Santa Marta | Noticias Santa Marta
+ - [https://assets.hoydiariodelmagdalena.com.co](https://assets.hoydiariodelmagdalena.com.co)
+ - date_published: 2023-12-29T10:00:23+00:00
+
+ ## HOY DIARIO DEL MAGDALENA - Periódico líder de Santa Marta | Noticias Santa Marta
+ - [https://hoydiariodelmagdalena.com.co](https://hoydiariodelmagdalena.com.co)
+ - date_published: 2023-12-29T10:00:23+00:00
+
+ ## HOY DIARIO DEL MAGDALENA - Periódico líder de Santa Marta | Noticias Santa Marta
+ - [https://media.hoydiariodelmagdalena.com.co](https://media.hoydiariodelmagdalena.com.co)
+ - date_published: 2023-12-29T10:00:23+00:00
+
+ ## IDC Colombia - Inicio - IDC COLOMBIA | Analiza el futuro
+ - [https://idccolombia.com.co](https://idccolombia.com.co)
+ - date_published: 2023-01-16T00:00:00+00:00
+
+ ## Invest in Colombia
+ - [https://inviertaencolombia.com.co](https://inviertaencolombia.com.co)
+ - date_published: 2024-09-10T15:37:42.265704+00:00
+
+ ## IRIS
+ - [https://empresas.iris.com.co](https://empresas.iris.com.co)
+ - date_published: 2024-09-06T00:24:59+00:00
+
+ ## Cuenta para Empresas
+ - [https://iris.com.co](https://iris.com.co)
+ - date_published: 2024-09-10T23:18:26.042604+00:00
+
+ ## ISAGEN Energía Productiva - ISAGEN
+ - [https://isagen.com.co](https://isagen.com.co)
+ - date_published: 2024-09-10T15:05:00.529435+00:00
+
+ ## Javesalud IPS - Javesalud IPS
+ - [https://javesalud.com.co](https://javesalud.com.co)
+ - date_published: 2024-06-07T00:00:00+00:00
+
  ## Jeep®| La marca de camionetas 4x4  Jeep Colombia
  - [https://jeep.com.co](https://jeep.com.co)
  - date_published: 2024-06-19T08:42:10.907657+00:00
@@ -26,6 +296,10 @@
  ## Las Islas Hotel | Barú Cartagena Colombia hotels
  - [https://lasislas.com.co](https://lasislas.com.co)
  - date_published: 2024-06-12T11:02:40.224676+00:00
+
+ ## Librería Lerner, envíos a toda Colombia
+ - [https://www.librerialerner.com.co](https://www.librerialerner.com.co)
+ - date_published: 2024-12-10T02:22:09.604166+00:00
 
  ## LOS40: noticias musicales y radio online con todos los éxitos
  - [https://los40.com.co](https://los40.com.co)
@@ -223,6 +497,10 @@
  ## Philips - Colombia
  - [https://www.philips.com.co](https://www.philips.com.co)
  - date_published: 2024-10-30T09:58:42+00:00
+
+ ## Diseño de sitios Web y Marketing Digital Bogotá PIXELPRO
+ - [https://pixelpro.com.co](https://pixelpro.com.co)
+ - date_published: 2024-12-04T15:46:48+00:00
 
  ## PlanetadeLibros
  - [https://planetadelibros.com.co](https://planetadelibros.com.co)
@@ -495,6 +773,10 @@
  - [http://vanguardialiberal.com.co](http://vanguardialiberal.com.co)
  - date_published: 2024-09-10T12:38:32.819933+00:00
 
+ ## Inicio - VECOL
+ - [https://vecol.com.co](https://vecol.com.co)
+ - date_published: 2024-12-06T20:10:56+00:00
+
  ## Viajes tuplús | Agencia de viajes en línea
  - [https://www.viajestuplus.com.co](https://www.viajestuplus.com.co)
  - date_published: 2024-12-09T17:57:58.192132+00:00
@@ -571,6 +853,10 @@
  - [https://ciec.edu.co](https://ciec.edu.co)
  - date_published: 2024-09-04T00:00:00+00:00
 
+ ## Clínica Universidad de La Sabana
+ - [https://www.clinicaunisabana.edu.co](https://www.clinicaunisabana.edu.co)
+ - date_published: 2024-12-10T03:02:48.333910+00:00
+
  ## Centro Colombo Americano Bogotá | Programas de Inglés
  - [https://colombobogota.edu.co](https://colombobogota.edu.co)
  - date_published: 2024-06-14T00:00:00+00:00
@@ -628,6 +914,10 @@
  - [https://prisma.icfes.edu.co](https://prisma.icfes.edu.co)
  - date_published: 2012-07-13T01:10:59+00:00
 
+ ## Home
+ - [http://www.inalde.edu.co](http://www.inalde.edu.co)
+ - date_published: 2024-12-10T03:02:53.677497+00:00
+
  ## Instituto Caldas | Instituto Caldas Unab
  - [https://www.institutocaldas.edu.co](https://www.institutocaldas.edu.co)
  - date_published: 2024-12-05T17:23:55+00:00
@@ -635,6 +925,10 @@
  ## ispaeducacion.edu.co
  - [https://ispaeducacion.edu.co](https://ispaeducacion.edu.co)
  - date_published: 2024-09-11T01:46:32.802078+00:00
+
+ ## ITM – Institución Universitaria – Reacreditada en Alta Calidad
+ - [http://www.itm.edu.co](http://www.itm.edu.co)
+ - date_published: 2024-12-10T12:21:10.991585+00:00
 
  ## Intranet Javeriana
  - [https://acceso.javeriana.edu.co](https://acceso.javeriana.edu.co)
@@ -919,6 +1213,10 @@
  ## Santoto Virtual, Programas Virtuales
  - [https://santotovirtual.edu.co](https://santotovirtual.edu.co)
  - date_published: 2024-09-10T11:35:50.056661+00:00
+
+ ## Servicio Nacional de Aprendizaje | SENA
+ - [https://www.sena.edu.co](https://www.sena.edu.co)
+ - date_published: 2024-12-10T05:17:24+00:00
 
  ## Campus Virtual - Universidad Cooperativa de Colombia
  - [https://campusvirtual.ucc.edu.co](https://campusvirtual.ucc.edu.co)
@@ -1704,8 +2002,12 @@
  - [http://www.bienestar.unal.edu.co](http://www.bienestar.unal.edu.co)
  - date_published: 2024-12-10T00:56:20.779913+00:00
 
+ ## Apoyos Financieros
+ - [https://financiacion.unbosque.edu.co](https://financiacion.unbosque.edu.co)
+ - date_published: 2024-12-05T15:39:11+00:00
+
  ## Universidad el Bosque
- - [http://www.unbosque.edu.co](http://www.unbosque.edu.co)
+ - [https://www.unbosque.edu.co](https://www.unbosque.edu.co)
  - date_published: 2024-09-10T00:12:05+00:00
 
  ## Academia Institucional | Búsqueda de Profesores
@@ -1724,17 +2026,37 @@
  - [https://apoyofinanciero.uniandes.edu.co](https://apoyofinanciero.uniandes.edu.co)
  - date_published: 2024-07-15T05:47:20+00:00
 
+ ## Facultad de Arquitectura y Diseño | Uniandes
+ - [https://arqdis.uniandes.edu.co](https://arqdis.uniandes.edu.co)
+ - date_published: 2024-12-09T20:58:13+00:00
+
  ## Aspirantes Universidad de los Andes
  - [https://aspirantes.uniandes.edu.co](https://aspirantes.uniandes.edu.co)
  - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Registro Académico
+ - [https://ayr.uniandes.edu.co](https://ayr.uniandes.edu.co)
+ - date_published: 2024-12-10T02:38:09.305194+00:00
 
  ## Sistema de Bibliotecas | Universidad de los Andes
  - [https://biblioteca.uniandes.edu.co](https://biblioteca.uniandes.edu.co)
  - date_published: 2024-07-14T20:00:27+00:00
 
+ ## Home - Biomedical Computer Vision
+ - [https://biomedicalcomputervision.uniandes.edu.co](https://biomedicalcomputervision.uniandes.edu.co)
+ - date_published: 2024-12-10T02:20:51.955629+00:00
+
  ## Sign in to your account
  - [https://bloqueneon.uniandes.edu.co](https://bloqueneon.uniandes.edu.co)
  - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Bienvenidos a la portada
+ - [https://campusinfo.uniandes.edu.co](https://campusinfo.uniandes.edu.co)
+ - date_published: 2024-12-10T02:18:35.923377+00:00
+
+ ## Inicio
+ - [https://centrodeespanol.uniandes.edu.co](https://centrodeespanol.uniandes.edu.co)
+ - date_published: 2024-12-10T02:20:58+00:00
 
  ## Cerosetenta, periodismo independiente
  - [https://cerosetenta.uniandes.edu.co](https://cerosetenta.uniandes.edu.co)
@@ -1743,6 +2065,30 @@
  ## CinfonIA
  - [https://cinfonia.uniandes.edu.co](https://cinfonia.uniandes.edu.co)
  - date_published: 2024-08-07T14:38:53.699153+00:00
+
+ ## Inicio Orión
+ - [https://comunidadorion.uniandes.edu.co](https://comunidadorion.uniandes.edu.co)
+ - date_published: 2024-12-06T16:45:02+00:00
+
+ ## Home - Conecta-TE | Universidad de los Andes
+ - [https://conectate.uniandes.edu.co](https://conectate.uniandes.edu.co)
+ - date_published: 2024-12-10T02:20:55.165915+00:00
+
+ ## Consultorio Jurídico | Universidad de los Andes
+ - [https://consultoriojuridico.uniandes.edu.co](https://consultoriojuridico.uniandes.edu.co)
+ - date_published: 2024-12-10T02:37:24.317816+00:00
+
+ ## CoreFacilities | Uniandes
+ - [https://corefacilities.uniandes.edu.co](https://corefacilities.uniandes.edu.co)
+ - date_published: 2019-09-05T08:43:56+00:00
+
+ ## Inicio
+ - [https://ctp.uniandes.edu.co](https://ctp.uniandes.edu.co)
+ - date_published: 2024-12-09T22:49:22+00:00
+
+ ## Home
+ - [http://cultura.uniandes.edu.co](http://cultura.uniandes.edu.co)
+ - date_published: 2024-12-09T23:48:57+00:00
 
  ## Inicio
  - [https://decanaturadeestudiantes.uniandes.edu.co](https://decanaturadeestudiantes.uniandes.edu.co)
@@ -1760,6 +2106,10 @@
  - [https://educacioncontinua.uniandes.edu.co](https://educacioncontinua.uniandes.edu.co)
  - date_published: 2024-07-15T05:03:38+00:00
 
+ ## Guía de beneficios y servicios para Egresados
+ - [http://egresados.uniandes.edu.co](http://egresados.uniandes.edu.co)
+ - date_published: 2024-12-10T02:38:35.549617+00:00
+
  ## Uniandes - Eventos
  - [https://eventos.uniandes.edu.co](https://eventos.uniandes.edu.co)
  - date_published: 2023-09-18T16:06:33+00:00
@@ -1772,9 +2122,21 @@
  - [https://ghdo.uniandes.edu.co](https://ghdo.uniandes.edu.co)
  - date_published: 2018-08-07T14:10:37+00:00
 
+ ## Inicio
+ - [https://ingenieria.uniandes.edu.co](https://ingenieria.uniandes.edu.co)
+ - date_published: 2024-12-09T15:12:05+00:00
+
+ ## Inicio
+ - [https://internacionalizacion.uniandes.edu.co](https://internacionalizacion.uniandes.edu.co)
+ - date_published: 2024-12-10T02:24:19+00:00
+
  ## Vicerrectoría de Investigación y Creación
  - [https://investigacioncreacion.uniandes.edu.co](https://investigacioncreacion.uniandes.edu.co)
  - date_published: 2024-07-14T20:57:28+00:00
+
+ ## Home - Tienda Online - Ediciones Uniandes
+ - [https://librosimpresos.uniandes.edu.co](https://librosimpresos.uniandes.edu.co)
+ - date_published: 2024-12-10T02:23:52.214810+00:00
 
  ## Inicio
  - [https://matriculas.uniandes.edu.co](https://matriculas.uniandes.edu.co)
@@ -1784,9 +2146,21 @@
  - [https://moocs.uniandes.edu.co](https://moocs.uniandes.edu.co)
  - date_published: 2024-07-15T05:47:33.814645+00:00
 
+ ## No estás Solx
+ - [https://noestassolo.uniandes.edu.co](https://noestassolo.uniandes.edu.co)
+ - date_published: 2024-12-06T10:18:35+00:00
+
+ ## Home
+ - [https://oficinadeproyectos.uniandes.edu.co](https://oficinadeproyectos.uniandes.edu.co)
+ - date_published: 2024-12-10T02:36:51+00:00
+
  ## Inicio - Ombudsperson | Uniandes
  - [https://ombudsperson.uniandes.edu.co](https://ombudsperson.uniandes.edu.co)
  - date_published: 2024-07-15T05:48:42+00:00
+
+ ## PDI 21-25
+ - [https://pdi2125.uniandes.edu.co](https://pdi2125.uniandes.edu.co)
+ - date_published: 2024-12-10T02:24:55+00:00
 
  ## Dirección de Planeación y Evaluación | Uniandes - Dirección de Planeación y Evaluación | Universidad de los Andes
  - [https://planeacion.uniandes.edu.co](https://planeacion.uniandes.edu.co)
@@ -1812,24 +2186,92 @@
  - [https://servicios.uniandes.edu.co](https://servicios.uniandes.edu.co)
  - date_published: 2024-04-01T00:00:00+00:00
 
+ ## Sostenibilidad | Universidad de los Andes
+ - [https://sostenibilidad.uniandes.edu.co](https://sostenibilidad.uniandes.edu.co)
+ - date_published: 2024-12-10T02:24:42+00:00
+
+ ## Inicio - Tecnología | Uniandes
+ - [https://tecnologia.uniandes.edu.co](https://tecnologia.uniandes.edu.co)
+ - date_published: 2024-11-27T22:29:28+00:00
+
+ ## Tienda
+ - [https://tienda.uniandes.edu.co](https://tienda.uniandes.edu.co)
+ - date_published: 2024-12-10T02:22:15.421290+00:00
+
+ ## Transferencia Uniandes - Inicio | Transferencia Uniandes
+ - [https://transferencia.uniandes.edu.co](https://transferencia.uniandes.edu.co)
+ - date_published: 2024-12-10T02:23:27+00:00
+
  ## Universidad de los Andes - Colombia - Sitio oficial
  - [https://uniandes.edu.co](https://uniandes.edu.co)
  - date_published: 2024-05-12T05:24:42.257074+00:00
+
+ ## Uso de datos personales | Uniandes
+ - [https://usodedatospersonales.uniandes.edu.co](https://usodedatospersonales.uniandes.edu.co)
+ - date_published: 2024-12-10T02:37:41+00:00
+
+ ## Home
+ - [https://vde.uniandes.edu.co](https://vde.uniandes.edu.co)
+ - date_published: 2024-12-10T02:41:00.605308+00:00
 
  ## Vivienda Uniandes  | Tu Vivienda Universitaria
  - [https://vivienda.uniandes.edu.co](https://vivienda.uniandes.edu.co)
  - date_published: 2024-07-15T05:48:48.015078+00:00
 
+ ## Welcome to XAMPP
+ - [https://centrodeatencionalusuario.uniempresarial.edu.co](https://centrodeatencionalusuario.uniempresarial.edu.co)
+ - date_published: 2022-05-16T07:21:08+00:00
+
+ ## Welcome to XAMPP
+ - [https://helpdesk.uniempresarial.edu.co](https://helpdesk.uniempresarial.edu.co)
+ - date_published: 2022-05-16T07:21:08+00:00
+
  ## Success!
- - [https://www.uniempresarial.edu.co](https://www.uniempresarial.edu.co)
+ - [https://uniempresarial.edu.co](https://uniempresarial.edu.co)
  - date_published: 2024-06-01T18:41:26+00:00
+
+ ## Accede a Student Welfare Department - Universidad del Magdalena
+ - [http://bienestar.unimagdalena.edu.co](http://bienestar.unimagdalena.edu.co)
+ - date_published: 2024-12-10T02:44:13.765060+00:00
+
+ ## Bloque 10 - Ecosistema digital de aprendizaje
+ - [https://bloque10.unimagdalena.edu.co](https://bloque10.unimagdalena.edu.co)
+ - date_published: 2020-06-23T16:41:47+00:00
+
+ ## CDN Unimagdalena
+ - [https://cdn.unimagdalena.edu.co](https://cdn.unimagdalena.edu.co)
+ - date_published: 2019-06-14T15:54:44+00:00
 
  ## Consultas Universidad del Magdalena
  - [https://consulta.unimagdalena.edu.co](https://consulta.unimagdalena.edu.co)
  - date_published: 2024-12-09T17:13:05.421799+00:00
 
+ ## Inicio - Consultorio Juridico - Centro de Conciliación
+ - [http://consultorio.unimagdalena.edu.co](http://consultorio.unimagdalena.edu.co)
+ - date_published: 2024-12-10T02:42:41.291051+00:00
+
+ ## Editorial Unimagdalena
+ - [http://editorial.unimagdalena.edu.co](http://editorial.unimagdalena.edu.co)
+ - date_published: 2024-12-10T02:44:02.000441+00:00
+
+ ## Sistema para la gestión de solicitudes
+ - [http://gairaca.unimagdalena.edu.co](http://gairaca.unimagdalena.edu.co)
+ - date_published: 2024-12-10T02:43:04.284504+00:00
+
+ ## Investigación Unimagdalena
+ - [http://investigacion.unimagdalena.edu.co](http://investigacion.unimagdalena.edu.co)
+ - date_published: 2024-12-10T02:44:49.635354+00:00
+
+ ## Pagos en línea Unimagdalena
+ - [https://pse.unimagdalena.edu.co](https://pse.unimagdalena.edu.co)
+ - date_published: 2024-12-10T02:44:19.227911+00:00
+
+ ## Página institucional Universidad del Magdalena
+ - [http://radio.unimagdalena.edu.co](http://radio.unimagdalena.edu.co)
+ - date_published: 2024-12-10T02:44:53.319877+00:00
+
  ## Universidad del Magdalena
- - [https://www.unimagdalena.edu.co](https://www.unimagdalena.edu.co)
+ - [https://unimagdalena.edu.co](https://unimagdalena.edu.co)
  - date_published: 2024-09-10T21:33:08.193066+00:00
 
  ## Authentication - GLPI
@@ -1840,16 +2282,28 @@
  - [https://unimonserrate.edu.co](https://unimonserrate.edu.co)
  - date_published: 2024-06-11T23:46:10.767473+00:00
 
+ ## Catálogo Editorial UNINORTE - Uninorte
+ - [https://editorial.uninorte.edu.co](https://editorial.uninorte.edu.co)
+ - date_published: 2024-12-10T03:00:49.459985+00:00
+
  ## Uninorte - Educación superior de excelencia en Colombia - Uninorte
- - [https://www.uninorte.edu.co](https://www.uninorte.edu.co)
+ - [https://uninorte.edu.co](https://uninorte.edu.co)
  - date_published: 2024-09-10T21:33:02.022186+00:00
+
+ ## Posgrados y diplomados virtuales | Uninorte virtual
+ - [https://virtual.uninorte.edu.co](https://virtual.uninorte.edu.co)
+ - date_published: 2024-09-13T14:39:23+00:00
 
  ## DSpace Home
  - [https://intellectum.unisabana.edu.co](https://intellectum.unisabana.edu.co)
  - date_published: 2024-09-11T16:52:19.832443+00:00
 
+ ## Inicio - Dirección de Publicaciones - Universidad de La Sabana
+ - [https://publicaciones.unisabana.edu.co](https://publicaciones.unisabana.edu.co)
+ - date_published: 2024-12-08T14:02:52+00:00
+
  ## Universidad de La Sabana - Colombia
- - [https://www.unisabana.edu.co](https://www.unisabana.edu.co)
+ - [https://unisabana.edu.co](https://unisabana.edu.co)
  - date_published: 2024-09-10T15:32:59.079942+00:00
 
  ## Admisiones UPN
@@ -1863,6 +2317,10 @@
  ## Centro de Lenguas UPN
  - [https://centrodelenguas.upn.edu.co](https://centrodelenguas.upn.edu.co)
  - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Editorial Universidad Pedagógica de Colombia
+ - [https://editorial.upn.edu.co](https://editorial.upn.edu.co)
+ - date_published: 2024-12-10T03:06:13.696844+00:00
 
  ## ::Administrador Identidad UPN::
  - [https://estilos.upn.edu.co](https://estilos.upn.edu.co)
@@ -1879,6 +2337,10 @@
  ## Campus Virtual - Universidad del Rosario | campus
  - [https://campusvirtual.urosario.edu.co](https://campusvirtual.urosario.edu.co)
  - date_published: 2024-09-10T11:03:06.465120+00:00
+
+ ## Editorial Universidad del Rosario
+ - [https://ebook.urosario.edu.co](https://ebook.urosario.edu.co)
+ - date_published: 2024-12-10T03:14:52.299415+00:00
 
  ## Editorial Universidad del Rosario
  - [https://editorial.urosario.edu.co](https://editorial.urosario.edu.co)
@@ -1904,6 +2366,10 @@
  - [https://urosario.edu.co](https://urosario.edu.co)
  - date_published: 2024-06-11T21:10:07+00:00
 
+ ## Home | Moodle Santoto
+ - [https://aulavirtual.usantotomas.edu.co](https://aulavirtual.usantotomas.edu.co)
+ - date_published: 2024-12-10T03:24:40+00:00
+
  ## Universidad Santo Tomás
  - [https://csa.usantotomas.edu.co](https://csa.usantotomas.edu.co)
  - date_published: 2024-09-10T11:36:18.687129+00:00
@@ -1921,7 +2387,7 @@
  - date_published: 2024-06-11T22:22:48+00:00
 
  ## Repositorio Institucional Universidad Sergio Arboleda
- - [http://repository.usergioarboleda.edu.co](http://repository.usergioarboleda.edu.co)
+ - [https://repository.usergioarboleda.edu.co](https://repository.usergioarboleda.edu.co)
  - date_published: 2024-09-11T16:51:55.197064+00:00
 
  ## Universidad Sergio Arboleda
@@ -1936,17 +2402,41 @@
  - [https://antiguoportal.usta.edu.co](https://antiguoportal.usta.edu.co)
  - date_published: 2024-09-10T11:36:09.786069+00:00
 
+ ## AUDITORÍA INTERNA - USTA - Inicio
+ - [https://auditoriainterna.usta.edu.co](https://auditoriainterna.usta.edu.co)
+ - date_published: 2024-12-10T04:27:52+00:00
+
  ## BIENESTAR INSTITUCIONAL - USTA - Inicio
  - [https://bienestarinstitucional.usta.edu.co](https://bienestarinstitucional.usta.edu.co)
  - date_published: 2024-09-10T11:35:41+00:00
+
+ ## Tomás Noticias
+ - [https://blog.usta.edu.co](https://blog.usta.edu.co)
+ - date_published: 2024-12-09T20:41:47+00:00
 
  ## Sedes y Seccionales WRAPPER articulo
  - [https://campusvirtual.usta.edu.co](https://campusvirtual.usta.edu.co)
  - date_published: 2024-09-10T11:36:04+00:00
 
+ ## CIENCIAS BÁSICAS - USTA - Inicio
+ - [https://cienciasbasicas.usta.edu.co](https://cienciasbasicas.usta.edu.co)
+ - date_published: 2024-12-10T04:26:45+00:00
+
  ## CILCE | SANTOTO - Inicio
  - [https://cilce.usta.edu.co](https://cilce.usta.edu.co)
  - date_published: 2024-09-10T11:36:14+00:00
+
+ ## Plataforma de Coordinación de Programas
+ - [http://coordinacionprogramas.usta.edu.co](http://coordinacionprogramas.usta.edu.co)
+ - date_published: 2024-12-10T04:15:32+00:00
+
+ ## COPASST - USTA - INICIO
+ - [https://copasst.usta.edu.co](https://copasst.usta.edu.co)
+ - date_published: 2024-12-10T04:29:15+00:00
+
+ ## CRAI - USTA - CRAI-USTA
+ - [http://crai.usta.edu.co](http://crai.usta.edu.co)
+ - date_published: 2024-12-10T04:15:29+00:00
 
  ## EDUCACIÓN CONTINUA | USTA - INICIO
  - [https://educacioncontinua.usta.edu.co](https://educacioncontinua.usta.edu.co)
@@ -1959,6 +2449,14 @@
  ## Inicio
  - [https://evangelizacion.usta.edu.co](https://evangelizacion.usta.edu.co)
  - date_published: 2018-02-22T07:16:05+00:00
+
+ ## HUMANIDADES - Santoto - Inicio
+ - [https://humanidades.usta.edu.co](https://humanidades.usta.edu.co)
+ - date_published: 2024-12-10T04:29:13+00:00
+
+ ## IESHFAZ - USTA - Inicio
+ - [https://ieshfaz.usta.edu.co](https://ieshfaz.usta.edu.co)
+ - date_published: 2024-12-10T04:32:07+00:00
 
  ## Inicio
  - [https://inclusion.usta.edu.co](https://inclusion.usta.edu.co)
@@ -1984,6 +2482,10 @@
  - [https://santoto-services.usta.edu.co](https://santoto-services.usta.edu.co)
  - date_published: 2018-02-22T07:16:05+00:00
 
+ ## Inicio Talento Humano
+ - [https://talentohumano.usta.edu.co](https://talentohumano.usta.edu.co)
+ - date_published: 2024-12-10T04:26:10+00:00
+
  ## Tomás Noticias
  - [https://tomasnoticias.usta.edu.co](https://tomasnoticias.usta.edu.co)
  - date_published: 2024-09-09T22:53:31+00:00
@@ -2004,9 +2506,17 @@
  - [https://vivelareacreditacion.usta.edu.co](https://vivelareacreditacion.usta.edu.co)
  - date_published: 2024-09-10T11:35:32+00:00
 
+ ## CENTRO DE DISEÑO E IMAGEN INSTITUCIONAL Y COMUNICACIONES- CEDII - Inicio
+ - [https://cedii.ustabuca.edu.co](https://cedii.ustabuca.edu.co)
+ - date_published: 2024-12-10T04:30:19+00:00
+
  ## Universidad Santo Tomás
  - [https://www.ustabuca.edu.co](https://www.ustabuca.edu.co)
  - date_published: 2024-12-09T19:48:27+00:00
+
+ ## Universidad Santo Tomás Medellín
+ - [https://ustamed.edu.co](https://ustamed.edu.co)
+ - date_published: 2024-12-10T04:31:31.941961+00:00
 
  ## Universidad Santo Tomás Medellín
  - [http://www.ustamed.edu.co](http://www.ustamed.edu.co)
@@ -2015,6 +2525,10 @@
  ## USTA
  - [http://www.ustavillavicencio.edu.co](http://www.ustavillavicencio.edu.co)
  - date_published: 2024-12-09T19:48:39+00:00
+
+ ## Universidad de Bogotá Jorge Tadeo Lozano
+ - [https://appsia.utadeo.edu.co](https://appsia.utadeo.edu.co)
+ - date_published: 2024-12-10T04:23:51+00:00
 
  ## Entra - Intranet Tadeísta
  - [https://entra.utadeo.edu.co](https://entra.utadeo.edu.co)
@@ -2041,20 +2555,21 @@
  - date_published: 2024-09-10T13:32:09.266634+00:00
 
  ## Academia Bogotá Productiva
- - [https://www.academiabogotaproductiva.gov.co](https://www.academiabogotaproductiva.gov.co)
+ - [https://academiabogotaproductiva.gov.co](https://academiabogotaproductiva.gov.co)
  - date_published: 2024-07-06T05:02:05+00:00
 
  ## Agencia de Desarrollo Rural
- - [http://www.adr.gov.co](http://www.adr.gov.co)
+ - [https://www.adr.gov.co](https://www.adr.gov.co)
  - date_published: 2024-09-10T15:38:46.110370+00:00
+
+ ## Página de inicio Aerocivil
+ - [https://aerocivil.gov.co](https://aerocivil.gov.co)
+ - date_published: 2024-06-12T00:00:00+00:00
 
  ## Error 403
  - [http://intranet.aerocivil.gov.co](http://intranet.aerocivil.gov.co)
  - date_published: 2024-09-11T17:02:41.862093+00:00
-
- ## Página de inicio Aerocivil
- - [https://www.aerocivil.gov.co](https://www.aerocivil.gov.co)
- - date_published: 2024-06-12T00:00:00+00:00
+ - date_dead_since: 2024-12-10T04:38:21.536334+00:00
 
  ## Agronet
             
@@ -2076,7 +2591,7 @@
  - date_published: 2024-06-12T03:14:46.153250+00:00
 
  ## CIMAB
- - [http://cimab.ambientebogota.gov.co](http://cimab.ambientebogota.gov.co)
+ - [https://cimab.ambientebogota.gov.co](https://cimab.ambientebogota.gov.co)
  - date_published: 2024-09-10T10:17:21.789380+00:00
 
  ## Secretaría Distrital de Ambiente
@@ -2095,9 +2610,21 @@
  - [https://visorgeo.ambientebogota.gov.co](https://visorgeo.ambientebogota.gov.co)
  - date_published: 2024-04-23T00:00:00+00:00
 
+ ## Area Metropolitana De Barranquilla
+ - [https://www.ambq.gov.co](https://www.ambq.gov.co)
+ - date_published: 2024-12-10T05:05:31.063891+00:00
+
+ ## Inicio | Agencia Nacional Digital
+ - [https://and.gov.co](https://and.gov.co)
+ - date_published: 2024-12-10T04:53:08.066827+00:00
+
  ## Autenticacion Digital
  - [https://autenticaciondigital.and.gov.co](https://autenticaciondigital.and.gov.co)
  - date_published: 2024-09-12T14:13:45.208552+00:00
+
+ ## Carpeta Ciudadana Digital
+ - [https://carpetaciudadana.and.gov.co](https://carpetaciudadana.and.gov.co)
+ - date_published: 2024-12-06T00:38:05+00:00
 
  ## Home
                 
@@ -2105,12 +2632,16 @@
             
                 
                 - Agencia Nacional de Hidrocarburos
- - [http://www.anh.gov.co](http://www.anh.gov.co)
+ - [https://anh.gov.co](https://anh.gov.co)
  - date_published: 2024-09-10T15:09:10.803579+00:00
 
  ## Instituto Distrital de Bienestar y Protección Animal | Alcaldía Mayor de Bogotá
  - [https://animalesbog.gov.co](https://animalesbog.gov.co)
  - date_published: 2024-06-11T23:14:58.019194+00:00
+
+ ## Aula Vitual ANLA
+ - [https://gaceta.anla.gov.co](https://gaceta.anla.gov.co)
+ - date_published: 2024-12-10T04:55:04+00:00
 
  ## Inicio
  - [https://www.anla.gov.co](https://www.anla.gov.co)
@@ -2132,6 +2663,10 @@
  - [https://archivogeneral.gov.co](https://archivogeneral.gov.co)
  - date_published: 2024-06-11T00:00:00+00:00
 
+ ## Catálogo en línea Biblioteca Archivo General de la Nación
+ - [https://biblioteca.archivogeneral.gov.co](https://biblioteca.archivogeneral.gov.co)
+ - date_published: 2024-12-10T04:54:39+00:00
+
  ## Home | E-learning del AGN
  - [https://cursosvirtuales.archivogeneral.gov.co](https://cursosvirtuales.archivogeneral.gov.co)
  - date_published: 2024-09-10T14:34:53+00:00
@@ -2149,7 +2684,7 @@
  - date_published: 2024-09-10T14:34:50.765695+00:00
 
  ## Aunap
- - [http://www.aunap.gov.co](http://www.aunap.gov.co)
+ - [https://aunap.gov.co](https://aunap.gov.co)
  - date_published: 2024-09-10T14:59:53+00:00
 
  ## Inicio | Banco Agrario de Colombia
@@ -2157,12 +2692,28 @@
  - date_published: 2024-06-12T10:31:56.331252+00:00
 
  ## Inicio | Banco de la República
- - [https://www.banrep.gov.co](https://www.banrep.gov.co)
+ - [https://banrep.gov.co](https://banrep.gov.co)
  - date_published: 2024-09-10T23:02:28.429903+00:00
 
+ ## Portal de Investigaciones Económicas |
+ - [https://investiga.banrep.gov.co](https://investiga.banrep.gov.co)
+ - date_published: 2024-12-10T05:03:56.066066+00:00
+
+ ## DSpace :: Home
+ - [https://repositorio.banrep.gov.co](https://repositorio.banrep.gov.co)
+ - date_published: 2024-12-10T05:04:21.286215+00:00
+
+ ## Sede Electrónica de la Alcaldía de Barrancabermeja
+ - [https://www.barrancabermeja.gov.co](https://www.barrancabermeja.gov.co)
+ - date_published: 2024-12-10T05:01:08.997269+00:00
+
  ## Alcaldía de Barranquilla, Distrito Especial, Industrial y Portuario
- - [https://www.barranquilla.gov.co](https://www.barranquilla.gov.co)
+ - [https://barranquilla.gov.co](https://barranquilla.gov.co)
  - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Inicio Barranquilla Verde - Establecimiento Público Ambiental
+ - [http://barranquillaverde.gov.co](http://barranquillaverde.gov.co)
+ - date_published: 2024-11-22T19:07:54+00:00
 
  ## Biblioteca Digital de Bogotá
  - [https://bibliotecadigitaldebogota.gov.co](https://bibliotecadigitaldebogota.gov.co)
@@ -2173,7 +2724,7 @@
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## Catálogo - Biblioteca Nacional de Colombia
- - [http://catalogoenlinea.bibliotecanacional.gov.co](http://catalogoenlinea.bibliotecanacional.gov.co)
+ - [https://catalogoenlinea.bibliotecanacional.gov.co](https://catalogoenlinea.bibliotecanacional.gov.co)
  - date_published: 2024-09-10T14:35:03.096994+00:00
 
  ## Aula Tic BibloRed
@@ -2223,18 +2774,47 @@
  ## SUDIVC v1.1.8
  - [https://sudivc.bogota.gov.co](https://sudivc.bogota.gov.co)
  - date_published: 2024-08-02T16:42:36+00:00
+ - date_dead_since: 2024-12-10T05:16:23.277736+00:00
 
  ## Home | Sedes Elecrónicas - Entorno de Desarrollo Local
- - [http://tic.bogota.gov.co](http://tic.bogota.gov.co)
+ - [https://tic.bogota.gov.co](https://tic.bogota.gov.co)
  - date_published: 2024-08-11T04:20:29.046031+00:00
 
  ## Bogotá Trabaja – Somos la Agencia Distrital de Empleo. Nuestro objetivo es fortalecer el perfil laboral de las personas conectándolas con oportunidades de trabajo formal y digno.
  - [https://bogotatrabaja.gov.co](https://bogotatrabaja.gov.co)
  - date_published: 2024-08-11T04:19:36.447195+00:00
 
+ ## Boyacá 95.6 fm - Emisora de la Gobernación de Boyacá. Radio En Vivo.
+ - [https://956fm.boyaca.gov.co](https://956fm.boyaca.gov.co)
+ - date_published: 2024-12-10T05:19:43.104575+00:00
+
  ## Boyacá - Gobernación de Boyacá
- - [https://www.boyaca.gov.co](https://www.boyaca.gov.co)
+ - [https://boyaca.gov.co](https://boyaca.gov.co)
  - date_published: 2024-09-10T12:45:55.166006+00:00
+
+ ## Home | MOOC
+ - [https://cursosmooc.boyaca.gov.co](https://cursosmooc.boyaca.gov.co)
+ - date_published: 2024-12-10T05:19:45+00:00
+
+ ## Quyne
+ - [http://isolucion.boyaca.gov.co](http://isolucion.boyaca.gov.co)
+ - date_published: 2024-12-10T05:18:07.073987+00:00
+
+ ## Observatorio Regional del Mercado de Trabajo de Boyacá
+ - [https://ormet.boyaca.gov.co](https://ormet.boyaca.gov.co)
+ - date_published: 2024-12-10T05:18:14.566107+00:00
+
+ ## “El desarrollo es una responsabilidad de todas y todos”: Secretario de Planeación de Boyacá
+ - [https://planeacion.boyaca.gov.co](https://planeacion.boyaca.gov.co)
+ - date_published: 2024-12-10T05:18:39.725965+00:00
+
+ ## Quyne
+ - [http://quyne.boyaca.gov.co](http://quyne.boyaca.gov.co)
+ - date_published: 2024-12-10T05:18:33.895322+00:00
+
+ ## Quyne
+ - [https://vur.boyaca.gov.co](https://vur.boyaca.gov.co)
+ - date_published: 2024-12-10T05:18:11.367094+00:00
 
  ## Bronx Distrito Creativo
  - [https://bronxdistritocreativo.gov.co](https://bronxdistritocreativo.gov.co)
@@ -2251,6 +2831,7 @@
  ## RITA
  - [https://canaldenuncia.bucaramanga.gov.co](https://canaldenuncia.bucaramanga.gov.co)
  - date_published: 2024-06-12T06:12:29.901598+00:00
+ - date_dead_since: 2024-12-10T05:27:43.670871+00:00
 
  ## Cupos Escolares
  - [https://cuposescolares.bucaramanga.gov.co](https://cuposescolares.bucaramanga.gov.co)
@@ -2259,10 +2840,12 @@
  ## Bucaramanga en Acción - Alcaldía de Bucaramanga
  - [https://emergencia.bucaramanga.gov.co](https://emergencia.bucaramanga.gov.co)
  - date_published: 2024-06-12T06:12:27.329673+00:00
+ - date_dead_since: 2024-12-10T05:33:49.954822+00:00
 
  ## Intranet
  - [https://intranet.bucaramanga.gov.co](https://intranet.bucaramanga.gov.co)
  - date_published: 2024-06-12T06:12:43.447784+00:00
+ - date_dead_since: 2024-12-10T05:49:11.929317+00:00
 
  ## WEB SIGC
  - [https://nube.bucaramanga.gov.co](https://nube.bucaramanga.gov.co)
@@ -2287,9 +2870,10 @@
  ## Buscador de Empleo
  - [https://buscadordeempleo.gov.co](https://buscadordeempleo.gov.co)
  - date_published: 2024-05-29T01:51:43+00:00
+ - date_dead_since: 2024-12-10T05:54:30.277056+00:00
 
  ## CAJA DE LA VIVIENDA POPULAR | CAJA DE LA VIVIENDA POPULAR
- - [https://www.cajaviviendapopular.gov.co](https://www.cajaviviendapopular.gov.co)
+ - [https://cajaviviendapopular.gov.co](https://cajaviviendapopular.gov.co)
  - date_published: 2024-07-20T23:31:27+00:00
 
  ## Alcaldía de Caldas
@@ -2303,18 +2887,28 @@
  ## Test Page for the Apache HTTP Server
  - [https://imagenes.canalcapital.gov.co](https://imagenes.canalcapital.gov.co)
  - date_published: 2024-08-13T20:15:43+00:00
+ - date_dead_since: 2024-12-10T06:04:16.789513+00:00
 
  ## Cancillería | Ministerio de Relaciones Exteriores de Colombia
  - [https://cancilleria.gov.co](https://cancilleria.gov.co)
  - date_published: 2024-06-12T02:56:54.911176+00:00
 
  ## Capital Salud EPS-S – Sector de Salud
- - [http://www.capitalsalud.gov.co](http://www.capitalsalud.gov.co)
+ - [https://capitalsalud.gov.co](https://capitalsalud.gov.co)
  - date_published: 2024-07-22T18:31:45.964289+00:00
+
+ ## Ingresar – Intranet Capital Salud
+ - [https://red.capitalsalud.gov.co](https://red.capitalsalud.gov.co)
+ - date_published: 2024-12-10T06:11:10.883509+00:00
+
+ ## Sede Electrónica
+ - [https://sedeelec.capitalsalud.gov.co](https://sedeelec.capitalsalud.gov.co)
+ - date_published: 2024-08-29T10:04:36+00:00
 
  ## APLICAR - CAR de Cundinamarca
  - [https://bicicar.car.gov.co](https://bicicar.car.gov.co)
  - date_published: 2019-11-09T01:40:28+00:00
+ - date_dead_since: 2024-12-10T06:06:06.197050+00:00
 
  ## Congreso Ambiental CAR – Congreso ambiental realizado por la Corporación Autónoma Regional de Cundinamarca – CAR.
  - [https://congresoambiental.car.gov.co](https://congresoambiental.car.gov.co)
@@ -2326,7 +2920,7 @@
  - date_published: 2024-06-11T23:31:31.565150+00:00
 
  ## Lluvia Para La Vida
- - [http://lluviaparalavida.car.gov.co](http://lluviaparalavida.car.gov.co)
+ - [https://lluviaparalavida.car.gov.co](https://lluviaparalavida.car.gov.co)
  - date_published: 2023-12-21T00:36:02+00:00
 
  ## Negocios Verdes - versión 2.15.0
@@ -2336,6 +2930,7 @@
  ## .: Observatorio de Agendas Interinstitucionales Ambientales :.
  - [https://oaica.car.gov.co](https://oaica.car.gov.co)
  - date_published: 2024-06-11T23:14:07.573884+00:00
+ - date_dead_since: 2024-12-10T06:17:26.846264+00:00
 
  ## Parques C.A.R
  - [https://parques.car.gov.co](https://parques.car.gov.co)
@@ -2350,7 +2945,7 @@
  - date_published: 2024-06-11T23:30:56.397533+00:00
 
  ## Invalid Connection
- - [http://sigam.car.gov.co](http://sigam.car.gov.co)
+ - [https://sigam.car.gov.co](https://sigam.car.gov.co)
  - date_published: 2024-06-11T23:31:05.584894+00:00
 
  ## SIGCI
@@ -2358,7 +2953,7 @@
  - date_published: 2024-06-11T23:31:02.233558+00:00
 
  ## SI Rio Bogota
- - [http://siriobogota.car.gov.co](http://siriobogota.car.gov.co)
+ - [https://siriobogota.car.gov.co](https://siriobogota.car.gov.co)
  - date_published: 2023-07-21T22:44:28+00:00
 
  ## Inicio 
@@ -2381,10 +2976,12 @@
  ## Inicio
  - [https://cycradio.caroycuervo.gov.co](https://cycradio.caroycuervo.gov.co)
  - date_published: 2024-09-10T14:47:12.864811+00:00
+ - date_dead_since: 2024-12-10T06:21:28.048333+00:00
 
  ## Inicio - Portal de Lenguas de Colombia: Diversidad y contacto
  - [https://lenguasyliteraturasnativas.caroycuervo.gov.co](https://lenguasyliteraturasnativas.caroycuervo.gov.co)
  - date_published: 2024-09-10T14:45:45.266687+00:00
+ - date_dead_since: 2024-12-10T06:21:30.478136+00:00
 
  ## Maestrias, Instituto Caro y Cuervo
  - [https://maestrias.caroycuervo.gov.co](https://maestrias.caroycuervo.gov.co)
@@ -2413,14 +3010,17 @@
  ## Instituto Caro y Cuervo - Centro colombiano de altos estudios
  - [https://www.caroycuervo.gov.co](https://www.caroycuervo.gov.co)
  - date_published: 2024-06-05T00:00:00+00:00
+ - date_dead_since: 2024-12-10T06:31:55.582836+00:00
 
  ## Casur
  - [https://www.casur.gov.co](https://www.casur.gov.co)
  - date_published: 2024-08-11T04:20:32.458263+00:00
+ - date_dead_since: 2024-12-10T06:33:38.234795+00:00
 
  ## Catastro en Línea
  - [https://catastroenlinea.catastrobogota.gov.co](https://catastroenlinea.catastrobogota.gov.co)
  - date_published: 2024-07-12T20:56:18+00:00
+ - date_dead_since: 2024-12-10T06:38:39.238149+00:00
 
  ## Inicio | Go Catastral
  - [https://gocatastral.catastrobogota.gov.co](https://gocatastral.catastrobogota.gov.co)
@@ -2433,6 +3033,11 @@
  ## Catastro Multipropósito
  - [https://catastromultiproposito.gov.co](https://catastromultiproposito.gov.co)
  - date_published: 2024-06-12T00:00:00+00:00
+ - date_dead_since: 2024-12-10T06:39:37.023365+00:00
+
+ ## Catastro Multipropósito
+ - [https://www.catastromultiproposito.gov.co](https://www.catastromultiproposito.gov.co)
+ - date_published: 2024-12-10T09:53:50+00:00
 
  ## Centro de relevo
  - [https://centroderelevo.gov.co](https://centroderelevo.gov.co)
@@ -2442,9 +3047,17 @@
  - [http://centromemoria.gov.co](http://centromemoria.gov.co)
  - date_published: 2024-06-11T23:18:18.571506+00:00
 
+ ## CESAP -Centro de Bienestar y Recreación para Agentes de Policía
+ - [https://cesap.gov.co](https://cesap.gov.co)
+ - date_published: 2024-12-10T10:36:40.784506+00:00
+
  ## Principal - Alcaldía Municipal de Chía
- - [http://www.chia-cundinamarca.gov.co](http://www.chia-cundinamarca.gov.co)
+ - [https://chia-cundinamarca.gov.co](https://chia-cundinamarca.gov.co)
  - date_published: 2024-09-10T12:49:37.349288+00:00
+
+ ## Secretaria de Hacienda Chia
+ - [https://sh.chia-cundinamarca.gov.co](https://sh.chia-cundinamarca.gov.co)
+ - date_published: 2024-12-10T06:57:25.764855+00:00
 
  ## CHIP
  - [https://www.chip.gov.co](https://www.chip.gov.co)
@@ -2461,34 +3074,42 @@
  ## bnlefront
  - [https://bnle.cnsc.gov.co](https://bnle.cnsc.gov.co)
  - date_published: 2024-06-08T04:17:47+00:00
+ - date_dead_since: 2024-12-10T06:45:25.411094+00:00
 
  ## Censo
  - [https://censo.cnsc.gov.co](https://censo.cnsc.gov.co)
  - date_published: 2024-06-05T14:21:14+00:00
+ - date_dead_since: 2024-12-10T06:45:26.418930+00:00
 
  ## EDL-APP
  - [https://chat.cnsc.gov.co](https://chat.cnsc.gov.co)
  - date_published: 2022-07-25T23:57:52+00:00
+ - date_dead_since: 2024-12-10T06:50:26.186245+00:00
 
  ## Bienvenido a la CNSC | CNSC
  - [https://cnsc.gov.co](https://cnsc.gov.co)
  - date_published: 2024-06-11T23:15:12.473037+00:00
+ - date_dead_since: 2024-12-10T07:56:06.494854+00:00
 
  ## EDL-APP
  - [https://edl.cnsc.gov.co](https://edl.cnsc.gov.co)
  - date_published: 2022-07-25T23:57:52+00:00
+ - date_dead_since: 2024-12-10T06:56:08.837801+00:00
 
  ## Escuela Virtual CNSC: Log in to the site
  - [https://escuelavirtual.cnsc.gov.co](https://escuelavirtual.cnsc.gov.co)
  - date_published: 2024-06-11T23:44:17.897181+00:00
+ - date_dead_since: 2024-12-10T07:18:55.982924+00:00
 
  ## Apache Tomcat
  - [https://gestion.cnsc.gov.co](https://gestion.cnsc.gov.co)
  - date_published: 2023-01-24T19:31:22+00:00
+ - date_dead_since: 2024-12-10T07:23:57.999759+00:00
 
  ## CNSC Comisión Nacional del Servicio Civil - Avisos informativos
  - [https://historico.cnsc.gov.co](https://historico.cnsc.gov.co)
  - date_published: 2024-06-11T00:00:00+00:00
+ - date_dead_since: 2024-12-10T07:35:10.933216+00:00
 
  ## IIS Windows Server
  - [https://onbase.cnsc.gov.co](https://onbase.cnsc.gov.co)
@@ -2497,25 +3118,28 @@
  ## portalgateway
  - [https://simo4.cnsc.gov.co](https://simo4.cnsc.gov.co)
  - date_published: 2023-03-10T22:42:37+00:00
+ - date_dead_since: 2024-12-10T07:40:17.468172+00:00
 
  ## SIMO -Sistema de apoyo para la Igualdad, el Mérito y la Oportunidad-
  - [https://simo.cnsc.gov.co](https://simo.cnsc.gov.co)
  - date_published: 2024-05-09T17:23:00+00:00
+ - date_dead_since: 2024-12-10T07:46:12.108506+00:00
 
  ## SNCP
  - [https://sncp.cnsc.gov.co](https://sncp.cnsc.gov.co)
  - date_published: 2024-03-03T15:03:42+00:00
+ - date_dead_since: 2024-12-10T07:51:09.667840+00:00
 
  ## Codigo Postal de Colombia
  - [http://codigopostal.gov.co](http://codigopostal.gov.co)
  - date_published: 2024-06-12T03:17:06.732066+00:00
 
  ## Minciencias
- - [http://colciencias.gov.co](http://colciencias.gov.co)
+ - [https://colciencias.gov.co](https://colciencias.gov.co)
  - date_published: 2024-06-12T11:29:14.977203+00:00
 
  ## Inicio | Colombia Ágil
- - [https://www.colombiaagil.gov.co](https://www.colombiaagil.gov.co)
+ - [https://colombiaagil.gov.co](https://colombiaagil.gov.co)
  - date_published: 2024-06-12T02:51:16.032887+00:00
 
  ## Colombia Compra Eficiente | Agencia Nacional de Contratación Pública
@@ -2535,15 +3159,27 @@
  - date_published: 2024-06-11T23:35:54.471259+00:00
 
  ## Comcaja - Caja de Compensación Familiar Campesina
- - [http://www.comcaja.gov.co](http://www.comcaja.gov.co)
+ - [https://comcaja.gov.co](https://comcaja.gov.co)
  - date_published: 2024-08-17T00:00:00+00:00
 
+ ## computadores para educar
+ - [http://intranet.computadoresparaeducar.gov.co](http://intranet.computadoresparaeducar.gov.co)
+ - date_published: 2024-12-10T08:19:15.742863+00:00
+
  ## Computadores para Educar
- - [http://www.computadoresparaeducar.gov.co](http://www.computadoresparaeducar.gov.co)
+ - [https://www.computadoresparaeducar.gov.co](https://www.computadoresparaeducar.gov.co)
  - date_published: 2024-09-10T14:37:22.249975+00:00
 
+ ## Consejo Nacional Profesional de Economía - Conalpe
+ - [https://www.conalpe.gov.co](https://www.conalpe.gov.co)
+ - date_published: 2024-11-29T05:07:03+00:00
+
+ ## Consejo de Estado | – Justicia – Guía – Control
+ - [http://www.consejodeestado.gov.co](http://www.consejodeestado.gov.co)
+ - date_published: 2024-11-21T12:33:27+00:00
+
  ## Inicio - Contaduría General de la Nación
- - [https://www.contaduria.gov.co](https://www.contaduria.gov.co)
+ - [https://contaduria.gov.co](https://contaduria.gov.co)
  - date_published: 2024-06-11T23:47:45.347393+00:00
 
  ## CONTRALORIA - Contraloria
@@ -2555,7 +3191,7 @@
  - date_published: 2024-06-11T22:00:05+00:00
 
  ## Sistema Portal Contratación a la Vista V3
- - [https://www.contratacionbogota.gov.co](https://www.contratacionbogota.gov.co)
+ - [https://contratacionbogota.gov.co](https://contratacionbogota.gov.co)
  - date_published: 2024-05-28T05:01:22+00:00
 
  ## ConVerTic
@@ -2603,7 +3239,7 @@
  - date_published: 2024-09-10T12:48:10+00:00
 
  ## Sede electrónica Comisión de Regulación de Energía y Gas (CREG)
- - [https://www.creg.gov.co](https://www.creg.gov.co)
+ - [https://creg.gov.co](https://creg.gov.co)
  - date_published: 2024-09-10T15:43:00.091220+00:00
 
  ## Inicio | CTCP - Consejo Técnico de la Contaduría Pública -
@@ -2634,6 +3270,10 @@
  - [https://cultured.gov.co](https://cultured.gov.co)
  - date_published: 2024-06-12T12:13:22.231202+00:00
 
+ ## MAPAS Y ESTADÍSTICAS DE CUNDINAMARCA
+ - [http://mapas.cundinamarca.gov.co](http://mapas.cundinamarca.gov.co)
+ - date_published: 2024-12-10T06:58:26.158630+00:00
+
  ## Inicio | Departamento Administrativo de la Defensoría del Espacio Público
  - [https://dadep.gov.co](https://dadep.gov.co)
  - date_published: 2024-06-11T19:33:10+00:00
@@ -2649,6 +3289,10 @@
  ## Bienvenido a Observatorio del Espacio Público | Observatorio del Espacio Público
  - [https://observatorio.dadep.gov.co](https://observatorio.dadep.gov.co)
  - date_published: 2024-06-11T23:04:19.684147+00:00
+
+ ## Portal Inmobiliario DADEP – DADEP
+ - [https://portalentregas.dadep.gov.co](https://portalentregas.dadep.gov.co)
+ - date_published: 2024-12-10T09:05:43.827295+00:00
 
  ## Portal Inmobiliario DADEP
  - [https://portalinmobiliario.dadep.gov.co](https://portalinmobiliario.dadep.gov.co)
@@ -2675,16 +3319,20 @@
  - [https://www.dane.gov.co](https://www.dane.gov.co)
  - date_published: 2024-06-12T06:05:43.259638+00:00
 
+ ## Danza en la Ciudad - Espacios vivos - Idartes
+ - [https://danzaenlaciudad.gov.co](https://danzaenlaciudad.gov.co)
+ - date_published: 2024-12-10T10:48:50.514339+00:00
+
  ## Datos Abiertos Colombia | Datos Abiertos Colombia
  - [https://datos.gov.co](https://datos.gov.co)
  - date_published: 2024-06-12T03:01:18.002567+00:00
 
  ## Inicio | Datos Abiertos
- - [http://herramientas.datos.gov.co](http://herramientas.datos.gov.co)
+ - [https://herramientas.datos.gov.co](https://herramientas.datos.gov.co)
  - date_published: 2024-09-10T15:39:54+00:00
 
  ## Inicio | DC Radio
- - [http://www.dcradio.gov.co](http://www.dcradio.gov.co)
+ - [https://dcradio.gov.co](https://dcradio.gov.co)
  - date_published: 2024-07-21T04:17:36.009632+00:00
 
  ## Inicio | Dirección Nacional de Derechos de Autor
@@ -2708,7 +3356,7 @@
  - date_published: 2023-08-17T12:17:01+00:00
 
  ## Intranet – SDDE
- - [http://intranet.desarrolloeconomico.gov.co](http://intranet.desarrolloeconomico.gov.co)
+ - [https://intranet.desarrolloeconomico.gov.co](https://intranet.desarrolloeconomico.gov.co)
  - date_published: 2024-08-02T00:00:00+00:00
 
  ## Mesa de Ayuda - Secretaría Distrital de Desarrollo Económico
@@ -2719,13 +3367,29 @@
  - [https://observatorio.desarrolloeconomico.gov.co](https://observatorio.desarrolloeconomico.gov.co)
  - date_published: 2024-06-11T21:51:16+00:00
 
+ ## Bogotá Trabaja
+ - [https://vcc.desarrolloeconomico.gov.co](https://vcc.desarrolloeconomico.gov.co)
+ - date_published: 2024-12-10T05:17:28.157822+00:00
+
+ ## DIAN | Acceder
+ - [https://catalogo-vpfe.dian.gov.co](https://catalogo-vpfe.dian.gov.co)
+ - date_published: 2024-12-10T09:36:21.219714+00:00
+
+ ## DIAN | Acceder
+ - [https://catalogo-vpfe-hab.dian.gov.co](https://catalogo-vpfe-hab.dian.gov.co)
+ - date_published: 2024-12-10T09:35:04.548142+00:00
+
+ ## Micrositios DIAN
+ - [https://micrositios.dian.gov.co](https://micrositios.dian.gov.co)
+ - date_published: 2024-12-10T01:03:04+00:00
+
  ## Dirección de Impuestos y Aduanas Nacionales - DIAN
  - [https://www.dian.gov.co](https://www.dian.gov.co)
  - date_published: 2024-09-02T20:47:24+00:00
 
  ## Inicio | Respira el Arte
- - [https://www.directorioicc.gov.co](https://www.directorioicc.gov.co)
- - date_published: 2024-06-12T01:18:55.454185+00:00
+ - [https://directorioicc.gov.co](https://directorioicc.gov.co)
+ - date_published: 2014-10-16T13:20:58+00:00
 
  ## Inicio | Dirección Nacional de Bomberos de Colombia
  - [https://dnbc.gov.co](https://dnbc.gov.co)
@@ -2750,6 +3414,7 @@
  ## Datálogo Colombia
  - [https://datalogo.dnp.gov.co](https://datalogo.dnp.gov.co)
  - date_published: 2023-06-21T15:59:27+00:00
+ - date_dead_since: 2024-12-10T09:41:55.601666+00:00
 
  ## Portal Territorial DNP
  - [https://ddtspr.dnp.gov.co](https://ddtspr.dnp.gov.co)
@@ -2865,6 +3530,11 @@
  ## SDG Corporate Tracker - Colombia
  - [https://tracking.dnp.gov.co](https://tracking.dnp.gov.co)
  - date_published: 2024-09-10T15:20:30.112297+00:00
+ - date_dead_since: 2024-12-10T10:08:24.758566+00:00
+
+ ## Edu - Empresa de desarrollo urbano
+ - [https://www.edu.gov.co](https://www.edu.gov.co)
+ - date_published: 2024-12-10T10:26:45+00:00
 
  ## ESE Moreno y Clavijo | ¡Comprometidos con el bienestar de nuestra gente!
  - [https://esemorenoyclavijo.gov.co](https://esemorenoyclavijo.gov.co)
@@ -2873,6 +3543,7 @@
  ## INICIO
  - [https://espaciofilarmonico.gov.co](https://espaciofilarmonico.gov.co)
  - date_published: 2024-06-12T00:00:46.352634+00:00
+ - date_dead_since: 2024-12-10T10:19:26.115809+00:00
 
  ## Fondo de Energías no Convencionales y Gestión Eficiente de la Energía, FENOGE
  - [https://fenoge.gov.co](https://fenoge.gov.co)
@@ -2887,8 +3558,12 @@
  - date_published: 2024-05-22T00:00:00+00:00
 
  ## Locaciones para filmar | Comisión Fílmica de Bogotá
- - [https://www.filmingbogota.gov.co](https://www.filmingbogota.gov.co)
+ - [https://filmingbogota.gov.co](https://filmingbogota.gov.co)
  - date_published: 2024-06-11T22:17:02+00:00
+
+ ## Fiscalia General de la Nación
+ - [https://www.fiscalia.gov.co](https://www.fiscalia.gov.co)
+ - date_published: 2024-12-10T08:39:29.712561+00:00
 
  ## Agendamiento de citas - Fondo Nacional de Ahorro
  - [https://agendamiento.fna.gov.co](https://agendamiento.fna.gov.co)
@@ -2899,11 +3574,11 @@
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## Service unavailable
- - [https://www.fogafin.gov.co](https://www.fogafin.gov.co)
+ - [https://fogafin.gov.co](https://fogafin.gov.co)
  - date_published: 2024-09-10T23:01:39.182837+00:00
 
  ## Bienvenido a FONCEP | Fondo de Prestaciones Económicas, Cesantías y Pensiones | FONCEP
- - [https://www.foncep.gov.co](https://www.foncep.gov.co)
+ - [https://foncep.gov.co](https://foncep.gov.co)
  - date_published: 2024-06-11T22:58:42.792957+00:00
 
  ## Fondo de valorización de Medellín - Fonvalmed
@@ -2911,7 +3586,7 @@
  - date_published: 2024-09-09T00:00:00+00:00
 
  ## Inicio
- - [https://www.fragmentos.gov.co](https://www.fragmentos.gov.co)
+ - [https://fragmentos.gov.co](https://fragmentos.gov.co)
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Bienvenido | Fundación Gilberto Alzate Avendaño
@@ -2925,6 +3600,7 @@
  ## Plataforma Centro
  - [https://plataformacentro.fuga.gov.co](https://plataformacentro.fuga.gov.co)
  - date_published: 2024-09-10T12:01:45.961336+00:00
+ - date_dead_since: 2024-12-10T10:28:49.512410+00:00
 
  ## Galería Santa Fe – Fomento al intercambio de prácticas artísticas, saberes y experiencias que desarrollan los artistas plásticos y visuales de Bogotá
  - [https://galeriasantafe.gov.co](https://galeriasantafe.gov.co)
@@ -2939,7 +3615,7 @@
  - date_published: 2023-10-25T06:21:50+00:00
 
  ## Invalid Connection
- - [http://estrategia.gobiernoenlinea.gov.co](http://estrategia.gobiernoenlinea.gov.co)
+ - [https://estrategia.gobiernoenlinea.gov.co](https://estrategia.gobiernoenlinea.gov.co)
  - date_published: 2021-03-31T18:30:11+00:00
 
  ## Clinica Crecer | Login
@@ -2947,11 +3623,11 @@
  - date_published: 2024-06-11T23:47:29.732078+00:00
 
  ## Grupo Bicentenario S.A.S.
- - [https://www.grupobicentenario.gov.co](https://www.grupobicentenario.gov.co)
+ - [https://grupobicentenario.gov.co](https://grupobicentenario.gov.co)
  - date_published: 2024-08-20T00:00:00+00:00
 
  ## ALCALDÍA MUNICIPAL DE GUASCA CUNDINAMARCA
- - [http://www.guasca-cundinamarca.gov.co](http://www.guasca-cundinamarca.gov.co)
+ - [https://guasca-cundinamarca.gov.co](https://guasca-cundinamarca.gov.co)
  - date_published: 2024-09-10T12:49:47.018620+00:00
 
  ## Certificados - Secretaría Distrital Del Hábitat
@@ -2967,15 +3643,15 @@
  - date_published: 2024-06-11T23:13:25.173056+00:00
 
  ## Portal de Contratistas
- - [https://habitatalavista.habitatbogota.gov.co](https://habitatalavista.habitatbogota.gov.co)
- - date_published: 2023-11-09T21:22:51+00:00
+ - [http://habitatalavista.habitatbogota.gov.co](http://habitatalavista.habitatbogota.gov.co)
+ - date_published: 2019-10-07T21:16:24+00:00
 
  ## Secretaría Distrital del Hábitat | Hábitat Bogotá
  - [https://habitatbogota.gov.co](https://habitatbogota.gov.co)
  - date_published: 2024-04-30T07:15:15.499196+00:00
 
  ## Inicio | Intranet-Habitat
- - [http://intranet.habitatbogota.gov.co](http://intranet.habitatbogota.gov.co)
+ - [https://intranet.habitatbogota.gov.co](https://intranet.habitatbogota.gov.co)
  - date_published: 2024-07-21T04:13:13.531461+00:00
 
  ## Paz y Salvo - Secretaría Distrital del Hábitat
@@ -2983,8 +3659,16 @@
  - date_published: 2024-07-21T04:07:26.265302+00:00
 
  ## Apache Tomcat/8.5.71
- - [http://siga.habitatbogota.gov.co](http://siga.habitatbogota.gov.co)
+ - [https://siga.habitatbogota.gov.co](https://siga.habitatbogota.gov.co)
  - date_published: 2024-07-21T04:13:19.186543+00:00
+
+ ## Iniciar sesión | Ventanilla única de la construcción
+ - [http://vuc4test.habitatbogota.gov.co](http://vuc4test.habitatbogota.gov.co)
+ - date_published: 2024-12-10T10:37:44.639270+00:00
+
+ ## Iniciar sesión | Ventanilla única de la construcción
+ - [http://vucapp.habitatbogota.gov.co](http://vucapp.habitatbogota.gov.co)
+ - date_published: 2024-12-10T10:37:03.432740+00:00
 
  ## Ventanilla única de la construcción
  - [https://vuc.habitatbogota.gov.co](https://vuc.habitatbogota.gov.co)
@@ -2995,12 +3679,16 @@
  - date_published: 2024-06-11T22:58:45.754856+00:00
 
  ## Inicio | Secretaria Distrital de Hacienda
- - [https://www.haciendabogota.gov.co](https://www.haciendabogota.gov.co)
+ - [https://haciendabogota.gov.co](https://haciendabogota.gov.co)
  - date_published: 2024-06-11T22:58:40.360872+00:00
 
  ## Hecho en Bogotá Market
  - [https://hechoenbogota.gov.co](https://hechoenbogota.gov.co)
  - date_published: 2024-02-23T03:46:54+00:00
+
+ ## Hip Hop al Parque 2024 - 17 y 18 de agosto
+ - [https://hiphopalparque.gov.co](https://hiphopalparque.gov.co)
+ - date_published: 2024-12-10T10:48:55.077157+00:00
 
  ## Iniciar sesión - Sinigan
  - [https://sinigan.ica.gov.co](https://sinigan.ica.gov.co)
@@ -3042,12 +3730,16 @@
  - [https://www2.icfesinteractivo.gov.co](https://www2.icfesinteractivo.gov.co)
  - date_published: 2024-09-12T13:12:03.880820+00:00
 
+ ## Bienvenido - Instituto Distrital de las Artes - Idartes
+ - [https://ant.idartes.gov.co](https://ant.idartes.gov.co)
+ - date_published: 2024-12-10T10:48:43.177939+00:00
+
  ## Comunicarte | Intranet del Instituto Distrital de las Artes
- - [http://comunicarte.idartes.gov.co](http://comunicarte.idartes.gov.co)
+ - [https://comunicarte.idartes.gov.co](https://comunicarte.idartes.gov.co)
  - date_published: 2024-09-10T12:10:39.203947+00:00
 
  ## Equipamientos
- - [http://equipamientos.idartes.gov.co](http://equipamientos.idartes.gov.co)
+ - [https://equipamientos.idartes.gov.co](https://equipamientos.idartes.gov.co)
  - date_published: 2023-05-30T23:57:54+00:00
 
  ## Bienvenido - Instituto Distrital de las Artes - Idartes
@@ -3062,9 +3754,17 @@
  - [https://sif.idartes.gov.co](https://sif.idartes.gov.co)
  - date_published: 2024-09-10T12:16:53.088953+00:00
 
+ ## Planeacion Idartes
+ - [http://solpla.idartes.gov.co](http://solpla.idartes.gov.co)
+ - date_published: 2024-12-10T10:48:14.415740+00:00
+
  ## Idartes se muda a tu casa | Inicio
  - [https://idartesencasa.gov.co](https://idartesencasa.gov.co)
  - date_published: 2024-06-12T01:18:34.840750+00:00
+
+ ## IDEAM - IDEAM
+ - [http://archivo.ideam.gov.co](http://archivo.ideam.gov.co)
+ - date_published: 2024-12-10T10:49:49.677545+00:00
 
  ## IDEAM - IDEAM
  - [https://ideam.gov.co](https://ideam.gov.co)
@@ -3099,7 +3799,7 @@
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Acceder ‹ Mi Intranet IDPC — WordPress
- - [http://miintranet.idpc.gov.co](http://miintranet.idpc.gov.co)
+ - [https://miintranet.idpc.gov.co](https://miintranet.idpc.gov.co)
  - date_published: 2024-08-16T00:00:00+00:00
 
  ## IDPC
@@ -3158,6 +3858,10 @@
  - [https://intranet.idt.gov.co](https://intranet.idt.gov.co)
  - date_published: 2024-06-11T23:05:31.591335+00:00
 
+ ## Pagina Inicio
+ - [https://iduvichia.gov.co](https://iduvichia.gov.co)
+ - date_published: 2024-12-10T06:58:16.679429+00:00
+
  ## ArcGIS
  - [https://mapas.igac.gov.co](https://mapas.igac.gov.co)
  - date_published: 2024-09-10T23:55:17.477232+00:00
@@ -3167,11 +3871,11 @@
  - date_published: 2024-06-09T00:00:00+00:00
 
  ## PapiroCloud Document Management System
- - [http://servsgdoc.imprenta.gov.co](http://servsgdoc.imprenta.gov.co)
+ - [https://servsgdoc.imprenta.gov.co](https://servsgdoc.imprenta.gov.co)
  - date_published: 2015-08-27T00:00:00+00:00
 
  ## GlassFish Server - Server Running
- - [http://svrpubindc.imprenta.gov.co](http://svrpubindc.imprenta.gov.co)
+ - [https://svrpubindc.imprenta.gov.co](https://svrpubindc.imprenta.gov.co)
  - date_published: 2015-09-19T17:07:24+00:00
 
  ## Inicio - Indumil Colombia
@@ -3181,6 +3885,7 @@
  ## ColombiaMide | ColombiaMide
  - [https://colombiamide.inm.gov.co](https://colombiamide.inm.gov.co)
  - date_published: 2024-06-12T12:10:40.241802+00:00
+ - date_dead_since: 2024-12-10T11:23:26.913164+00:00
 
  ## Inicio | INM Elearning
  - [https://elearning.inm.gov.co](https://elearning.inm.gov.co)
@@ -3201,21 +3906,23 @@
  ## Authentication - GLPI
  - [https://mesadeservicio.inm.gov.co](https://mesadeservicio.inm.gov.co)
  - date_published: 2024-06-12T12:10:46.330468+00:00
+ - date_dead_since: 2024-12-10T11:33:12.655599+00:00
 
  ## Servicios en Línea del Instituto Nacional de Metrología de Colombia
  - [https://servicios.inm.gov.co](https://servicios.inm.gov.co)
  - date_published: 2024-06-12T12:10:48.362602+00:00
+ - date_dead_since: 2024-12-10T11:38:13.254875+00:00
 
  ## {{main.seo.title}}
  - [https://innovamos.gov.co](https://innovamos.gov.co)
  - date_published: 2024-06-12T02:57:34.105039+00:00
 
  ## INSOR | Instituto Nacional para Sordos – Trabajando por la Población Sorda Colombiana
- - [http://www.insor.gov.co](http://www.insor.gov.co)
+ - [https://insor.gov.co](https://insor.gov.co)
  - date_published: 2024-09-02T14:18:45+00:00
 
  ## Integración Social
- - [http://old.integracionsocial.gov.co](http://old.integracionsocial.gov.co)
+ - [https://old.integracionsocial.gov.co](https://old.integracionsocial.gov.co)
  - date_published: 2024-07-21T04:16:34+00:00
 
  ## Integración Social
@@ -3223,7 +3930,7 @@
  - date_published: 2024-04-30T07:15:00.586275+00:00
 
  ## Intégrame
- - [https://www.integrame.gov.co](https://www.integrame.gov.co)
+ - [https://integrame.gov.co](https://integrame.gov.co)
  - date_published: 2024-09-10T15:45:24.472427+00:00
 
  ## HeMi - Herramienta Misional - IPES
@@ -3233,6 +3940,14 @@
  ## Inicio
  - [https://ipes.gov.co](https://ipes.gov.co)
  - date_published: 2024-06-11T23:27:20.568466+00:00
+
+ ## Instituto de Planificación y Promoción de Soluciones Energéticas para Zonas No Interconectadas - IPSE - IPSE
+ - [https://ipse.gov.co](https://ipse.gov.co)
+ - date_published: 2024-12-10T10:22:47.530307+00:00
+
+ ## Jazz al Parque 2024 - 28 y 29 de septiembre
+ - [https://jazzalparque.gov.co](https://jazzalparque.gov.co)
+ - date_published: 2024-12-10T10:48:52.933975+00:00
 
  ## Bogotá mi huerta: el hogar de la agricultura urbana | Este sitio es un espacio de información de y para todos los huerteros de Bogotá
  - [https://bogotamihuerta.jbb.gov.co](https://bogotamihuerta.jbb.gov.co)
@@ -3244,7 +3959,7 @@
 
  ## Flora de Bogotá - Subdirección científica - Jardín Botánico José Celestino Mutis
  - [https://colecciones.jbb.gov.co](https://colecciones.jbb.gov.co)
- - date_published: 2024-04-03T18:16:10+00:00
+ - date_published: 2016-12-12T21:34:03+00:00
 
  ## Biodiversidad de Bogotá en: Conexión Bio - Jardín Botánico
  - [https://conexionbio.jbb.gov.co](https://conexionbio.jbb.gov.co)
@@ -3286,8 +4001,12 @@
  - [http://tablets.jbb.gov.co](http://tablets.jbb.gov.co)
  - date_published: 2013-07-11T16:24:38+00:00
 
+ ## Jurisdicción Especial para la Paz | JEP
+ - [https://www.jep.gov.co](https://www.jep.gov.co)
+ - date_published: 2024-12-10T08:38:52+00:00
+
  ## Inicio
- - [http://www.lacalera-cundinamarca.gov.co](http://www.lacalera-cundinamarca.gov.co)
+ - [https://lacalera-cundinamarca.gov.co](https://lacalera-cundinamarca.gov.co)
  - date_published: 2024-09-10T00:00:00+00:00
 
  ## Maguaré - Ministerio de Cultura de Colombia
@@ -3299,12 +4018,16 @@
  - date_published: 2024-09-10T14:35:53.362638+00:00
 
  ## Inicio | Desarrollo Productivo - más y mejores empresas
- - [https://www.masymejoresempresas.gov.co](https://www.masymejoresempresas.gov.co)
+ - [https://masymejoresempresas.gov.co](https://masymejoresempresas.gov.co)
  - date_published: 2024-06-12T02:58:09.322654+00:00
 
  ## Alcaldía de Medellín | Portal institucional
  - [https://medellin.gov.co](https://medellin.gov.co)
  - date_published: 2024-06-12T11:28:25.042257+00:00
+
+ ## Mercados Campesinos
+ - [https://mercadoscampesinos.gov.co](https://mercadoscampesinos.gov.co)
+ - date_published: 2024-12-10T09:29:34.127907+00:00
 
  ## Mercados Campesinos
  - [https://www.mercadoscampesinos.gov.co](https://www.mercadoscampesinos.gov.co)
@@ -3330,701 +4053,7 @@
  - [https://prodintranet.metrodebogota.gov.co](https://prodintranet.metrodebogota.gov.co)
  - date_published: 2024-08-06T17:57:31.427079+00:00
 
- ## Sign in - Matomo
- - [http://piwik.micolombiadigital.gov.co](http://piwik.micolombiadigital.gov.co)
- - date_published: 2024-06-11T23:21:03.753459+00:00
-
- ## Superadministrador
- - [https://www.micolombiadigital.gov.co](https://www.micolombiadigital.gov.co)
- - date_published: 2024-09-10T15:25:28.821226+00:00
-
- ## Sign in to your account
- - [https://camponet.minagricultura.gov.co](https://camponet.minagricultura.gov.co)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## SPEA
- - [https://elcampoinnova.minagricultura.gov.co](https://elcampoinnova.minagricultura.gov.co)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## SOADOC
- - [https://sgdea.minagricultura.gov.co](https://sgdea.minagricultura.gov.co)
- - date_published: 2024-06-12T03:00:34.792707+00:00
-
- ## SIOC
- - [https://sioc.minagricultura.gov.co](https://sioc.minagricultura.gov.co)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Ventanilla Unica Forestal
- - [https://vuf.minagricultura.gov.co](https://vuf.minagricultura.gov.co)
- - date_published: 2024-06-12T03:00:32.365099+00:00
-
- ## Página Principal
-            
-            
-            Ministerio de Agricultura y Desarrollo Rural
- - [https://www.minagricultura.gov.co](https://www.minagricultura.gov.co)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Almorzadero – Almorzadero
- - [https://almorzadero.minambiente.gov.co](https://almorzadero.minambiente.gov.co)
- - date_published: 2024-06-12T03:02:24.545233+00:00
-
- ## ..:: Ministerio de Ambiente y Desarrollo Sostenible - MinAmbiente Orfeo  ::..
- - [https://arca.minambiente.gov.co](https://arca.minambiente.gov.co)
- - date_published: 2024-06-12T03:04:41.579443+00:00
-
- ## Ministerio de Ambiente y Desarrollo Sostenible
- - [https://archivo.minambiente.gov.co](https://archivo.minambiente.gov.co)
- - date_published: 2024-06-12T03:04:13.589378+00:00
-
- ## Cuenca del río Atrato – Sentencia T-622-16 río Atrato
- - [https://atrato.minambiente.gov.co](https://atrato.minambiente.gov.co)
- - date_published: 2024-06-12T03:04:09.326723+00:00
-
- ## Escuela de Formacion Minambiente
- - [https://aulamads.minambiente.gov.co](https://aulamads.minambiente.gov.co)
- - date_published: 2024-06-12T03:05:33.826109+00:00
-
- ## ¿Qué son los instrumentos tributarios ambientales? - Ministerio de Ambiente y Desarrollo Sostenible
- - [https://beneficios-tributarios.minambiente.gov.co](https://beneficios-tributarios.minambiente.gov.co)
- - date_published: 2024-09-10T16:06:16.701668+00:00
-
- ## Buscador Juridico
- - [http://buscadorjuridico.minambiente.gov.co](http://buscadorjuridico.minambiente.gov.co)
- - date_published: 2024-09-10T16:02:33.927107+00:00
-
- ## Calculadora Colombia 2050
- - [https://calculadora2050.minambiente.gov.co](https://calculadora2050.minambiente.gov.co)
- - date_published: 2024-06-12T03:02:09.661006+00:00
-
- ## Estrategia Colombia Carbono Neutral - Ministerio de Ambiente y Desarrollo Sostenible
- - [https://carbononeutral.minambiente.gov.co](https://carbononeutral.minambiente.gov.co)
- - date_published: 2024-06-12T03:04:50.357985+00:00
-
- ## Inicio - COP26 Ministerio de Ambiente y Desarrollo Sostenible
- - [https://cop26.minambiente.gov.co](https://cop26.minambiente.gov.co)
- - date_published: 2024-06-12T03:05:14.973020+00:00
-
- ## Economía Circular – Economía Circular
- - [https://economiacircular.minambiente.gov.co](https://economiacircular.minambiente.gov.co)
- - date_published: 2024-06-12T03:03:35.208165+00:00
-
- ## Escuela de Formación Virtual - Ministerio de Ambiente y Desarrollo Sostenible
- - [http://escueladeformacion.minambiente.gov.co](http://escueladeformacion.minambiente.gov.co)
- - date_published: 2024-09-10T16:02:06+00:00
-
- ## Edwin Sanabria
- - [https://especiales.minambiente.gov.co](https://especiales.minambiente.gov.co)
- - date_published: 2023-05-27T02:52:10+00:00
-
- ## Acceder < Intranet – Ministerio de Ambiente y Desarrollo Sostenible — WordPress
- - [https://intranet.minambiente.gov.co](https://intranet.minambiente.gov.co)
- - date_published: 2024-06-12T03:03:18.057974+00:00
-
- ## IIS Windows Server
- - [http://mesadeayuda.minambiente.gov.co](http://mesadeayuda.minambiente.gov.co)
- - date_published: 2020-11-26T01:29:55+00:00
-
- ## OBSERVATORIO MESOAMERICA
- - [https://observatoriomesoamerica.minambiente.gov.co](https://observatoriomesoamerica.minambiente.gov.co)
- - date_published: 2024-06-12T03:03:15.127697+00:00
-
- ## Ozzy
- - [https://ozzy.minambiente.gov.co](https://ozzy.minambiente.gov.co)
- - date_published: 2021-09-30T16:18:43+00:00
-
- ## Inicio - Minambiente Pisba
- - [https://pisba.minambiente.gov.co](https://pisba.minambiente.gov.co)
- - date_published: 2024-06-12T03:05:31.342784+00:00
-
- ## Inicio - Ministerio de Ambiente y Desarrollo Sostenible
- - [https://regalias.minambiente.gov.co](https://regalias.minambiente.gov.co)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Inicio
- - [https://santurban.minambiente.gov.co](https://santurban.minambiente.gov.co)
- - date_published: 2024-06-12T03:02:37.169667+00:00
-
- ## Cruz Verde Sumapaz Avanza – Delimitación Participativa Páramo Cruz Verde Sumapaz
- - [https://sumapaz.minambiente.gov.co](https://sumapaz.minambiente.gov.co)
- - date_published: 2024-06-12T03:02:54.145016+00:00
-
- ## Visión Amazonía – Iniciativa del Gobierno Nacional que busca reducir a cero la deforestación en la Amazonía para el año 2020 a través de un nuevo modelo de desarrollo regional.
- - [https://visionamazonia.minambiente.gov.co](https://visionamazonia.minambiente.gov.co)
- - date_published: 2024-06-12T03:04:33.683381+00:00
-
- ## Fluid — Animated Coming Soon Template
- - [https://vital.minambiente.gov.co](https://vital.minambiente.gov.co)
- - date_published: 2022-11-05T13:05:06+00:00
-
- ## Inicio -
- - [https://www.minambiente.gov.co](https://www.minambiente.gov.co)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Home - Apropia con Sentido
- - [https://apropiaconsentido.minciencias.gov.co](https://apropiaconsentido.minciencias.gov.co)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Minciencias - G Suite SSO, Ingreso a Workspace
- - [http://correo.minciencias.gov.co](http://correo.minciencias.gov.co)
- - date_published: 2024-09-10T15:51:09.384055+00:00
-
- ## Página Principal | Educación Virtual
- - [https://educacionvirtual.minciencias.gov.co](https://educacionvirtual.minciencias.gov.co)
- - date_published: 2024-09-10T15:50:28+00:00
-
- ## Minciencias
- - [https://minciencias.gov.co](https://minciencias.gov.co)
- - date_published: 2024-06-12T02:26:29+00:00
-
- ## Search Home
- - [https://redcol.minciencias.gov.co](https://redcol.minciencias.gov.co)
- - date_published: 2024-06-12T11:00:43.609429+00:00
-
- ## Error 403
- - [https://scienti.minciencias.gov.co](https://scienti.minciencias.gov.co)
- - date_published: 2024-09-10T15:51:01.754340+00:00
-
- ## Inicio | Acuerdos Revista
- - [https://acuerdosrevista.mincit.gov.co](https://acuerdosrevista.mincit.gov.co)
- - date_published: 2024-06-12T02:58:04.560868+00:00
-
- ## Encuestas Mincit
- - [https://encuestas.mincit.gov.co](https://encuestas.mincit.gov.co)
- - date_published: 2024-06-12T02:57:30.560750+00:00
-
- ## Escnna
- - [http://escnna.mincit.gov.co](http://escnna.mincit.gov.co)
- - date_published: 2024-06-12T02:57:53.366006+00:00
-
- ## Inicio | MINCIT - Ministerio de Comercio, Industria y Turismo
- - [https://mincit.gov.co](https://mincit.gov.co)
- - date_published: 2024-06-12T02:57:43.013687+00:00
-
- ## Banco de Contenidos
- - [https://bancodecontenidos.mincultura.gov.co](https://bancodecontenidos.mincultura.gov.co)
- - date_published: 2024-06-12T02:48:59.758192+00:00
-
- ## Ministerio de Cultura de Colombia
- - [https://mincultura.gov.co](https://mincultura.gov.co)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Ministerio de Cultura de Colombia
- - [https://mng.mincultura.gov.co](https://mng.mincultura.gov.co)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Inicio
- - [http://pulep.mincultura.gov.co](http://pulep.mincultura.gov.co)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## SiDanza - Sistema de Información de la Danza
- - [http://sidanza.mincultura.gov.co](http://sidanza.mincultura.gov.co)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Culturas
- - [http://simus.mincultura.gov.co](http://simus.mincultura.gov.co)
- - date_published: 2024-07-05T00:58:48+00:00
-
- ## Soy Cultura | Ministerio de Cultura
- - [https://soycultura.mincultura.gov.co](https://soycultura.mincultura.gov.co)
- - date_published: 2024-08-30T01:10:24+00:00
-
- ## Inicio
- - [http://teatroycirco.mincultura.gov.co](http://teatroycirco.mincultura.gov.co)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Ministerio de Defensa Nacional mindefensa
- - [https://mindefensa.gov.co](https://mindefensa.gov.co)
- - date_published: 2018-08-14T11:52:15+00:00
-
- ## Mindeporte
- - [https://mindeporte.gov.co](https://mindeporte.gov.co)
- - date_published: 2024-06-12T03:01:40.454919+00:00
-
- ## Estaciones de Carga Vehículos Eléctricos
- - [https://cargame.minenergia.gov.co](https://cargame.minenergia.gov.co)
- - date_published: 2024-03-13T00:18:36+00:00
-
- ## Ministerio de Minas y Energía
- - [https://minenergia.gov.co](https://minenergia.gov.co)
- - date_published: 2024-06-12T03:01:29.746648+00:00
-
- ## EAP 6
- - [https://neon.minenergia.gov.co](https://neon.minenergia.gov.co)
- - date_published: 2015-10-19T14:41:57+00:00
-
- ## Sistema de Información Normativa del Ministerio de Minas y Energía
- - [https://normativame.minenergia.gov.co](https://normativame.minenergia.gov.co)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## SIGAME|Login
- - [https://sigame.minenergia.gov.co](https://sigame.minenergia.gov.co)
- - date_published: 2024-09-10T15:42:50.141783+00:00
-
- ## SISEG
- - [https://sisegdh.minenergia.gov.co](https://sisegdh.minenergia.gov.co)
- - date_published: 2024-09-10T15:45:19.643840+00:00
-
- ## Buzón de transparencia
- - [https://transparencia.minenergia.gov.co](https://transparencia.minenergia.gov.co)
- - date_published: 2024-09-10T15:46:44.846673+00:00
-
- ## Banco de Proyectos 2023
- - [https://bancodeproyectos2023.mininterior.gov.co](https://bancodeproyectos2023.mininterior.gov.co)
- - date_published: 2024-06-12T02:51:07.621505+00:00
-
- ## IIS Windows Server
- - [https://compromisos.mininterior.gov.co](https://compromisos.mininterior.gov.co)
- - date_published: 2019-10-22T20:52:55+00:00
-
- ## Grupo de Acción Comunal
- - [https://comunal.mininterior.gov.co](https://comunal.mininterior.gov.co)
- - date_published: 2024-07-18T14:14:41+00:00
-
- ## Log in | Mininterior | EAT
- - [https://eat.mininterior.gov.co](https://eat.mininterior.gov.co)
- - date_published: 2024-06-12T02:50:40.810481+00:00
-
- ## Discapacidades-APP
- - [http://infoterritorios.mininterior.gov.co](http://infoterritorios.mininterior.gov.co)
- - date_published: 2022-03-07T19:52:23+00:00
-
- ## ControlDocPQRPWA
- - [http://pqrsd.mininterior.gov.co](http://pqrsd.mininterior.gov.co)
- - date_published: 2023-10-27T00:05:35+00:00
-
- ## Somos Democracia
- - [https://somosdemocracia.mininterior.gov.co](https://somosdemocracia.mininterior.gov.co)
- - date_published: 2024-06-12T02:50:34.925832+00:00
-
- ## Inicio - Ministerio del Interior
- - [http://www.mininterior.gov.co](http://www.mininterior.gov.co)
- - date_published: 2023-04-19T02:43:37+00:00
-
- ## Ministerio de Justicia y del Derecho - G Suite SSO, Ingreso a Workspace
- - [http://correo.minjusticia.gov.co](http://correo.minjusticia.gov.co)
- - date_published: 2024-09-10T15:17:19.045062+00:00
-
- ## Ministerio de Justicia y del Derecho
- - [https://minjusticia.gov.co](https://minjusticia.gov.co)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Agenti
- - [http://sofiachatbot.minjusticia.gov.co](http://sofiachatbot.minjusticia.gov.co)
- - date_published: 2024-04-16T15:11:38+00:00
-
- ## Ministerio de Salud y Protección Social
- - [https://www.minsalud.gov.co](https://www.minsalud.gov.co)
- - date_published: 2024-06-07T17:54:00+00:00
-
- ## Gobierno Digital 2020
- - [https://gobiernodigital.mintic.gov.co](https://gobiernodigital.mintic.gov.co)
- - date_published: 2020-11-15T22:52:36+00:00
-
- ## Inicio - Ministerio del trabajo
- - [https://www.mintrabajo.gov.co](https://www.mintrabajo.gov.co)
- - date_published: 2024-09-10T11:14:46.514071+00:00
-
- ## IIS Windows Server
- - [https://aranda.minvivienda.gov.co](https://aranda.minvivienda.gov.co)
- - date_published: 2020-01-14T15:17:55+00:00
-
- ## Outlook
- - [https://correo.minvivienda.gov.co](https://correo.minvivienda.gov.co)
- - date_published: 2024-06-12T03:01:33.917763+00:00
-
- ## Home Minvivienda | Minvivienda
- - [http://minvivienda.gov.co](http://minvivienda.gov.co)
- - date_published: 2024-06-12T03:01:25.960457+00:00
-
- ## Inicio | Mi Pymes
- - [https://www.mipymes.gov.co](https://www.mipymes.gov.co)
- - date_published: 2024-06-12T02:57:09.567203+00:00
-
- ## Inicio
- - [http://museocolonial.gov.co](http://museocolonial.gov.co)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Museo de la Independencia Casa del Florero
- - [http://museoindependencia.gov.co](http://museoindependencia.gov.co)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Museo Nacional de Colombia
- - [https://museonacional.gov.co](https://museonacional.gov.co)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Welcome to nginx!
- - [https://museoscolombianos.gov.co](https://museoscolombianos.gov.co)
- - date_published: 2019-08-13T20:51:44+00:00
-
- ## Inicio - Corporación Nasa Kiwe Nacional
- - [https://nasakiwe.gov.co](https://nasakiwe.gov.co)
- - date_published: 2024-06-12T02:51:03.385160+00:00
-
- ## :: Sistema de Gestion de Proyectos ::
- - [https://proyectos.nasakiwe.gov.co](https://proyectos.nasakiwe.gov.co)
- - date_published: 2024-09-10T15:01:17.826778+00:00
-
- ## :: Sistema Integrado de Informaci�n CNK ::
- - [https://sidi.nasakiwe.gov.co](https://sidi.nasakiwe.gov.co)
- - date_published: 2024-09-10T14:58:42.210514+00:00
-
- ## :: SIREP - Sistema Integrado de Registro de Proveedores ::
- - [https://sirep.nasakiwe.gov.co](https://sirep.nasakiwe.gov.co)
- - date_published: 2024-09-10T15:01:20.261552+00:00
-
- ## Nidos. Arte en la primera infancia Bogotá. Idartes
- - [https://nidos.gov.co](https://nidos.gov.co)
- - date_published: 2024-06-11T17:53:40+00:00
-
- ## Orquesta Filarmónica de Bogotá | | Aula Virtual
- - [https://aulavirtual.ofb.gov.co](https://aulavirtual.ofb.gov.co)
- - date_published: 2024-06-12T00:00:09.140211+00:00
-
- ## Búsqueda rápida
- - [http://biblioteca.ofb.gov.co](http://biblioteca.ofb.gov.co)
- - date_published: 2024-06-12T00:00:14.334669+00:00
-
- ## Orquesta Filarmónica De Bogotá - Site
- - [https://certificaciones.ofb.gov.co](https://certificaciones.ofb.gov.co)
- - date_published: 2024-06-12T00:01:05.517907+00:00
-
- ## Orquesta Filarmónica de Bogotá
- - [https://filarmonicabta.ofb.gov.co](https://filarmonicabta.ofb.gov.co)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Proyecto de Formación Musical de la Orquesta Filarmónica de Bogotá
- - [https://fomento.ofb.gov.co](https://fomento.ofb.gov.co)
- - date_published: 2024-06-12T00:00:36.076347+00:00
-
- ## Home
- - [https://intranet.ofb.gov.co](https://intranet.ofb.gov.co)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Página Inicio  - Observatorio Regional Ambiental y de Desarrollo Sostenible del Río Bogotá
- - [http://orarbo.gov.co](http://orarbo.gov.co)
- - date_published: 2024-06-11T23:14:00.149477+00:00
-
- ## Y la regulación ¿para qué? | Permiso para aprovechamiento económico de Artistas en Espacio Público
- - [https://paes.gov.co](https://paes.gov.co)
- - date_published: 2024-06-12T01:19:01.074914+00:00
-
- ## Home - Parques Nacionales Naturales de Colombia
- - [https://parquesnacionales.gov.co](https://parquesnacionales.gov.co)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Escuela - IDPAC: Entrar al sitio
- - [https://campusvirtual.participacionbogota.gov.co](https://campusvirtual.participacionbogota.gov.co)
- - date_published: 2024-06-11T23:45:42.306695+00:00
-
- ## Inicio | DC Radio
- - [https://dcradio.participacionbogota.gov.co](https://dcradio.participacionbogota.gov.co)
- - date_published: 2024-06-11T23:17:03.757313+00:00
-
- ## Escuela de la participación - IDPAC
- - [https://escuela.participacionbogota.gov.co](https://escuela.participacionbogota.gov.co)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Authentication - GLPI
- - [https://glpi.participacionbogota.gov.co](https://glpi.participacionbogota.gov.co)
- - date_published: 2024-06-11T23:17:05.202737+00:00
-
- ## IDPAC Portal web | Instituto Distrital de la Participación y Acción Comunal
- - [https://historico.participacionbogota.gov.co](https://historico.participacionbogota.gov.co)
- - date_published: 2024-06-11T23:16:37.260101+00:00
-
- ## Escuela de la participación - IDPAC
- - [https://infoescuela.participacionbogota.gov.co](https://infoescuela.participacionbogota.gov.co)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Participación Bogotá para Niños
- - [https://ninos.participacionbogota.gov.co](https://ninos.participacionbogota.gov.co)
- - date_published: 2022-12-15T17:00:42+00:00
-
- ## Gestor Documental Orfeo IDPAC
- - [https://orfeo.participacionbogota.gov.co](https://orfeo.participacionbogota.gov.co)
- - date_published: 2024-06-11T23:17:06.200930+00:00
-
- ## Mantenimiento
- - [https://plataforma.participacionbogota.gov.co](https://plataforma.participacionbogota.gov.co)
- - date_published: 2023-11-03T19:22:49+00:00
-
- ## | Instituto Distrital de la Participación y Acción Comunal - IDPAC
- - [https://www.participacionbogota.gov.co](https://www.participacionbogota.gov.co)
- - date_published: 2024-06-11T23:04:15.955918+00:00
-
- ## Inicio - Instituto Distrital de Patrimonio Cultural
- - [http://patrimoniocultural.gov.co](http://patrimoniocultural.gov.co)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Inicio | Planetario de Bogotá
- - [https://planetariodebogota.gov.co](https://planetariodebogota.gov.co)
- - date_published: 2024-06-12T06:01:11.724021+00:00
-
- ## Plataforma Bogotá | Laboratorio Interactivo de Arte, Ciencia y Tecnología
- - [https://plataformabogota.gov.co](https://plataformabogota.gov.co)
- - date_published: 2024-06-12T06:00:29.259717+00:00
-
- ## Inicio | CAI Virtual
- - [https://caivirtual.policia.gov.co](https://caivirtual.policia.gov.co)
- - date_published: 2024-08-11T04:21:31+00:00
-
- ## IIS Windows Server
- - [https://srvcnpc.policia.gov.co](https://srvcnpc.policia.gov.co)
- - date_published: 2021-03-11T18:53:44+00:00
-
- ## INICIO | Policía Nacional de Colombia
- - [https://www.policia.gov.co](https://www.policia.gov.co)
- - date_published: 2024-07-21T04:03:41.034567+00:00
-
- ## Politica Criminal > Inicio
- - [https://politicacriminal.gov.co](https://politicacriminal.gov.co)
- - date_published: 2024-09-10T11:15:03.751700+00:00
-
- ## SNARIV
- - [http://www.portalsnariv.gov.co](http://www.portalsnariv.gov.co)
- - date_published: 2024-06-12T02:57:55.818757+00:00
-
- ## XII Premio Luis Caballero – XII Premio Luis Caballero
- - [https://premioluiscaballero.gov.co](https://premioluiscaballero.gov.co)
- - date_published: 2024-06-12T06:01:34.162336+00:00
-
- ## Publicación Hojas de Vida
- - [https://aspirantes.presidencia.gov.co](https://aspirantes.presidencia.gov.co)
- - date_published: 2024-06-12T03:00:51.249397+00:00
-
- ## Presidencia de la Republica
- - [https://idm.presidencia.gov.co](https://idm.presidencia.gov.co)
- - date_published: 2024-09-10T15:40:59.947531+00:00
-
- ## Presidencia de la República
- - [https://petro.presidencia.gov.co](https://petro.presidencia.gov.co)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Radware Captcha Page
- - [https://presidencia.gov.co](https://presidencia.gov.co)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Prosperidad Social - Gobierno de Colombia
- - [https://prosperidadsocial.gov.co](https://prosperidadsocial.gov.co)
- - date_published: 2024-09-10T17:06:56.804921+00:00
-
- ## Instituto Distrital de Bienestar y Protección Animal | Alcaldía Mayor de Bogotá
- - [https://proteccionanimalbogota.gov.co](https://proteccionanimalbogota.gov.co)
- - date_published: 2024-06-11T23:15:06.617220+00:00
-
- ## Inicio
- - [http://quintadebolivar.gov.co](http://quintadebolivar.gov.co)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Red de Cuidado Ciudadano
- - [https://reddecuidadociudadano.gov.co](https://reddecuidadociudadano.gov.co)
- - date_published: 2024-09-10T10:38:06.392288+00:00
-
- ## Portada - Centro de Estudios en Democracia y Asuntos Electorales – CEDAE | RNEC
- - [https://cedae.registraduria.gov.co](https://cedae.registraduria.gov.co)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## TITÁN
- - [https://gestordocumental.registraduria.gov.co](https://gestordocumental.registraduria.gov.co)
- - date_published: 2024-06-12T03:31:19.232753+00:00
-
- ## Registraduría Nacional del Estado Civil - Observatorio
- - [https://observatorio.registraduria.gov.co](https://observatorio.registraduria.gov.co)
- - date_published: 2024-05-23T20:27:00+00:00
-
- ## Democracia Actual
- - [https://revistas.registraduria.gov.co](https://revistas.registraduria.gov.co)
- - date_published: 2024-06-12T03:31:16.178926+00:00
-
- ## Registraduría Nacional del Estado Civil
- - [https://wapp.registraduria.gov.co](https://wapp.registraduria.gov.co)
- - date_published: 2024-06-11T23:59:34.750417+00:00
-
- ## Registraduría Nacional del Estado Civil
- - [https://www.registraduria.gov.co](https://www.registraduria.gov.co)
- - date_published: 2024-06-11T23:26:41.714165+00:00
-
- ## Respira 2030 – Nuestra huella es sembrar
- - [https://respira2030.gov.co](https://respira2030.gov.co)
- - date_published: 2024-06-12T03:02:39.880238+00:00
-
- ## Inicio | Respira el Arte
- - [https://respiraelarte.gov.co](https://respiraelarte.gov.co)
- - date_published: 2024-06-12T01:18:36.914242+00:00
-
- ## revistaerrata.co | Revista de Artes Visuales ERRATA#
- - [https://revistaerrata.gov.co](https://revistaerrata.gov.co)
- - date_published: 2024-06-12T06:00:31.502384+00:00
-
- ## RTVC Sistema de Medios Públicos
- - [https://www.rtvc.gov.co](https://www.rtvc.gov.co)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Sistema de Capacitacion - Sicap
- - [https://aulavirtual.saludcapital.gov.co](https://aulavirtual.saludcapital.gov.co)
- - date_published: 2020-07-21T23:06:58+00:00
-
- ## Secretaría Distrital de Salud de Bogotá
-            
-            
-            Inicio
- - [https://www.saludcapital.gov.co](https://www.saludcapital.gov.co)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## OBSERVATORIO
- - [https://observatorioinmobiliario.santamarta.gov.co](https://observatorioinmobiliario.santamarta.gov.co)
- - date_published: 2024-09-12T13:45:07.012629+00:00
-
- ## Portal de Niños | Alcaldia Distrital de Santa Marta
- - [http://portalninos.santamarta.gov.co](http://portalninos.santamarta.gov.co)
- - date_published: 2024-09-12T13:43:23.245957+00:00
-
- ## Alcaldía Distrital de Santa Marta
- - [https://santamarta.gov.co](https://santamarta.gov.co)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## EDUS
- - [https://uaecm.santamarta.gov.co](https://uaecm.santamarta.gov.co)
- - date_published: 2024-09-12T13:44:54.701974+00:00
-
- ## Sapiencia Agencia de Educación Postsecundaria de Medellín
- - [https://fondos.sapiencia.gov.co](https://fondos.sapiencia.gov.co)
- - date_published: 2024-08-24T00:00:00+00:00
-
- ## TESEO
- - [https://pagoenlinea.sapiencia.gov.co](https://pagoenlinea.sapiencia.gov.co)
- - date_published: 2024-09-12T13:29:52.757170+00:00
-
- ## Sapiencia Agencia de Educación Postsecundaria de Medellín
- - [https://sapiencia.gov.co](https://sapiencia.gov.co)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Secretaría Distrital de Seguridad, Convivencia y Justicia
- - [https://scj.gov.co](https://scj.gov.co)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Alcaldía Mayor de Bogotá - G Suite SSO, Ingreso a Workspace
- - [http://correo.scrd.gov.co](http://correo.scrd.gov.co)
- - date_published: 2024-06-12T06:01:29.422323+00:00
-
- ## Plataforma Virtual de Formación en Arte, Cultura y Patrimonio
- - [https://formacion.scrd.gov.co](https://formacion.scrd.gov.co)
- - date_published: 2024-06-12T12:13:37.593935+00:00
-
- ## Inicio | Programa distrital de estimulos para la cultura | Programa Distrital de Apoyos Concertados
- - [https://sicon.scrd.gov.co](https://sicon.scrd.gov.co)
- - date_published: 2024-06-12T01:19:20.559018+00:00
-
- ## IIS Windows Server
- - [http://focalizacion.sdis.gov.co](http://focalizacion.sdis.gov.co)
- - date_published: 2016-12-23T17:07:45+00:00
-
- ## Plataforma de Encuestas y Formularios Web - Secretaria Distrital de Integración Social
- - [https://gencu.sdis.gov.co](https://gencu.sdis.gov.co)
- - date_published: 2024-07-21T04:16:27.049216+00:00
-
- ## IIS Windows Server
- - [http://mesadeservicio.sdis.gov.co](http://mesadeservicio.sdis.gov.co)
- - date_published: 2021-10-25T21:17:26+00:00
-
- ## Inicio
- - [http://sig.sdis.gov.co](http://sig.sdis.gov.co)
- - date_published: 2024-07-21T04:17:31+00:00
-
- ## Aula Virtual SDMujer
- - [https://capacitaciones.sdmujer.gov.co](https://capacitaciones.sdmujer.gov.co)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Da el primer paso, Bogotá te acompaña a dar el segundo.
- - [http://daelprimerpaso.sdmujer.gov.co](http://daelprimerpaso.sdmujer.gov.co)
- - date_published: 2024-05-24T17:19:06+00:00
-
- ## OMEG
- - [https://omeg.sdmujer.gov.co](https://omeg.sdmujer.gov.co)
- - date_published: 2024-06-11T23:03:53.549327+00:00
-
- ## Ruta de atención a mujeres víctimas de violencias y en riesgo de feminicidio
- - [http://rutadeatencion.sdmujer.gov.co](http://rutadeatencion.sdmujer.gov.co)
- - date_published: 2024-05-05T23:53:38+00:00
-
- ## | Secretaría Distrital de la Mujer
- - [https://sdmujer.gov.co](https://sdmujer.gov.co)
- - date_published: 2024-06-11T20:46:31+00:00
-
- ## Sofia
- - [https://sofia.sdmujer.gov.co](https://sofia.sdmujer.gov.co)
- - date_published: 2020-03-25T15:02:24+00:00
-
- ## Caracterización | Plan de Desarrollo Distrial
- - [https://asivaelplan.sdp.gov.co](https://asivaelplan.sdp.gov.co)
- - date_published: 2024-04-30T07:14:46.912445+00:00
-
- ## Bienvenido a INVENTARIO | INVENTARIO
- - [https://inventariobogota.sdp.gov.co](https://inventariobogota.sdp.gov.co)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Inicio | regaliasbogota.sdp.gov.co
- - [https://regaliasbogota.sdp.gov.co](https://regaliasbogota.sdp.gov.co)
- - date_published: 2024-07-21T04:03:53.262011+00:00
-
- ## Secretaría Distrital de Planeación
- - [https://sdp.gov.co](https://sdp.gov.co)
- - date_published: 2024-04-30T07:16:26.763690+00:00
-
- ## Welcome to WildFly
- - [https://sipa.sdp.gov.co](https://sipa.sdp.gov.co)
- - date_published: 2021-07-27T14:03:30+00:00
-
- ## Registro Solicitudes SISBÉN IV
- - [https://sisbensol.sdp.gov.co](https://sisbensol.sdp.gov.co)
- - date_published: 2022-05-26T12:50:34+00:00
-
- ## Inicio
- - [https://community.secop.gov.co](https://community.secop.gov.co)
- - date_published: 2024-06-12T03:33:39.151551+00:00
-
- ## Secretaría Distrital de Ambiente
- - [https://secretariadeambiente.gov.co](https://secretariadeambiente.gov.co)
- - date_published: 2020-07-03T05:33:53+00:00
-
- ## Archivo de Bogotá | Secretaría General - Alcaldía Mayor de Bogotá
- - [https://archivobogota.secretariageneral.gov.co](https://archivobogota.secretariageneral.gov.co)
- - date_published: 2024-08-11T06:07:49.412376+00:00
-
- ## Registro Distrital - Registro Distrital
- - [https://registrodistrital.secretariageneral.gov.co](https://registrodistrital.secretariageneral.gov.co)
- - date_published: 2024-04-30T07:15:05.835527+00:00
-
- ## Inicio | Sede Electrónica - Secretaria General
- - [https://secretariageneral.gov.co](https://secretariageneral.gov.co)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Secretaría Jurídica Distrital | Secretaría Jurídica Distrital
- - [https://intranet.secretariajuridica.gov.co](https://intranet.secretariajuridica.gov.co)
- - date_published: 2024-07-21T04:15:34.568944+00:00
-
- ## Inicio | Secretaría Jurídica Distrital
- - [https://legalbog.secretariajuridica.gov.co](https://legalbog.secretariajuridica.gov.co)
- - date_published: 2024-04-23T14:05:03+00:00
-
- ## Bienvenido a Secretaría Jurídica Distrital | Transparencia y acceso a la información publica
- - [https://secretariajuridica.gov.co](https://secretariajuridica.gov.co)
- - date_published: 2024-07-21T04:02:34.977765+00:00
-
- ## SECRETARÍA GENERAL DEL SENADO
- - [http://www.secretariasenado.gov.co](http://www.secretariasenado.gov.co)
- - date_published: 2024-06-12T10:56:43.988154+00:00
-
- ## Home | Sistema Estadístico Nacional
- - [https://www.sen.gov.co](https://www.sen.gov.co)
- - date_published: 2024-06-12T13:09:58.638816+00:00
-
- ## Departamento Administrativo del Servicio Civil Distrital
- - [https://2019.serviciocivil.gov.co](https://2019.serviciocivil.gov.co)
- - date_published: 2021-12-15T18:52:14+00:00
-
- ## Inicio |  Portal Aspirantes - SEVCOM
- - [https://aspirantes.serviciocivil.gov.co](https://aspirantes.serviciocivil.gov.co)
- - date_published: 2024-06-11T00:00:00+00:00
+ ## Metro de Medellín: transporte, servicios y cultura en Medellín
+ - [https://www.metrodemedellin.gov.co](https://www.metrodemedellin.gov.co)
+ - date_published: 2024-12-09T21:52:42+00:00
 

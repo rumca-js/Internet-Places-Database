@@ -1,3 +1,132 @@
+ ## Hypersphere
+ - [https://hypersphere.blog](https://hypersphere.blog)
+ - date_published: 2023-10-25T12:00:24.491597+00:00
+
+ ## As I said the other day... — PR hack, dog walker, nature love...
+ - [https://iainmaclean.blog](https://iainmaclean.blog)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## illuminator dot blog
+ - [https://www.illuminator.blog](https://www.illuminator.blog)
+ - date_published: 2024-06-18T22:07:04+00:00
+
+ ## Inner Wilds | River Kenna | Substack
+ - [https://innerwilds.blog](https://innerwilds.blog)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## Innovation Nation | George Patterson Sibble | Substack
+ - [https://innovationnation.blog](https://innovationnation.blog)
+ - date_published: 2023-10-25T12:00:28.316276+00:00
+
+ ## Interconnected | Where Tech, Investing, Geopolitics Come Together
+ - [https://interconnected.blog](https://interconnected.blog)
+ - date_published: 2023-10-25T12:00:31.197795+00:00
+
+ ## Islamic Law Blog
+ - [https://islamiclaw.blog](https://islamiclaw.blog)
+ - date_published: 2024-06-28T20:54:12.194786+00:00
+
+ ## Jacob Bennett – Medium
+ - [https://jacob.blog](https://jacob.blog)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Home | James' Coffee Blog
+ - [https://jamesg.blog](https://jamesg.blog)
+ - date_published: 2023-10-25T08:42:49.809384+00:00
+ - tags: ['personal']
+
+ ## Jan van den Berg
+ - [https://janvandenberg.blog](https://janvandenberg.blog)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Jason Collins blog
+ - [https://www.jasoncollins.blog](https://www.jasoncollins.blog)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Jason A. Hoffman
+ - [https://jasonhoffman.blog](https://jasonhoffman.blog)
+ - date_published: 2024-05-02T10:30:04.834735+00:00
+
+ ## Jay Clouse | Sign up for Jay's Newsletter
+ - [https://jay.blog](https://jay.blog)
+ - date_published: 2024-06-23T00:01:36.948530+00:00
+
+ ## Jeff Wilcox
+ - [https://jeffwilcox.blog](https://jeffwilcox.blog)
+ - date_published: 2022-09-17T20:21:00+00:00
+ - tags: ['personal']
+
+ ## Jeremey DuVall — Customer-Focused Product Manager
+ - [https://jeremey.blog](https://jeremey.blog)
+ - date_published: 2023-12-20T14:33:15.143478+00:00
+ - tags: ['personal']
+
+ ## Gavi's Blog
+ - [https://jewy.blog](https://jewy.blog)
+ - date_published: 2024-05-01T04:17:30.599184+00:00
+
+ ## Gavi's Blog
+ - [https://my.jewy.blog](https://my.jewy.blog)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Jiko Kaizen
+ - [https://jikokaizen.blog](https://jikokaizen.blog)
+ - date_published: 2024-07-20T03:09:28.627028+00:00
+
+ ## Jan-Lukas Else
+ - [https://jlelse.blog](https://jlelse.blog)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## jonbeckett.blog
+ - [https://jonbeckett.blog](https://jonbeckett.blog)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Jordan Cooper's Blog: startups, venture capital, etc...
+ - [http://jordancooper.blog](http://jordancooper.blog)
+ - date_published: 2024-06-19T00:07:49+00:00
+
+ ## Josh Betz – Made with 🧀 in Madison
+ - [https://josh.blog](https://josh.blog)
+ - date_published: 2024-07-01T03:39:14.372420+00:00
+
+ ## joshua johnson – learn more. know less.
+ - [https://joshj.blog](https://joshj.blog)
+ - date_published: 2024-01-07T17:48:58.133412+00:00
+
+ ## Josh Withers, the group chat
+ - [https://joshwithers.blog](https://joshwithers.blog)
+ - date_published: 2024-06-01T05:04:00.212824+00:00
+ - tags: ['personal']
+
+ ## json.blog
+ - [https://json.blog](https://json.blog)
+ - date_published: 2023-11-29T17:16:21.010658+00:00
+ - tags: ['personal']
+
+ ## Home by JustDesi
+ - [https://justdesi.blog](https://justdesi.blog)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## KajMagnus' Blog
+ - [https://www.kajmagnus.blog](https://www.kajmagnus.blog)
+ - date_published: 2024-06-23T12:44:50.255646+00:00
+
+ ## Musings
+ - [https://kanyi.blog](https://kanyi.blog)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Blog (Swift, iOS)
+ - [https://kean.blog](https://kean.blog)
+ - date_published: 2023-01-24T00:00:00+00:00
+
+ ## Web-focused software development - kimmo.blog
+ - [https://kimmo.blog](https://kimmo.blog)
+ - date_published: 2023-10-25T12:00:33.095001+00:00
+
+ ## Built to Run
+ - [https://kimmoir.blog](https://kimmoir.blog)
+ - date_published: 2024-07-07T00:00:00+00:00
+
  ## kits
  - [https://kits.blog](https://kits.blog)
  - date_published: 2024-10-16T07:41:37+00:00
@@ -5,6 +134,10 @@
  ## TeamMapper
  - [https://map.kits.blog](https://map.kits.blog)
  - date_published: 2024-06-11T11:49:33+00:00
+
+ ## KMSPico Download | For Windows 11, 10, 8 & Office [2024]
+ - [https://www.kmspico.blog](https://www.kmspico.blog)
+ - date_published: 2024-12-09T15:30:39+00:00
 
  ## Kojo's blog
  - [https://kojo.blog](https://kojo.blog)
@@ -822,6 +955,7 @@
  ## Shtetl-Optimized
  - [https://scottaaronson.blog](https://scottaaronson.blog)
  - date_published: 2023-10-25T12:01:16.273400+00:00
+ - tags: ['personal']
 
  ## Semantically Secure
  - [https://scottarc.blog](https://scottarc.blog)
@@ -3918,132 +4052,4 @@ Educação
  ## Conheça a nova Fiat Titano | FIAT
  - [https://titano.fiat.com.br](https://titano.fiat.com.br)
  - date_published: 2024-10-28T22:44:40.408315+00:00
-
- ## Nova Fiat Toro | FIAT
- - [https://toro.fiat.com.br](https://toro.fiat.com.br)
- - date_published: 2024-10-28T22:44:57.286315+00:00
-
- ## Carros 0km, Sedans, Hatchs, Pickups e Minivans | FIAT
- - [https://www.fiat.com.br](https://www.fiat.com.br)
- - date_published: 2024-06-17T11:54:04+00:00
-
- ## fiatwear - Linha de produtos oficiais Fiat!
- - [https://www.fiatwear.com.br](https://www.fiatwear.com.br)
- - date_published: 2024-10-28T22:46:35.941219+00:00
-
- ## FieldPRO | A evolução da modelagem climática para o novo tempo.
- - [https://fieldpro.com.br](https://fieldpro.com.br)
- - date_published: 2024-10-20T18:44:07.315709+00:00
-
- ## FILMICCA
- - [https://www.filmicca.com.br](https://www.filmicca.com.br)
- - date_published: 2024-10-22T20:48:39.189093+00:00
-
- ## Início - Grupo Finger
- - [https://fingerdigital.com.br](https://fingerdigital.com.br)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Fiquem Sabendo
- - [https://fiquemsabendo.com.br](https://fiquemsabendo.com.br)
- - date_published: 2024-06-28T21:49:29.808218+00:00
-
- ## FireBase - o maior portal sobre banco de dados Firebird em português
- - [http://firebase.com.br](http://firebase.com.br)
- - date_published: 2024-10-16T11:00:01.344138+00:00
-
- ## Firebird Developers Day
- - [https://www.firebirddevelopersday.com.br](https://www.firebirddevelopersday.com.br)
- - date_published: 2024-10-15T19:05:04+00:00
-
- ## FlixBus: Affordable Global Bus Travel
- - [https://www.flixbus.com.br](https://www.flixbus.com.br)
- - date_published: 2024-06-27T15:43:02+00:00
-
- ## Um podcast sobre acessibilidade, diversidade e inclusão na tecnologia
- - [https://focoacessivel.com.br](https://focoacessivel.com.br)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Acervo - Folha de São Paulo
- - [https://acervo.folha.com.br](https://acervo.folha.com.br)
- - date_published: 2024-08-18T13:04:23.630789+00:00
-
- ## Assine Folha de S.Paulo
- - [https://assinaturas.folha.com.br](https://assinaturas.folha.com.br)
- - date_published: 2024-08-18T13:04:42.636122+00:00
-
- ## Login - Folha de S.Paulo
- - [https://atendimento.folha.com.br](https://atendimento.folha.com.br)
- - date_published: 2024-08-18T13:03:37.334126+00:00
-
- ## Home | Clube Folha
- - [https://clube.folha.com.br](https://clube.folha.com.br)
- - date_published: 2024-08-18T13:03:53.442918+00:00
-
- ## Home | Clube Folha Gourmet
- - [https://clubefolhagourmet.folha.com.br](https://clubefolhagourmet.folha.com.br)
- - date_published: 2024-08-18T13:04:17.729838+00:00
-
- ## Coleções | Folha
- - [https://colecoes.folha.com.br](https://colecoes.folha.com.br)
- - date_published: 2024-08-18T13:04:55.502496+00:00
-
- ## Envie informações de interesse público que possam merecer investigação jornalística da Folha
- - [https://folhaleaks.folha.com.br](https://folhaleaks.folha.com.br)
- - date_published: 2024-08-18T13:03:00.679921+00:00
-
- ## Folhapress
- - [https://folhapress.folha.com.br](https://folhapress.folha.com.br)
- - date_published: 2024-08-18T13:03:03.183364+00:00
-
- ## Login - Folha de S.Paulo
- - [https://login.folha.com.br](https://login.folha.com.br)
- - date_published: 2024-08-18T13:03:06.140334+00:00
-
- ## Assine Folha de S.Paulo
- - [https://secure.folha.com.br](https://secure.folha.com.br)
- - date_published: 2024-08-18T13:03:18.967568+00:00
-
- ## Seminários Folha | Folha
- - [https://seminariosfolha.folha.com.br](https://seminariosfolha.folha.com.br)
- - date_published: 2024-08-18T13:05:06.359902+00:00
-
- ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
- - [https://www1.folha.com.br](https://www1.folha.com.br)
- - date_published: 2024-08-18T13:05:04.152743+00:00
-
- ## Portal Publicidade
- - [http://www.publicidade.folha.com.br](http://www.publicidade.folha.com.br)
- - date_published: 2024-08-18T13:04:02.734354+00:00
-
- ## Folhapress
- - [https://folhapress.com.br](https://folhapress.com.br)
- - date_published: 2024-08-18T13:04:33.094785+00:00
-
- ## - Revista de Negócios e Economia - Forbes Brasil
- - [http://forbes.com.br](http://forbes.com.br)
- - date_published: 2024-10-29T15:23:11+00:00
-
- ## Forbes Brasil
- - [https://loja.forbes.com.br](https://loja.forbes.com.br)
- - date_published: 2024-10-29T15:23:30.935040+00:00
-
- ## HOME
- - [https://www.forbes.com.br](https://www.forbes.com.br)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Forma Legno
- - [https://formalegno.com.br](https://formalegno.com.br)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Home - Fortune Tiger: Jogo do Tigre Aposta
- - [https://fortune-tiger-bet777.com.br](https://fortune-tiger-bet777.com.br)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Revista FOSSGIS Brasil - Georreferenciando o Conhecimento
- - [http://fossgisbrasil.com.br](http://fossgisbrasil.com.br)
- - date_published: 2018-10-03T23:18:29+00:00
-
- ## FotoInFoco
- - [http://www.fotografiaetc.com.br](http://www.fotografiaetc.com.br)
- - date_published: 2024-06-24T03:55:25+00:00
 

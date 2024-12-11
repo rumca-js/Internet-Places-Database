@@ -1,3 +1,19 @@
+ ## Home - WeCareer
+ - [http://bitnami.wecareer.ai](http://bitnami.wecareer.ai)
+ - date_published: 2022-05-06T00:00:00+00:00
+
+ ## Home - WeCareer
+ - [https://wecareer.ai](https://wecareer.ai)
+ - date_published: 2022-05-06T00:00:00+00:00
+
+ ## WeCNLP 2021
+ - [https://www.wecnlp.ai](https://www.wecnlp.ai)
+ - date_published: 2024-08-19T18:48:25.754524+00:00
+
+ ## What's Wegic? | Help Center
+ - [https://help.wegic.ai](https://help.wegic.ai)
+ - date_published: 2024-07-23T00:00:00+00:00
+
  ## Wegic User Service Agreement | Terms of service
  - [https://privacy.wegic.ai](https://privacy.wegic.ai)
  - date_published: 2024-08-30T00:00:00+00:00
@@ -2338,6 +2354,10 @@
  - [https://www.buttrfly.app](https://www.buttrfly.app)
  - date_published: 2024-06-30T00:02:18+00:00
 
+ ## Buuky - Desk Sharing leicht gemacht
+ - [https://www.buuky.app](https://www.buuky.app)
+ - date_published: 2024-12-10T17:57:18.491494+00:00
+
  ## Plausible · Web analytics
  - [https://s.cac.app](https://s.cac.app)
  - date_published: 2024-08-19T08:52:43.047882+00:00
@@ -3999,24 +4019,4 @@
  ## Congreso
  - [https://cngcelam.haif.app](https://cngcelam.haif.app)
  - date_published: 2024-09-11T01:52:08.594519+00:00
-
- ## Haikei
- - [https://app.haikei.app](https://app.haikei.app)
- - date_published: 2024-10-22T19:23:48.102270+00:00
-
- ## Hailey HR
- - [https://haileyhr.app](https://haileyhr.app)
- - date_published: 2024-07-10T09:42:31+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.server.hakai.app](https://plausible.server.hakai.app)
- - date_published: 2024-05-04T09:16:01.832091+00:00
-
- ## HAMA | AI Object remover, Image Eraser
- - [https://www.hama.app](https://www.hama.app)
- - date_published: 2024-06-19T19:09:33.346187+00:00
-
- ## HamWaves - Your Guide to Getting Started in Amateur Radio
- - [https://hamwaves.app](https://hamwaves.app)
- - date_published: 2024-10-14T16:56:47.155227+00:00
 

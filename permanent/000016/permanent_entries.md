@@ -1,3 +1,131 @@
+ ## Nova Fiat Toro | FIAT
+ - [https://toro.fiat.com.br](https://toro.fiat.com.br)
+ - date_published: 2024-10-28T22:44:57.286315+00:00
+
+ ## Carros 0km, Sedans, Hatchs, Pickups e Minivans | FIAT
+ - [https://www.fiat.com.br](https://www.fiat.com.br)
+ - date_published: 2024-06-17T11:54:04+00:00
+
+ ## fiatwear - Linha de produtos oficiais Fiat!
+ - [https://www.fiatwear.com.br](https://www.fiatwear.com.br)
+ - date_published: 2024-10-28T22:46:35.941219+00:00
+
+ ## FieldPRO | A evolução da modelagem climática para o novo tempo.
+ - [https://fieldpro.com.br](https://fieldpro.com.br)
+ - date_published: 2024-10-20T18:44:07.315709+00:00
+
+ ## FILMICCA
+ - [https://www.filmicca.com.br](https://www.filmicca.com.br)
+ - date_published: 2024-10-22T20:48:39.189093+00:00
+
+ ## Início - Grupo Finger
+ - [https://fingerdigital.com.br](https://fingerdigital.com.br)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Fiquem Sabendo
+ - [https://fiquemsabendo.com.br](https://fiquemsabendo.com.br)
+ - date_published: 2024-06-28T21:49:29.808218+00:00
+
+ ## FireBase - o maior portal sobre banco de dados Firebird em português
+ - [http://firebase.com.br](http://firebase.com.br)
+ - date_published: 2024-10-16T11:00:01.344138+00:00
+
+ ## Firebird Developers Day
+ - [https://www.firebirddevelopersday.com.br](https://www.firebirddevelopersday.com.br)
+ - date_published: 2024-10-15T19:05:04+00:00
+
+ ## FlixBus: Affordable Global Bus Travel
+ - [https://www.flixbus.com.br](https://www.flixbus.com.br)
+ - date_published: 2024-06-27T15:43:02+00:00
+
+ ## Um podcast sobre acessibilidade, diversidade e inclusão na tecnologia
+ - [https://focoacessivel.com.br](https://focoacessivel.com.br)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Acervo - Folha de São Paulo
+ - [https://acervo.folha.com.br](https://acervo.folha.com.br)
+ - date_published: 2024-08-18T13:04:23.630789+00:00
+
+ ## Assine Folha de S.Paulo
+ - [https://assinaturas.folha.com.br](https://assinaturas.folha.com.br)
+ - date_published: 2024-08-18T13:04:42.636122+00:00
+
+ ## Login - Folha de S.Paulo
+ - [https://atendimento.folha.com.br](https://atendimento.folha.com.br)
+ - date_published: 2024-08-18T13:03:37.334126+00:00
+
+ ## Home | Clube Folha
+ - [https://clube.folha.com.br](https://clube.folha.com.br)
+ - date_published: 2024-08-18T13:03:53.442918+00:00
+
+ ## Home | Clube Folha Gourmet
+ - [https://clubefolhagourmet.folha.com.br](https://clubefolhagourmet.folha.com.br)
+ - date_published: 2024-08-18T13:04:17.729838+00:00
+
+ ## Coleções | Folha
+ - [https://colecoes.folha.com.br](https://colecoes.folha.com.br)
+ - date_published: 2024-08-18T13:04:55.502496+00:00
+
+ ## Envie informações de interesse público que possam merecer investigação jornalística da Folha
+ - [https://folhaleaks.folha.com.br](https://folhaleaks.folha.com.br)
+ - date_published: 2024-08-18T13:03:00.679921+00:00
+
+ ## Folhapress
+ - [https://folhapress.folha.com.br](https://folhapress.folha.com.br)
+ - date_published: 2024-08-18T13:03:03.183364+00:00
+
+ ## Login - Folha de S.Paulo
+ - [https://login.folha.com.br](https://login.folha.com.br)
+ - date_published: 2024-08-18T13:03:06.140334+00:00
+
+ ## Assine Folha de S.Paulo
+ - [https://secure.folha.com.br](https://secure.folha.com.br)
+ - date_published: 2024-08-18T13:03:18.967568+00:00
+
+ ## Seminários Folha | Folha
+ - [https://seminariosfolha.folha.com.br](https://seminariosfolha.folha.com.br)
+ - date_published: 2024-08-18T13:05:06.359902+00:00
+
+ ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
+ - [https://www1.folha.com.br](https://www1.folha.com.br)
+ - date_published: 2024-08-18T13:05:04.152743+00:00
+
+ ## Portal Publicidade
+ - [http://www.publicidade.folha.com.br](http://www.publicidade.folha.com.br)
+ - date_published: 2024-08-18T13:04:02.734354+00:00
+
+ ## Folhapress
+ - [https://folhapress.com.br](https://folhapress.com.br)
+ - date_published: 2024-08-18T13:04:33.094785+00:00
+
+ ## - Revista de Negócios e Economia - Forbes Brasil
+ - [http://forbes.com.br](http://forbes.com.br)
+ - date_published: 2024-10-29T15:23:11+00:00
+
+ ## Forbes Brasil
+ - [https://loja.forbes.com.br](https://loja.forbes.com.br)
+ - date_published: 2024-10-29T15:23:30.935040+00:00
+
+ ## HOME
+ - [https://www.forbes.com.br](https://www.forbes.com.br)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Forma Legno
+ - [https://formalegno.com.br](https://formalegno.com.br)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Home - Fortune Tiger: Jogo do Tigre Aposta
+ - [https://fortune-tiger-bet777.com.br](https://fortune-tiger-bet777.com.br)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Revista FOSSGIS Brasil - Georreferenciando o Conhecimento
+ - [http://fossgisbrasil.com.br](http://fossgisbrasil.com.br)
+ - date_published: 2018-10-03T23:18:29+00:00
+
+ ## FotoInFoco
+ - [http://www.fotografiaetc.com.br](http://www.fotografiaetc.com.br)
+ - date_published: 2024-06-24T03:55:25+00:00
+
  ## FranklinCovey Brasil | Aprimoramento de Performance
  - [https://www.franklincovey.com.br](https://www.franklincovey.com.br)
  - date_published: 2024-06-21T10:44:36+00:00
@@ -2028,6 +2156,10 @@
  - [https://www.visa.com.br](https://www.visa.com.br)
  - date_published: 2024-05-06T09:09:47.941693+00:00
 
+ ## Homepage do VisitTheUSA.com
+ - [https://www.visiteosusa.com.br](https://www.visiteosusa.com.br)
+ - date_published: 2024-12-10T02:41:46+00:00
+
  ## Home - Viva Saúde
  - [https://vivasaudedigital.com.br](https://vivasaudedigital.com.br)
  - date_published: 2024-07-11T17:33:46.699214+00:00
@@ -2067,6 +2199,10 @@
  ## WEB3DEV
  - [https://www.web3dev.com.br](https://www.web3dev.com.br)
  - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Webedia Brazil • Engaging Audiences with Passion
+ - [http://www.webedia.com.br](http://www.webedia.com.br)
+ - date_published: 2024-12-09T10:47:33+00:00
 
  ## WETCO
  - [https://wetco.com.br](https://wetco.com.br)
@@ -3875,140 +4011,4 @@
  ## B2B.BY - желтые страницы Беларуси: справочник, каталог, база данных предприятий, заводов, организаций, компании, фирм, ип, адреса, номера телефонов
  - [https://www.b2b.by](https://www.b2b.by)
  - date_published: 2024-07-10T00:00:00+00:00
-
- ## Купить коммерческий транспорт, продажа коммерческих автомобилей — Атлант-М
- - [https://b2b-atlantm.by](https://b2b-atlantm.by)
- - date_published: 2024-10-29T21:31:29.290447+00:00
-
- ## @baddesigner
- - [http://baddesigner.by](http://baddesigner.by)
- - date_published: 2024-07-13T15:55:41.185957+00:00
-
- ## Музыкальный фестиваль "Большая бард-рыбалка"
- - [https://bard-rybalka.by](https://bard-rybalka.by)
- - date_published: 2024-06-28T08:04:48+00:00
-
- ## Free Lead Magnet Software - eBooks, Workbooks etc - Beacon
- - [https://beacon.by](https://beacon.by)
- - date_published: 2024-07-14T20:48:19.396213+00:00
-
- ## Канал Беларусь 24: новости страны и мира, программа передач
- - [https://belarus24.by](https://belarus24.by)
- - date_published: 2024-06-30T03:40:43.972739+00:00
-
- ## Игровые приставки и видеоигры - купить в Минске консоль | Доставка приставок и игр по всей Беларуси
- - [http://www.belconsole.by](http://www.belconsole.by)
- - date_published: 2024-06-17T05:42:10.089583+00:00
-
- ## Новости Беларуси|БелТА
- - [https://belta.by](https://belta.by)
- - date_published: 2024-08-11T16:08:09.433512+00:00
-
- ## Навіны Беларусі | Беларускія навіны | Беларусь - афіцыйныя навіны | Мінск | БелТА
- - [https://blr.belta.by](https://blr.belta.by)
- - date_published: 2024-08-11T16:07:59.698299+00:00
-
- ## 白俄罗斯新闻
- - [https://chn.belta.by](https://chn.belta.by)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Nachrichten aus Belarus | Belarussische Nachrichten | Belarus – offizielle Nachrichten | Minsk | BelTA
- - [https://deu.belta.by](https://deu.belta.by)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Belarus News | Belarusian news | Belarus today | news in Belarus | Minsk news | BELTA
- - [https://eng.belta.by](https://eng.belta.by)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Noticias de Belarús | Noticias belarusas | Belarús - noticias oficiales | Minsk | BelTA
- - [https://esp.belta.by](https://esp.belta.by)
- - date_published: 2024-08-11T16:19:42.181561+00:00
-
- ## Białoruś Wiadomości | wiadomości białoruskie | Białoruś dzisiaj | aktualności na Białorusi | wiadomości z Mińska | BELTA
- - [https://pol.belta.by](https://pol.belta.by)
- - date_published: 2024-08-11T15:58:20.545435+00:00
-
- ## Создание интернет-магазина, Создать интернет-магазин самостоятельно и бесплатно в Минске, Беларуси
- - [https://beseller.by](https://beseller.by)
- - date_published: 2024-10-17T07:04:03.104309+00:00
-
- ## Custom Domain by Bitly
- - [http://blur.by](http://blur.by)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Купить Форд новый в Минске | Официальный дилер Атлант-М Боровая в Беларуси
- - [https://borovaya.by](https://borovaya.by)
- - date_published: 2024-10-29T21:31:33.560722+00:00
-
- ## БСХ Бытовые Приборы
- - [https://www.bosch-home.by](https://www.bosch-home.by)
- - date_published: 2024-05-27T08:46:55+00:00
-
- ## Официальный дилер Citroën в Беларуси – ПарадАвто
- - [https://www.citroen.by](https://www.citroen.by)
- - date_published: 2024-05-08T05:30:20.015900+00:00
-
- ## CoreHard
- - [https://corehard.by](https://corehard.by)
- - date_published: 2024-05-25T09:50:35.254380+00:00
-
- ## Index of /
- - [http://mirror.datacenter.by](http://mirror.datacenter.by)
- - date_published: 2024-08-19T22:19:56.673011+00:00
-
- ## Ремонт квартир в Минске
- - [https://domremont.by](https://domremont.by)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Купить Форд новый в Минске | Официальный дилер Атлант-М Боровая в Беларуси
- - [http://www.ford.by](http://www.ford.by)
- - date_published: 2024-06-19T17:00:48.390964+00:00
-
- ## Игровые приставки, игры и аксессуары купить в Минске - gameclub.by
- - [http://gameclub.by](http://gameclub.by)
- - date_published: 2024-06-17T05:41:42.907759+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.by](https://maps.google.by)
- - date_published: 2024-07-20T07:40:31.401680+00:00
-
- ## Google
- - [https://www.google.by](https://www.google.by)
- - date_published: 2024-06-21T22:23:47.483648+00:00
-
- ## Гродненский областной исполнительный комитет
- - [http://www.region.grodno.by](http://www.region.grodno.by)
- - date_published: 2024-08-11T16:11:08.534933+00:00
-
- ## Главная страница
- - [https://www.hilti.by](https://www.hilti.by)
- - date_published: 2024-06-20T07:27:26.364546+00:00
-
- ## Создать интернет-магазин бесплатно – Готовый интернет-магазин с нуля на Insales
- - [https://insales.by](https://insales.by)
- - date_published: 2024-06-18T15:30:25+00:00
-
- ## Защитные решения кибербезопасности для дома и бизнеса | Лаборатория Касперского
- - [http://www.kaspersky.by](http://www.kaspersky.by)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Главная
- - [http://www.kultura.by](http://www.kultura.by)
- - date_published: 2024-08-08T11:40:12+00:00
-
- ## Министерство архитектуры и строительства Республики Беларусь
- - [http://www.mas.by](http://www.mas.by)
- - date_published: 2024-08-11T15:51:05.738301+00:00
-
- ## Наша Ніва: першая беларуская газета
- - [http://nn.by](http://nn.by)
- - date_published: 2024-08-19T21:19:05.506444+00:00
-
- ## Официальный дилер Opel в Беларуси – ПарадАвто
- - [https://www.opel.by](https://www.opel.by)
- - date_published: 2024-07-10T12:39:53+00:00
-
- ## Партизаны Беларуси
- - [https://partizany.by](https://partizany.by)
- - date_published: 2024-06-30T03:40:24.019135+00:00
 

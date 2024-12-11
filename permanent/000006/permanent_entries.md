@@ -1,3 +1,23 @@
+ ## Rydeen
+ - [https://rydeen.app](https://rydeen.app)
+ - date_published: 2024-06-03T11:21:06.056570+00:00
+
+ ## Sales & Dungeons
+ - [https://sales-and-dungeons.app](https://sales-and-dungeons.app)
+ - date_published: 2024-10-27T15:44:07+00:00
+
+ ## Sanrchain Explorer
+ - [https://app-explorer-pos.sanr.app](https://app-explorer-pos.sanr.app)
+ - date_published: 2024-09-24T05:51:04.222441+00:00
+
+ ## SanR —  SocialFi platform that lets you monetize your onchain reputation.
+ - [https://sanr.app](https://sanr.app)
+ - date_published: 2024-09-23T18:56:03.570522+00:00
+
+ ## Sasage | 撮影採寸原稿
+ - [https://www.sasage.app](https://www.sasage.app)
+ - date_published: 2024-07-14T14:13:34.712284+00:00
+
  ## Satyrn
  - [https://satyrn.app](https://satyrn.app)
  - date_published: 2024-07-07T17:59:31+00:00
@@ -66,6 +86,10 @@
  ## Seatsurfing
  - [https://seatsurfing.app](https://seatsurfing.app)
  - date_published: 2024-05-23T20:09:17+00:00
+
+ ## seedit
+ - [https://seedit.app](https://seedit.app)
+ - date_published: 2024-12-10T11:10:50.552968+00:00
 
  ## Show HN: Seedling – A Decentralised Medium
  - [https://seedling-d.app](https://seedling-d.app)
@@ -3994,28 +4018,4 @@
  ## Wooshy
  - [https://wooshy.app](https://wooshy.app)
  - date_published: 2024-05-10T07:00:27.648040+00:00
-
- ## Wormhole - Simple, private file sharing
- - [https://wormhole.app](https://wormhole.app)
- - date_published: 2024-05-11T11:48:13.060852+00:00
-
- ## Worthy News App – Download Christian App
- - [https://worthynews.app](https://worthynews.app)
- - date_published: 2023-02-16T20:08:09+00:00
-
- ## WPD
- - [https://wpd.app](https://wpd.app)
- - date_published: 2022-12-30T05:25:33+00:00
-
- ## writedown - Your public and private diary
- - [https://writedown.app](https://writedown.app)
- - date_published: 2023-10-25T11:51:33.426412+00:00
-
- ## Writers brew AI for macOS
- - [https://writersbrew.app](https://writersbrew.app)
- - date_published: 2024-06-19T13:32:02+00:00
-
- ## I Built a AI Job Interview Companion with Real Time Feedback
- - [https://wyspa.app](https://wyspa.app)
- - date_published: 2024-05-12T23:17:02+00:00
 

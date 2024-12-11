@@ -1,3 +1,139 @@
+ ## Régime de retraite - Université de Montréal
+ - [http://www.rrum.umontreal.ca](http://www.rrum.umontreal.ca)
+ - date_published: 2024-09-16T00:54:16.169158+00:00
+
+ ## Sign in to your account
+ - [http://es.unb.ca](http://es.unb.ca)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## University of New Brunswick Libraries
+ - [https://lib.unb.ca](https://lib.unb.ca)
+ - date_published: 2024-09-24T21:35:01.709083+00:00
+
+ ## Sign in to your account
+ - [https://phonebook.unb.ca](https://phonebook.unb.ca)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## University of New Brunswick | UNB
+ - [https://unb.ca](https://unb.ca)
+ - date_published: 2024-09-24T13:36:20+00:00
+
+ ## Faculty of Computer Science | UNB
+ - [https://www.cs.unb.ca](https://www.cs.unb.ca)
+ - date_published: 2024-07-03T11:33:00+00:00
+
+ ## Department of Mathematics and Statistics at UNB
+ - [http://www.math.unb.ca](http://www.math.unb.ca)
+ - date_published: 2024-06-14T14:50:04+00:00
+
+ ## UNB Recreation Services
+ - [https://recreation.unbf.ca](https://recreation.unbf.ca)
+ - date_published: 2024-09-24T21:36:11.897691+00:00
+
+ ## Find and hire Canadian Freelancers | Unicorn Factory Canada
+ - [https://www.unicornfactory.ca](https://www.unicornfactory.ca)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## The Uniter
+ - [https://uniter.ca](https://uniter.ca)
+ - date_published: 2024-09-13T20:01:42+00:00
+
+ ## #1 Electronic Online Store Canada For Hobby And Education
+ - [https://universal-solder.ca](https://universal-solder.ca)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Home
+ - [https://universitymagazine.ca](https://universitymagazine.ca)
+ - date_published: 2019-04-23T02:59:04+00:00
+
+ ## Unlok
+ - [http://www.unlok.ca](http://www.unlok.ca)
+ - date_published: 2023-12-02T00:00:00+00:00
+
+ ## Homepage
+ - [https://opened.uoguelph.ca](https://opened.uoguelph.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://aix1.uottawa.ca](http://aix1.uottawa.ca)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Alumni | Alumni
+ - [https://alumni.uottawa.ca](https://alumni.uottawa.ca)
+ - date_published: 2024-04-30T05:27:39.204010+00:00
+
+ ## Library | Library
+ - [https://biblio.uottawa.ca](https://biblio.uottawa.ca)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## uOttawa Catalogue < uOttawa
+ - [https://catalogue.uottawa.ca](https://catalogue.uottawa.ca)
+ - date_published: 2024-04-30T05:27:40.893041+00:00
+
+ ## Home
+ - [https://infolab.uottawa.ca](https://infolab.uottawa.ca)
+ - date_published: 2024-07-21T08:26:18.994403+00:00
+
+ ## Page d'accueil
+ - [https://institutdp.uottawa.ca](https://institutdp.uottawa.ca)
+ - date_published: 2024-07-21T08:26:16.868037+00:00
+
+ ## IWOCA 2021
+ - [https://iwoca2021.eecs.uottawa.ca](https://iwoca2021.eecs.uottawa.ca)
+ - date_published: 2021-07-04T22:02:47+00:00
+
+ ## Maestro - uOttawa
+ - [https://maestro.uottawa.ca](https://maestro.uottawa.ca)
+ - date_published: 2024-08-19T19:35:14.783524+00:00
+
+ ## Campus maps | About us
+ - [https://maps.uottawa.ca](https://maps.uottawa.ca)
+ - date_published: 2024-04-30T05:27:32.131616+00:00
+
+ ## Home
+ - [https://pdinstitute.uottawa.ca](https://pdinstitute.uottawa.ca)
+ - date_published: 2024-04-30T05:27:43.655424+00:00
+
+ ## Home - TLSS
+ - [https://saea-tlss.uottawa.ca](https://saea-tlss.uottawa.ca)
+ - date_published: 2021-08-18T16:25:28+00:00
+
+ ## Telfer School of Management
+ - [https://sites.telfer.uottawa.ca](https://sites.telfer.uottawa.ca)
+ - date_published: 2024-07-21T08:26:04.244934+00:00
+
+ ## Centre for Law, Technology and Society | Research and innovation
+ - [https://techlaw.uottawa.ca](https://techlaw.uottawa.ca)
+ - date_published: 2024-07-16T19:47:33+00:00
+
+ ## Home
+ - [https://telfer.uottawa.ca](https://telfer.uottawa.ca)
+ - date_published: 2024-04-30T05:27:47.150767+00:00
+
+ ## E-Page
+ - [https://ue.uottawa.ca](https://ue.uottawa.ca)
+ - date_published: 2024-01-25T16:57:55+00:00
+
+ ## Research Network | University of Ottawa
+ - [https://uniweb.uottawa.ca](https://uniweb.uottawa.ca)
+ - date_published: 2024-10-29T20:44:56.335352+00:00
+
+ ## Welcome to uoforms.uottawa.ca | uoforms.uottawa.ca
+ - [https://uoforms.uottawa.ca](https://uoforms.uottawa.ca)
+ - date_published: 2024-07-21T08:26:41.990505+00:00
+
+ ## Home | University of Ottawa
+ - [https://uottawa.ca](https://uottawa.ca)
+ - date_published: 2024-08-19T19:30:43+00:00
+
+ ## Sign in to your account
+ - [https://virtuo.uottawa.ca](https://virtuo.uottawa.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home | University of Ottawa
+ - [https://www2.uottawa.ca](https://www2.uottawa.ca)
+ - date_published: 2024-07-19T18:00:37+00:00
+
  ## Home page - University of Ottawa Press - EN
  - [http://www.press.uottawa.ca](http://www.press.uottawa.ca)
  - date_published: 2024-07-25T00:00:00+00:00
@@ -1396,6 +1532,10 @@
  - [https://fr.visittheusa.ca](https://fr.visittheusa.ca)
  - date_published: 2024-07-08T14:22:09.005181+00:00
 
+ ## VisitTheUSA.com Homepage
+ - [https://www.visittheusa.ca](https://www.visittheusa.ca)
+ - date_published: 2024-12-10T02:41:46+00:00
+
  ## Vistek is Canada's Camera Store, Shop for Mirrorless Cameras, Digital Cameras, 4k Video Cameras and more - Toronto, Calgary, Edmonton, Canada
  - [https://www.vistek.ca](https://www.vistek.ca)
  - date_published: 2024-06-30T11:47:39.898458+00:00
@@ -1740,6 +1880,10 @@
  ## Portal Home - WPCloud.ca
  - [https://support.wpcloud.ca](https://support.wpcloud.ca)
  - date_published: 2024-04-02T00:00:00+00:00
+
+ ## wpd-canada.ca
+ - [http://www.wpd-canada.ca](http://www.wpd-canada.ca)
+ - date_published: 2024-12-10T22:01:21.558284+00:00
 
  ## Analytics by WP Expert
  - [https://stats.wpexpert.ca](https://stats.wpexpert.ca)
@@ -2646,6 +2790,14 @@
  ## La Vitrine linguistique de l’Office québécois de la langue française
  - [http://gdt.oqlf.gouv.qc.ca](http://gdt.oqlf.gouv.qc.ca)
  - date_published: 2024-10-30T16:51:19.866244+00:00
+
+ ## Ministère des Relations internationales et de la Francophonie
+ - [http://mri.gouv.qc.ca](http://mri.gouv.qc.ca)
+ - date_published: 2024-12-10T20:04:45.862079+00:00
+
+ ## Accueil
+ - [http://www.calq.gouv.qc.ca](http://www.calq.gouv.qc.ca)
+ - date_published: 2024-12-10T20:16:21.347340+00:00
 
  ## Ministère de la Culture et des Communications
  - [https://www.mcc.gouv.qc.ca](https://www.mcc.gouv.qc.ca)
@@ -3690,6 +3842,10 @@
  - [https://www.hoga.careers](https://www.hoga.careers)
  - date_published: 2024-02-27T00:00:00+00:00
 
+ ## Konecranes Careers
+ - [https://konecranes.careers](https://konecranes.careers)
+ - date_published: 2024-12-10T23:35:50.754762+00:00
+
  ## Kubernetes jobs in May 24 (28 new) | Kube Careers
  - [https://kube.careers](https://kube.careers)
  - date_published: 2024-05-08T06:21:39.894635+00:00
@@ -3853,160 +4009,4 @@
  ## Royaal.Casino Le Guide Le Plus Fou Du Web Pour Jouer Online
  - [https://www.royaal.casino](https://www.royaal.casino)
  - date_published: 2024-08-12T00:00:00+00:00
-
- ## Satoshi's Palace
- - [https://satoshispalace.casino](https://satoshispalace.casino)
- - date_published: 2024-07-02T23:47:00+00:00
-
- ## Раскрутка и Продвижение Онлайн Казино ≡ Услуги SEO для интернет казино
- - [https://seo.casino](https://seo.casino)
- - date_published: 2024-06-19T21:54:58.075823+00:00
-
- ## Казино Украины онлайн 2024 | Отзывы, рекомендации экспертов
- - [https://toprating.casino](https://toprating.casino)
- - date_published: 2024-06-16T13:58:06+00:00
-
- ## Utländska Casino
- - [https://xn--utlndska-2za.casino](https://xn--utlndska-2za.casino)
- - date_published: 2024-07-19T05:38:59+00:00
-
- ## La botiga oficial de TV3 i Catalunya Ràdio - CCMA
- - [https://botiga.3cat.cat](https://botiga.3cat.cat)
- - date_published: 2024-10-25T10:32:47.147158+00:00
-
- ## Espai Selecció
- - [https://seleccio.3cat.cat](https://seleccio.3cat.cat)
- - date_published: 2024-10-25T10:32:48.634933+00:00
-
- ## 3Cat, la plataforma digital de continguts en català i de qualitat
- - [https://www.3cat.cat](https://www.3cat.cat)
- - date_published: 2024-07-04T03:53:45.997712+00:00
-
- ## Abadia de Montserrat
- - [https://abadiamontserrat.cat](https://abadiamontserrat.cat)
- - date_published: 2024-09-17T21:14:55.486009+00:00
-
- ## Abadia de Montserrat, gestión integral de venta de entradas
- - [https://reserves.abadiamontserrat.cat](https://reserves.abadiamontserrat.cat)
- - date_published: 2024-09-17T10:33:43+00:00
-
- ## Associació Catalana d'Universitats Públiques | ACUP
- - [https://acup.cat](https://acup.cat)
- - date_published: 2024-05-07T21:59:15.254400+00:00
-
- ## Airbnb | Lloguers vacacionals, casetes, cases a la platja i molt més
- - [https://airbnb.cat](https://airbnb.cat)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## La Xarxa+
- - [http://www.alacarta.cat](http://www.alacarta.cat)
- - date_published: 2024-08-01T10:20:39+00:00
-
- ## albertguillaumes.cat
- - [http://albertguillaumes.cat](http://albertguillaumes.cat)
- - date_published: 2020-09-09T20:53:03+00:00
-
- ## Estacions i intercanviadors - albertguillaumes.cat
- - [http://estacions.albertguillaumes.cat](http://estacions.albertguillaumes.cat)
- - date_published: 2024-02-15T11:35:12+00:00
-
- ## Metro Stations and Transfers
- - [http://stations.albertguillaumes.cat](http://stations.albertguillaumes.cat)
- - date_published: 2024-03-08T00:20:19+00:00
-
- ## Diccionari Amazic-Català
- - [http://www.amazic.cat](http://www.amazic.cat)
- - date_published: 2024-07-02T10:14:51.050372+00:00
-
- ## Inici
- - [https://amicsdemontserrat.cat](https://amicsdemontserrat.cat)
- - date_published: 2024-09-17T21:14:31.913295+00:00
-
- ## Inici | AREA
- - [http://www.areaverda.cat](http://www.areaverda.cat)
- - date_published: 2024-09-17T05:31:45+00:00
-
- ## Home | AwardCat
- - [https://award.cat](https://award.cat)
- - date_published: 2024-10-22T21:56:51.670735+00:00
-
- ## L’espai de trobada amb la gestió de la ciutat de Barcelona.
- - [https://ajuntament.barcelona.cat](https://ajuntament.barcelona.cat)
- - date_published: 2024-06-15T11:00:04+00:00
-
- ## Cercador | Ajuntament de Barcelona
- - [https://cercador.barcelona.cat](https://cercador.barcelona.cat)
- - date_published: 2024-07-07T01:34:11.272373+00:00
-
- ## Com s'hi va
- - [http://com-shi-va.barcelona.cat](http://com-shi-va.barcelona.cat)
- - date_published: 2024-06-26T11:35:46+00:00
-
- ## Butlletins | Ajuntament de Barcelona
- - [https://comunica.barcelona.cat](https://comunica.barcelona.cat)
- - date_published: 2024-06-11T12:37:13+00:00
-
- ## Plànol BCN: carrers, equipaments  | Ajuntament de Barcelona
- - [https://geoportal.barcelona.cat](https://geoportal.barcelona.cat)
- - date_published: 2024-07-07T01:34:08.231412+00:00
-
- ## Guia Barcelona: agenda d’activitats, directoris i cursos i tallers  | Ajuntament de Barcelona
- - [https://guia.barcelona.cat](https://guia.barcelona.cat)
- - date_published: 2024-07-07T01:33:47.700919+00:00
-
- ## El web de la ciutat de Barcelona | Ajuntament de Barcelona
- - [http://lameva.barcelona.cat](http://lameva.barcelona.cat)
- - date_published: 2024-07-07T01:30:52+00:00
-
- ## Welcome to les meves ajudes | les meves ajudes
- - [https://lesmevesajudes.barcelona.cat](https://lesmevesajudes.barcelona.cat)
- - date_published: 2024-09-02T09:44:28.405660+00:00
-
- ## Portal Barcelona Dades
- - [https://portaldades.ajuntament.barcelona.cat](https://portaldades.ajuntament.barcelona.cat)
- - date_published: 2024-07-04T12:27:05+00:00
-
- ## Seu electrònica | Seu electrònica | Ajuntament de Barcelona
- - [https://seuelectronica.ajuntament.barcelona.cat](https://seuelectronica.ajuntament.barcelona.cat)
- - date_published: 2024-07-07T01:34:12.909684+00:00
-
- ## El web de la ciutat de Barcelona | Ajuntament de Barcelona
- - [https://w9.barcelona.cat](https://w9.barcelona.cat)
- - date_published: 2024-09-17T21:00:15+00:00
-
- ## El web de la ciutat de Barcelona | Ajuntament de Barcelona
- - [http://www.barcelona.cat](http://www.barcelona.cat)
- - date_published: 2024-07-07T01:30:52+00:00
-
- ## Inici - Cibernarium
- - [https://cibernarium.barcelonactiva.cat](https://cibernarium.barcelonactiva.cat)
- - date_published: 2024-07-07T01:33:53.556721+00:00
-
- ## Inici - Empreses
- - [https://empreses.barcelonactiva.cat](https://empreses.barcelonactiva.cat)
- - date_published: 2024-09-17T21:30:18.858736+00:00
-
- ## Agència de desenvolupament local - Barcelona Activa
- - [https://www.barcelonactiva.cat](https://www.barcelonactiva.cat)
- - date_published: 2024-09-17T21:30:21.215327+00:00
-
- ## Barcelona En Comú
- - [https://barcelonaencomu.cat](https://barcelonaencomu.cat)
- - date_published: 2024-09-12T19:03:51.433917+00:00
-
- ## Bittersweet Candy Bowl, the online comic
- - [http://bcb.cat](http://bcb.cat)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Barcelona Cultura
- - [http://barcelonacultura.bcn.cat](http://barcelonacultura.bcn.cat)
- - date_published: 2024-06-28T15:57:04+00:00
-
- ## El web de la ciutat de Barcelona | Ajuntament de Barcelona
- - [https://bcn.cat](https://bcn.cat)
- - date_published: 2024-05-08T08:49:35.701086+00:00
-
- ## Plànol BCN: carrers, equipaments  | Ajuntament de Barcelona
- - [https://w33.bcn.cat](https://w33.bcn.cat)
- - date_published: 2024-07-07T01:33:40.237964+00:00
 
