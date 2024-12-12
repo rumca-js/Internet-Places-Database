@@ -1,3 +1,214 @@
+ ## Tages-Anzeiger
+ - [https://helpcenter.tagesanzeiger.ch](https://helpcenter.tagesanzeiger.ch)
+ - date_published: 2023-07-22T05:28:06+00:00
+
+ ## It works
+ - [https://interaktiv-mf.dev-disco.tagesanzeiger.ch](https://interaktiv-mf.dev-disco.tagesanzeiger.ch)
+ - date_published: 2022-03-22T07:39:31+00:00
+
+ ## Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe.
+ - [https://tagesanzeiger.ch](https://tagesanzeiger.ch)
+ - date_published: 2023-10-25T12:14:40.969018+00:00
+
+ ## Home
+ - [https://unternehmen.tagesanzeiger.ch](https://unternehmen.tagesanzeiger.ch)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Deine Karriere bei Tamedia | Tamedia
+ - [https://jobs.tamedia.ch](https://jobs.tamedia.ch)
+ - date_published: 2024-04-30T06:13:17.650790+00:00
+
+ ## Tamedia. Mehr als die nächste Schlagzeile. - Tamedia
+ - [https://tamedia.ch](https://tamedia.ch)
+ - date_published: 2024-07-22T17:54:15.637300+00:00
+
+ ## Taurus Home
+ - [https://www.taurusgroup.ch](https://www.taurusgroup.ch)
+ - date_published: 2024-07-16T22:23:11.351681+00:00
+
+ ## TAWS - The Amiga Workbench Simulation
+ - [https://taws.ch](https://taws.ch)
+ - date_published: 2023-10-25T12:14:41.731543+00:00
+ - tags: ['workbench', 'amiga']
+
+ ## TechCrunch is part of the Yahoo family of brands
+ - [https://tcrn.ch](https://tcrn.ch)
+ - date_published: 2024-02-24T10:01:44.629079+00:00
+
+ ## Agenda - Tribune de Genève
+ - [https://agenda.tdg.ch](https://agenda.tdg.ch)
+ - date_published: 2024-07-22T18:39:38.713088+00:00
+
+ ## Tribune de Genève
+ - [https://helpcenter.tdg.ch](https://helpcenter.tdg.ch)
+ - date_published: 2023-07-23T18:38:43+00:00
+
+ ## Tribune de Genève | l’actualité de Genève, de la Suisse et du monde
+ - [https://tdg.ch](https://tdg.ch)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Full-service sports marketing agency
+ - [http://www.team.ch](http://www.team.ch)
+ - date_published: 2024-10-21T09:09:07.459615+00:00
+
+ ## Online Druckerei für Teamoutfits - Textildruck | TeamShirts
+ - [https://www.teamshirts.ch](https://www.teamshirts.ch)
+ - date_published: 2024-10-21T09:04:07.732314+00:00
+
+ ## Team Trade Import & Export GmbH
+ - [https://teamtrade.ch](https://teamtrade.ch)
+ - date_published: 2024-10-21T09:23:43.454293+00:00
+
+ ## Tech4Regeneration Startup acceleration program
+ - [https://www.tech4regeneration.ch](https://www.tech4regeneration.ch)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Build your best career in tech | TechFace.ch | we connect you
+ - [https://techface.ch](https://techface.ch)
+ - date_published: 2024-10-30T05:31:57.653591+00:00
+
+ ## Schweizer Technik Manufaktur GmbH
+ - [http://technik-manufaktur.ch](http://technik-manufaktur.ch)
+ - date_published: 2023-04-12T09:43:41+00:00
+
+ ## TECHNOLOGY ASTRONAUTS - Exploration Lunaire
+ - [http://www.technologyastronauts.ch](http://www.technologyastronauts.ch)
+ - date_published: 2020-07-01T05:32:00+00:00
+
+ ## Tendertracker
+ - [https://six.tendertracker.ch](https://six.tendertracker.ch)
+ - date_published: 2024-08-20T09:09:04+00:00
+
+ ## Textklexer - Wege eines Verbrechens
+ - [https://textklexer.ch](https://textklexer.ch)
+ - date_published: 2024-01-25T20:56:31+00:00
+
+ ## Blog
+ - [https://blog.theark.ch](https://blog.theark.ch)
+ - date_published: 2024-05-09T08:43:24.978208+00:00
+
+ ## La Fondation pour l'innovation en Valais
+ - [http://www.theark.ch](http://www.theark.ch)
+ - date_published: 2024-07-11T10:32:54.709845+00:00
+
+ ## thefork.ch
+ - [https://www.thefork.ch](https://www.thefork.ch)
+ - date_published: 2024-07-21T06:33:37.997363+00:00
+
+ ## THE(G)NET Schweiz - Game News, Reviews, Videos und mehr
+ - [https://www.thegnet.ch](https://www.thegnet.ch)
+ - date_published: 2024-07-11T10:32:37.604058+00:00
+
+ ## The Local Switzerland - News and practical guides in English
+ - [https://www.thelocal.ch](https://www.thelocal.ch)
+ - date_published: 2024-05-06T15:16:49.291442+00:00
+
+ ## Home - The LOOP Zurich
+ - [https://theloopzurich.ch](https://theloopzurich.ch)
+ - date_published: 2024-06-06T18:26:53.612314+00:00
+
+ ## Wählen Sie Ihr passendes Abonnement
+ - [https://abo.themarket.ch](https://abo.themarket.ch)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## The Market – Analysen und Hintergründe aus der Wirtschaft
+ - [https://themarket.ch](https://themarket.ch)
+ - date_published: 2023-10-25T12:14:47.125200+00:00
+
+ ## The North Face | Outdoorbekleidung, Rucksäcke & Schuhe
+ - [https://www.thenorthface.ch](https://www.thenorthface.ch)
+ - date_published: 2024-07-12T07:36:07.263175+00:00
+
+ ## The Place • Premium Hair Salon & Beauty Spa in Zug and Luzern
+ - [https://theplace.ch](https://theplace.ch)
+ - date_published: 2024-10-21T09:23:48.537597+00:00
+
+ ## The Swiss Bay
+ - [https://theswissbay.ch](https://theswissbay.ch)
+ - date_published: 2021-01-02T20:14:54+00:00
+
+ ## Café snack du musée Chaplin’s World à Corsier sur Vevey Vaud Suisse
+ - [https://www.the-tramp.ch](https://www.the-tramp.ch)
+ - date_published: 2024-07-04T04:07:45.069309+00:00
+
+ ## thewit.ch
+ - [https://music.thewit.ch](https://music.thewit.ch)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## thewit.ch
+ - [http://thewit.ch](http://thewit.ch)
+ - date_published: 2024-10-22T20:21:58.093154+00:00
+
+ ## Thinkabout | Mein Schreiben. Täglich.
+ - [https://thinkabout.ch](https://thinkabout.ch)
+ - date_published: 2024-07-16T17:47:28.054279+00:00
+
+ ## realtime.at - Domain catched
+ - [https://thinkprivacy.ch](https://thinkprivacy.ch)
+ - date_published: 2024-05-14T04:04:35.783511+00:00
+
+ ## Thomann - Willkommen zu Hause!
+ - [https://www.thomannmusic.ch](https://www.thomannmusic.ch)
+ - date_published: 2024-08-19T12:32:53.765291+00:00
+
+ ## Thomas Elmiger, Rüti ZH
+ - [https://thomas-elmiger.ch](https://thomas-elmiger.ch)
+ - date_published: 2022-11-27T14:52:36+00:00
+
+ ## Webseite von Thomas Hitz
+ - [https://thomas-hitz.ch](https://thomas-hitz.ch)
+ - date_published: 2020-11-02T00:00:00+00:00
+
+ ## Thomas Maurer - Cloud and Datacenter
+ - [https://thomasmaurer.ch](https://thomasmaurer.ch)
+ - date_published: 2024-05-01T03:48:17.677160+00:00
+ - tags: ['personal']
+
+ ## Threema Broadcast – Targeted One-to-Many Communication – Threema Work
+ - [https://broadcast.threema.ch](https://broadcast.threema.ch)
+ - date_published: 2024-06-03T15:56:48.919491+00:00
+
+ ## Threema Gateway - Send and receive Threema messages with your own software.
+ - [https://gateway.threema.ch](https://gateway.threema.ch)
+ - date_published: 2024-06-03T15:56:41.059060+00:00
+
+ ## hCaptcha - Stop bots and human abuse.
+ - [https://hcaptcha-ws.threema.ch](https://hcaptcha-ws.threema.ch)
+ - date_published: 2024-06-03T15:57:09.387568+00:00
+
+ ## Threema System Status
+ - [https://status.threema.ch](https://status.threema.ch)
+ - date_published: 2023-06-13T10:56:24+00:00
+
+ ## Threema – The Secure Messenger For Individuals and Companies
+ - [https://threema.ch](https://threema.ch)
+ - date_published: 2024-06-03T15:55:32+00:00
+ - tags: ['instant messaging']
+
+ ## Threema Web
+ - [https://web.threema.ch](https://web.threema.ch)
+ - date_published: 2024-05-14T15:45:49+00:00
+
+ ## Threema Work – The Secure Business Messenger
+ - [https://work.threema.ch](https://work.threema.ch)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Thunerseespiele
+ - [https://thunerseespiele.ch](https://thunerseespiele.ch)
+ - date_published: 2024-07-04T03:13:55.173814+00:00
+
+ ## Agenda - Thuner Tagblatt
+ - [https://agenda.thunertagblatt.ch](https://agenda.thunertagblatt.ch)
+ - date_published: 2024-07-22T18:38:02.574148+00:00
+
+ ## Thuner Tagblatt
+ - [https://helpcenter.thunertagblatt.ch](https://helpcenter.thunertagblatt.ch)
+ - date_published: 2023-07-23T18:38:07+00:00
+
+ ## Thuner Tagblatt | Die Region zuerst. Ihre Zeitung für Thun.
+ - [https://thunertagblatt.ch](https://thunertagblatt.ch)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## isoledibrissago
  - [https://www.isoledibrissago.ti.ch](https://www.isoledibrissago.ti.ch)
  - date_published: 2024-08-18T10:28:11.845749+00:00
@@ -2554,6 +2765,10 @@ Fakultät | Universität Basel
  - [https://urbanize.city](https://urbanize.city)
  - date_published: 2024-06-28T14:02:01.096728+00:00
 
+ ## Vitalia Forever / Jan6 → Mar3, 2025 / Roatán, Honduras
+ - [https://www.vitalia.city](https://www.vitalia.city)
+ - date_published: 2024-12-11T16:58:19+00:00
+
  ## War Up Close ~ VR museum of war in Ukraine
  - [https://war.city](https://war.city)
  - date_published: 2024-02-09T00:00:00+00:00
@@ -2785,6 +3000,10 @@ Fakultät | Universität Basel
  ## "The Drugs Don't Work": La ambigua balada de The Verve que conquistó el Reino Unido
  - [https://seguro.concierto.cl](https://seguro.concierto.cl)
  - date_published: 2024-09-13T02:06:23+00:00
+
+ ## Home Personas - Copec S.A. | Primera en servicio
+ - [http://ww2.copec.cl](http://ww2.copec.cl)
+ - date_published: 2024-12-11T04:49:04.867754+00:00
 
  ## Radio Corazón
  - [https://corazon.cl](https://corazon.cl)
@@ -3800,221 +4019,4 @@ Fakultät | Universität Basel
  ## FAVET - Facultad de Ciencias Veterinarias y Pecuarias - Universidad de Chile
  - [https://veterinaria.uchile.cl](https://veterinaria.uchile.cl)
  - date_published: 2024-08-07T17:07:42.023055+00:00
-
- ## Bachillerato UChile – Programa de Bachillerato de la Universidad de Chile
- - [https://www.bachillerato.uchile.cl](https://www.bachillerato.uchile.cl)
- - date_published: 2024-08-07T17:06:45.884534+00:00
-
- ## Ingeniería Industrial :: Universidad de Chile
- - [https://www.dii.uchile.cl](https://www.dii.uchile.cl)
- - date_published: 2024-08-07T17:07:54.813363+00:00
-
- ## Department of Mathematical Engineering (DIM) - Universidad de Chile
- - [http://www.dim.uchile.cl](http://www.dim.uchile.cl)
- - date_published: 2024-08-07T17:05:50.801670+00:00
-
- ## Inicio - EdV Universidad de Chile
- - [https://www.edv.uchile.cl](https://www.edv.uchile.cl)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## U-Cursos
- - [https://www.u-cursos.cl](https://www.u-cursos.cl)
- - date_published: 2024-08-07T17:07:39.125093+00:00
-
- ## Women in Data Science @ Santiago Chile
- - [https://wids.udd.cl](https://wids.udd.cl)
- - date_published: 2022-09-14T16:37:53+00:00
-
- ## Tienda oficial
- - [https://tienda.udechile.cl](https://tienda.udechile.cl)
- - date_published: 2024-10-20T21:42:21.661619+00:00
-
- ## Club Universidad de Chile
- - [https://www.udechile.cl](https://www.udechile.cl)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Mirror UFRO
- - [http://mirror.ufro.cl](http://mirror.ufro.cl)
- - date_published: 2023-12-11T21:54:53+00:00
-
- ## Noticias UNAB - Dirección de Comunicaciones
- - [https://noticias.unab.cl](https://noticias.unab.cl)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Visa, un líder confiable en pagos digitales.
- - [https://visa.cl](https://visa.cl)
- - date_published: 2024-05-12T04:00:18.653620+00:00
-
- ## Página de inicio de VisitTheUSA.com
- - [https://www.visittheusa.cl](https://www.visittheusa.cl)
- - date_published: 2024-12-10T02:41:56+00:00
-
- ## Visor - Login
- - [https://www.vi-sor.cl](https://www.vi-sor.cl)
- - date_published: 2024-09-12T21:00:17.897280+00:00
-
- ## WalmartChile
- - [https://www.walmartchile.cl](https://www.walmartchile.cl)
- - date_published: 2024-06-23T12:42:35.001887+00:00
-
- ## Link de Pago Transbank - Webpay CL
- - [https://www.webpay.cl](https://www.webpay.cl)
- - date_published: 2024-08-13T22:26:19+00:00
-
- ## Cierpliwości...
- - [https://weplay.cl](https://weplay.cl)
- - date_published: 2024-06-15T03:33:22.959291+00:00
-
- ## Frontpage - wpd Chile
- - [http://www.wpd.cl](http://www.wpd.cl)
- - date_published: 2024-12-10T22:01:28.820820+00:00
-
- ## Adopta un futuro mejor
- - [https://adopta.wwf.cl](https://adopta.wwf.cl)
- - date_published: 2024-07-03T02:45:45.866646+00:00
-
- ## Adopta 2024 | Campañas WWF Chile
- - [https://campanas.wwf.cl](https://campanas.wwf.cl)
- - date_published: 2024-07-03T02:45:32.112878+00:00
-
- ## Únete a WWF Chile
- - [https://haztesocio.wwf.cl](https://haztesocio.wwf.cl)
- - date_published: 2024-07-03T02:45:33.749534+00:00
-
- ## Bienvenidos a WWF Chile
- - [https://wwf.cl](https://wwf.cl)
- - date_published: 2024-05-07T23:58:37.212787+00:00
-
- ## Yelp
- - [https://m.yelp.cl](https://m.yelp.cl)
- - date_published: 2024-07-01T06:53:27.998723+00:00
-
- ## Yelp
- - [https://yelp.cl](https://yelp.cl)
- - date_published: 2024-07-01T06:45:02.356282+00:00
-
- ## Zoetis
- - [https://www2.zoetis.cl](https://www2.zoetis.cl)
- - date_published: 2024-06-27T09:52:47+00:00
-
- ## Chileatiende
- - [https://www.chileatiende.gob.cl](https://www.chileatiende.gob.cl)
- - date_published: 2024-09-12T21:08:12.329417+00:00
-
- ## Índice de Innovación Pública
- - [https://indice.lab.gob.cl](https://indice.lab.gob.cl)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Ley del Lobby
- - [https://www.leylobby.gob.cl](https://www.leylobby.gob.cl)
- - date_published: 2024-09-12T21:08:55.848953+00:00
-
- ## Bono Logro Escolar forma parte del Ingreso Ético Familiar - Ministerio de Desarrollo Social - Gobierno de Chile
- - [https://bonologroescolar.ministeriodesarrollosocial.gob.cl](https://bonologroescolar.ministeriodesarrollosocial.gob.cl)
- - date_published: 2024-09-12T20:53:40.726050+00:00
-
- ## Home
- - [https://cop25.mma.gob.cl](https://cop25.mma.gob.cl)
- - date_published: 2024-07-08T13:26:54.610709+00:00
-
- ## ProChile Home
- - [http://www.prochile.gob.cl](http://www.prochile.gob.cl)
- - date_published: 2024-06-26T21:56:54.133767+00:00
-
- ## Portada
- - [https://satisfaccion.gob.cl](https://satisfaccion.gob.cl)
- - date_published: 2024-09-12T21:08:41.146931+00:00
-
- ## Assured | Claims Intelligence Platform
- - [https://www.assured.claims](https://www.assured.claims)
- - date_published: 2024-08-19T10:32:52.602067+00:00
-
- ## Country Select
- - [https://2021.samsungpromotions.claims](https://2021.samsungpromotions.claims)
- - date_published: 2024-10-11T19:53:03.829203+00:00
-
- ## AI-Powered Medical Case Management - Stream
- - [https://stream.claims](https://stream.claims)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## 7G by A. G. Cook
- - [https://7g.click](https://7g.click)
- - date_published: 2024-10-22T22:10:13.750532+00:00
-
- ## Apple vs. 7G by A. G. Cook
- - [https://apple.7g.click](https://apple.7g.click)
- - date_published: 2024-06-18T16:54:18.833009+00:00
-
- ## Alfasoft - Software, training and support for science and development
- - [https://alfasoft.click](https://alfasoft.click)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Rebrandly
- - [https://apebond.click](https://apebond.click)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## Rebrandly
- - [https://apeswap.click](https://apeswap.click)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## ASUS Global
- - [https://asus.click](https://asus.click)
- - date_published: 2024-01-21T19:16:30.885150+00:00
-
- ## backtoheaven's izakaya
- - [https://backtoheaven.click](https://backtoheaven.click)
- - date_published: 2024-08-19T12:32:39+00:00
-
- ## CB.click - Advanced URL Shortener
- - [https://cb.click](https://cb.click)
- - date_published: 2024-07-04T10:08:43.647834+00:00
-
- ## Click
- - [https://clickclickclick.click](https://clickclickclick.click)
- - date_published: 2021-08-23T08:28:57+00:00
- - tags: ['funny', 'weird', 'interesting domain name', 'wtf']
-
- ## cyberia webring!
- - [https://cyberia.click](https://cyberia.click)
- - date_published: 2024-08-18T16:26:01.136310+00:00
-
- ## Home - AGENTUR CLICK LLC
- - [https://hier.click](https://hier.click)
- - date_published: 2021-01-05T16:47:58+00:00
-
- ## Write an email to Santa Claus!
- - [https://hohoho.click](https://hohoho.click)
- - date_published: 2022-12-21T10:55:10+00:00
-
- ## blog.jfo.click
- - [http://blog.jfo.click](http://blog.jfo.click)
- - date_published: 2023-01-08T00:00:00+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.jneidel.click](https://plausible.jneidel.click)
- - date_published: 2024-08-18T03:28:48.913426+00:00
-
- ## track (1×1)
- - [https://c.leadlab.click](https://c.leadlab.click)
- - date_published: 2024-04-29T06:05:52.084143+00:00
-
- ## Link Manager
- - [https://links.click](https://links.click)
- - date_published: 2023-09-15T00:00:00+00:00
-
- ## ManyTools.ai lists the best ai tools sites of 2024!
- - [https://manytools.click](https://manytools.click)
- - date_published: 2024-06-21T11:10:48+00:00
-
- ## MCM Digital Marketing Agency - Customer Acquisition Agency
- - [https://mcm.click](https://mcm.click)
- - date_published: 2024-05-02T12:37:34.227991+00:00
-
- ## Home - Latino Affiliate Network - MiraClick
- - [http://mira.click](http://mira.click)
- - date_published: 2024-10-19T20:37:23.272453+00:00
-
- ## Paul Wilde  , @paul@notnull.space
- - [https://notnull.click](https://notnull.click)
- - date_published: 2024-06-11T00:00:00+00:00
 

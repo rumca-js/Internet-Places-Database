@@ -1,3 +1,195 @@
+ ## Eidgenössische Schiedskommission ESchK
+ - [https://www.eschk.admin.ch](https://www.eschk.admin.ch)
+ - date_published: 2024-10-22T08:57:48.524025+00:00
+
+ ## Eidgenössische Steuerverwaltung ESTV
+ - [https://www.estv.admin.ch](https://www.estv.admin.ch)
+ - date_published: 2024-07-16T22:16:16.095202+00:00
+
+ ## Experimentelle Statistiken des BFS
+ - [https://www.experimental.bfs.admin.ch](https://www.experimental.bfs.admin.ch)
+ - date_published: 2024-07-16T22:16:54.280420+00:00
+
+ ## Bundesamt für Zoll und Grenzsicherheit
+ - [http://www.ezv.admin.ch](http://www.ezv.admin.ch)
+ - date_published: 2024-07-16T22:16:24.006351+00:00
+
+ ## Startseite
+ - [https://www.konsum.admin.ch](https://www.konsum.admin.ch)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Startseite - MeteoSchweiz
+ - [https://www.meteoschweiz.admin.ch](https://www.meteoschweiz.admin.ch)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Page d'accueil - MétéoSuisse
+ - [https://www.meteosuisse.admin.ch](https://www.meteosuisse.admin.ch)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Pagina di partenza - MeteoSvizzera
+ - [https://www.meteosvizzera.admin.ch](https://www.meteosvizzera.admin.ch)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## BACS Startseite
+ - [https://www.ncsc.admin.ch](https://www.ncsc.admin.ch)
+ - date_published: 2024-10-22T08:57:04.620528+00:00
+
+ ## Nachrichtendienst des Bundes
+ - [http://www.ndb.admin.ch](http://www.ndb.admin.ch)
+ - date_published: 2024-10-22T08:59:31.264948+00:00
+
+ ## Nationale Kommission zur Verhütung von Folter
+ - [https://www.nkvf.admin.ch](https://www.nkvf.admin.ch)
+ - date_published: 2024-10-22T08:57:42.819142+00:00
+
+ ## Militärjustiz
+ - [http://www.oa.admin.ch](http://www.oa.admin.ch)
+ - date_published: 2024-10-22T08:58:40.183039+00:00
+
+ ## Page d'accueil OFCS
+ - [https://www.ofcs.admin.ch](https://www.ofcs.admin.ch)
+ - date_published: 2024-10-22T08:58:21.358486+00:00
+
+ ## Startseite
+ - [https://www.plurilingua.admin.ch](https://www.plurilingua.admin.ch)
+ - date_published: 2024-07-16T22:15:14+00:00
+
+ ## Preisüberwacher
+ - [https://www.preisueberwacher.admin.ch](https://www.preisueberwacher.admin.ch)
+ - date_published: 2024-10-14T21:50:16.201268+00:00
+
+ ## Im Brennpunkt
+ - [https://www.sbfi.admin.ch](https://www.sbfi.admin.ch)
+ - date_published: 2024-06-16T22:07:22.700220+00:00
+
+ ## Staatssekretariat für Wirtschaft SECO
+ - [https://www.seco.admin.ch](https://www.seco.admin.ch)
+ - date_published: 2024-10-14T21:49:53.808007+00:00
+
+ ## Staatssekretariat für Sicherheitspolitik SEPOS
+ - [https://www.sepos.admin.ch](https://www.sepos.admin.ch)
+ - date_published: 2024-10-22T08:58:22.490278+00:00
+
+ ## Staatssekretariat für internationale Finanzfragen SIF - Startseite
+ - [https://www.sif.admin.ch](https://www.sif.admin.ch)
+ - date_published: 2024-07-16T22:16:12.893996+00:00
+
+ ## eStaKa
+ - [https://www.staatskalender.admin.ch](https://www.staatskalender.admin.ch)
+ - date_published: 2023-11-08T17:00:49+00:00
+
+ ## Startseite
+ - [https://www.stelle.admin.ch](https://www.stelle.admin.ch)
+ - date_published: 2024-06-18T14:24:23.639863+00:00
+
+ ## swisstopo – wissen wohin
+ - [https://www.swisstopo.admin.ch](https://www.swisstopo.admin.ch)
+ - date_published: 2024-10-22T08:58:28.659700+00:00
+
+ ## Pagina iniziale UFCS
+ - [https://www.ufcs.admin.ch](https://www.ufcs.admin.ch)
+ - date_published: 2024-10-22T08:58:47.010096+00:00
+
+ ## UID Version: 4.23.0.0
+ - [https://www.uid.admin.ch](https://www.uid.admin.ch)
+ - date_published: 2024-09-18T18:08:45.358730+00:00
+
+ ## Startseite
+ - [https://www.uvek.admin.ch](https://www.uvek.admin.ch)
+ - date_published: 2024-06-18T14:29:51.990919+00:00
+
+ ## Das VBS – Sicherheit für die Schweiz
+ - [https://www.vbs.admin.ch](https://www.vbs.admin.ch)
+ - date_published: 2024-06-18T14:25:18+00:00
+
+ ## Vorbild Energie und Klima
+ - [https://www.vorbild-energie-klima.admin.ch](https://www.vorbild-energie-klima.admin.ch)
+ - date_published: 2024-10-22T08:58:41.932442+00:00
+
+ ## Die Gruppe Verteidigung
+ - [http://www.vtg.admin.ch](http://www.vtg.admin.ch)
+ - date_published: 2024-10-22T08:59:16.675818+00:00
+
+ ## Startseite Internet WBF
+ - [http://www.wbf.admin.ch](http://www.wbf.admin.ch)
+ - date_published: 2024-06-18T14:24:26.391044+00:00
+
+ ## Wettbewerbskommission
+ - [https://www.weko.admin.ch](https://www.weko.admin.ch)
+ - date_published: 2024-10-14T21:50:19.575583+00:00
+
+ ## Bundesamt für Zivildienst ZIVI
+ - [https://www.zivi.admin.ch](https://www.zivi.admin.ch)
+ - date_published: 2024-10-14T21:50:21.893122+00:00
+
+ ## Login
+ - [https://mov.adorsaz.ch](https://mov.adorsaz.ch)
+ - date_published: 2024-07-10T07:54:43.199450+00:00
+
+ ## Preisgekrönte Entgeltabrechnungsdienste und HR-Software | ADP Schweiz
+ - [https://www.adp.ch](https://www.adp.ch)
+ - date_published: 2024-06-16T10:08:37.851142+00:00
+
+ ## Welcome to Advance Ticket
+ - [https://www.advance-ticket.ch](https://www.advance-ticket.ch)
+ - date_published: 2023-04-06T15:35:22+00:00
+
+ ## AGEPoly
+ - [https://agepoly.ch](https://agepoly.ch)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Ihre Partnerin für Mobilität & Energie | AGROLA
+ - [https://www.agrola.ch](https://www.agrola.ch)
+ - date_published: 2024-10-15T15:02:35+00:00
+
+ ## Agronetto Schweiz – ein Online-Marktplatz für Landmaschinen und Ersatzteile
+ - [https://agronetto24.ch](https://agronetto24.ch)
+ - date_published: 2024-08-11T15:43:10.989528+00:00
+
+ ## AgroSustain
+ - [https://www.agrosustain.ch](https://www.agrosustain.ch)
+ - date_published: 2024-10-31T06:39:21.844206+00:00
+
+ ## Maison d'Ailleurs
+ - [http://playtime.ailleurs.ch](http://playtime.ailleurs.ch)
+ - date_published: 2024-08-19T17:10:44.899226+00:00
+
+ ## Maison d'Ailleurs
+ - [http://www.ailleurs.ch](http://www.ailleurs.ch)
+ - date_published: 2024-10-29T11:53:55.588463+00:00
+
+ ## AIM | Alternative Information Network
+ - [http://www.aimpress.ch](http://www.aimpress.ch)
+ - date_published: 2013-02-25T10:37:37+00:00
+
+ ## Airbnb | Ferienwohnungen, Blockhütten, Häuser in Strandnähe & mehr
+ - [https://airbnb.ch](https://airbnb.ch)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbnb | Locations de vacances, cabanes, maisons de plage, etc.
+ - [https://fr.airbnb.ch](https://fr.airbnb.ch)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbnb | Case vacanze, baite, case sulla spiaggia e molto altro ancora
+ - [https://it.airbnb.ch](https://it.airbnb.ch)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Schweizerischer Akkreditierungsrat | Conseil suisse d'accréditation
+ - [https://akkreditierungsrat.ch](https://akkreditierungsrat.ch)
+ - date_published: 2024-06-22T06:50:23.778080+00:00
+
+ ## Javier Alberich
+ - [https://alberi.ch](https://alberi.ch)
+ - date_published: 2009-01-22T10:45:29+00:00
+
+ ## Computer
+ - [https://www.alcom.ch](https://www.alcom.ch)
+ - date_published: 2024-07-20T20:59:55.224253+00:00
+
+ ## ALDI SUISSE - Mehr fürs Leben
+ - [https://www.aldi-suisse.ch](https://www.aldi-suisse.ch)
+ - date_published: 2024-07-12T22:52:48.184115+00:00
+
  ## Alex Schroeder’s Diary
  - [https://alexschroeder.ch](https://alexschroeder.ch)
  - date_published: 2024-05-09T00:00:00+00:00
@@ -452,6 +644,10 @@
  - [https://www.biodiversitaetsinitiative.ch](https://www.biodiversitaetsinitiative.ch)
  - date_published: 2024-10-29T11:15:50.608714+00:00
 
+ ## bitiba.ch | Tierbedarf & Tierfutter zu TOP-Preisen
+ - [https://www.bitiba.ch](https://www.bitiba.ch)
+ - date_published: 2024-12-11T12:18:17.612652+00:00
+
  ## Bizgraphic - content packaging, software and services
  - [https://bizgraphic.ch](https://bizgraphic.ch)
  - date_published: 2019-11-02T15:33:37+00:00
@@ -564,6 +760,10 @@
  ## BRACK.CH
  - [https://www.brack.ch](https://www.brack.ch)
  - date_published: 2024-07-20T16:12:42.234924+00:00
+
+ ## dear creative, connect with your creative studio
+ - [https://www.branders.ch](https://www.branders.ch)
+ - date_published: 2024-12-11T19:00:20.140483+00:00
 
  ## brandlift – Agence de Design graphique – Genève
  - [https://brandlift.ch](https://brandlift.ch)
@@ -1679,6 +1879,10 @@
  ## SI: Main Page
  - [https://si.dominikberner.ch](https://si.dominikberner.ch)
  - date_published: 2023-11-23T20:56:27+00:00
+
+ ## .NET Day Switzerland
+ - [https://dotnetday.ch](https://dotnetday.ch)
+ - date_published: 2024-10-04T13:08:49+00:00
 
  ## .NET Usergroup Zentralschweiz – Deine .NET Usergroup in der Zentralschweiz
  - [https://dotnet-zentral.ch](https://dotnet-zentral.ch)
@@ -3411,6 +3615,10 @@
  - [https://stat.exoseed.ch](https://stat.exoseed.ch)
  - date_published: 2024-06-21T13:57:18.056807+00:00
 
+ ## Lösungen für Data, Advanced Analytics & Decisioning
+ - [https://www.experian.ch](https://www.experian.ch)
+ - date_published: 2024-12-11T11:41:16.019455+00:00
+
  ## Explore UNIL
  - [https://www.explore-unil.ch](https://www.explore-unil.ch)
  - date_published: 2024-09-14T23:58:17+00:00
@@ -3801,212 +4009,4 @@
  ## Artikel und Gaming News aus der Schweiz / games.ch
  - [https://games.ch](https://games.ch)
  - date_published: 2024-05-09T00:00:00+00:00
-
- ## GAMES.ch Fanshop
- - [http://shop.games.ch](http://shop.games.ch)
- - date_published: 2021-01-19T15:04:37+00:00
-
- ## GAMES.CH
- - [https://wog.games.ch](https://wog.games.ch)
- - date_published: 2024-09-16T02:49:20+00:00
-
- ## Blog
- - [http://gareauxforages.ch](http://gareauxforages.ch)
- - date_published: 2021-03-23T00:00:00+00:00
-
- ## Homepage - Garnier
- - [http://garnier.ch](http://garnier.ch)
- - date_published: 2024-10-30T17:02:32.623340+00:00
-
- ## Accueil | FAO - République et canton de Genève
- - [https://fao.ge.ch](https://fao.ge.ch)
- - date_published: 2024-06-18T14:24:18.411180+00:00
-
- ## Page d'accueil
- - [https://ge.ch](https://ge.ch)
- - date_published: 2024-06-18T14:22:24+00:00
-
- ## Page de connexion de l'Etat de Genève
- - [https://intranet.ge.ch](https://intranet.ge.ch)
- - date_published: 2024-04-10T21:28:10+00:00
-
- ## participer.ge.ch
- - [https://participer.ge.ch](https://participer.ge.ch)
- - date_published: 2024-09-12T17:08:46.446922+00:00
-
- ## Home - The Geneva Academy of International Humanitarian Law and Human Rights
- - [https://www.geneva-academy.ch](https://www.geneva-academy.ch)
- - date_published: 2024-10-18T17:53:42.245828+00:00
-
- ## Geneva Dialogue
- - [https://genevadialogue.ch](https://genevadialogue.ch)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Geneva .NET User Group
- - [https://genevadnug.ch](https://genevadnug.ch)
- - date_published: 2023-01-29T21:37:38+00:00
-
- ## Geneva Jug
- - [https://genevajug.ch](https://genevajug.ch)
- - date_published: 2024-06-24T20:21:01+00:00
-
- ## SAG - Schweizer Allianz Gentechfrei - Home
- - [https://gentechfrei.ch](https://gentechfrei.ch)
- - date_published: 2024-10-29T11:15:32+00:00
-
- ## Régie Immobilière Suisse - Gerofinance | Régie du Rhône
- - [https://www.gerofinance.ch](https://www.gerofinance.ch)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Switzerland's History
- - [http://history-switzerland.geschichte-schweiz.ch](http://history-switzerland.geschichte-schweiz.ch)
- - date_published: 2024-10-21T05:02:08.290820+00:00
-
- ## Lizenzfreie Stock-Fotos, Creative-Bilder und -Vektoren | Bildmaterial aus den Bereichen News, Fashion und Entertainment - Getty Images
- - [https://www.gettyimages.ch](https://www.gettyimages.ch)
- - date_published: 2024-06-20T01:49:12.665189+00:00
-
- ## STP for minorities and indigenous peoples - Society for Threatened Peoples
- - [https://www.gfbv.ch](https://www.gfbv.ch)
- - date_published: 2024-10-28T15:56:03+00:00
-
- ## gfs.bern | Politik- und Kommunikationsforschung
- - [https://www.gfsbern.ch](https://www.gfsbern.ch)
- - date_published: 2019-04-30T08:37:11+00:00
-
- ## Total Commander Forum (Hetzner)
- - [https://www.ghisler.ch](https://www.ghisler.ch)
- - date_published: 2017-03-17T01:03:11+00:00
-
- ## GHSEARCH ✖ Geekhack Group Buys, Preorders, and Interest Checks
- - [https://ghsear.ch](https://ghsear.ch)
- - date_published: 2024-05-09T08:40:17.662442+00:00
-
- ## Internet, TV, Mobile und Festnetztelefonie von GIB
- - [https://www.gib-solutions.ch](https://www.gib-solutions.ch)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Gilead – Creating Possible | Gilead Schweiz
- - [https://www.gileadswitzerland.ch](https://www.gileadswitzerland.ch)
- - date_published: 2024-07-02T04:08:19.547920+00:00
-
- ## Giro Schweiz | Offizieller Giro Online Shop
- - [https://www.giro.ch](https://www.giro.ch)
- - date_published: 2024-09-18T01:48:32.782532+00:00
-
- ## GiuRu
- - [http://www.giuru.ch](http://www.giuru.ch)
- - date_published: 2024-07-12T02:46:37.154745+00:00
-
- ## Startpage
- - [https://fbm.gksoft.ch](https://fbm.gksoft.ch)
- - date_published: 2024-09-10T15:27:15+00:00
-
- ## Glassdoor-Jobsuche
- - [https://de.glassdoor.ch](https://de.glassdoor.ch)
- - date_published: 2024-06-22T21:19:40.227601+00:00
-
- ## Recherche d'emploi sur Glassdoor
- - [https://fr.glassdoor.ch](https://fr.glassdoor.ch)
- - date_published: 2024-07-12T19:23:41.117843+00:00
-
- ## Overview - 911 - glatec - Empa
- - [http://www.glatec.ch](http://www.glatec.ch)
- - date_published: 2024-09-15T15:09:52.578174+00:00
-
- ## GMX: E-Mail, FreeMail & Nachrichten
- - [https://gmx.ch](https://gmx.ch)
- - date_published: 2024-09-30T10:40:18.730844+00:00
-
- ## GMX Suche
- - [https://suche.gmx.ch](https://suche.gmx.ch)
- - date_published: 2024-06-10T06:54:16.207836+00:00
-
- ## Vorteilswelt Schweiz: Aktuelle Top-Angebot
- - [https://vorteile.gmx.ch](https://vorteile.gmx.ch)
- - date_published: 2024-09-30T10:39:53.608710+00:00
-
- ## GNU/Linux.ch
- - [https://gnulinux.ch](https://gnulinux.ch)
- - date_published: 2024-07-02T21:43:35.233397+00:00
-
- ## GoldenZen music | All about my music and projects.
- - [https://www.goldenzen-music.ch](https://www.goldenzen-music.ch)
- - date_published: 2024-06-27T10:55:18.302082+00:00
-
- ## Gomibo.ch - Alle Handys und Zubehör
- - [https://www.gomibo.ch](https://www.gomibo.ch)
- - date_published: 2024-10-21T22:24:14.371098+00:00
-
- ## Google Books
- - [https://books.google.ch](https://books.google.ch)
- - date_published: 2024-06-27T12:49:19.854067+00:00
-
- ## Grafika Google
- - [https://images.google.ch](https://images.google.ch)
- - date_published: 2024-07-20T07:36:21.968686+00:00
-
- ## Google Scholar
- - [https://scholar.google.ch](https://scholar.google.ch)
- - date_published: 2024-04-30T05:11:35.464092+00:00
-
- ## Google
- - [https://www.google.ch](https://www.google.ch)
- - date_published: 2024-06-21T22:25:09.958899+00:00
-
- ## Information on GovCERT
- - [https://govcert.ch](https://govcert.ch)
- - date_published: 2024-07-15T11:16:34.290785+00:00
-
- ## Home | Best Practices Database
- - [http://bestpractices.gptw.ch](http://bestpractices.gptw.ch)
- - date_published: 2024-09-10T23:43:47.432293+00:00
-
- ## Homepage | IHEID
- - [https://graduateinstitute.ch](https://graduateinstitute.ch)
- - date_published: 2024-07-19T15:07:14+00:00
-
- ## Holidays in Graubünden, Switzerland
- - [https://www.graubuenden.ch](https://www.graubuenden.ch)
- - date_published: 2024-11-21T08:14:03+00:00
-
- ## Experts in Workplace Culture – Great Place To Work®   » Great Place to Work Switzerland
- - [https://en.greatplacetowork.ch](https://en.greatplacetowork.ch)
- - date_published: 2024-06-12T10:42:20.293662+00:00
-
- ## Expert·e·s en culture d'entreprise - Great Place To Work®  » Great Place to Work® Switzerland
- - [https://fr.greatplacetowork.ch](https://fr.greatplacetowork.ch)
- - date_published: 2024-06-12T10:41:09.452293+00:00
-
- ## Expert:Innen für Arbeitsplatzkultur | Great Place To Work®  » Great Place To Work® Switzerland
- - [https://greatplacetowork.ch](https://greatplacetowork.ch)
- - date_published: 2024-06-12T10:41:04.693768+00:00
-
- ## Green – IT solutions for your future
- - [https://www.green.ch](https://www.green.ch)
- - date_published: 2024-07-21T06:18:53.712259+00:00
-
- ## Greenfield | Home
- - [https://greenfieldfestival.ch](https://greenfieldfestival.ch)
- - date_published: 2024-06-25T16:38:44.547115+00:00
-
- ## Grindcore!
- - [https://grindcore.ch](https://grindcore.ch)
- - date_published: 2024-09-14T08:52:54.726665+00:00
-
- ## Il Grottino Ticinese di Losone
- - [https://grottino-ticinese.ch](https://grottino-ticinese.ch)
- - date_published: 2024-08-18T10:28:20.649063+00:00
-
- ## Willkommen | Grünenthal Firmen Schweiz Home
- - [https://www.grunenthal.ch](https://www.grunenthal.ch)
- - date_published: 2024-10-16T18:48:39.683314+00:00
-
- ## Startseite | Grünliberale Partei Schweiz
- - [https://grunliberale.ch](https://grunliberale.ch)
- - date_published: 2024-10-31T04:48:20.030158+00:00
-
- ## Geneva Science-Policy Interface
- - [https://gspi.ch](https://gspi.ch)
- - date_published: 2024-06-06T00:00:00+00:00
 

@@ -1,3 +1,156 @@
+ ## GameStop | The largest video game retailer in Canada. Play. Trade. Save.  - GameStop.ca
+ - [https://www.ebgames.ca](https://www.ebgames.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Redirect
+ - [https://extend-domains.ecampusontario.ca](https://extend-domains.ecampusontario.ca)
+ - date_published: 2021-04-22T21:26:58+00:00
+
+ ## Home | Ontario Extend
+ - [https://extend.ecampusontario.ca](https://extend.ecampusontario.ca)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://piwik.ecchi.ca](https://piwik.ecchi.ca)
+ - date_published: 2024-05-08T11:42:35.654064+00:00
+
+ ## Home - Ecclesiastical Insurance
+ - [https://ecclesiastical.ca](https://ecclesiastical.ca)
+ - date_published: 2021-01-28T19:01:09+00:00
+
+ ## Ecere Corporation
+ - [https://ecere.ca](https://ecere.ca)
+ - date_published: 2021-01-05T21:29:32+00:00
+
+ ## Economic Club of Canada | Economic Club of Canada
+ - [https://economicclub.ca](https://economicclub.ca)
+ - date_published: 2024-10-02T12:07:06.860148+00:00
+
+ ## eContact!
+ - [https://econtact.ca](https://econtact.ca)
+ - date_published: 2023-10-25T12:09:30.076113+00:00
+
+ ## HOME | ECSA-C
+ - [https://www.ecsa-c.ca](https://www.ecsa-c.ca)
+ - date_published: 2024-07-09T14:16:51.272290+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.edealer.ca](https://www.edealer.ca)
+ - date_published: 2024-06-26T22:36:33.392327+00:00
+
+ ## Web Design & Digital Marketing Red Deer | Red Deer Web Design | EDGE Marketing
+ - [https://www.edgemarketing.ca](https://www.edgemarketing.ca)
+ - date_published: 2017-10-03T01:35:00+00:00
+
+ ## HCI | University of Waterloo
+ - [http://edithlaw.ca](http://edithlaw.ca)
+ - date_published: 2024-07-05T18:12:26+00:00
+
+ ## Editors Canada
+ - [https://www.editors.ca](https://www.editors.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Home | City of Edmonton
+ - [https://www.edmonton.ca](https://www.edmonton.ca)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## History, Heritage, Culture | Edmonton Heritage Council
+ - [https://edmontonheritage.ca](https://edmontonheritage.ca)
+ - date_published: 2024-07-20T15:44:28.488990+00:00
+
+ ## Edmonton Police Service
+ - [http://www.edmontonpolice.ca](http://www.edmontonpolice.ca)
+ - date_published: 2024-07-02T05:40:18.356570+00:00
+
+ ## Edmonton Real Estate, Homes, Condos for Sale
+ - [https://www.edmontonrealestate.ca](https://www.edmontonrealestate.ca)
+ - date_published: 2024-08-06T18:27:21.240490+00:00
+
+ ## Educate & Explore
+ - [https://www.educateandexplore.ca](https://www.educateandexplore.ca)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Eeems' Tutorial Hosting
+ - [http://t.eeems.ca](http://t.eeems.ca)
+ - date_published: 2024-07-09T23:33:13.579254+00:00
+
+ ## eharmony dating site | Meet singles & find real love in the UK
+ - [https://eharmony.ca](https://eharmony.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Merchant Services & Payment Processing | Elavon CA
+ - [http://www.elavon.ca](http://www.elavon.ca)
+ - date_published: 2024-08-24T00:00:00+00:00
+
+ ## Élections Canada en ligne - Elections Canada On-line
+ - [https://elections.ca](https://elections.ca)
+ - date_published: 2013-01-02T00:00:00+00:00
+
+ ## Top 5 Top 5 Toronto Electricians 2020 | Electricians.ca Plumbers and Plumbing Contractors for 2020 | Electricians.ca
+ - [http://www.electricians.ca](http://www.electricians.ca)
+ - date_published: 2024-06-29T17:33:26.047931+00:00
+
+ ## ACCUEIL - Électricien Industriel et Commercial
+ - [https://electriciensindustrielcommercial.ca](https://electriciensindustrielcommercial.ca)
+ - date_published: 2024-09-10T11:07:08+00:00
+
+ ## Elektra Montréal
+ - [https://elektramontreal.ca](https://elektramontreal.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Elektra Virtual Museum | Elektra Virtual Museum
+ - [https://evm.elektramontreal.ca](https://evm.elektramontreal.ca)
+ - date_published: 2024-09-15T19:42:56.154844+00:00
+
+ ## Elgin Arts Trail
+ - [http://elginartstrail.ca](http://elginartstrail.ca)
+ - date_published: 2024-05-16T10:10:04+00:00
+
+ ## Elgin County – Progressive By Nature
+ - [http://elgincounty.ca](http://elgincounty.ca)
+ - date_published: 2024-06-29T09:47:08.629022+00:00
+
+ ## Canada's Top 100 Employers | Eluta.ca
+ - [http://content.eluta.ca](http://content.eluta.ca)
+ - date_published: 2024-07-04T15:35:16.263527+00:00
+
+ ## Job Search Canada | Eluta.ca
+ - [https://www.eluta.ca](https://www.eluta.ca)
+ - date_published: 2024-07-11T14:57:25.327137+00:00
+
+ ## Embit - Signals from Technosphere
+ - [https://embit.ca](https://embit.ca)
+ - date_published: 2024-04-09T20:06:35.143210+00:00
+ - tags: ['tech news']
+
+ ## Home | EMD Serono Canada
+ - [https://www.emdserono.ca](https://www.emdserono.ca)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Emma Life Insurance | Best price in Canada in 2024
+ - [https://emma.ca](https://emma.ca)
+ - date_published: 2024-10-28T16:40:55+00:00
+
+ ## En Alerte
+ - [https://www.enalerte.ca](https://www.enalerte.ca)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Engage Muskoka Lakes
+ - [https://engagemuskokalakes.ca](https://engagemuskokalakes.ca)
+ - date_published: 2024-10-17T23:22:54.253474+00:00
+
+ ## EntrepreNorth
+ - [https://www.entreprenorth.ca](https://www.entreprenorth.ca)
+ - date_published: 2024-08-06T03:01:12.668925+00:00
+
+ ## Epic Water Filters | American-made | Certified against NSF/ANSI Stds
+ - [https://www.epicwaterfilters.ca](https://www.epicwaterfilters.ca)
+ - date_published: 2024-06-27T16:12:18.670090+00:00
+
+ ## EP&T Magazine
+ - [https://www.ept.ca](https://www.ept.ca)
+ - date_published: 2024-06-17T00:36:29+00:00
+
  ## EPTECH Shows – Canada’s only cross-country electronics trade show
  - [https://www.eptech.ca](https://www.eptech.ca)
  - date_published: 2024-04-17T00:00:00+00:00
@@ -1220,6 +1373,10 @@
  ## Sign in - Google Accounts
  - [https://engage.hub21.ca](https://engage.hub21.ca)
  - date_published: 2024-09-19T01:30:01.745793+00:00
+
+ ## Hudson's Bay Foundation
+ - [https://www.hudsonsbayfoundation.ca](https://www.hudsonsbayfoundation.ca)
+ - date_published: 2023-08-29T09:45:06+00:00
 
  ## HuffPost - Breaking News, U.S. and World News
  - [https://quebec.huffingtonpost.ca](https://quebec.huffingtonpost.ca)
@@ -2805,6 +2962,10 @@
  - [http://mmts.ca](http://mmts.ca)
  - date_published: 2024-09-13T19:39:44.045288+00:00
 
+ ## Welcome to Mobil™
+ - [https://www.mobil.ca](https://www.mobil.ca)
+ - date_published: 2024-12-11T04:48:59.312378+00:00
+
  ## Mobil Canada Gas Stations | Mobil Canada
  - [https://www.mobilfuel.ca](https://www.mobilfuel.ca)
  - date_published: 2024-07-17T16:40:27.776249+00:00
@@ -3534,6 +3695,10 @@
  - [https://nugonutrition.ca](https://nugonutrition.ca)
  - date_published: 2024-06-24T03:38:08.275132+00:00
 
+ ## Home - Numeris
+ - [https://numeris.ca](https://numeris.ca)
+ - date_published: 2024-12-12T00:02:59.212404+00:00
+
  ## Nurses in Canada, Canada
  - [http://www.nurses.ca](http://www.nurses.ca)
  - date_published: 2024-06-03T00:00:00+00:00
@@ -3876,169 +4041,4 @@
  ## Painters in Canada, Canada
  - [http://www.painting.ca](http://www.painting.ca)
  - date_published: 2024-06-03T00:00:00+00:00
-
- ## Bringing Value Beyond the Brush
- - [https://paintitall.ca](https://paintitall.ca)
- - date_published: 2023-02-02T05:24:57+00:00
-
- ## Palestine Central - an NCCM initiative
- - [https://www.palestinecentral.ca](https://www.palestinecentral.ca)
- - date_published: 2023-10-25T00:00:00+00:00
-
- ## Palo Alto Networks – Global Cybersecurity Leader – Canada
- - [https://www.paloaltonetworks.ca](https://www.paloaltonetworks.ca)
- - date_published: 2024-10-19T17:40:44.913867+00:00
-
- ## Baby Care, Diapers & Parenting Information | Pampers CA
- - [https://www.pampers.ca](https://www.pampers.ca)
- - date_published: 2024-10-28T22:56:14+00:00
-
- ## Couches, soins pour les bébés et renseignements pour les parents | Pampers Canada
- - [https://www.pampers-fr.ca](https://www.pampers-fr.ca)
- - date_published: 2024-10-28T22:47:14+00:00
-
- ## Hair Products For All Hair Types. | Pantene
- - [https://www.pantene.ca](https://www.pantene.ca)
- - date_published: 2024-09-13T14:35:40+00:00
-
- ## the Papertrail Handmade Paper & Book Arts
- - [https://papertrail.ca](https://papertrail.ca)
- - date_published: 2023-06-22T13:06:44+00:00
-
- ## Paranoid Beavers
- - [https://paranoidbeavers.ca](https://paranoidbeavers.ca)
- - date_published: 2017-11-25T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.parieraucanada.ca](https://www.parieraucanada.ca)
- - date_published: 2024-07-17T12:56:38.648713+00:00
-
- ## Pari Sportif Canada : Guide des meilleurs sites de paris en 2024
- - [https://www.parissportifcanada.ca](https://www.parissportifcanada.ca)
- - date_published: 2024-06-20T16:25:08+00:00
-
- ## Welcome! - paritybit.ca
- - [https://paritybit.ca](https://paritybit.ca)
- - date_published: 2024-07-23T23:27:18.774546+00:00
-
- ## Parkland Corporation: We deliver, serve and innovate | Parkland Corporation
- - [https://www.parkland.ca](https://www.parkland.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Parkland Institute
- - [https://www.parklandinstitute.ca](https://www.parklandinstitute.ca)
- - date_published: 2024-07-20T15:44:41.744817+00:00
-
- ## Parks Canada
- - [https://www.parkscanada.ca](https://www.parkscanada.ca)
- - date_published: 2024-06-19T04:52:08.260898+00:00
-
- ## Bibliothèque du Parlement du Canada
- - [https://bdp.parl.ca](https://bdp.parl.ca)
- - date_published: 2024-07-10T05:32:32.467327+00:00
-
- ## Employment at Parliament | Emplois au Parlement
- - [http://jobs-emplois.parl.ca](http://jobs-emplois.parl.ca)
- - date_published: 2024-07-10T05:30:23.778189+00:00
-
- ## Learn About Parliament
- - [https://learn.parl.ca](https://learn.parl.ca)
- - date_published: 2024-07-10T05:29:48.318102+00:00
-
- ## Library of the Canadian Parliament
- - [https://lop.parl.ca](https://lop.parl.ca)
- - date_published: 2024-07-10T05:29:45.489800+00:00
-
- ## Parliament of Canada - Parlement du Canada
- - [https://parl.ca](https://parl.ca)
- - date_published: 2024-05-09T07:39:30.010213+00:00
-
- ## Parliamentary Protective Service
- - [https://pps.parl.ca](https://pps.parl.ca)
- - date_published: 2024-07-10T05:29:57.024438+00:00
-
- ## Parliament of Canada Tours — Home
- - [https://rts.parl.ca](https://rts.parl.ca)
- - date_published: 2024-07-10T05:30:22.334976+00:00
-
- ## Visitez le parlement du Canada
- - [https://visitez.parl.ca](https://visitez.parl.ca)
- - date_published: 2024-07-10T05:32:29.812335+00:00
-
- ## Visit Canada's Parliament
- - [https://visit.parl.ca](https://visit.parl.ca)
- - date_published: 2024-07-10T05:30:15.969252+00:00
-
- ## Partek I.T. Solutions — Managed Information Technology and Cybersecurity Solutions
- - [https://partek.ca](https://partek.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Townhome Builder in Calgary & Okotoks | Partners Development Group
- - [https://partnershomes.ca](https://partnershomes.ca)
- - date_published: 2024-04-30T05:14:18.749674+00:00
-
- ## Patagonia Outdoor Clothing & Gear
- - [https://patagonia.ca](https://patagonia.ca)
- - date_published: 2024-05-06T22:33:35.006597+00:00
-
- ## PataTaSocial - GoToSocial
- - [https://gotosocial.patatas.ca](https://gotosocial.patatas.ca)
- - date_published: 2024-07-13T03:42:14.029076+00:00
-
- ## Home - The Dabbler: a blog by @smallpatatas
- - [https://thedabbler.patatas.ca](https://thedabbler.patatas.ca)
- - date_published: 2024-05-10T07:02:36.153421+00:00
- - tags: ['personal']
-
- ## Pathways to Education Canada
- - [https://www.pathwaystoeducation.ca](https://www.pathwaystoeducation.ca)
- - date_published: 2024-08-09T03:53:37.024419+00:00
-
- ## Patrick Douglas
- - [https://patrickdouglas.ca](https://patrickdouglas.ca)
- - date_published: 2024-09-09T20:54:21+00:00
-
- ## Sam Pavot - Contact page
- - [https://sam.pavot.ca](https://sam.pavot.ca)
- - date_published: 2023-11-26T03:34:15+00:00
-
- ## Payday loans in Canada, Canada
- - [http://www.payday.ca](http://www.payday.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Payment Source - Empowering Inclusion
- - [https://www.paymentsource.ca](https://www.paymentsource.ca)
- - date_published: 2024-09-18T06:50:30+00:00
-
- ## Payper | Get in the fold
- - [https://www.payper.ca](https://www.payper.ca)
- - date_published: 2022-11-22T19:24:37+00:00
-
- ## https://paysync.ca
- - [https://paysync.ca](https://paysync.ca)
- - date_published: 2023-10-25T12:06:31.218287+00:00
-
- ## Patrick Boivin
- - [https://pboivin.ca](https://pboivin.ca)
- - date_published: 2024-01-24T17:59:32.974422+00:00
-
- ## President’s Choice Children’s Charity | Feeding Hungry Minds
- - [https://pcchildrenscharity.ca](https://pcchildrenscharity.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## PC Financial | Canadian Rewards Credit Cards with No Annual Fee | Services financiers PC | Cartes de crédit canadiennes avec récompenses et sans frais annuels
- - [https://secure.pcfinancial.ca](https://secure.pcfinancial.ca)
- - date_published: 2024-05-29T11:20:47+00:00
-
- ## Earn PC Optimum™ points with PC® Mastercard® and PC Money™ Account | PC Financial
- - [https://www.pcfinancial.ca](https://www.pcfinancial.ca)
- - date_published: 2024-05-01T06:19:40.507262+00:00
-
- ## NamesPro.ca | Register with Confidence
- - [http://www.pcna.ca](http://www.pcna.ca)
- - date_published: 2024-07-01T15:32:00.163122+00:00
-
- ## PC Optimum
- - [https://www.pcoptimum.ca](https://www.pcoptimum.ca)
- - date_published: 2024-06-12T16:39:45+00:00
 

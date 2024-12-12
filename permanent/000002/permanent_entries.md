@@ -1,3 +1,31 @@
+ ## Imagetwin
+ - [https://app.imagetwin.ai](https://app.imagetwin.ai)
+ - date_published: 2024-10-26T17:29:25+00:00
+
+ ## Object remover AI - Remove object from photo online free
+ - [https://clearoff.imagewith.ai](https://clearoff.imagewith.ai)
+ - date_published: 2024-10-30T15:57:49.532399+00:00
+
+ ## AI background remover - AI remove background from image online free
+ - [https://outcut.imagewith.ai](https://outcut.imagewith.ai)
+ - date_published: 2024-10-30T15:57:35.123335+00:00
+
+ ## Image Upscaler AI- AI Upscale Image Online Free | Overscale
+ - [https://overscale.imagewith.ai](https://overscale.imagewith.ai)
+ - date_published: 2024-10-30T15:57:36.624827+00:00
+
+ ## Best AI image generator - AI edit photo online free
+ - [https://www.imagewith.ai](https://www.imagewith.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Imagica A new way to think and create with computers | Build a no-code AI app in minutes
+ - [https://share.imagica.ai](https://share.imagica.ai)
+ - date_published: 2024-06-06T23:06:47+00:00
+
+ ## Home | IMAGINaiTION | Create Inclusive Mobile Apps
+ - [https://imaginaition.ai](https://imaginaition.ai)
+ - date_published: 2024-10-30T07:13:12.909328+00:00
+
  ## The next-gen project starter for Django and Node
  - [https://app.imagine.ai](https://app.imagine.ai)
  - date_published: 2024-08-19T12:14:25.208407+00:00
@@ -286,6 +314,10 @@
  ## Iris.ai - Your Researcher Workspace – Leading AI for your research challenge
  - [https://iris.ai](https://iris.ai)
  - date_published: 2024-04-24T00:00:00+00:00
+
+ ## ISEE AI Advanced Autonomous Yard Truck Solutions
+ - [http://isee.ai](http://isee.ai)
+ - date_published: 2024-06-24T14:56:55+00:00
 
  ## ISEE AI Advanced Autonomous Yard Truck Solutions
  - [https://www.isee.ai](https://www.isee.ai)
@@ -1139,6 +1171,14 @@
  - [https://letsplayfair.ai](https://letsplayfair.ai)
  - date_published: 2024-06-24T13:20:34+00:00
 
+ ## Letterhead.ai | A Smarter Way to Newsletter
+ - [https://letterhead.ai](https://letterhead.ai)
+ - date_published: 2024-12-06T08:56:15+00:00
+
+ ## Letterhead.ai | A Smarter Way to Newsletter
+ - [https://www.letterhead.ai](https://www.letterhead.ai)
+ - date_published: 2024-12-06T08:56:15+00:00
+
  ## Levity V1 Phasing Out Information
  - [https://app.levity.ai](https://app.levity.ai)
  - date_published: 2024-06-29T22:56:49.503452+00:00
@@ -1393,6 +1433,10 @@
  - [https://www.loman.ai](https://www.loman.ai)
  - date_published: 2024-06-26T00:00:00+00:00
 
+ ## 로민-문서의 가치를 극대화하는 Document  AI 기업
+ - [http://lomin.ai](http://lomin.ai)
+ - date_published: 2024-12-04T02:14:46+00:00
+
  ## Long Phan
  - [https://longphan.ai](https://longphan.ai)
  - date_published: 2024-04-12T21:47:00+00:00
@@ -1634,6 +1678,10 @@
  ## Floorplan Generator
  - [https://platform.maket.ai](https://platform.maket.ai)
  - date_published: 2024-09-13T20:46:13.725372+00:00
+
+ ## MakinaRocks | AI Engineered for the Real World
+ - [http://makinarocks.ai](http://makinarocks.ai)
+ - date_published: 2024-12-12T00:45:18.085352+00:00
 
  ## Stay at the top of AI
  - [https://mammouth.ai](https://mammouth.ai)
@@ -2106,6 +2154,10 @@
  - [https://molin.ai](https://molin.ai)
  - date_published: 2024-06-17T00:00:00+00:00
 
+ ## Momenta I Building Autonomous Driving Brains
+ - [https://www.momenta.ai](https://www.momenta.ai)
+ - date_published: 2024-12-12T00:40:02.221618+00:00
+
  ## Momentic | The quality you want, effortlessly
  - [https://momentic.ai](https://momentic.ai)
  - date_published: 2024-10-17T05:26:15.089241+00:00
@@ -2142,6 +2194,10 @@
  - [https://moonbeam.ai](https://moonbeam.ai)
  - date_published: 2024-06-19T21:27:00.298330+00:00
 
+ ## Moondream AI
+ - [https://moondream.ai](https://moondream.ai)
+ - date_published: 2024-12-07T02:27:30+00:00
+
  ## Moontower - options trading analytics
  - [https://moontower.ai](https://moontower.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -2177,6 +2233,10 @@
  ## Home - Mozilla.ai
  - [https://mozilla.ai](https://mozilla.ai)
  - date_published: 2023-10-25T11:40:36.598568+00:00
+
+ ## Mighty AI | Training Data as a Service (TDaaS)™
+ - [https://mty.ai](https://mty.ai)
+ - date_published: 2024-04-27T00:07:48+00:00
 
  ## Muah.AI - AI Companion Platform. Uncensored AI Technologies. Possibilities Within
  - [https://muah.ai](https://muah.ai)
@@ -3761,6 +3821,10 @@
  - [https://poto.ai](https://poto.ai)
  - date_published: 2024-07-08T16:13:51.938347+00:00
 
+ ## Show HN: Powerdrill – Leverage LLMs to Simplify Data Analysis
+ - [https://powerdrill.ai](https://powerdrill.ai)
+ - date_published: 2024-12-11T06:59:40+00:00
+
  ## Powerpresent AI - Create powerful presentations with AI
  - [https://powerpresent.ai](https://powerpresent.ai)
  - date_published: 2024-06-19T20:52:05.878344+00:00
@@ -3956,70 +4020,4 @@
  ## Walking With
  - [https://walkingwith.puny.ai](https://walkingwith.puny.ai)
  - date_published: 2023-08-09T13:15:06+00:00
-
- ## Purple Wave
- - [https://purplewave.ai](https://purplewave.ai)
- - date_published: 2023-04-23T22:05:55+00:00
-
- ## Create Custom Jigsaw Puzzles Online | PuzzleGenerator.ai
- - [https://www.puzzlegenerator.ai](https://www.puzzlegenerator.ai)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Puzzle Studio
- - [https://www.puzzlelabs.ai](https://www.puzzlelabs.ai)
- - date_published: 2024-06-19T19:48:36.812433+00:00
-
- ## Pwnagotchi - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
- - [https://pwnagotchi.ai](https://pwnagotchi.ai)
- - date_published: 2019-01-01T00:00:00+00:00
- - tags: ['wifi', 'hardware hacking']
-
- ## Homepage
- - [https://www.pymetrics.ai](https://www.pymetrics.ai)
- - date_published: 2023-12-11T00:00:00+00:00
-
- ## Pyoneer
- - [https://app.pyoneer.ai](https://app.pyoneer.ai)
- - date_published: 2024-08-20T04:46:33.740610+00:00
-
- ## Excel automation and Python code generation AI assistant | Pyoneer
- - [https://pyoneer.ai](https://pyoneer.ai)
- - date_published: 2024-05-23T19:40:56.457405+00:00
-
- ## Pyro Documentation — Pyro  documentation
- - [http://docs.pyro.ai](http://docs.pyro.ai)
- - date_published: 2024-06-02T00:32:54+00:00
-
- ## Pyro Discussion Forum
- - [http://forum.pyro.ai](http://forum.pyro.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Funsor is a tensor-like library for functions and distributions — Funsor 0.0 documentation
- - [http://funsor.pyro.ai](http://funsor.pyro.ai)
- - date_published: 2023-08-31T18:40:33+00:00
-
- ## NumPyro documentation — NumPyro  documentation
- - [https://num.pyro.ai](https://num.pyro.ai)
- - date_published: 2024-05-13T20:59:22+00:00
-
- ## Pyro
- - [https://pyro.ai](https://pyro.ai)
- - date_published: 2024-05-04T05:46:20.222889+00:00
-
- ## Pythagora Blog
- - [https://blog.pythagora.ai](https://blog.pythagora.ai)
- - date_published: 2024-03-03T22:14:20.682628+00:00
-
- ## Submit Repository
- - [https://code-whisperer.examples.pythagora.ai](https://code-whisperer.examples.pythagora.ai)
- - date_published: 2024-05-09T04:53:12.104633+00:00
-
- ## Prompt Engineering
- - [https://prompt-lab.examples.pythagora.ai](https://prompt-lab.examples.pythagora.ai)
- - date_published: 2024-02-09T22:11:20+00:00
-
- ## Pythagora
- - [https://pythagora.ai](https://pythagora.ai)
- - date_published: 2024-03-02T00:00:00+00:00
- - tags: ['artificial intelligence']
 

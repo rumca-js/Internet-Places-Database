@@ -1,3 +1,69 @@
+ ## Purple Wave
+ - [https://purplewave.ai](https://purplewave.ai)
+ - date_published: 2023-04-23T22:05:55+00:00
+
+ ## Create Custom Jigsaw Puzzles Online | PuzzleGenerator.ai
+ - [https://www.puzzlegenerator.ai](https://www.puzzlegenerator.ai)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Puzzle Studio
+ - [https://www.puzzlelabs.ai](https://www.puzzlelabs.ai)
+ - date_published: 2024-06-19T19:48:36.812433+00:00
+
+ ## Pwnagotchi - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
+ - [https://pwnagotchi.ai](https://pwnagotchi.ai)
+ - date_published: 2019-01-01T00:00:00+00:00
+ - tags: ['wifi', 'hardware hacking']
+
+ ## Homepage
+ - [https://www.pymetrics.ai](https://www.pymetrics.ai)
+ - date_published: 2023-12-11T00:00:00+00:00
+
+ ## Pyoneer
+ - [https://app.pyoneer.ai](https://app.pyoneer.ai)
+ - date_published: 2024-08-20T04:46:33.740610+00:00
+
+ ## Excel automation and Python code generation AI assistant | Pyoneer
+ - [https://pyoneer.ai](https://pyoneer.ai)
+ - date_published: 2024-05-23T19:40:56.457405+00:00
+
+ ## Pyro Documentation — Pyro  documentation
+ - [http://docs.pyro.ai](http://docs.pyro.ai)
+ - date_published: 2024-06-02T00:32:54+00:00
+
+ ## Pyro Discussion Forum
+ - [http://forum.pyro.ai](http://forum.pyro.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Funsor is a tensor-like library for functions and distributions — Funsor 0.0 documentation
+ - [http://funsor.pyro.ai](http://funsor.pyro.ai)
+ - date_published: 2023-08-31T18:40:33+00:00
+
+ ## NumPyro documentation — NumPyro  documentation
+ - [https://num.pyro.ai](https://num.pyro.ai)
+ - date_published: 2024-05-13T20:59:22+00:00
+
+ ## Pyro
+ - [https://pyro.ai](https://pyro.ai)
+ - date_published: 2024-05-04T05:46:20.222889+00:00
+
+ ## Pythagora Blog
+ - [https://blog.pythagora.ai](https://blog.pythagora.ai)
+ - date_published: 2024-03-03T22:14:20.682628+00:00
+
+ ## Submit Repository
+ - [https://code-whisperer.examples.pythagora.ai](https://code-whisperer.examples.pythagora.ai)
+ - date_published: 2024-05-09T04:53:12.104633+00:00
+
+ ## Prompt Engineering
+ - [https://prompt-lab.examples.pythagora.ai](https://prompt-lab.examples.pythagora.ai)
+ - date_published: 2024-02-09T22:11:20+00:00
+
+ ## Pythagora
+ - [https://pythagora.ai](https://pythagora.ai)
+ - date_published: 2024-03-02T00:00:00+00:00
+ - tags: ['artificial intelligence']
+
  ## Login
  - [https://star-history.examples.pythagora.ai](https://star-history.examples.pythagora.ai)
  - date_published: 2024-05-09T04:53:12.994422+00:00
@@ -993,6 +1059,14 @@
  ## Center for Scalable Data Analytics and Artificial Intelligence
  - [https://scads.ai](https://scads.ai)
  - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Accelerate the Development of AI Applications | Scale AI
+ - [https://scale.ai](https://scale.ai)
+ - date_published: 2024-12-12T00:45:29.758225+00:00
+
+ ## Scaletorch AI l Speedup model training by 30x
+ - [https://www.scaletorch.ai](https://www.scaletorch.ai)
+ - date_published: 2024-12-12T00:47:40.088775+00:00
 
  ## Scenarium AI
  - [http://www.scenarium.ai](http://www.scenarium.ai)
@@ -2136,6 +2210,10 @@
  - [https://super.ai](https://super.ai)
  - date_published: 2024-09-05T00:00:00+00:00
 
+ ## SuperAnnotate | AI Data Platform for LLM, CV, and NLP
+ - [https://www.superannotate.ai](https://www.superannotate.ai)
+ - date_published: 2024-12-10T14:34:17+00:00
+
  ## Fast Alternative for Medium and Wordpress Blogs
  - [https://superblog.ai](https://superblog.ai)
  - date_published: 2024-10-22T19:18:49.208969+00:00
@@ -2252,6 +2330,10 @@
  ## Supportzeal AI Chatbot
  - [https://www.supportzeal.ai](https://www.supportzeal.ai)
  - date_published: 2024-05-31T00:00:00+00:00
+
+ ## SurfingTech | Leading Provider of AI Data Solutions in Multimodal Datasets
+ - [http://www.surfing.ai](http://www.surfing.ai)
+ - date_published: 2024-12-09T07:03:21+00:00
 
  ## Surge AI | World's Most Powerful Data Labeling Platform
  - [https://app.surgehq.ai](https://app.surgehq.ai)
@@ -3939,84 +4021,4 @@ Creative Solutions
  ## Wavel
  - [https://pt.wavel.ai](https://pt.wavel.ai)
  - date_published: 2024-10-30T16:32:11.934028+00:00
-
- ## Wavel
- - [https://ru.wavel.ai](https://ru.wavel.ai)
- - date_published: 2024-10-30T16:32:07.211227+00:00
-
- ## Wavel
- - [https://th.wavel.ai](https://th.wavel.ai)
- - date_published: 2024-10-30T16:31:31.918026+00:00
-
- ## Wavel
- - [https://tr.wavel.ai](https://tr.wavel.ai)
- - date_published: 2024-10-30T16:31:16.516959+00:00
-
- ## Wavel
- - [https://vi.wavel.ai](https://vi.wavel.ai)
- - date_published: 2024-10-30T16:32:15.313740+00:00
-
- ## Best Text-to-Speech Voice Solutions for Videos And Localization
- - [https://wavel.ai](https://wavel.ai)
- - date_published: 2024-06-19T20:09:11.438409+00:00
-
- ## Wavel
- - [https://zh.wavel.ai](https://zh.wavel.ai)
- - date_published: 2024-10-30T16:31:26.496094+00:00
-
- ## Brainstorm, plan and prioritize growth strategies
- - [http://app.waxwing.ai](http://app.waxwing.ai)
- - date_published: 2024-09-14T07:54:24.032008+00:00
-
- ## Waxwing Tutorials, Guides & Support
- - [https://help.waxwing.ai](https://help.waxwing.ai)
- - date_published: 2024-09-14T07:54:21.219957+00:00
-
- ## WaxWing | Brainstorm, plan and prioritize growth strategies
- - [https://hub.waxwing.ai](https://hub.waxwing.ai)
- - date_published: 2024-09-14T07:54:19.608434+00:00
-
- ## Waxwing - AI powered Project management tool for growth marketers
- - [https://waxwing.ai](https://waxwing.ai)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Pioneering a new approach to self-driving: AV2.0 – Wayve
- - [https://wayve.ai](https://wayve.ai)
- - date_published: 2023-10-25T11:45:04.460915+00:00
-
- ## Video Editing Software | Simple Online Video Editing Platform
- - [https://wearenova.ai](https://wearenova.ai)
- - date_published: 2024-06-19T19:38:22.368439+00:00
-
- ## Weather4cast 2023 - Weather4cast
- - [https://weather4cast.ai](https://weather4cast.ai)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## WebLLM Chat
- - [https://chat.webllm.ai](https://chat.webllm.ai)
- - date_published: 2024-08-08T22:44:05+00:00
-
- ## Test Automation Platform Powered by AI | Webo.AI
- - [https://webo.ai](https://webo.ai)
- - date_published: 2024-06-19T19:41:02.807160+00:00
-
- ## Webscape
- - [https://webscape.ai](https://webscape.ai)
- - date_published: 2024-05-09T07:25:15.770192+00:00
-
- ## GPT-Powered Rotating Proxies API for Web Scraping | WebScraping.AI
- - [https://webscraping.ai](https://webscraping.ai)
- - date_published: 2024-07-18T14:27:07.697440+00:00
-
- ## websim.ai
- - [https://websim.ai](https://websim.ai)
- - date_published: 2024-09-02T10:08:21.168312+00:00
-
- ## Let AI handle your customer support
- - [https://www.webwhiz.ai](https://www.webwhiz.ai)
- - date_published: 2024-09-17T11:23:47+00:00
-
- ## Webyn | Conversion Rate Optimization as a Service
- - [https://www.webyn.ai](https://www.webyn.ai)
- - date_published: 2024-10-30T06:56:18.630145+00:00
 

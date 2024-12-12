@@ -1,3 +1,19 @@
+ ## #1 Kubernetes Cost Optimization & Automation Platform - CAST AI
+ - [https://cast.ai](https://cast.ai)
+ - date_published: 2023-10-25T11:37:03.659292+00:00
+
+ ## CAST AI - Console
+ - [https://console.cast.ai](https://console.cast.ai)
+ - date_published: 2024-08-19T12:01:16+00:00
+
+ ## Getting started
+ - [https://docs.cast.ai](https://docs.cast.ai)
+ - date_published: 2024-08-19T12:25:21.938975+00:00
+
+ ## Log In ‹ CAST AI Partner Portal — WordPress
+ - [https://partners.cast.ai](https://partners.cast.ai)
+ - date_published: 2024-08-19T12:25:26.515796+00:00
+
  ## 403
  - [https://catboost.ai](https://catboost.ai)
  - date_published: 2024-07-22T09:50:03.507225+00:00
@@ -402,6 +418,10 @@ Welcome
  ## AI Safety Initiative: Pioneering AI Compliance & Safety | CSA
  - [https://cloudsecurityalliance.ai](https://cloudsecurityalliance.ai)
  - date_published: 2024-06-18T13:40:34.107830+00:00
+
+ ## Image Recognition API & General Purpose Computer Vision and Captioning - CloudSight AI
+ - [https://cloudsight.ai](https://cloudsight.ai)
+ - date_published: 2023-10-23T13:21:18+00:00
 
  ## Cloud Theory | AI-Driven Data Insight & Predictive Analytics
  - [https://cloudtheory.ai](https://cloudtheory.ai)
@@ -1469,6 +1489,10 @@ Welcome
  ## depot.ai
  - [https://depot.ai](https://depot.ai)
  - date_published: 2024-04-29T07:34:43.901731+00:00
+
+ ## The AI Design Awards | A Global Stage for AI’s Brightest Creators
+ - [https://designaward.ai](https://designaward.ai)
+ - date_published: 2024-12-11T06:30:30+00:00
 
  ## Designs AI - Blog: AI-Powered Creativity & Design Insights
  - [https://blog.designs.ai](https://blog.designs.ai)
@@ -3099,6 +3123,10 @@ Welcome
  - [https://giskard.ai](https://giskard.ai)
  - date_published: 2023-10-25T11:39:07.365125+00:00
 
+ ## Chat with AI - GitMind Chat
+ - [https://gitmind.ai](https://gitmind.ai)
+ - date_published: 2024-12-11T11:05:33.170216+00:00
+
  ## Gizmo is the easiest way to learn
  - [https://gizmo.ai](https://gizmo.ai)
  - date_published: 2024-08-19T12:09:08.040624+00:00
@@ -3983,32 +4011,4 @@ Welcome
  ## Automate your captions to save time and energy.
  - [https://imagetocaption.ai](https://imagetocaption.ai)
  - date_published: 2024-08-23T08:01:23+00:00
-
- ## Imagetwin
- - [https://app.imagetwin.ai](https://app.imagetwin.ai)
- - date_published: 2024-10-26T17:29:25+00:00
-
- ## Object remover AI - Remove object from photo online free
- - [https://clearoff.imagewith.ai](https://clearoff.imagewith.ai)
- - date_published: 2024-10-30T15:57:49.532399+00:00
-
- ## AI background remover - AI remove background from image online free
- - [https://outcut.imagewith.ai](https://outcut.imagewith.ai)
- - date_published: 2024-10-30T15:57:35.123335+00:00
-
- ## Image Upscaler AI- AI Upscale Image Online Free | Overscale
- - [https://overscale.imagewith.ai](https://overscale.imagewith.ai)
- - date_published: 2024-10-30T15:57:36.624827+00:00
-
- ## Best AI image generator - AI edit photo online free
- - [https://www.imagewith.ai](https://www.imagewith.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Imagica A new way to think and create with computers | Build a no-code AI app in minutes
- - [https://share.imagica.ai](https://share.imagica.ai)
- - date_published: 2024-06-06T23:06:47+00:00
-
- ## Home | IMAGINaiTION | Create Inclusive Mobile Apps
- - [https://imaginaition.ai](https://imaginaition.ai)
- - date_published: 2024-10-30T07:13:12.909328+00:00
 

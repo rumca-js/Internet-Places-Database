@@ -1,3 +1,131 @@
+ ## VAD, Vlaams expertisecentrum Alcohol en andere Drugs
+ - [https://www.vad.be](https://www.vad.be)
+ - date_published: 2024-10-18T21:26:12.832650+00:00
+
+ ## Vlaams Architectuurinstituut
+ - [https://www.vai.be](https://www.vai.be)
+ - date_published: 2024-08-19T18:51:47.985511+00:00
+
+ ## Vakantieweb: Vakantiewoningen, Rondreizen, Cruises, Verblijven en Reportages
+ - [https://www.vakantieweb.be](https://www.vakantieweb.be)
+ - date_published: 2024-07-02T21:35:31.727301+00:00
+
+ ## l'après-vente automobile | Valeo Service
+ - [https://www.valeoservice.be](https://www.valeoservice.be)
+ - date_published: 2024-10-31T11:05:45+00:00
+
+ ## vanecx
+ - [https://vanecx.be](https://vanecx.be)
+ - date_published: 2024-05-09T07:51:31.153656+00:00
+
+ ## Home | Vanhout
+ - [http://www.vanhout.be](http://www.vanhout.be)
+ - date_published: 2024-08-17T22:37:15.135763+00:00
+
+ ## Home
+ - [https://www.vanin.be](https://www.vanin.be)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Ethische Fondsenwerving vzw
+ - [https://www.vef-aerf.be](https://www.vef-aerf.be)
+ - date_published: 2024-07-02T22:36:01.891218+00:00
+
+ ## VELCRO® Brand Fastening Solutions | Velcro Companies
+ - [https://fr.velcro.be](https://fr.velcro.be)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## VELCRO® Brand Fastening Solutions | Velcro Companies
+ - [https://www.velcro.be](https://www.velcro.be)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Antwerpen fietst met Velo | Huur een deelfiets voor een dag, week of jaar
+ - [https://www.velo-antwerpen.be](https://www.velo-antwerpen.be)
+ - date_published: 2024-10-22T10:53:42.359318+00:00
+
+ ## Onderwijsmaterialen en video's van Verenigd voor Mensenrechten
+ - [https://www.verenigdvoordemensenrechten.be](https://www.verenigdvoordemensenrechten.be)
+ - date_published: 2024-09-04T17:58:07.927894+00:00
+
+ ## Verm brand design - We ontwikkelen, designen en restylen jouw merk.
+ - [https://verm.be](https://verm.be)
+ - date_published: 2024-10-22T10:54:51.912905+00:00
+
+ ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
+ - [https://www.viagogo.be](https://www.viagogo.be)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Vibus | Webdesign & Online Marketing in Lommel
+ - [https://vibus.be](https://vibus.be)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## IT consultant Lint | VICCAS IT Consultancy
+ - [https://viccas.be](https://viccas.be)
+ - date_published: 2024-06-15T15:51:42.242178+00:00
+
+ ## Home
+ - [https://www.victoris.be](https://www.victoris.be)
+ - date_published: 2024-08-19T11:15:30.431392+00:00
+
+ ## Welcome! — Vincent's Weblog
+ - [https://www.vincentlammens.be](https://www.vincentlammens.be)
+ - date_published: 2024-08-08T01:20:41+00:00
+
+ ## Bachelors, Masters & Advanced Programmes in University College | VINCI
+ - [https://www.vinci.be](https://www.vinci.be)
+ - date_published: 2024-07-02T23:05:07.266704+00:00
+
+ ## Visa, een van de vertrouwde leiders in digitale betalingen
+ - [https://visa.be](https://visa.be)
+ - date_published: 2024-05-12T03:58:53.526269+00:00
+
+ ## Votre site officiel du tourisme en Wallonie | VISITWallonia.be
+ - [https://visitwallonia.be](https://visitwallonia.be)
+ - date_published: 2024-10-19T15:41:05.770050+00:00
+
+ ## Vision on technology for a better world
+ - [https://vito.be](https://vito.be)
+ - date_published: 2024-07-01T03:10:30+00:00
+
+ ## Action Vivre Ensemble - Contre la pauvreté, je choisis la solidarité !
+ - [https://vivre-ensemble.be](https://vivre-ensemble.be)
+ - date_published: 2022-02-16T16:32:55+00:00
+
+ ## Vlaamse Erfgoedbibliotheken
+ - [https://vlaamse-erfgoedbibliotheek.be](https://vlaamse-erfgoedbibliotheek.be)
+ - date_published: 2024-05-07T15:17:23.475905+00:00
+
+ ## Sign in - Google Accounts
+ - [http://bestuur.vlaamse-erfgoedbibliotheken.be](http://bestuur.vlaamse-erfgoedbibliotheken.be)
+ - date_published: 2024-06-30T05:01:50.219733+00:00
+
+ ## Vlaamse Erfgoedbibliotheken
+ - [https://vlaamse-erfgoedbibliotheken.be](https://vlaamse-erfgoedbibliotheken.be)
+ - date_published: 2024-06-30T03:47:27+00:00
+
+ ## Vlaams Parlement - officiële website
+ - [https://www.vlaamsparlement.be](https://www.vlaamsparlement.be)
+ - date_published: 2024-10-18T23:38:54.561266+00:00
+
+ ## Binnenlands Bestuur | Vlaanderen.be
+ - [https://binnenland.vlaanderen.be](https://binnenland.vlaanderen.be)
+ - date_published: 2024-09-12T19:58:14.522658+00:00
+
+ ## Welkom Data.Vlaanderen.be
+ - [https://data.vlaanderen.be](https://data.vlaanderen.be)
+ - date_published: 2024-06-27T14:15:26+00:00
+
+ ## Informatie van de Vlaamse overheid
+ - [http://vlaanderen.be](http://vlaanderen.be)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Welkom bij de Vlaamse Open City Architectuur (VLOCA) Kennishub
+ - [https://vloca-kennishub.vlaanderen.be](https://vloca-kennishub.vlaanderen.be)
+ - date_published: 2024-04-18T13:17:56+00:00
+
+ ## VLOCA: Vlaamse Open City Architectuur | Vlaanderen.be
+ - [https://vloca.vlaanderen.be](https://vloca.vlaanderen.be)
+ - date_published: 2024-06-17T00:00:00+00:00
+
  ## Vlaams Centrum voor Agro- en Visserijmarketing
  - [https://vlam.be](https://vlam.be)
  - date_published: 2024-10-31T09:00:11+00:00
@@ -1873,6 +2001,10 @@
  - [https://www.hkyo.bingo](https://www.hkyo.bingo)
  - date_published: 2024-07-10T06:55:06.356341+00:00
 
+ ## Aevitas House
+ - [https://aevitashouse.bio](https://aevitashouse.bio)
+ - date_published: 2024-12-11T17:18:17.546513+00:00
+
  ## Allan Grinshtein
  - [https://allan.bio](https://allan.bio)
  - date_published: 2024-05-09T06:19:15.914498+00:00
@@ -2411,6 +2543,10 @@
  ## Small Press Publisher | Fantastic Books And Gray Rabbit Publications
  - [http://www.fantasticbooks.biz](http://www.fantasticbooks.biz)
  - date_published: 2024-10-27T18:24:52.750222+00:00
+
+ ## WELCOME TO FA$TCA$HMONEYPLU$.biz
+ - [http://fastcashmoneyplus.biz](http://fastcashmoneyplus.biz)
+ - date_published: 2024-06-07T15:59:22+00:00
 
  ## flyte new media - Digital Marketing + Web Design Agency, Portland, Maine
  - [http://www.flyte.biz](http://www.flyte.biz)
@@ -3907,145 +4043,4 @@
  ## Home.blog
  - [http://baileygreenmystorythroughautism.home.blog](http://baileygreenmystorythroughautism.home.blog)
  - date_published: 2024-09-03T22:58:55+00:00
-
- ## Blue Remembered Trolls
- - [https://bluerememberedtrolls.home.blog](https://bluerememberedtrolls.home.blog)
- - date_published: 2024-09-03T22:17:06.884891+00:00
-
- ## ComStar
- - [https://comstar.home.blog](https://comstar.home.blog)
- - date_published: 2024-10-26T22:09:28.572416+00:00
-
- ## DonDagen
- - [https://dondagen.home.blog](https://dondagen.home.blog)
- - date_published: 2023-12-14T06:53:35.668494+00:00
- - tags: ['personal']
-
- ## Don't Let The Days Go By
- - [http://dontletthedaysgoby.home.blog](http://dontletthedaysgoby.home.blog)
- - date_published: 2024-07-16T16:34:06.819420+00:00
-
- ## Garden Breeze
- - [https://gardenbreeze.home.blog](https://gardenbreeze.home.blog)
- - date_published: 2024-10-23T07:49:16.082082+00:00
-
- ## Glork
- - [https://glork.home.blog](https://glork.home.blog)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Our Looney Barn
- - [https://graveyardhouse.home.blog](https://graveyardhouse.home.blog)
- - date_published: 2024-06-24T10:51:45.888235+00:00
-
- ## Grumpy Wizard
- - [https://grumpywizard.home.blog](https://grumpywizard.home.blog)
- - date_published: 2023-12-23T19:27:09.883564+00:00
- - tags: ['personal']
-
- ## Hand in Hand
- - [http://handinhand.home.blog](http://handinhand.home.blog)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Heavy Metal Classicist
- - [http://heavymetalclassicist.home.blog](http://heavymetalclassicist.home.blog)
- - date_published: 2024-07-19T20:14:11.241736+00:00
-
- ## Home.blog
- - [http://home.blog](http://home.blog)
- - date_published: 2024-07-11T15:27:55.788504+00:00
-
- ## Interactive Licktion
- - [https://interactivelicktion.home.blog](https://interactivelicktion.home.blog)
- - date_published: 2024-07-10T02:41:02.007122+00:00
-
- ## JFT
- - [https://jft.home.blog](https://jft.home.blog)
- - date_published: 2024-08-08T18:55:01.940038+00:00
-
- ## Just Coasting
- - [https://justcoasting.home.blog](https://justcoasting.home.blog)
- - date_published: 2024-05-07T14:47:04.252481+00:00
-
- ## Letters to Here
- - [http://letterstohere.home.blog](http://letterstohere.home.blog)
- - date_published: 2024-08-25T00:00:00+00:00
-
- ## To Be Determined
- - [https://locationtbd.home.blog](https://locationtbd.home.blog)
- - date_published: 2023-10-25T09:01:46.793235+00:00
- - tags: ['personal']
-
- ## ✨🌈 Squelfland 🌈✨
- - [https://marinaneira.home.blog](https://marinaneira.home.blog)
- - date_published: 2024-08-06T05:11:45+00:00
-
- ## Niraj's blogs
- - [http://niraj.home.blog](http://niraj.home.blog)
- - date_published: 2024-09-02T12:58:11+00:00
-
- ## Nos Voisins Lointains 3.11
- - [https://nosvoisinslointains311.home.blog](https://nosvoisinslointains311.home.blog)
- - date_published: 2024-10-26T21:41:59.023648+00:00
-
- ## Around These Islands
- - [https://novaroundbritain.home.blog](https://novaroundbritain.home.blog)
- - date_published: 2024-05-07T14:47:12.542485+00:00
-
- ## One Mans Journey into Competitive Warhammer 40k
- - [https://onemans40kjourney.home.blog](https://onemans40kjourney.home.blog)
- - date_published: 2024-10-26T16:19:13.153239+00:00
-
- ## Onyx typer
- - [https://onyxtyper.home.blog](https://onyxtyper.home.blog)
- - date_published: 2024-07-18T17:15:55.633074+00:00
-
- ## Imogen is Reading and Watching the World: On Books, Film, Art & More
- - [https://readingandwatchingtheworld.home.blog](https://readingandwatchingtheworld.home.blog)
- - date_published: 2024-06-15T00:01:36+00:00
-
- ## Scorpios
- - [https://scorpios.home.blog](https://scorpios.home.blog)
- - date_published: 2024-06-23T14:38:26.656326+00:00
-
- ## She’s  inspired
- - [https://shesinspired.home.blog](https://shesinspired.home.blog)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## SOBERANIA ALIMENTAR MARÉ
- - [https://soberania-alimentar-mare.home.blog](https://soberania-alimentar-mare.home.blog)
- - date_published: 2024-05-10T06:57:04.002656+00:00
-
- ## Home.blog
- - [http://spacetyrannosaur.home.blog](http://spacetyrannosaur.home.blog)
- - date_published: 2024-09-03T22:53:33+00:00
-
- ## Home of the Grumpy Gnome
- - [https://thegrumpygnome.home.blog](https://thegrumpygnome.home.blog)
- - date_published: 2024-10-26T17:54:20.984842+00:00
-
- ## A Year of Aviation Illustration & Art
- - [https://yearofaviationillustration.home.blog](https://yearofaviationillustration.home.blog)
- - date_published: 2024-08-03T20:19:31+00:00
-
- ## Yenn Purkis Autism Page
- - [http://yennpurkis.home.blog](http://yennpurkis.home.blog)
- - date_published: 2024-08-31T13:30:01+00:00
-
- ## Home With The Armadillo
- - [https://homewiththearmadillo.blog](https://homewiththearmadillo.blog)
- - date_published: 2024-06-21T22:09:52.098809+00:00
-
- ## Hoppla!
- - [https://hopplaausrufezeichen.blog](https://hopplaausrufezeichen.blog)
- - date_published: 2023-11-29T14:18:55.206080+00:00
- - tags: ['personal']
-
- ## Hover Blog
- - [https://hover.blog](https://hover.blog)
- - date_published: 2024-05-08T06:31:47.738225+00:00
-
- ## Hugo's Blog
- - [https://hugo.blog](https://hugo.blog)
- - date_published: 2024-03-15T15:03:02.371297+00:00
- - tags: ['personal']
 

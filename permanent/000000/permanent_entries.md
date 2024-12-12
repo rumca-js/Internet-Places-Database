@@ -460,6 +460,10 @@
  - date_published: 2024-10-17T14:44:31.077171+00:00
 
  ## 3M Science. Applied to Life. | 3M United Arab Emirates
+ - [http://solutions.3mae.ae](http://solutions.3mae.ae)
+ - date_published: 2024-12-11T02:38:16.900362+00:00
+
+ ## 3M Science. Applied to Life. | 3M United Arab Emirates
  - [https://www.3mae.ae](https://www.3mae.ae)
  - date_published: 2024-08-06T10:39:01.342170+00:00
 
@@ -1774,10 +1778,6 @@
  - [http://gp.ag](http://gp.ag)
  - date_published: 2024-12-10T20:18:09.109976+00:00
 
- ## GP Günter Papenburg AG,  Logistik,  Günter Papenburg AG
- - [http://www.gp.ag](http://www.gp.ag)
- - date_published: 2024-07-13T16:18:31.131523+00:00
-
  ## Digital Publishing and Content Experience Platform | Joomag
  - [https://joom.ag](https://joom.ag)
  - date_published: 2024-10-20T16:56:19.990664+00:00
@@ -2105,6 +2105,10 @@
  - [https://www.mutual.agency](https://www.mutual.agency)
  - date_published: 2024-07-02T19:45:33.332109+00:00
 
+ ## In-House Agency | Marketing Agency | OLIVER
+ - [https://www.oliver.agency](https://www.oliver.agency)
+ - date_published: 2024-11-21T00:00:00+00:00
+
  ## Home - Ometrics Agency
  - [http://ometrics.agency](http://ometrics.agency)
  - date_published: 2023-05-25T00:00:00+00:00
@@ -2157,6 +2161,10 @@
  - [https://symbio.agency](https://symbio.agency)
  - date_published: 2024-06-11T00:00:00+00:00
 
+ ## TBP - We Create Influence
+ - [https://www.thebloggerprogramme.agency](https://www.thebloggerprogramme.agency)
+ - date_published: 2024-12-11T18:06:43.935330+00:00
+
  ## The Curious: A Branding & Digital Creative Agency
  - [https://thecurious.agency](https://thecurious.agency)
  - date_published: 2024-05-08T00:00:00+00:00
@@ -2200,6 +2208,10 @@
  ## YALA! - Agence événementielle
  - [https://www.yala.agency](https://www.yala.agency)
  - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Inicio - Your Digital Agency
+ - [https://yoda.agency](https://yoda.agency)
+ - date_published: 2022-07-13T23:34:52+00:00
 
  ## ZAPAL
  - [https://zapal.agency](https://zapal.agency)
@@ -2962,6 +2974,10 @@
  ## Artisana | The Latest Generative AI News
  - [https://artisana.ai](https://artisana.ai)
  - date_published: 2023-10-25T11:00:43.611933+00:00
+
+ ## Visual Positioning for Autonomy | Artisense
+ - [https://www.artisense.ai](https://www.artisense.ai)
+ - date_published: 2024-12-12T00:39:42.426145+00:00
 
  ## Artist Interview.ai | AI-Generated Artist Interviews
  - [https://artistinterview.ai](https://artistinterview.ai)
@@ -4003,20 +4019,4 @@
  ## Wizu: AI-Powered Conversational Surveys for Enhanced Customer Feedback - Optimize Your Customer Experience Management
  - [https://casestudywriter.ai](https://casestudywriter.ai)
  - date_published: 2024-10-27T15:59:07+00:00
-
- ## #1 Kubernetes Cost Optimization & Automation Platform - CAST AI
- - [https://cast.ai](https://cast.ai)
- - date_published: 2023-10-25T11:37:03.659292+00:00
-
- ## CAST AI - Console
- - [https://console.cast.ai](https://console.cast.ai)
- - date_published: 2024-08-19T12:01:16+00:00
-
- ## Getting started
- - [https://docs.cast.ai](https://docs.cast.ai)
- - date_published: 2024-08-19T12:25:21.938975+00:00
-
- ## Log In ‹ CAST AI Partner Portal — WordPress
- - [https://partners.cast.ai](https://partners.cast.ai)
- - date_published: 2024-08-19T12:25:26.515796+00:00
 

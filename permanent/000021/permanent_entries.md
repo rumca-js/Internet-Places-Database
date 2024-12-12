@@ -1,3 +1,167 @@
+ ## Kubernetes jobs in May 24 (28 new) | Kube Careers
+ - [https://kube.careers](https://kube.careers)
+ - date_published: 2024-05-08T06:21:39.894635+00:00
+
+ ## Our vacancies | lufthansagroup.careers
+ - [https://apply.lufthansagroup.careers](https://apply.lufthansagroup.careers)
+ - date_published: 2024-05-12T07:54:12.729621+00:00
+
+ ## Lufthansa Group Careers
+ - [https://lufthansagroup.careers](https://lufthansagroup.careers)
+ - date_published: 2024-05-12T05:11:06.078396+00:00
+
+ ## Privacy is a universal right - Mullvad VPN
+ - [https://www.mullvad.careers](https://www.mullvad.careers)
+ - date_published: 2024-08-20T04:53:03.875391+00:00
+
+ ## Customer Portal
+ - [https://topresume.portal.careers](https://topresume.portal.careers)
+ - date_published: 2024-06-18T17:15:08+00:00
+
+ ## Rust.Careers Rust Blog
+ - [https://blog.rust.careers](https://blog.rust.careers)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Careers at Paramount
+ - [https://viacomcbs.careers](https://viacomcbs.careers)
+ - date_published: 2024-06-17T01:30:46.886442+00:00
+
+ ## Careers at Wake Forest University - Human Resources
+ - [https://wfu.careers](https://wfu.careers)
+ - date_published: 2024-05-07T22:28:48.542607+00:00
+
+ ## WP Engine Careers - Be you. Be here.
+ - [https://wpengine.careers](https://wpengine.careers)
+ - date_published: 2024-06-27T12:42:22.887997+00:00
+
+ ## The job board for YouTubers and YouTube professionals · YT.Careers
+ - [https://yt.careers](https://yt.careers)
+ - date_published: 2024-08-18T11:33:41.678684+00:00
+
+ ## Downtown Auto Group: New & Used Dealers | Toronto, Ontario
+ - [http://dag.cars](http://dag.cars)
+ - date_published: 2024-10-17T15:17:08.089795+00:00
+
+ ## FUEL: In-Market Video Powered By Cars.com Audience Data
+ - [http://fuel.cars](http://fuel.cars)
+ - date_published: 2024-10-17T15:01:43.765056+00:00
+
+ ## .Cars .Car .Auto Domains | Find Your Perfect Domain Name
+ - [https://go.cars](https://go.cars)
+ - date_published: 2024-06-17T07:45:25.900463+00:00
+
+ ## Drive your brand® | The .Cars Registry
+ - [https://nic.cars](https://nic.cars)
+ - date_published: 2024-10-17T15:01:05.907184+00:00
+
+ ## Amplifi.casa ⋅ Plume
+ - [https://amplifi.casa](https://amplifi.casa)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## CogDog Showtime
+ - [http://show.cogdog.casa](http://show.cogdog.casa)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## cujo.casa
+ - [https://cujo.casa](https://cujo.casa)
+ - date_published: 2024-05-07T23:14:40.730456+00:00
+
+ ## Desert Jaguar
+ - [https://desertjaguar.casa](https://desertjaguar.casa)
+ - date_published: 2024-10-16T00:23:18+00:00
+
+ ## Hey Bro
+ - [https://heybro.casa](https://heybro.casa)
+ - date_published: 2024-09-14T23:34:10.670039+00:00
+
+ ## Izzy Muerte • Self Unemployed
+ - [https://izzys.casa](https://izzys.casa)
+ - date_published: 2023-10-25T12:10:14.071392+00:00
+
+ ## git.m455.casa
+ - [https://git.m455.casa](https://git.m455.casa)
+ - date_published: 2024-07-18T15:40:49+00:00
+
+ ## Mon Repos | Gordon Pedersen @ Mon Repos
+ - [https://monrepos.casa](https://monrepos.casa)
+ - date_published: 2024-08-07T19:59:52.014589+00:00
+
+ ## Double Dutch | Cash with a cause
+ - [https://doubledutch.cash](https://doubledutch.cash)
+ - date_published: 2024-05-12T06:26:38.987868+00:00
+
+ ## Ivan Cash is an award-winning artist, filmmaker, and creative director.
+ - [http://www.ivan.cash](http://www.ivan.cash)
+ - date_published: 2024-09-17T00:54:57.025397+00:00
+
+ ## member.cash
+ - [https://member.cash](https://member.cash)
+ - date_published: 2024-08-18T22:04:10.824205+00:00
+
+ ## Memo - Bitcoin Social Network
+ - [https://memo.cash](https://memo.cash)
+ - date_published: 2024-06-16T10:11:39.041822+00:00
+
+ ## Top 10 Nhà Cái Uy Tín Việt Nam - Trang Cược Đáng Chơi Nhất 2024
+ - [https://nhacaiuytin.cash](https://nhacaiuytin.cash)
+ - date_published: 2024-10-19T07:33:46.981928+00:00
+
+ ## Worldwide decentralized cyber ecosystem based on PoS algorithm
+ - [https://p.cash](https://p.cash)
+ - date_published: 2024-09-25T09:55:12.963042+00:00
+
+ ## Play – Music lovers, rejoice.
+ - [https://play.cash](https://play.cash)
+ - date_published: 2024-05-09T09:13:14.555722+00:00
+
+ ## Revoke Your Token Approvals on Over 100 Networks | Revoke.cash
+ - [https://revoke.cash](https://revoke.cash)
+ - date_published: 2024-07-04T09:59:00.582079+00:00
+
+ ## U.CASH - Powering a distributed B2B & B2C services network
+ - [https://u.cash](https://u.cash)
+ - date_published: 2024-08-15T12:51:58+00:00
+
+ ## Ugly Cash
+ - [https://ugly.cash](https://ugly.cash)
+ - date_published: 2024-09-21T23:36:48.439693+00:00
+
+ ## Zcash: Privacy-protecting digital currency
+ - [https://z.cash](https://z.cash)
+ - date_published: 2024-05-08T07:04:28.191422+00:00
+
+ ## ZCore Faucet
+ - [https://faucet.zcore.cash](https://faucet.zcore.cash)
+ - date_published: 2024-09-24T09:15:24.352929+00:00
+
+ ## Explore ZCore Network's Advanced Blockchain Solutions!
+ - [https://zcore.cash](https://zcore.cash)
+ - date_published: 2024-05-21T23:50:55+00:00
+
+ ## BetOnRed Casino Polska | Oficjalna Strona Kasyna Bet on Red
+ - [https://betonred.casino](https://betonred.casino)
+ - date_published: 2024-06-26T23:57:10.408187+00:00
+
+ ## Fair Go Casino in Australia | Welcome Bonus | Login
+ - [https://fairgos.casino](https://fairgos.casino)
+ - date_published: 2023-12-22T16:16:45+00:00
+
+ ## Front Page
+ - [https://no-verification.casino](https://no-verification.casino)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Top Online Casino Sites (2024) Trusted International Guide
+ - [https://online.casino](https://online.casino)
+ - date_published: 2024-07-17T03:05:10+00:00
+
+ ## OZWIN Casino [400% BONUS] Australia Login
+ - [https://ozwins.casino](https://ozwins.casino)
+ - date_published: 2024-06-24T09:13:45+00:00
+
+ ## Royaal.Casino Le Guide Le Plus Fou Du Web Pour Jouer Online
+ - [https://www.royaal.casino](https://www.royaal.casino)
+ - date_published: 2024-08-12T00:00:00+00:00
+
  ## Satoshi's Palace
  - [https://satoshispalace.casino](https://satoshispalace.casino)
  - date_published: 2024-07-02T23:47:00+00:00
@@ -242,9 +406,17 @@
  - [https://rizoma.dario.cat](https://rizoma.dario.cat)
  - date_published: 2024-07-10T08:32:41.303453+00:00
 
+ ## Devir en Català
+ - [https://devir.cat](https://devir.cat)
+ - date_published: 2024-12-11T16:10:29.713449+00:00
+
  ## Diari de Girona: últimes notícies de Girona, les comarques gironines i el món
  - [https://www.diaridegirona.cat](https://www.diaridegirona.cat)
  - date_published: 2024-10-14T20:49:01+00:00
+
+ ## Diputació de Barcelona, institució de govern local - diba.cat
+ - [https://www.diba.cat](https://www.diba.cat)
+ - date_published: 2024-12-11T13:06:00.117086+00:00
 
  ## diccionari.cat | diccionari.cat
  - [https://www.diccionari.cat](https://www.diccionari.cat)
@@ -333,6 +505,10 @@
  ## Inici
  - [https://web.gencat.cat](https://web.gencat.cat)
  - date_published: 2024-06-28T22:08:40+00:00
+
+ ## Inici
+ - [https://www.accio.gencat.cat](https://www.accio.gencat.cat)
+ - date_published: 2024-12-11T14:30:34+00:00
 
  ## Grafika Google
  - [https://images.google.cat](https://images.google.cat)
@@ -512,6 +688,10 @@
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## Regió7 | Diari líder a la Catalunya central: últimes notícies i actualitat, entrevistes, anàlisi i opinió
+ - [https://regio7.cat](https://regio7.cat)
+ - date_published: 2024-12-11T09:11:58+00:00
+
+ ## Regió7 | Diari líder a la Catalunya central: últimes notícies i actualitat, entrevistes, anàlisi i opinió
  - [https://www.regio7.cat](https://www.regio7.cat)
  - date_published: 2024-10-14T21:00:08+00:00
 
@@ -630,6 +810,10 @@
  ## CAS - Central Authentication Service
  - [https://intranet.uab.cat](https://intranet.uab.cat)
  - date_published: 2024-10-14T23:50:15.289863+00:00
+
+ ## Tracem junts el camí cap a la innovació | Parc de Recerca UAB
+ - [http://parc.uab.cat](http://parc.uab.cat)
+ - date_published: 2024-12-11T14:43:44+00:00
 
  ## Portal de Recerca de la Universitat Autònoma de Barcelona
  - [https://portalrecerca.uab.cat](https://portalrecerca.uab.cat)
@@ -2205,6 +2389,10 @@
  - date_published: 2023-10-25T09:39:44.637114+00:00
  - tags: ['substack']
 
+ ## 佑驾创新MINIEYE：Empower The Intelligent Vehicle
+ - [http://www.minieye.cc](http://www.minieye.cc)
+ - date_published: 2024-12-12T00:22:00.453981+00:00
+
  ## mltrain – Algorithms Made Easy
  - [https://mltrain.cc](https://mltrain.cc)
  - date_published: 2024-07-22T11:00:42+00:00
@@ -3073,6 +3261,10 @@
  - [https://vta.cc](https://vta.cc)
  - date_published: 2024-07-20T15:08:03.760584+00:00
 
+ ## 2024年澳门今晚开奖号码,2023澳门管家婆资料正版大全,管家婆一肖资料大全,管家婆2024新澳正版资料,香港二四六开奖免费资料
+ - [http://www.watrix.cc](http://www.watrix.cc)
+ - date_published: 2024-12-12T00:38:17.710252+00:00
+
  ## web0 - Reader view page generator
  - [https://web0.cc](https://web0.cc)
  - date_published: 2023-10-25T12:12:06.600910+00:00
@@ -3845,196 +4037,4 @@
  ## Eidgenössisches Personalamt
  - [https://www.epa.admin.ch](https://www.epa.admin.ch)
  - date_published: 2024-02-12T00:00:00+00:00
-
- ## Eidgenössische Schiedskommission ESchK
- - [https://www.eschk.admin.ch](https://www.eschk.admin.ch)
- - date_published: 2024-10-22T08:57:48.524025+00:00
-
- ## Eidgenössische Steuerverwaltung ESTV
- - [https://www.estv.admin.ch](https://www.estv.admin.ch)
- - date_published: 2024-07-16T22:16:16.095202+00:00
-
- ## Experimentelle Statistiken des BFS
- - [https://www.experimental.bfs.admin.ch](https://www.experimental.bfs.admin.ch)
- - date_published: 2024-07-16T22:16:54.280420+00:00
-
- ## Bundesamt für Zoll und Grenzsicherheit
- - [http://www.ezv.admin.ch](http://www.ezv.admin.ch)
- - date_published: 2024-07-16T22:16:24.006351+00:00
-
- ## Startseite
- - [https://www.konsum.admin.ch](https://www.konsum.admin.ch)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Startseite - MeteoSchweiz
- - [https://www.meteoschweiz.admin.ch](https://www.meteoschweiz.admin.ch)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Page d'accueil - MétéoSuisse
- - [https://www.meteosuisse.admin.ch](https://www.meteosuisse.admin.ch)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Pagina di partenza - MeteoSvizzera
- - [https://www.meteosvizzera.admin.ch](https://www.meteosvizzera.admin.ch)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## BACS Startseite
- - [https://www.ncsc.admin.ch](https://www.ncsc.admin.ch)
- - date_published: 2024-10-22T08:57:04.620528+00:00
-
- ## Nachrichtendienst des Bundes
- - [http://www.ndb.admin.ch](http://www.ndb.admin.ch)
- - date_published: 2024-10-22T08:59:31.264948+00:00
-
- ## Nationale Kommission zur Verhütung von Folter
- - [https://www.nkvf.admin.ch](https://www.nkvf.admin.ch)
- - date_published: 2024-10-22T08:57:42.819142+00:00
-
- ## Militärjustiz
- - [http://www.oa.admin.ch](http://www.oa.admin.ch)
- - date_published: 2024-10-22T08:58:40.183039+00:00
-
- ## Page d'accueil OFCS
- - [https://www.ofcs.admin.ch](https://www.ofcs.admin.ch)
- - date_published: 2024-10-22T08:58:21.358486+00:00
-
- ## Startseite
- - [https://www.plurilingua.admin.ch](https://www.plurilingua.admin.ch)
- - date_published: 2024-07-16T22:15:14+00:00
-
- ## Preisüberwacher
- - [https://www.preisueberwacher.admin.ch](https://www.preisueberwacher.admin.ch)
- - date_published: 2024-10-14T21:50:16.201268+00:00
-
- ## Im Brennpunkt
- - [https://www.sbfi.admin.ch](https://www.sbfi.admin.ch)
- - date_published: 2024-06-16T22:07:22.700220+00:00
-
- ## Staatssekretariat für Wirtschaft SECO
- - [https://www.seco.admin.ch](https://www.seco.admin.ch)
- - date_published: 2024-10-14T21:49:53.808007+00:00
-
- ## Staatssekretariat für Sicherheitspolitik SEPOS
- - [https://www.sepos.admin.ch](https://www.sepos.admin.ch)
- - date_published: 2024-10-22T08:58:22.490278+00:00
-
- ## Staatssekretariat für internationale Finanzfragen SIF - Startseite
- - [https://www.sif.admin.ch](https://www.sif.admin.ch)
- - date_published: 2024-07-16T22:16:12.893996+00:00
-
- ## eStaKa
- - [https://www.staatskalender.admin.ch](https://www.staatskalender.admin.ch)
- - date_published: 2023-11-08T17:00:49+00:00
-
- ## Startseite
- - [https://www.stelle.admin.ch](https://www.stelle.admin.ch)
- - date_published: 2024-06-18T14:24:23.639863+00:00
-
- ## swisstopo – wissen wohin
- - [https://www.swisstopo.admin.ch](https://www.swisstopo.admin.ch)
- - date_published: 2024-10-22T08:58:28.659700+00:00
-
- ## Pagina iniziale UFCS
- - [https://www.ufcs.admin.ch](https://www.ufcs.admin.ch)
- - date_published: 2024-10-22T08:58:47.010096+00:00
-
- ## UID Version: 4.23.0.0
- - [https://www.uid.admin.ch](https://www.uid.admin.ch)
- - date_published: 2024-09-18T18:08:45.358730+00:00
-
- ## Startseite
- - [https://www.uvek.admin.ch](https://www.uvek.admin.ch)
- - date_published: 2024-06-18T14:29:51.990919+00:00
-
- ## Das VBS – Sicherheit für die Schweiz
- - [https://www.vbs.admin.ch](https://www.vbs.admin.ch)
- - date_published: 2024-06-18T14:25:18+00:00
-
- ## Vorbild Energie und Klima
- - [https://www.vorbild-energie-klima.admin.ch](https://www.vorbild-energie-klima.admin.ch)
- - date_published: 2024-10-22T08:58:41.932442+00:00
-
- ## Die Gruppe Verteidigung
- - [http://www.vtg.admin.ch](http://www.vtg.admin.ch)
- - date_published: 2024-10-22T08:59:16.675818+00:00
-
- ## Startseite Internet WBF
- - [http://www.wbf.admin.ch](http://www.wbf.admin.ch)
- - date_published: 2024-06-18T14:24:26.391044+00:00
-
- ## Wettbewerbskommission
- - [https://www.weko.admin.ch](https://www.weko.admin.ch)
- - date_published: 2024-10-14T21:50:19.575583+00:00
-
- ## Bundesamt für Zivildienst ZIVI
- - [https://www.zivi.admin.ch](https://www.zivi.admin.ch)
- - date_published: 2024-10-14T21:50:21.893122+00:00
-
- ## Login
- - [https://mov.adorsaz.ch](https://mov.adorsaz.ch)
- - date_published: 2024-07-10T07:54:43.199450+00:00
-
- ## Preisgekrönte Entgeltabrechnungsdienste und HR-Software | ADP Schweiz
- - [https://www.adp.ch](https://www.adp.ch)
- - date_published: 2024-06-16T10:08:37.851142+00:00
-
- ## Welcome to Advance Ticket
- - [https://www.advance-ticket.ch](https://www.advance-ticket.ch)
- - date_published: 2023-04-06T15:35:22+00:00
-
- ## AGEPoly
- - [https://agepoly.ch](https://agepoly.ch)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Ihre Partnerin für Mobilität & Energie | AGROLA
- - [https://www.agrola.ch](https://www.agrola.ch)
- - date_published: 2024-10-15T15:02:35+00:00
-
- ## Agronetto Schweiz – ein Online-Marktplatz für Landmaschinen und Ersatzteile
- - [https://agronetto24.ch](https://agronetto24.ch)
- - date_published: 2024-08-11T15:43:10.989528+00:00
-
- ## AgroSustain
- - [https://www.agrosustain.ch](https://www.agrosustain.ch)
- - date_published: 2024-10-31T06:39:21.844206+00:00
-
- ## Maison d'Ailleurs
- - [http://playtime.ailleurs.ch](http://playtime.ailleurs.ch)
- - date_published: 2024-08-19T17:10:44.899226+00:00
-
- ## Maison d'Ailleurs
- - [http://www.ailleurs.ch](http://www.ailleurs.ch)
- - date_published: 2024-10-29T11:53:55.588463+00:00
-
- ## AIM | Alternative Information Network
- - [http://www.aimpress.ch](http://www.aimpress.ch)
- - date_published: 2013-02-25T10:37:37+00:00
-
- ## Airbnb | Ferienwohnungen, Blockhütten, Häuser in Strandnähe & mehr
- - [https://airbnb.ch](https://airbnb.ch)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Airbnb | Locations de vacances, cabanes, maisons de plage, etc.
- - [https://fr.airbnb.ch](https://fr.airbnb.ch)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Airbnb | Case vacanze, baite, case sulla spiaggia e molto altro ancora
- - [https://it.airbnb.ch](https://it.airbnb.ch)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Schweizerischer Akkreditierungsrat | Conseil suisse d'accréditation
- - [https://akkreditierungsrat.ch](https://akkreditierungsrat.ch)
- - date_published: 2024-06-22T06:50:23.778080+00:00
-
- ## Javier Alberich
- - [https://alberi.ch](https://alberi.ch)
- - date_published: 2009-01-22T10:45:29+00:00
-
- ## Computer
- - [https://www.alcom.ch](https://www.alcom.ch)
- - date_published: 2024-07-20T20:59:55.224253+00:00
-
- ## ALDI SUISSE - Mehr fürs Leben
- - [https://www.aldi-suisse.ch](https://www.aldi-suisse.ch)
- - date_published: 2024-07-12T22:52:48.184115+00:00
 
