@@ -1,3 +1,99 @@
+ ## Warmer Knowledge Base
+ - [https://help.warmer.ai](https://help.warmer.ai)
+ - date_published: 2024-10-30T14:32:56.583496+00:00
+
+ ## WARMER.ai - AI Email Writer
+ - [https://warmer.ai](https://warmer.ai)
+ - date_published: 2024-06-19T19:50:34.740656+00:00
+
+ ## Warmest.ai - Your ChatGPT Email Assistant.
+ - [https://www.warmest.ai](https://www.warmest.ai)
+ - date_published: 2024-10-17T15:31:03+00:00
+
+ ## Warmly Resource Library
+ - [https://help.warmly.ai](https://help.warmly.ai)
+ - date_published: 2024-06-20T04:55:43.682785+00:00
+
+ ## Warmly Trust Center | Powered by SafeBase
+ - [https://security.warmly.ai](https://security.warmly.ai)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Watermelon
+ - [https://app.watermelon.ai](https://app.watermelon.ai)
+ - date_published: 2024-10-29T21:32:17+00:00
+
+ ## Watermelon
+ - [https://careers.watermelon.ai](https://careers.watermelon.ai)
+ - date_published: 2024-10-30T08:29:36+00:00
+
+ ## Demo request | Watermelon
+ - [https://demo.watermelon.ai](https://demo.watermelon.ai)
+ - date_published: 2024-10-30T10:48:53.565322+00:00
+
+ ## Watermelon API
+ - [https://developer.watermelon.ai](https://developer.watermelon.ai)
+ - date_published: 2022-05-25T11:20:17+00:00
+
+ ## Watermelon Feedback
+ - [https://feedback.watermelon.ai](https://feedback.watermelon.ai)
+ - date_published: 2024-10-30T10:48:55.541140+00:00
+
+ ## Watermelon Newsroom
+ - [https://press.watermelon.ai](https://press.watermelon.ai)
+ - date_published: 2024-10-30T10:48:57.452382+00:00
+
+ ## AI Customer Service Tool | GPT-4o Chatbots | Watermelon
+ - [https://watermelon.ai](https://watermelon.ai)
+ - date_published: 2024-10-29T09:46:32+00:00
+
+ ## IBM watsonx.ai
+ - [http://watsonx.ai](http://watsonx.ai)
+ - date_published: 2024-06-23T12:10:03+00:00
+
+ ## Wavel
+ - [https://ar.wavel.ai](https://ar.wavel.ai)
+ - date_published: 2024-10-30T16:31:24.395928+00:00
+
+ ## Wavel
+ - [https://cdn.wavel.ai](https://cdn.wavel.ai)
+ - date_published: 2024-10-30T16:31:48.051337+00:00
+
+ ## Wavel
+ - [https://de.wavel.ai](https://de.wavel.ai)
+ - date_published: 2024-10-30T16:31:22.291591+00:00
+
+ ## Wavel
+ - [https://es.wavel.ai](https://es.wavel.ai)
+ - date_published: 2024-10-30T16:31:51.918876+00:00
+
+ ## Wavel
+ - [https://fr.wavel.ai](https://fr.wavel.ai)
+ - date_published: 2024-10-30T16:31:59.217257+00:00
+
+ ## Wavel
+ - [https://id.wavel.ai](https://id.wavel.ai)
+ - date_published: 2024-10-30T16:31:56.453897+00:00
+
+ ## Wavel
+ - [https://it.wavel.ai](https://it.wavel.ai)
+ - date_published: 2024-10-30T16:31:49.705210+00:00
+
+ ## Wavel
+ - [https://ja.wavel.ai](https://ja.wavel.ai)
+ - date_published: 2024-10-30T16:31:20.517967+00:00
+
+ ## Wavel
+ - [https://nl.wavel.ai](https://nl.wavel.ai)
+ - date_published: 2024-10-30T16:32:09.367193+00:00
+
+ ## Wavel
+ - [https://pl.wavel.ai](https://pl.wavel.ai)
+ - date_published: 2024-10-30T16:32:05.423103+00:00
+
+ ## Wavel
+ - [https://pt.wavel.ai](https://pt.wavel.ai)
+ - date_published: 2024-10-30T16:32:11.934028+00:00
+
  ## Wavel
  - [https://ru.wavel.ai](https://ru.wavel.ai)
  - date_published: 2024-10-30T16:32:07.211227+00:00
@@ -501,7 +597,7 @@
  - date_published: 2023-11-15T00:00:00+00:00
 
  ## yourchat.ai
- - [http://app.yourchat.ai](http://app.yourchat.ai)
+ - [https://app.yourchat.ai](https://app.yourchat.ai)
  - date_published: 2024-01-19T12:25:57+00:00
 
  ## yourchat.ai
@@ -509,7 +605,7 @@
  - date_published: 2024-10-30T08:39:52.987614+00:00
 
  ## yourchat.ai
- - [http://app.yourfriends.ai](http://app.yourfriends.ai)
+ - [https://app.yourfriends.ai](https://app.yourfriends.ai)
  - date_published: 2024-01-19T12:25:57+00:00
 
  ## yourfriends.ai
@@ -2171,6 +2267,7 @@
  ## Hello from Azimutt documentation | Azimutt documentation
  - [https://docs.azimutt.app](https://docs.azimutt.app)
  - date_published: 2023-04-23T19:28:22+00:00
+ - date_dead_since: 2024-12-12T20:20:28.530260+00:00
 
  ## Bally Live
  - [https://applink.ballylive.app](https://applink.ballylive.app)
@@ -2308,6 +2405,10 @@
  ## Adtech Solution for Publishers | BlueStack
  - [https://developers.bluestack.app](https://developers.bluestack.app)
  - date_published: 2024-05-06T17:48:49.667228+00:00
+
+ ## Blur ID: AI-Powered Privacy Shield for Social Media & Messaging
+ - [https://blurid.app](https://blurid.app)
+ - date_published: 2024-12-12T23:54:46.108896+00:00
 
  ## Boardgame Lab - Software to Prototype and Playtest Tabletop Games
  - [https://boardgamelab.app](https://boardgamelab.app)
@@ -3675,7 +3776,7 @@
  - date_published: 2024-07-14T11:10:24.714449+00:00
 
  ## Flourish - AI Companion for Better Mental Wellness
- - [https://www.flourishtech.app](https://www.flourishtech.app)
+ - [https://flourishtech.app](https://flourishtech.app)
  - date_published: 2023-06-28T16:23:36+00:00
 
  ## Flowershow
@@ -3912,111 +4013,10 @@
  - date_published: 2024-04-24T07:46:05+00:00
 
  ## MonAi - AI powered expense tracker
- - [https://www.get-monai.app](https://www.get-monai.app)
+ - [https://get-monai.app](https://get-monai.app)
  - date_published: 2024-07-17T21:15:26+00:00
 
  ## Notary
  - [https://getnotary.app](https://getnotary.app)
  - date_published: 2024-07-14T09:23:00.842670+00:00
-
- ## Shifted
- - [https://getshifted.app](https://getshifted.app)
- - date_published: 2024-04-29T03:46:35.988745+00:00
-
- ## Home
- - [https://developer.getsileo.app](https://developer.getsileo.app)
- - date_published: 2021-05-25T18:52:11+00:00
-
- ## Sileo
- - [https://getsileo.app](https://getsileo.app)
- - date_published: 2023-06-20T21:47:40+00:00
-
- ## Until
- - [https://getuntil.app](https://getuntil.app)
- - date_published: 2024-06-23T07:02:31.617594+00:00
-
- ## UTM
- - [https://getutm.app](https://getutm.app)
- - date_published: 2023-05-01T17:37:17+00:00
- - tags: ['risc-v', 'arm64', 'x86_64', 'emulator', 'virtualization']
-
- ## Guide - Whisky Documentation
- - [https://docs.getwhisky.app](https://docs.getwhisky.app)
- - date_published: 2024-05-11T05:33:09.675489+00:00
-
- ## Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit
- - [https://getwhisky.app](https://getwhisky.app)
- - date_published: 2023-11-26T14:33:19+00:00
-
- ## Xray - Native Test Management for Jira
- - [https://www.getxray.app](https://www.getxray.app)
- - date_published: 2024-08-04T13:00:47+00:00
-
- ## Gimli
- - [https://gimli.app](https://gimli.app)
- - date_published: 2024-08-01T17:06:38+00:00
-
- ## giscus
- - [https://giscus.app](https://giscus.app)
- - date_published: 2024-04-30T02:10:38.158091+00:00
-
- ## Glambase - AI Influencer Creation Platform | Virtual Persona Generator
- - [https://api.glambase.app](https://api.glambase.app)
- - date_published: 2024-09-14T07:47:47.410457+00:00
-
- ## Glambase - AI Influencer Creation Platform | Virtual Persona Generator
- - [https://glambase.app](https://glambase.app)
- - date_published: 2024-06-14T08:57:30.677799+00:00
-
- ## Glarity - Free ChatGPT YouTube Summary/Translate Webpage Extension - Your AI Copilot
- - [https://glarity.app](https://glarity.app)
- - date_published: 2024-10-30T06:55:50.463833+00:00
-
- ## glif - all prompts, no code AI sandbox • build AI workflows, apps, chatbots & more
- - [https://glif.app](https://glif.app)
- - date_published: 2024-07-14T22:02:33.558998+00:00
-
- ## (glisp)
- - [https://glisp.app](https://glisp.app)
- - date_published: 2024-07-21T21:39:22.483955+00:00
-
- ## Show HN: Glossarie – a new, immersive way to learn a language
- - [https://glossarie.app](https://glossarie.app)
- - date_published: 2024-03-24T15:43:16+00:00
-
- ## Góða Ferð
- - [https://godaferd.app](https://godaferd.app)
- - date_published: 2024-05-04T12:15:24.823503+00:00
-
- ## GoodLinks
- - [https://goodlinks.app](https://goodlinks.app)
- - date_published: 2024-09-15T23:08:00.755498+00:00
-
- ## GPT Engineer Docs
- - [https://docs.gptengineer.app](https://docs.gptengineer.app)
- - date_published: 2024-07-13T14:13:36.067240+00:00
-
- ## GPT Engineer - Build interactive web apps using AI
- - [https://gptengineer.app](https://gptengineer.app)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## GPT Engineer
- - [https://run.gptengineer.app](https://run.gptengineer.app)
- - date_published: 2024-07-13T14:13:37.593010+00:00
-
- ## GPTFlow
- - [https://gptflow.app](https://gptflow.app)
- - date_published: 2024-06-19T19:33:18.399057+00:00
-
- ## GPT for Slides - Create Presentation With AI in seconds
- - [https://www.gptforslides.app](https://www.gptforslides.app)
- - date_published: 2024-06-19T20:08:03.588515+00:00
-
- ## GPTService
- - [https://gptservice.app](https://gptservice.app)
- - date_published: 2023-07-05T22:19:27+00:00
-
- ## Gradio
- - [https://gradio.app](https://gradio.app)
- - date_published: 2024-06-20T10:51:49.565528+00:00
 

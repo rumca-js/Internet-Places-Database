@@ -1,3 +1,40 @@
+ ## Find Recruiters on LinkedIn | X-ray Search by FAANGPath
+ - [https://hiring-search.careerflow.ai](https://hiring-search.careerflow.ai)
+ - date_published: 2023-01-08T02:00:32+00:00
+
+ ## Careers - AI-Powered Hiring Assistant
+ - [https://careers.ai](https://careers.ai)
+ - date_published: 2024-06-19T19:19:26.132005+00:00
+
+ ## Automate Your Data Entry into Cargowise | Data Extraction Software for Logistics & Shipping Industry
+ - [https://cargodoc.ai](https://cargodoc.ai)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Chatbots con IA para atención al cliente
+ - [https://cari.ai](https://cari.ai)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## CarperAI
+ - [https://carper.ai](https://carper.ai)
+ - date_published: 2023-10-25T11:36:47.359387+00:00
+ - tags: ['artificial intelligence']
+
+ ## Cartesia
+ - [https://cartesia.ai](https://cartesia.ai)
+ - date_published: 2024-03-03T00:00:00+00:00
+
+ ## Caryn AI
+ - [https://caryn.ai](https://caryn.ai)
+ - date_published: 2024-06-19T19:11:42.983409+00:00
+
+ ## Casablanca.ai
+ - [https://www.casablanca.ai](https://www.casablanca.ai)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Wizu: AI-Powered Conversational Surveys for Enhanced Customer Feedback - Optimize Your Customer Experience Management
+ - [https://casestudywriter.ai](https://casestudywriter.ai)
+ - date_published: 2024-10-27T15:59:07+00:00
+
  ## #1 Kubernetes Cost Optimization & Automation Platform - CAST AI
  - [https://cast.ai](https://cast.ai)
  - date_published: 2023-10-25T11:37:03.659292+00:00
@@ -13,6 +50,10 @@
  ## Log In ‹ CAST AI Partner Portal — WordPress
  - [https://partners.cast.ai](https://partners.cast.ai)
  - date_published: 2024-08-19T12:25:26.515796+00:00
+
+ ## Castellum.AI
+ - [http://castellum.ai](http://castellum.ai)
+ - date_published: 2024-12-12T06:21:37.591620+00:00
 
  ## 403
  - [https://catboost.ai](https://catboost.ai)
@@ -582,6 +623,7 @@ Welcome
  ## Cognition
  - [https://cognition.ai](https://cognition.ai)
  - date_published: 2024-07-08T23:01:14.226421+00:00
+ - tags: ['artificial intelligence', 'company']
 
  ## The Cognitive Revolution
  - [https://cognitiverevolution.ai](https://cognitiverevolution.ai)
@@ -912,7 +954,7 @@ Welcome
  - date_published: 2021-06-15T10:52:01+00:00
 
  ## CourseGen
- - [https://www.coursegen.ai](https://www.coursegen.ai)
+ - [https://coursegen.ai](https://coursegen.ai)
  - date_published: 2023-07-31T05:35:02+00:00
 
  ## Covariant | Powering the future of automation, today
@@ -1503,7 +1545,7 @@ Welcome
  - date_published: 2024-06-14T08:54:21.693106+00:00
 
  ## Deskflow: Employee experience platform powered by AI
- - [https://www.deskflow.ai](https://www.deskflow.ai)
+ - [https://deskflow.ai](https://deskflow.ai)
  - date_published: 2023-05-29T13:25:39+00:00
 
  ## Detangle: Make sense of legal documents
@@ -1521,6 +1563,11 @@ Welcome
  ## Local AI LLMs | Test AI models on your system | Opera Browser
  - [https://www.devicetest.ai](https://www.devicetest.ai)
  - date_published: 2024-06-14T08:06:42+00:00
+
+ ## Devin
+ - [https://devin.ai](https://devin.ai)
+ - date_published: 2024-12-12T11:48:45+00:00
+ - tags: ['artificial intelligence']
 
  ## DevRev AgentOS | Your Copilot For Software
  - [https://devrev.ai](https://devrev.ai)
@@ -2191,7 +2238,7 @@ Welcome
  - date_published: 2024-06-19T20:54:58.037676+00:00
 
  ## ExtendMusic.AI | Extend your music with generative AI
- - [https://www.extendmusic.ai](https://www.extendmusic.ai)
+ - [https://extendmusic.ai](https://extendmusic.ai)
  - date_published: 2024-06-21T17:22:52+00:00
 
  ## Extropic | A new paradigm for computing
@@ -2916,7 +2963,7 @@ Welcome
  - date_published: 2024-10-30T11:08:03+00:00
 
  ## React App
- - [https://www.getcustomer.ai](https://www.getcustomer.ai)
+ - [https://getcustomer.ai](https://getcustomer.ai)
  - date_published: 2024-04-23T06:47:09+00:00
 
  ## Chat with Dot
@@ -3676,6 +3723,10 @@ Welcome
  - [https://www.hirex.ai](https://www.hirex.ai)
  - date_published: 2024-04-01T18:09:35+00:00
 
+ ## hiroscope | Hiring made super-easy with the power of AI | hiroscope.ai
+ - [https://hiroscope.ai](https://hiroscope.ai)
+ - date_published: 2024-12-12T08:03:39.317003+00:00
+
  ## Hitesh Choudhary Home page
  - [https://hitesh.ai](https://hitesh.ai)
  - date_published: 2024-12-04T10:54:54.032428+00:00
@@ -3836,6 +3887,10 @@ Welcome
  - [https://www.hypercycle.ai](https://www.hypercycle.ai)
  - date_published: 2024-03-01T00:00:00+00:00
 
+ ## HyperGPT | Power Up Web3 with AI!
+ - [https://hypergpt.ai](https://hypergpt.ai)
+ - date_published: 2024-12-12T22:50:49.430085+00:00
+
  ## hypergro: AI-Powered UGC Video Ads for Smart Customer Acquisition
  - [https://hypergro.ai](https://hypergro.ai)
  - date_published: 2024-06-27T10:52:57.385251+00:00
@@ -3959,56 +4014,4 @@ Welcome
  ## FC'20 : Financial Cryptography 2020
  - [https://fc20.ifca.ai](https://fc20.ifca.ai)
  - date_published: 2024-05-02T09:52:22.693822+00:00
-
- ## FC'23 : Financial Cryptography 2023
- - [http://fc23.ifca.ai](http://fc23.ifca.ai)
- - date_published: 2024-08-18T07:32:55.976794+00:00
-
- ## FC'24 : Financial Cryptography 2024
- - [http://fc24.ifca.ai](http://fc24.ifca.ai)
- - date_published: 2024-07-01T06:40:54.106121+00:00
-
- ## FC'25 : Financial Cryptography 2025
- - [http://fc25.ifca.ai](http://fc25.ifca.ai)
- - date_published: 2024-08-19T12:14:28.905781+00:00
-
- ## IFCA
- - [https://ifca.ai](https://ifca.ai)
- - date_published: 2023-10-25T11:39:11.249743+00:00
-
- ## AI Photo Studio: Elevate Your E-Commerce with Our Magic Studio | iFoto
- - [https://www.ifoto.ai](https://www.ifoto.ai)
- - date_published: 2024-06-27T10:51:29.268074+00:00
-
- ## This is Where Software Goes to Thrive
- - [https://ignitetech.ai](https://ignitetech.ai)
- - date_published: 2024-09-30T12:30:06.204256+00:00
-
- ## Artificial Ignorance | Charlie Guo | Substack
- - [https://ignorance.ai](https://ignorance.ai)
- - date_published: 2023-10-25T11:39:13.090034+00:00
-
- ## PolicyBuzz
- - [https://iir.ai](https://iir.ai)
- - date_published: 2024-11-08T21:44:19.257344+00:00
-
- ## Iliad
- - [https://iliad.ai](https://iliad.ai)
- - date_published: 2024-06-19T20:08:12.399600+00:00
-
- ## ILLU.ai → Infinite on-brand AI images
- - [http://illu.ai](http://illu.ai)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## iLuminary: Revolutionary AI Wallet Solutions
- - [https://iluminary.ai](https://iluminary.ai)
- - date_published: 2023-12-03T00:00:00+00:00
-
- ## Image Editor AI: Edit or make images using AI | ImageEditor.AI
- - [https://imageeditor.ai](https://imageeditor.ai)
- - date_published: 2024-08-19T09:02:50.198505+00:00
-
- ## Automate your captions to save time and energy.
- - [https://imagetocaption.ai](https://imagetocaption.ai)
- - date_published: 2024-08-23T08:01:23+00:00
 

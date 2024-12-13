@@ -1,3 +1,111 @@
+ ## DIPLOMATIC
+ - [https://diplomatic-docs.replit.app](https://diplomatic-docs.replit.app)
+ - date_published: 2024-07-14T10:32:34.710493+00:00
+
+ ## ⚡️ Meta Launches Mobile Llama 3.2: 4x Faster, 56% Smaller
+ - [https://flask-bootstrap-mbs11.replit.app](https://flask-bootstrap-mbs11.replit.app)
+ - date_published: 2024-10-30T20:42:30.043183+00:00
+
+ ## Repl Bio
+ - [https://ornella.replit.app](https://ornella.replit.app)
+ - date_published: 2024-04-28T04:38:06.201263+00:00
+
+ ## Replit Partnerships
+ - [https://partnerships-form-util.replit.app](https://partnerships-form-util.replit.app)
+ - date_published: 2024-04-28T04:38:19.545080+00:00
+
+ ## Fatal Force Database entry 8171: Jason Neal Puckett
+ - [https://police-shooting-sampler.replit.app](https://police-shooting-sampler.replit.app)
+ - date_published: 2024-06-30T09:51:01.947193+00:00
+
+ ## Replo - Shopify pages without the dev time
+ - [https://www.replo.app](https://www.replo.app)
+ - date_published: 2024-07-04T02:08:18.450127+00:00
+
+ ## Reporty - Get Shopify Order Notifications & Reports in Slack
+ - [https://reporty.app](https://reporty.app)
+ - date_published: 2024-06-23T02:59:25.371789+00:00
+
+ ## Reproof | The collaborate writing app for creativity.
+ - [https://blog.reproof.app](https://blog.reproof.app)
+ - date_published: 2024-08-19T11:37:50.813279+00:00
+
+ ## Reproof | The collaborate writing app for creativity.
+ - [https://reproof.app](https://reproof.app)
+ - date_published: 2023-10-25T11:48:46.496389+00:00
+
+ ## ResearchBuddy - Automatic Literature Reviews - Login
+ - [https://researchbuddy.app](https://researchbuddy.app)
+ - date_published: 2024-06-19T21:20:51.217006+00:00
+
+ ## Responsively App - A Web Developer's Browser
+ - [https://responsively.app](https://responsively.app)
+ - date_published: 2024-07-14T08:19:34.985278+00:00
+
+ ## Retainit
+ - [https://retainit.app](https://retainit.app)
+ - date_published: 2024-08-19T09:15:24.656831+00:00
+
+ ## Retro
+ - [http://retro.app](http://retro.app)
+ - date_published: 2024-09-27T05:03:45+00:00
+
+ ## Reviewbunny - Pull request reminders for teams
+ - [https://reviewbunny.app](https://reviewbunny.app)
+ - date_published: 2024-05-06T21:28:54.955912+00:00
+
+ ## Revoicer - Emotion-based Text To Speech
+ - [https://revoicer.app](https://revoicer.app)
+ - date_published: 2024-06-29T22:55:26.713147+00:00
+
+ ## Rhithm
+ - [https://portal.rhithm.app](https://portal.rhithm.app)
+ - date_published: 2024-07-11T08:29:34+00:00
+
+ ## Ríoverse Language Learning
+ - [https://www.rioverse.app](https://www.rioverse.app)
+ - date_published: 2024-08-19T04:48:15.200939+00:00
+
+ ## Riter
+ - [https://riter.app](https://riter.app)
+ - date_published: 2024-06-19T21:35:00.176901+00:00
+
+ ## Rive - Editor
+ - [https://editor.rive.app](https://editor.rive.app)
+ - date_published: 2024-05-11T08:50:36.223132+00:00
+
+ ## Introduction | Rive Guide
+ - [https://help.rive.app](https://help.rive.app)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Rive - Build interactive motion graphics that run anywhere
+ - [https://rive.app](https://rive.app)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## DreamTavern: AI Character Chat
+ - [https://www.rizzgpt.app](https://www.rizzgpt.app)
+ - date_published: 2024-06-19T21:25:50.289759+00:00
+
+ ## Read Manga Online
+ - [https://rmanga.app](https://rmanga.app)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## RMRK.app
+ - [https://www.rmrk.app](https://www.rmrk.app)
+ - date_published: 2024-08-27T00:00:00+00:00
+
+ ## Show HN: Robata, macOS window selector: put it on the grill
+ - [https://robata.app](https://robata.app)
+ - date_published: 2024-08-19T20:52:56+00:00
+
+ ## Exploratory Programming With AI
+ - [https://roboweb.app](https://roboweb.app)
+ - date_published: 2023-04-20T02:05:17+00:00
+
+ ## National Geographic Slovenija – Stopite z nami v svet revije NATIONAL GEOGRAPHIC – revije za vse, ki se želite učiti, širiti svoja obzorja, odkrivati čudežni svet rastlin in živali, spoznavati daljne in neznane kraje, ljudi in običaje, pa tudi Slovenijo.
+ - [https://ngm.rokus.app](https://ngm.rokus.app)
+ - date_published: 2024-02-10T00:00:00+00:00
+
  ## RolePlai - Advanced Ai RolePlay Chatbots
  - [https://roleplai.app](https://roleplai.app)
  - date_published: 2024-05-12T00:00:00+00:00
@@ -89,6 +197,10 @@
  ## Rydeen
  - [https://rydeen.app](https://rydeen.app)
  - date_published: 2024-06-03T11:21:06.056570+00:00
+
+ ## ryu.app
+ - [https://ryu.app](https://ryu.app)
+ - date_published: 2024-12-12T11:36:38.356209+00:00
 
  ## Sales & Dungeons
  - [https://sales-and-dungeons.app](https://sales-and-dungeons.app)
@@ -572,6 +684,10 @@
  ## StarKey | Your Secure Gateway to Web3
  - [https://www.starkey.app](https://www.starkey.app)
  - date_published: 2024-09-25T10:57:13.987560+00:00
+
+ ## Starmoon AI: The Compact Device to Bring AI Characters to Life
+ - [https://starmoon.app](https://starmoon.app)
+ - date_published: 2024-12-12T21:19:31.704001+00:00
 
  ## StayAlive | Essential suicide prevention for every day life
  - [http://stayalive.app](http://stayalive.app)
@@ -1090,6 +1206,10 @@
  - [https://tpow.app](https://tpow.app)
  - date_published: 2023-10-16T16:42:11+00:00
 
+ ## Tradewell - Backtest and discover trading ideas
+ - [https://www.tradewell.app](https://www.tradewell.app)
+ - date_published: 2024-11-19T23:27:48+00:00
+
  ## Muscle Body
  - [https://www.trainlikeme.app](https://www.trainlikeme.app)
  - date_published: 2024-12-08T04:36:58+00:00
@@ -1289,6 +1409,10 @@
  ## Ulysses -
  - [https://ulysses.app](https://ulysses.app)
  - date_published: 2024-08-28T05:57:24+00:00
+
+ ## umati App
+ - [https://umati.app](https://umati.app)
+ - date_published: 2024-10-18T09:25:04+00:00
 
  ## UMH Blog
  - [https://learn.umh.app](https://learn.umh.app)
@@ -3234,6 +3358,10 @@
  - [https://spirals.vercel.app](https://spirals.vercel.app)
  - date_published: 2023-10-25T11:50:52.349082+00:00
 
+ ## spots/explorer
+ - [https://spots-blond.vercel.app](https://spots-blond.vercel.app)
+ - date_published: 2024-12-12T04:31:43.444967+00:00
+
  ## Spydea Astro
  - [https://spydea-astro.vercel.app](https://spydea-astro.vercel.app)
  - date_published: 2024-06-21T23:48:58.745344+00:00
@@ -3700,6 +3828,10 @@
  - [https://id.vnggames.app](https://id.vnggames.app)
  - date_published: 2024-07-17T23:11:06.493923+00:00
 
+ ## Voice Calculator - #1 AI Voice Math Solver | Free iOS Calculator App
+ - [https://voicecalculator.app](https://voicecalculator.app)
+ - date_published: 2024-12-12T23:54:44.498729+00:00
+
  ## Volanta
  - [https://feedback.volanta.app](https://feedback.volanta.app)
  - date_published: 2024-09-03T00:00:00+00:00
@@ -3888,138 +4020,4 @@
  ## HDI Harmony
  - [https://hdiharmony.web.app](https://hdiharmony.web.app)
  - date_published: 2024-04-29T07:41:00.134908+00:00
-
- ## ing griyanipun Damar
- - [https://indrdmr.web.app](https://indrdmr.web.app)
- - date_published: 2024-01-28T02:44:54+00:00
-
- ## Ipv6 seminar
- - [https://ipv6-free-webinar.web.app](https://ipv6-free-webinar.web.app)
- - date_published: 2023-04-26T04:10:09+00:00
-
- ## Portfolio
- - [https://manthanank.web.app](https://manthanank.web.app)
- - date_published: 2023-06-15T12:39:28+00:00
-
- ## MovieSync
- - [https://movie-sync-app.web.app](https://movie-sync-app.web.app)
- - date_published: 2021-01-07T04:22:29+00:00
-
- ## ReactiveMaterial
- - [https://myreactivematerial.web.app](https://myreactivematerial.web.app)
- - date_published: 2024-07-23T23:26:16.384798+00:00
-
- ## Nunflix - Streaming World!
- - [https://nunflix-firebase.web.app](https://nunflix-firebase.web.app)
- - date_published: 2024-11-11T00:06:37+00:00
-
- ## WunderNode
- - [https://olympus-treasury-subgraph-prod.web.app](https://olympus-treasury-subgraph-prod.web.app)
- - date_published: 2024-09-21T23:40:43.608553+00:00
-
- ## Widget demo
- - [https://ommi-lg-widget.web.app](https://ommi-lg-widget.web.app)
- - date_published: 2024-05-04T12:26:13.487845+00:00
-
- ## Othello
- - [https://othello-rust.web.app](https://othello-rust.web.app)
- - date_published: 2024-06-03T11:20:34.860317+00:00
-
- ## Pigmnts - Create visually appealing color palettes from images
- - [https://pigmnts.web.app](https://pigmnts.web.app)
- - date_published: 2024-01-01T06:50:08+00:00
-
- ## PixelCraft: A Pixel Art Editor
- - [https://pixelcraft.web.app](https://pixelcraft.web.app)
- - date_published: 2020-04-22T08:34:48+00:00
-
- ## Pro Organiser
- - [https://pro-organisers.web.app](https://pro-organisers.web.app)
- - date_published: 2022-05-18T14:51:38+00:00
-
- ## Skaffold
- - [https://skaffold-v1.web.app](https://skaffold-v1.web.app)
- - date_published: 2022-10-21T00:00:20+00:00
-
- ## Skaffold
- - [https://skaffold-v2.web.app](https://skaffold-v2.web.app)
- - date_published: 2024-05-14T14:45:35+00:00
-
- ## Sniper Ducks
- - [https://sniper-ducks.web.app](https://sniper-ducks.web.app)
- - date_published: 2019-04-04T19:59:36+00:00
-
- ## QueryGenie
- - [https://sqlgenie-co.web.app](https://sqlgenie-co.web.app)
- - date_published: 2023-06-05T19:25:00+00:00
-
- ## That's Groce!
- - [https://thatsgroce.web.app](https://thatsgroce.web.app)
- - date_published: 2023-01-02T20:05:40+00:00
-
- ## The project
- - [https://the-project-e609e.web.app](https://the-project-e609e.web.app)
- - date_published: 2024-08-19T20:32:08+00:00
-
- ## Strona główna - tlumacz.migam.org
- - [https://tlumacz-migam-org.web.app](https://tlumacz-migam-org.web.app)
- - date_published: 2024-01-31T13:40:32+00:00
-
- ## Total Formatter
- - [https://totalformatter.web.app](https://totalformatter.web.app)
- - date_published: 2020-05-01T14:16:38+00:00
- - tags: ['formatter', 'pretty print', 'code']
-
- ## Touco Lab
- - [https://touco-website.web.app](https://touco-website.web.app)
- - date_published: 2021-01-26T13:00:05+00:00
-
- ## Upmind - Commerce and Billing Platform
- - [https://upm-widgets.web.app](https://upm-widgets.web.app)
- - date_published: 2024-09-20T06:56:25.930176+00:00
-
- ## VisBug Sandbox
- - [https://visbug.web.app](https://visbug.web.app)
- - date_published: 2024-04-17T20:55:21+00:00
-
- ## Webbu
- - [https://webbu.app](https://webbu.app)
- - date_published: 2023-10-25T11:51:31.950607+00:00
-
- ## WebDB – App
- - [https://demo.webdb.app](https://demo.webdb.app)
- - date_published: 2024-06-09T16:43:54+00:00
-
- ## WebDB – Open Source and Efficient Database IDE
- - [https://webdb.app](https://webdb.app)
- - date_published: 2024-06-08T08:47:27+00:00
-
- ## Web Maker
- - [https://webmaker.app](https://webmaker.app)
- - date_published: 2024-09-04T06:45:49.353500+00:00
-
- ## Automate your outgoing webmentions
- - [https://webmention.app](https://webmention.app)
- - date_published: 2024-07-02T20:20:14.010054+00:00
-
- ## Weboostor
- - [https://weboostor.app](https://weboostor.app)
- - date_published: 2024-07-17T07:32:11.911764+00:00
-
- ## Wegic Hub
- - [https://wegichub.wegic.app](https://wegichub.wegic.app)
- - date_published: 2024-09-13T20:38:28.637829+00:00
-
- ## Weld Status
- - [https://status.weld.app](https://status.weld.app)
- - date_published: 2024-11-08T11:55:47.809612+00:00
-
- ## Sync your data in minutes | WELD
- - [https://weld.app](https://weld.app)
- - date_published: 2024-11-06T11:51:13+00:00
- - tags: ['data management']
-
- ## WELD
- - [https://workspace.weld.app](https://workspace.weld.app)
- - date_published: 2024-11-08T10:41:02+00:00
 

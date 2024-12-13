@@ -1,3 +1,171 @@
+ ## Cashback
+ - [https://benefitworld.at](https://benefitworld.at)
+ - date_published: 2024-09-19T20:33:40.164582+00:00
+
+ ## bergfex: Urlaub Österreich: Sommerurlaub Österreich
+ - [http://www.bergfex.at](http://www.bergfex.at)
+ - date_published: 2024-09-13T16:19:29.339340+00:00
+
+ ## Outdoor Shop für Bergsport, Klettern & Trekking | Berg-freunde.at
+ - [https://www.berg-freunde.at](https://www.berg-freunde.at)
+ - date_published: 2024-07-14T12:11:18.862614+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://besteonlinecasinosoesterreich.at](https://besteonlinecasinosoesterreich.at)
+ - date_published: 2024-10-13T07:56:49.294312+00:00
+
+ ## Tomsondev Blog
+ - [https://tomsondev.bestsolution.at](https://tomsondev.bestsolution.at)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Betreuung, Haushaltshilfe, Tiersitter & mehr - Betreut.at
+ - [https://www.betreut.at](https://www.betreut.at)
+ - date_published: 2024-09-14T10:08:18.192731+00:00
+
+ ## Öffentliche Schulen, Universitäten & Spezialimmobilien
+ - [https://www.big.at](https://www.big.at)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## BBA 2023 - quintessenz - Big Brother Awards 2023 - The Imitation Game – die vorgetäuschte Intelligenz
+ - [http://bigbrotherawards.at](http://bigbrotherawards.at)
+ - date_published: 2024-07-20T20:45:26.112280+00:00
+
+ ## Enterprise-E-Commerce, einfach erklärt. | BigCommerce
+ - [https://www.bigcommerce.at](https://www.bigcommerce.at)
+ - date_published: 2024-07-08T12:40:49.114287+00:00
+
+ ## Bilderbuch Shop
+ - [https://bilderbuch-musik.at](https://bilderbuch-musik.at)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Bioreg
+ - [http://www.bioreg.at](http://www.bioreg.at)
+ - date_published: 2024-06-28T12:06:31.692953+00:00
+
+ ## ICSx⁵
+ - [https://icsx5.bitfire.at](https://icsx5.bitfire.at)
+ - date_published: 2024-06-23T18:42:31+00:00
+
+ ## bitfire web engineering
+ - [https://www.bitfire.at](https://www.bitfire.at)
+ - date_published: 2024-07-14T15:40:30.410573+00:00
+
+ ## Zero Waste Onlineshop - plastikfreie Produkte für deinen Alltag
+ - [https://blattwende.at](https://blattwende.at)
+ - date_published: 2024-06-18T14:30:22.003113+00:00
+
+ ## Blogheim.at | Die Heimat der Österreichischen Blogszene
+ - [https://blogheim.at](https://blogheim.at)
+ - date_published: 2024-05-12T06:40:45.460990+00:00
+
+ ## Blühendes Österreich - Mit der Initiative Blühendes Österreich werden die Erhaltung und die Entwicklung bedrohter Lebensräume gefördert und geschützt.
+ - [http://www.bluehendesoesterreich.at](http://www.bluehendesoesterreich.at)
+ - date_published: 2024-09-13T16:21:04.804214+00:00
+
+ ## AUSTRIAN NATIONAL COMMITTEE OF THE BLUE SHIELD
+ - [https://www.blueshield.at](https://www.blueshield.at)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home
+ - [https://www.bodendirect.at](https://www.bodendirect.at)
+ - date_published: 2024-10-21T01:55:49.035264+00:00
+
+ ## eBOD2
+ - [https://bodenkarte.at](https://bodenkarte.at)
+ - date_published: 2023-12-06T20:56:47+00:00
+
+ ## Kartenansicht mit österreichweiten Grundstückspreisen auf einen Blick - bodenpreise.at
+ - [https://www.bodenpreise.at](https://www.bodenpreise.at)
+ - date_published: 2024-09-13T16:21:35.000950+00:00
+
+ ## Books in the Fridge
+ - [https://booksinthefridge.at](https://booksinthefridge.at)
+ - date_published: 2024-05-11T07:10:21.648548+00:00
+
+ ## Home
+ - [http://www.bosch.at](http://www.bosch.at)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Hausgeräte, Werkzeuge & Smart Home | Bosch AT
+ - [https://www.bosch-home.at](https://www.bosch-home.at)
+ - date_published: 2024-06-16T21:35:40.384152+00:00
+
+ ## Brother Online
+ - [https://atyourside.brother.at](https://atyourside.brother.at)
+ - date_published: 2024-06-17T21:03:52.172392+00:00
+
+ ## Brother Online Store
+ - [https://store.brother.at](https://store.brother.at)
+ - date_published: 2024-06-18T06:02:57.675637+00:00
+
+ ## Hersteller von Drucker, Laserdrucker & Scanner | Brother
+ - [https://www.brother.at](https://www.brother.at)
+ - date_published: 2024-05-02T11:36:03.685174+00:00
+
+ ## brunnmeister.atwebsite in der Warteschleife
+ - [https://brunnmeister.at](https://brunnmeister.at)
+ - date_published: 2024-07-18T06:13:34.489383+00:00
+
+ ## IKT-Sicherheitskonferenz
+ - [https://seminar.bundesheer.at](https://seminar.bundesheer.at)
+ - date_published: 2024-07-13T09:03:44.822283+00:00
+
+ ## Business-austria.at presented by Marktplatz-Mittelstand.de
+ - [http://www.business-austria.at](http://www.business-austria.at)
+ - date_published: 2022-03-07T13:50:57+00:00
+
+ ## frontpage - BVZ.at
+ - [http://www.bvz.at](http://www.bvz.at)
+ - date_published: 2024-07-20T15:05:32+00:00
+
+ ## Home of the Hitmen
+ - [http://hitmen.c02.at](http://hitmen.c02.at)
+ - date_published: 2023-09-12T06:27:47+00:00
+
+ ## Chaos Computer Club Wien (C3W)
+ - [https://c3w.at](https://c3w.at)
+ - date_published: 2024-06-03T13:19:48+00:00
+
+ ## CryptPad: end-to-end encrypted collaboration suite
+ - [https://pads.c3w.at](https://pads.c3w.at)
+ - date_published: 2023-12-22T22:13:19+00:00
+
+ ## Home
+ - [https://camera-austria.at](https://camera-austria.at)
+ - date_published: 2024-09-20T09:08:06+00:00
+
+ ## Unternehmensberatung für Change- und Prozessmanagement
+ - [https://www.camillo-patzl.at](https://www.camillo-patzl.at)
+ - date_published: 2024-08-18T11:33:53.498279+00:00
+
+ ## Großartige Serien und Filme einfach online streamen  | CANAL+
+ - [https://www.canalplus.at](https://www.canalplus.at)
+ - date_published: 2024-06-25T21:53:17.146486+00:00
+
+ ## Capitalist Exploits – Global Investment Research
+ - [https://capitalistexploits.at](https://capitalistexploits.at)
+ - date_published: 2024-03-03T00:00:00+00:00
+
+ ## Mit Capterra die richtige Software für dein Unternehmen finden
+ - [https://www.capterra.at](https://www.capterra.at)
+ - date_published: 2024-07-20T19:26:22.512731+00:00
+
+ ## Cashback
+ - [https://cashbackonline.at](https://cashbackonline.at)
+ - date_published: 2024-06-25T18:36:14+00:00
+
+ ## Homepage
+ - [https://casinoble.at](https://casinoble.at)
+ - date_published: 2024-09-19T20:31:56.809764+00:00
+
+ ## CCC Salzburg
+ - [https://cccsbg.at](https://cccsbg.at)
+ - date_published: 2024-07-24T16:25:46.354980+00:00
+
+ ## ceeba.at
+ - [http://www.ceeba.at](http://www.ceeba.at)
+ - date_published: 2024-07-12T05:17:02.803237+00:00
+
  ## CERT.at
  - [https://www.cert.at](https://www.cert.at)
  - date_published: 2024-06-21T16:06:59+00:00
@@ -1120,6 +1288,10 @@
  - [https://www.igus.at](https://www.igus.at)
  - date_published: 2024-08-06T23:13:03.192248+00:00
 
+ ## IICP
+ - [https://iicp.at](https://iicp.at)
+ - date_published: 2024-12-12T09:46:01.169794+00:00
+
  ## Hej bei IKEA Österreich
  - [https://ikea.at](https://ikea.at)
  - date_published: 2024-10-22T11:28:08.808837+00:00
@@ -1715,6 +1887,10 @@
  - [https://metalevel.at](https://metalevel.at)
  - date_published: 2023-10-25T09:07:52.175776+00:00
  - tags: ['personal']
+
+ ## Startseite
+ - [https://www.metalltechnischeindustrie.at](https://www.metalltechnischeindustrie.at)
+ - date_published: 2024-12-12T15:52:14.565233+00:00
 
  ## Michael Prokop -
 Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
@@ -2827,6 +3003,10 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - [https://www.smartled.at](https://www.smartled.at)
  - date_published: 2024-07-13T17:15:32+00:00
 
+ ## Welcome at SML | SML
+ - [https://www.sml.at](https://www.sml.at)
+ - date_published: 2024-12-12T15:52:28.151285+00:00
+
  ## Salzburger Nachrichten: News aus Salzburg und der Welt
  - [https://sn.at](https://sn.at)
  - date_published: 2024-06-25T21:48:58.282836+00:00
@@ -3832,186 +4012,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Das Bundesministerium für Finanzen
  - [https://bmf.gv.at](https://bmf.gv.at)
  - date_published: 2024-05-11T07:10:18.851381+00:00
-
- ## Chatbot Fred
- - [https://chat.bmf.gv.at](https://chat.bmf.gv.at)
- - date_published: 2024-07-13T11:26:53.902396+00:00
-
- ## FinanzOnline Login
- - [https://finanzonline.bmf.gv.at](https://finanzonline.bmf.gv.at)
- - date_published: 2024-07-13T11:26:43.258874+00:00
-
- ## Error
- - [https://pendlerrechner.bmf.gv.at](https://pendlerrechner.bmf.gv.at)
- - date_published: 2024-09-13T16:20:55.085728+00:00
-
- ## Das Bundesministerium für Finanzen
- - [https://service.bmf.gv.at](https://service.bmf.gv.at)
- - date_published: 2024-07-13T11:26:46.510350+00:00
-
- ## Familie - Bundeskanzleramt Österreich
- - [https://www.bmfj.gv.at](https://www.bmfj.gv.at)
- - date_published: 2024-06-25T22:51:27.606371+00:00
-
- ## Bundesministerium für Justiz
- - [http://bmj.gv.at](http://bmj.gv.at)
- - date_published: 2024-07-13T11:35:15.043377+00:00
-
- ## Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport - Startseite
- - [http://www.bmkoes.gv.at](http://www.bmkoes.gv.at)
- - date_published: 2024-09-02T15:47:57.895388+00:00
-
- ## Bundesministerium für Bildung, Wissenschaft und Forschung
- - [http://www.bmwf.gv.at](http://www.bmwf.gv.at)
- - date_published: 2024-06-30T11:17:47.778856+00:00
-
- ## Bundeskanzleramt der Republik Österreich - Startseite
- - [https://www.bundeskanzleramt.gv.at](https://www.bundeskanzleramt.gv.at)
- - date_published: 2024-07-02T22:20:02.885425+00:00
-
- ## data.gv.at - offene Daten Österreichs – lesbar für Mensch und Maschine
- - [https://data.gv.at](https://data.gv.at)
- - date_published: 2024-09-13T16:19:18.274035+00:00
-
- ## Willkommen auf der Website der Datenschutzbehörde
- - [https://www.dsb.gv.at](https://www.dsb.gv.at)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Startseite - Reden wir über Geld
- - [https://redenwiruebergeld.fma.gv.at](https://redenwiruebergeld.fma.gv.at)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Startseite - FMA Österreich
- - [https://www.fma.gv.at](https://www.fma.gv.at)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Willkommen auf gesundheit.gv.at
- - [https://www.gesundheit.gv.at](https://www.gesundheit.gv.at)
- - date_published: 2024-07-03T01:43:03.179024+00:00
-
- ## Graphenintegrations-Plattform GIP: Der multimodale, digitale Verkehrsgraph für ganz Österreich
- - [http://www.gip.gv.at](http://www.gip.gv.at)
- - date_published: 2024-07-01T11:06:51+00:00
-
- ## oesterreich.gv.at – Startseite
- - [http://www.help.gv.at](http://www.help.gv.at)
- - date_published: 2024-06-30T11:17:49.602876+00:00
-
- ## Hilfe bei Gewalt
- - [https://www.hilfe-bei-gewalt.gv.at](https://www.hilfe-bei-gewalt.gv.at)
- - date_published: 2024-07-13T11:35:11.429963+00:00
-
- ## Home | Impfen schützt einfach.
- - [https://impfen.gv.at](https://impfen.gv.at)
- - date_published: 2024-07-03T01:43:05.901517+00:00
-
- ## INSPIRE Geoportal Österreich
- - [http://geometadatensuche.inspire.gv.at](http://geometadatensuche.inspire.gv.at)
- - date_published: 2024-09-13T16:20:26.555857+00:00
-
- ## Die österreichische Justiz
- - [https://justiz.gv.at](https://justiz.gv.at)
- - date_published: 2024-05-11T07:10:53.680191+00:00
-
- ## Land Oberösterreich
- - [http://www.land-oberoesterreich.gv.at](http://www.land-oberoesterreich.gv.at)
- - date_published: 2024-07-02T22:21:07.974876+00:00
-
- ## Mobilitätsdaten Österreich
- - [https://www.mobilitydata.gv.at](https://www.mobilitydata.gv.at)
- - date_published: 2024-07-15T06:19:19.699897+00:00
-
- ## naBe - Aktionsplan für eine nachhaltige öffentliche Beschaffung
- - [https://www.nabe.gv.at](https://www.nabe.gv.at)
- - date_published: 2024-09-18T14:52:56.742809+00:00
-
- ## Startseite
- - [https://www.noe.gv.at](https://www.noe.gv.at)
- - date_published: 2024-09-04T02:51:48.821567+00:00
-
- ## oesterreich.gv.at – Startseite
- - [https://oesterreich.gv.at](https://oesterreich.gv.at)
- - date_published: 2024-05-11T07:10:33.779112+00:00
-
- ## Login at „oesterreich.gv.at“
- - [https://secure.oesterreich.gv.at](https://secure.oesterreich.gv.at)
- - date_published: 2024-07-13T11:28:33.472053+00:00
-
- ## Mailinglisten auf verteiler.oesterreich.gv.at
- - [https://verteiler.oesterreich.gv.at](https://verteiler.oesterreich.gv.at)
- - date_published: 2024-05-11T07:11:10.250072+00:00
-
- ## DORIS interMAP - Startseite
- - [https://doris.ooe.gv.at](https://doris.ooe.gv.at)
- - date_published: 2024-09-13T16:18:53.098290+00:00
-
- ## Startseite
-
-                 - Land Salzburg
- - [https://www.salzburg.gv.at](https://www.salzburg.gv.at)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Österreichischer Städtebund - Österreichischer Städtebund
- - [http://www.staedtebund.gv.at](http://www.staedtebund.gv.at)
- - date_published: 2024-09-13T16:18:48.606664+00:00
-
- ## www.tirol.gv.at
- - [https://www.tirol.gv.at](https://www.tirol.gv.at)
- - date_published: 2024-09-12T13:24:21+00:00
-
- ## Fehler
- - [https://transparenzportal.gv.at](https://transparenzportal.gv.at)
- - date_published: 2024-07-13T11:28:32.177285+00:00
-
- ## Unternehmensserviceportal
- - [https://www.usp.gv.at](https://www.usp.gv.at)
- - date_published: 2024-07-13T11:26:48.646803+00:00
-
- ## Digitales Wien - Der Mensch im Mittelpunkt
- - [https://digitales.wien.gv.at](https://digitales.wien.gv.at)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Mein Wien - Mein Wien
- - [https://mein.wien.gv.at](https://mein.wien.gv.at)
- - date_published: 2024-07-03T01:43:28.349742+00:00
-
- ## Aktuell
- - [https://presse.wien.gv.at](https://presse.wien.gv.at)
- - date_published: 2022-03-18T08:59:59+00:00
-
- ## Smart City Wien - Die Stadt fürs Leben - Smart City Wien
- - [https://smartcity.wien.gv.at](https://smartcity.wien.gv.at)
- - date_published: 2023-05-30T11:48:22+00:00
-
- ## Anmeldung
- - [https://stp.wien.gv.at](https://stp.wien.gv.at)
- - date_published: 2024-09-13T16:20:44+00:00
-
- ## Stadt Wien - Offizielle & aktuelle Infos und Services der Wiener Stadtverwaltung - startseite.wien.gv.at
- - [https://wien.gv.at](https://wien.gv.at)
- - date_published: 2024-05-07T23:53:39.190630+00:00
-
- ## Wien Geschichte Wiki
- - [https://www.geschichtewiki.wien.gv.at](https://www.geschichtewiki.wien.gv.at)
- - date_published: 2024-07-03T01:43:30+00:00
-
- ## Wiener Neustadt
- - [http://www.wiener-neustadt.gv.at](http://www.wiener-neustadt.gv.at)
- - date_published: 2024-06-30T11:17:55.587996+00:00
-
- ## @||@
- - [https://at.or.at](https://at.or.at)
- - date_published: 2021-03-09T21:09:20+00:00
-
- ## BIZEPS - Nachrichten zum Thema Behinderung
- - [https://bizeps.or.at](https://bizeps.or.at)
- - date_published: 2024-10-22T11:31:24.879013+00:00
-
- ## Home
- - [http://www.ifip.or.at](http://www.ifip.or.at)
- - date_published: 2024-08-18T17:59:12+00:00
-
- ## Soundmachines   » magical sound machines
- - [http://klangmaschinen.ima.or.at](http://klangmaschinen.ima.or.at)
- - date_published: 2024-06-30T07:41:37.748670+00:00
 

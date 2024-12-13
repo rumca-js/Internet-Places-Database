@@ -544,7 +544,7 @@
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## Animaker، أنشئ مقاطع فيديو متحركة على السحابة مجانًا
- - [https://www.animaker.ae](https://www.animaker.ae)
+ - [https://animaker.ae](https://animaker.ae)
  - date_published: 2023-10-16T15:30:57+00:00
 
  ## ARN - the most dynamic multiplatform broadcaster in the UAE
@@ -562,6 +562,10 @@
  ## ASPIRE
  - [https://aspireuae.ae](https://aspireuae.ae)
  - date_published: 2024-06-10T12:47:28.986449+00:00
+
+ ## Home
+ - [https://athenatelecom.ae](https://athenatelecom.ae)
+ - date_published: 2024-12-12T12:33:46.757957+00:00
 
  ## ATRC STEM Youth Mentorship Program
  - [https://mentorship.atrc.ae](https://mentorship.atrc.ae)
@@ -642,6 +646,10 @@
  ## Home
  - [https://www.clevelandclinicabudhabi.ae](https://www.clevelandclinicabudhabi.ae)
  - date_published: 2024-07-12T21:54:44.007044+00:00
+
+ ## Conagro
+ - [https://conagro.ae](https://conagro.ae)
+ - date_published: 2024-12-12T20:58:28.001520+00:00
 
  ## Costa Coffee | UAE
  - [https://www.costacoffee.ae](https://www.costacoffee.ae)
@@ -1312,6 +1320,10 @@
  ## We are the Airspace Change Organising Group - Airspace Change Organising Group (ACOG)
  - [https://www.acog.aero](https://www.acog.aero)
  - date_published: 2024-10-21T08:06:47.979767+00:00
+
+ ## ADE
+ - [https://ade.aero](https://ade.aero)
+ - date_published: 2024-12-10T15:08:30+00:00
 
  ## Aerohub
  - [https://kqcinema.aerohub.aero](https://kqcinema.aerohub.aero)
@@ -2005,6 +2017,10 @@
  - [https://hahn.agency](https://hahn.agency)
  - date_published: 2024-05-08T11:12:42.452502+00:00
 
+ ## Digital Marketing Agency | Multi-Award Winning | Hallam
+ - [https://hallam.agency](https://hallam.agency)
+ - date_published: 2024-08-14T17:00:58+00:00
+
  ## Hands
  - [https://hands.agency](https://hands.agency)
  - date_published: 2024-06-26T21:44:49.925948+00:00
@@ -2194,7 +2210,7 @@
  - date_published: 2024-06-25T19:00:27.898263+00:00
 
  ## Premier Website Design and Development Agency - Webforest LLP
- - [http://webforest.agency](http://webforest.agency)
+ - [https://webforest.agency](https://webforest.agency)
  - date_published: 2024-03-20T12:41:17+00:00
 
  ## Wodka - Web Agency Firenze
@@ -3065,12 +3081,20 @@
  - date_published: 2024-10-30T07:18:40.336304+00:00
 
  ## Assisterr AI
- - [https://www.assisterr.ai](https://www.assisterr.ai)
+ - [https://assisterr.ai](https://assisterr.ai)
  - date_published: 2024-08-14T08:08:59+00:00
+
+ ## Network of Small Language Models
+ - [https://build.assisterr.ai](https://build.assisterr.ai)
+ - date_published: 2024-12-13T00:53:56.188935+00:00
 
  ## AI applications and marketplace
  - [https://assistiv.ai](https://assistiv.ai)
  - date_published: 2024-06-21T19:47:18+00:00
+
+ ## Astria - Tailor-made AI
+ - [https://astria.ai](https://astria.ai)
+ - date_published: 2024-12-12T23:34:10.261123+00:00
 
  ## Astria blog | Astria blog
  - [https://blog.astria.ai](https://blog.astria.ai)
@@ -3509,6 +3533,10 @@
  - [https://www.bigvision.ai](https://www.bigvision.ai)
  - date_published: 2024-08-20T05:41:15.701148+00:00
 
+ ## BIK
+ - [https://bik.ai](https://bik.ai)
+ - date_published: 2024-11-08T05:54:43+00:00
+
  ## BingBang.ai
  - [https://bingbang.ai](https://bingbang.ai)
  - date_published: 2024-06-19T19:18:12+00:00
@@ -3596,6 +3624,10 @@
  ## Attention Required! | Cloudflare
  - [https://fcabmc.cs.blip.ai](https://fcabmc.cs.blip.ai)
  - date_published: 2024-07-04T07:32:38.741311+00:00
+
+ ## Trade Crypto Securely - Fideum
+ - [https://blockbank.ai](https://blockbank.ai)
+ - date_published: 2024-12-12T20:30:34+00:00
 
  ## BLOGBOOSTER.ai - AI autopilot for your blog
  - [https://blogbooster.ai](https://blogbooster.ai)
@@ -3760,6 +3792,10 @@
  ## Breadcrumb.ai - Persuade with AI Data Analytic Dashboards
  - [https://www.breadcrumb.ai](https://www.breadcrumb.ai)
  - date_published: 2024-09-13T20:26:12.379820+00:00
+
+ ## Unlock Peak Performance | Boost productivity | Breathing.Ai
+ - [http://breathing.ai](http://breathing.ai)
+ - date_published: 2024-12-11T14:46:55+00:00
 
  ## BreezeMail | Email made easy
  - [https://app.breezemail.ai](https://app.breezemail.ai)
@@ -3982,41 +4018,4 @@
  ## Careerflow.ai Help Center
  - [http://help.careerflow.ai](http://help.careerflow.ai)
  - date_published: 2024-10-30T08:07:33.153627+00:00
-
- ## Find Recruiters on LinkedIn | X-ray Search by FAANGPath
- - [http://hiring-search.careerflow.ai](http://hiring-search.careerflow.ai)
- - date_published: 2023-01-08T02:00:32+00:00
-
- ## Careers - AI-Powered Hiring Assistant
- - [https://careers.ai](https://careers.ai)
- - date_published: 2024-06-19T19:19:26.132005+00:00
-
- ## Automate Your Data Entry into Cargowise | Data Extraction Software for Logistics & Shipping Industry
- - [https://cargodoc.ai](https://cargodoc.ai)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Chatbots con IA para atención al cliente
- - [https://cari.ai](https://cari.ai)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## CarperAI
- - [https://carper.ai](https://carper.ai)
- - date_published: 2023-10-25T11:36:47.359387+00:00
- - tags: ['artificial intelligence']
-
- ## Cartesia
- - [https://cartesia.ai](https://cartesia.ai)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Caryn AI
- - [https://caryn.ai](https://caryn.ai)
- - date_published: 2024-06-19T19:11:42.983409+00:00
-
- ## Casablanca.ai
- - [https://www.casablanca.ai](https://www.casablanca.ai)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Wizu: AI-Powered Conversational Surveys for Enhanced Customer Feedback - Optimize Your Customer Experience Management
- - [https://casestudywriter.ai](https://casestudywriter.ai)
- - date_published: 2024-10-27T15:59:07+00:00
 

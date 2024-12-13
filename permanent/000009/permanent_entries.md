@@ -1,3 +1,185 @@
+ ## Chatbot Fred
+ - [https://chat.bmf.gv.at](https://chat.bmf.gv.at)
+ - date_published: 2024-07-13T11:26:53.902396+00:00
+
+ ## FinanzOnline Login
+ - [https://finanzonline.bmf.gv.at](https://finanzonline.bmf.gv.at)
+ - date_published: 2024-07-13T11:26:43.258874+00:00
+
+ ## Error
+ - [https://pendlerrechner.bmf.gv.at](https://pendlerrechner.bmf.gv.at)
+ - date_published: 2024-09-13T16:20:55.085728+00:00
+
+ ## Das Bundesministerium für Finanzen
+ - [https://service.bmf.gv.at](https://service.bmf.gv.at)
+ - date_published: 2024-07-13T11:26:46.510350+00:00
+
+ ## Familie - Bundeskanzleramt Österreich
+ - [https://www.bmfj.gv.at](https://www.bmfj.gv.at)
+ - date_published: 2024-06-25T22:51:27.606371+00:00
+
+ ## Bundesministerium für Justiz
+ - [http://bmj.gv.at](http://bmj.gv.at)
+ - date_published: 2024-07-13T11:35:15.043377+00:00
+
+ ## Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport - Startseite
+ - [http://www.bmkoes.gv.at](http://www.bmkoes.gv.at)
+ - date_published: 2024-09-02T15:47:57.895388+00:00
+
+ ## Bundesministerium für Bildung, Wissenschaft und Forschung
+ - [http://www.bmwf.gv.at](http://www.bmwf.gv.at)
+ - date_published: 2024-06-30T11:17:47.778856+00:00
+
+ ## Bundeskanzleramt der Republik Österreich - Startseite
+ - [https://www.bundeskanzleramt.gv.at](https://www.bundeskanzleramt.gv.at)
+ - date_published: 2024-07-02T22:20:02.885425+00:00
+
+ ## data.gv.at - offene Daten Österreichs – lesbar für Mensch und Maschine
+ - [https://data.gv.at](https://data.gv.at)
+ - date_published: 2024-09-13T16:19:18.274035+00:00
+
+ ## Willkommen auf der Website der Datenschutzbehörde
+ - [https://www.dsb.gv.at](https://www.dsb.gv.at)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Startseite - Reden wir über Geld
+ - [https://redenwiruebergeld.fma.gv.at](https://redenwiruebergeld.fma.gv.at)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Startseite - FMA Österreich
+ - [https://www.fma.gv.at](https://www.fma.gv.at)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Willkommen auf gesundheit.gv.at
+ - [https://www.gesundheit.gv.at](https://www.gesundheit.gv.at)
+ - date_published: 2024-07-03T01:43:03.179024+00:00
+
+ ## Graphenintegrations-Plattform GIP: Der multimodale, digitale Verkehrsgraph für ganz Österreich
+ - [http://www.gip.gv.at](http://www.gip.gv.at)
+ - date_published: 2024-07-01T11:06:51+00:00
+
+ ## oesterreich.gv.at – Startseite
+ - [http://www.help.gv.at](http://www.help.gv.at)
+ - date_published: 2024-06-30T11:17:49.602876+00:00
+
+ ## Hilfe bei Gewalt
+ - [https://www.hilfe-bei-gewalt.gv.at](https://www.hilfe-bei-gewalt.gv.at)
+ - date_published: 2024-07-13T11:35:11.429963+00:00
+
+ ## Home | Impfen schützt einfach.
+ - [https://impfen.gv.at](https://impfen.gv.at)
+ - date_published: 2024-07-03T01:43:05.901517+00:00
+
+ ## INSPIRE Geoportal Österreich
+ - [http://geometadatensuche.inspire.gv.at](http://geometadatensuche.inspire.gv.at)
+ - date_published: 2024-09-13T16:20:26.555857+00:00
+
+ ## Die österreichische Justiz
+ - [https://justiz.gv.at](https://justiz.gv.at)
+ - date_published: 2024-05-11T07:10:53.680191+00:00
+
+ ## Land Oberösterreich
+ - [http://www.land-oberoesterreich.gv.at](http://www.land-oberoesterreich.gv.at)
+ - date_published: 2024-07-02T22:21:07.974876+00:00
+
+ ## Mobilitätsdaten Österreich
+ - [https://www.mobilitydata.gv.at](https://www.mobilitydata.gv.at)
+ - date_published: 2024-07-15T06:19:19.699897+00:00
+
+ ## naBe - Aktionsplan für eine nachhaltige öffentliche Beschaffung
+ - [https://www.nabe.gv.at](https://www.nabe.gv.at)
+ - date_published: 2024-09-18T14:52:56.742809+00:00
+
+ ## Startseite
+ - [https://www.noe.gv.at](https://www.noe.gv.at)
+ - date_published: 2024-09-04T02:51:48.821567+00:00
+
+ ## oesterreich.gv.at – Startseite
+ - [https://oesterreich.gv.at](https://oesterreich.gv.at)
+ - date_published: 2024-05-11T07:10:33.779112+00:00
+
+ ## Login at „oesterreich.gv.at“
+ - [https://secure.oesterreich.gv.at](https://secure.oesterreich.gv.at)
+ - date_published: 2024-07-13T11:28:33.472053+00:00
+
+ ## Mailinglisten auf verteiler.oesterreich.gv.at
+ - [https://verteiler.oesterreich.gv.at](https://verteiler.oesterreich.gv.at)
+ - date_published: 2024-05-11T07:11:10.250072+00:00
+
+ ## DORIS interMAP - Startseite
+ - [https://doris.ooe.gv.at](https://doris.ooe.gv.at)
+ - date_published: 2024-09-13T16:18:53.098290+00:00
+
+ ## Startseite
+
+                 - Land Salzburg
+ - [https://www.salzburg.gv.at](https://www.salzburg.gv.at)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Österreichischer Städtebund - Österreichischer Städtebund
+ - [http://www.staedtebund.gv.at](http://www.staedtebund.gv.at)
+ - date_published: 2024-09-13T16:18:48.606664+00:00
+
+ ## www.tirol.gv.at
+ - [https://www.tirol.gv.at](https://www.tirol.gv.at)
+ - date_published: 2024-09-12T13:24:21+00:00
+
+ ## Fehler
+ - [https://transparenzportal.gv.at](https://transparenzportal.gv.at)
+ - date_published: 2024-07-13T11:28:32.177285+00:00
+
+ ## Unternehmensserviceportal
+ - [https://www.usp.gv.at](https://www.usp.gv.at)
+ - date_published: 2024-07-13T11:26:48.646803+00:00
+
+ ## Digitales Wien - Der Mensch im Mittelpunkt
+ - [https://digitales.wien.gv.at](https://digitales.wien.gv.at)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Mein Wien - Mein Wien
+ - [https://mein.wien.gv.at](https://mein.wien.gv.at)
+ - date_published: 2024-07-03T01:43:28.349742+00:00
+
+ ## Aktuell
+ - [https://presse.wien.gv.at](https://presse.wien.gv.at)
+ - date_published: 2022-03-18T08:59:59+00:00
+
+ ## Smart City Wien - Die Stadt fürs Leben - Smart City Wien
+ - [https://smartcity.wien.gv.at](https://smartcity.wien.gv.at)
+ - date_published: 2023-05-30T11:48:22+00:00
+
+ ## Anmeldung
+ - [https://stp.wien.gv.at](https://stp.wien.gv.at)
+ - date_published: 2024-09-13T16:20:44+00:00
+
+ ## Stadt Wien - Offizielle & aktuelle Infos und Services der Wiener Stadtverwaltung - startseite.wien.gv.at
+ - [https://wien.gv.at](https://wien.gv.at)
+ - date_published: 2024-05-07T23:53:39.190630+00:00
+
+ ## Wien Geschichte Wiki
+ - [https://www.geschichtewiki.wien.gv.at](https://www.geschichtewiki.wien.gv.at)
+ - date_published: 2024-07-03T01:43:30+00:00
+
+ ## Wiener Neustadt
+ - [http://www.wiener-neustadt.gv.at](http://www.wiener-neustadt.gv.at)
+ - date_published: 2024-06-30T11:17:55.587996+00:00
+
+ ## @||@
+ - [https://at.or.at](https://at.or.at)
+ - date_published: 2021-03-09T21:09:20+00:00
+
+ ## BIZEPS - Nachrichten zum Thema Behinderung
+ - [https://bizeps.or.at](https://bizeps.or.at)
+ - date_published: 2024-10-22T11:31:24.879013+00:00
+
+ ## Home
+ - [http://www.ifip.or.at](http://www.ifip.or.at)
+ - date_published: 2024-08-18T17:59:12+00:00
+
+ ## Soundmachines   » magical sound machines
+ - [http://klangmaschinen.ima.or.at](http://klangmaschinen.ima.or.at)
+ - date_published: 2024-06-30T07:41:37.748670+00:00
+
  ## $OG_TITLE
  - [https://zara.or.at](https://zara.or.at)
  - date_published: 2024-10-22T11:29:25.539960+00:00
@@ -288,6 +470,10 @@
  ## RAAIE Skincare - Active New Zealand Botanical Skincare
  - [https://raaie.au](https://raaie.au)
  - date_published: 2024-09-17T01:41:20.821412+00:00
+
+ ## rants.au
+ - [https://rants.au](https://rants.au)
+ - date_published: 2024-12-12T09:47:55.511643+00:00
 
  ## @robn
  - [https://robn.au](https://robn.au)
@@ -2525,6 +2711,10 @@
  - [https://www.danmurphys.com.au](https://www.danmurphys.com.au)
  - date_published: 2024-09-10T13:03:29.141142+00:00
 
+ ## Darrell Hilton (Productions)
+ - [http://darrellhilton.com.au](http://darrellhilton.com.au)
+ - date_published: 2010-06-22T09:27:32+00:00
+
  ## Dart Mining
  - [https://dartmining.com.au](https://dartmining.com.au)
  - date_published: 2024-09-16T22:04:08.399320+00:00
@@ -3827,192 +4017,4 @@
  ## Hawaiian Airlines - Flights to Hawaii, Plane Tickets & Airfare
  - [https://www.hawaiianairlines.com.au](https://www.hawaiianairlines.com.au)
  - date_published: 2024-10-07T19:42:46.304850+00:00
-
- ## Flinders Health2Go - Flinders University
- - [https://www.health2go.com.au](https://www.health2go.com.au)
- - date_published: 2024-09-15T15:08:18+00:00
-
- ## Healthengine | Find and book healthcare providers
- - [https://healthengine.com.au](https://healthengine.com.au)
- - date_published: 2024-06-29T20:06:44.853733+00:00
-
- ## Home - Hearing Australia
- - [https://www.hearing.com.au](https://www.hearing.com.au)
- - date_published: 2024-07-15T06:54:01.835163+00:00
-
- ## Heath Media | Media and Events Company in Austraila
- - [http://www.heathmedia.com.au](http://www.heathmedia.com.au)
- - date_published: 2024-10-14T17:14:48.249231+00:00
-
- ## Heath Solutions - Custom Software Agency
- - [https://heathsolutions.com.au](https://heathsolutions.com.au)
- - date_published: 2024-09-09T19:59:20.300852+00:00
-
- ## %%sitename%%
- - [https://blog.hellofresh.com.au](https://blog.hellofresh.com.au)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## HelloFresh - Earn Qantas Points!
- - [https://partnerships.hellofresh.com.au](https://partnerships.hellofresh.com.au)
- - date_published: 2024-06-06T06:49:40+00:00
-
- ## HelloFresh: Simply Delicious Meals Delivered To Your Door
- - [https://www.hellofresh.com.au](https://www.hellofresh.com.au)
- - date_published: 2024-05-02T13:59:38.174067+00:00
-
- ## Home
- - [https://hellomay.com.au](https://hellomay.com.au)
- - date_published: 2024-10-28T07:29:04.324695+00:00
-
- ## Home
- - [https://www.henkel.com.au](https://www.henkel.com.au)
- - date_published: 2024-10-18T20:17:01.067353+00:00
-
- ## Hair Care Products Inspired by Nature | Herbal Essences AU
- - [https://herbalessences.com.au](https://herbalessences.com.au)
- - date_published: 2024-06-03T09:11:18+00:00
-
- ## Hermanns Guns
- - [https://hermannsguns.com.au](https://hermannsguns.com.au)
- - date_published: 2023-12-22T08:11:12.058997+00:00
-
- ## Members
- - [https://hesta.com.au](https://hesta.com.au)
- - date_published: 2024-07-08T07:05:39+00:00
-
- ## Home
- - [https://www.heyjean.com.au](https://www.heyjean.com.au)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Advancing Connected Care
- - [https://www.hillrom.com.au](https://www.hillrom.com.au)
- - date_published: 2024-10-17T21:26:37.307088+00:00
-
- ## Power Tools, Fasteners and Softwares for construction - Hilti Australia
- - [https://www.hilti.com.au](https://www.hilti.com.au)
- - date_published: 2024-06-20T07:27:22.275485+00:00
-
- ## hipages: Australia's Largest Online Tradie Marketplace - hipages.com.au
- - [https://hipages.com.au](https://hipages.com.au)
- - date_published: 2024-07-15T05:38:05.685812+00:00
-
- ## hipages: Australia's Largest Online Tradie Marketplace - hipages.com.au
- - [https://img.hipages.com.au](https://img.hipages.com.au)
- - date_published: 2024-07-15T05:38:44.954928+00:00
-
- ## hipages Group - Transforming the residential trade sector
- - [https://hipagesgroup.com.au](https://hipagesgroup.com.au)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Hired - Job Search Marketplace. Tech Job Hunting Simplified!
- - [https://hired.com.au](https://hired.com.au)
- - date_published: 2024-05-07T22:57:38.073098+00:00
-
- ## Home
- - [https://www.hirf.com.au](https://www.hirf.com.au)
- - date_published: 2024-09-13T17:16:46+00:00
-
- ## Family travel and holiday specialists - Holidays with Kids
- - [https://holidayswithkids.com.au](https://holidayswithkids.com.au)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## holidayview.com.au | Holiday rentals to lease
- - [https://holidayview.com.au](https://holidayview.com.au)
- - date_published: 2024-07-09T20:53:32.581512+00:00
-
- ## Holmgren Design - Permaculture Innovation and Vision
- - [https://holmgren.com.au](https://holmgren.com.au)
- - date_published: 2020-12-21T17:44:25+00:00
-
- ## Homepage | Home Beautiful
- - [https://www.homebeautiful.com.au](https://www.homebeautiful.com.au)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Kitchen Library | Australian Made Kitchens, Laundries, and more.
- - [https://www.homedesignco.com.au](https://www.homedesignco.com.au)
- - date_published: 2024-09-27T08:28:50.818966+00:00
-
- ## hipages: Australia's Largest Online Tradie Marketplace - hipages.com.au
- - [https://thumbnail-cloud.homeimprovementpages.com.au](https://thumbnail-cloud.homeimprovementpages.com.au)
- - date_published: 2024-07-15T05:39:01.438817+00:00
-
- ## Homepage | Homes To Love
- - [https://www.homestolove.com.au](https://www.homestolove.com.au)
- - date_published: 2024-06-27T12:27:39.687525+00:00
-
- ## Your Local #1 Outdoor Living Specialists | Homestyle Living
- - [https://www.homestyleliving.com.au](https://www.homestyleliving.com.au)
- - date_published: 2024-06-28T15:30:42.894850+00:00
-
- ## Homeward Bound - STEMM Women in Leadership
- - [https://homewardboundprojects.com.au](https://homewardboundprojects.com.au)
- - date_published: 2020-03-05T22:00:06+00:00
-
- ## Home
- - [https://www.hoodsweeney.com.au](https://www.hoodsweeney.com.au)
- - date_published: 2024-09-17T16:46:36.276322+00:00
-
- ## Hoops.com.au | Basketball Forum | NBL Forum, Adelaide 36ers forum, WNBL, ABL, ABA, NBA and more
- - [http://hoops.com.au](http://hoops.com.au)
- - date_published: 2024-09-03T21:43:04.432614+00:00
-
- ## Horizon Gold Limited (ASX:HRN)
- - [https://horizongold.com.au](https://horizongold.com.au)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## Horizon Minerals (ASX: HRZ) - Mid-tier gold producer - Western Australia
- - [https://horizonminerals.com.au](https://horizonminerals.com.au)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Horses for sale, Transport for sale, Property for sale, Stallions at Stud - Horse Deals - Magazine Video Website
- - [https://www.horsedeals.com.au](https://www.horsedeals.com.au)
- - date_published: 2024-07-09T20:52:35.310873+00:00
-
- ## Horticulture's premiere conference and trade show | Hort Connections
- - [https://hortconnections.com.au](https://hortconnections.com.au)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [https://www.horticulture.com.au](https://www.horticulture.com.au)
- - date_published: 2024-06-19T23:10:13.058688+00:00
-
- ## Small Business Web Hosting | Best Web Hosting | HostPapa
- - [https://www.hostpapa.com.au](https://www.hostpapa.com.au)
- - date_published: 2024-08-21T15:58:26+00:00
-
- ## Members | Manage your Superannuation with Hostplus
- - [https://hostplus.com.au](https://hostplus.com.au)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## HotDoc Help
- - [https://help.hotdoc.com.au](https://help.hotdoc.com.au)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Find a Doctor, GP, Dentist or Healthcare Specialist near you - HotDoc
- - [https://hotdoc.com.au](https://hotdoc.com.au)
- - date_published: 2024-05-12T05:23:58.509099+00:00
-
- ## Attention Required! | Cloudflare
- - [https://hotel.com.au](https://hotel.com.au)
- - date_published: 2024-06-15T10:13:19.283132+00:00
-
- ## Hotfrog - Get found online
- - [https://www.hotfrog.com.au](https://www.hotfrog.com.au)
- - date_published: 2024-06-29T16:51:48.726638+00:00
-
- ## HOYTS Cinemas
- - [https://www.hoyts.com.au](https://www.hoyts.com.au)
- - date_published: 2024-10-22T18:35:13.822270+00:00
-
- ## HR Leader
- - [https://www.hrleader.com.au](https://www.hrleader.com.au)
- - date_published: 2024-10-23T06:29:19.743021+00:00
-
- ## HRM online
- - [https://www.hrmonline.com.au](https://www.hrmonline.com.au)
- - date_published: 2024-07-15T12:24:49.972090+00:00
-
- ## HSBC Corporate - Join the bigger picture
- - [https://www.business.hsbc.com.au](https://www.business.hsbc.com.au)
- - date_published: 2024-08-19T09:18:25.677087+00:00
 

@@ -1,3 +1,137 @@
+ ## ing griyanipun Damar
+ - [https://indrdmr.web.app](https://indrdmr.web.app)
+ - date_published: 2024-01-28T02:44:54+00:00
+
+ ## Ipv6 seminar
+ - [https://ipv6-free-webinar.web.app](https://ipv6-free-webinar.web.app)
+ - date_published: 2023-04-26T04:10:09+00:00
+
+ ## Portfolio
+ - [https://manthanank.web.app](https://manthanank.web.app)
+ - date_published: 2023-06-15T12:39:28+00:00
+
+ ## MovieSync
+ - [https://movie-sync-app.web.app](https://movie-sync-app.web.app)
+ - date_published: 2021-01-07T04:22:29+00:00
+
+ ## ReactiveMaterial
+ - [https://myreactivematerial.web.app](https://myreactivematerial.web.app)
+ - date_published: 2024-07-23T23:26:16.384798+00:00
+
+ ## Nunflix - Streaming World!
+ - [https://nunflix-firebase.web.app](https://nunflix-firebase.web.app)
+ - date_published: 2024-11-11T00:06:37+00:00
+
+ ## WunderNode
+ - [https://olympus-treasury-subgraph-prod.web.app](https://olympus-treasury-subgraph-prod.web.app)
+ - date_published: 2024-09-21T23:40:43.608553+00:00
+
+ ## Widget demo
+ - [https://ommi-lg-widget.web.app](https://ommi-lg-widget.web.app)
+ - date_published: 2024-05-04T12:26:13.487845+00:00
+
+ ## Othello
+ - [https://othello-rust.web.app](https://othello-rust.web.app)
+ - date_published: 2024-06-03T11:20:34.860317+00:00
+
+ ## Pigmnts - Create visually appealing color palettes from images
+ - [https://pigmnts.web.app](https://pigmnts.web.app)
+ - date_published: 2024-01-01T06:50:08+00:00
+
+ ## PixelCraft: A Pixel Art Editor
+ - [https://pixelcraft.web.app](https://pixelcraft.web.app)
+ - date_published: 2020-04-22T08:34:48+00:00
+
+ ## Pro Organiser
+ - [https://pro-organisers.web.app](https://pro-organisers.web.app)
+ - date_published: 2022-05-18T14:51:38+00:00
+
+ ## Skaffold
+ - [https://skaffold-v1.web.app](https://skaffold-v1.web.app)
+ - date_published: 2022-10-21T00:00:20+00:00
+
+ ## Skaffold
+ - [https://skaffold-v2.web.app](https://skaffold-v2.web.app)
+ - date_published: 2024-05-14T14:45:35+00:00
+
+ ## Sniper Ducks
+ - [https://sniper-ducks.web.app](https://sniper-ducks.web.app)
+ - date_published: 2019-04-04T19:59:36+00:00
+
+ ## QueryGenie
+ - [https://sqlgenie-co.web.app](https://sqlgenie-co.web.app)
+ - date_published: 2023-06-05T19:25:00+00:00
+
+ ## That's Groce!
+ - [https://thatsgroce.web.app](https://thatsgroce.web.app)
+ - date_published: 2023-01-02T20:05:40+00:00
+
+ ## The project
+ - [https://the-project-e609e.web.app](https://the-project-e609e.web.app)
+ - date_published: 2024-08-19T20:32:08+00:00
+
+ ## Strona główna - tlumacz.migam.org
+ - [https://tlumacz-migam-org.web.app](https://tlumacz-migam-org.web.app)
+ - date_published: 2024-01-31T13:40:32+00:00
+
+ ## Total Formatter
+ - [https://totalformatter.web.app](https://totalformatter.web.app)
+ - date_published: 2020-05-01T14:16:38+00:00
+ - tags: ['formatter', 'pretty print', 'code']
+
+ ## Touco Lab
+ - [https://touco-website.web.app](https://touco-website.web.app)
+ - date_published: 2021-01-26T13:00:05+00:00
+
+ ## Upmind - Commerce and Billing Platform
+ - [https://upm-widgets.web.app](https://upm-widgets.web.app)
+ - date_published: 2024-09-20T06:56:25.930176+00:00
+
+ ## VisBug Sandbox
+ - [https://visbug.web.app](https://visbug.web.app)
+ - date_published: 2024-04-17T20:55:21+00:00
+
+ ## Webbu
+ - [https://webbu.app](https://webbu.app)
+ - date_published: 2023-10-25T11:51:31.950607+00:00
+
+ ## WebDB – App
+ - [https://demo.webdb.app](https://demo.webdb.app)
+ - date_published: 2024-06-09T16:43:54+00:00
+
+ ## WebDB – Open Source and Efficient Database IDE
+ - [https://webdb.app](https://webdb.app)
+ - date_published: 2024-06-08T08:47:27+00:00
+
+ ## Web Maker
+ - [https://webmaker.app](https://webmaker.app)
+ - date_published: 2024-09-04T06:45:49.353500+00:00
+
+ ## Automate your outgoing webmentions
+ - [https://webmention.app](https://webmention.app)
+ - date_published: 2024-07-02T20:20:14.010054+00:00
+
+ ## Weboostor
+ - [https://weboostor.app](https://weboostor.app)
+ - date_published: 2024-07-17T07:32:11.911764+00:00
+
+ ## Wegic Hub
+ - [https://wegichub.wegic.app](https://wegichub.wegic.app)
+ - date_published: 2024-09-13T20:38:28.637829+00:00
+
+ ## Weld Status
+ - [https://status.weld.app](https://status.weld.app)
+ - date_published: 2024-11-08T11:55:47.809612+00:00
+
+ ## Sync your data in minutes | WELD
+ - [https://weld.app](https://weld.app)
+ - date_published: 2024-11-06T11:51:13+00:00
+ - tags: ['data management']
+
+ ## WELD
+ - [https://workspace.weld.app](https://workspace.weld.app)
+ - date_published: 2024-11-08T10:41:02+00:00
+
  ## ..Loading..
  - [https://wemp.app](https://wemp.app)
  - date_published: 2024-07-10T03:11:26.379113+00:00
@@ -25,6 +159,10 @@
  ## Table of Contents | Warhammer Armies Project: Unofficial 9th Edition
  - [https://wap.whfb.app](https://wap.whfb.app)
  - date_published: 2024-08-18T14:41:49.583235+00:00
+
+ ## Whisper Notes - AI-Powered Speech to Text App
+ - [https://whispernotes.app](https://whispernotes.app)
+ - date_published: 2024-12-12T23:54:18.465782+00:00
 
  ## Play-to-Earn Gaming Infrastructure for Web3 | eSports, NFTs & Crypto Rewards
  - [https://win.app](https://win.app)
@@ -976,6 +1114,10 @@
  ## Homepage - Building Nubank
  - [https://blog.nu.com.ar](https://blog.nu.com.ar)
  - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Nuevo Diario Web | Santiago del Estero
+ - [https://www.nuevodiarioweb.com.ar](https://www.nuevodiarioweb.com.ar)
+ - date_published: 2024-12-12T14:43:32.643585+00:00
 
  ## Novomatic/Octavian Argentina
  - [http://www.octavian.com.ar](http://www.octavian.com.ar)
@@ -1960,6 +2102,10 @@
  - [https://www.michaelhorn.art](https://www.michaelhorn.art)
  - date_published: 2024-07-11T13:54:12.550051+00:00
 
+ ## Homepage - Michael Thompson
+ - [https://michaelthompson.art](https://michaelthompson.art)
+ - date_published: 2024-12-12T08:01:44.873938+00:00
+
  ## MINIMAL LOVE
  - [https://minimal-love.art](https://minimal-love.art)
  - date_published: 2023-12-06T22:24:57+00:00
@@ -1995,6 +2141,10 @@
  ## The best AI tools for creatives | NextGen.art
  - [https://www.nextgen.art](https://www.nextgen.art)
  - date_published: 2024-09-13T20:25:30.281454+00:00
+
+ ## Nicholas Hall
+ - [https://www.nicholashall.art](https://www.nicholashall.art)
+ - date_published: 2024-12-12T04:58:56+00:00
 
  ## Nicholas Kole
  - [https://www.nicholaskole.art](https://www.nicholaskole.art)
@@ -2561,6 +2711,10 @@
  - date_published: 2024-05-06T13:44:54.588359+00:00
  - tags: ['podcast']
 
+ ## Home - ATPA
+ - [https://www.atpa.asia](https://www.atpa.asia)
+ - date_published: 2024-12-12T09:27:39.455699+00:00
+
  ## Bank information security news, training, education - BankInfoSecurity
  - [https://www.bankinfosecurity.asia](https://www.bankinfosecurity.asia)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -2839,6 +2993,10 @@ October 2024 in Singapore
  - [https://itrustestbed.simplybook.asia](https://itrustestbed.simplybook.asia)
  - date_published: 2024-07-12T16:25:36.252917+00:00
 
+ ## Home | SMT Technology Pte Ltd | Smart Manufacturing Technology
+ - [https://smttech.asia](https://smttech.asia)
+ - date_published: 2024-08-02T06:36:10+00:00
+
  ## SPAG FINN Partners: Integrated Marketing & Communications PR Agency
  - [https://spag.asia](https://spag.asia)
  - date_published: 2021-04-13T12:25:06+00:00
@@ -2866,6 +3024,10 @@ October 2024 in Singapore
  ## Ubisoft | Welcome to the official Ubisoft website
  - [https://ubisoft.asia](https://ubisoft.asia)
  - date_published: 2024-05-06T21:04:46.081356+00:00
+
+ ## UbuCon Asia 2023 | UbuCon Asia 2023
+ - [https://2023.ubucon.asia](https://2023.ubucon.asia)
+ - date_published: 2024-06-08T16:23:44+00:00
 
  ## Home - UOBLIVE
  - [https://www.uoblive.asia](https://www.uoblive.asia)
@@ -3480,6 +3642,10 @@ October 2024 in Singapore
  - [http://univie.academic-whistleblower.at](http://univie.academic-whistleblower.at)
  - date_published: 2024-10-14T23:58:26.881090+00:00
 
+ ## CDP | Austrian Center for Digital Production
+ - [https://acdp.at](https://acdp.at)
+ - date_published: 2024-12-12T15:53:29.576931+00:00
+
  ## Acht Engineering
  - [https://www.acht.at](https://www.acht.at)
  - date_published: 2024-02-19T00:00:00+00:00
@@ -3519,6 +3685,10 @@ October 2024 in Singapore
  ## Agile Experts - Consult, Train and Coach for The Learning Organization
  - [http://agileexperts.at](http://agileexperts.at)
  - date_published: 2024-04-14T00:00:00+00:00
+
+ ## agix.at steht im Dezember 2024 zum Verkauf
+ - [https://agix.at](https://agix.at)
+ - date_published: 2024-12-12T08:51:30.506332+00:00
 
  ## Agronetto Österreich – ein Online-Marktplatz für Landmaschinen und Ersatzteile
  - [https://agronetto.at](https://agronetto.at)
@@ -3864,172 +4034,4 @@ October 2024 in Singapore
     }
  - [https://www.benedict.at](https://www.benedict.at)
  - date_published: 2024-10-16T09:03:22.406173+00:00
-
- ## Cashback
- - [https://benefitworld.at](https://benefitworld.at)
- - date_published: 2024-09-19T20:33:40.164582+00:00
-
- ## bergfex: Urlaub Österreich: Sommerurlaub Österreich
- - [http://www.bergfex.at](http://www.bergfex.at)
- - date_published: 2024-09-13T16:19:29.339340+00:00
-
- ## Outdoor Shop für Bergsport, Klettern & Trekking | Berg-freunde.at
- - [https://www.berg-freunde.at](https://www.berg-freunde.at)
- - date_published: 2024-07-14T12:11:18.862614+00:00
-
- ## Attention Required! | Cloudflare
- - [https://besteonlinecasinosoesterreich.at](https://besteonlinecasinosoesterreich.at)
- - date_published: 2024-10-13T07:56:49.294312+00:00
-
- ## Tomsondev Blog
- - [https://tomsondev.bestsolution.at](https://tomsondev.bestsolution.at)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Betreuung, Haushaltshilfe, Tiersitter & mehr - Betreut.at
- - [https://www.betreut.at](https://www.betreut.at)
- - date_published: 2024-09-14T10:08:18.192731+00:00
-
- ## Öffentliche Schulen, Universitäten & Spezialimmobilien
- - [https://www.big.at](https://www.big.at)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## BBA 2023 - quintessenz - Big Brother Awards 2023 - The Imitation Game – die vorgetäuschte Intelligenz
- - [http://bigbrotherawards.at](http://bigbrotherawards.at)
- - date_published: 2024-07-20T20:45:26.112280+00:00
-
- ## Enterprise-E-Commerce, einfach erklärt. | BigCommerce
- - [https://www.bigcommerce.at](https://www.bigcommerce.at)
- - date_published: 2024-07-08T12:40:49.114287+00:00
-
- ## Bilderbuch Shop
- - [https://bilderbuch-musik.at](https://bilderbuch-musik.at)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Bioreg
- - [http://www.bioreg.at](http://www.bioreg.at)
- - date_published: 2024-06-28T12:06:31.692953+00:00
-
- ## ICSx⁵
- - [https://icsx5.bitfire.at](https://icsx5.bitfire.at)
- - date_published: 2024-06-23T18:42:31+00:00
-
- ## bitfire web engineering
- - [https://www.bitfire.at](https://www.bitfire.at)
- - date_published: 2024-07-14T15:40:30.410573+00:00
-
- ## Zero Waste Onlineshop - plastikfreie Produkte für deinen Alltag
- - [https://blattwende.at](https://blattwende.at)
- - date_published: 2024-06-18T14:30:22.003113+00:00
-
- ## Blogheim.at | Die Heimat der Österreichischen Blogszene
- - [https://blogheim.at](https://blogheim.at)
- - date_published: 2024-05-12T06:40:45.460990+00:00
-
- ## Blühendes Österreich - Mit der Initiative Blühendes Österreich werden die Erhaltung und die Entwicklung bedrohter Lebensräume gefördert und geschützt.
- - [http://www.bluehendesoesterreich.at](http://www.bluehendesoesterreich.at)
- - date_published: 2024-09-13T16:21:04.804214+00:00
-
- ## AUSTRIAN NATIONAL COMMITTEE OF THE BLUE SHIELD
- - [https://www.blueshield.at](https://www.blueshield.at)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home
- - [https://www.bodendirect.at](https://www.bodendirect.at)
- - date_published: 2024-10-21T01:55:49.035264+00:00
-
- ## eBOD2
- - [https://bodenkarte.at](https://bodenkarte.at)
- - date_published: 2023-12-06T20:56:47+00:00
-
- ## Kartenansicht mit österreichweiten Grundstückspreisen auf einen Blick - bodenpreise.at
- - [https://www.bodenpreise.at](https://www.bodenpreise.at)
- - date_published: 2024-09-13T16:21:35.000950+00:00
-
- ## Books in the Fridge
- - [https://booksinthefridge.at](https://booksinthefridge.at)
- - date_published: 2024-05-11T07:10:21.648548+00:00
-
- ## Home
- - [http://www.bosch.at](http://www.bosch.at)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Hausgeräte, Werkzeuge & Smart Home | Bosch AT
- - [https://www.bosch-home.at](https://www.bosch-home.at)
- - date_published: 2024-06-16T21:35:40.384152+00:00
-
- ## Brother Online
- - [https://atyourside.brother.at](https://atyourside.brother.at)
- - date_published: 2024-06-17T21:03:52.172392+00:00
-
- ## Brother Online Store
- - [https://store.brother.at](https://store.brother.at)
- - date_published: 2024-06-18T06:02:57.675637+00:00
-
- ## Hersteller von Drucker, Laserdrucker & Scanner | Brother
- - [https://www.brother.at](https://www.brother.at)
- - date_published: 2024-05-02T11:36:03.685174+00:00
-
- ## brunnmeister.atwebsite in der Warteschleife
- - [https://brunnmeister.at](https://brunnmeister.at)
- - date_published: 2024-07-18T06:13:34.489383+00:00
-
- ## IKT-Sicherheitskonferenz
- - [https://seminar.bundesheer.at](https://seminar.bundesheer.at)
- - date_published: 2024-07-13T09:03:44.822283+00:00
-
- ## Business-austria.at presented by Marktplatz-Mittelstand.de
- - [http://www.business-austria.at](http://www.business-austria.at)
- - date_published: 2022-03-07T13:50:57+00:00
-
- ## frontpage - BVZ.at
- - [http://www.bvz.at](http://www.bvz.at)
- - date_published: 2024-07-20T15:05:32+00:00
-
- ## Home of the Hitmen
- - [http://hitmen.c02.at](http://hitmen.c02.at)
- - date_published: 2023-09-12T06:27:47+00:00
-
- ## Chaos Computer Club Wien (C3W)
- - [https://c3w.at](https://c3w.at)
- - date_published: 2024-06-03T13:19:48+00:00
-
- ## CryptPad: end-to-end encrypted collaboration suite
- - [https://pads.c3w.at](https://pads.c3w.at)
- - date_published: 2023-12-22T22:13:19+00:00
-
- ## Home
- - [https://camera-austria.at](https://camera-austria.at)
- - date_published: 2024-09-20T09:08:06+00:00
-
- ## Unternehmensberatung für Change- und Prozessmanagement
- - [https://www.camillo-patzl.at](https://www.camillo-patzl.at)
- - date_published: 2024-08-18T11:33:53.498279+00:00
-
- ## Großartige Serien und Filme einfach online streamen  | CANAL+
- - [https://www.canalplus.at](https://www.canalplus.at)
- - date_published: 2024-06-25T21:53:17.146486+00:00
-
- ## Capitalist Exploits – Global Investment Research
- - [https://capitalistexploits.at](https://capitalistexploits.at)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Mit Capterra die richtige Software für dein Unternehmen finden
- - [https://www.capterra.at](https://www.capterra.at)
- - date_published: 2024-07-20T19:26:22.512731+00:00
-
- ## Cashback
- - [https://cashbackonline.at](https://cashbackonline.at)
- - date_published: 2024-06-25T18:36:14+00:00
-
- ## Homepage
- - [https://casinoble.at](https://casinoble.at)
- - date_published: 2024-09-19T20:31:56.809764+00:00
-
- ## CCC Salzburg
- - [https://cccsbg.at](https://cccsbg.at)
- - date_published: 2024-07-24T16:25:46.354980+00:00
-
- ## ceeba.at
- - [http://www.ceeba.at](http://www.ceeba.at)
- - date_published: 2024-07-12T05:17:02.803237+00:00
 

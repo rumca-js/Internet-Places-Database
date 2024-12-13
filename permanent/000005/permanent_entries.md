@@ -1,3 +1,104 @@
+ ## Shifted
+ - [https://getshifted.app](https://getshifted.app)
+ - date_published: 2024-04-29T03:46:35.988745+00:00
+
+ ## Home
+ - [https://developer.getsileo.app](https://developer.getsileo.app)
+ - date_published: 2021-05-25T18:52:11+00:00
+
+ ## Sileo
+ - [https://getsileo.app](https://getsileo.app)
+ - date_published: 2023-06-20T21:47:40+00:00
+
+ ## Until
+ - [https://getuntil.app](https://getuntil.app)
+ - date_published: 2024-06-23T07:02:31.617594+00:00
+
+ ## UTM
+ - [https://getutm.app](https://getutm.app)
+ - date_published: 2023-05-01T17:37:17+00:00
+ - tags: ['risc-v', 'arm64', 'x86_64', 'emulator', 'virtualization']
+
+ ## Guide - Whisky Documentation
+ - [https://docs.getwhisky.app](https://docs.getwhisky.app)
+ - date_published: 2024-05-11T05:33:09.675489+00:00
+
+ ## Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit
+ - [https://getwhisky.app](https://getwhisky.app)
+ - date_published: 2023-11-26T14:33:19+00:00
+
+ ## Xray - Native Test Management for Jira
+ - [https://www.getxray.app](https://www.getxray.app)
+ - date_published: 2024-08-04T13:00:47+00:00
+
+ ## Gimli
+ - [https://gimli.app](https://gimli.app)
+ - date_published: 2024-08-01T17:06:38+00:00
+
+ ## giscus
+ - [https://giscus.app](https://giscus.app)
+ - date_published: 2024-04-30T02:10:38.158091+00:00
+
+ ## Glambase - AI Influencer Creation Platform | Virtual Persona Generator
+ - [https://api.glambase.app](https://api.glambase.app)
+ - date_published: 2024-09-14T07:47:47.410457+00:00
+
+ ## Glambase - AI Influencer Creation Platform | Virtual Persona Generator
+ - [https://glambase.app](https://glambase.app)
+ - date_published: 2024-06-14T08:57:30.677799+00:00
+
+ ## Glarity - Free ChatGPT YouTube Summary/Translate Webpage Extension - Your AI Copilot
+ - [https://glarity.app](https://glarity.app)
+ - date_published: 2024-10-30T06:55:50.463833+00:00
+
+ ## glif - all prompts, no code AI sandbox • build AI workflows, apps, chatbots & more
+ - [https://glif.app](https://glif.app)
+ - date_published: 2024-07-14T22:02:33.558998+00:00
+
+ ## (glisp)
+ - [https://glisp.app](https://glisp.app)
+ - date_published: 2024-07-21T21:39:22.483955+00:00
+
+ ## Show HN: Glossarie – a new, immersive way to learn a language
+ - [https://glossarie.app](https://glossarie.app)
+ - date_published: 2024-03-24T15:43:16+00:00
+
+ ## Góða Ferð
+ - [https://godaferd.app](https://godaferd.app)
+ - date_published: 2024-05-04T12:15:24.823503+00:00
+
+ ## GoodLinks
+ - [https://goodlinks.app](https://goodlinks.app)
+ - date_published: 2024-09-15T23:08:00.755498+00:00
+
+ ## GPT Engineer Docs
+ - [https://docs.gptengineer.app](https://docs.gptengineer.app)
+ - date_published: 2024-07-13T14:13:36.067240+00:00
+
+ ## GPT Engineer - Build interactive web apps using AI
+ - [https://gptengineer.app](https://gptengineer.app)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## GPT Engineer
+ - [https://run.gptengineer.app](https://run.gptengineer.app)
+ - date_published: 2024-07-13T14:13:37.593010+00:00
+
+ ## GPTFlow
+ - [https://gptflow.app](https://gptflow.app)
+ - date_published: 2024-06-19T19:33:18.399057+00:00
+
+ ## GPT for Slides - Create Presentation With AI in seconds
+ - [https://www.gptforslides.app](https://www.gptforslides.app)
+ - date_published: 2024-06-19T20:08:03.588515+00:00
+
+ ## GPTService
+ - [https://gptservice.app](https://gptservice.app)
+ - date_published: 2023-07-05T22:19:27+00:00
+
+ ## Gradio
+ - [https://gradio.app](https://gradio.app)
+ - date_published: 2024-06-20T10:51:49.565528+00:00
+
  ## Grainery - The Film Photography App
  - [https://grainery.app](https://grainery.app)
  - date_published: 2024-06-18T20:00:51+00:00
@@ -2862,6 +2963,10 @@
  - [https://netron.app](https://netron.app)
  - date_published: 2024-06-15T00:00:00+00:00
 
+ ## Sign in - Matomo
+ - [https://unami.newmail.app](https://unami.newmail.app)
+ - date_published: 2024-12-12T20:54:20.307603+00:00
+
  ## NFTE - Embed NFT's in your site
  - [https://nfte.app](https://nfte.app)
  - date_published: 2024-09-06T21:53:08.205217+00:00
@@ -3203,7 +3308,7 @@
  - date_published: 2023-12-20T23:10:10.715922+00:00
 
  ## Paperclips - AI Generated Flashcards
- - [https://www.paperclips.app](https://www.paperclips.app)
+ - [https://paperclips.app](https://paperclips.app)
  - date_published: 2023-12-28T06:10:46+00:00
 
  ## Home | Parsec Blog
@@ -3724,6 +3829,10 @@
  - [https://qaze.app](https://qaze.app)
  - date_published: 2023-10-25T11:48:31.881727+00:00
 
+ ## Queryable: Smart Photo Search Alternative to Apple Intelligence
+ - [https://queryable.app](https://queryable.app)
+ - date_published: 2024-11-02T23:12:00+00:00
+
  ## Questbook
  - [https://questbook.app](https://questbook.app)
  - date_published: 2024-06-16T03:35:09.808881+00:00
@@ -3929,112 +4038,4 @@
  ## Mobile test automation tool | Repeato
  - [https://repeato.app](https://repeato.app)
  - date_published: 2024-05-30T00:00:00+00:00
-
- ## DIPLOMATIC
- - [https://diplomatic-docs.replit.app](https://diplomatic-docs.replit.app)
- - date_published: 2024-07-14T10:32:34.710493+00:00
-
- ## ⚡️ Meta Launches Mobile Llama 3.2: 4x Faster, 56% Smaller
- - [https://flask-bootstrap-mbs11.replit.app](https://flask-bootstrap-mbs11.replit.app)
- - date_published: 2024-10-30T20:42:30.043183+00:00
-
- ## Repl Bio
- - [https://ornella.replit.app](https://ornella.replit.app)
- - date_published: 2024-04-28T04:38:06.201263+00:00
-
- ## Replit Partnerships
- - [https://partnerships-form-util.replit.app](https://partnerships-form-util.replit.app)
- - date_published: 2024-04-28T04:38:19.545080+00:00
-
- ## Fatal Force Database entry 8171: Jason Neal Puckett
- - [https://police-shooting-sampler.replit.app](https://police-shooting-sampler.replit.app)
- - date_published: 2024-06-30T09:51:01.947193+00:00
-
- ## Replo - Shopify pages without the dev time
- - [https://www.replo.app](https://www.replo.app)
- - date_published: 2024-07-04T02:08:18.450127+00:00
-
- ## Reporty - Get Shopify Order Notifications & Reports in Slack
- - [https://reporty.app](https://reporty.app)
- - date_published: 2024-06-23T02:59:25.371789+00:00
-
- ## Reproof | The collaborate writing app for creativity.
- - [https://blog.reproof.app](https://blog.reproof.app)
- - date_published: 2024-08-19T11:37:50.813279+00:00
-
- ## Reproof | The collaborate writing app for creativity.
- - [https://reproof.app](https://reproof.app)
- - date_published: 2023-10-25T11:48:46.496389+00:00
-
- ## ResearchBuddy - Automatic Literature Reviews - Login
- - [https://researchbuddy.app](https://researchbuddy.app)
- - date_published: 2024-06-19T21:20:51.217006+00:00
-
- ## Responsively App - A Web Developer's Browser
- - [https://responsively.app](https://responsively.app)
- - date_published: 2024-07-14T08:19:34.985278+00:00
-
- ## Retainit
- - [https://retainit.app](https://retainit.app)
- - date_published: 2024-08-19T09:15:24.656831+00:00
-
- ## Retro
- - [http://retro.app](http://retro.app)
- - date_published: 2024-09-27T05:03:45+00:00
-
- ## Reviewbunny - Pull request reminders for teams
- - [https://reviewbunny.app](https://reviewbunny.app)
- - date_published: 2024-05-06T21:28:54.955912+00:00
-
- ## Revoicer - Emotion-based Text To Speech
- - [https://revoicer.app](https://revoicer.app)
- - date_published: 2024-06-29T22:55:26.713147+00:00
-
- ## Rhithm
- - [https://portal.rhithm.app](https://portal.rhithm.app)
- - date_published: 2024-07-11T08:29:34+00:00
-
- ## Ríoverse Language Learning
- - [https://www.rioverse.app](https://www.rioverse.app)
- - date_published: 2024-08-19T04:48:15.200939+00:00
-
- ## Riter
- - [https://riter.app](https://riter.app)
- - date_published: 2024-06-19T21:35:00.176901+00:00
-
- ## Rive - Editor
- - [https://editor.rive.app](https://editor.rive.app)
- - date_published: 2024-05-11T08:50:36.223132+00:00
-
- ## Introduction | Rive Guide
- - [https://help.rive.app](https://help.rive.app)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Rive - Build interactive motion graphics that run anywhere
- - [https://rive.app](https://rive.app)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## DreamTavern: AI Character Chat
- - [https://www.rizzgpt.app](https://www.rizzgpt.app)
- - date_published: 2024-06-19T21:25:50.289759+00:00
-
- ## Read Manga Online
- - [https://rmanga.app](https://rmanga.app)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## RMRK.app
- - [https://www.rmrk.app](https://www.rmrk.app)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## Show HN: Robata, macOS window selector: put it on the grill
- - [https://robata.app](https://robata.app)
- - date_published: 2024-08-19T20:52:56+00:00
-
- ## Exploratory Programming With AI
- - [https://roboweb.app](https://roboweb.app)
- - date_published: 2023-04-20T02:05:17+00:00
-
- ## National Geographic Slovenija – Stopite z nami v svet revije NATIONAL GEOGRAPHIC – revije za vse, ki se želite učiti, širiti svoja obzorja, odkrivati čudežni svet rastlin in živali, spoznavati daljne in neznane kraje, ljudi in običaje, pa tudi Slovenijo.
- - [https://ngm.rokus.app](https://ngm.rokus.app)
- - date_published: 2024-02-10T00:00:00+00:00
 
