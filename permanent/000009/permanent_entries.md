@@ -1,3 +1,55 @@
+ ## Blogger
+ - [http://grumbel.blogspot.co.at](http://grumbel.blogspot.co.at)
+ - date_published: 2024-07-11T11:36:39.505736+00:00
+
+ ## InsertScript
+ - [https://insert-script.blogspot.co.at](https://insert-script.blogspot.co.at)
+ - date_published: 2024-10-15T21:13:33+00:00
+
+ ## Per caso, un bredese a Vienna
+ - [https://stesosopra.blogspot.co.at](https://stesosopra.blogspot.co.at)
+ - date_published: 2024-05-06T15:15:49.717625+00:00
+
+ ## Wide Urban World
+ - [https://wideurbanworld.blogspot.co.at](https://wideurbanworld.blogspot.co.at)
+ - date_published: 2024-09-05T02:03:17+00:00
+
+ ## The Royal Road
+ - [https://xerxesmillion.blogspot.co.at](https://xerxesmillion.blogspot.co.at)
+ - date_published: 2024-08-30T10:08:11+00:00
+
+ ## Softwareagentur Mountain Media | Moving Mountains
+ - [https://mountain.co.at](https://mountain.co.at)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Adressregister
+ - [https://www.adressregister.gv.at](https://www.adressregister.gv.at)
+ - date_published: 2023-05-10T11:54:10+00:00
+
+ ## Bundesamt für Eich- und Vermessungswesen
+ - [https://bev.gv.at](https://bev.gv.at)
+ - date_published: 2024-09-13T16:21:37.491701+00:00
+
+ ## GeoDaten Burgenland Servicestelle
+ - [https://geodaten.bgld.gv.at](https://geodaten.bgld.gv.at)
+ - date_published: 2024-09-13T16:20:08.435701+00:00
+
+ ## Bundesministerium für Arbeit und Wirtschaft
+ - [https://bmafj.gv.at](https://bmafj.gv.at)
+ - date_published: 2024-10-22T11:29:09.699373+00:00
+
+ ## Bundesministerium für Bildung, Wissenschaft und Forschung
+ - [https://bmbwf.gv.at](https://bmbwf.gv.at)
+ - date_published: 2024-07-02T22:20:14.596957+00:00
+
+ ## Startseite
+ - [https://www.bmeia.gv.at](https://www.bmeia.gv.at)
+ - date_published: 2024-06-30T05:49:01.142198+00:00
+
+ ## Das Bundesministerium für Finanzen
+ - [https://bmf.gv.at](https://bmf.gv.at)
+ - date_published: 2024-05-11T07:10:18.851381+00:00
+
  ## Chatbot Fred
  - [https://chat.bmf.gv.at](https://chat.bmf.gv.at)
  - date_published: 2024-07-13T11:26:53.902396+00:00
@@ -1756,6 +1808,10 @@
  - [http://freeamazingpics.blogspot.com.au](http://freeamazingpics.blogspot.com.au)
  - date_published: 2024-03-13T15:24:00+00:00
 
+ ## Rab's Geekly Digest
+ - [http://geeklydigest.blogspot.com.au](http://geeklydigest.blogspot.com.au)
+ - date_published: 2024-12-11T23:09:52+00:00
+
  ## The Keyword
  - [http://googleblog.blogspot.com.au](http://googleblog.blogspot.com.au)
  - date_published: 2024-07-13T11:06:43.034921+00:00
@@ -1847,6 +1903,10 @@
  ## IQ Compendium
  - [http://vodafrauds.blogspot.com.au](http://vodafrauds.blogspot.com.au)
  - date_published: 2024-03-05T11:08:36+00:00
+
+ ## Witchfinder In General
+ - [http://witchfinder-in-general.blogspot.com.au](http://witchfinder-in-general.blogspot.com.au)
+ - date_published: 2024-09-07T21:53:12+00:00
 
  ## Wolf Howling
  - [http://wolfhowling.blogspot.com.au](http://wolfhowling.blogspot.com.au)
@@ -3957,64 +4017,4 @@
  ## Home - Hamelin Gold
  - [https://hamelingold.com.au](https://hamelingold.com.au)
  - date_published: 2024-05-24T00:00:00+00:00
-
- ## Handmade by Carolyn - Thoughts on sewing, knitting, and looking my best
- - [https://handmadebycarolyn.com.au](https://handmadebycarolyn.com.au)
- - date_published: 2024-07-10T03:42:24.075848+00:00
-
- ## Welcome to Hannover Fairs Australia
- - [https://www.hannoverfairs.com.au](https://www.hannoverfairs.com.au)
- - date_published: 2024-09-24T22:55:58.631088+00:00
-
- ## Hardie Grant | Publishing | Media | HGX
- - [http://www.hardiegrant.com.au](http://www.hardiegrant.com.au)
- - date_published: 2024-09-17T17:38:51.373608+00:00
-
- ## Unique Gift Ideas | Personalised Gifts | Hardtofind
- - [https://www.hardtofind.com.au](https://www.hardtofind.com.au)
- - date_published: 2024-06-27T12:26:27.370356+00:00
-
- ## Home Page - HarperCollins Australia
- - [https://www.harpercollins.com.au](https://www.harpercollins.com.au)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Harper HQ
- - [http://www.harperhq.com.au](http://www.harperhq.com.au)
- - date_published: 2024-05-30T06:24:30+00:00
-
- ## Emu Logic- Pure Australian Emu Oil
- - [https://harteyjerky.com.au](https://harteyjerky.com.au)
- - date_published: 2024-06-15T18:26:04.750640+00:00
-
- ## Pick Your Own Strawberries | Harvest the Fleurieu | South Australia
- - [https://www.harvestthefleurieu.com.au](https://www.harvestthefleurieu.com.au)
- - date_published: 2024-07-02T17:13:30.882590+00:00
-
- ## Industry Leading Blockchain & Web3 Security Audits | Hashlock
- - [http://www.hashlock.com.au](http://www.hashlock.com.au)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Perth Software Development Agency - Hatchet®
- - [https://hatchet.com.au](https://hatchet.com.au)
- - date_published: 2024-09-09T19:59:18.806161+00:00
-
- ## Homepage
- - [https://haus.com.au](https://haus.com.au)
- - date_published: 2024-10-19T10:05:53.781441+00:00
-
- ## Havit Lighting
- - [https://havit.com.au](https://havit.com.au)
- - date_published: 2024-06-14T23:55:21.172873+00:00
-
- ## Havit Clearance
- - [https://havitclearance.com.au](https://havitclearance.com.au)
- - date_published: 2024-09-15T19:30:28.568456+00:00
-
- ## Havit Commercial | Havit Lighting Commercial Range
- - [https://havitcommercial.com.au](https://havitcommercial.com.au)
- - date_published: 2024-09-15T19:31:13.887447+00:00
-
- ## Hawaiian Airlines - Flights to Hawaii, Plane Tickets & Airfare
- - [https://www.hawaiianairlines.com.au](https://www.hawaiianairlines.com.au)
- - date_published: 2024-10-07T19:42:46.304850+00:00
 

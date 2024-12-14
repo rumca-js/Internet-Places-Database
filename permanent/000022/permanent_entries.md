@@ -1,3 +1,195 @@
+ ## Placeholder
+ - [https://what.cd](https://what.cd)
+ - date_published: 2023-10-25T12:12:14.189974+00:00
+
+ ## The Walter Bradley Center for Natural & Artifical Intelligence | Discovery Institute
+ - [https://bradley.center](https://bradley.center)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Cascadia Center
+ - [https://cascadia.center](https://cascadia.center)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Chromatone | Chromatone.center
+ - [https://chromatone.center](https://chromatone.center)
+ - date_published: 2024-07-13T17:04:22+00:00
+
+ ## Chromatone Spectrogram
+ - [https://spectrogram.chromatone.center](https://spectrogram.chromatone.center)
+ - date_published: 2024-11-12T14:22:24+00:00
+
+ ## Umami
+ - [https://stats.chromatone.center](https://stats.chromatone.center)
+ - date_published: 2024-07-13T23:39:47.139525+00:00
+
+ ## CLARK | Cybersecurity Library
+ - [https://clark.center](https://clark.center)
+ - date_published: 2023-10-25T12:12:15.527679+00:00
+
+ ## Community Center | Home of the Divi Church Theme Chrysalis
+ - [https://community.center](https://community.center)
+ - date_published: 2020-10-27T21:04:36+00:00
+
+ ## Delos Center
+ - [https://delos.center](https://delos.center)
+ - date_published: 2024-07-04T13:17:23.880871+00:00
+
+ ## Home
+ - [https://digitallife.center](https://digitallife.center)
+ - date_published: 2024-04-29T02:50:17.353996+00:00
+
+ ## Дело о посольском кокаине #2
+ - [https://cocaina.dossier.center](https://cocaina.dossier.center)
+ - date_published: 2022-04-21T00:00:00+00:00
+
+ ## Досье - Досье
+ - [https://dossier.center](https://dossier.center)
+ - date_published: 2023-10-25T12:12:24.046539+00:00
+
+ ## Лубянская Федерация – ФСБ
+ - [https://fsb.dossier.center](https://fsb.dossier.center)
+ - date_published: 2024-04-30T05:56:48.480434+00:00
+
+ ## Список Центра "Досье"
+ - [https://peps.dossier.center](https://peps.dossier.center)
+ - date_published: 2024-04-30T05:56:57.850683+00:00
+
+ ## The Enterprise for Society Center (E4S)
+ - [https://e4s.center](https://e4s.center)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## EssentialTech Centre
+ - [https://essentialtech.center](https://essentialtech.center)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## EUjob.center the platform for international professionals.
+ - [https://eujob.center](https://eujob.center)
+ - date_published: 2024-06-12T02:04:57.850780+00:00
+
+ ## Angebotsplattform und Marktplatz-Portal zur Miete (SaaS)
+ - [https://evolver.center](https://evolver.center)
+ - date_published: 2024-10-18T23:04:15.905522+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.evolver.center](https://stats.evolver.center)
+ - date_published: 2024-10-18T23:03:53.282318+00:00
+
+ ## 스마일게이트 퓨처랩
+ - [https://futurelab.center](https://futurelab.center)
+ - date_published: 2024-10-25T10:46:53.000628+00:00
+
+ ## GMK Center – центр экспертизы о промышленности и ГМК
+ - [https://gmk.center](https://gmk.center)
+ - date_published: 2023-12-19T20:46:40.065605+00:00
+
+ ## Customer Support Knowledge Base powered by AI
+ - [https://help.center](https://help.center)
+ - date_published: 2024-10-30T06:43:09.738491+00:00
+
+ ## Human Exceptionalism | Defending human dignity, liberty, and equality
+ - [https://humanexceptionalism.center](https://humanexceptionalism.center)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## The James G. Martin Center for Academic Renewal —
+ - [https://jamesgmartin.center](https://jamesgmartin.center)
+ - date_published: 2023-10-25T12:12:29.460489+00:00
+
+ ## Jeffrey Sachs Center on Sustainable Development
+ - [https://jeffreysachs.center](https://jeffreysachs.center)
+ - date_published: 2024-09-23T11:08:20+00:00
+
+ ## Центр обучения Joomla
+ - [https://www.joomla.center](https://www.joomla.center)
+ - date_published: 2015-01-22T07:12:35+00:00
+
+ ## Lviv Art Center
+ - [https://lvivart.center](https://lvivart.center)
+ - date_published: 2024-05-07T18:39:47.843995+00:00
+
+ ## VR @ LvivArtCenter # Ukraine war posters. Lviv Art Center exhibition in Reykjavík SIM gallery
+ - [https://vr.lvivart.center](https://vr.lvivart.center)
+ - date_published: 2024-07-01T07:53:23.779045+00:00
+
+ ## microcenter.com
+ - [https://micro.center](https://micro.center)
+ - date_published: 2024-02-24T20:43:32.587938+00:00
+
+ ## Nouns Center
+ - [https://nouns.center](https://nouns.center)
+ - date_published: 2024-09-21T23:47:34.717548+00:00
+
+ ## Planning Center: Church Management Software
+ - [https://planning.center](https://planning.center)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Бизнес Журнал Федеральный
+ - [https://region.center](https://region.center)
+ - date_published: 2024-10-22T12:40:52.167398+00:00
+
+ ## The World's Fastest Growing Subdomain & Shadow IT Database
+ - [https://subdomain.center](https://subdomain.center)
+ - date_published: 2024-04-30T05:57:27.481497+00:00
+
+ ## មជ្ឈមណ្ឌលបណ្តុះធុរកិច្ចថ្មី “តេជោ”
+ - [https://techostartup.center](https://techostartup.center)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Tilda Center
+ - [https://tilda.center](https://tilda.center)
+ - date_published: 2024-02-01T13:20:12+00:00
+
+ ## Underline Center
+ - [https://underline.center](https://underline.center)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Center on Wealth & Poverty | Connecting the practical truths of economics with the perennial truths of ethics
+ - [https://wealthandpoverty.center](https://wealthandpoverty.center)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Entrepreneur's Edge | Ryan Waliany | Substack
+ - [https://edge.ceo](https://edge.ceo)
+ - date_published: 2023-10-25T12:12:41.496123+00:00
+
+ ## .CEO Domain Names | The .CEO Registry
+ - [https://nic.ceo](https://nic.ceo)
+ - date_published: 2024-06-17T07:44:54.344783+00:00
+
+ ## Join CERN Alumni – The High-Energy Network
+ - [https://alumni.cern](https://alumni.cern)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Creativity across Cultures
+ - [https://arts.cern](https://arts.cern)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## ATLAS Experiment at CERN | ATLAS Experiment at CERN
+ - [https://atlas.cern](https://atlas.cern)
+ - date_published: 2023-10-25T12:12:48.064999+00:00
+
+ ## Home | Careers at CERN
+ - [https://careers.cern](https://careers.cern)
+ - date_published: 2024-04-30T05:57:48.584075+00:00
+
+ ## CERN70 – Inspiring the Future
+ - [https://cern70.cern](https://cern70.cern)
+ - date_published: 2024-04-30T05:57:56.616964+00:00
+
+ ## CERN & Society Foundation
+ - [https://cernandsocietyfoundation.cern](https://cernandsocietyfoundation.cern)
+ - date_published: 2024-04-30T05:57:46.086737+00:00
+
+ ## Donate now
+ - [https://donate.cernandsocietyfoundation.cern](https://donate.cernandsocietyfoundation.cern)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## CHIS: CERN Health Insurance Scheme
+ - [https://chis.cern](https://chis.cern)
+ - date_published: 2024-07-21T06:34:24.682640+00:00
+
+ ## The cms detector | CMS Experiment
+ - [https://cms.cern](https://cms.cern)
+ - date_published: 2024-07-21T00:00:00+00:00
+
  ## Inspire and educate
  - [https://education.cern](https://education.cern)
  - date_published: 2024-07-21T06:38:40+00:00
@@ -3819,196 +4011,4 @@
  ## Homepage
  - [https://nadel.ethz.ch](https://nadel.ethz.ch)
  - date_published: 2024-07-19T00:00:00+00:00
-
- ## Persönliche Website
- - [https://n.ethz.ch](https://n.ethz.ch)
- - date_published: 2024-06-06T18:16:38.575180+00:00
-
- ## Homepage
- - [https://next-gen-bioengineers.ethz.ch](https://next-gen-bioengineers.ethz.ch)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## NEXUS Personalized Health Technologies
- - [https://nexus.ethz.ch](https://nexus.ethz.ch)
- - date_published: 2024-06-06T18:26:54.739975+00:00
-
- ## Homepage
- - [https://pauli-lectures.ethz.ch](https://pauli-lectures.ethz.ch)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Web/Homepage - D-ITET Computing
- - [https://people.ee.ethz.ch](https://people.ee.ethz.ch)
- - date_published: 2024-07-24T05:49:13.462924+00:00
-
- ## Index of Personal Homepages | Department of Mathematics | ETH Zurich
- - [https://people.math.ethz.ch](https://people.math.ethz.ch)
- - date_published: 2024-05-11T07:46:59.794956+00:00
-
- ## D-PHYS phonebook
- - [https://phonebook.phys.ethz.ch](https://phonebook.phys.ethz.ch)
- - date_published: 2024-08-08T23:05:41.869011+00:00
-
- ## Welcome - DPHYS
- - [https://phys.ethz.ch](https://phys.ethz.ch)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Homepage
- - [https://plf.inf.ethz.ch](https://plf.inf.ethz.ch)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Homepage
- - [https://pls.inf.ethz.ch](https://pls.inf.ethz.ch)
- - date_published: 2024-07-07T04:15:11.394565+00:00
-
- ## ETH Print Service - Home
- - [https://printing.sp.ethz.ch](https://printing.sp.ethz.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Research Collection
- - [https://research-collection.ethz.ch](https://research-collection.ethz.ch)
- - date_published: 2024-04-30T06:00:43.457246+00:00
-
- ## Respekt leben
- - [https://respekt.ethz.ch](https://respekt.ethz.ch)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Homepage
- - [https://rsl.ethz.ch](https://rsl.ethz.ch)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Scientific Staff Association at the Department of Materials
- - [https://sam.mat.ethz.ch](https://sam.mat.ethz.ch)
- - date_published: 2024-08-11T20:21:48.904523+00:00
-
- ## Architektur und Kunst Professur Karin Sander
- - [https://sander.arch.ethz.ch](https://sander.arch.ethz.ch)
- - date_published: 2024-07-09T19:01:25.622180+00:00
-
- ## Startseite
- - [https://sce.ethz.ch](https://sce.ethz.ch)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Sign In
- - [https://share.sp.ethz.ch](https://share.sp.ethz.ch)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Home
- - [https://sph.ethz.ch](https://sph.ethz.ch)
- - date_published: 2024-10-30T11:33:05.057535+00:00
-
- ## Homepage - SSPG
- - [https://sspg.ethz.ch](https://sspg.ethz.ch)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Startseite
- - [https://stalder.arch.ethz.ch](https://stalder.arch.ethz.ch)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Homepage - SfS
- - [http://stat.ethz.ch](http://stat.ethz.ch)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## ISG D-ITET Service Status
- - [https://status.isg.ee.ethz.ch](https://status.isg.ee.ethz.ch)
- - date_published: 2024-09-02T06:28:54+00:00
-
- ## Startseite
- - [https://su-management.ethz.ch](https://su-management.ethz.ch)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Homepage
- - [https://systems.ethz.ch](https://systems.ethz.ch)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## D-INFK Library Textbook Collection
- - [https://textbooks.inf.ethz.ch](https://textbooks.inf.ethz.ch)
- - date_published: 2024-07-21T06:05:59.512098+00:00
-
- ## Architecture of Territory
- - [https://topalovic.arch.ethz.ch](https://topalovic.arch.ethz.ch)
- - date_published: 2024-07-16T22:08:24.962149+00:00
-
- ## Welcome to Confluence of ETH Zurich - Confluence - Confluence
- - [https://unlimited.ethz.ch](https://unlimited.ethz.ch)
- - date_published: 2024-07-21T06:18:25.972240+00:00
-
- ## Departement Umweltsystemwissenschaften (D-USYS): Startseite
- - [https://usys.ethz.ch](https://usys.ethz.ch)
- - date_published: 2024-10-29T13:49:26.410768+00:00
-
- ## UTD19 - Largest multi-city traffic dataset publically available
- - [https://utd19.ethz.ch](https://utd19.ethz.ch)
- - date_published: 2022-12-01T11:30:49+00:00
-
- ## Video portal | ETH Zürich Videoportal
- - [https://video.ethz.ch](https://video.ethz.ch)
- - date_published: 2024-08-08T20:11:50.442915+00:00
-
- ## Vorlesungsverzeichnis - ETH Zürich
- - [https://vorlesungsverzeichnis.ethz.ch](https://vorlesungsverzeichnis.ethz.ch)
- - date_published: 2024-04-30T06:03:13.216288+00:00
-
- ## VSETH – Verband der Studierenden an der ETH
- - [https://vseth.ethz.ch](https://vseth.ethz.ch)
- - date_published: 2024-08-07T23:57:34.693112+00:00
-
- ## Log In - Confluence
- - [https://wiki.systems.ethz.ch](https://wiki.systems.ethz.ch)
- - date_published: 2024-06-22T11:54:22.223044+00:00
-
- ## The Society for Women in Natural Sciences at ETH – Shaping an inclusive and diverse community at ETH Zurich
- - [https://wins.ethz.ch](https://wins.ethz.ch)
- - date_published: 2024-08-11T20:21:51.532332+00:00
-
- ## ETH Zürich - Nicht verfügbar
- - [https://www.bi.id.ethz.ch](https://www.bi.id.ethz.ch)
- - date_published: 2022-11-22T11:12:54+00:00
-
- ## Toolbox
- - [http://www.cd.ethz.ch](http://www.cd.ethz.ch)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Informationszentrum Chemie Biologie Pharmazie
- - [https://www.infozentrum.ethz.ch](https://www.infozentrum.ethz.ch)
- - date_published: 2024-08-08T23:41:14.582725+00:00
-
- ##  Welcome – IT Service Group of the Department of Computer Science | ETH Zurich
- - [https://www.isg.inf.ethz.ch](https://www.isg.inf.ethz.ch)
- - date_published: 2024-09-05T13:37:58.783170+00:00
-
- ## IT Services for D-MAVT
- - [https://www.it.mavt.ethz.ch](https://www.it.mavt.ethz.ch)
- - date_published: 2024-08-06T17:46:28.811846+00:00
-
- ## Startseite
- - [https://www.ivt.ethz.ch](https://www.ivt.ethz.ch)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## ETH Zürich - Nicht verfügbar
- - [http://www.lb-support.id.ethz.ch](http://www.lb-support.id.ethz.ch)
- - date_published: 2021-02-04T09:31:45+00:00
-
- ## Rauminfo
- - [https://www.lehrbetrieb.ethz.ch](https://www.lehrbetrieb.ethz.ch)
- - date_published: 2018-02-19T09:32:55+00:00
-
- ## Startseite
- - [https://www.library.inf.ethz.ch](https://www.library.inf.ethz.ch)
- - date_published: 2024-04-30T06:03:21.557897+00:00
-
- ## Materials Alumni
- - [http://www.matalumni.ethz.ch](http://www.matalumni.ethz.ch)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## ETH Zürich - Personensuche
- - [http://www.personen.ethz.ch](http://www.personen.ethz.ch)
- - date_published: 2024-08-17T23:36:27.570546+00:00
-
- ## Local index - HTTrack Website Copier
- - [http://www.php.isn.ethz.ch](http://www.php.isn.ethz.ch)
- - date_published: 2016-10-28T09:08:31+00:00
-
- ## Abschaltung alte Rauminfo-Applikation
- - [http://www.rauminfo.ethz.ch](http://www.rauminfo.ethz.ch)
- - date_published: 2024-06-17T08:54:52+00:00
 

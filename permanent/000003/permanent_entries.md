@@ -1,3 +1,19 @@
+ ## PromptBox : Save, Share & Paste Repetative Text
+ - [https://promptbox.ai](https://promptbox.ai)
+ - date_published: 2024-10-30T21:03:32.383126+00:00
+
+ ## Prompt Engineering Guide – Nextra
+ - [https://promptingguide.ai](https://promptingguide.ai)
+ - date_published: 2024-04-29T07:57:30.108750+00:00
+
+ ## Professionelles Prompting
+ - [https://promptwhispering.ai](https://promptwhispering.ai)
+ - date_published: 2024-06-17T01:47:09.248648+00:00
+
+ ## Promtify - Your Gateway to AI-Powered Content Generation
+ - [https://www.promtify.ai](https://www.promtify.ai)
+ - date_published: 2024-05-01T00:00:00+00:00
+
  ## Pronto.ai – Autonomous Haulage Systems
  - [https://pronto.ai](https://pronto.ai)
  - date_published: 2023-01-18T00:00:00+00:00
@@ -3196,6 +3212,10 @@
  - [https://www.turingtalks.ai](https://www.turingtalks.ai)
  - date_published: 2024-02-26T00:00:00+00:00
 
+ ## Autonomous Trucks | Self-Driving Truck | Driverless Vehicles
+ - [https://tusimple.ai](https://tusimple.ai)
+ - date_published: 2024-12-13T14:06:10.796905+00:00
+
  ## Tutorly.ai | Need help with homework?
  - [https://tutorly.ai](https://tutorly.ai)
  - date_published: 2024-06-19T20:37:09.473191+00:00
@@ -4002,24 +4022,4 @@ Creative Solutions
  ## W&B Docs | Weights & Biases Documentation
  - [https://docs.wandb.ai](https://docs.wandb.ai)
  - date_published: 2024-06-15T19:46:47.257998+00:00
-
- ## Weights & Biases – Developer tools for ML
- - [https://kr.wandb.ai](https://kr.wandb.ai)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Security
- - [https://security.wandb.ai](https://security.wandb.ai)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Home
- - [https://site.wandb.ai](https://site.wandb.ai)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Weights & Biases
- - [https://wandb.ai](https://wandb.ai)
- - date_published: 2023-10-25T11:45:00.812453+00:00
-
- ## Blog – Warmer
- - [https://blog.warmer.ai](https://blog.warmer.ai)
- - date_published: 2024-03-14T01:41:47+00:00
 

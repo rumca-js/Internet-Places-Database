@@ -1,3 +1,188 @@
+ ## The Coder Cafe | Teiva Harsanyi | Substack
+ - [https://thecoder.cafe](https://thecoder.cafe)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## The Folkore Cafe
+ - [https://thefolklore.cafe](https://thefolklore.cafe)
+ - date_published: 2024-09-04T04:08:12.864702+00:00
+
+ ## The Food Place
+ - [https://thefoodplace.cafe](https://thefoodplace.cafe)
+ - date_published: 2024-09-14T23:26:08.281150+00:00
+
+ ## Théo Bori
+ - [https://theobori.cafe](https://theobori.cafe)
+ - date_published: 2024-08-08T15:33:07.836501+00:00
+
+ ## im tosti
+ - [https://blog.toast.cafe](https://blog.toast.cafe)
+ - date_published: 2024-10-29T06:08:11.784771+00:00
+
+ ## Pencil
+ - [https://pencil.toast.cafe](https://pencil.toast.cafe)
+ - date_published: 2023-10-25T12:09:51.787994+00:00
+
+ ## Toot Café
+ - [https://toot.cafe](https://toot.cafe)
+ - date_published: 2023-10-25T12:09:53.298119+00:00
+
+ ## troet.cafe  - Mastodon
+ - [https://troet.cafe](https://troet.cafe)
+ - date_published: 2024-04-29T06:14:07.312882+00:00
+
+ ## Accueil - Unbon.cafe
+ - [https://unbon.cafe](https://unbon.cafe)
+ - date_published: 2022-12-31T17:47:13+00:00
+
+ ## Une tasse de café
+ - [https://une-tasse-de.cafe](https://une-tasse-de.cafe)
+ - date_published: 2024-08-28T01:18:18+00:00
+
+ ## VocaLounge
+ - [https://vocalounge.cafe](https://vocalounge.cafe)
+ - date_published: 2024-07-10T08:45:08.700397+00:00
+
+ ## Deep Live Cam: Real-time face swapping and one-click video deepfake tool
+ - [https://deeplive.cam](https://deeplive.cam)
+ - date_published: 2024-08-10T13:05:48+00:00
+
+ ## Halide Mark II: Pro. Camera. Action.
+ - [https://halide.cam](https://halide.cam)
+ - date_published: 2023-11-04T02:08:25+00:00
+
+ ## Observing Time
+ - [https://observingtime.cam](https://observingtime.cam)
+ - date_published: 2024-08-11T21:09:56.664586+00:00
+
+ ## Polycam Learn
+ - [https://learn.poly.cam](https://learn.poly.cam)
+ - date_published: 2024-04-30T05:35:06.503204+00:00
+
+ ## Polycam - LiDAR & 3D Scanner for iPhone & Android
+ - [https://poly.cam](https://poly.cam)
+ - date_published: 2023-10-25T08:38:30.080927+00:00
+
+ ## Spectre
+ - [https://spectre.cam](https://spectre.cam)
+ - date_published: 2024-04-30T05:35:11.723117+00:00
+
+ ## Firewatch Camera - About
+ - [https://firewatch.camera](https://firewatch.camera)
+ - date_published: 2024-08-18T19:43:10.846653+00:00
+
+ ## 💛 Locket Widget
+ - [https://locket.camera](https://locket.camera)
+ - date_published: 2024-08-01T19:02:38+00:00
+
+ ## Lux
+ - [https://lux.camera](https://lux.camera)
+ - date_published: 2023-10-25T12:09:56.046567+00:00
+
+ ## meow.camera
+ - [https://meow.camera](https://meow.camera)
+ - date_published: 2024-06-20T02:56:52.252276+00:00
+
+ ## Telecast
+ - [https://telecast.camera](https://telecast.camera)
+ - date_published: 2024-07-14T08:30:21.733236+00:00
+
+ ## VWFNDR
+ - [https://vwfndr.camera](https://vwfndr.camera)
+ - date_published: 2024-04-29T07:14:37.211339+00:00
+
+ ## 1337 Bootcamp / Gaming House
+ - [https://1337.camp](https://1337.camp)
+ - date_published: 2024-07-13T13:23:12.891452+00:00
+
+ ## AI Safety Camp
+ - [https://aisafety.camp](https://aisafety.camp)
+ - date_published: 2024-05-04T12:17:46.253900+00:00
+
+ ## APCSCamp 2023 程式設計培訓營
+ - [https://apcs.camp](https://apcs.camp)
+ - date_published: 2023-08-01T16:42:28+00:00
+
+ ## Clarity Camp | Write smart contracts for Bitcoin
+ - [https://clarity.camp](https://clarity.camp)
+ - date_published: 2024-09-09T13:50:16.313388+00:00
+
+ ## Corbin.Camp
+ - [https://corbin.camp](https://corbin.camp)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## deco.cx - Build high-performance Web Apps 10x faster | deco.cx
+ - [https://deco.camp](https://deco.camp)
+ - date_published: 2024-07-19T19:38:25.715418+00:00
+
+ ## International Hacking & Cyber Security Community - DefCamp 2024
+ - [https://def.camp](https://def.camp)
+ - date_published: 2024-06-21T11:58:10.659942+00:00
+
+ ## Dice.camp
+ - [https://dice.camp](https://dice.camp)
+ - date_published: 2024-05-12T05:41:48.220110+00:00
+
+ ## Friend Camp
+ - [https://friend.camp](https://friend.camp)
+ - date_published: 2024-05-06T19:58:34.209137+00:00
+
+ ## 𝔊𝔬𝔟𝔩𝔦𝔫 ℭ𝔞𝔪𝔭
+ - [https://goblin.camp](https://goblin.camp)
+ - date_published: 2024-09-18T23:09:50.641680+00:00
+
+ ## IPFS Camp 2022
+ - [https://2022.ipfs.camp](https://2022.ipfs.camp)
+ - date_published: 2024-09-23T13:13:07.736340+00:00
+
+ ## IPFS Camp 2024
+ - [https://2024.ipfs.camp](https://2024.ipfs.camp)
+ - date_published: 2024-09-23T13:05:36.640958+00:00
+
+ ## Micro Camp: a virtual gathering of the Micro.blog community
+ - [https://micro.camp](https://micro.camp)
+ - date_published: 2024-05-04T07:00:21.898447+00:00
+
+ ## Home - MOCA2024
+ - [https://moca.camp](https://moca.camp)
+ - date_published: 2024-06-20T16:14:02+00:00
+
+ ## OpenCat Forum | Petoi LLC | United States
+ - [https://petoi.camp](https://petoi.camp)
+ - date_published: 2024-05-11T09:24:50.843560+00:00
+
+ ## CAMP: Centrum Architektury a Městského Plánování
+ - [https://praha.camp](https://praha.camp)
+ - date_published: 2024-12-13T22:21:21.825630+00:00
+
+ ## White Christian Family - The white Christian family is the foundation of Western civilization
+ - [https://saints.camp](https://saints.camp)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Server.camp - Open-Source hosting made in Germany
+ - [https://server.camp](https://server.camp)
+ - date_published: 2024-09-02T14:49:19.240490+00:00
+
+ ## Sleepawake Camp
+ - [https://sleepawake.camp](https://sleepawake.camp)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Network Society Camp
+ - [https://tns.camp](https://tns.camp)
+ - date_published: 2024-09-24T20:47:27.713736+00:00
+
+ ## VVoid Camp
+ - [https://vvoid.camp](https://vvoid.camp)
+ - date_published: 2024-06-22T19:00:03+00:00
+
+ ## Canon Creative Park
+ - [https://creativepark.canon](https://creativepark.canon)
+ - date_published: 2024-04-30T05:35:17.800340+00:00
+
+ ## Canon Global
+ - [https://global.canon](https://global.canon)
+ - date_published: 2023-10-25T12:10:02.392667+00:00
+ - tags: ['company']
+
  ## Canon Medical Systems Corporation
  - [https://global.medical.canon](https://global.medical.canon)
  - date_published: 2024-06-23T14:18:32.800843+00:00
@@ -1106,6 +1291,10 @@
  ## 97jcp
  - [https://notes.orga.cat](https://notes.orga.cat)
  - date_published: 2024-06-19T22:09:30.300730+00:00
+
+ ## Home
+ - [http://www.palestina.cat](http://www.palestina.cat)
+ - date_published: 2024-12-13T08:06:08.233878+00:00
 
  ## Publicacions de l'Abadia de Montserrat
  - [https://www.pamsa.cat](https://www.pamsa.cat)
@@ -3233,6 +3422,10 @@
  - [https://shopsystem.refr.cc](https://shopsystem.refr.cc)
  - date_published: 2024-06-21T05:26:14+00:00
 
+ ## Boost your Sales with ReferralCandy – #1 eCommerce Referral Program Software
+ - [http://ubiome.refr.cc](http://ubiome.refr.cc)
+ - date_published: 2024-12-11T11:53:57+00:00
+
  ## ReimaginedCollective | The MENA region's first EdTech Venture Studio
  - [https://www.reimagined.cc](https://www.reimagined.cc)
  - date_published: 2024-09-24T00:00:00+00:00
@@ -3840,196 +4033,4 @@
  ## Vodacom RDC
  - [https://www.vodacom.cd](https://www.vodacom.cd)
  - date_published: 2023-12-19T20:14:17+00:00
-
- ## Placeholder
- - [https://what.cd](https://what.cd)
- - date_published: 2023-10-25T12:12:14.189974+00:00
-
- ## The Walter Bradley Center for Natural & Artifical Intelligence | Discovery Institute
- - [https://bradley.center](https://bradley.center)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Cascadia Center
- - [https://cascadia.center](https://cascadia.center)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Chromatone | Chromatone.center
- - [https://chromatone.center](https://chromatone.center)
- - date_published: 2024-07-13T17:04:22+00:00
-
- ## Chromatone Spectrogram
- - [https://spectrogram.chromatone.center](https://spectrogram.chromatone.center)
- - date_published: 2024-11-12T14:22:24+00:00
-
- ## Umami
- - [https://stats.chromatone.center](https://stats.chromatone.center)
- - date_published: 2024-07-13T23:39:47.139525+00:00
-
- ## CLARK | Cybersecurity Library
- - [https://clark.center](https://clark.center)
- - date_published: 2023-10-25T12:12:15.527679+00:00
-
- ## Community Center | Home of the Divi Church Theme Chrysalis
- - [https://community.center](https://community.center)
- - date_published: 2020-10-27T21:04:36+00:00
-
- ## Delos Center
- - [https://delos.center](https://delos.center)
- - date_published: 2024-07-04T13:17:23.880871+00:00
-
- ## Home
- - [https://digitallife.center](https://digitallife.center)
- - date_published: 2024-04-29T02:50:17.353996+00:00
-
- ## Дело о посольском кокаине #2
- - [https://cocaina.dossier.center](https://cocaina.dossier.center)
- - date_published: 2022-04-21T00:00:00+00:00
-
- ## Досье - Досье
- - [https://dossier.center](https://dossier.center)
- - date_published: 2023-10-25T12:12:24.046539+00:00
-
- ## Лубянская Федерация – ФСБ
- - [https://fsb.dossier.center](https://fsb.dossier.center)
- - date_published: 2024-04-30T05:56:48.480434+00:00
-
- ## Список Центра "Досье"
- - [https://peps.dossier.center](https://peps.dossier.center)
- - date_published: 2024-04-30T05:56:57.850683+00:00
-
- ## The Enterprise for Society Center (E4S)
- - [https://e4s.center](https://e4s.center)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## EssentialTech Centre
- - [https://essentialtech.center](https://essentialtech.center)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## EUjob.center the platform for international professionals.
- - [https://eujob.center](https://eujob.center)
- - date_published: 2024-06-12T02:04:57.850780+00:00
-
- ## Angebotsplattform und Marktplatz-Portal zur Miete (SaaS)
- - [https://evolver.center](https://evolver.center)
- - date_published: 2024-10-18T23:04:15.905522+00:00
-
- ## Sign in - Matomo
- - [https://stats.evolver.center](https://stats.evolver.center)
- - date_published: 2024-10-18T23:03:53.282318+00:00
-
- ## 스마일게이트 퓨처랩
- - [https://futurelab.center](https://futurelab.center)
- - date_published: 2024-10-25T10:46:53.000628+00:00
-
- ## GMK Center – центр экспертизы о промышленности и ГМК
- - [https://gmk.center](https://gmk.center)
- - date_published: 2023-12-19T20:46:40.065605+00:00
-
- ## Customer Support Knowledge Base powered by AI
- - [https://help.center](https://help.center)
- - date_published: 2024-10-30T06:43:09.738491+00:00
-
- ## Human Exceptionalism | Defending human dignity, liberty, and equality
- - [https://humanexceptionalism.center](https://humanexceptionalism.center)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## The James G. Martin Center for Academic Renewal —
- - [https://jamesgmartin.center](https://jamesgmartin.center)
- - date_published: 2023-10-25T12:12:29.460489+00:00
-
- ## Jeffrey Sachs Center on Sustainable Development
- - [https://jeffreysachs.center](https://jeffreysachs.center)
- - date_published: 2024-09-23T11:08:20+00:00
-
- ## Центр обучения Joomla
- - [https://www.joomla.center](https://www.joomla.center)
- - date_published: 2015-01-22T07:12:35+00:00
-
- ## Lviv Art Center
- - [https://lvivart.center](https://lvivart.center)
- - date_published: 2024-05-07T18:39:47.843995+00:00
-
- ## VR @ LvivArtCenter # Ukraine war posters. Lviv Art Center exhibition in Reykjavík SIM gallery
- - [https://vr.lvivart.center](https://vr.lvivart.center)
- - date_published: 2024-07-01T07:53:23.779045+00:00
-
- ## microcenter.com
- - [https://micro.center](https://micro.center)
- - date_published: 2024-02-24T20:43:32.587938+00:00
-
- ## Nouns Center
- - [https://nouns.center](https://nouns.center)
- - date_published: 2024-09-21T23:47:34.717548+00:00
-
- ## Planning Center: Church Management Software
- - [https://planning.center](https://planning.center)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Бизнес Журнал Федеральный
- - [https://region.center](https://region.center)
- - date_published: 2024-10-22T12:40:52.167398+00:00
-
- ## The World's Fastest Growing Subdomain & Shadow IT Database
- - [https://subdomain.center](https://subdomain.center)
- - date_published: 2024-04-30T05:57:27.481497+00:00
-
- ## មជ្ឈមណ្ឌលបណ្តុះធុរកិច្ចថ្មី “តេជោ”
- - [https://techostartup.center](https://techostartup.center)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Tilda Center
- - [https://tilda.center](https://tilda.center)
- - date_published: 2024-02-01T13:20:12+00:00
-
- ## Underline Center
- - [https://underline.center](https://underline.center)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Center on Wealth & Poverty | Connecting the practical truths of economics with the perennial truths of ethics
- - [https://wealthandpoverty.center](https://wealthandpoverty.center)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Entrepreneur's Edge | Ryan Waliany | Substack
- - [https://edge.ceo](https://edge.ceo)
- - date_published: 2023-10-25T12:12:41.496123+00:00
-
- ## .CEO Domain Names | The .CEO Registry
- - [https://nic.ceo](https://nic.ceo)
- - date_published: 2024-06-17T07:44:54.344783+00:00
-
- ## Join CERN Alumni – The High-Energy Network
- - [https://alumni.cern](https://alumni.cern)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Creativity across Cultures
- - [https://arts.cern](https://arts.cern)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## ATLAS Experiment at CERN | ATLAS Experiment at CERN
- - [https://atlas.cern](https://atlas.cern)
- - date_published: 2023-10-25T12:12:48.064999+00:00
-
- ## Home | Careers at CERN
- - [https://careers.cern](https://careers.cern)
- - date_published: 2024-04-30T05:57:48.584075+00:00
-
- ## CERN70 – Inspiring the Future
- - [https://cern70.cern](https://cern70.cern)
- - date_published: 2024-04-30T05:57:56.616964+00:00
-
- ## CERN & Society Foundation
- - [https://cernandsocietyfoundation.cern](https://cernandsocietyfoundation.cern)
- - date_published: 2024-04-30T05:57:46.086737+00:00
-
- ## Donate now
- - [https://donate.cernandsocietyfoundation.cern](https://donate.cernandsocietyfoundation.cern)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## CHIS: CERN Health Insurance Scheme
- - [https://chis.cern](https://chis.cern)
- - date_published: 2024-07-21T06:34:24.682640+00:00
-
- ## The cms detector | CMS Experiment
- - [https://cms.cern](https://cms.cern)
- - date_published: 2024-07-21T00:00:00+00:00
 

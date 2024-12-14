@@ -1,3 +1,129 @@
+ ## Ctrl blog search
+ - [https://search.ctrl.blog](https://search.ctrl.blog)
+ - date_published: 2024-07-20T03:09:35.011509+00:00
+
+ ## Cyclostationary Signal Processing – Understanding and Using the Statistics of Communication Signals
+ - [https://cyclostationary.blog](https://cyclostationary.blog)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## Dagan.Blog – Education Futurist
+ - [https://dagan.blog](https://dagan.blog)
+ - date_published: 2024-01-09T02:26:37.338771+00:00
+ - tags: ['personal']
+
+ ## Da Techguy's (no longer backup) Blog
+ - [https://datechguyblog.blog](https://datechguyblog.blog)
+ - date_published: 2024-07-04T01:29:42+00:00
+
+ ## David Mytton
+ - [https://davidmytton.blog](https://davidmytton.blog)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Dean LJ
+ - [https://deanlj.blog](https://deanlj.blog)
+ - date_published: 2024-08-11T20:28:41.075310+00:00
+
+ ## Deep Cuts in a Lovecraftian Vein
+ - [https://deepcuts.blog](https://deepcuts.blog)
+ - date_published: 2024-02-24T17:00:03.685307+00:00
+ - tags: ['fan page', 'cthulu', 'lovecraft']
+
+ ## https://default.blog
+ - [https://default.blog](https://default.blog)
+ - date_published: 2024-07-20T21:32:39.214365+00:00
+
+ ## Blog
+ - [https://developer-friendly.blog](https://developer-friendly.blog)
+ - date_published: 2024-03-04T18:53:54.534773+00:00
+
+ ## Courses
+ - [https://courses.developer-service.blog](https://courses.developer-service.blog)
+ - date_published: 2024-10-19T16:53:54.687886+00:00
+
+ ## Differ
+ - [https://differ.blog](https://differ.blog)
+ - date_published: 2024-06-21T13:40:44.629901+00:00
+
+ ## Digging Developer
+ - [https://diggingdeveloper.blog](https://diggingdeveloper.blog)
+ - date_published: 2024-06-23T15:45:43.066097+00:00
+
+ ## Digital Discipline
+ - [https://digitaldiscipline.blog](https://digitaldiscipline.blog)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Blog für Digitale Menschenrechte
+ - [https://digitalhumanrights.blog](https://digitalhumanrights.blog)
+ - date_published: 2024-07-03T21:36:00.219422+00:00
+
+ ## Disconnect
+ - [https://disconnect.blog](https://disconnect.blog)
+ - date_published: 2024-04-27T04:15:01.645596+00:00
+ - tags: ['substack']
+
+ ## Distributed.blog
+ - [https://distributed.blog](https://distributed.blog)
+ - date_published: 2024-05-02T10:30:05.999651+00:00
+
+ ## DKB Blog | Dmitri Brereton | Substack
+ - [https://dkb.blog](https://dkb.blog)
+ - date_published: 2023-10-25T09:39:13.079588+00:00
+ - tags: ['substack']
+
+ ## plaintext
+ - [https://dmuhs.blog](https://dmuhs.blog)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## [%titleForMeta%]
+ - [http://doc.blog](http://doc.blog)
+ - date_published: 2024-08-06T09:29:36.833543+00:00
+
+ ## Dom's blog
+ - [https://doms.blog](https://doms.blog)
+ - date_published: 2024-04-03T12:47:04.943694+00:00
+ - tags: ['personal']
+
+ ## Technik Blog
+ - [https://draeger-it.blog](https://draeger-it.blog)
+ - date_published: 2024-07-16T17:47:59.203467+00:00
+
+ ## Dragon Age Confessions
+ - [https://dragonageconfessions.blog](https://dragonageconfessions.blog)
+ - date_published: 2024-12-13T08:44:52.417730+00:00
+
+ ## Home
+ - [https://drewbutler.blog](https://drewbutler.blog)
+ - date_published: 2023-12-21T08:23:59.105908+00:00
+ - tags: ['personal']
+
+ ## Dyson's Dodecahedron
+ - [https://dysonlogos.blog](https://dysonlogos.blog)
+ - date_published: 2024-07-15T05:24:15+00:00
+
+ ## Life at Eclipse | Musings on the Eclipse Foundation, the community and the ecosystem
+ - [https://eclipse-foundation.blog](https://eclipse-foundation.blog)
+ - date_published: 2023-10-25T12:00:02.336246+00:00
+
+ ## Ednevsky Blog | Alexander Nevedovsky | Substack
+ - [https://www.ednevsky.blog](https://www.ednevsky.blog)
+ - date_published: 2024-02-25T20:00:20.885022+00:00
+
+ ## Eiger, Mönch & Jungfrau
+ - [https://eigermonchjungfrau.blog](https://eigermonchjungfrau.blog)
+ - date_published: 2024-06-15T07:29:13+00:00
+
+ ## ElgarBlog from Edward Elgar Publishing
+ - [https://elgar.blog](https://elgar.blog)
+ - date_published: 2024-06-17T11:00:11.401786+00:00
+
+ ## El-Gar Tour of the World
+ - [http://elgartravels.blog](http://elgartravels.blog)
+ - date_published: 2024-07-10T03:35:48.406810+00:00
+
+ ## Eliot Andres - eliot.blog
+ - [https://eliot.blog](https://eliot.blog)
+ - date_published: 2023-10-25T12:00:04.356787+00:00
+
  ## Emily Short's Interactive Storytelling
  - [https://emshort.blog](https://emshort.blog)
  - date_published: 2024-05-11T00:00:00+00:00
@@ -1398,6 +1524,10 @@
  - [https://www.screwedupdice.blog](https://www.screwedupdice.blog)
  - date_published: 2024-03-19T18:15:33+00:00
 
+ ## i've felt worse
+ - [https://seraphim.blog](https://seraphim.blog)
+ - date_published: 2024-12-13T11:41:15.303905+00:00
+
  ## Seth's Blog
  - [https://seths.blog](https://seths.blog)
  - date_published: 2023-10-25T09:01:55.034633+00:00
@@ -2224,6 +2354,10 @@
  ## Quantum AI - Elevating Trade Precision
  - [https://quantumai.bot](https://quantumai.bot)
  - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Resistbot
+ - [https://resist.bot](https://resist.bot)
+ - date_published: 2024-12-13T11:17:47.695390+00:00
 
  ## Sora Protocol ⤄ Bridge
  - [https://bridge.soraai.bot](https://bridge.soraai.bot)
@@ -3658,6 +3792,10 @@ Educação
  - [https://blocosonline.com.br](https://blocosonline.com.br)
  - date_published: 2024-05-10T06:16:12.131479+00:00
 
+ ## Strangely Alive
+ - [http://ajwellman.blogspot.com.br](http://ajwellman.blogspot.com.br)
+ - date_published: 2024-11-06T02:56:58+00:00
+
  ## Battlefront Brasil
  - [http://battlefrontbrasil.blogspot.com.br](http://battlefrontbrasil.blogspot.com.br)
  - date_published: 2024-09-08T02:21:33+00:00
@@ -3929,136 +4067,4 @@ Educação
  ## Saúde e Cuidado Bucal | Colgate®
  - [https://www.colgate.com.br](https://www.colgate.com.br)
  - date_published: 2021-05-17T00:00:00+00:00
-
- ## Collabora | Consultoria Open Source
- - [https://collabora.com.br](https://collabora.com.br)
- - date_published: 2022-09-28T21:26:08+00:00
-
- ## COMARCH - Gestão de fidelização, Intercâmbio eletrônico de dados, Telecomunicações
- - [https://comarch.com.br](https://comarch.com.br)
- - date_published: 2024-05-12T04:00:55.746668+00:00
-
- ## Grupo Companhia das Letras
- - [https://www.companhiadasletras.com.br](https://www.companhiadasletras.com.br)
- - date_published: 2024-06-28T14:51:13.975249+00:00
-
- ## Compaq
- - [https://compaq.com.br](https://compaq.com.br)
- - date_published: 2023-12-21T13:09:59+00:00
-
- ## Compartilha em Família
- - [http://www.compartilhaemfamilia.com.br](http://www.compartilhaemfamilia.com.br)
- - date_published: 2024-09-13T10:29:23.307577+00:00
-
- ## Compendium Tolkien
- - [https://compendiumtolkien.com.br](https://compendiumtolkien.com.br)
- - date_published: 2024-07-07T01:42:12+00:00
-
- ## Concreserv - Loja Virtual
- - [https://www.concreserv.com.br](https://www.concreserv.com.br)
- - date_published: 2024-02-29T16:46:28+00:00
-
- ## CONECTIVA | Análises dos Melhores Produtos Online (#10 Melhores)
- - [http://www.conectiva.com.br](http://www.conectiva.com.br)
- - date_published: 2024-06-30T06:59:10.795502+00:00
-
- ## Início | Confraria Web 3.0
- - [https://www.confrariaweb3.com.br](https://www.confrariaweb3.com.br)
- - date_published: 2024-09-25T12:06:13.745407+00:00
-
- ## Consultor Net | Implantação de Loja Virtuais
- - [https://www.consultornet.com.br](https://www.consultornet.com.br)
- - date_published: 2024-09-10T13:09:43.700873+00:00
-
- ## Contato Seguro - Contato Seguro - Canal de Denúncias
- - [https://contatoseguro.com.br](https://contatoseguro.com.br)
- - date_published: 2024-08-08T19:50:00.782951+00:00
-
- ## Continental Pneus do Brasil - Pneus de tecnologia alemã
- - [https://www.conti.com.br](https://www.conti.com.br)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Home | Contract Treinamentos
- - [https://contracttreinamentos.com.br](https://contracttreinamentos.com.br)
- - date_published: 2022-12-22T00:00:00+00:00
-
- ## Index of /
- - [https://loja.contracttreinamentos.com.br](https://loja.contracttreinamentos.com.br)
- - date_published: 2021-06-24T00:00:00+00:00
-
- ## Coquetel | A casa dos seus jogos e passatempos preferidos
- - [https://www.coquetel.com.br](https://www.coquetel.com.br)
- - date_published: 2024-07-13T02:18:28+00:00
-
- ## Correio Braziliense: notícias, análises e vídeos do DF, do Brasil e do mundo
- - [http://www.correiobraziliense.com.br](http://www.correiobraziliense.com.br)
- - date_published: 2024-09-16T20:10:06+00:00
-
- ## Correios
- - [http://www.correios.com.br](http://www.correios.com.br)
- - date_published: 2024-07-13T18:19:11.459095+00:00
-
- ## CQS
- - [https://cqsfv.com.br](https://cqsfv.com.br)
- - date_published: 2024-06-26T21:56:43.931577+00:00
-
- ## Crash Jogo de aposta – Sites de apostas crash em um cassino online
- - [https://crash-jogos.com.br](https://crash-jogos.com.br)
- - date_published: 2024-10-31T00:02:19.777466+00:00
-
- ## Jogos grátis online aqui na CrazyGames | Jogue Agora!
- - [https://crazygames.com.br](https://crazygames.com.br)
- - date_published: 2024-05-08T06:51:36.310066+00:00
-
- ## Cultura Acadêmica – E-books gratuitos
- - [https://culturaacademica.com.br](https://culturaacademica.com.br)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Seja uma au pair na Estados Unidos | Cultural Care
- - [https://www.culturalcare.com.br](https://www.culturalcare.com.br)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Home | My Site
- - [https://culturama.com.br](https://culturama.com.br)
- - date_published: 2024-05-10T06:57:00.183581+00:00
-
- ## Cursos Online com Certificados - Cursos 24 Horas
- - [http://www.cursos24horas.com.br](http://www.cursos24horas.com.br)
- - date_published: 2024-07-15T06:19:03.980134+00:00
-
- ## Instituto Municipal de Turismo de Curitiba
- - [https://curtacuritiba.com.br](https://curtacuritiba.com.br)
- - date_published: 2024-06-12T11:18:50.421305+00:00
-
- ## Grupo Juizforano de CW
- - [https://cwjf.com.br](https://cwjf.com.br)
- - date_published: 2024-05-07T09:56:16.240398+00:00
-
- ## Bug bounty and hacking writeups from past activities
- - [https://danielv.com.br](https://danielv.com.br)
- - date_published: 2022-07-20T00:00:00+00:00
-
- ## DatacenterDynamics - DCD
- - [https://www.datacenterdynamics.com.br](https://www.datacenterdynamics.com.br)
- - date_published: 2024-09-07T23:55:41.228768+00:00
-
- ## Decathlon Sustainability
- - [https://sustentabilidade.decathlon.com.br](https://sustentabilidade.decathlon.com.br)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Loja de artigos esportivos online - Ready to Play
- - [https://www.decathlon.com.br](https://www.decathlon.com.br)
- - date_published: 2024-06-15T20:06:49.802560+00:00
-
- ## Loja de artigos esportivos: DECATHLON - Esporte para todos, tudo para esporte
- - [https://www.decathlonpro.com.br](https://www.decathlonpro.com.br)
- - date_published: 2024-09-19T02:01:23.505209+00:00
-
- ## John Deere BR | Equipamentos industriais | Máquinas e implementos agrícolas
- - [https://www.deere.com.br](https://www.deere.com.br)
- - date_published: 2024-09-19T19:37:24.193012+00:00
-
- ## Home
- - [https://deif.com.br](https://deif.com.br)
- - date_published: 2024-05-01T04:33:23.594676+00:00
 

@@ -254,6 +254,10 @@
  - [https://epicenter.academy](https://epicenter.academy)
  - date_published: 2024-05-02T13:40:25.608544+00:00
 
+ ## Veďte. Mluvte. Vyjednávejte. Fascinujte. ⭐ Fascinating Academy
+ - [https://www.fascinating.academy](https://www.fascinating.academy)
+ - date_published: 2024-12-13T23:29:40.061222+00:00
+
  ## Fastweb Digital Academy
  - [https://www.fastwebdigital.academy](https://www.fastwebdigital.academy)
  - date_published: 2024-07-08T11:50:03+00:00
@@ -1470,6 +1474,10 @@
  ## Official Airport Parking | Park.Aero
  - [https://park.aero](https://park.aero)
  - date_published: 2024-09-22T00:00:00+00:00
+
+ ## Letiště Václava Havla Praha, Ruzyně
+ - [https://www.prg.aero](https://www.prg.aero)
+ - date_published: 2024-12-14T00:50:03+00:00
 
  ## Sacramento County Department of Airports
  - [http://www.sacramento.aero](http://www.sacramento.aero)
@@ -3104,10 +3112,6 @@
  - [https://docs.astria.ai](https://docs.astria.ai)
  - date_published: 2024-10-27T11:03:42+00:00
 
- ## Astria - Tailor-made AI
- - [https://www.astria.ai](https://www.astria.ai)
- - date_published: 2024-06-19T21:11:07.442998+00:00
-
  ## Ask the World's First Ai Oracle
  - [https://astroguide.ai](https://astroguide.ai)
  - date_published: 2024-01-05T03:02:49+00:00
@@ -3516,6 +3520,10 @@
  ## BigBear.ai | A higher form of decision intelligence.
  - [https://bigbear.ai](https://bigbear.ai)
  - date_published: 2024-10-29T17:16:33+00:00
+
+ ## BigHub - Your guides to applied AI
+ - [https://www.bighub.ai](https://www.bighub.ai)
+ - date_published: 2024-12-12T15:56:12+00:00
 
  ## AI Text to Voice & Text to Speech Free Software
  - [https://bigspeak.ai](https://bigspeak.ai)
@@ -4010,12 +4018,4 @@
  ## Career Copilot | AI Job Search Tracker and More
  - [https://app.careerflow.ai](https://app.careerflow.ai)
  - date_published: 2024-10-30T08:08:10.368874+00:00
-
- ## Careerflow - Your Career Copilot | FREE AI Job Search Tools
- - [https://careerflow.ai](https://careerflow.ai)
- - date_published: 2024-10-28T06:01:26+00:00
-
- ## Careerflow.ai Help Center
- - [http://help.careerflow.ai](http://help.careerflow.ai)
- - date_published: 2024-10-30T08:07:33.153627+00:00
 

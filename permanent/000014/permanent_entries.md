@@ -1,3 +1,100 @@
+ ## Tripadvisor : plus d'un milliard d'avis et de contributions sur les hôtels, les attractions, les restaurants et plus
+ - [https://fr.tripadvisor.be](https://fr.tripadvisor.be)
+ - date_published: 2024-06-23T09:27:05.850981+00:00
+
+ ## Tripadvisor: meer dan een miljard beoordelingen en bijdragen over hotels, attracties, restaurants en meer
+ - [https://www.tripadvisor.be](https://www.tripadvisor.be)
+ - date_published: 2024-06-23T09:27:27.482893+00:00
+
+ ## trivago.be - Compare hotel prices worldwide
+ - [https://www.trivago.be](https://www.trivago.be)
+ - date_published: 2024-09-04T11:20:06.644892+00:00
+
+ ## De Trixxo Arena in Hasselt: dé plek voor een brede waaier aan evenementen
+ - [https://trixxo-arena.be](https://trixxo-arena.be)
+ - date_published: 2024-10-22T10:53:54.486967+00:00
+
+ ## Trixxo Theater Hasselt: de place to be voor theaterliefhebbers in Hasselt
+ - [https://trixxo-theater.be](https://trixxo-theater.be)
+ - date_published: 2024-10-22T10:53:52.781629+00:00
+
+ ## Home | Web Design Antwerp - Simon Somlai
+ - [http://truetech.be](http://truetech.be)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Online shopping met Trusted Shops - Trusted Shops
+ - [http://www.trustedshops.be](http://www.trustedshops.be)
+ - date_published: 2022-04-07T00:00:00+00:00
+
+ ## Mattias Geniar
+ - [https://ma.ttias.be](https://ma.ttias.be)
+ - date_published: 2023-10-25T08:42:40.398770+00:00
+ - tags: ['personal']
+
+ ## TV OOST - Regionaal nieuws uit Oost-Vlaanderen
+ - [https://www.tvoost.be](https://www.tvoost.be)
+ - date_published: 2024-06-25T16:48:42.305829+00:00
+
+ ## TVV Sound - Broadcast - Nazareth Belgium
+ - [http://www.tvvsound.be](http://www.tvvsound.be)
+ - date_published: 2024-09-13T19:00:48.084808+00:00
+
+ ## Typewriter.be | typewriters
+ - [https://typewriter.be](https://typewriter.be)
+ - date_published: 2023-08-02T06:35:59+00:00
+
+ ## Universiteit Antwerpen | Universiteit Antwerpen
+ - [https://www.uantwerpen.be](https://www.uantwerpen.be)
+ - date_published: 2024-07-09T14:09:03.814883+00:00
+
+ ## UCLouvain - Shibbboleth Identity Provider - Loading Session Information
+ - [https://intranet.uclouvain.be](https://intranet.uclouvain.be)
+ - date_published: 2024-07-07T10:44:58.855216+00:00
+
+ ## Presses universitaires de Louvain
+ - [http://pul.uclouvain.be](http://pul.uclouvain.be)
+ - date_published: 2024-07-09T14:16:24.739693+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.uclouvain.be](https://stats.uclouvain.be)
+ - date_published: 2024-07-07T10:44:57.007693+00:00
+
+ ## Université catholique de Louvain
+ - [https://uclouvain.be](https://uclouvain.be)
+ - date_published: 2024-05-08T10:33:43.897433+00:00
+
+ ## NetScaler AAA
+ - [https://athena.ugent.be](https://athena.ugent.be)
+ - date_published: 2024-07-04T13:31:30+00:00
+
+ ## Biblio
+ - [https://backoffice.biblio.ugent.be](https://backoffice.biblio.ugent.be)
+ - date_published: 2024-06-30T06:59:21.985803+00:00
+
+ ## Ghent University Academic Bibliography
+ - [https://biblio.ugent.be](https://biblio.ugent.be)
+ - date_published: 2024-05-07T15:41:40.237337+00:00
+
+ ## Bloklocaties in Vlaanderen
+ - [http://blok.ugent.be](http://blok.ugent.be)
+ - date_published: 2023-06-20T12:39:27+00:00
+
+ ## Contents of dyvassch.pod.knows.idlab.ugent.be
+ - [https://dyvassch.pod.knows.idlab.ugent.be](https://dyvassch.pod.knows.idlab.ugent.be)
+ - date_published: 2022-06-10T08:50:07+00:00
+
+ ## Human Rights Centre - Human Rights Centre
+ - [https://hrc.ugent.be](https://hrc.ugent.be)
+ - date_published: 2024-10-18T21:29:56.013750+00:00
+
+ ## Hydra
+ - [https://hydra.ugent.be](https://hydra.ugent.be)
+ - date_published: 2024-06-19T11:44:14+00:00
+
+ ## UGent Federated Single Sign On
+ - [https://identity.ugent.be](https://identity.ugent.be)
+ - date_published: 2024-08-07T09:58:57.110339+00:00
+
  ## Ghent University Library
  - [http://lib.ugent.be](http://lib.ugent.be)
  - date_published: 2024-06-30T06:59:21.402408+00:00
@@ -991,6 +1088,10 @@
  ## Kleiderordnung Berlin: nachhaltige Modeberatung von Tina Steinke
  - [https://kleiderordnung.berlin](https://kleiderordnung.berlin)
  - date_published: 2024-07-10T06:06:26+00:00
+
+ ## Christoph Koeberlin - Type Design & Font Engineering
+ - [http://christoph.koe.berlin](http://christoph.koe.berlin)
+ - date_published: 2024-11-17T09:06:38+00:00
 
  ## Korg Berlin
  - [https://korg.berlin](https://korg.berlin)
@@ -2149,6 +2250,10 @@
  - [https://www.philips.com.bh](https://www.philips.com.bh)
  - date_published: 2024-10-30T22:38:57+00:00
 
+ ## Colours of Data
+ - [https://www.cod.bi](https://www.cod.bi)
+ - date_published: 2024-12-14T01:01:05.891970+00:00
+
  ## Deep.BI | The #1 Choice for Open-Source Apache Druid Support
  - [https://www.deep.bi](https://www.deep.bi)
  - date_published: 2024-06-27T00:00:00+00:00
@@ -2176,6 +2281,10 @@
  ## random pictures/thoughts – rabbi ramrattan
  - [https://rab.bi](https://rab.bi)
  - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Revolt.BI | ♥ Business Intelligence, datová integrace, konzultace, data science, analýzy
+ - [https://revolt.bi](https://revolt.bi)
+ - date_published: 2023-07-03T13:32:39+00:00
 
  ## RTNB
  - [http://www.rtnb.bi](http://www.rtnb.bi)
@@ -2727,6 +2836,10 @@
  - [https://culinarycrush.biz](https://culinarycrush.biz)
  - date_published: 2023-10-25T11:59:41.155041+00:00
 
+ ## digitally efx'd geometry™ | demo-reel | CV
+ - [http://www.deg3d.biz](http://www.deg3d.biz)
+ - date_published: 2016-06-28T07:42:45+00:00
+
  ## Del Pueblo Cafe
  - [https://www.delpueblocafe.biz](https://www.delpueblocafe.biz)
  - date_published: 2024-05-13T16:16:32+00:00
@@ -2751,6 +2864,10 @@
  ## DM Radio – Let's talk Data!
  - [https://dmradio.biz](https://dmradio.biz)
  - date_published: 2024-07-18T00:00:00+00:00
+
+ ## dwpalace.biz
+ - [https://dwpalace.biz](https://dwpalace.biz)
+ - date_published: 2024-12-13T03:42:14.811544+00:00
 
  ## editionsbiceps
  - [https://editionsbiceps.biz](https://editionsbiceps.biz)
@@ -3914,126 +4031,4 @@
  ## Ctrl blog syndication server
  - [https://feed.ctrl.blog](https://feed.ctrl.blog)
  - date_published: 2021-06-02T12:19:40+00:00
-
- ## Ctrl blog search
- - [https://search.ctrl.blog](https://search.ctrl.blog)
- - date_published: 2024-07-20T03:09:35.011509+00:00
-
- ## Cyclostationary Signal Processing – Understanding and Using the Statistics of Communication Signals
- - [https://cyclostationary.blog](https://cyclostationary.blog)
- - date_published: 2024-08-31T00:00:00+00:00
-
- ## Dagan.Blog – Education Futurist
- - [https://dagan.blog](https://dagan.blog)
- - date_published: 2024-01-09T02:26:37.338771+00:00
- - tags: ['personal']
-
- ## Da Techguy's (no longer backup) Blog
- - [https://datechguyblog.blog](https://datechguyblog.blog)
- - date_published: 2024-07-04T01:29:42+00:00
-
- ## David Mytton
- - [https://davidmytton.blog](https://davidmytton.blog)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Dean LJ
- - [https://deanlj.blog](https://deanlj.blog)
- - date_published: 2024-08-11T20:28:41.075310+00:00
-
- ## Deep Cuts in a Lovecraftian Vein
- - [https://deepcuts.blog](https://deepcuts.blog)
- - date_published: 2024-02-24T17:00:03.685307+00:00
- - tags: ['fan page', 'cthulu', 'lovecraft']
-
- ## https://default.blog
- - [https://default.blog](https://default.blog)
- - date_published: 2024-07-20T21:32:39.214365+00:00
-
- ## Blog
- - [https://developer-friendly.blog](https://developer-friendly.blog)
- - date_published: 2024-03-04T18:53:54.534773+00:00
-
- ## Courses
- - [https://courses.developer-service.blog](https://courses.developer-service.blog)
- - date_published: 2024-10-19T16:53:54.687886+00:00
-
- ## Differ
- - [https://differ.blog](https://differ.blog)
- - date_published: 2024-06-21T13:40:44.629901+00:00
-
- ## Digging Developer
- - [https://diggingdeveloper.blog](https://diggingdeveloper.blog)
- - date_published: 2024-06-23T15:45:43.066097+00:00
-
- ## Digital Discipline
- - [https://digitaldiscipline.blog](https://digitaldiscipline.blog)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Blog für Digitale Menschenrechte
- - [https://digitalhumanrights.blog](https://digitalhumanrights.blog)
- - date_published: 2024-07-03T21:36:00.219422+00:00
-
- ## Disconnect
- - [https://disconnect.blog](https://disconnect.blog)
- - date_published: 2024-04-27T04:15:01.645596+00:00
- - tags: ['substack']
-
- ## Distributed.blog
- - [https://distributed.blog](https://distributed.blog)
- - date_published: 2024-05-02T10:30:05.999651+00:00
-
- ## DKB Blog | Dmitri Brereton | Substack
- - [https://dkb.blog](https://dkb.blog)
- - date_published: 2023-10-25T09:39:13.079588+00:00
- - tags: ['substack']
-
- ## plaintext
- - [https://dmuhs.blog](https://dmuhs.blog)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## [%titleForMeta%]
- - [http://doc.blog](http://doc.blog)
- - date_published: 2024-08-06T09:29:36.833543+00:00
-
- ## Dom's blog
- - [https://doms.blog](https://doms.blog)
- - date_published: 2024-04-03T12:47:04.943694+00:00
- - tags: ['personal']
-
- ## Technik Blog
- - [https://draeger-it.blog](https://draeger-it.blog)
- - date_published: 2024-07-16T17:47:59.203467+00:00
-
- ## Home
- - [https://drewbutler.blog](https://drewbutler.blog)
- - date_published: 2023-12-21T08:23:59.105908+00:00
- - tags: ['personal']
-
- ## Dyson's Dodecahedron
- - [https://dysonlogos.blog](https://dysonlogos.blog)
- - date_published: 2024-07-15T05:24:15+00:00
-
- ## Life at Eclipse | Musings on the Eclipse Foundation, the community and the ecosystem
- - [https://eclipse-foundation.blog](https://eclipse-foundation.blog)
- - date_published: 2023-10-25T12:00:02.336246+00:00
-
- ## Ednevsky Blog | Alexander Nevedovsky | Substack
- - [https://www.ednevsky.blog](https://www.ednevsky.blog)
- - date_published: 2024-02-25T20:00:20.885022+00:00
-
- ## Eiger, Mönch & Jungfrau
- - [https://eigermonchjungfrau.blog](https://eigermonchjungfrau.blog)
- - date_published: 2024-06-15T07:29:13+00:00
-
- ## ElgarBlog from Edward Elgar Publishing
- - [https://elgar.blog](https://elgar.blog)
- - date_published: 2024-06-17T11:00:11.401786+00:00
-
- ## El-Gar Tour of the World
- - [http://elgartravels.blog](http://elgartravels.blog)
- - date_published: 2024-07-10T03:35:48.406810+00:00
-
- ## Eliot Andres - eliot.blog
- - [https://eliot.blog](https://eliot.blog)
- - date_published: 2023-10-25T12:00:04.356787+00:00
 

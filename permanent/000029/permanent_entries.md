@@ -1,3 +1,243 @@
+ ## Index - NESA - Network System Security & Privacy Lab
+ - [https://nesa.zju.edu.cn](https://nesa.zju.edu.cn)
+ - date_published: 2024-08-07T16:25:58.108066+00:00
+
+ ## 浙江大学求是学院
+ - [http://qsxy.zju.edu.cn](http://qsxy.zju.edu.cn)
+ - date_published: 2024-10-21T21:47:07.964912+00:00
+
+ ## 浙江大学科学技术研究院
+ - [http://rd.zju.edu.cn](http://rd.zju.edu.cn)
+ - date_published: 2024-06-18T11:58:46.226749+00:00
+
+ ## 社会科学研究院中文网
+ - [https://rwsk.zju.edu.cn](https://rwsk.zju.edu.cn)
+ - date_published: 2024-06-18T11:57:19.881355+00:00
+
+ ## 浙江大学人才工作办公室
+ - [http://talent.zju.edu.cn](http://talent.zju.edu.cn)
+ - date_published: 2024-06-18T11:58:24.267360+00:00
+
+ ## 浙江大学本科生院
+ - [https://ugrs.zju.edu.cn](https://ugrs.zju.edu.cn)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## 浙江大学计算机辅助设计与图形学国家重点实验室
+ - [http://www.cad.zju.edu.cn](http://www.cad.zju.edu.cn)
+ - date_published: 2023-08-20T08:04:48+00:00
+
+ ## 浙江大学就业服务平台
+ - [https://www.career.zju.edu.cn](https://www.career.zju.edu.cn)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## 浙江大学继续教育管理处办公网
+ - [http://www.ce.zju.edu.cn](http://www.ce.zju.edu.cn)
+ - date_published: 2024-06-18T11:57:58.330252+00:00
+
+ ## 浙江大学|能源工程学院
+ - [http://www.doe.zju.edu.cn](http://www.doe.zju.edu.cn)
+ - date_published: 2024-05-19T02:40:58.165423+00:00
+
+ ## 浙江大学研究生院
+ - [http://www.grs.zju.edu.cn](http://www.grs.zju.edu.cn)
+ - date_published: 2024-06-18T11:56:47.511082+00:00
+
+ ## 浙江大学面向2030的学科会聚研究计划
+ - [http://www.innovation2030.zju.edu.cn](http://www.innovation2030.zju.edu.cn)
+ - date_published: 2024-06-18T11:56:36.532564+00:00
+
+ ## 工业技术转化研究院
+ - [http://www.itt.zju.edu.cn](http://www.itt.zju.edu.cn)
+ - date_published: 2024-06-18T11:57:50.557833+00:00
+
+ ## 浙江大学：求是新闻网
+ - [http://www.news.zju.edu.cn](http://www.news.zju.edu.cn)
+ - date_published: 2024-06-18T11:58:16.829569+00:00
+
+ ## 浙江大学艺术与考古学院
+ - [http://www.soaa.zju.edu.cn](http://www.soaa.zju.edu.cn)
+ - date_published: 2024-10-21T21:47:27.666312+00:00
+
+ ## 浙江大学学工门户网
+ - [http://www.xgb.zju.edu.cn](http://www.xgb.zju.edu.cn)
+ - date_published: 2024-10-21T21:47:00.333817+00:00
+
+ ## 浙江大学
+ - [https://www.zju.edu.cn](https://www.zju.edu.cn)
+ - date_published: 2024-05-02T12:42:35.932616+00:00
+
+ ## 浙江大学校史馆
+ - [https://xsg.zju.edu.cn](https://xsg.zju.edu.cn)
+ - date_published: 2024-06-18T11:56:41.817697+00:00
+
+ ## 浙大服务平台
+ - [http://xwfw.zju.edu.cn](http://xwfw.zju.edu.cn)
+ - date_published: 2024-06-18T11:58:54.698300+00:00
+
+ ## 浙江大学本科招生网
+ - [https://zdzsc.zju.edu.cn](https://zdzsc.zju.edu.cn)
+ - date_published: 2024-06-18T11:56:50.872140+00:00
+
+ ## ZJU-UIUC Institute
+ - [https://zjui.intl.zju.edu.cn](https://zjui.intl.zju.edu.cn)
+ - date_published: 2024-07-21T22:03:21.364065+00:00
+
+ ## 艺术与考古博物馆
+ - [https://zjumaa.zju.edu.cn](https://zjumaa.zju.edu.cn)
+ - date_published: 2024-06-18T11:57:38.873883+00:00
+
+ ## 浙大校友
+ - [http://zuaa.zju.edu.cn](http://zuaa.zju.edu.cn)
+ - date_published: 2023-04-23T05:28:31+00:00
+
+ ## 浙江大学-香港理工大学联合中心-浙江大学-香港理工大学联合中心
+ - [http://zupuc.zju.edu.cn](http://zupuc.zju.edu.cn)
+ - date_published: 2024-10-21T21:54:26.807792+00:00
+
+ ## 中南财经政法大学
+ - [http://www.zuel.edu.cn](http://www.zuel.edu.cn)
+ - date_published: 2024-09-09T15:08:19.383065+00:00
+
+ ## 福建省消防救援总队
+ - [http://fj.119.gov.cn](http://fj.119.gov.cn)
+ - date_published: 2024-06-30T19:04:14.126297+00:00
+
+ ## 广东省消防救援总队网站
+ - [https://gd.119.gov.cn](https://gd.119.gov.cn)
+ - date_published: 2024-06-30T19:04:47.581714+00:00
+
+ ## 湖北  消防
+ - [http://hb.119.gov.cn](http://hb.119.gov.cn)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## 江苏省消防救援总队
+ - [https://js.119.gov.cn](https://js.119.gov.cn)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## 上海市消防救援总队
+ - [http://sh.119.gov.cn](http://sh.119.gov.cn)
+ - date_published: 2023-12-21T05:40:58+00:00
+
+ ## 陕西省消防救援总队
+ - [http://sn.119.gov.cn](http://sn.119.gov.cn)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 天津市消防救援总队
+ - [http://tj.119.gov.cn](http://tj.119.gov.cn)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## 国家消防救援局
+ - [https://www.119.gov.cn](https://www.119.gov.cn)
+ - date_published: 2024-05-07T16:46:11.235382+00:00
+
+ ## 消防员招录官方平台
+ - [http://xfyzl.119.gov.cn](http://xfyzl.119.gov.cn)
+ - date_published: 2023-11-05T10:50:42+00:00
+
+ ## 浙江消防网
+ - [http://zj.119.gov.cn](http://zj.119.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 首页-交通安全综合服务平台
+ - [http://ln.122.gov.cn](http://ln.122.gov.cn)
+ - date_published: 2024-06-30T18:21:37.144875+00:00
+
+ ## 中国检察听证网
+ - [https://jctz.12309.gov.cn](https://jctz.12309.gov.cn)
+ - date_published: 2023-10-18T11:02:03+00:00
+
+ ## 12309中国检察网
+ - [https://www.12309.gov.cn](https://www.12309.gov.cn)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## 国家社会保险公共服务平台
+ - [https://si.12333.gov.cn](https://si.12333.gov.cn)
+ - date_published: 2024-06-30T17:48:16.645084+00:00
+
+ ## 全国人社政务服务平台
+ - [http://www.12333.gov.cn](http://www.12333.gov.cn)
+ - date_published: 2024-06-30T17:48:32.561446+00:00
+
+ ## 12337智能化举报平台
+ - [http://jyzd.12337.gov.cn](http://jyzd.12337.gov.cn)
+ - date_published: 2023-10-12T08:20:08+00:00
+
+ ## 国家安全机关举报受理平台
+ - [https://www.12339.gov.cn](https://www.12339.gov.cn)
+ - date_published: 2024-06-30T21:13:00.113869+00:00
+
+ ## 中国法律服务网
+ - [http://www.12348.gov.cn](http://www.12348.gov.cn)
+ - date_published: 2024-06-13T10:45:00+00:00
+
+ ## 七一客户端
+ - [https://m.12371.gov.cn](https://m.12371.gov.cn)
+ - date_published: 2024-12-13T17:58:40.617778+00:00
+
+ ## 中共中央组织部“12380”举报网站
+ - [http://www.12380.gov.cn](http://www.12380.gov.cn)
+ - date_published: 2024-06-25T06:14:43+00:00
+
+ ## 中央纪委国家监委举报网站
+ - [http://www.12388.gov.cn](http://www.12388.gov.cn)
+ - date_published: 2023-11-23T15:58:21+00:00
+
+ ## 中央和国家机关纪检监察工作委员会 举报网站
+ - [http://zygjjg.12388.gov.cn](http://zygjjg.12388.gov.cn)
+ - date_published: 2023-11-23T16:13:48+00:00
+
+ ## 九三学社中央委员会
+ - [http://www.93.gov.cn](http://www.93.gov.cn)
+ - date_published: 2024-06-28T04:40:43+00:00
+
+ ## 邮箱登录
+ - [https://mail.agri.gov.cn](https://mail.agri.gov.cn)
+ - date_published: 2024-06-30T22:20:16.239991+00:00
+
+ ## 中国·鞍山
+ - [http://www.anshan.gov.cn](http://www.anshan.gov.cn)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## 安阳市人民政府门户网站
+ - [https://www.anyang.gov.cn](https://www.anyang.gov.cn)
+ - date_published: 2024-06-30T22:27:35.299360+00:00
+
+ ## 中华人民共和国审计署
+ - [https://www.audit.gov.cn](https://www.audit.gov.cn)
+ - date_published: 2024-05-07T16:41:10.314651+00:00
+
+ ## 中共北京市委党校
+ - [http://www.bac.gov.cn](http://www.bac.gov.cn)
+ - date_published: 2024-06-30T19:46:03+00:00
+
+ ## 北湖新闻网_主流媒体,党政门户
+ - [https://www.beihu.gov.cn](https://www.beihu.gov.cn)
+ - date_published: 2024-10-21T06:35:53.076140+00:00
+
+ ## BEIJING CHINA-International Web Portal of Beijing
+ - [https://english.beijing.gov.cn](https://english.beijing.gov.cn)
+ - date_published: 2024-07-09T09:53:33+00:00
+
+ ## 北京市发展和改革委员会
+ - [http://fgw.beijing.gov.cn](http://fgw.beijing.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 北京市广播电视局
+ - [http://gdj.beijing.gov.cn](http://gdj.beijing.gov.cn)
+ - date_published: 2024-06-30T21:41:46.635592+00:00
+
+ ## 北京市机关事务管理局
+ - [http://jgj.beijing.gov.cn](http://jgj.beijing.gov.cn)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## 北京市经济和信息化局
+ - [http://jxj.beijing.gov.cn](http://jxj.beijing.gov.cn)
+ - date_published: 2024-06-29T13:24:05+00:00
+
+ ## 北京市粮食和物资储备局
+ - [http://lsj.beijing.gov.cn](http://lsj.beijing.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## 北京市民族宗教事务委员会
  - [http://mzzjw.beijing.gov.cn](http://mzzjw.beijing.gov.cn)
  - date_published: 2024-06-24T00:00:00+00:00
@@ -602,6 +842,10 @@
  ## 重庆市发展和改革委员会
  - [http://fzggw.cq.gov.cn](http://fzggw.cq.gov.cn)
  - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 重庆市规划和自然资源局
+ - [https://ghzrzyj.cq.gov.cn](https://ghzrzyj.cq.gov.cn)
+ - date_published: 2024-12-13T17:58:25.344453+00:00
 
  ## 重庆市机关事务管理局
  - [http://jgswj.cq.gov.cn](http://jgswj.cq.gov.cn)
@@ -3758,248 +4002,4 @@
  ## 宁夏回族自治区农业农村厅
  - [http://nynct.nx.gov.cn](http://nynct.nx.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## 宁夏回族自治区司法厅
- - [http://sft.nx.gov.cn](http://sft.nx.gov.cn)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## 宁夏回族自治区审计厅
- - [http://sjt.nx.gov.cn](http://sjt.nx.gov.cn)
- - date_published: 2024-06-30T15:39:28.299209+00:00
-
- ## 宁夏回族自治区生态环境厅
- - [https://sthjt.nx.gov.cn](https://sthjt.nx.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 退役军人事务厅
- - [http://tyjrt.nx.gov.cn](http://tyjrt.nx.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 宁夏回族自治区文化和旅游厅
- - [http://whhlyt.nx.gov.cn](http://whhlyt.nx.gov.cn)
- - date_published: 2024-06-30T19:31:04.065629+00:00
-
- ## 宁夏医疗保障局
- - [https://ylbz.nx.gov.cn](https://ylbz.nx.gov.cn)
- - date_published: 2024-06-30T13:24:27.191277+00:00
-
- ## 宁夏机关党建网
- - [http://www.nxjgdj.gov.cn](http://www.nxjgdj.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 宁夏纪委监委网
- - [http://www.nxjjjc.gov.cn](http://www.nxjjjc.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 宁夏长安网
- - [http://www.nxzfw.gov.cn](http://www.nxzfw.gov.cn)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## 宁夏政协网
- - [http://www.nxzx.gov.cn](http://www.nxzx.gov.cn)
- - date_published: 2024-06-30T23:09:50.504564+00:00
-
- ## 国家密码管理局
- - [http://www.oscca.gov.cn](http://www.oscca.gov.cn)
- - date_published: 2024-06-30T13:23:55.111295+00:00
-
- ## 重庆长安网
- - [http://www.pacq.gov.cn](http://www.pacq.gov.cn)
- - date_published: 2024-07-03T05:51:43.962988+00:00
-
- ## 盘锦市人民政府
- - [http://www.panjin.gov.cn](http://www.panjin.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 平安浙江网
- - [http://www.pazjw.gov.cn](http://www.pazjw.gov.cn)
- - date_published: 2024-07-03T05:49:32.861628+00:00
-
- ## 反洗钱中心
- - [http://camlmac.pbc.gov.cn](http://camlmac.pbc.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 中国人民银行
- - [http://www.pbc.gov.cn](http://www.pbc.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## 平顶山市人民政府
- - [https://www.pds.gov.cn](https://www.pds.gov.cn)
- - date_published: 2024-06-28T09:36:55+00:00
-
- ## 平舆县人民政府
- - [http://www.pingyu.gov.cn](http://www.pingyu.gov.cn)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## ��������������Ż���վ
- - [http://www.puyang.gov.cn](http://www.puyang.gov.cn)
- - date_published: 2024-06-30T22:24:40.091023+00:00
-
- ## 青海纪检监察网
- - [http://www.qhjc.gov.cn](http://www.qhjc.gov.cn)
- - date_published: 2024-06-30T13:54:28.814663+00:00
-
- ## 重庆市黔江区人民政府
- - [http://www.qianjiang.gov.cn](http://www.qianjiang.gov.cn)
- - date_published: 2024-06-30T16:35:01.441605+00:00
-
- ## 秦风网
- - [http://www.qinfeng.gov.cn](http://www.qinfeng.gov.cn)
- - date_published: 2024-06-30T02:16:39+00:00
-
- ## 青海省商务厅
- - [http://swt.qinghai.gov.cn](http://swt.qinghai.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 青海省统计局
- - [http://tjj.qinghai.gov.cn](http://tjj.qinghai.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 青海省退役军人事务厅
- - [https://tyjrt.qinghai.gov.cn](https://tyjrt.qinghai.gov.cn)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## 青海省卫生健康委员会
- - [https://wsjkw.qinghai.gov.cn](https://wsjkw.qinghai.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 青海省人民政府网-青海省人民政府网
- - [http://www.qinghai.gov.cn](http://www.qinghai.gov.cn)
- - date_published: 2024-06-30T16:21:17.763118+00:00
-
- ## 泉州市国资委
- - [http://gzw.quanzhou.gov.cn](http://gzw.quanzhou.gov.cn)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## 泉州市人民政府
- - [http://www.quanzhou.gov.cn](http://www.quanzhou.gov.cn)
- - date_published: 2024-07-17T09:44:25.428312+00:00
-
- ## 祁阳新闻网_主流媒体,党政门户
- - [http://www.qynews.gov.cn](http://www.qynews.gov.cn)
- - date_published: 2024-10-21T06:33:18.514411+00:00
-
- ## 汝州市人民政府
- - [http://www.ruzhou.gov.cn](http://www.ruzhou.gov.cn)
- - date_published: 2024-06-30T09:35:33+00:00
-
- ## 中华人民共和国国家档案局
- - [http://www.saac.gov.cn](http://www.saac.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 国家标准化管理委员会
- - [https://www.sac.gov.cn](https://www.sac.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## 国家外汇管理局门户网站
- - [https://www.safe.gov.cn](https://www.safe.gov.cn)
- - date_published: 2024-05-07T16:55:14.320510+00:00
-
- ## 首页
- - [http://cfws.samr.gov.cn](http://cfws.samr.gov.cn)
- - date_published: 2024-06-21T01:45:06+00:00
-
- ## 市场监管行风问题征集
- - [https://hfjs.samr.gov.cn](https://hfjs.samr.gov.cn)
- - date_published: 2024-05-22T02:00:17+00:00
-
- ## 首页 - 合同示范文本库 - 国家市场监督管理总局
- - [https://htsfwb.samr.gov.cn](https://htsfwb.samr.gov.cn)
- - date_published: 2024-06-30T16:33:09.692352+00:00
-
- ## 经营者集中案件申报系统
- - [http://jyzjz.samr.gov.cn](http://jyzjz.samr.gov.cn)
- - date_published: 2024-06-25T11:52:20+00:00
-
- ## 缺陷产品召回查询
- - [http://qxzh.samr.gov.cn](http://qxzh.samr.gov.cn)
- - date_published: 2024-06-30T16:33:46.011763+00:00
-
- ## 首页 - 全国标准信息公共服务平台
- - [http://std.samr.gov.cn](http://std.samr.gov.cn)
- - date_published: 2024-06-30T19:19:17.023888+00:00
-
- ## 国家市场监督管理总局
- - [https://www.samr.gov.cn](https://www.samr.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Welcome to nginx!
- - [https://xgzlyhd.samr.gov.cn](https://xgzlyhd.samr.gov.cn)
- - date_published: 2022-01-06T02:03:11+00:00
-
- ## 国家市场监督管理总局政务服务平台
- - [http://zwfw.samr.gov.cn](http://zwfw.samr.gov.cn)
- - date_published: 2023-09-25T10:03:22+00:00
-
- ## 整治“层层加码”
- - [https://zzccjm.samr.gov.cn](https://zzccjm.samr.gov.cn)
- - date_published: 2022-12-07T11:55:50+00:00
-
- ## 国家宗教事务局
- - [https://www.sara.gov.cn](https://www.sara.gov.cn)
- - date_published: 2024-01-03T01:44:48+00:00
-
- ## SASAC
- - [http://en.sasac.gov.cn](http://en.sasac.gov.cn)
- - date_published: 2024-06-30T22:43:20.437307+00:00
-
- ## 国务院国资委国资监管平台
- - [http://jgpt.sasac.gov.cn](http://jgpt.sasac.gov.cn)
- - date_published: 2020-12-23T01:13:02+00:00
-
- ## 政务外网邮件系统
- - [https://mail.sasac.gov.cn](https://mail.sasac.gov.cn)
- - date_published: 2024-06-30T22:43:28.335169+00:00
-
- ## 国资视频
- - [http://vod.sasac.gov.cn](http://vod.sasac.gov.cn)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## 国务院国有资产监督管理委员会
- - [http://wap.sasac.gov.cn](http://wap.sasac.gov.cn)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## 国务院国有资产监督管理委员会
- - [https://www.sasac.gov.cn](https://www.sasac.gov.cn)
- - date_published: 2024-05-07T16:49:43.239673+00:00
-
- ## 国家国防科技工业局
- - [https://www.sastind.gov.cn](https://www.sastind.gov.cn)
- - date_published: 2024-05-07T16:55:51.748191+00:00
-
- ## The State Council Information Office of the People's Republic of China
- - [https://english.scio.gov.cn](https://english.scio.gov.cn)
- - date_published: 2024-05-09T06:04:05.861964+00:00
-
- ## 四川机关党建网
- - [http://www.scjgdj.gov.cn](http://www.scjgdj.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 国家公务员局
- - [http://www.scs.gov.cn](http://www.scs.gov.cn)
- - date_published: 2023-12-19T08:34:54+00:00
-
- ## 四川统一战线
- - [http://www.sctyzx.gov.cn](http://www.sctyzx.gov.cn)
- - date_published: 2024-06-30T20:40:02+00:00
-
- ## 中共四川省委外事工作委员会办公室（四川省外事办公室、四川省港澳事务办公室）
- - [https://www.scwsb.gov.cn](https://www.scwsb.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 四川政协网
- - [http://www.sczx.gov.cn](http://www.sczx.gov.cn)
- - date_published: 2024-06-30T23:13:24.696374+00:00
-
- ## 山东省纪委监委网站
- - [http://www.sdjj.gov.cn](http://www.sdjj.gov.cn)
- - date_published: 2024-06-30T13:53:58.993180+00:00
-
- ## 山东省地理信息公共服务平台
- - [http://www.sdmap.gov.cn](http://www.sdmap.gov.cn)
- - date_published: 2024-05-29T08:19:36+00:00
-
- ## 项目批复结果_上海市发展和改革委员会
- - [http://app.fgw.sh.gov.cn](http://app.fgw.sh.gov.cn)
- - date_published: 2024-09-09T15:01:24.474652+00:00
 

@@ -1,3 +1,195 @@
+ ## Persönliche Website
+ - [https://n.ethz.ch](https://n.ethz.ch)
+ - date_published: 2024-06-06T18:16:38.575180+00:00
+
+ ## Homepage
+ - [https://next-gen-bioengineers.ethz.ch](https://next-gen-bioengineers.ethz.ch)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## NEXUS Personalized Health Technologies
+ - [https://nexus.ethz.ch](https://nexus.ethz.ch)
+ - date_published: 2024-06-06T18:26:54.739975+00:00
+
+ ## Homepage
+ - [https://pauli-lectures.ethz.ch](https://pauli-lectures.ethz.ch)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Web/Homepage - D-ITET Computing
+ - [https://people.ee.ethz.ch](https://people.ee.ethz.ch)
+ - date_published: 2024-07-24T05:49:13.462924+00:00
+
+ ## Index of Personal Homepages | Department of Mathematics | ETH Zurich
+ - [https://people.math.ethz.ch](https://people.math.ethz.ch)
+ - date_published: 2024-05-11T07:46:59.794956+00:00
+
+ ## D-PHYS phonebook
+ - [https://phonebook.phys.ethz.ch](https://phonebook.phys.ethz.ch)
+ - date_published: 2024-08-08T23:05:41.869011+00:00
+
+ ## Welcome - DPHYS
+ - [https://phys.ethz.ch](https://phys.ethz.ch)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Homepage
+ - [https://plf.inf.ethz.ch](https://plf.inf.ethz.ch)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Homepage
+ - [https://pls.inf.ethz.ch](https://pls.inf.ethz.ch)
+ - date_published: 2024-07-07T04:15:11.394565+00:00
+
+ ## ETH Print Service - Home
+ - [https://printing.sp.ethz.ch](https://printing.sp.ethz.ch)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Research Collection
+ - [https://research-collection.ethz.ch](https://research-collection.ethz.ch)
+ - date_published: 2024-04-30T06:00:43.457246+00:00
+
+ ## Respekt leben
+ - [https://respekt.ethz.ch](https://respekt.ethz.ch)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Homepage
+ - [https://rsl.ethz.ch](https://rsl.ethz.ch)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Scientific Staff Association at the Department of Materials
+ - [https://sam.mat.ethz.ch](https://sam.mat.ethz.ch)
+ - date_published: 2024-08-11T20:21:48.904523+00:00
+
+ ## Architektur und Kunst Professur Karin Sander
+ - [https://sander.arch.ethz.ch](https://sander.arch.ethz.ch)
+ - date_published: 2024-07-09T19:01:25.622180+00:00
+
+ ## Startseite
+ - [https://sce.ethz.ch](https://sce.ethz.ch)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Sign In
+ - [https://share.sp.ethz.ch](https://share.sp.ethz.ch)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Home
+ - [https://sph.ethz.ch](https://sph.ethz.ch)
+ - date_published: 2024-10-30T11:33:05.057535+00:00
+
+ ## Homepage - SSPG
+ - [https://sspg.ethz.ch](https://sspg.ethz.ch)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Startseite
+ - [https://stalder.arch.ethz.ch](https://stalder.arch.ethz.ch)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Homepage - SfS
+ - [http://stat.ethz.ch](http://stat.ethz.ch)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## ISG D-ITET Service Status
+ - [https://status.isg.ee.ethz.ch](https://status.isg.ee.ethz.ch)
+ - date_published: 2024-09-02T06:28:54+00:00
+
+ ## Startseite
+ - [https://su-management.ethz.ch](https://su-management.ethz.ch)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Homepage
+ - [https://systems.ethz.ch](https://systems.ethz.ch)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## D-INFK Library Textbook Collection
+ - [https://textbooks.inf.ethz.ch](https://textbooks.inf.ethz.ch)
+ - date_published: 2024-07-21T06:05:59.512098+00:00
+
+ ## Architecture of Territory
+ - [https://topalovic.arch.ethz.ch](https://topalovic.arch.ethz.ch)
+ - date_published: 2024-07-16T22:08:24.962149+00:00
+
+ ## Welcome to Confluence of ETH Zurich - Confluence - Confluence
+ - [https://unlimited.ethz.ch](https://unlimited.ethz.ch)
+ - date_published: 2024-07-21T06:18:25.972240+00:00
+
+ ## Departement Umweltsystemwissenschaften (D-USYS): Startseite
+ - [https://usys.ethz.ch](https://usys.ethz.ch)
+ - date_published: 2024-10-29T13:49:26.410768+00:00
+
+ ## UTD19 - Largest multi-city traffic dataset publically available
+ - [https://utd19.ethz.ch](https://utd19.ethz.ch)
+ - date_published: 2022-12-01T11:30:49+00:00
+
+ ## Video portal | ETH Zürich Videoportal
+ - [https://video.ethz.ch](https://video.ethz.ch)
+ - date_published: 2024-08-08T20:11:50.442915+00:00
+
+ ## Vorlesungsverzeichnis - ETH Zürich
+ - [https://vorlesungsverzeichnis.ethz.ch](https://vorlesungsverzeichnis.ethz.ch)
+ - date_published: 2024-04-30T06:03:13.216288+00:00
+
+ ## VSETH – Verband der Studierenden an der ETH
+ - [https://vseth.ethz.ch](https://vseth.ethz.ch)
+ - date_published: 2024-08-07T23:57:34.693112+00:00
+
+ ## Log In - Confluence
+ - [https://wiki.systems.ethz.ch](https://wiki.systems.ethz.ch)
+ - date_published: 2024-06-22T11:54:22.223044+00:00
+
+ ## The Society for Women in Natural Sciences at ETH – Shaping an inclusive and diverse community at ETH Zurich
+ - [https://wins.ethz.ch](https://wins.ethz.ch)
+ - date_published: 2024-08-11T20:21:51.532332+00:00
+
+ ## ETH Zürich - Nicht verfügbar
+ - [https://www.bi.id.ethz.ch](https://www.bi.id.ethz.ch)
+ - date_published: 2022-11-22T11:12:54+00:00
+
+ ## Toolbox
+ - [http://www.cd.ethz.ch](http://www.cd.ethz.ch)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Informationszentrum Chemie Biologie Pharmazie
+ - [https://www.infozentrum.ethz.ch](https://www.infozentrum.ethz.ch)
+ - date_published: 2024-08-08T23:41:14.582725+00:00
+
+ ##  Welcome – IT Service Group of the Department of Computer Science | ETH Zurich
+ - [https://www.isg.inf.ethz.ch](https://www.isg.inf.ethz.ch)
+ - date_published: 2024-09-05T13:37:58.783170+00:00
+
+ ## IT Services for D-MAVT
+ - [https://www.it.mavt.ethz.ch](https://www.it.mavt.ethz.ch)
+ - date_published: 2024-08-06T17:46:28.811846+00:00
+
+ ## Startseite
+ - [https://www.ivt.ethz.ch](https://www.ivt.ethz.ch)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## ETH Zürich - Nicht verfügbar
+ - [http://www.lb-support.id.ethz.ch](http://www.lb-support.id.ethz.ch)
+ - date_published: 2021-02-04T09:31:45+00:00
+
+ ## Rauminfo
+ - [https://www.lehrbetrieb.ethz.ch](https://www.lehrbetrieb.ethz.ch)
+ - date_published: 2018-02-19T09:32:55+00:00
+
+ ## Startseite
+ - [https://www.library.inf.ethz.ch](https://www.library.inf.ethz.ch)
+ - date_published: 2024-04-30T06:03:21.557897+00:00
+
+ ## Materials Alumni
+ - [http://www.matalumni.ethz.ch](http://www.matalumni.ethz.ch)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## ETH Zürich - Personensuche
+ - [http://www.personen.ethz.ch](http://www.personen.ethz.ch)
+ - date_published: 2024-08-17T23:36:27.570546+00:00
+
+ ## Local index - HTTrack Website Copier
+ - [http://www.php.isn.ethz.ch](http://www.php.isn.ethz.ch)
+ - date_published: 2016-10-28T09:08:31+00:00
+
+ ## Abschaltung alte Rauminfo-Applikation
+ - [http://www.rauminfo.ethz.ch](http://www.rauminfo.ethz.ch)
+ - date_published: 2024-06-17T08:54:52+00:00
+
  ## RC-Blog
  - [https://www.rc-blog.ethz.ch](https://www.rc-blog.ethz.ch)
  - date_published: 2024-07-21T06:18:30.706569+00:00
@@ -3824,197 +4016,4 @@
  ## | Sen:te
  - [http://www.sente.ch](http://www.sente.ch)
  - date_published: 2024-06-30T10:05:30.685090+00:00
-
- ## Nicolas Seriot
- - [https://seriot.ch](https://seriot.ch)
- - date_published: 2024-03-24T13:32:42.663592+00:00
- - tags: ['personal']
-
- ## Schule für Gestaltung Basel | Ein lebendiger Ort für Gestaltung & Kunst
- - [https://sfgbasel.ch](https://sfgbasel.ch)
- - date_published: 2024-10-29T13:49:55.205575+00:00
-
- ## Swiss Society for Biomedical Engineering | SSBE
- - [http://www.sgbt.ch](http://www.sgbt.ch)
- - date_published: 2024-10-28T06:56:15.672132+00:00
-
- ## SHEA YEAH Naturkosmetik - Wasserfrei, vegan und pflegend
- - [https://sheayeah.ch](https://sheayeah.ch)
- - date_published: 2024-04-29T03:57:08.862408+00:00
-
- ## Showcase 2030 | Sustainable Innovation Summit
- - [https://www.showcase2030.ch](https://www.showcase2030.ch)
- - date_published: 2024-07-16T22:47:57.821349+00:00
-
- ## prx's Si₃TcH/ ArraKISS — Si₃TcH
- - [http://si3t.ch](http://si3t.ch)
- - date_published: 2024-06-16T19:14:41+00:00
-
- ## SIX Login
- - [https://gate-etu.np.sic.ch](https://gate-etu.np.sic.ch)
- - date_published: 2024-10-14T16:18:32.896968+00:00
-
- ## SIX Login
- - [https://gate-int.np.sic.ch](https://gate-int.np.sic.ch)
- - date_published: 2024-10-14T16:17:06.789702+00:00
-
- ## SIX Login
- - [https://gate.sic.ch](https://gate.sic.ch)
- - date_published: 2024-10-14T16:17:23.606912+00:00
-
- ## SIX Login
- - [https://gate-x-p.np.sic.ch](https://gate-x-p.np.sic.ch)
- - date_published: 2024-10-14T16:17:00.611305+00:00
-
- ## SIGE – Service Intercommunal de Gestion
- - [https://www.sige.ch](https://www.sige.ch)
- - date_published: 2024-07-09T07:42:21.305790+00:00
-
- ## SIGMAtools
- - [https://www.sigmatools.ch](https://www.sigmatools.ch)
- - date_published: 2024-12-12T15:49:21.222704+00:00
-
- ## Internet, TV, Téléphone  - SiL multimédia
- - [https://sil-bliblablo.ch](https://sil-bliblablo.ch)
- - date_published: 2024-07-21T06:19:36.740618+00:00
-
- ## SIL Genève
- - [https://silgeneve.ch](https://silgeneve.ch)
- - date_published: 2024-06-18T14:24:15.932222+00:00
-
- ## Silo Bleu | Studentenwohnheim in Rennens
- - [https://de.silobleu.ch](https://de.silobleu.ch)
- - date_published: 2024-07-16T22:18:11.369032+00:00
-
- ## Silo Bleu | Residence for students in Rennens
- - [https://en.silobleu.ch](https://en.silobleu.ch)
- - date_published: 2024-07-16T22:18:09.906476+00:00
-
- ## Silo Bleu | Résidence pour étudiants à Rennens
- - [https://silobleu.ch](https://silobleu.ch)
- - date_published: 2024-05-12T07:17:31.456776+00:00
-
- ## Simon Institute for Longterm Governance
- - [https://www.simoninstitute.ch](https://www.simoninstitute.ch)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Mit unternehmerischen Mitteln soziale Ziele erreichen
- - [http://www.sinnundgewinn.ch](http://www.sinnundgewinn.ch)
- - date_published: 2024-07-16T22:16:08.409539+00:00
-
- ## Accueil | Service d’incendie et de secours (SIS)
- - [https://www.sisge.ch](https://www.sisge.ch)
- - date_published: 2024-07-19T16:03:06.895903+00:00
-
- ## SIXT Autovermietung | Premium Auto mieten zum besten Preis
- - [https://sixt.ch](https://sixt.ch)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Einreichsystem der Schweizer Jugend forscht
- - [https://events-de.sjf.ch](https://events-de.sjf.ch)
- - date_published: 2024-07-16T22:07:27.938544+00:00
-
- ## Schweizer Jugend forscht - Stay Curious
- - [https://sjf.ch](https://sjf.ch)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Skyscanner
- - [https://www.skyscanner.ch](https://www.skyscanner.ch)
- - date_published: 2024-05-14T10:10:11+00:00
-
- ## SLSP – Swiss Libraires Service Platform
- - [https://slsp.ch](https://slsp.ch)
- - date_published: 2024-08-08T22:53:48.293394+00:00
-
- ## Headless E-Commerce Development Agency | Sly AG
- - [https://sly.ch](https://sly.ch)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## SMAKY – Une histoire de l'informatique en Suisse
- - [https://smaky.ch](https://smaky.ch)
- - date_published: 2024-07-16T22:02:22.004174+00:00
-
- ## SMPA - Swiss Music Promoters Association
- - [http://www.smpa.ch](http://www.smpa.ch)
- - date_published: 2024-07-12T22:52:45.167357+00:00
-
- ## SNB
- - [https://careers.snb.ch](https://careers.snb.ch)
- - date_published: 2024-06-16T04:02:31.463942+00:00
-
- ## ___OG_TITLE___
- - [https://data.snb.ch](https://data.snb.ch)
- - date_published: 2024-05-07T12:50:24+00:00
-
- ## ﻿
- - [https://surveys.snb.ch](https://surveys.snb.ch)
- - date_published: 2024-06-16T04:02:29.474516+00:00
-
- ## SNB BNS
- - [https://www.snb.ch](https://www.snb.ch)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Swiss National Science Foundation (SNSF)
- - [https://snf.ch](https://snf.ch)
- - date_published: 2024-07-16T22:06:31.992186+00:00
-
- ## Société Numérique
- - [https://www.societe-numerique.ch](https://www.societe-numerique.ch)
- - date_published: 2024-07-24T16:25:18.761111+00:00
-
- ## Soeder - Natural care and basics for everyday life
- - [https://www.soeder.ch](https://www.soeder.ch)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## SOFTRIDGE - Home
- - [http://www.softridge.ch](http://www.softridge.ch)
- - date_published: 2024-11-08T13:07:44.312237+00:00
-
- ## Solafrica - Solarenergie für Mensch und Klima
- - [https://solafrica.ch](https://solafrica.ch)
- - date_published: 2024-10-29T11:15:29.902241+00:00
-
- ## Contracting Énergie Solaire | Romande Energie
- - [https://www.solaire-entreprise.ch](https://www.solaire-entreprise.ch)
- - date_published: 2024-10-14T21:40:33.936076+00:00
-
- ## Home - Solawi
- - [https://solawi.ch](https://solawi.ch)
- - date_published: 2024-10-31T06:06:05.237385+00:00
-
- ## sold-out
- - [http://sold-out.ch](http://sold-out.ch)
- - date_published: 2024-07-13T15:44:35.627076+00:00
-
- ## Solenix | Engineering Inspiration
- - [https://solenix.ch](https://solenix.ch)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Solidar Suisse | Wir bekämpfen Ungleichheit
- - [https://solidar.ch](https://solidar.ch)
- - date_published: 2024-10-29T11:15:34.445338+00:00
-
- ## Accueil – solidaritéS
- - [http://www.solidarites.ch](http://www.solidarites.ch)
- - date_published: 2024-10-21T18:08:31.981600+00:00
-
- ## SolidarMed | Zusammenarbeit, die wirkt | Die Schweizer NGO für medizinische Entwicklungszusammenarbeit.
- - [https://www.solidarmed.ch](https://www.solidarmed.ch)
- - date_published: 2024-07-16T22:06:56.339405+00:00
-
- ## Solothurner Zeitung | Nachrichten Region Solothurn
- - [https://www.solothurnerzeitung.ch](https://www.solothurnerzeitung.ch)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Allgemeine Geschäftsbedingungen
- - [https://agb.sonntagszeitung.ch](https://agb.sonntagszeitung.ch)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Einen Moment bitte, die Ausgabe wird geladen...
- - [https://epaper.sonntagszeitung.ch](https://epaper.sonntagszeitung.ch)
- - date_published: 2024-04-30T06:12:59.646339+00:00
-
- ## Sonntags Zeitung
- - [https://helpcenter.sonntagszeitung.ch](https://helpcenter.sonntagszeitung.ch)
- - date_published: 2023-07-22T05:27:05+00:00
 

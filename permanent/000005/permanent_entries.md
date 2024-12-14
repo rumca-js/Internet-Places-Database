@@ -1,3 +1,23 @@
+ ## Lotus
+ - [https://getlotus.app](https://getlotus.app)
+ - date_published: 2024-05-06T21:28:43.934553+00:00
+
+ ## Mammoth: Social you control
+ - [https://getmammoth.app](https://getmammoth.app)
+ - date_published: 2024-08-18T06:41:42.211236+00:00
+
+ ## Micro
+ - [https://www.getmicro.app](https://www.getmicro.app)
+ - date_published: 2024-04-24T07:46:05+00:00
+
+ ## MonAi - AI powered expense tracker
+ - [https://get-monai.app](https://get-monai.app)
+ - date_published: 2024-07-17T21:15:26+00:00
+
+ ## Notary
+ - [https://getnotary.app](https://getnotary.app)
+ - date_published: 2024-07-14T09:23:00.842670+00:00
+
  ## Shifted
  - [https://getshifted.app](https://getshifted.app)
  - date_published: 2024-04-29T03:46:35.988745+00:00
@@ -748,6 +768,10 @@
  ## Leap Dashboard
  - [https://leapboard.app](https://leapboard.app)
  - date_published: 2024-09-24T07:01:19+00:00
+
+ ## LearnHouse - The modern Open source learning platform for everyone.
+ - [https://www.learnhouse.app](https://www.learnhouse.app)
+ - date_published: 2024-12-13T12:48:50.479485+00:00
 
  ## Leave Me Alone Blog
  - [https://blog.leavemealone.app](https://blog.leavemealone.app)
@@ -4014,28 +4038,4 @@
  ## Reflection.app — Your guided journal for wellness and growth.
  - [http://reflection.app](http://reflection.app)
  - date_published: 2024-09-09T00:00:00+00:00
-
- ## Refrakt
- - [https://refrakt.app](https://refrakt.app)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## DSA & NATSEC ASIA 2024
- - [https://dsanatsecasia2024oem.regevent.app](https://dsanatsecasia2024oem.regevent.app)
- - date_published: 2024-05-03T01:42:59+00:00
-
- ## Home - Relai
- - [https://relai.app](https://relai.app)
- - date_published: 2023-03-21T08:59:42+00:00
-
- ## Relai Helpdesk
- - [https://support.relai.app](https://support.relai.app)
- - date_published: 2024-08-19T18:39:52.000622+00:00
-
- ## Relay.app: The new standard for automation
- - [https://www.relay.app](https://www.relay.app)
- - date_published: 2024-10-12T20:44:46.237137+00:00
-
- ## Mobile test automation tool | Repeato
- - [https://repeato.app](https://repeato.app)
- - date_published: 2024-05-30T00:00:00+00:00
 

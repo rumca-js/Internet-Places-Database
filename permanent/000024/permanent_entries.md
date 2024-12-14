@@ -1,3 +1,196 @@
+ ## Nicolas Seriot
+ - [https://seriot.ch](https://seriot.ch)
+ - date_published: 2024-03-24T13:32:42.663592+00:00
+ - tags: ['personal']
+
+ ## Schule für Gestaltung Basel | Ein lebendiger Ort für Gestaltung & Kunst
+ - [https://sfgbasel.ch](https://sfgbasel.ch)
+ - date_published: 2024-10-29T13:49:55.205575+00:00
+
+ ## Swiss Society for Biomedical Engineering | SSBE
+ - [http://www.sgbt.ch](http://www.sgbt.ch)
+ - date_published: 2024-10-28T06:56:15.672132+00:00
+
+ ## SHEA YEAH Naturkosmetik - Wasserfrei, vegan und pflegend
+ - [https://sheayeah.ch](https://sheayeah.ch)
+ - date_published: 2024-04-29T03:57:08.862408+00:00
+
+ ## Showcase 2030 | Sustainable Innovation Summit
+ - [https://www.showcase2030.ch](https://www.showcase2030.ch)
+ - date_published: 2024-07-16T22:47:57.821349+00:00
+
+ ## prx's Si₃TcH/ ArraKISS — Si₃TcH
+ - [http://si3t.ch](http://si3t.ch)
+ - date_published: 2024-06-16T19:14:41+00:00
+
+ ## SIX Login
+ - [https://gate-etu.np.sic.ch](https://gate-etu.np.sic.ch)
+ - date_published: 2024-10-14T16:18:32.896968+00:00
+
+ ## SIX Login
+ - [https://gate-int.np.sic.ch](https://gate-int.np.sic.ch)
+ - date_published: 2024-10-14T16:17:06.789702+00:00
+
+ ## SIX Login
+ - [https://gate.sic.ch](https://gate.sic.ch)
+ - date_published: 2024-10-14T16:17:23.606912+00:00
+
+ ## SIX Login
+ - [https://gate-x-p.np.sic.ch](https://gate-x-p.np.sic.ch)
+ - date_published: 2024-10-14T16:17:00.611305+00:00
+
+ ## SIGE – Service Intercommunal de Gestion
+ - [https://www.sige.ch](https://www.sige.ch)
+ - date_published: 2024-07-09T07:42:21.305790+00:00
+
+ ## SIGMAtools
+ - [https://www.sigmatools.ch](https://www.sigmatools.ch)
+ - date_published: 2024-12-12T15:49:21.222704+00:00
+
+ ## Internet, TV, Téléphone  - SiL multimédia
+ - [https://sil-bliblablo.ch](https://sil-bliblablo.ch)
+ - date_published: 2024-07-21T06:19:36.740618+00:00
+
+ ## SIL Genève
+ - [https://silgeneve.ch](https://silgeneve.ch)
+ - date_published: 2024-06-18T14:24:15.932222+00:00
+
+ ## Silo Bleu | Studentenwohnheim in Rennens
+ - [https://de.silobleu.ch](https://de.silobleu.ch)
+ - date_published: 2024-07-16T22:18:11.369032+00:00
+
+ ## Silo Bleu | Residence for students in Rennens
+ - [https://en.silobleu.ch](https://en.silobleu.ch)
+ - date_published: 2024-07-16T22:18:09.906476+00:00
+
+ ## Silo Bleu | Résidence pour étudiants à Rennens
+ - [https://silobleu.ch](https://silobleu.ch)
+ - date_published: 2024-05-12T07:17:31.456776+00:00
+
+ ## Simon Institute for Longterm Governance
+ - [https://www.simoninstitute.ch](https://www.simoninstitute.ch)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Mit unternehmerischen Mitteln soziale Ziele erreichen
+ - [http://www.sinnundgewinn.ch](http://www.sinnundgewinn.ch)
+ - date_published: 2024-07-16T22:16:08.409539+00:00
+
+ ## Accueil | Service d’incendie et de secours (SIS)
+ - [https://www.sisge.ch](https://www.sisge.ch)
+ - date_published: 2024-07-19T16:03:06.895903+00:00
+
+ ## SIXT Autovermietung | Premium Auto mieten zum besten Preis
+ - [https://sixt.ch](https://sixt.ch)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Einreichsystem der Schweizer Jugend forscht
+ - [https://events-de.sjf.ch](https://events-de.sjf.ch)
+ - date_published: 2024-07-16T22:07:27.938544+00:00
+
+ ## Schweizer Jugend forscht - Stay Curious
+ - [https://sjf.ch](https://sjf.ch)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.ch](https://www.skyscanner.ch)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## SLSP – Swiss Libraires Service Platform
+ - [https://slsp.ch](https://slsp.ch)
+ - date_published: 2024-08-08T22:53:48.293394+00:00
+
+ ## Headless E-Commerce Development Agency | Sly AG
+ - [https://sly.ch](https://sly.ch)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## SMAKY – Une histoire de l'informatique en Suisse
+ - [https://smaky.ch](https://smaky.ch)
+ - date_published: 2024-07-16T22:02:22.004174+00:00
+
+ ## SMPA - Swiss Music Promoters Association
+ - [http://www.smpa.ch](http://www.smpa.ch)
+ - date_published: 2024-07-12T22:52:45.167357+00:00
+
+ ## SNB
+ - [https://careers.snb.ch](https://careers.snb.ch)
+ - date_published: 2024-06-16T04:02:31.463942+00:00
+
+ ## ___OG_TITLE___
+ - [https://data.snb.ch](https://data.snb.ch)
+ - date_published: 2024-05-07T12:50:24+00:00
+
+ ## ﻿
+ - [https://surveys.snb.ch](https://surveys.snb.ch)
+ - date_published: 2024-06-16T04:02:29.474516+00:00
+
+ ## SNB BNS
+ - [https://www.snb.ch](https://www.snb.ch)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Swiss National Science Foundation (SNSF)
+ - [https://snf.ch](https://snf.ch)
+ - date_published: 2024-07-16T22:06:31.992186+00:00
+
+ ## Société Numérique
+ - [https://www.societe-numerique.ch](https://www.societe-numerique.ch)
+ - date_published: 2024-07-24T16:25:18.761111+00:00
+
+ ## Soeder - Natural care and basics for everyday life
+ - [https://www.soeder.ch](https://www.soeder.ch)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## SOFTRIDGE - Home
+ - [http://www.softridge.ch](http://www.softridge.ch)
+ - date_published: 2024-11-08T13:07:44.312237+00:00
+
+ ## Solafrica - Solarenergie für Mensch und Klima
+ - [https://solafrica.ch](https://solafrica.ch)
+ - date_published: 2024-10-29T11:15:29.902241+00:00
+
+ ## Contracting Énergie Solaire | Romande Energie
+ - [https://www.solaire-entreprise.ch](https://www.solaire-entreprise.ch)
+ - date_published: 2024-10-14T21:40:33.936076+00:00
+
+ ## Home - Solawi
+ - [https://solawi.ch](https://solawi.ch)
+ - date_published: 2024-10-31T06:06:05.237385+00:00
+
+ ## sold-out
+ - [http://sold-out.ch](http://sold-out.ch)
+ - date_published: 2024-07-13T15:44:35.627076+00:00
+
+ ## Solenix | Engineering Inspiration
+ - [https://solenix.ch](https://solenix.ch)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Solidar Suisse | Wir bekämpfen Ungleichheit
+ - [https://solidar.ch](https://solidar.ch)
+ - date_published: 2024-10-29T11:15:34.445338+00:00
+
+ ## Accueil – solidaritéS
+ - [http://www.solidarites.ch](http://www.solidarites.ch)
+ - date_published: 2024-10-21T18:08:31.981600+00:00
+
+ ## SolidarMed | Zusammenarbeit, die wirkt | Die Schweizer NGO für medizinische Entwicklungszusammenarbeit.
+ - [https://www.solidarmed.ch](https://www.solidarmed.ch)
+ - date_published: 2024-07-16T22:06:56.339405+00:00
+
+ ## Solothurner Zeitung | Nachrichten Region Solothurn
+ - [https://www.solothurnerzeitung.ch](https://www.solothurnerzeitung.ch)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Allgemeine Geschäftsbedingungen
+ - [https://agb.sonntagszeitung.ch](https://agb.sonntagszeitung.ch)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Einen Moment bitte, die Ausgabe wird geladen...
+ - [https://epaper.sonntagszeitung.ch](https://epaper.sonntagszeitung.ch)
+ - date_published: 2024-04-30T06:12:59.646339+00:00
+
+ ## Sonntags Zeitung
+ - [https://helpcenter.sonntagszeitung.ch](https://helpcenter.sonntagszeitung.ch)
+ - date_published: 2023-07-22T05:27:05+00:00
+
  ## Datenschutzerklärung
  - [https://privacypolicy.sonntagszeitung.ch](https://privacypolicy.sonntagszeitung.ch)
  - date_published: 2024-07-20T00:00:00+00:00
@@ -1663,6 +1856,10 @@ Fakultät | Universität Basel
  ## Visa, einer der vertrauenswürdigen Marktführer im digitalen Zahlungsverkehr
  - [https://visaeurope.ch](https://visaeurope.ch)
  - date_published: 2024-05-12T03:58:22.236353+00:00
+
+ ## Visions du Réel
+ - [https://www.visionsdureel.ch](https://www.visionsdureel.ch)
+ - date_published: 2024-12-13T22:36:12+00:00
 
  ## Home page - Visit Morcote - Turismo
  - [http://www.visitmorcote.ch](http://www.visitmorcote.ch)
@@ -3822,202 +4019,4 @@ Fakultät | Universität Basel
  ## Hilti Chile - Herramientas Eléctricas, Fijaciones y Software para Construcción
  - [https://www.hilti.cl](https://www.hilti.cl)
  - date_published: 2024-06-20T07:26:25.466565+00:00
-
- ## Homeonline - Especialistas en productos para el hogar
- - [https://homeonline.cl](https://homeonline.cl)
- - date_published: 2024-10-14T18:50:22.670616+00:00
-
- ## Bienvenido a Hotfrog
- - [https://www.hotfrog.cl](https://www.hotfrog.cl)
- - date_published: 2024-06-29T16:52:12.151972+00:00
-
- ## Hotmusic | Tu música favorita con despacho a todo Chile
- - [https://hotmusic.cl](https://hotmusic.cl)
- - date_published: 2024-09-10T22:15:02.017500+00:00
-
- ## Hydroflow | Ganador de premios | Acondicionador de Agua
- - [https://www.hydroflow.cl](https://www.hydroflow.cl)
- - date_published: 2024-10-14T18:01:04.488824+00:00
-
- ## Prisa Media Chile
- - [https://iarc.cl](https://iarc.cl)
- - date_published: 2024-04-08T19:12:49+00:00
-
- ## iBio
- - [https://www.ibio.cl](https://www.ibio.cl)
- - date_published: 2024-07-09T08:53:23.613358+00:00
-
- ## Cadenas Portacables, Cojinetes lineales deslizamiento
- - [https://www.igus.cl](https://www.igus.cl)
- - date_published: 2024-08-06T23:12:14.494817+00:00
-
- ## IMFD – Foundational Research on Data
- - [http://www.imfd.cl](http://www.imfd.cl)
- - date_published: 2024-08-07T17:08:39.620865+00:00
-
- ## Ingresa
- - [https://portal.ingresa.cl](https://portal.ingresa.cl)
- - date_published: 2024-09-12T20:46:48.200421+00:00
-
- ## Reclutamiento
- - [https://postulaciones.investigaciones.cl](https://postulaciones.investigaciones.cl)
- - date_published: 2024-06-12T12:54:15.351361+00:00
-
- ## SUV y crossovers Jeep® - Sitio oficial de Jeep
- - [https://www.jeep.cl](https://www.jeep.cl)
- - date_published: 2024-06-19T08:42:00.978324+00:00
-
- ## JLL
- - [https://www.jll.cl](https://www.jll.cl)
- - date_published: 2024-10-30T21:38:10.785057+00:00
-
- ## Jóvenes Nestlé®
- - [https://www.jovenesnestle.cl](https://www.jovenesnestle.cl)
- - date_published: 2024-09-10T15:12:50.676972+00:00
-
- ## JSConf Chile: DIC 05, 06, 07 2024 | Conferencia de Javascript en Santiago Chile
- - [https://jsconf.cl](https://jsconf.cl)
- - date_published: 2024-06-23T01:30:48.331686+00:00
-
- ## Konecranes
- - [https://www.konecranes.cl](https://www.konecranes.cl)
- - date_published: 2024-05-04T09:57:50.029728+00:00
-
- ## La Discusión
- - [https://www.ladiscusion.cl](https://www.ladiscusion.cl)
- - date_published: 2024-10-20T21:42:11.057825+00:00
-
- ## Diario La Hora
- - [https://lahora.cl](https://lahora.cl)
- - date_published: 2023-12-23T16:53:00+00:00
-
- ## La Hora del Planeta 2024 | WWF Chile - 23/Mar 20:30 PM ♻️🐼
- - [https://lahoradelplaneta.cl](https://lahoradelplaneta.cl)
- - date_published: 2024-07-03T02:45:47.956513+00:00
-
- ## Lile
- - [https://lile.cl](https://lile.cl)
- - date_published: 2024-05-01T00:28:49.364452+00:00
-
- ## Linio Chile | Todo lo que buscas en tecnología y mucho más
- - [https://www.linio.cl](https://www.linio.cl)
- - date_published: 2024-10-03T00:00:00+00:00
-
- ## LOS40: noticias musicales y radio online con todos los éxitos
- - [https://los40.cl](https://los40.cl)
- - date_published: 2024-06-12T12:56:48.407650+00:00
-
- ## LOS40: noticias musicales y radio online con todos los éxitos
- - [https://seguro.los40.cl](https://seguro.los40.cl)
- - date_published: 2024-09-12T22:04:11+00:00
-
- ## Lucky Jet ✈️ Gana mucho dinero en línea con Lucky Jet Predictor!
- - [https://luckyjet.cl](https://luckyjet.cl)
- - date_published: 2024-09-10T11:51:37.663062+00:00
-
- ## Homo Ludens
- - [https://ludens.cl](https://ludens.cl)
- - date_published: 2016-04-20T19:19:06+00:00
- - tags: ['personal']
-
- ## Mastodon - CL
- - [https://mastodon.cl](https://mastodon.cl)
- - date_published: 2024-09-14T22:09:42.319822+00:00
-
- ## Penguin Libros CL
- - [https://www.megustaleer.cl](https://www.megustaleer.cl)
- - date_published: 2024-06-28T14:51:45.369915+00:00
-
- ## Error! - Mercado Libre
- - [https://www.mercadolibre.cl](https://www.mercadolibre.cl)
- - date_published: 2020-07-20T03:12:12+00:00
-
- ## El Tiempo a 14 días - Meteored
- - [https://www.meteored.cl](https://www.meteored.cl)
- - date_published: 2024-06-27T12:46:34+00:00
-
- ## MetLife - Compañía de Seguros, Pensión y Créditos
- - [https://w3.metlife.cl](https://w3.metlife.cl)
- - date_published: 2024-07-19T16:44:49+00:00
-
- ## MI FUTURO | MINEDUC
- - [https://www.mifuturo.cl](https://www.mifuturo.cl)
- - date_published: 2024-09-12T20:45:54.382871+00:00
-
- ## Indicadores económicos diarios, Chile - API REST
- - [https://mindicador.cl](https://mindicador.cl)
- - date_published: 2024-09-13T10:49:46.662297+00:00
-
- ## Acceso Educación Superior
- - [https://acceso.mineduc.cl](https://acceso.mineduc.cl)
- - date_published: 2024-06-12T12:53:53.853113+00:00
-
- ## Inicio - Subsecretaría de Educación Superior
- - [https://educacionsuperior.mineduc.cl](https://educacionsuperior.mineduc.cl)
- - date_published: 2024-09-12T20:45:48.883262+00:00
-
- ## Ministerio de Educación
- - [https://www.mineduc.cl](https://www.mineduc.cl)
- - date_published: 2024-09-12T20:46:55.964651+00:00
-
- ## Assistierte Fortpflanzung von Tieren | Minitube
- - [https://minitubchile.cl](https://minitubchile.cl)
- - date_published: 2024-08-18T12:22:38.800217+00:00
-
- ## Distribuidor de Componentes Electrónicos - Mouser Electronics Chile
- - [https://www.mouser.cl](https://www.mouser.cl)
- - date_published: 2024-07-01T20:55:16.611006+00:00
-
- ## mro-a
- - [https://mro-a.cl](https://mro-a.cl)
- - date_published: 2024-07-04T01:58:41.219040+00:00
-
- ## Ilustre Municipalidad de Santiago – Ilustre Municipalidad de Santiago
- - [https://www.munistgo.cl](https://www.munistgo.cl)
- - date_published: 2024-07-08T13:27:22.609552+00:00
-
- ## n9.cl Url shortener Short link url free fast and secure https ssl convert in tiny url
- - [https://n9.cl](https://n9.cl)
- - date_published: 2024-06-12T03:03:37.975239+00:00
-
- ## NexNews - Login
- - [https://portal.nexnews.cl](https://portal.nexnews.cl)
- - date_published: 2024-10-15T04:20:05.818955+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.nike.cl](https://www.nike.cl)
- - date_published: 2024-06-20T15:42:33.224010+00:00
-
- ## Juegos - Sitio oficial de Nintendo
- - [http://store.nintendo.cl](http://store.nintendo.cl)
- - date_published: 2024-06-15T03:43:46.306257+00:00
-
- ## Nos Mueve Compartir – Santillana – Blog Nos Mueve Compartir
- - [https://nosmuevecompartir.cl](https://nosmuevecompartir.cl)
- - date_published: 2024-09-13T11:32:20.939536+00:00
-
- ## NosotrasOnline Chile - Tips y productos para tu higiene íntima
- - [https://www.nosotrasonline.cl](https://www.nosotrasonline.cl)
- - date_published: 2024-09-11T12:10:00+00:00
-
- ## Inicio
- - [https://nrao.cl](https://nrao.cl)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Aeropuerto Nuevo Pudahuel SCL - Sitio web oficial
- - [https://www.nuevopudahuel.cl](https://www.nuevopudahuel.cl)
- - date_published: 2024-10-18T23:27:52.988724+00:00
-
- ## Home - AURA Observatory in Chile
- - [https://observatorioaura.cl](https://observatorioaura.cl)
- - date_published: 2024-07-01T07:00:48+00:00
-
- ## Home 
-	- Ojo donde estudias
- - [http://www.ojodondeestudias.cl](http://www.ojodondeestudias.cl)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Fabricante de autos alemán | Opel Chile
- - [https://opel.cl](https://opel.cl)
- - date_published: 2024-10-23T19:27:02+00:00
 

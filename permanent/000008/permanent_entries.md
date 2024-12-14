@@ -1,3 +1,48 @@
+ ## Filialfinder | BAWAG
+ - [https://filialsuche.bawag.at](https://filialsuche.bawag.at)
+ - date_published: 2024-09-26T16:41:39+00:00
+
+ ## Das Hilfe-Portal der BAWAG | BAWAG
+ - [https://hilfe.bawag.at](https://hilfe.bawag.at)
+ - date_published: 2024-09-27T09:32:27.084787+00:00
+
+ ## BAWAG
+ - [https://jobs-talent.bawag.at](https://jobs-talent.bawag.at)
+ - date_published: 2024-09-05T09:58:43+00:00
+
+ ## Konto eröffnen | BAWAG
+ - [https://konto.bawag.at](https://konto.bawag.at)
+ - date_published: 2024-09-26T15:44:43+00:00
+
+ ## LoanCalculator
+ - [https://kreditrechner.bawag.at](https://kreditrechner.bawag.at)
+ - date_published: 2024-06-27T12:29:17+00:00
+
+ ## Intro | Markets
+ - [https://markets.bawag.at](https://markets.bawag.at)
+ - date_published: 2024-09-27T09:32:08.936413+00:00
+
+ ## Building Information Modeling - Lösungen für Ihre BIM-Prozesse
+ - [http://beam.at](http://beam.at)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Beiersdorf - Home
+ - [https://www.beiersdorf.at](https://www.beiersdorf.at)
+ - date_published: 2024-10-22T09:02:44.846811+00:00
+
+ ## OBS – ORF Beitrag
+ - [https://orf.beitrag.at](https://orf.beitrag.at)
+ - date_published: 2024-10-22T12:16:53.031795+00:00
+
+ ## Belvedere Museum Wien | Startseite
+ - [https://www.belvedere.at](https://www.belvedere.at)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## BENEDICT GmbH in 1220 Wien, Österreich – Niederspannungs-Schaltgeräte / Startseite
+    }
+ - [https://www.benedict.at](https://www.benedict.at)
+ - date_published: 2024-10-16T09:03:22.406173+00:00
+
  ## Cashback
  - [https://benefitworld.at](https://benefitworld.at)
  - date_published: 2024-09-19T20:33:40.164582+00:00
@@ -249,6 +294,10 @@
  ## Meeting Destination Vienna
  - [https://www.vienna.convention.at](https://www.vienna.convention.at)
  - date_published: 2024-06-28T00:00:00+00:00
+
+ ## CoolPeople - Partner für die Bereitstellung von IT-Fähigkeiten
+ - [https://www.coolpeople.at](https://www.coolpeople.at)
+ - date_published: 2024-12-13T23:42:43.148427+00:00
 
  ## CoQuS
  - [http://www.coqus.at](http://www.coqus.at)
@@ -3608,6 +3657,10 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - [http://vrch.at](http://vrch.at)
  - date_published: 2024-07-19T21:49:08.102026+00:00
 
+ ## Österreichs größte Forschungseinrichtung auf dem Gebiet des Visual Computing
+ - [https://www.vrvis.at](https://www.vrvis.at)
+ - date_published: 2024-12-13T21:04:44.971505+00:00
+
  ## Zahnarzt Eisenstadt & Umgebung - Vukovits Zahnärzte
  - [https://vukovitsmayer-zahnarzt.at](https://vukovitsmayer-zahnarzt.at)
  - date_published: 2024-09-13T00:00:00+00:00
@@ -3960,56 +4013,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Project Zero
  - [https://googleprojectzero.blogspot.co.at](https://googleprojectzero.blogspot.co.at)
  - date_published: 2024-07-14T09:51:00+00:00
-
- ## Blogger
- - [http://grumbel.blogspot.co.at](http://grumbel.blogspot.co.at)
- - date_published: 2024-07-11T11:36:39.505736+00:00
-
- ## InsertScript
- - [https://insert-script.blogspot.co.at](https://insert-script.blogspot.co.at)
- - date_published: 2024-10-15T21:13:33+00:00
-
- ## Per caso, un bredese a Vienna
- - [https://stesosopra.blogspot.co.at](https://stesosopra.blogspot.co.at)
- - date_published: 2024-05-06T15:15:49.717625+00:00
-
- ## Wide Urban World
- - [https://wideurbanworld.blogspot.co.at](https://wideurbanworld.blogspot.co.at)
- - date_published: 2024-09-05T02:03:17+00:00
-
- ## The Royal Road
- - [https://xerxesmillion.blogspot.co.at](https://xerxesmillion.blogspot.co.at)
- - date_published: 2024-08-30T10:08:11+00:00
-
- ## Softwareagentur Mountain Media | Moving Mountains
- - [https://mountain.co.at](https://mountain.co.at)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Adressregister
- - [https://www.adressregister.gv.at](https://www.adressregister.gv.at)
- - date_published: 2023-05-10T11:54:10+00:00
-
- ## Bundesamt für Eich- und Vermessungswesen
- - [https://bev.gv.at](https://bev.gv.at)
- - date_published: 2024-09-13T16:21:37.491701+00:00
-
- ## GeoDaten Burgenland Servicestelle
- - [https://geodaten.bgld.gv.at](https://geodaten.bgld.gv.at)
- - date_published: 2024-09-13T16:20:08.435701+00:00
-
- ## Bundesministerium für Arbeit und Wirtschaft
- - [https://bmafj.gv.at](https://bmafj.gv.at)
- - date_published: 2024-10-22T11:29:09.699373+00:00
-
- ## Bundesministerium für Bildung, Wissenschaft und Forschung
- - [https://bmbwf.gv.at](https://bmbwf.gv.at)
- - date_published: 2024-07-02T22:20:14.596957+00:00
-
- ## Startseite
- - [https://www.bmeia.gv.at](https://www.bmeia.gv.at)
- - date_published: 2024-06-30T05:49:01.142198+00:00
-
- ## Das Bundesministerium für Finanzen
- - [https://bmf.gv.at](https://bmf.gv.at)
- - date_published: 2024-05-11T07:10:18.851381+00:00
 

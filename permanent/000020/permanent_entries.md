@@ -1,3 +1,183 @@
+ ## Peter A. Allard School of Law - University of British Columbia
+ - [http://www.law.ubc.ca](http://www.law.ubc.ca)
+ - date_published: 2024-06-17T03:50:54+00:00
+
+ ## Department of Mathematics |
+ - [https://www.math.ubc.ca](https://www.math.ubc.ca)
+ - date_published: 2024-06-30T08:33:07+00:00
+
+ ## Home - give UBC
+ - [https://www.support.ubc.ca](https://www.support.ubc.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## HOME | Carpenters Local 27 | Ontario
+ - [https://www.ubc27.ca](https://www.ubc27.ca)
+ - date_published: 2024-12-12T15:20:58.866570+00:00
+
+ ## Register your alumni.ucalgary.ca account :: Alumni Account Registration
+ - [https://alumniaccount.ucalgary.ca](https://alumniaccount.ucalgary.ca)
+ - date_published: 2024-07-21T08:54:42.126128+00:00
+
+ ## Home
+ - [https://alumni.ucalgary.ca](https://alumni.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:23.092883+00:00
+
+ ## arch magazine |
+ - [https://arch-magazine.ucalgary.ca](https://arch-magazine.ucalgary.ca)
+ - date_published: 2024-07-21T08:55:38.652244+00:00
+
+ ## arch magazine |
+ - [https://archmagazine.ucalgary.ca](https://archmagazine.ucalgary.ca)
+ - date_published: 2024-08-08T21:25:23.071588+00:00
+
+ ## ARTS Home
+ - [https://arts.ucalgary.ca](https://arts.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:04.568656+00:00
+
+ ## Home Page - ASC
+ - [https://asc.ucalgary.ca](https://asc.ucalgary.ca)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Home | Biogeoscience Institute
+ - [https://bgs.ucalgary.ca](https://bgs.ucalgary.ca)
+ - date_published: 2024-07-21T05:44:08+00:00
+
+ ## Building3D
+ - [https://building3d.ucalgary.ca](https://building3d.ucalgary.ca)
+ - date_published: 2023-05-30T00:00:00+00:00
+
+ ## UCalgary Catalog
+ - [https://calendar.ucalgary.ca](https://calendar.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:11.084098+00:00
+
+ ## University of Calgary Careers
+ - [https://careers.ucalgary.ca](https://careers.ucalgary.ca)
+ - date_published: 2024-04-30T05:25:44.543015+00:00
+
+ ## Home
+ - [https://charbonneau.ucalgary.ca](https://charbonneau.ucalgary.ca)
+ - date_published: 2024-07-21T02:46:36+00:00
+
+ ## University of Calgary Continuing Education
+ - [https://conted.ucalgary.ca](https://conted.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:07.255775+00:00
+
+ ## Clinical Research Unit
+ - [http://cru.ucalgary.ca](http://cru.ucalgary.ca)
+ - date_published: 2024-07-21T08:41:31.746529+00:00
+
+ ## PeopleSoft Single Signon
+ - [https://csprd.my.ucalgary.ca](https://csprd.my.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:18.567297+00:00
+
+ ## PeopleSoft Single Signon
+ - [https://csprd.ucalgary.ca](https://csprd.ucalgary.ca)
+ - date_published: 2024-07-06T02:31:21+00:00
+
+ ## Home | Cumming School of Medicine
+ - [https://cumming.ucalgary.ca](https://cumming.ucalgary.ca)
+ - date_published: 2024-04-30T05:25:33.062370+00:00
+
+ ## Central Authentication Service
+ - [https://d2l.ucalgary.ca](https://d2l.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:17.683243+00:00
+
+ ## Digital Collections
+ - [https://digitalcollections.ucalgary.ca](https://digitalcollections.ucalgary.ca)
+ - date_published: 2024-07-21T08:53:08.220111+00:00
+
+ ## BBIS Home Page - University of Calgary
+ - [https://engage.ucalgary.ca](https://engage.ucalgary.ca)
+ - date_published: 2024-07-21T08:50:59.184531+00:00
+
+ ## University of Calgary
+ - [https://events.ucalgary.ca](https://events.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:13.302387+00:00
+
+ ## Home
+ - [https://fsw.ucalgary.ca](https://fsw.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:30.903489+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://go.ucalgary.ca](https://go.ucalgary.ca)
+ - date_published: 2024-08-10T22:44:50.789341+00:00
+
+ ## Home
+ - [https://grad.ucalgary.ca](https://grad.ucalgary.ca)
+ - date_published: 2024-04-30T05:18:59.766574+00:00
+
+ ## Welcome to the Graduate Students’ Association of the University of Calgary!
+ - [https://gsa.ucalgary.ca](https://gsa.ucalgary.ca)
+ - date_published: 2016-05-28T03:15:57+00:00
+
+ ## Haskayne School of Business
+ - [https://haskayne.ucalgary.ca](https://haskayne.ucalgary.ca)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Home | HOTCHKISS BRAIN INSTITUTE
+ - [https://hbi.ucalgary.ca](https://hbi.ucalgary.ca)
+ - date_published: 2024-07-21T06:16:15+00:00
+
+ ## Home
+ - [http://iqst.ucalgary.ca](http://iqst.ucalgary.ca)
+ - date_published: 2024-07-20T16:50:32+00:00
+
+ ## Home
+ - [http://ispia.ucalgary.ca](http://ispia.ucalgary.ca)
+ - date_published: 2024-07-19T08:26:08+00:00
+
+ ## Registration :: IT Account Registration
+ - [https://itregport.ucalgary.ca](https://itregport.ucalgary.ca)
+ - date_published: 2024-07-21T08:57:20.360044+00:00
+
+ ## Home
+ - [https://it.ucalgary.ca](https://it.ucalgary.ca)
+ - date_published: 2024-07-19T12:54:25+00:00
+
+ ## Home
+ - [https://law.ucalgary.ca](https://law.ucalgary.ca)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## PeopleSoft Single Signon
+ - [https://learning.my.ucalgary.ca](https://learning.my.ucalgary.ca)
+ - date_published: 2024-07-08T21:46:13+00:00
+
+ ## Home | LIBIN CARDIOVASCULAR INSTITUTE
+ - [https://libin.ucalgary.ca](https://libin.ucalgary.ca)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## University of Calgary Libraries & Cultural Resources | University of Calgary Library
+ - [https://library.ucalgary.ca](https://library.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:29.671581+00:00
+
+ ## Top Degree Programs and Research in Canada
+ - [https://live-homepage.ucalgary.ca](https://live-homepage.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:13.022969+00:00
+
+ ## Home
+ - [https://live-qatar.ucalgary.ca](https://live-qatar.ucalgary.ca)
+ - date_published: 2024-07-21T08:49:28+00:00
+
+ ## Welcome to SAPL
+ - [https://live-sapl.ucalgary.ca](https://live-sapl.ucalgary.ca)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home
+ - [https://live-socialwork.ucalgary.ca](https://live-socialwork.ucalgary.ca)
+ - date_published: 2024-07-21T08:42:19+00:00
+
+ ## Home
+ - [https://live-spp.ucalgary.ca](https://live-spp.ucalgary.ca)
+ - date_published: 2024-07-19T17:30:01+00:00
+
+ ## Top Degree Programs and Research in Canada
+ - [https://live-ucalgary.ucalgary.ca](https://live-ucalgary.ucalgary.ca)
+ - date_published: 2024-07-21T05:39:39+00:00
+
+ ## Home
+ - [https://live-vet.ucalgary.ca](https://live-vet.ucalgary.ca)
+ - date_published: 2024-07-21T08:36:50.749729+00:00
+
  ## PeopleSoft Single Signon
  - [https://login.my.ucalgary.ca](https://login.my.ucalgary.ca)
  - date_published: 2021-05-25T15:05:13+00:00
@@ -3836,185 +4016,4 @@
  ## Sunday Sites
  - [https://sundaysites.cafe](https://sundaysites.cafe)
  - date_published: 2024-04-07T00:00:00+00:00
-
- ## The Coder Cafe | Teiva Harsanyi | Substack
- - [https://thecoder.cafe](https://thecoder.cafe)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## The Folkore Cafe
- - [https://thefolklore.cafe](https://thefolklore.cafe)
- - date_published: 2024-09-04T04:08:12.864702+00:00
-
- ## The Food Place
- - [https://thefoodplace.cafe](https://thefoodplace.cafe)
- - date_published: 2024-09-14T23:26:08.281150+00:00
-
- ## Théo Bori
- - [https://theobori.cafe](https://theobori.cafe)
- - date_published: 2024-08-08T15:33:07.836501+00:00
-
- ## im tosti
- - [https://blog.toast.cafe](https://blog.toast.cafe)
- - date_published: 2024-10-29T06:08:11.784771+00:00
-
- ## Pencil
- - [https://pencil.toast.cafe](https://pencil.toast.cafe)
- - date_published: 2023-10-25T12:09:51.787994+00:00
-
- ## Toot Café
- - [https://toot.cafe](https://toot.cafe)
- - date_published: 2023-10-25T12:09:53.298119+00:00
-
- ## troet.cafe  - Mastodon
- - [https://troet.cafe](https://troet.cafe)
- - date_published: 2024-04-29T06:14:07.312882+00:00
-
- ## Accueil - Unbon.cafe
- - [https://unbon.cafe](https://unbon.cafe)
- - date_published: 2022-12-31T17:47:13+00:00
-
- ## Une tasse de café
- - [https://une-tasse-de.cafe](https://une-tasse-de.cafe)
- - date_published: 2024-08-28T01:18:18+00:00
-
- ## VocaLounge
- - [https://vocalounge.cafe](https://vocalounge.cafe)
- - date_published: 2024-07-10T08:45:08.700397+00:00
-
- ## Deep Live Cam: Real-time face swapping and one-click video deepfake tool
- - [https://deeplive.cam](https://deeplive.cam)
- - date_published: 2024-08-10T13:05:48+00:00
-
- ## Halide Mark II: Pro. Camera. Action.
- - [https://halide.cam](https://halide.cam)
- - date_published: 2023-11-04T02:08:25+00:00
-
- ## Observing Time
- - [https://observingtime.cam](https://observingtime.cam)
- - date_published: 2024-08-11T21:09:56.664586+00:00
-
- ## Polycam Learn
- - [https://learn.poly.cam](https://learn.poly.cam)
- - date_published: 2024-04-30T05:35:06.503204+00:00
-
- ## Polycam - LiDAR & 3D Scanner for iPhone & Android
- - [https://poly.cam](https://poly.cam)
- - date_published: 2023-10-25T08:38:30.080927+00:00
-
- ## Spectre
- - [https://spectre.cam](https://spectre.cam)
- - date_published: 2024-04-30T05:35:11.723117+00:00
-
- ## Firewatch Camera - About
- - [https://firewatch.camera](https://firewatch.camera)
- - date_published: 2024-08-18T19:43:10.846653+00:00
-
- ## 💛 Locket Widget
- - [https://locket.camera](https://locket.camera)
- - date_published: 2024-08-01T19:02:38+00:00
-
- ## Lux
- - [https://lux.camera](https://lux.camera)
- - date_published: 2023-10-25T12:09:56.046567+00:00
-
- ## meow.camera
- - [https://meow.camera](https://meow.camera)
- - date_published: 2024-06-20T02:56:52.252276+00:00
-
- ## Telecast
- - [https://telecast.camera](https://telecast.camera)
- - date_published: 2024-07-14T08:30:21.733236+00:00
-
- ## VWFNDR
- - [https://vwfndr.camera](https://vwfndr.camera)
- - date_published: 2024-04-29T07:14:37.211339+00:00
-
- ## 1337 Bootcamp / Gaming House
- - [https://1337.camp](https://1337.camp)
- - date_published: 2024-07-13T13:23:12.891452+00:00
-
- ## AI Safety Camp
- - [https://aisafety.camp](https://aisafety.camp)
- - date_published: 2024-05-04T12:17:46.253900+00:00
-
- ## APCSCamp 2023 程式設計培訓營
- - [https://apcs.camp](https://apcs.camp)
- - date_published: 2023-08-01T16:42:28+00:00
-
- ## Clarity Camp | Write smart contracts for Bitcoin
- - [https://clarity.camp](https://clarity.camp)
- - date_published: 2024-09-09T13:50:16.313388+00:00
-
- ## Corbin.Camp
- - [https://corbin.camp](https://corbin.camp)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## deco.cx - Build high-performance Web Apps 10x faster | deco.cx
- - [https://deco.camp](https://deco.camp)
- - date_published: 2024-07-19T19:38:25.715418+00:00
-
- ## International Hacking & Cyber Security Community - DefCamp 2024
- - [https://def.camp](https://def.camp)
- - date_published: 2024-06-21T11:58:10.659942+00:00
-
- ## Dice.camp
- - [https://dice.camp](https://dice.camp)
- - date_published: 2024-05-12T05:41:48.220110+00:00
-
- ## Friend Camp
- - [https://friend.camp](https://friend.camp)
- - date_published: 2024-05-06T19:58:34.209137+00:00
-
- ## 𝔊𝔬𝔟𝔩𝔦𝔫 ℭ𝔞𝔪𝔭
- - [https://goblin.camp](https://goblin.camp)
- - date_published: 2024-09-18T23:09:50.641680+00:00
-
- ## IPFS Camp 2022
- - [https://2022.ipfs.camp](https://2022.ipfs.camp)
- - date_published: 2024-09-23T13:13:07.736340+00:00
-
- ## IPFS Camp 2024
- - [https://2024.ipfs.camp](https://2024.ipfs.camp)
- - date_published: 2024-09-23T13:05:36.640958+00:00
-
- ## Micro Camp: a virtual gathering of the Micro.blog community
- - [https://micro.camp](https://micro.camp)
- - date_published: 2024-05-04T07:00:21.898447+00:00
-
- ## Home - MOCA2024
- - [https://moca.camp](https://moca.camp)
- - date_published: 2024-06-20T16:14:02+00:00
-
- ## OpenCat Forum | Petoi LLC | United States
- - [https://petoi.camp](https://petoi.camp)
- - date_published: 2024-05-11T09:24:50.843560+00:00
-
- ## White Christian Family - The white Christian family is the foundation of Western civilization
- - [https://saints.camp](https://saints.camp)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Server.camp - Open-Source hosting made in Germany
- - [https://server.camp](https://server.camp)
- - date_published: 2024-09-02T14:49:19.240490+00:00
-
- ## Sleepawake Camp
- - [https://sleepawake.camp](https://sleepawake.camp)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Network Society Camp
- - [https://tns.camp](https://tns.camp)
- - date_published: 2024-09-24T20:47:27.713736+00:00
-
- ## VVoid Camp
- - [https://vvoid.camp](https://vvoid.camp)
- - date_published: 2024-06-22T19:00:03+00:00
-
- ## Canon Creative Park
- - [https://creativepark.canon](https://creativepark.canon)
- - date_published: 2024-04-30T05:35:17.800340+00:00
-
- ## Canon Global
- - [https://global.canon](https://global.canon)
- - date_published: 2023-10-25T12:10:02.392667+00:00
- - tags: ['company']
 

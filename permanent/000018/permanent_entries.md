@@ -1,3 +1,164 @@
+ ## Accueil - Cybereco
+ - [http://www.cybereco.ca](http://www.cybereco.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home
+ - [https://cyber-fortress.ca](https://cyber-fortress.ca)
+ - date_published: 2024-06-29T06:03:40.341256+00:00
+
+ ## Canadian Cyber Freedom
+ - [https://cyberfreedom.ca](https://cyberfreedom.ca)
+ - date_published: 2024-06-19T17:01:02+00:00
+
+ ## Groupe CyberSwat - Cybersécurité - On vous protège des pirates.
+ - [https://www.cyberswat.ca](https://www.cyberswat.ca)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Canadian Cycling Magazine
+ - [https://cyclingmagazine.ca](https://cyclingmagazine.ca)
+ - date_published: 2024-12-12T21:13:55.909911+00:00
+
+ ## Cypherpunks Canada
+ - [https://cypherpunks.ca](https://cypherpunks.ca)
+ - date_published: 2002-03-01T18:55:12+00:00
+
+ ## Off-the-Record Messaging
+ - [https://otr.cypherpunks.ca](https://otr.cypherpunks.ca)
+ - date_published: 2024-12-12T08:53:47.868803+00:00
+
+ ## Logo Design Vancouver - Web Design Vancouver - DesignEdge
+ - [https://d35ign.ca](https://d35ign.ca)
+ - date_published: 2024-07-17T07:06:25+00:00
+
+ ## AdChoices in Canada - Learn about the blue icon & your choices
+ - [https://daac.ca](https://daac.ca)
+ - date_published: 2024-09-16T03:08:15.888453+00:00
+
+ ## Daily Dive - News in 60 Words!
+ - [https://dailydive.ca](https://dailydive.ca)
+ - date_published: 2024-10-19T20:15:16.980347+00:00
+
+ ## Daily Guardian | Latest Canada News and Updates
+ - [https://dailyguardian.ca](https://dailyguardian.ca)
+ - date_published: 2021-01-13T21:29:55+00:00
+
+ ## Give Online - Dalhousie University
+ - [https://alumniapps2.dal.ca](https://alumniapps2.dal.ca)
+ - date_published: 2024-08-19T10:53:38.174841+00:00
+
+ ## Dalhousie University ‑ Nova Scotia, Canada
+ - [https://dal.ca](https://dal.ca)
+ - date_published: 2023-10-25T12:09:24.220580+00:00
+
+ ## Dal Online
+ - [https://dalonline.dal.ca](https://dalonline.dal.ca)
+ - date_published: 2016-11-15T12:50:53+00:00
+
+ ## main
+ - [https://directory.dal.ca](https://directory.dal.ca)
+ - date_published: 2024-08-19T10:53:46.664131+00:00
+
+ ## Department of English
+ - [http://english.dal.ca](http://english.dal.ca)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Event Calendar: Dalhousie University
+ - [https://events.dal.ca](https://events.dal.ca)
+ - date_published: 2024-08-15T03:03:32+00:00
+
+ ## Libraries
+ - [https://libraries.dal.ca](https://libraries.dal.ca)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Home | My Account
+ - [https://myaccount.dal.ca](https://myaccount.dal.ca)
+ - date_published: 1983-01-27T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://my.dal.ca](https://my.dal.ca)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Dalhousie University Libraries Journal Hosting Service
+ - [https://ojs.library.dal.ca](https://ojs.library.dal.ca)
+ - date_published: 2024-10-16T10:21:08.515205+00:00
+
+ ## Dalhousie University | Your Home for Lifelong Learning
+ - [https://registeratcontinuingeducation.dal.ca](https://registeratcontinuingeducation.dal.ca)
+ - date_published: 2024-08-19T10:53:48.630403+00:00
+
+ ## Christian W. Damus
+ - [https://damus.ca](https://damus.ca)
+ - date_published: 2024-07-18T12:20:30.439882+00:00
+
+ ## Daniel Frank – Frankly Speaking
+ - [https://danfrank.ca](https://danfrank.ca)
+ - date_published: 2024-06-19T02:11:12.251966+00:00
+
+ ## One of Canada’s Preeminent Builder and Developers
+ - [https://danielshomes.ca](https://danielshomes.ca)
+ - date_published: 2021-03-18T14:58:33+00:00
+
+ ## Dan Millar
+ - [https://danmillar.ca](https://danmillar.ca)
+ - date_published: 2024-04-08T09:33:51.903896+00:00
+ - tags: ['personal']
+
+ ## danso - home
+ - [https://danso.ca](https://danso.ca)
+ - date_published: 2024-04-07T15:12:43+00:00
+
+ ## Daniel Chan: searching for counterworlds
+ - [https://danwchan.ca](https://danwchan.ca)
+ - date_published: 2024-03-07T15:47:34+00:00
+
+ ## Dartmouth Seniors Service Centre
+ - [https://www.dartmouthseniors.ca](https://www.dartmouthseniors.ca)
+ - date_published: 2024-07-11T17:19:16.294170+00:00
+
+ ## Darts & Letters
+ - [https://dartsandletters.ca](https://dartsandletters.ca)
+ - date_published: 2024-05-08T05:04:43.852003+00:00
+
+ ## Dish Soap & Dishwashing Liquids | Dawn Dish Soap
+ - [https://dawn-dish.ca](https://dawn-dish.ca)
+ - date_published: 2024-09-04T08:09:56+00:00
+
+ ## Aaron Klotz’s Software Blog
+ - [https://dblohm7.ca](https://dblohm7.ca)
+ - date_published: 2023-12-14T17:06:16+00:00
+
+ ## Home | DEAF CULTURE CENTRE
+ - [https://deafculturecentre.ca](https://deafculturecentre.ca)
+ - date_published: 2024-12-12T04:33:33.048027+00:00
+
+ ## Canadian Jewelry Designer Dean Davidson
+ - [https://www.deandavidson.ca](https://www.deandavidson.ca)
+ - date_published: 2024-10-29T04:18:40.721865+00:00
+
+ ## Death Matters – Planning Together for End of Life
+ - [https://deathmatters.ca](https://deathmatters.ca)
+ - date_published: 2024-06-30T05:13:39.372583+00:00
+
+ ## Activités sportives et cours de sport - Decathlon Community Decathlon Activités
+ - [https://activities.decathlon.ca](https://activities.decathlon.ca)
+ - date_published: 2024-09-19T15:46:27.191037+00:00
+
+ ## Discover Decathlon
+ - [https://advice.decathlon.ca](https://advice.decathlon.ca)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Découvrez Decathlon
+ - [https://conseils.decathlon.ca](https://conseils.decathlon.ca)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Get that summer wishlist ready! - Decathlon Canada
+ - [https://decathlon.ca](https://decathlon.ca)
+ - date_published: 2024-05-01T04:26:57.619828+00:00
+
+ ## Home
+ - [https://giftcard.decathlon.ca](https://giftcard.decathlon.ca)
+ - date_published: 2024-09-19T15:49:33.540384+00:00
+
  ## The DECromancer Archive
  - [https://archive.decromancer.ca](https://archive.decromancer.ca)
  - date_published: 2021-12-08T18:44:00+00:00
@@ -419,6 +580,10 @@
  ## Attention Required! | Cloudflare
  - [https://www.edealer.ca](https://www.edealer.ca)
  - date_published: 2024-06-26T22:36:33.392327+00:00
+
+ ## Ed Rice
+ - [http://edgarriceburroughs.ca](http://edgarriceburroughs.ca)
+ - date_published: 2024-12-13T04:14:46.432514+00:00
 
  ## Web Design & Digital Marketing Red Deer | Red Deer Web Design | EDGE Marketing
  - [https://www.edgemarketing.ca](https://www.edgemarketing.ca)
@@ -1636,7 +1801,7 @@
  - date_published: 2024-06-27T13:06:40.193523+00:00
 
  ## Hair Care and Styling Products | Herbal Essences
- - [https://www.herbalessences.ca](https://www.herbalessences.ca)
+ - [https://herbalessences.ca](https://herbalessences.ca)
  - date_published: 2024-09-03T11:01:22+00:00
 
  ## Heritage Park Homepage | Heritage Park
@@ -2034,6 +2199,10 @@
  - [https://www.inthemargins.ca](https://www.inthemargins.ca)
  - date_published: 2024-04-03T12:44:39.135509+00:00
  - tags: ['personal']
+
+ ## Medicinal and Psychotherapeutic Uses of Cannabis
+ - [http://intraspec.ca](http://intraspec.ca)
+ - date_published: 2024-12-13T06:25:00.129737+00:00
 
  ## Accueil ProFile
  - [http://profilefrancais.intuit.ca](http://profilefrancais.intuit.ca)
@@ -3869,173 +4038,4 @@
  ## Home - NCTR
  - [https://nctr.ca](https://nctr.ca)
  - date_published: 2024-04-05T00:00:00+00:00
-
- ## Truth and Reconciliation Week – Taking Truth to Action
- - [https://trw-svr.nctr.ca](https://trw-svr.nctr.ca)
- - date_published: 2024-08-11T07:13:30.434516+00:00
-
- ## Nicolas' Blog
- - [http://ndufresne.ca](http://ndufresne.ca)
- - date_published: 2024-07-14T03:15:23.132045+00:00
-
- ## NEADS
- - [https://www.neads.ca](https://www.neads.ca)
- - date_published: 2024-08-09T03:53:07.924596+00:00
-
- ## Kev – Asleep at the Wheel 40 Miles Left to Go
- - [https://kev.needham.ca](https://kev.needham.ca)
- - date_published: 2024-07-07T10:33:04.849671+00:00
-
- ## Cloud DataWorks - Fast Secure Canadian Cloud Hosting
- - [http://www.nelsonpilots.ca](http://www.nelsonpilots.ca)
- - date_published: 2024-07-09T22:20:00.531549+00:00
-
- ## Home
- - [https://www.corporate.nestle.ca](https://www.corporate.nestle.ca)
- - date_published: 2024-09-14T19:22:37+00:00
-
- ## We proudly serve Starbucks®
- - [https://www.solutions.nestleprofessional.ca](https://www.solutions.nestleprofessional.ca)
- - date_published: 2024-10-02T11:36:51+00:00
-
- ## The New Campus - Building 21st-century health care in the heart of the nation’s capital
- - [https://newcampusdevelopment.ca](https://newcampusdevelopment.ca)
- - date_published: 2024-06-27T17:16:17.066117+00:00
-
- ## Battlefords News Optimist - All News
- - [https://newsoptimist.ca](https://newsoptimist.ca)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Cision: Contact Cision in Canada
- - [http://account.newswire.ca](http://account.newswire.ca)
- - date_published: 2024-10-16T19:02:41+00:00
-
- ## Press Release Distribution Service | Newswire
- - [https://newswire.ca](https://newswire.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## New West Record  | All
- - [http://classifieds.newwestrecord.ca](http://classifieds.newwestrecord.ca)
- - date_published: 2024-06-27T12:55:05.312119+00:00
-
- ## New Westminster Local News
- - [https://www.newwestrecord.ca](https://www.newwestrecord.ca)
- - date_published: 2024-05-06T21:30:18.696305+00:00
-
- ## Convoy | Accounting and CFO services for Startups
- - [https://www.nexoacpa.ca](https://www.nexoacpa.ca)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Next Gen Men
- - [https://nextgenmen.ca](https://nextgenmen.ca)
- - date_published: 2024-08-18T08:59:21.131332+00:00
-
- ## Next Solutions
- - [https://next-solutions.ca](https://next-solutions.ca)
- - date_published: 2024-06-22T15:50:50.509924+00:00
-
- ## Next Step Advisors - Family Enterprise Advisors
- - [https://nextstepadvisors.ca](https://nextstepadvisors.ca)
- - date_published: 2024-04-30T05:14:42.706267+00:00
-
- ## NFB Blog
- - [https://blog.nfb.ca](https://blog.nfb.ca)
- - date_published: 2024-08-19T10:54:19.620296+00:00
-
- ## NFB Collection
- - [https://collection.nfb.ca](https://collection.nfb.ca)
- - date_published: 2024-08-19T10:54:32.333239+00:00
-
- ## Screenings - Events
- - [https://events.nfb.ca](https://events.nfb.ca)
- - date_published: 2024-08-19T10:54:28.977541+00:00
-
- ## Help Center
- - [http://help.nfb.ca](http://help.nfb.ca)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Work at the NFB
- - [https://jobs.nfb.ca](https://jobs.nfb.ca)
- - date_published: 2024-08-19T10:54:41.098172+00:00
-
- ## Accueil - Media Space
- - [http://mediaspace.nfb.ca](http://mediaspace.nfb.ca)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## National Film Board of Canada
- - [https://nfb.ca](https://nfb.ca)
- - date_published: 2023-10-25T12:06:29.183270+00:00
-
- ## Create with the NFB - NFB Production
- - [https://production.nfbonf.ca](https://production.nfbonf.ca)
- - date_published: 2024-08-19T10:54:22.011136+00:00
-
- ## Home | NGen: Next Generation Manufacturing Canada
- - [https://www.ngen.ca](https://www.ngen.ca)
- - date_published: 2024-09-03T21:17:15+00:00
-
- ## Libraries   Learning Commons: ncLibraries: Libraries
- - [http://nclibraries.niagaracollege.ca](http://nclibraries.niagaracollege.ca)
- - date_published: 2024-07-15T03:53:54.008188+00:00
-
- ## Nick's blog
- - [https://nickhuber.ca](https://nickhuber.ca)
- - date_published: 2023-12-12T05:21:05+00:00
-
- ## Nikhita Joshi
- - [https://nikhitajoshi.ca](https://nikhitajoshi.ca)
- - date_published: 2024-06-23T15:48:46+00:00
-
- ## Nimbus Publishing and Vagrant Press - Nimbus Publishing and Vagrant Press
- - [https://nimbus.ca](https://nimbus.ca)
- - date_published: 2024-02-08T16:58:46.348982+00:00
-
- ## You find yourself in a room...
- - [https://njms.ca](https://njms.ca)
- - date_published: 2024-07-22T05:26:50+00:00
-
- ## Nathaniel Johnston
- - [https://njohnston.ca](https://njohnston.ca)
- - date_published: 2024-04-23T14:36:52+00:00
- - tags: ['personal']
-
- ## No IHRA
- - [https://www.noihra.ca](https://www.noihra.ca)
- - date_published: 2024-10-21T19:06:52.427259+00:00
-
- ## Website | Graphic design Surrey, Langley, Vancouver
- - [http://www.nolimitproductions.ca](http://www.nolimitproductions.ca)
- - date_published: 2024-12-12T11:24:13.047886+00:00
-
- ## No Medical Life Insurance Quotes in Canada - Coverage for Everyone!
- - [http://nomedicallifeinsurance.ca](http://nomedicallifeinsurance.ca)
- - date_published: 2024-07-17T04:38:51.790798+00:00
-
- ## Noovo Moi | Lifestyle : mode, beauté, maison, animaux, santé, vedettes
- - [https://www.noovomoi.ca](https://www.noovomoi.ca)
- - date_published: 2024-07-20T02:23:14+00:00
-
- ## Norang Public Documents
- - [http://doc.norang.ca](http://doc.norang.ca)
- - date_published: 2023-12-16T17:09:57+00:00
-
- ## Edmonton's community college. See yourself here. | NorQuest College
- - [https://www.norquest.ca](https://www.norquest.ca)
- - date_published: 2024-10-29T04:19:12.312088+00:00
-
- ## Luxury Wide Plank Hardwood Floors; Specialty Reclaimed Wood Flooring
- - [https://northernwideplank.ca](https://northernwideplank.ca)
- - date_published: 2024-06-17T10:15:14.095672+00:00
-
- ## Index of /
- - [http://alpine.northrepo.ca](http://alpine.northrepo.ca)
- - date_published: 2024-07-20T15:59:25.429987+00:00
-
- ## NorthStar
- - [https://online.northstarbets.ca](https://online.northstarbets.ca)
- - date_published: 2024-06-22T11:04:30+00:00
-
- ## NorthStar
- - [https://www.northstarbets.ca](https://www.northstarbets.ca)
- - date_published: 2024-05-06T14:31:12.345551+00:00
 

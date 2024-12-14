@@ -1,3 +1,27 @@
+ ## Financial Crypto 2015 -- Home
+ - [http://fc15.ifca.ai](http://fc15.ifca.ai)
+ - date_published: 2024-10-27T12:06:05.380626+00:00
+
+ ## FC'16 : Financial Cryptography 2016
+ - [https://fc16.ifca.ai](https://fc16.ifca.ai)
+ - date_published: 2024-05-02T09:52:19.581294+00:00
+
+ ## FC'17 : Financial Cryptography 2017
+ - [http://fc17.ifca.ai](http://fc17.ifca.ai)
+ - date_published: 2024-07-03T03:24:36.051570+00:00
+
+ ## FC'18 : Financial Cryptography 2018
+ - [https://fc18.ifca.ai](https://fc18.ifca.ai)
+ - date_published: 2024-05-06T15:13:18.091009+00:00
+
+ ## FC'19 : Financial Cryptography 2019
+ - [https://fc19.ifca.ai](https://fc19.ifca.ai)
+ - date_published: 2024-07-03T03:25:25.683895+00:00
+
+ ## FC'20 : Financial Cryptography 2020
+ - [https://fc20.ifca.ai](https://fc20.ifca.ai)
+ - date_published: 2024-05-02T09:52:22.693822+00:00
+
  ## FC'23 : Financial Cryptography 2023
  - [http://fc23.ifca.ai](http://fc23.ifca.ai)
  - date_published: 2024-08-18T07:32:55.976794+00:00
@@ -1687,10 +1711,6 @@
  - [https://magictool.ai](https://magictool.ai)
  - date_published: 2024-07-05T10:45:32+00:00
 
- ## Magic Tool AI. The ultimate productivity hub for all your needs.
- - [https://www.magictool.ai](https://www.magictool.ai)
- - date_published: 2024-07-05T10:45:32+00:00
-
  ## PropertyPen
  - [https://try.magictools.ai](https://try.magictools.ai)
  - date_published: 2024-06-19T20:41:26.313209+00:00
@@ -2478,10 +2498,6 @@
  ## ChatGPT and AI Mobile App | Nack
  - [https://nack.ai](https://nack.ai)
  - date_published: 2024-08-24T00:56:22+00:00
-
- ## ChatGPT and AI Mobile App | Nack
- - [https://www.nack.ai](https://www.nack.ai)
- - date_published: 2024-06-19T19:18:32.445016+00:00
 
  ## Name Drop AI
  - [https://name-drop.ai](https://name-drop.ai)
@@ -4004,20 +4020,4 @@
  ## Cognee - We help you build deterministic AI memory
  - [https://www.prometh.ai](https://www.prometh.ai)
  - date_published: 2024-06-19T19:50:46.126889+00:00
-
- ## PromptBox : Save, Share & Paste Repetative Text
- - [https://promptbox.ai](https://promptbox.ai)
- - date_published: 2024-10-30T21:03:32.383126+00:00
-
- ## Prompt Engineering Guide – Nextra
- - [https://promptingguide.ai](https://promptingguide.ai)
- - date_published: 2024-04-29T07:57:30.108750+00:00
-
- ## Professionelles Prompting
- - [https://promptwhispering.ai](https://promptwhispering.ai)
- - date_published: 2024-06-17T01:47:09.248648+00:00
-
- ## Promtify - Your Gateway to AI-Powered Content Generation
- - [https://www.promtify.ai](https://www.promtify.ai)
- - date_published: 2024-05-01T00:00:00+00:00
 
