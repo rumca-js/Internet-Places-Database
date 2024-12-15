@@ -1,3 +1,167 @@
+ ## Canal de Denúncias para Empresas
+ - [https://canaldaetica.com.br](https://canaldaetica.com.br)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## Canaltech - Notícias de Tecnologia, Ciência e Entretenimento
+ - [https://canaltech.com.br](https://canaltech.com.br)
+ - date_published: 2024-10-30T08:18:34.749973+00:00
+
+ ## Capterra Brasil ajuda você a encontrar o software certo para sua empresa
+ - [https://www.capterra.com.br](https://www.capterra.com.br)
+ - date_published: 2024-07-20T19:26:34.338604+00:00
+
+ ## Carlinhos Brown - Oficial
+ - [http://www.carlinhosbrown.com.br](http://www.carlinhosbrown.com.br)
+ - date_published: 2020-06-23T00:00:00+00:00
+
+ ## Casas de Apostas - Casa de Apostas
+ - [https://casaapostas.com.br](https://casaapostas.com.br)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Casa do Código - Livros para Devs!
+ - [https://www.casadocodigo.com.br](https://www.casadocodigo.com.br)
+ - date_published: 2024-07-21T07:09:51.236127+00:00
+
+ ## Homepage
+ - [https://casinoble.com.br](https://casinoble.com.br)
+ - date_published: 2024-09-19T20:32:22.850658+00:00
+
+ ## CASU/UFMG
+ - [https://casu.com.br](https://casu.com.br)
+ - date_published: 2024-05-11T08:08:40.024641+00:00
+
+ ## CAURJ
+ - [https://www.caurj.com.br](https://www.caurj.com.br)
+ - date_published: 2024-07-13T18:13:33.187041+00:00
+
+ ## CAURN – Caixa Assistencial Universitária do Rio Grande do Norte | O plano de saúde dos funcionários da UFRN, IFRN e Entidades Associadas
+ - [http://www.caurn.com.br](http://www.caurn.com.br)
+ - date_published: 2024-07-13T18:13:30.765394+00:00
+
+ ## CBN Ribeirão Preto
+ - [https://www.cbnribeirao.com.br](https://www.cbnribeirao.com.br)
+ - date_published: 2023-05-30T21:46:25+00:00
+
+ ## Revendas CEDET
+ - [https://revendas.cedet.com.br](https://revendas.cedet.com.br)
+ - date_published: 2024-06-21T19:58:14.080606+00:00
+
+ ## Celso Palmeira Neto's HP
+ - [https://celsoneto.com.br](https://celsoneto.com.br)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Cetaphil | #1 marca mais recomendada por dermatologistas
+ - [https://www.cetaphil.com.br](https://www.cetaphil.com.br)
+ - date_published: 2024-10-30T23:04:34.366102+00:00
+
+ ## Chrysler Home
+ - [https://www.chrysler.com.br](https://www.chrysler.com.br)
+ - date_published: 2024-06-17T11:44:17+00:00
+
+ ## CineBuzz
+ - [https://cinebuzz.com.br](https://cinebuzz.com.br)
+ - date_published: 2024-07-11T17:33:12+00:00
+
+ ## Citroën Home
+ - [https://citroen.com.br](https://citroen.com.br)
+ - date_published: 2023-12-11T16:02:47.705230+00:00
+
+ ## Citroën Advisor – Compartilhe Sua Opinião
+ - [http://www.citroen-advisor.com.br](http://www.citroen-advisor.com.br)
+ - date_published: 2024-06-19T08:44:57.011167+00:00
+
+ ## Linkbynet - En construction
+ - [https://www.citroenorigins.com.br](https://www.citroenorigins.com.br)
+ - date_published: 2018-04-18T13:00:13+00:00
+
+ ## GZH - notícias, porto alegre, grêmio, inter, colunistas, jogos ao vivo e mais
+ - [https://gauchazh.clicrbs.com.br](https://gauchazh.clicrbs.com.br)
+ - date_published: 2024-10-30T05:31:41.697543+00:00
+
+ ## O Tempo
+ - [https://www.climadobrasil.com.br](https://www.climadobrasil.com.br)
+ - date_published: 2024-06-25T17:30:51.425105+00:00
+
+ ## Clima & Radar Brasil
+ - [https://climaeradar.com.br](https://climaeradar.com.br)
+ - date_published: 2024-05-07T13:25:28.245646+00:00
+
+ ## Climate FieldView - Plataforma de Agricultura Digital
+ - [https://climatefieldview.com.br](https://climatefieldview.com.br)
+ - date_published: 2024-10-22T21:34:19.797636+00:00
+
+ ## Advisor - API de previsão do tempo.
+ - [https://advisor.climatempo.com.br](https://advisor.climatempo.com.br)
+ - date_published: 2019-06-10T19:33:45+00:00
+
+ ## Tudo sobre o tempo, clima e o agro: fique por dentro da previsão e das notícias no Agroclima
+ - [https://agroclima.climatempo.com.br](https://agroclima.climatempo.com.br)
+ - date_published: 2024-10-28T12:26:46+00:00
+
+ ## Agrotalk - Podcast da Climatempo, Ouça agora! | Climatempo
+ - [https://agrotalk.climatempo.com.br](https://agrotalk.climatempo.com.br)
+ - date_published: 2024-10-28T12:28:17+00:00
+
+ ## Pédagua | Alagamentos, Chuva, Raios e Ventos tudo em um só aplicativo para você se prevenir - By Climatempo
+ - [https://pedagua.climatempo.com.br](https://pedagua.climatempo.com.br)
+ - date_published: 2024-10-28T12:29:14.649381+00:00
+
+ ## Clima e previsão do tempo: Meteorologia é na Climatempo!
+ - [https://www.climatempo.com.br](https://www.climatempo.com.br)
+ - date_published: 2024-06-19T08:25:30.872543+00:00
+
+ ## Blog CloudScript
+ - [https://blog.cloudscript.com.br](https://blog.cloudscript.com.br)
+ - date_published: 2024-07-13T09:31:41.909631+00:00
+
+ ## 'Serviços em Cloud Computing | CloudScript'
+ - [https://cloudscript.com.br](https://cloudscript.com.br)
+ - date_published: 2024-05-11T07:03:29.671668+00:00
+
+ ## Cloud Summit Cerrado 2024
+ - [https://www.cloudsummitcerrado.com.br](https://www.cloudsummitcerrado.com.br)
+ - date_published: 2024-05-15T13:49:43+00:00
+
+ ## Resort all-Inclusive: viagens no Brasil e no mundo | Club Med
+ - [https://www.clubmed.com.br](https://www.clubmed.com.br)
+ - date_published: 2024-05-10T06:56:17.662518+00:00
+
+ ## Working at Club Med
+ - [http://www.clubmedjobs.com.br](http://www.clubmedjobs.com.br)
+ - date_published: 2024-07-13T02:14:17.693263+00:00
+
+ ## Comunidade das Nações – Fortaleza/CE
+ - [https://cnfortaleza.com.br](https://cnfortaleza.com.br)
+ - date_published: 2024-12-12T06:47:14.567320+00:00
+
+ ## CNN Brasil
+ - [https://www.cnnbrasil.com.br](https://www.cnnbrasil.com.br)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## CBR
+ - [https://codigobrazuca.com.br](https://codigobrazuca.com.br)
+ - date_published: 2024-06-16T05:05:22.581828+00:00
+
+ ## Código Fonte – Tecnologia de [a-Z]
+ - [https://codigofonte.com.br](https://codigofonte.com.br)
+ - date_published: 2024-05-06T14:19:59.313706+00:00
+
+ ## Compilado do Código Fonte TV
+ - [https://compilado.codigofonte.com.br](https://compilado.codigofonte.com.br)
+ - date_published: 2024-06-23T12:31:07.690087+00:00
+
+ ## Pesquisa Salarial de Programadores 2024 - Código Fonte TV
+ - [https://pesquisa.codigofonte.com.br](https://pesquisa.codigofonte.com.br)
+ - date_published: 2024-06-23T12:31:10.754794+00:00
+
+ ## Cointimes | Ganhe crypto todo dia lendo, navegando ou comprando
+ - [https://cointimes.com.br](https://cointimes.com.br)
+ - date_published: 2024-08-29T00:00:00+00:00
+
+ ## Saúde e Cuidado Bucal | Colgate®
+ - [https://www.colgate.com.br](https://www.colgate.com.br)
+ - date_published: 2021-05-17T00:00:00+00:00
+
  ## Collabora | Consultoria Open Source
  - [https://collabora.com.br](https://collabora.com.br)
  - date_published: 2022-09-28T21:26:08+00:00
@@ -769,6 +933,10 @@
  - [https://gettyimages.com.br](https://gettyimages.com.br)
  - date_published: 2024-10-31T20:05:40.887742+00:00
 
+ ## Glami.com.br - Nós amamos moda
+ - [https://www.glami.com.br](https://www.glami.com.br)
+ - date_published: 2024-12-14T05:24:56.672269+00:00
+
  ## Glassdoor Help Center
  - [https://ajuda.glassdoor.com.br](https://ajuda.glassdoor.com.br)
  - date_published: 2023-07-12T20:05:46+00:00
@@ -985,6 +1153,10 @@
  ## Intel | Soluções para data center, Internet das Coisas e inovação...
  - [https://intel.com.br](https://intel.com.br)
  - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Internova Radio web
+ - [http://www.internovaradio.com.br](http://www.internovaradio.com.br)
+ - date_published: 2024-12-14T17:40:28.967421+00:00
 
  ## Homepage | Intesa Sanpaolo Banche Estere
  - [https://www.intesasanpaolobrasil.com.br](https://www.intesasanpaolobrasil.com.br)
@@ -1734,6 +1906,10 @@
  - [https://phoenixnap.com.br](https://phoenixnap.com.br)
  - date_published: 2024-06-18T00:00:00+00:00
 
+ ## Piloti Mobile & Internet
+ - [http://www.piloti.com.br](http://www.piloti.com.br)
+ - date_published: 2024-12-14T16:03:48.759374+00:00
+
  ## Pin Up Brasil 🎰 Descubra o Melhor do Pin-Up Oficial e Ganhe Hoje
  - [https://pin-ups.com.br](https://pin-ups.com.br)
  - date_published: 2024-09-10T13:35:32.367174+00:00
@@ -1948,7 +2124,7 @@
  - date_published: 2024-07-11T17:33:19.111256+00:00
 
  ## Loja oficial da Red Bull | Seja parte da ação
- - [https://www.redbullshop.com.br](https://www.redbullshop.com.br)
+ - [https://redbullshop.com.br](https://redbullshop.com.br)
  - date_published: 2024-10-31T13:30:10.370745+00:00
 
  ## Rede D'Or São Luiz - Home
@@ -2010,6 +2186,10 @@
  ## Editora Rocco – Loja virtual da Editora Rocco
  - [https://rocco.com.br](https://rocco.com.br)
  - date_published: 2024-05-12T05:44:54.068899+00:00
+
+ ## Rock in Love
+ - [http://www.rockinlove.com.br](http://www.rockinlove.com.br)
+ - date_published: 2024-12-14T17:40:14.581244+00:00
 
  ## Rodrigo Ghedin | rodrigo.ghed.in
  - [http://www.rodrigoghedin.com.br](http://www.rodrigoghedin.com.br)
@@ -2475,6 +2655,10 @@
  - [https://www.transfermarkt.com.br](https://www.transfermarkt.com.br)
  - date_published: 2024-07-24T06:29:55.780017+00:00
 
+ ## Tray | Tudo o que você precisa para vender online
+ - [https://www.tray.com.br](https://www.tray.com.br)
+ - date_published: 2024-12-14T17:05:01.156877+00:00
+
  ## Treine Basquete
  - [https://treinebasquete.com.br](https://treinebasquete.com.br)
  - date_published: 2021-10-17T18:55:26+00:00
@@ -2688,6 +2872,10 @@
  - date_published: 2024-06-12T11:20:08.862192+00:00
 
  ## Valeo Service Brasil
+ - [https://valeoservice.com.br](https://valeoservice.com.br)
+ - date_published: 2024-12-14T11:50:33+00:00
+
+ ## Valeo Service Brasil
  - [https://www.valeoservice.com.br](https://www.valeoservice.com.br)
  - date_published: 2024-10-31T11:23:50+00:00
 
@@ -2878,6 +3066,10 @@
  ## YouTube
  - [https://youtube.com.br](https://youtube.com.br)
  - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Consultoria em ERP, E-commerce e Marketplaces | Zachary
+ - [https://www.zachary.com.br](https://www.zachary.com.br)
+ - date_published: 2023-07-05T11:59:00+00:00
 
  ## Zappeando
  - [https://www.zappeando.com.br](https://www.zappeando.com.br)
@@ -3410,6 +3602,10 @@
  - [https://anm.org.br](https://anm.org.br)
  - date_published: 2024-06-12T13:17:10.907097+00:00
 
+ ## ANPEC - Associação Nacional dos Centros de Pós-graduação em Economia
+ - [http://www.anpec.org.br](http://www.anpec.org.br)
+ - date_published: 2024-12-14T16:03:38.253759+00:00
+
  ## Home Nova - ANPG
  - [https://www.anpg.org.br](https://www.anpg.org.br)
  - date_published: 2024-01-02T00:00:00+00:00
@@ -3816,200 +4012,4 @@
  ## Gabinete do Vice-Prefeito - Prefeitura de Curitiba
  - [https://gabineteviceprefeito.curitiba.pr.gov.br](https://gabineteviceprefeito.curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:21.324685+00:00
-
- ## Guia - Prefeitura de Curitiba
- - [https://guia.curitiba.pr.gov.br](https://guia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:49.203800+00:00
-
- ## Home Page - ICICore.Servidor
- - [https://hubchat-siac156.curitiba.pr.gov.br](https://hubchat-siac156.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:23.930507+00:00
-
- ## IMAP
- - [https://imap.curitiba.pr.gov.br](https://imap.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:17:11.734092+00:00
-
- ## ImunizaJáCuritiba - Prefeitura de Curitiba
- - [https://imunizaja.curitiba.pr.gov.br](https://imunizaja.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:27:11.062792+00:00
-
- ## Consulta Externa de Atos
- - [https://legisladocexterno.curitiba.pr.gov.br](https://legisladocexterno.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:27.832937+00:00
-
- ## mid-guia.curitiba.pr.gov.br - /
- - [https://mid-guia.curitiba.pr.gov.br](https://mid-guia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:43.588967+00:00
-
- ## mid-servidor.curitiba.pr.gov.br - /
- - [https://mid-servidor.curitiba.pr.gov.br](https://mid-servidor.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:19:55.374914+00:00
-
- ## Turismo - Prefeitura de Curitiba
- - [https://mid-turismo.curitiba.pr.gov.br](https://mid-turismo.curitiba.pr.gov.br)
- - date_published: 2014-11-03T12:35:14+00:00
-
- ## Orçamento e Planejamento
- - [https://orcamentos.curitiba.pr.gov.br](https://orcamentos.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:01.327323+00:00
-
- ## Portal dos Conselhos
- - [https://portaldosconselhos.curitiba.pr.gov.br](https://portaldosconselhos.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:05.549511+00:00
-
- ## Secretaria Municipal da Saúde de Curitiba
- - [https://saude.curitiba.pr.gov.br](https://saude.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:26:45.599666+00:00
-
- ## Saúde Já Curitiba - Prefeitura de Curitiba
- - [https://saudeja.curitiba.pr.gov.br](https://saudeja.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:27:14.080221+00:00
-
- ## Portal do Servidor de Curitiba
- - [https://servidor.curitiba.pr.gov.br](https://servidor.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:57.625983+00:00
-
- ## Trânsito - Secretaria Municipal de Defesa Social e Trânsito
- - [https://transito.curitiba.pr.gov.br](https://transito.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:28.545524+00:00
-
- ## Instituto Municipal de Turismo de Curitiba
- - [https://turismo.curitiba.pr.gov.br](https://turismo.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:47.891023+00:00
-
- ## URBS - Urbanização de Curitiba
- - [https://urbs.curitiba.pr.gov.br](https://urbs.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:17:58.059160+00:00
-
- ## Portal da Transparência da Prefeitura de Curitiba
- - [https://www.transparencia.curitiba.pr.gov.br](https://www.transparencia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:16.818256+00:00
-
- ## Home
- - [https://emanoel.pro.br](https://emanoel.pro.br)
- - date_published: 2024-06-10T12:02:18+00:00
-
- ## Eriberto Mota
- - [https://eriberto.pro.br](https://eriberto.pro.br)
- - date_published: 2024-07-09T07:56:43.300230+00:00
-
- ## Paulo Ghiraldelli
- - [https://ghiraldelli.pro.br](https://ghiraldelli.pro.br)
- - date_published: 2024-05-07T18:22:04.178518+00:00
-
- ## Sérgio Ferreira de Lima, Sérgio F. Lima, Sérgio Lima, oigreslima
- - [https://sfl.pro.br](https://sfl.pro.br)
- - date_published: 2024-07-28T21:02:03+00:00
-
- ## SHOUTcast Server
- - [https://nos.radio.br](https://nos.radio.br)
- - date_published: 2017-08-24T00:00:00+00:00
-
- ## Expointer
- - [https://www.expointer.rs.gov.br](https://www.expointer.rs.gov.br)
- - date_published: 2024-08-18T12:22:01.415893+00:00
-
- ## Plano Rio Grande
- - [https://planoriogrande.rs.gov.br](https://planoriogrande.rs.gov.br)
- - date_published: 2024-10-22T12:34:20.119779+00:00
-
- ## Início - Prefeitura de São Paulo - Prefeitura
- - [https://www.capital.sp.gov.br](https://www.capital.sp.gov.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Investe SP - Portal de Investimentos do Estado de São Paulo
- - [https://www.investe.sp.gov.br](https://www.investe.sp.gov.br)
- - date_published: 2024-06-26T21:57:36.307248+00:00
-
- ## Início - Prefeitura de São Paulo - Prefeitura
- - [https://www.prefeitura.sp.gov.br](https://www.prefeitura.sp.gov.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home | Governo do Estado de São Paulo
- - [https://www.saopaulo.sp.gov.br](https://www.saopaulo.sp.gov.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Baffa-2+ Computer
- - [https://baffa-2p.baffa.tec.br](https://baffa-2p.baffa.tec.br)
- - date_published: 2023-11-23T03:00:00+00:00
-
- ## Baffa Homebrew Projects
- - [https://computers.baffa.tec.br](https://computers.baffa.tec.br)
- - date_published: 2023-11-23T03:00:00+00:00
-
- ## Login  - Mídia de Impacto
- - [http://painel.sintonizar.tv.br](http://painel.sintonizar.tv.br)
- - date_published: 2024-08-11T19:59:20.739428+00:00
-
- ## BANCO BRADESCO | Desafie o futuro
- - [https://banco.bradesco](https://banco.bradesco)
- - date_published: 2024-07-09T19:15:33.297619+00:00
-
- ## Darmowe szablony do wydrukowania i dostosowywania | Creative Center
- - [https://www.creativecenter.brother](https://www.creativecenter.brother)
- - date_published: 2024-05-02T11:28:15.164126+00:00
-
- ## Industrial Garment Printer | Brother
- - [https://garmentprinter.global.brother](https://garmentprinter.global.brother)
- - date_published: 2024-05-02T11:35:25.463119+00:00
-
- ## Welcome to Brother Global
- - [https://global.brother](https://global.brother)
- - date_published: 2024-05-02T11:25:26.280633+00:00
-
- ## Industrial Sewing Machine | Brother
- - [https://industrialsewingmachine.global.brother](https://industrialsewingmachine.global.brother)
- - date_published: 2024-05-02T11:29:39.596747+00:00
-
- ## Machine Tools | Brother
- - [https://machinetool.global.brother](https://machinetool.global.brother)
- - date_published: 2024-05-02T11:22:53.110007+00:00
-
- ## Machine Tools | Brother | Machine Tools |  Brother
- - [https://mt.global.brother](https://mt.global.brother)
- - date_published: 2024-10-20T11:33:57.794146+00:00
-
- ## Brother Group SDGs Special Site: Brother SDGs story
- - [https://sdgsstory.global.brother](https://sdgsstory.global.brother)
- - date_published: 2024-06-17T21:02:35.762480+00:00
-
- ## Agenda
- - [https://agenda.brussels](https://agenda.brussels)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Home
- - [http://ing.arena.brussels](http://ing.arena.brussels)
- - date_published: 2024-10-22T10:53:10.378108+00:00
-
- ## Welcome on the website of the Brussels Capital-Region
- - [https://be.brussels](https://be.brussels)
- - date_published: 2024-07-02T23:04:50.140871+00:00
-
- ## Le site officiel de Bruxelles Environnement
- - [https://environnement.brussels](https://environnement.brussels)
- - date_published: 2024-10-18T23:41:03.438957+00:00
-
- ## FEDER - Feder BXL
- - [https://feder.brussels](https://feder.brussels)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Brussels Agency for Entrepreneurship | Home | hub.brussels
- - [https://hub.brussels](https://hub.brussels)
- - date_published: 2024-10-18T23:40:58.895752+00:00
-
- ## Innoviris
- - [https://innoviris.brussels](https://innoviris.brussels)
- - date_published: 2024-07-07T09:21:41+00:00
-
- ## Homepage
- - [https://kanal.brussels](https://kanal.brussels)
- - date_published: 2019-06-05T08:29:09+00:00
-
- ## Parlement bruxellois
- - [https://www.parlement.brussels](https://www.parlement.brussels)
- - date_published: 2024-10-18T23:38:30.033017+00:00
-
- ## React Brussels | Brussels & Online
- - [https://www.react.brussels](https://www.react.brussels)
- - date_published: 2024-06-20T07:07:54.339815+00:00
 

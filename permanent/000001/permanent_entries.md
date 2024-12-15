@@ -1,3 +1,11 @@
+ ## Free AI Cover Letter Generator: Powered By ChatGPT
+ - [https://careered.ai](https://careered.ai)
+ - date_published: 2023-10-25T11:36:45.243241+00:00
+
+ ## Career Copilot | AI Job Search Tracker and More
+ - [https://app.careerflow.ai](https://app.careerflow.ai)
+ - date_published: 2024-10-30T08:08:10.368874+00:00
+
  ## Careerflow - Your Career Copilot | FREE AI Job Search Tools
  - [https://careerflow.ai](https://careerflow.ai)
  - date_published: 2024-10-28T06:01:26+00:00
@@ -4006,12 +4014,4 @@ Welcome
  ## Frictionless Biometric Authentication Software
  - [https://idrnd.ai](https://idrnd.ai)
  - date_published: 2024-07-29T00:00:00+00:00
-
- ## FC'10 : Financial Cryptography 2010
- - [https://fc10.ifca.ai](https://fc10.ifca.ai)
- - date_published: 2010-02-04T09:32:53+00:00
-
- ## FC'11 : Financial Cryptography 2011
- - [https://fc11.ifca.ai](https://fc11.ifca.ai)
- - date_published: 2024-05-06T15:12:42.430968+00:00
 

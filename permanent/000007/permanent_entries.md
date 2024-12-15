@@ -1,3 +1,55 @@
+ ## Weathergraph
+ - [https://weathergraph.app](https://weathergraph.app)
+ - date_published: 2024-08-18T04:48:50.287888+00:00
+
+ ## Weather Strip for iOS
+ - [https://www.weatherstrip.app](https://www.weatherstrip.app)
+ - date_published: 2023-09-12T20:17:43+00:00
+
+ ## Weavus - The social app for real life
+ - [https://weavus.app](https://weavus.app)
+ - date_published: 2024-09-02T09:46:25.885621+00:00
+
+ ## Additional Budget Graphs
+ - [https://additionalbudgetgraphs.web.app](https://additionalbudgetgraphs.web.app)
+ - date_published: 2024-07-05T19:35:44+00:00
+
+ ## Advanced Tools for YNAB
+ - [https://advanced-tools-for-ynab.web.app](https://advanced-tools-for-ynab.web.app)
+ - date_published: 2024-02-15T18:58:24+00:00
+
+ ## AGI House
+ - [https://agihouse-app.web.app](https://agihouse-app.web.app)
+ - date_published: 2024-06-23T00:54:32+00:00
+
+ ## AKSHAT SINGHANIA
+ - [https://akshatsinghaniaweb.web.app](https://akshatsinghaniaweb.web.app)
+ - date_published: 2024-06-20T13:10:42+00:00
+
+ ## Aktifqq : Situs PokerV Terpercaya Di Indonesia
+ - [https://aktifqq88.web.app](https://aktifqq88.web.app)
+ - date_published: 2023-12-07T08:00:12+00:00
+
+ ## Angular
+ - [https://angular-gr.web.app](https://angular-gr.web.app)
+ - date_published: 2023-08-27T08:58:03+00:00
+
+ ## Bayes-Up
+ - [https://bayes-up.web.app](https://bayes-up.web.app)
+ - date_published: 2020-04-22T09:56:12+00:00
+
+ ## React App
+ - [https://binderpos-big-calendar-1490e.web.app](https://binderpos-big-calendar-1490e.web.app)
+ - date_published: 2023-08-31T01:24:10+00:00
+
+ ## BioAge Labs | Targeting metabolic aging
+ - [https://bioage-website.web.app](https://bioage-website.web.app)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## The Butterfly Button
+ - [https://butterfly-button.web.app](https://butterfly-button.web.app)
+ - date_published: 2024-05-09T04:03:12.935259+00:00
+
  ## Cirtoren car models 360 valkthrough | valk360
  - [https://citroenvr-valk360.web.app](https://citroenvr-valk360.web.app)
  - date_published: 2021-12-26T12:41:12+00:00
@@ -612,8 +664,16 @@
  - tags: ['argentina news']
 
  ## Bienvenido a nuestra Banca Online | BBVA Argentina
- - [https://www.bbva.com.ar](https://www.bbva.com.ar)
+ - [https://bbva.com.ar](https://bbva.com.ar)
  - date_published: 2024-10-31T12:40:36.009160+00:00
+
+ ## WEB BENEFICIOS
+ - [https://go.bbva.com.ar](https://go.bbva.com.ar)
+ - date_published: 2024-12-06T17:42:58+00:00
+
+ ## Home - BBVA Argentina Investor Relations - BBVA
+ - [https://ir.bbva.com.ar](https://ir.bbva.com.ar)
+ - date_published: 2024-12-14T16:40:17.699951+00:00
 
  ## Alberto Bertogli
  - [https://blitiri.com.ar](https://blitiri.com.ar)
@@ -734,6 +794,10 @@
  ## Productos y Soluciones de Ecommerce: Potencia tu Tienda Online con Nuestros Servicios - e.tres
  - [http://e3ecommerce.com.ar](http://e3ecommerce.com.ar)
  - date_published: 2024-08-28T00:00:00+00:00
+
+ ## PlanetadeLibros Argentina
+ - [http://www.editorialplaneta.com.ar](http://www.editorialplaneta.com.ar)
+ - date_published: 2024-12-14T23:09:01.484143+00:00
 
  ## EF Education First | Argentina
  - [https://www.ef.com.ar](https://www.ef.com.ar)
@@ -1022,6 +1086,10 @@
  ## L'Officiel Argentina
  - [https://www.lofficiel.com.ar](https://www.lofficiel.com.ar)
  - date_published: 2024-09-16T09:58:51.699485+00:00
+
+ ## Longseller Editoral - Longseller
+ - [http://www.longseller.com.ar](http://www.longseller.com.ar)
+ - date_published: 2024-12-14T14:32:41+00:00
 
  ## LOS40 AR
  - [https://los40.com.ar](https://los40.com.ar)
@@ -1400,7 +1468,7 @@
  - date_published: 2024-06-28T16:00:25.364321+00:00
 
  ## Recambio Independiente del sector de Automación | Valeo Service
- - [https://www.valeoservice.com.ar](https://www.valeoservice.com.ar)
+ - [https://valeoservice.com.ar](https://valeoservice.com.ar)
  - date_published: 2024-10-31T11:24:21+00:00
 
  ## Noticias de Argentina hoy | Noticias Argentina  | Vía País | Vía País
@@ -2791,6 +2859,10 @@
  - [https://bulgaro.asia](https://bulgaro.asia)
  - date_published: 2024-08-11T20:38:11.792513+00:00
 
+ ## 採用担当者の声を反映する採用管理システムの決定版 | 採用一括かんりくん
+ - [https://www.career-cloud.asia](https://www.career-cloud.asia)
+ - date_published: 2024-12-14T19:34:39.140535+00:00
+
  ## Tygre @ Chingu
  - [https://www.chingu.asia](https://www.chingu.asia)
  - date_published: 2024-08-18T11:02:05.688577+00:00
@@ -3062,7 +3134,7 @@ October 2024 in Singapore
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## Main Home
- - [https://www.traveldailynews.asia](https://www.traveldailynews.asia)
+ - [https://traveldailynews.asia](https://traveldailynews.asia)
  - date_published: 2024-10-31T12:33:26.186908+00:00
 
  ## Ubisoft | Welcome to the official Ubisoft website
@@ -3104,6 +3176,10 @@ October 2024 in Singapore
  ## Yoshimura | YOSHIMURA ASIA
  - [http://www.yoshimura.asia](http://www.yoshimura.asia)
  - date_published: 2024-09-18T01:25:41.718303+00:00
+
+ ## Home | Battery Associates | Sustainable Battery Innovation
+ - [https://www.battery.associates](https://www.battery.associates)
+ - date_published: 2024-12-14T12:45:52.140206+00:00
 
  ## Startseite - AIT Austrian Institute Of Technology
  - [https://www.ait.ac.at](https://www.ait.ac.at)
@@ -3957,80 +4033,4 @@ October 2024 in Singapore
  ## Gebrauchtwagen und Neuwagen bei AutoScout24
  - [https://www.autoscout24.at](https://www.autoscout24.at)
  - date_published: 2024-07-14T12:56:44.641096+00:00
-
- ## Startseite | Autoverbrauch
- - [http://www.autoverbrauch.at](http://www.autoverbrauch.at)
- - date_published: 2024-06-28T08:30:17+00:00
-
- ## AWEKAS – Automatic Weather Map System
- - [https://awekas.at](https://awekas.at)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://piwik.awekas.at](https://piwik.awekas.at)
- - date_published: 2024-07-22T17:32:43.330901+00:00
-
- ## AWEKAS Stationsweb Micheldorf in Oberösterreich
- - [http://stationsweb.awekas.at](http://stationsweb.awekas.at)
- - date_published: 2024-07-22T17:32:44.552874+00:00
-
- ## badminton.at  -  Österreichischer Badminton Verband Online
- - [https://www.badminton.at](https://www.badminton.at)
- - date_published: 2024-10-22T12:14:35.227960+00:00
-
- ## Bärenbike | E-Bikes | Kärntner E-Bike Marke
- - [https://baerenbikes.at](https://baerenbikes.at)
- - date_published: 2024-10-30T22:50:35+00:00
-
- ## Bank Austria
- - [https://banking.bankaustria.at](https://banking.bankaustria.at)
- - date_published: 2024-05-27T22:01:02+00:00
-
- ## Bank Austria
- - [https://filialen.bankaustria.at](https://filialen.bankaustria.at)
- - date_published: 2024-06-25T19:06:53.381608+00:00
-
- ## OnlineBanking | BusinessNet Login & Anmeldung | Bank Austria
- - [https://online.bankaustria.at](https://online.bankaustria.at)
- - date_published: 2024-06-25T19:08:39.458448+00:00
-
- ## Wirtschaft Online: Analysen & Research
- - [http://wirtschaft-online.bankaustria.at](http://wirtschaft-online.bankaustria.at)
- - date_published: 2024-06-25T19:08:34.259867+00:00
-
- ## Bank Austria - Wir erledigen Ihre Bankgeschäfte
- - [https://www.bankaustria.at](https://www.bankaustria.at)
- - date_published: 2024-05-06T17:32:51.030231+00:00
-
- ## Cannabis Samen Kaufen und Marihuana Samen Von BARNEYS FARM
- - [https://www.barneysfarm.at](https://www.barneysfarm.at)
- - date_published: 2024-12-11T11:58:11.579326+00:00
-
- ## Barracuda Music
- - [https://www.barracudamusic.at](https://www.barracudamusic.at)
- - date_published: 2024-07-20T15:07:31.604809+00:00
-
- ## basemap.at
- - [https://basemap.at](https://basemap.at)
- - date_published: 2024-06-12T14:27:53.155145+00:00
-
- ## Basis.Kultur – Homepage der Basis.Kultur in Wien
- - [https://basiskultur.at](https://basiskultur.at)
- - date_published: 2024-09-03T21:35:46+00:00
-
- ## Startseite - Bauer-Plus
- - [https://www.bauer-plus.at](https://www.bauer-plus.at)
- - date_published: 2024-07-25T09:47:50.353123+00:00
-
- ## BAWAG | Das ist Bank
- - [https://bawag.at](https://bawag.at)
- - date_published: 2024-09-27T09:31:24.346681+00:00
-
- ## eBanking | BAWAG P.S.K. Online Banking
- - [https://ebanking.bawag.at](https://ebanking.bawag.at)
- - date_published: 2024-09-27T09:32:20.289636+00:00
-
- ## Fusedeck Privacy
- - [https://fd.bawag.at](https://fd.bawag.at)
- - date_published: 2023-06-27T08:15:03+00:00
 

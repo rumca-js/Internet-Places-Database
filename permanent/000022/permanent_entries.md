@@ -1,3 +1,251 @@
+ ## Tinycc Blog
+ - [https://blog.tiny.cc](https://blog.tiny.cc)
+ - date_published: 2024-06-21T14:00:55.668955+00:00
+
+ ## Tiny URL | Free Short URL Redirects with Tinycc
+ - [https://tiny.cc](https://tiny.cc)
+ - date_published: 2024-05-04T12:48:20.646193+00:00
+
+ ## Tobias Rose-Stockwell
+ - [https://tobias.cc](https://tobias.cc)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Todor Vlaev
+ - [https://microblog.todor.cc](https://microblog.todor.cc)
+ - date_published: 2024-07-05T07:49:40+00:00
+
+ ## Torrent Downloads - download free torrents!
+ - [https://www.torrentdownloads.cc](https://www.torrentdownloads.cc)
+ - date_published: 2024-11-08T12:12:02.017520+00:00
+
+ ## Free URL Shortener | Short Link Generator
+ - [https://www.ttu.cc](https://www.ttu.cc)
+ - date_published: 2024-05-08T10:43:49.138547+00:00
+
+ ## Samuel Tulach
+ - [https://tulach.cc](https://tulach.cc)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## CC: Tweaked
+ - [https://tweaked.cc](https://tweaked.cc)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## UFABET
+ - [https://member.ufabetwins.cc](https://member.ufabetwins.cc)
+ - date_published: 2024-06-10T09:06:54+00:00
+
+ ## UFABET เว็บตรง เว็บแทงบอล แทงบอลออนไลน์ ยูฟ่าเบท ขั้นต่ำ 1บ.
+ - [https://www.ufabetwins.cc](https://www.ufabetwins.cc)
+ - date_published: 0667-01-10T00:00:00+00:00
+
+ ## API Platform | Unified.cc by 500apps
+ - [https://unified.cc](https://unified.cc)
+ - date_published: 2024-10-30T18:42:58.528066+00:00
+
+ ## unitedearth.cc
+ - [https://wiki.unitedearth.cc](https://wiki.unitedearth.cc)
+ - date_published: 2024-08-18T07:12:50.355510+00:00
+
+ ## stefano zacchiroli home page
+ - [http://upsilon.cc](http://upsilon.cc)
+ - date_published: 2024-04-25T09:29:26+00:00
+
+ ## urlbox
+ - [https://urlbox.cc](https://urlbox.cc)
+ - date_published: 2024-09-24T11:08:59.987251+00:00
+
+ ## Bootcamp
+ - [https://bootcamp.uxdesign.cc](https://bootcamp.uxdesign.cc)
+ - date_published: 2023-10-25T12:11:44.625622+00:00
+
+ ## UX Collective 🇧🇷
+ - [https://brasil.uxdesign.cc](https://brasil.uxdesign.cc)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## UX Essays
+ - [https://essays.uxdesign.cc](https://essays.uxdesign.cc)
+ - date_published: 2024-06-21T22:06:54.297218+00:00
+
+ ## UX Collective | Fabricio Teixeira | Substack
+ - [https://newsletter.uxdesign.cc](https://newsletter.uxdesign.cc)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## UX Collective
+ - [https://uxdesign.cc](https://uxdesign.cc)
+ - date_published: 2023-10-25T12:12:04.761668+00:00
+
+ ## Giving a damn about accessibility
+ - [https://www.accessibility.uxdesign.cc](https://www.accessibility.uxdesign.cc)
+ - date_published: 2024-07-02T21:00:23.167154+00:00
+
+ ## Veery
+ - [https://veery.cc](https://veery.cc)
+ - date_published: 2024-06-23T15:48:42.384636+00:00
+
+ ## The V Programming Language (@vlang) | Veery
+ - [https://vlang.veery.cc](https://vlang.veery.cc)
+ - date_published: 2023-07-01T00:00:00+00:00
+
+ ## Velocio - Cycling Apparel
+ - [https://velocio.cc](https://velocio.cc)
+ - date_published: 2024-07-13T02:53:53.777118+00:00
+
+ ## Index of /
+ - [https://pjals.vern.cc](https://pjals.vern.cc)
+ - date_published: 2024-07-10T06:23:31.128518+00:00
+
+ ## ~vern
+ - [https://vern.cc](https://vern.cc)
+ - date_published: 2024-07-10T06:23:33.621896+00:00
+
+ ## Vinc
+ - [https://vinc.cc](https://vinc.cc)
+ - date_published: 2024-01-06T12:07:04+00:00
+
+ ## Sign in | VK
+ - [https://vk.cc](https://vk.cc)
+ - date_published: 2024-06-13T16:58:57.420045+00:00
+
+ ## 微商城_微信营销_新媒体营销_手机网站建设_上海微信营销_上海|南京|徐州-上海微领软件
+ - [http://www.vleader.cc](http://www.vleader.cc)
+ - date_published: 2024-09-06T20:03:48.265583+00:00
+
+ ## 方格子 vocus｜實踐內容有價的創作平台｜放送你的知識與想像
+ - [https://vocus.cc](https://vocus.cc)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Vilson Vieira
+ - [https://void.cc](https://void.cc)
+ - date_published: 2024-06-25T13:44:04+00:00
+
+ ## We purify water based on state-of-the art nanotechnology. | VTA
+ - [https://vta.cc](https://vta.cc)
+ - date_published: 2024-07-20T15:08:03.760584+00:00
+
+ ## 2024年澳门今晚开奖号码,2023澳门管家婆资料正版大全,管家婆一肖资料大全,管家婆2024新澳正版资料,香港二四六开奖免费资料
+ - [http://www.watrix.cc](http://www.watrix.cc)
+ - date_published: 2024-12-12T00:38:17.710252+00:00
+
+ ## web0 - Reader view page generator
+ - [https://web0.cc](https://web0.cc)
+ - date_published: 2023-10-25T12:12:06.600910+00:00
+
+ ## WeMake | Makerspace Fablab | WeMake | Makerspace Fablab
+ - [https://wemake.cc](https://wemake.cc)
+ - date_published: 2024-05-08T11:14:16.187351+00:00
+
+ ## HOME — WEMOS  documentation
+ - [https://www.wemos.cc](https://www.wemos.cc)
+ - date_published: 2024-08-28T02:30:40+00:00
+
+ ## WeProgramStuff Hackathon - Virtual Hackathon for High-Schoolers
+ - [https://weprogramstuff.cc](https://weprogramstuff.cc)
+ - date_published: 2024-10-26T15:40:46+00:00
+
+ ## Wessell's ☺️site
+ - [https://wesl.cc](https://wesl.cc)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## WikiHouse
+ - [https://cy.wikihouse.cc](https://cy.wikihouse.cc)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## WikiHouse
+ - [https://wikihouse.cc](https://wikihouse.cc)
+ - date_published: 2023-10-25T12:12:08.973455+00:00
+
+ ## Wonderment Proactive CX Platform. Shopify Post-Purchase & Order Tracking App for eCommerce
+ - [https://www.wonderment.cc](https://www.wonderment.cc)
+ - date_published: 2024-05-06T14:50:14.397678+00:00
+
+ ## Word Games | Play Your Favorite Puzzles Online for Free
+ - [https://wordgames.cc](https://wordgames.cc)
+ - date_published: 2024-11-08T03:49:38+00:00
+
+ ## WORK LOUDER™
+ - [https://worklouder.cc](https://worklouder.cc)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Arriate Cultural – Arriate Cultural
+ - [http://wwb.cc](http://wwb.cc)
+ - date_published: 2024-06-28T22:10:05.851154+00:00
+
+ ## Pantson Color Club
+ - [https://pantson.xandra.cc](https://pantson.xandra.cc)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## the museum of alexandra
+ - [https://xandra.cc](https://xandra.cc)
+ - date_published: 2024-04-29T07:26:34.786265+00:00
+
+ ## ʞ
+ - [https://xn--rpa.cc](https://xn--rpa.cc)
+ - date_published: 2024-05-11T07:06:42.830676+00:00
+
+ ## หน้าหลัก
+ - [https://xo289.cc](https://xo289.cc)
+ - date_published: 2024-10-22T14:54:36.334263+00:00
+
+ ## Caddy works!
+ - [https://yinchie.cc](https://yinchie.cc)
+ - date_published: 2023-04-17T13:11:12+00:00
+
+ ## Youtils.cc - 線上工具
+ - [https://youtils.cc](https://youtils.cc)
+ - date_published: 2024-12-03T07:36:51.159106+00:00
+
+ ## Yudosai
+ - [https://yudo.cc](https://yudo.cc)
+ - date_published: 2024-09-23T20:23:40+00:00
+
+ ## Lorenz Panny
+ - [https://yx7.cc](https://yx7.cc)
+ - date_published: 2024-02-08T17:47:58.149987+00:00
+
+ ## Zoyander Street
+ - [https://zoyander.cc](https://zoyander.cc)
+ - date_published: 2024-06-14T11:46:20+00:00
+
+ ## BF-SYS: A fantasy computer that uses Brainfuck as its instruction set
+ - [https://brainfuck.zptr.cc](https://brainfuck.zptr.cc)
+ - date_published: 2023-12-12T07:23:44+00:00
+
+ ## zptr
+ - [https://zptr.cc](https://zptr.cc)
+ - date_published: 2024-07-03T12:07:58.158619+00:00
+
+ ## ACGT – Site officiel
+ - [http://www.acgt.cd](http://www.acgt.cd)
+ - date_published: 2024-06-20T07:31:07.556651+00:00
+
+ ## ACP | Agence Congolaise de Presse
+ - [https://acp.cd](https://acp.cd)
+ - date_published: 2024-06-30T15:44:50+00:00
+
+ ## Grafika Google
+ - [https://images.google.cd](https://images.google.cd)
+ - date_published: 2024-07-20T07:37:04.969530+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.cd](https://maps.google.cd)
+ - date_published: 2024-07-20T07:40:28.431093+00:00
+
+ ## Google
+ - [https://www.google.cd](https://www.google.cd)
+ - date_published: 2024-06-21T22:23:03.439099+00:00
+
+ ## Custom Domain by Bitly
+ - [https://news.mstr.cd](https://news.mstr.cd)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## OECD URL Shortener
+ - [https://oe.cd](https://oe.cd)
+ - date_published: 2024-06-28T16:16:43.492648+00:00
+
+ ## Vodacom RDC
+ - [https://www.vodacom.cd](https://www.vodacom.cd)
+ - date_published: 2023-12-19T20:14:17+00:00
+
  ## Placeholder
  - [https://what.cd](https://what.cd)
  - date_published: 2023-10-25T12:12:14.189974+00:00
@@ -924,7 +1172,7 @@
  - date_published: 2014-04-02T14:24:42+00:00
 
  ## HOME
- - [https://www.am-switzerland.ch](https://www.am-switzerland.ch)
+ - [https://am-switzerland.ch](https://am-switzerland.ch)
  - date_published: 2024-10-31T10:51:44+00:00
 
  ## AMZ Website
@@ -1157,7 +1405,7 @@
  - date_published: 2023-07-23T17:32:53+00:00
 
  ## BBVA Suiza - Banca privada online| BBVA Suiza
- - [https://www.bbva.ch](https://www.bbva.ch)
+ - [https://bbva.ch](https://bbva.ch)
  - date_published: 2024-10-31T12:40:02.645750+00:00
 
  ## Bienvenue
@@ -1177,7 +1425,7 @@
  - date_published: 2024-07-03T05:53:31+00:00
 
  ## Bechtler Stiftung – Bechtler Stiftung
- - [https://www.bechtlerstiftung.ch](https://www.bechtlerstiftung.ch)
+ - [https://bechtlerstiftung.ch](https://bechtlerstiftung.ch)
  - date_published: 2024-10-31T11:30:59.565124+00:00
 
  ## Agence de développement web & communication, Lausanne — Bee Interactive
@@ -2457,6 +2705,10 @@
  - [https://dfir.ch](https://dfir.ch)
  - date_published: 2024-10-19T12:15:04+00:00
 
+ ## -
+ - [https://dialectic.ch](https://dialectic.ch)
+ - date_published: 2024-12-14T19:24:21.685529+00:00
+
  ## Diane Friedli - pasteure à Colombier
  - [https://dianefriedli.ch](https://dianefriedli.ch)
  - date_published: 2024-07-10T04:39:35+00:00
@@ -2721,6 +2973,10 @@
  ## e-codices – Virtual Manuscript Library of Switzerland
  - [http://www.e-codices.ch](http://www.e-codices.ch)
  - date_published: 2024-10-29T18:55:02.881612+00:00
+
+ ## Ecommerce Bridge Schweiz
+ - [https://www.ecommercebridge.ch](https://www.ecommercebridge.ch)
+ - date_published: 2024-12-14T03:33:56.221976+00:00
 
  ## Home
  - [https://ecotoxcentre.ch](https://ecotoxcentre.ch)
@@ -3754,261 +4010,4 @@
  ## Homepage
  - [https://center-for-robotics.ethz.ch](https://center-for-robotics.ethz.ch)
  - date_published: 2024-03-13T00:00:00+00:00
-
- ## CGL @ ETHZ -
- - [https://cgl.ethz.ch](https://cgl.ethz.ch)
- - date_published: 2024-06-22T07:36:57.444866+00:00
-
- ## Homepage - Departement Chemie und Angewandte Biowissenschaften
- - [https://chab.ethz.ch](https://chab.ethz.ch)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## ETH CIRCLE
- - [https://circle.ethz.ch](https://circle.ethz.ch)
- - date_published: 2024-08-10T22:36:24.480044+00:00
-
- ## Collegium Helveticum
- - [https://collegium.ethz.ch](https://collegium.ethz.ch)
- - date_published: 2024-09-04T17:48:30.393649+00:00
-
- ## Welcome - D-ITET Computing
- - [http://computing.ee.ethz.ch](http://computing.ee.ethz.ch)
- - date_published: 2023-10-16T00:00:00+00:00
-
- ## About COMSEC - Computer Security Group
- - [https://comsec.ethz.ch](https://comsec.ethz.ch)
- - date_published: 2023-10-25T12:13:40.287827+00:00
-
- ## ConfSearch
- - [https://confsearch.ethz.ch](https://confsearch.ethz.ch)
- - date_published: 2022-06-30T17:48:34+00:00
-
- ## Homepage - ifa
- - [https://control.ee.ethz.ch](https://control.ee.ethz.ch)
- - date_published: 2024-08-06T17:39:42.481654+00:00
-
- ## Startseite - CSS
- - [https://css.ethz.ch](https://css.ethz.ch)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Homepage
- - [https://designplusplus.ethz.ch](https://designplusplus.ethz.ch)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## DISCO
- - [https://disco.ethz.ch](https://disco.ethz.ch)
- - date_published: 2024-07-16T22:23:02.711731+00:00
-
- ## Sign in to your account
- - [https://docs.mat.ethz.ch](https://docs.mat.ethz.ch)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## MaP Doctoral School
- - [https://doctoral-school.ethz.ch](https://doctoral-school.ethz.ch)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Fourth Workshop on DRAM Security (DRAMSec)
- - [https://dramsec.ethz.ch](https://dramsec.ethz.ch)
- - date_published: 2024-06-27T12:37:41+00:00
-
- ## Homepage
- - [https://dtip.ethz.ch](https://dtip.ethz.ch)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Departement Erd-​ und Planetenwissenschaften: Startseite
- - [https://eaps.ethz.ch](https://eaps.ethz.ch)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Research Collection
- - [http://e-collection.ethbib.ethz.ch](http://e-collection.ethbib.ethz.ch)
- - date_published: 2024-06-22T14:01:27.692039+00:00
-
- ## Research Collection
- - [http://e-collection.library.ethz.ch](http://e-collection.library.ethz.ch)
- - date_published: 2024-06-22T11:42:43.524473+00:00
-
- ## Department of Information Technology and Electrical Engineering
- - [https://ee.ethz.ch](https://ee.ethz.ch)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Energy and Technology Policy Group
- - [https://epg.ethz.ch](https://epg.ethz.ch)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Departement Erdwissenschaften: Startseite
- - [https://erdw.ethz.ch](https://erdw.ethz.ch)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Album: ERMETH
- - [http://ermeth.gallery.ethz.ch](http://ermeth.gallery.ethz.ch)
- - date_published: 2024-07-21T06:06:19.468796+00:00
-
- ## Institute for Theoretical Studies
- - [https://eth-its.ethz.ch](https://eth-its.ethz.ch)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## ETH Zürich - Homepage | ETH Zürich
- - [https://ethz.ch](https://ethz.ch)
- - date_published: 2023-10-25T12:13:42.696984+00:00
- - tags: ['technology institute']
-
- ## Upcoming events at D-PHYS
- - [https://events.phys.ethz.ch](https://events.phys.ethz.ch)
- - date_published: 2024-08-08T23:05:41.009486+00:00
-
- ## Startseite
- - [https://extract.ethz.ch](https://extract.ethz.ch)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Homepage
- - [https://finsuretech.ethz.ch](https://finsuretech.ethz.ch)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Departement Geistes-, Sozial- und Staatswissenschaften
- - [https://gess.ethz.ch](https://gess.ethz.ch)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Homepage
- - [https://grantsoffice.ethz.ch](https://grantsoffice.ethz.ch)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## CGL @ ETHZ -
- - [https://graphics.ethz.ch](https://graphics.ethz.ch)
- - date_published: 2024-06-22T07:36:27.756253+00:00
-
- ## Startseite
- - [https://hci-shop.ethz.ch](https://hci-shop.ethz.ch)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Departement Gesundheitswissenschaften und Technologie
- - [https://hest.ethz.ch](https://hest.ethz.ch)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Torsten Hoefler's Home Page
- - [https://htor.inf.ethz.ch](https://htor.inf.ethz.ch)
- - date_published: 2024-06-22T10:20:47.353567+00:00
-
- ## Homepage
- - [https://hyqu.ethz.ch](https://hyqu.ethz.ch)
- - date_published: 2024-06-26T11:31:08.466192+00:00
-
- ## Homepage - Institut für Bau- und Infrastrukturmanagement
- - [https://ibi.ethz.ch](https://ibi.ethz.ch)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Homepage - IBK
- - [https://ibk.ethz.ch](https://ibk.ethz.ch)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Homepage -  IfB
- - [https://ifb.ethz.ch](https://ifb.ethz.ch)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Homepage - Institute of Environmental Engineering
- - [https://ifu.ethz.ch](https://ifu.ethz.ch)
- - date_published: 2024-08-11T06:25:01.375738+00:00
-
- ## igl | Interactive Geometry Lab | ETH Zurich
- - [https://igl.ethz.ch](https://igl.ethz.ch)
- - date_published: 2024-06-22T07:36:56.913819+00:00
-
- ## Homepage - Institute of Geodesy and Photogrammetry
- - [https://igp.ethz.ch](https://igp.ethz.ch)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Homepage - IGT
- - [https://igt.ethz.ch](https://igt.ethz.ch)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Startseite
- - [https://ikg.ethz.ch](https://ikg.ethz.ch)
- - date_published: 2024-08-11T06:25:02.624568+00:00
-
- ## Institute of Molecular Systems Biology
- - [https://imsb.ethz.ch](https://imsb.ethz.ch)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Department of Computer Science
- - [https://inf.ethz.ch](https://inf.ethz.ch)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Album: INFK
- - [http://infk.gallery.ethz.ch](http://infk.gallery.ethz.ch)
- - date_published: 2024-07-21T06:06:12.284563+00:00
-
- ## ISG D-ITET - Info Poster
- - [https://infoposter.ee.ethz.ch](https://infoposter.ee.ethz.ch)
- - date_published: 2024-01-15T13:23:16+00:00
-
- ## Homepage - Institute for Spatial and Landscape Development
- - [https://irl.ethz.ch](https://irl.ethz.ch)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## IT Services Group (ISG) D-ITET
- - [https://isg.ee.ethz.ch](https://isg.ee.ethz.ch)
- - date_published: 2024-06-15T06:54:58.794899+00:00
-
- ## Homepage
- - [https://istp.ethz.ch](https://istp.ethz.ch)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Stellenangebote der ETH Z&uuml;rich
- - [https://jobs.ethz.ch](https://jobs.ethz.ch)
- - date_published: 2024-04-30T06:02:30.969973+00:00
-
- ## Startseite
- - [https://lehrlabor.chab.ethz.ch](https://lehrlabor.chab.ethz.ch)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Startseite
- - [https://library.ethz.ch](https://library.ethz.ch)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## D-ITET Mailinglists Service - home
- - [http://lists.ee.ethz.ch](http://lists.ee.ethz.ch)
- - date_published: 2024-07-18T09:03:42.517458+00:00
-
- ## MaP
- - [https://map.ethz.ch](https://map.ethz.ch)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Homepage - MAS in Management, Technology, and Economics
- - [https://mas-mtec.ethz.ch](https://mas-mtec.ethz.ch)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Homepage - Master of Science in Nuclear Engineering
- - [https://master-nuclear.ethz.ch](https://master-nuclear.ethz.ch)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## MAS UTD
- - [https://mas-utd.arch.ethz.ch](https://mas-utd.arch.ethz.ch)
- - date_published: 2024-05-12T07:16:27.891819+00:00
-
- ## Homepage - D-MATL
- - [https://mat.ethz.ch](https://mat.ethz.ch)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Homepage
- - [https://math.ethz.ch](https://math.ethz.ch)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Homepage - D-MAVT
- - [https://mavt.ethz.ch](https://mavt.ethz.ch)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Sign In
- - [https://mavt.sp.ethz.ch](https://mavt.sp.ethz.ch)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Homepage
- - [https://ml.inf.ethz.ch](https://ml.inf.ethz.ch)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Homepage - Department of Management, Technology, and Economics
- - [https://mtec.ethz.ch](https://mtec.ethz.ch)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Homepage
- - [https://nadel.ethz.ch](https://nadel.ethz.ch)
- - date_published: 2024-07-19T00:00:00+00:00
 

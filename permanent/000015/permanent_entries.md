@@ -1,3 +1,159 @@
+ ## Vince on all things Kings of War
+ - [https://kingsofwarvince.business.blog](https://kingsofwarvince.business.blog)
+ - date_published: 2024-10-26T18:12:25.002383+00:00
+
+ ## Bzogramming | Charles Rosenbauer | Substack
+ - [https://bzolang.blog](https://bzolang.blog)
+ - date_published: 2024-02-25T15:34:12.585460+00:00
+
+ ## Candost's Blog
+ - [https://candost.blog](https://candost.blog)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Mediations with Candost | Candost Dagdeviren | Substack
+ - [https://mediations.candost.blog](https://mediations.candost.blog)
+ - date_published: 2024-02-26T09:03:53.111236+00:00
+
+ ## Canion dot Blog
+ - [https://canion.blog](https://canion.blog)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Hi, I'm Caroline.
+ - [https://caroline.blog](https://caroline.blog)
+ - date_published: 2024-06-18T06:31:41+00:00
+
+ ## C A T C H L I G H T
+ - [https://catchlight.blog](https://catchlight.blog)
+ - date_published: 2024-05-01T03:14:26.436327+00:00
+
+ ## Accidentally in Code
+ - [https://cate.blog](https://cate.blog)
+ - date_published: 2024-12-11T21:32:43+00:00
+
+ ## Roots to Branches
+ - [https://cbaca.blog](https://cbaca.blog)
+ - date_published: 2024-07-17T17:13:15+00:00
+
+ ## Cello's Blog
+ - [https://www.cellos.blog](https://www.cellos.blog)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Chai's Blog
+ - [https://chait.blog](https://chait.blog)
+ - date_published: 2023-11-29T15:43:41.852196+00:00
+ - tags: ['personal']
+
+ ## Splitting Headache
+ - [https://chapra.blog](https://chapra.blog)
+ - date_published: 2024-10-31T22:50:47.572593+00:00
+
+ ## Chris Lakin | Substack
+ - [https://chrislakin.blog](https://chrislakin.blog)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Climatism
+ - [https://climatism.blog](https://climatism.blog)
+ - date_published: 2024-06-15T09:13:40.449575+00:00
+
+ ## cmart's blog
+ - [https://cmart.blog](https://cmart.blog)
+ - date_published: 2023-10-25T09:01:40.133698+00:00
+ - tags: ['personal']
+
+ ## Code The Web — Web development explained for normal people
+ - [https://codetheweb.blog](https://codetheweb.blog)
+ - date_published: 2024-08-08T15:08:12.106438+00:00
+
+ ## The Code With Love Web Development Blog | Tech and Software Engineering
+ - [https://codewithlove.blog](https://codewithlove.blog)
+ - date_published: 2022-12-30T00:00:00+00:00
+
+ ## codingkaiser.blog
+ - [http://codingkaiser.blog](http://codingkaiser.blog)
+ - date_published: 2023-10-25T11:29:52.059875+00:00
+
+ ## codingkaiser.blog
+ - [http://ww11.codingkaiser.blog](http://ww11.codingkaiser.blog)
+ - date_published: 2024-08-19T12:35:49.205954+00:00
+
+ ## From a technical expert to a leader ☕️🛫
+ - [https://coffeejourneys.blog](https://coffeejourneys.blog)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Cole's Blog
+ - [https://coleb.blog](https://coleb.blog)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Colin Walker — Home
+ - [https://colinwalker.blog](https://colinwalker.blog)
+ - date_published: 2023-11-20T07:44:38.276818+00:00
+ - tags: ['personal']
+
+ ## Colonizing Animals
+ - [https://colonizinganimals.blog](https://colonizinganimals.blog)
+ - date_published: 2024-10-29T18:23:25.588254+00:00
+
+ ## Comparing Notes
+ - [https://comparingnotes.blog](https://comparingnotes.blog)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Koin50 : Situs Bandar Favorite 4D 3D 2D Terpercaya Full Pasti Lunas
+ - [https://compiled.blog](https://compiled.blog)
+ - date_published: 2024-06-20T06:01:33.623231+00:00
+
+ ## (no title)
+ - [https://components4developers.blog](https://components4developers.blog)
+ - date_published: 2024-10-16T10:51:34.493556+00:00
+
+ ## ML and robotics notes | Tutorials and implementations of machine learning and robotics algorithms.
+ - [https://comsci.blog](https://comsci.blog)
+ - date_published: 2023-09-19T13:33:35+00:00
+
+ ## connectedcircuits
+ - [https://connectedcircuits.blog](https://connectedcircuits.blog)
+ - date_published: 2024-05-01T03:56:17.981018+00:00
+
+ ## https://contrarianliving.blog
+ - [https://contrarianliving.blog](https://contrarianliving.blog)
+ - date_published: 2024-01-26T22:22:59.653234+00:00
+
+ ## cool as heck
+ - [https://cool-as-heck.blog](https://cool-as-heck.blog)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## crazy-type.blog
+ - [https://crazy-type.blog](https://crazy-type.blog)
+ - date_published: 2024-07-15T11:30:09+00:00
+
+ ## Mike Crittenden
+ - [https://critter.blog](https://critter.blog)
+ - date_published: 2024-06-21T19:30:48+00:00
+
+ ## nico’s blog · Job searching in 2024 is horribly broken
+ - [https://cropp.blog](https://cropp.blog)
+ - date_published: 2024-08-08T12:48:27.718327+00:00
+
+ ## CROSSVERTISE BLOG
+ - [https://crossvertise.blog](https://crossvertise.blog)
+ - date_published: 2024-06-25T02:52:36+00:00
+
+ ## CS 007: Personal Finance for Engineers | Stanford University 2017-22 (6th Year)
+ - [https://cs007.blog](https://cs007.blog)
+ - date_published: 2023-10-25T11:59:58.340140+00:00
+
+ ## Ctrl blog by Daniel Aleksandersen
+ - [https://ctrl.blog](https://ctrl.blog)
+ - date_published: 2023-10-25T09:01:41.317387+00:00
+ - tags: ['personal']
+
+ ## Ctrl blog newsletter delivery system
+ - [https://email.ctrl.blog](https://email.ctrl.blog)
+ - date_published: 2024-07-02T19:04:33.119754+00:00
+
+ ## Ctrl blog syndication server
+ - [https://feed.ctrl.blog](https://feed.ctrl.blog)
+ - date_published: 2021-06-02T12:19:40+00:00
+
  ## Ctrl blog search
  - [https://search.ctrl.blog](https://search.ctrl.blog)
  - date_published: 2024-07-20T03:09:35.011509+00:00
@@ -712,6 +868,10 @@
  ## λ ∧ ¬λ
  - [https://lamda.blog](https://lamda.blog)
  - date_published: 2024-10-19T02:45:51.411985+00:00
+
+ ## Land of Nod
+ - [https://landofnod.blog](https://landofnod.blog)
+ - date_published: 2024-12-14T10:36:54+00:00
 
  ## Lat × Long
  - [https://latlong.blog](https://latlong.blog)
@@ -3048,6 +3208,10 @@ Educação
  - [http://www.gondwana.geologia.ufrj.br](http://www.gondwana.geologia.ufrj.br)
  - date_published: 2021-07-08T14:46:14+00:00
 
+ ## Rádio UFRJ - Emissora educativa e multiplataforma
+ - [https://www.radio.ufrj.br](https://www.radio.ufrj.br)
+ - date_published: 2024-12-14T17:40:09.809395+00:00
+
  ## Universidade Federal de São Carlos — Universidade Federal de Sao Carlos
  - [http://www.ufscar.br](http://www.ufscar.br)
  - date_published: 2024-07-22T08:54:08.061213+00:00
@@ -3393,6 +3557,10 @@ Educação
  ## 80.000 Horas: Como fazer a diferença com a sua carreira
  - [https://80000horas.com.br](https://80000horas.com.br)
  - date_published: 2023-12-31T00:00:00+00:00
+
+ ## 91 Rock - O melhor player de rádio de rock | 91 Rock
+ - [http://91rock.com.br](http://91rock.com.br)
+ - date_published: 2024-03-23T16:45:44+00:00
 
  ## Abate Brutal
  - [https://abatebrutal.com.br](https://abatebrutal.com.br)
@@ -3903,168 +4071,4 @@ Educação
  ## Canal 3 Expo 2023 - Canal 3 Expo
  - [https://canal3expo.com.br](https://canal3expo.com.br)
  - date_published: 2024-05-08T10:33:09.380279+00:00
-
- ## Canal de Denúncias para Empresas
- - [https://canaldaetica.com.br](https://canaldaetica.com.br)
- - date_published: 2024-10-08T00:00:00+00:00
-
- ## Canaltech - Notícias de Tecnologia, Ciência e Entretenimento
- - [https://canaltech.com.br](https://canaltech.com.br)
- - date_published: 2024-10-30T08:18:34.749973+00:00
-
- ## Capterra Brasil ajuda você a encontrar o software certo para sua empresa
- - [https://www.capterra.com.br](https://www.capterra.com.br)
- - date_published: 2024-07-20T19:26:34.338604+00:00
-
- ## Carlinhos Brown - Oficial
- - [http://www.carlinhosbrown.com.br](http://www.carlinhosbrown.com.br)
- - date_published: 2020-06-23T00:00:00+00:00
-
- ## Casas de Apostas - Casa de Apostas
- - [https://casaapostas.com.br](https://casaapostas.com.br)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Casa do Código - Livros para Devs!
- - [https://www.casadocodigo.com.br](https://www.casadocodigo.com.br)
- - date_published: 2024-07-21T07:09:51.236127+00:00
-
- ## Homepage
- - [https://casinoble.com.br](https://casinoble.com.br)
- - date_published: 2024-09-19T20:32:22.850658+00:00
-
- ## CASU/UFMG
- - [https://casu.com.br](https://casu.com.br)
- - date_published: 2024-05-11T08:08:40.024641+00:00
-
- ## CAURJ
- - [https://www.caurj.com.br](https://www.caurj.com.br)
- - date_published: 2024-07-13T18:13:33.187041+00:00
-
- ## CAURN – Caixa Assistencial Universitária do Rio Grande do Norte | O plano de saúde dos funcionários da UFRN, IFRN e Entidades Associadas
- - [http://www.caurn.com.br](http://www.caurn.com.br)
- - date_published: 2024-07-13T18:13:30.765394+00:00
-
- ## CBN Ribeirão Preto
- - [https://www.cbnribeirao.com.br](https://www.cbnribeirao.com.br)
- - date_published: 2023-05-30T21:46:25+00:00
-
- ## Revendas CEDET
- - [https://revendas.cedet.com.br](https://revendas.cedet.com.br)
- - date_published: 2024-06-21T19:58:14.080606+00:00
-
- ## Celso Palmeira Neto's HP
- - [https://celsoneto.com.br](https://celsoneto.com.br)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Cetaphil | #1 marca mais recomendada por dermatologistas
- - [https://www.cetaphil.com.br](https://www.cetaphil.com.br)
- - date_published: 2024-10-30T23:04:34.366102+00:00
-
- ## Chrysler Home
- - [https://www.chrysler.com.br](https://www.chrysler.com.br)
- - date_published: 2024-06-17T11:44:17+00:00
-
- ## CineBuzz
- - [https://cinebuzz.com.br](https://cinebuzz.com.br)
- - date_published: 2024-07-11T17:33:12+00:00
-
- ## Citroën Home
- - [https://citroen.com.br](https://citroen.com.br)
- - date_published: 2023-12-11T16:02:47.705230+00:00
-
- ## Citroën Advisor – Compartilhe Sua Opinião
- - [http://www.citroen-advisor.com.br](http://www.citroen-advisor.com.br)
- - date_published: 2024-06-19T08:44:57.011167+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.com.br](https://www.citroenorigins.com.br)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## GZH - notícias, porto alegre, grêmio, inter, colunistas, jogos ao vivo e mais
- - [https://gauchazh.clicrbs.com.br](https://gauchazh.clicrbs.com.br)
- - date_published: 2024-10-30T05:31:41.697543+00:00
-
- ## O Tempo
- - [https://www.climadobrasil.com.br](https://www.climadobrasil.com.br)
- - date_published: 2024-06-25T17:30:51.425105+00:00
-
- ## Clima & Radar Brasil
- - [https://climaeradar.com.br](https://climaeradar.com.br)
- - date_published: 2024-05-07T13:25:28.245646+00:00
-
- ## Climate FieldView - Plataforma de Agricultura Digital
- - [https://climatefieldview.com.br](https://climatefieldview.com.br)
- - date_published: 2024-10-22T21:34:19.797636+00:00
-
- ## Advisor - API de previsão do tempo.
- - [https://advisor.climatempo.com.br](https://advisor.climatempo.com.br)
- - date_published: 2019-06-10T19:33:45+00:00
-
- ## Tudo sobre o tempo, clima e o agro: fique por dentro da previsão e das notícias no Agroclima
- - [https://agroclima.climatempo.com.br](https://agroclima.climatempo.com.br)
- - date_published: 2024-10-28T12:26:46+00:00
-
- ## Agrotalk - Podcast da Climatempo, Ouça agora! | Climatempo
- - [https://agrotalk.climatempo.com.br](https://agrotalk.climatempo.com.br)
- - date_published: 2024-10-28T12:28:17+00:00
-
- ## Pédagua | Alagamentos, Chuva, Raios e Ventos tudo em um só aplicativo para você se prevenir - By Climatempo
- - [https://pedagua.climatempo.com.br](https://pedagua.climatempo.com.br)
- - date_published: 2024-10-28T12:29:14.649381+00:00
-
- ## Clima e previsão do tempo: Meteorologia é na Climatempo!
- - [https://www.climatempo.com.br](https://www.climatempo.com.br)
- - date_published: 2024-06-19T08:25:30.872543+00:00
-
- ## Blog CloudScript
- - [https://blog.cloudscript.com.br](https://blog.cloudscript.com.br)
- - date_published: 2024-07-13T09:31:41.909631+00:00
-
- ## 'Serviços em Cloud Computing | CloudScript'
- - [https://cloudscript.com.br](https://cloudscript.com.br)
- - date_published: 2024-05-11T07:03:29.671668+00:00
-
- ## Cloud Summit Cerrado 2024
- - [https://www.cloudsummitcerrado.com.br](https://www.cloudsummitcerrado.com.br)
- - date_published: 2024-05-15T13:49:43+00:00
-
- ## Resort all-Inclusive: viagens no Brasil e no mundo | Club Med
- - [https://www.clubmed.com.br](https://www.clubmed.com.br)
- - date_published: 2024-05-10T06:56:17.662518+00:00
-
- ## Working at Club Med
- - [http://www.clubmedjobs.com.br](http://www.clubmedjobs.com.br)
- - date_published: 2024-07-13T02:14:17.693263+00:00
-
- ## Comunidade das Nações – Fortaleza/CE
- - [https://cnfortaleza.com.br](https://cnfortaleza.com.br)
- - date_published: 2024-12-12T06:47:14.567320+00:00
-
- ## CNN Brasil
- - [https://www.cnnbrasil.com.br](https://www.cnnbrasil.com.br)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## CBR
- - [https://codigobrazuca.com.br](https://codigobrazuca.com.br)
- - date_published: 2024-06-16T05:05:22.581828+00:00
-
- ## Código Fonte – Tecnologia de [a-Z]
- - [https://codigofonte.com.br](https://codigofonte.com.br)
- - date_published: 2024-05-06T14:19:59.313706+00:00
-
- ## Compilado do Código Fonte TV
- - [https://compilado.codigofonte.com.br](https://compilado.codigofonte.com.br)
- - date_published: 2024-06-23T12:31:07.690087+00:00
-
- ## Pesquisa Salarial de Programadores 2024 - Código Fonte TV
- - [https://pesquisa.codigofonte.com.br](https://pesquisa.codigofonte.com.br)
- - date_published: 2024-06-23T12:31:10.754794+00:00
-
- ## Cointimes | Ganhe crypto todo dia lendo, navegando ou comprando
- - [https://cointimes.com.br](https://cointimes.com.br)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Saúde e Cuidado Bucal | Colgate®
- - [https://www.colgate.com.br](https://www.colgate.com.br)
- - date_published: 2021-05-17T00:00:00+00:00
 

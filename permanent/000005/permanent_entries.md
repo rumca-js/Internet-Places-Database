@@ -1,3 +1,43 @@
+ ## Genea.app - Build your family tree
+ - [https://www.genea.app](https://www.genea.app)
+ - date_published: 2022-03-23T15:28:04+00:00
+
+ ## Apps, welcome home.
+ - [https://get.app](https://get.app)
+ - date_published: 2024-05-10T05:46:32.432269+00:00
+
+ ## Aegis Authenticator - Secure 2FA app for Android
+ - [https://getaegis.app](https://getaegis.app)
+ - date_published: 2023-10-25T11:46:37.370107+00:00
+
+ ## Get the Boom App: Bring the Boom to every video call
+ - [https://www.getboom.app](https://www.getboom.app)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Your Phone, Minus the Distractions
+ - [https://getbrick.app](https://getbrick.app)
+ - date_published: 2024-06-09T04:16:51+00:00
+
+ ## Getcho | Fast & Reliable on-demand delivery
+ - [https://getcho.app](https://getcho.app)
+ - date_published: 2024-06-06T19:54:58+00:00
+
+ ## Converse
+ - [https://getconverse.app](https://getconverse.app)
+ - date_published: 2024-09-04T12:28:43.455826+00:00
+
+ ## CURE: Eine App für alle Gesundheitsthemen.
+ - [https://www.getcure.app](https://www.getcure.app)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## gumdrop
+ - [https://getgumdrop.app](https://getgumdrop.app)
+ - date_published: 2024-06-10T12:48:23.633923+00:00
+
+ ## Landscape - Mountaineering and Alpine Climbing App
+ - [https://getlandscape.app](https://getlandscape.app)
+ - date_published: 2024-05-06T21:34:12.949335+00:00
+
  ## Lotus
  - [https://getlotus.app](https://getlotus.app)
  - date_published: 2024-05-06T21:28:43.934553+00:00
@@ -1099,8 +1139,16 @@
  - date_published: 2024-08-04T00:36:55+00:00
 
  ## Lunar: The smarter way to bank
- - [http://www.lunar.app](http://www.lunar.app)
+ - [https://lunar.app](https://lunar.app)
  - date_published: 2024-10-31T15:58:21.256816+00:00
+
+ ## Lunar Status
+ - [https://status.lunar.app](https://status.lunar.app)
+ - date_published: 2024-12-14T19:26:50.642862+00:00
+
+ ## Get help
+ - [https://support.lunar.app](https://support.lunar.app)
+ - date_published: 2024-12-14T19:26:43.672283+00:00
 
  ## LunaSea – Self-Hosted Controller
  - [https://lunasea.app](https://lunasea.app)
@@ -3988,54 +4036,4 @@
  ## RaveDaddy - Play Hard. Play Safe.
  - [https://www.ravedaddy.app](https://www.ravedaddy.app)
  - date_published: 2024-10-23T17:40:41+00:00
-
- ## Raven Reader
- - [https://ravenreader.app](https://ravenreader.app)
- - date_published: 2024-10-10T04:59:52+00:00
- - tags: ['rss client']
-
- ## Raycast Music
- - [https://raycast-music.app](https://raycast-music.app)
- - date_published: 2024-02-10T00:00:00+00:00
-
- ## readflow
- - [https://about.readflow.app](https://about.readflow.app)
- - date_published: 2024-10-31T04:59:38.520903+00:00
-
- ## readflow
- - [https://readflow.app](https://readflow.app)
- - date_published: 2024-06-19T22:21:35.751758+00:00
-
- ## ReadKit - Have all your reading in one place
- - [https://readkit.app](https://readkit.app)
- - date_published: 2024-01-19T10:06:27+00:00
-
- ## Read Manga Online
- - [https://readmanga.app](https://readmanga.app)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Rectangles
- - [https://rectangles.app](https://rectangles.app)
- - date_published: 2024-07-23T23:32:49.875653+00:00
-
- ## Log In ‹ Red Global Venezuela — WordPress
- - [https://redglobalvenezuela.app](https://redglobalvenezuela.app)
- - date_published: 2024-09-11T01:31:53.970843+00:00
-
- ## Reeder 5
- - [https://reeder.app](https://reeder.app)
- - date_published: 2023-04-12T12:59:25+00:00
- - tags: ['rss client']
-
- ## Reflame
- - [https://reflame.app](https://reflame.app)
- - date_published: 2023-10-25T11:48:32.422376+00:00
-
- ## Reflect Notes
- - [https://reflect.app](https://reflect.app)
- - date_published: 2023-10-25T11:48:33.629478+00:00
-
- ## Reflection.app — Your guided journal for wellness and growth.
- - [http://reflection.app](http://reflection.app)
- - date_published: 2024-09-09T00:00:00+00:00
 

@@ -1192,6 +1192,10 @@
  - [https://www.ucoz.ae](https://www.ucoz.ae)
  - date_published: 2024-07-13T21:02:32.363399+00:00
 
+ ## Aftermarket Automotive Parts and Services | Valeo Service
+ - [https://www.valeoservice.ae](https://www.valeoservice.ae)
+ - date_published: 2024-12-14T11:50:43+00:00
+
  ## Experience Abu Dhabi | Travel and Tourism | Visit Abu Dhabi
  - [https://visitabudhabi.ae](https://visitabudhabi.ae)
  - date_published: 2024-07-15T00:00:44.712761+00:00
@@ -1598,6 +1602,10 @@
  - [https://www.mrrd.gov.af](https://www.mrrd.gov.af)
  - date_published: 2024-02-05T00:00:00+00:00
 
+ ## AFIS – The African Financial Summit platform
+ - [https://www.afis.africa](https://www.afis.africa)
+ - date_published: 2024-12-14T13:35:07.107402+00:00
+
  ## Afripods - Podcasting platform amplifying Africa
  - [https://afripods.africa](https://afripods.africa)
  - date_published: 2024-07-13T08:40:57+00:00
@@ -1623,7 +1631,7 @@
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## The African Private Capital Association (AVCA)
- - [https://www.avca.africa](https://www.avca.africa)
+ - [https://avca.africa](https://avca.africa)
  - date_published: 2024-10-31T11:07:26.490165+00:00
 
  ## AWPL – African Women in Political Leadership – Empowering Next Generation of Women in Political Leadership
@@ -4010,12 +4018,4 @@
  ## Careerdekho AI — AI Career Discovery Tool
  - [https://careerdekho.ai](https://careerdekho.ai)
  - date_published: 2024-06-19T20:04:36.381554+00:00
-
- ## Free AI Cover Letter Generator: Powered By ChatGPT
- - [https://careered.ai](https://careered.ai)
- - date_published: 2023-10-25T11:36:45.243241+00:00
-
- ## Career Copilot | AI Job Search Tracker and More
- - [https://app.careerflow.ai](https://app.careerflow.ai)
- - date_published: 2024-10-30T08:08:10.368874+00:00
 

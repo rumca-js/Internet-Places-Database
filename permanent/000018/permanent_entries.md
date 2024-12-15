@@ -1,3 +1,216 @@
+ ## Home - CPS
+ - [https://www.cps-ecp.ca](https://www.cps-ecp.ca)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Canadian Public Transit Discussion Board
+ - [https://cptdb.ca](https://cptdb.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## craigslist | canada
+ - [https://toronto.craigslist.ca](https://toronto.craigslist.ca)
+ - date_published: 2024-08-05T20:41:10+00:00
+
+ ## CRAQ | Comprendre l'Univers
+ - [https://craq-astro.ca](https://craq-astro.ca)
+ - date_published: 2024-09-16T00:58:01.002259+00:00
+
+ ## Observatoire du Mont-Mégantic – Page d'accueil
+ - [http://omm.craq-astro.ca](http://omm.craq-astro.ca)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Modern Furniture Store, Kitchen & Home Decor Canada | Crate & Barrel Canada
+ - [https://www.crateandbarrel.ca](https://www.crateandbarrel.ca)
+ - date_published: 2024-08-05T22:42:08.940719+00:00
+
+ ## analytics.crea.ca - /
+ - [https://analytics.crea.ca](https://analytics.crea.ca)
+ - date_published: 2024-07-04T02:31:27.058721+00:00
+
+ ## Home
+ - [https://www.crea.ca](https://www.crea.ca)
+ - date_published: 2024-09-19T01:29:47.031433+00:00
+
+ ## CreativePEI – A catalyst for Prince Edward Island's Creative Industries
+ - [https://creativepei.ca](https://creativepei.ca)
+ - date_published: 2024-05-08T09:06:34.258869+00:00
+
+ ## creditcardGenius
+ - [https://creditcardgenius.ca](https://creditcardgenius.ca)
+ - date_published: 2024-09-27T08:13:51.370308+00:00
+
+ ## Credit Karma
+ - [https://creditkarma.ca](https://creditkarma.ca)
+ - date_published: 2024-05-31T20:19:05.638595+00:00
+
+ ## Credit Karma Customer Community
+ - [https://support.creditkarma.ca](https://support.creditkarma.ca)
+ - date_published: 2023-06-17T06:10:52+00:00
+
+ ## CREST.BD | New directions in bipolar disorder research, treatment and care
+ - [https://www.crestbd.ca](https://www.crestbd.ca)
+ - date_published: 2024-08-17T17:25:50+00:00
+
+ ## CRG Survey
+ - [https://survey.crg.ca](https://survey.crg.ca)
+ - date_published: 2024-07-07T03:37:41.240503+00:00
+
+ ## criticalhitmontreal.ca
+ - [http://criticalhitmontreal.ca](http://criticalhitmontreal.ca)
+ - date_published: 2023-06-23T17:35:20+00:00
+
+ ## CRRS Publications
+ - [https://pubs.crrs.ca](https://pubs.crrs.ca)
+ - date_published: 2024-06-26T21:36:12.691806+00:00
+
+ ## CryptoChicks – Blockchain, AI, Programming and Emerging Tech Education For Women
+ - [https://cryptochicks.ca](https://cryptochicks.ca)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## CryptoWhales - CryptoWhales Game
+ - [http://cryptowhales.cryptochicks.ca](http://cryptowhales.cryptochicks.ca)
+ - date_published: 2019-12-26T03:52:58+00:00
+
+ ## Cryptoducation  is  L3arn.BTC – Education & Consulting Services about Bitcoin
+ - [https://cryptoducation.ca](https://cryptoducation.ca)
+ - date_published: 2024-06-16T04:17:56.482247+00:00
+
+ ## Canadian Society of Christian Philosophers
+ - [https://cscp-scpc.ca](https://cscp-scpc.ca)
+ - date_published: 2024-06-17T03:01:27.690326+00:00
+
+ ## Canadian Social Knowledge Institute (C-SKI) | Engaging in issues related to open social scholarship
+ - [https://c-ski.ca](https://c-ski.ca)
+ - date_published: 2024-07-11T13:08:15.879586+00:00
+
+ ## cStreet Campaigns
+ - [http://www.cstreet.ca](http://www.cstreet.ca)
+ - date_published: 2024-07-13T17:56:32.403317+00:00
+
+ ## Publication & Resource Catalogue | Canadian Teachers' Federation
+ - [https://publications.ctf-fce.ca](https://publications.ctf-fce.ca)
+ - date_published: 2024-10-21T11:45:18.244008+00:00
+
+ ## Charles T. Low - ctLow
+ - [https://ctlow.ca](https://ctlow.ca)
+ - date_published: 2023-08-10T23:38:30+00:00
+
+ ## Charles T. Low Photography
+ - [https://photog.ctlow.ca](https://photog.ctlow.ca)
+ - date_published: 2023-11-04T00:00:00+00:00
+
+ ## Online Tactical Medical Training & Supplies - CTOMS
+ - [https://ctoms.ca](https://ctoms.ca)
+ - date_published: 2024-08-06T18:14:33.595263+00:00
+
+ ## https://www.ctv.ca
+ - [https://ctv.ca](https://ctv.ca)
+ - date_published: 2023-12-12T08:41:11.546084+00:00
+
+ ## CTV | Extras
+ - [https://more.ctv.ca](https://more.ctv.ca)
+ - date_published: 2024-05-10T02:41:39.983330+00:00
+
+ ## Bell Media Account
+ - [https://account.ctvnews.ca](https://account.ctvnews.ca)
+ - date_published: 2024-05-09T09:25:16.287600+00:00
+
+ ## Atlantic News | Local Breaking | CTV News Atlantic
+ - [https://atlantic.ctvnews.ca](https://atlantic.ctvnews.ca)
+ - date_published: 2023-12-12T08:42:19.488706+00:00
+
+ ## Barrie News | Local Breaking | CTV News Barrie
+ - [https://barrie.ctvnews.ca](https://barrie.ctvnews.ca)
+ - date_published: 2023-12-12T08:40:59.543668+00:00
+
+ ## Vancouver News | Local Breaking | CTV News Vancouver
+ - [https://bc.ctvnews.ca](https://bc.ctvnews.ca)
+ - date_published: 2023-10-25T10:55:57.032920+00:00
+
+ ## Calgary News | Local Breaking | CTV News Calgary
+ - [https://calgary.ctvnews.ca](https://calgary.ctvnews.ca)
+ - date_published: 2023-12-12T09:06:04.685094+00:00
+
+ ## CTV News - Breaking News, Canada News Today
+ - [https://ctvnews.ca](https://ctvnews.ca)
+ - date_published: 2023-12-12T09:06:16.335891+00:00
+ - tags: ['canada news']
+
+ ## Edmonton News | CTV News | Edmonton Weather
+ - [https://edmonton.ctvnews.ca](https://edmonton.ctvnews.ca)
+ - date_published: 2023-12-12T08:42:34.458083+00:00
+
+ ## Kitchener News | Local Breaking | CTV News Kitchener
+ - [https://kitchener.ctvnews.ca](https://kitchener.ctvnews.ca)
+ - date_published: 2023-12-12T09:06:38.784881+00:00
+
+ ## London News | Weather & Local Breaking | CTV News London
+ - [https://london.ctvnews.ca](https://london.ctvnews.ca)
+ - date_published: 2023-10-25T10:52:18.091793+00:00
+
+ ## Montreal News | Local Breaking | CTV News Montreal
+ - [https://montreal.ctvnews.ca](https://montreal.ctvnews.ca)
+ - date_published: 2023-11-09T19:00:28.953347+00:00
+
+ ## Northern Ontario News | Local Breaking | CTV News Northern Ontario
+ - [https://northernontario.ctvnews.ca](https://northernontario.ctvnews.ca)
+ - date_published: 2023-12-12T08:40:48.811443+00:00
+
+ ## Ottawa News | Local Breaking | CTV News Ottawa
+ - [https://ottawa.ctvnews.ca](https://ottawa.ctvnews.ca)
+ - date_published: 2023-10-25T10:56:04.116973+00:00
+
+ ## Regina News | Regina Weather | CTV News Regina
+ - [https://regina.ctvnews.ca](https://regina.ctvnews.ca)
+ - date_published: 2023-12-12T08:42:43.297708+00:00
+
+ ## Saskatoon News | Local Breaking | CTV News Saskatoon
+ - [https://saskatoon.ctvnews.ca](https://saskatoon.ctvnews.ca)
+ - date_published: 2023-12-12T08:41:36.159326+00:00
+
+ ## Requête rejetée / Request Rejected
+ - [http://static.ctvnews.ca](http://static.ctvnews.ca)
+ - date_published: 2024-07-03T11:15:07.523480+00:00
+
+ ## Toronto News | Breaking News | CTV News Toronto
+ - [https://toronto.ctvnews.ca](https://toronto.ctvnews.ca)
+ - date_published: 2023-10-25T10:56:11.669804+00:00
+
+ ## Victoria News | Local Breaking | CTV News Vancouver Island
+ - [https://vancouverisland.ctvnews.ca](https://vancouverisland.ctvnews.ca)
+ - date_published: 2023-12-12T09:06:50.809150+00:00
+
+ ## Windsor News | Local Breaking | CTV News Windsor
+ - [https://windsor.ctvnews.ca](https://windsor.ctvnews.ca)
+ - date_published: 2023-12-12T09:06:32.505848+00:00
+
+ ## Winnipeg News | CTV News Winnipeg
+ - [https://winnipeg.ctvnews.ca](https://winnipeg.ctvnews.ca)
+ - date_published: 2023-12-12T09:06:26.016061+00:00
+
+ ## curiouscast.ca
+ - [https://curiouscast.ca](https://curiouscast.ca)
+ - date_published: 2024-07-20T02:48:19.212748+00:00
+
+ ## Home - CUSA
+ - [https://cusaonline.ca](https://cusaonline.ca)
+ - date_published: 2023-08-15T15:25:58+00:00
+
+ ## Mortgage Broker Burnaby | Reverse Mortgage | Mortgage Broker North Vancouver
+ - [https://custommortgages.ca](https://custommortgages.ca)
+ - date_published: 2024-12-11T22:45:20.747543+00:00
+
+ ## Home - CUTA
+ - [https://cutaactu.ca](https://cutaactu.ca)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## CWA Canada • The Media Union
+ - [https://cwacanada.ca](https://cwacanada.ca)
+ - date_published: 2024-09-09T23:24:54.891431+00:00
+
+ ## Home - Canadian Water and Wastewater Association
+ - [https://cwwa.ca](https://cwwa.ca)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## Accueil - Cybereco
  - [http://www.cybereco.ca](http://www.cybereco.ca)
  - date_published: 2024-06-21T00:00:00+00:00
@@ -854,6 +1067,10 @@
  - [http://ici.exploratv.ca](http://ici.exploratv.ca)
  - date_published: 2024-07-10T05:32:02.643262+00:00
 
+ ## Tourisme Terre-Neuve-et-Labrador - ExploreTNL
+ - [https://www.exploretnl.ca](https://www.exploretnl.ca)
+ - date_published: 2024-12-14T14:00:14.461239+00:00
+
  ## Extreme Taxidermy – Quality Alberta Taxidermy
  - [http://www.extremetaxidermy.ca](http://www.extremetaxidermy.ca)
  - date_published: 2024-08-20T05:35:50.278066+00:00
@@ -1476,6 +1693,10 @@
  - [http://www.golfcanada.ca](http://www.golfcanada.ca)
  - date_published: 2021-01-26T15:34:42+00:00
 
+ ## Golf PEI
+ - [https://golfpei.ca](https://golfpei.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
  ## GoLife: Affordable Term Life Insurance
  - [https://golife.ca](https://golife.ca)
  - date_published: 2024-08-07T11:51:42.098198+00:00
@@ -2086,6 +2307,10 @@
  ## Find Books You Love from Local Canadian Bookstores
  - [https://indiebookstores.ca](https://indiebookstores.ca)
  - date_published: 2024-05-07T09:48:41.100378+00:00
+
+ ## Indigenous PEI
+ - [https://indigenouspei.ca](https://indigenouspei.ca)
+ - date_published: 2024-12-14T13:59:50.839282+00:00
 
  ## Indigenous Tourism Association of Canada | Corporate
  - [https://indigenoustourism.ca](https://indigenoustourism.ca)
@@ -3812,230 +4037,4 @@
  ## A Shop of Musical Things | Spreadshop
  - [https://a-shop-of-musical-things.myspreadshop.ca](https://a-shop-of-musical-things.myspreadshop.ca)
  - date_published: 2024-09-02T00:00:00+00:00
-
- ## The Bulwark Store | Spreadshop
- - [https://bulwark.myspreadshop.ca](https://bulwark.myspreadshop.ca)
- - date_published: 2024-06-24T06:31:52.246115+00:00
-
- ## CleanTechnica
- - [https://cleantechnica.myspreadshop.ca](https://cleantechnica.myspreadshop.ca)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Cults official store | Spreadshop
- - [https://cults3d.myspreadshop.ca](https://cults3d.myspreadshop.ca)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## GameMaker Merchandise - Shirts Hoodies & Caps | GameMaker | Spreadshop
- - [https://gamemaker.myspreadshop.ca](https://gamemaker.myspreadshop.ca)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Mautic Community Swag Shop | Spreadshop
- - [https://mautic-community-swag-shop.myspreadshop.ca](https://mautic-community-swag-shop.myspreadshop.ca)
- - date_published: 2024-07-18T15:08:27.309833+00:00
-
- ## motherrefugeoftheendtimes | Spreadshop
- - [https://motherrefugeoftheendtimes.myspreadshop.ca](https://motherrefugeoftheendtimes.myspreadshop.ca)
- - date_published: 2024-07-03T18:44:05.369043+00:00
-
- ## Open Mainframe Project Store | Spreadshop
- - [https://open-mainframe-project-store.myspreadshop.ca](https://open-mainframe-project-store.myspreadshop.ca)
- - date_published: 2024-07-08T12:25:06.919216+00:00
-
- ## OpenSSF Merch Store
- - [https://openssf.myspreadshop.ca](https://openssf.myspreadshop.ca)
- - date_published: 2024-07-08T12:42:42.576911+00:00
-
- ## ShopName | Spreadshop
- - [https://shopname.myspreadshop.ca](https://shopname.myspreadshop.ca)
- - date_published: 2024-10-21T08:58:26.223782+00:00
-
- ## The Mary Sue Shop
- - [https://themarysue.myspreadshop.ca](https://themarysue.myspreadshop.ca)
- - date_published: 2024-09-04T01:39:50.545251+00:00
-
- ## Meaningful Acts: RPG storytelling
- - [https://mythos-acts.ca](https://mythos-acts.ca)
- - date_published: 2022-05-05T18:07:53+00:00
-
- ## Plant-based Protein Powders | Vega
- - [https://myvega.ca](https://myvega.ca)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Login | National Arts Centre
- - [https://arts.nac-cna.ca](https://arts.nac-cna.ca)
- - date_published: 2024-07-13T11:37:33.017724+00:00
-
- ## National Arts Centre | Canada is our stage
- - [https://nac-cna.ca](https://nac-cna.ca)
- - date_published: 2024-05-11T07:11:25.545312+00:00
-
- ## Donate Now - NAC Foundation | Fondation CNA
- - [https://secure.nac-cna.ca](https://secure.nac-cna.ca)
- - date_published: 2024-07-13T11:37:23.924534+00:00
-
- ## NA – NCTR
- - [https://nac-cnn.ca](https://nac-cnn.ca)
- - date_published: 2024-08-11T07:13:31.682743+00:00
-
- ## Mina Naguib
- - [https://mina.naguib.ca](https://mina.naguib.ca)
- - date_published: 2023-10-25T09:02:42.738096+00:00
- - tags: ['personal']
-
- ## Nail salons in Canada, Canada
- - [http://www.nail-salons.ca](http://www.nail-salons.ca)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Best Nail Wraps And Nail Stickers In Canada.
- - [https://nailwraps.ca](https://nailwraps.ca)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## Home
- - [https://www.nait.ca](https://www.nait.ca)
- - date_published: 2024-09-24T21:19:00.805904+00:00
-
- ## Lychee v4
- - [https://img.naln1.ca](https://img.naln1.ca)
- - date_published: 2024-07-10T08:19:24.132539+00:00
-
- ## Lighter Black
- - [https://lighterblack.naln1.ca](https://lighterblack.naln1.ca)
- - date_published: 2023-02-13T23:37:33+00:00
-
- ## Home
- - [https://naln1.ca](https://naln1.ca)
- - date_published: 2024-05-09T08:06:35.483977+00:00
-
- ## NamesPro.ca | Register Domain, .ca Domain, Domain Registration Canada, Canadian Domain, Web Hosting Canada, Canadian Hosting, Windows Hosting, Linux Hosting
- - [https://namespro.ca](https://namespro.ca)
- - date_published: 2024-06-16T10:38:18.412271+00:00
-
- ## Namespro.ca | WebMail
- - [http://webmail.namespro.ca](http://webmail.namespro.ca)
- - date_published: 2024-06-16T10:38:20.086041+00:00
-
- ## Whois
- - [http://whois.namespro.ca](http://whois.namespro.ca)
- - date_published: 2024-06-16T10:38:24.965728+00:00
-
- ## Narconon | Drug Rehabilitation | Drug Education
- - [https://www.narconon.ca](https://www.narconon.ca)
- - date_published: 2024-09-04T18:05:17.796392+00:00
-
- ## NARS Cosmetics Canada | Magasin officiel | Maquillage et soins de la peau
- - [https://fr.narscosmetics.ca](https://fr.narscosmetics.ca)
- - date_published: 2024-10-29T09:02:45.531366+00:00
-
- ## NARS Cosmetics Canada | Official Store | Makeup & Skincare
- - [http://www.narscosmetics.ca](http://www.narscosmetics.ca)
- - date_published: 2024-10-29T09:02:15.932663+00:00
-
- ## NATIONAL
- - [https://www.national.ca](https://www.national.ca)
- - date_published: 2024-06-25T22:32:25+00:00
-
- ## The National Citizen's Inquiry (NCI)
- - [https://nationalcitizensinquiry.ca](https://nationalcitizensinquiry.ca)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## National Geographic - Videos, TV Shows & Photos - Canada
- - [http://www.nationalgeographic.ca](http://www.nationalgeographic.ca)
- - date_published: 2024-07-02T10:12:03.674390+00:00
-
- ## The National Housing Accord: A Multi-Sector Approach to Ending Canada’s Rental Housing Crisis
- - [https://nationalhousingaccord.ca](https://nationalhousingaccord.ca)
- - date_published: 2024-04-30T05:05:37.567674+00:00
-
- ## Welcome - Native-Land.ca
- - [https://native-land.ca](https://native-land.ca)
- - date_published: 2024-05-07T19:53:31.473073+00:00
-
- ## Naturepedic: Organic Mattresses & Healthy Sleep for the Whole Family
- - [https://www.naturepedic.ca](https://www.naturepedic.ca)
- - date_published: 2024-06-23T16:20:13.000635+00:00
-
- ## Nature United
- - [https://natureunited.ca](https://natureunited.ca)
- - date_published: 2024-05-08T10:42:31.756794+00:00
-
- ## Home - Yoonsik Park
- - [https://www.naut.ca](https://www.naut.ca)
- - date_published: 2024-10-22T21:52:47.743157+00:00
-
- ## Experts de l’architecture navale à Gaspé | Navanex
- - [https://navanex.ca](https://navanex.ca)
- - date_published: 2024-10-18T06:56:26.619101+00:00
-
- ## Noah Bailey
- - [https://nbailey.ca](https://nbailey.ca)
- - date_published: 2023-10-25T09:02:43.574973+00:00
- - tags: ['personal']
-
- ## Branches and ATM Locator | National Bank
- - [https://locator.nbc.ca](https://locator.nbc.ca)
- - date_published: 2024-08-13T13:11:41+00:00
-
- ## Personal Banking Solutions | National Bank
- - [https://nbc.ca](https://nbc.ca)
- - date_published: 2023-10-25T12:06:20.620409+00:00
-
- ## Online brokerage | NBDB
- - [https://nbdb.ca](https://nbdb.ca)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Home | National Bank Financial - Wealth Management
- - [https://www.nbfwm.ca](https://www.nbfwm.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home Page National Bank Independent Network | NBIN
- - [https://www.nbin.ca](https://www.nbin.ca)
- - date_published: 2024-08-19T09:33:09+00:00
-
- ## NBI Funds & Returns | National Bank Investments
- - [https://www.nbinvestments.ca](https://www.nbinvestments.ca)
- - date_published: 2024-08-19T09:49:52+00:00
-
- ## Homepage | National Collaborating Centre for Environmental Health | NCCEH - CCSNE | National Collaborating Centre for Environmental Health | NCCEH - CCSNE
- - [https://ncceh.ca](https://ncceh.ca)
- - date_published: 2024-05-02T13:42:38.559861+00:00
-
- ## Home
- - [http://ncchpp.ca](http://ncchpp.ca)
- - date_published: 2024-10-22T15:19:54.497526+00:00
-
- ## National Collaborating Centre for Infectious Diseases
- - [https://nccid.ca](https://nccid.ca)
- - date_published: 2024-10-22T15:21:18.528125+00:00
-
- ## WELCOME TO THE NCCIH
- - [https://nccih.ca](https://nccih.ca)
- - date_published: 2024-10-22T15:21:24.879593+00:00
-
- ## NCCM - National Council of Canadian Muslims
- - [https://www.nccm.ca](https://www.nccm.ca)
- - date_published: 2024-05-02T13:49:11.118440+00:00
-
- ## Home | National Collaborating Centre for Methods and Tools
- - [http://www.nccmt.ca](http://www.nccmt.ca)
- - date_published: 2024-10-22T15:20:23.711674+00:00
-
- ## NCCPH
- - [https://nccph.ca](https://nccph.ca)
- - date_published: 2024-06-18T15:50:33.745844+00:00
-
- ## WEB.NCF.CA
- - [http://web.ncf.ca](http://web.ncf.ca)
- - date_published: 2020-09-04T01:26:08+00:00
-
- ## Home - National Capital FreeNet
- - [http://www.ncf.ca](http://www.ncf.ca)
- - date_published: 2024-06-30T07:24:49.742574+00:00
-
- ## NCTR Archives - NCTR Public
- - [https://archives.nctr.ca](https://archives.nctr.ca)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## Home - NCTR
- - [https://nctr.ca](https://nctr.ca)
- - date_published: 2024-04-05T00:00:00+00:00
 

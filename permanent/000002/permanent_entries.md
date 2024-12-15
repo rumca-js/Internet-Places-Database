@@ -1,3 +1,11 @@
+ ## FC'10 : Financial Cryptography 2010
+ - [https://fc10.ifca.ai](https://fc10.ifca.ai)
+ - date_published: 2010-02-04T09:32:53+00:00
+
+ ## FC'11 : Financial Cryptography 2011
+ - [https://fc11.ifca.ai](https://fc11.ifca.ai)
+ - date_published: 2024-05-06T15:12:42.430968+00:00
+
  ## Financial Crypto 2015 -- Home
  - [http://fc15.ifca.ai](http://fc15.ifca.ai)
  - date_published: 2024-10-27T12:06:05.380626+00:00
@@ -3677,12 +3685,24 @@
  - [https://pixverse.ai](https://pixverse.ai)
  - date_published: 2024-06-11T03:38:23+00:00
 
+ ## Placer
+ - [https://analytics.placer.ai](https://analytics.placer.ai)
+ - date_published: 2024-12-08T17:43:31+00:00
+
+ ## The Anchor
+ - [https://anchor.placer.ai](https://anchor.placer.ai)
+ - date_published: 2024-12-12T17:30:20+00:00
+
  ## Placer Discover | Grocery Virtual Event
  - [https://discover.placer.ai](https://discover.placer.ai)
  - date_published: 2024-06-30T00:00:00+00:00
 
+ ## Placer
+ - [https://embedded-widget.placer.ai](https://embedded-widget.placer.ai)
+ - date_published: 2024-12-12T10:38:29+00:00
+
  ## Location Intelligence & Foot Traffic Data Software – Placer.ai
- - [https://www.placer.ai](https://www.placer.ai)
+ - [https://placer.ai](https://placer.ai)
  - date_published: 2024-10-31T12:21:55+00:00
 
  ## Customer Footfall Analysis & Insights | PlaceSense
@@ -4000,24 +4020,4 @@
  ## AI Product Photography & Amazon Lising Optimizer for Brands
  - [https://productscope.ai](https://productscope.ai)
  - date_published: 2024-05-16T00:00:00+00:00
-
- ## AI Profile Picture Generator and Maker | PFP.AI
- - [https://profilepicture.ai](https://profilepicture.ai)
- - date_published: 2024-07-24T02:30:50.604521+00:00
-
- ## Ai Project Planner tools
- - [https://app.projectplanner.ai](https://app.projectplanner.ai)
- - date_published: 2024-10-30T14:39:21.332475+00:00
-
- ## Project Planner – Ai powered Project management tools
- - [https://projectplanner.ai](https://projectplanner.ai)
- - date_published: 2024-06-19T19:51:28.975369+00:00
-
- ## Learn, Share, Connect | HackHub
- - [https://promatch.ai](https://promatch.ai)
- - date_published: 2024-02-24T07:27:58+00:00
-
- ## Cognee - We help you build deterministic AI memory
- - [https://www.prometh.ai](https://www.prometh.ai)
- - date_published: 2024-06-19T19:50:46.126889+00:00
 

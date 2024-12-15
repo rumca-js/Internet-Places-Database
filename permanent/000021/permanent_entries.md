@@ -1,3 +1,241 @@
+ ## Corvid Cafe
+ - [https://corvid.cafe](https://corvid.cafe)
+ - date_published: 2024-06-12T02:14:36+00:00
+
+ ## CRO.CAFE | Nederlandstalig
+ - [https://nl.cro.cafe](https://nl.cro.cafe)
+ - date_published: 2022-11-23T00:00:00+00:00
+
+ ## CRO.CAFE: Award winning CRO Podcast
+ - [https://www.cro.cafe](https://www.cro.cafe)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home - CSS-Cafe
+ - [https://css.cafe](https://css.cafe)
+ - date_published: 2024-04-30T02:02:44.004143+00:00
+
+ ## Mastodon
+ - [https://curmudgeon.cafe](https://curmudgeon.cafe)
+ - date_published: 2024-08-06T03:54:02.732033+00:00
+
+ ## CypherWeavers' Cafe
+ - [https://www.cypherweavers.cafe](https://www.cypherweavers.cafe)
+ - date_published: 2024-04-28T11:42:58+00:00
+
+ ## Daft Punk Cafe
+ - [https://daftpunk.cafe](https://daftpunk.cafe)
+ - date_published: 2024-05-06T21:28:58.823211+00:00
+
+ ## Eldritch Café
+ - [https://eldritch.cafe](https://eldritch.cafe)
+ - date_published: 2024-01-08T02:07:15.832728+00:00
+
+ ## elke.cafe
+ - [https://elke.cafe](https://elke.cafe)
+ - date_published: 2024-07-21T07:54:22+00:00
+
+ ## Emma Segal-Grossman
+ - [https://emma.cafe](https://emma.cafe)
+ - date_published: 2024-06-19T02:26:03.907484+00:00
+
+ ## Bit banging a 3.5" Floppy Drive
+ - [https://floppy.cafe](https://floppy.cafe)
+ - date_published: 2023-12-19T18:09:27+00:00
+
+ ## Functional Café
+ - [https://functional.cafe](https://functional.cafe)
+ - date_published: 2024-05-09T02:39:05.354509+00:00
+
+ ## gist.cafe
+ - [https://gist.cafe](https://gist.cafe)
+ - date_published: 2024-04-29T02:09:13+00:00
+
+ ## Golang Jobs  in August 2024  (1 new) | Golang Cafe
+ - [https://golang.cafe](https://golang.cafe)
+ - date_published: 2024-08-08T15:26:47.922657+00:00
+
+ ## Hey.Café
+ - [https://hey.cafe](https://hey.cafe)
+ - date_published: 2024-07-02T20:13:02.105446+00:00
+
+ ## HTML.cafe - a realtime HTML editor and host
+ - [https://html.cafe](https://html.cafe)
+ - date_published: 2024-07-23T23:42:59.598291+00:00
+
+ ## Hyperlink Cafe
+ - [https://hyperlink.cafe](https://hyperlink.cafe)
+ - date_published: 2024-05-06T15:01:28.005543+00:00
+
+ ## Home
+ - [https://jesse.cafe](https://jesse.cafe)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## joey☕
+ - [https://joey.cafe](https://joey.cafe)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Kusoge Coffeehouse
+ - [https://kusoge.cafe](https://kusoge.cafe)
+ - date_published: 2024-08-22T22:17:13.654070+00:00
+
+ ## Lab.cafe | Dielňa, Kaviareň, Podujatia
+ - [https://lab.cafe](https://lab.cafe)
+ - date_published: 2024-07-02T23:43:10.961811+00:00
+
+ ## lechuza café
+ - [https://lechuza.cafe](https://lechuza.cafe)
+ - date_published: 2024-04-03T06:30:06.410291+00:00
+ - tags: ['personal']
+
+ ## Lemmy Cafe - A general purpose fediverse instance
+ - [https://lemmy.cafe](https://lemmy.cafe)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Localization Café ☕
+ - [https://localization.cafe](https://localization.cafe)
+ - date_published: 2024-10-14T17:01:13.586754+00:00
+
+ ## lofi.cafe - lofi music 🎧
+ - [https://www.lofi.cafe](https://www.lofi.cafe)
+ - date_published: 2024-09-14T23:32:01.079026+00:00
+
+ ## Loom Cafe - Daniel Murray
+ - [https://loom.cafe](https://loom.cafe)
+ - date_published: 2024-07-21T07:49:20+00:00
+
+ ## lovesick ♡
+ - [https://lovesick.cafe](https://lovesick.cafe)
+ - date_published: 2024-06-19T20:12:44+00:00
+
+ ## Fido
+ - [https://fido.meadow.cafe](https://fido.meadow.cafe)
+ - date_published: 2024-09-14T23:16:16.504555+00:00
+
+ ## medic.cafe
+ - [https://medic.cafe](https://medic.cafe)
+ - date_published: 2024-05-10T06:47:49.954213+00:00
+
+ ## Nerdpol Café
+ - [https://nerdpol.cafe](https://nerdpol.cafe)
+ - date_published: 2024-08-06T17:46:45.025665+00:00
+
+ ## netcup
+ - [https://netcup.cafe](https://netcup.cafe)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ - [https://webzine.nixos.cafe](https://webzine.nixos.cafe)
+ - date_published: 2024-01-09T02:27:20.257524+00:00
+
+ ## A Message For All Of You.
+ - [https://ocha.cafe](https://ocha.cafe)
+ - date_published: 2024-06-08T02:11:51+00:00
+
+ ## Login
+ - [https://dns.omada.cafe](https://dns.omada.cafe)
+ - date_published: 2024-05-11T08:53:43.916124+00:00
+
+ ## Omada's Café Fedi
+ - [https://fedi.omada.cafe](https://fedi.omada.cafe)
+ - date_published: 2024-05-11T08:53:42.320601+00:00
+
+ ## Omada Git server
+ - [https://git.omada.cafe](https://git.omada.cafe)
+ - date_published: 2024-05-11T08:53:41.609322+00:00
+
+ ## Login
+ - [https://nydns.omada.cafe](https://nydns.omada.cafe)
+ - date_published: 2024-05-11T08:53:40.617524+00:00
+
+ ## Omada
+ - [https://omada.cafe](https://omada.cafe)
+ - date_published: 2024-03-20T21:29:27.487824+00:00
+ - tags: ['personal']
+
+ ## Omada Uptime
+ - [https://uptime.omada.cafe](https://uptime.omada.cafe)
+ - date_published: 2024-07-02T12:25:14+00:00
+
+ ## Omada Peertube
+ - [https://video.omada.cafe](https://video.omada.cafe)
+ - date_published: 2024-05-11T08:53:43.109262+00:00
+
+ ## Invidious
+ - [https://yt.omada.cafe](https://yt.omada.cafe)
+ - date_published: 2024-05-11T08:53:39.779642+00:00
+
+ ## Onio Café
+ - [https://onio.cafe](https://onio.cafe)
+ - date_published: 2024-04-05T02:01:18+00:00
+
+ ## ordinary.cafe
+ - [https://ordinary.cafe](https://ordinary.cafe)
+ - date_published: 2024-06-19T23:48:48.047436+00:00
+
+ ## Home
+ - [https://owen.cafe](https://owen.cafe)
+ - date_published: 2023-10-25T08:43:10.163631+00:00
+ - tags: ['personal']
+
+ ## owo.cafe
+ - [https://owo.cafe](https://owo.cafe)
+ - date_published: 2024-07-10T07:29:04.554240+00:00
+
+ ## Paul Comte
+ - [https://paulcomte.cafe](https://paulcomte.cafe)
+ - date_published: 2024-07-08T07:50:26+00:00
+
+ ## Penpal Café
+ - [https://penpal.cafe](https://penpal.cafe)
+ - date_published: 2024-04-03T07:36:11+00:00
+
+ ## Prompt.Cafe | AI Prompt Starter Pack
+ - [https://www.prompt.cafe](https://www.prompt.cafe)
+ - date_published: 2023-08-21T00:00:00+00:00
+
+ ## OpenBSD webzine homepage
+ - [https://webzine.puffy.cafe](https://webzine.puffy.cafe)
+ - date_published: 2023-10-30T21:38:37.602934+00:00
+
+ ## Re:Play Cafe
+ - [https://replay.cafe](https://replay.cafe)
+ - date_published: 2023-01-09T07:24:17+00:00
+
+ ## Rogues Repast Cafe
+ - [https://roguesrepast.cafe](https://roguesrepast.cafe)
+ - date_published: 2024-02-13T21:13:05+00:00
+
+ ## RPG Maker Cafe
+ - [https://rpgmaker.cafe](https://rpgmaker.cafe)
+ - date_published: 2024-07-23T23:19:00.998241+00:00
+
+ ## Seal Cafe
+ - [https://seal.cafe](https://seal.cafe)
+ - date_published: 2024-08-07T13:09:27.639690+00:00
+
+ ## Sivar Cafe
+ - [https://sivar.cafe](https://sivar.cafe)
+ - date_published: 2024-07-10T06:39:30.430324+00:00
+
+ ## Akkoma
+ - [https://sleepless.cafe](https://sleepless.cafe)
+ - date_published: 2024-06-17T03:31:52.907540+00:00
+
+ ## Business-Class Web Hosting by (mt) Media Temple
+ - [http://spam.cafe](http://spam.cafe)
+ - date_published: 2022-06-15T17:49:35+00:00
+
+ ## Status Cafe Forum
+ - [https://forum.status.cafe](https://forum.status.cafe)
+ - date_published: 2024-09-01T00:00:00+00:00
+
+ ## Status Cafe
+ - [https://status.cafe](https://status.cafe)
+ - date_published: 2024-04-30T06:16:34.197522+00:00
+
+ ## Sunday Sites
+ - [https://sundaysites.cafe](https://sundaysites.cafe)
+ - date_published: 2024-04-07T00:00:00+00:00
+
  ## The Coder Cafe | Teiva Harsanyi | Substack
  - [https://thecoder.cafe](https://thecoder.cafe)
  - date_published: 2024-08-11T00:00:00+00:00
@@ -295,6 +533,10 @@
  - [https://merkle.capital](https://merkle.capital)
  - date_published: 2024-09-25T11:34:00.791006+00:00
 
+ ## Moonvault Partners
+ - [https://www.moonvault.capital](https://www.moonvault.capital)
+ - date_published: 2024-12-14T19:29:51.919365+00:00
+
  ## Multicoin Capital Job Board
  - [https://jobs.multicoin.capital](https://jobs.multicoin.capital)
  - date_published: 2024-09-24T00:00:00+00:00
@@ -386,6 +628,10 @@
  ## Tioga Capital: European fund for blockchain technology
  - [http://tioga.capital](http://tioga.capital)
  - date_published: 2024-09-04T12:20:49.229956+00:00
+
+ ## ZBS Capital
+ - [https://zbs.capital](https://zbs.capital)
+ - date_published: 2024-12-09T01:31:45+00:00
 
  ## Find My Car
  - [http://findmy.car](http://findmy.car)
@@ -1327,6 +1573,10 @@
  ## RAC1 - Últimes noticies, ràdio en directe i podcasts a la carta
  - [https://www.rac1.cat](https://www.rac1.cat)
  - date_published: 2024-07-17T00:00:00+00:00
+
+ ## RAC105
+ - [https://www.rac105.cat](https://www.rac105.cat)
+ - date_published: 2024-12-14T20:50:36.947965+00:00
 
  ## Regió7 | Diari líder a la Catalunya central: últimes notícies i actualitat, entrevistes, anàlisi i opinió
  - [https://regio7.cat](https://regio7.cat)
@@ -3785,252 +4035,4 @@
  ## Create a Website for Free. Tilda Website Builder
  - [https://tilda.cc](https://tilda.cc)
  - date_published: 2024-06-23T09:28:39.636308+00:00
-
- ## Tinycc Blog
- - [https://blog.tiny.cc](https://blog.tiny.cc)
- - date_published: 2024-06-21T14:00:55.668955+00:00
-
- ## Tiny URL | Free Short URL Redirects with Tinycc
- - [https://tiny.cc](https://tiny.cc)
- - date_published: 2024-05-04T12:48:20.646193+00:00
-
- ## Tobias Rose-Stockwell
- - [https://tobias.cc](https://tobias.cc)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Todor Vlaev
- - [https://microblog.todor.cc](https://microblog.todor.cc)
- - date_published: 2024-07-05T07:49:40+00:00
-
- ## Torrent Downloads - download free torrents!
- - [https://www.torrentdownloads.cc](https://www.torrentdownloads.cc)
- - date_published: 2024-11-08T12:12:02.017520+00:00
-
- ## Free URL Shortener | Short Link Generator
- - [https://www.ttu.cc](https://www.ttu.cc)
- - date_published: 2024-05-08T10:43:49.138547+00:00
-
- ## Samuel Tulach
- - [https://tulach.cc](https://tulach.cc)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## CC: Tweaked
- - [https://tweaked.cc](https://tweaked.cc)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## UFABET
- - [https://member.ufabetwins.cc](https://member.ufabetwins.cc)
- - date_published: 2024-06-10T09:06:54+00:00
-
- ## UFABET เว็บตรง เว็บแทงบอล แทงบอลออนไลน์ ยูฟ่าเบท ขั้นต่ำ 1บ.
- - [https://www.ufabetwins.cc](https://www.ufabetwins.cc)
- - date_published: 0667-01-10T00:00:00+00:00
-
- ## API Platform | Unified.cc by 500apps
- - [https://unified.cc](https://unified.cc)
- - date_published: 2024-10-30T18:42:58.528066+00:00
-
- ## unitedearth.cc
- - [https://wiki.unitedearth.cc](https://wiki.unitedearth.cc)
- - date_published: 2024-08-18T07:12:50.355510+00:00
-
- ## stefano zacchiroli home page
- - [http://upsilon.cc](http://upsilon.cc)
- - date_published: 2024-04-25T09:29:26+00:00
-
- ## urlbox
- - [https://urlbox.cc](https://urlbox.cc)
- - date_published: 2024-09-24T11:08:59.987251+00:00
-
- ## Bootcamp
- - [https://bootcamp.uxdesign.cc](https://bootcamp.uxdesign.cc)
- - date_published: 2023-10-25T12:11:44.625622+00:00
-
- ## UX Collective 🇧🇷
- - [https://brasil.uxdesign.cc](https://brasil.uxdesign.cc)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## UX Essays
- - [https://essays.uxdesign.cc](https://essays.uxdesign.cc)
- - date_published: 2024-06-21T22:06:54.297218+00:00
-
- ## UX Collective | Fabricio Teixeira | Substack
- - [https://newsletter.uxdesign.cc](https://newsletter.uxdesign.cc)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## UX Collective
- - [https://uxdesign.cc](https://uxdesign.cc)
- - date_published: 2023-10-25T12:12:04.761668+00:00
-
- ## Giving a damn about accessibility
- - [https://www.accessibility.uxdesign.cc](https://www.accessibility.uxdesign.cc)
- - date_published: 2024-07-02T21:00:23.167154+00:00
-
- ## Veery
- - [https://veery.cc](https://veery.cc)
- - date_published: 2024-06-23T15:48:42.384636+00:00
-
- ## The V Programming Language (@vlang) | Veery
- - [https://vlang.veery.cc](https://vlang.veery.cc)
- - date_published: 2023-07-01T00:00:00+00:00
-
- ## Velocio - Cycling Apparel
- - [https://velocio.cc](https://velocio.cc)
- - date_published: 2024-07-13T02:53:53.777118+00:00
-
- ## Index of /
- - [https://pjals.vern.cc](https://pjals.vern.cc)
- - date_published: 2024-07-10T06:23:31.128518+00:00
-
- ## ~vern
- - [https://vern.cc](https://vern.cc)
- - date_published: 2024-07-10T06:23:33.621896+00:00
-
- ## Vinc
- - [https://vinc.cc](https://vinc.cc)
- - date_published: 2024-01-06T12:07:04+00:00
-
- ## Sign in | VK
- - [https://vk.cc](https://vk.cc)
- - date_published: 2024-06-13T16:58:57.420045+00:00
-
- ## 微商城_微信营销_新媒体营销_手机网站建设_上海微信营销_上海|南京|徐州-上海微领软件
- - [http://www.vleader.cc](http://www.vleader.cc)
- - date_published: 2024-09-06T20:03:48.265583+00:00
-
- ## 方格子 vocus｜實踐內容有價的創作平台｜放送你的知識與想像
- - [https://vocus.cc](https://vocus.cc)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Vilson Vieira
- - [https://void.cc](https://void.cc)
- - date_published: 2024-06-25T13:44:04+00:00
-
- ## We purify water based on state-of-the art nanotechnology. | VTA
- - [https://vta.cc](https://vta.cc)
- - date_published: 2024-07-20T15:08:03.760584+00:00
-
- ## 2024年澳门今晚开奖号码,2023澳门管家婆资料正版大全,管家婆一肖资料大全,管家婆2024新澳正版资料,香港二四六开奖免费资料
- - [http://www.watrix.cc](http://www.watrix.cc)
- - date_published: 2024-12-12T00:38:17.710252+00:00
-
- ## web0 - Reader view page generator
- - [https://web0.cc](https://web0.cc)
- - date_published: 2023-10-25T12:12:06.600910+00:00
-
- ## WeMake | Makerspace Fablab | WeMake | Makerspace Fablab
- - [https://wemake.cc](https://wemake.cc)
- - date_published: 2024-05-08T11:14:16.187351+00:00
-
- ## HOME — WEMOS  documentation
- - [https://www.wemos.cc](https://www.wemos.cc)
- - date_published: 2024-08-28T02:30:40+00:00
-
- ## WeProgramStuff Hackathon - Virtual Hackathon for High-Schoolers
- - [https://weprogramstuff.cc](https://weprogramstuff.cc)
- - date_published: 2024-10-26T15:40:46+00:00
-
- ## Wessell's ☺️site
- - [https://wesl.cc](https://wesl.cc)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## WikiHouse
- - [https://cy.wikihouse.cc](https://cy.wikihouse.cc)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## WikiHouse
- - [https://wikihouse.cc](https://wikihouse.cc)
- - date_published: 2023-10-25T12:12:08.973455+00:00
-
- ## Wonderment Proactive CX Platform. Shopify Post-Purchase & Order Tracking App for eCommerce
- - [https://www.wonderment.cc](https://www.wonderment.cc)
- - date_published: 2024-05-06T14:50:14.397678+00:00
-
- ## Word Games | Play Your Favorite Puzzles Online for Free
- - [https://wordgames.cc](https://wordgames.cc)
- - date_published: 2024-11-08T03:49:38+00:00
-
- ## WORK LOUDER™
- - [https://worklouder.cc](https://worklouder.cc)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Arriate Cultural – Arriate Cultural
- - [http://wwb.cc](http://wwb.cc)
- - date_published: 2024-06-28T22:10:05.851154+00:00
-
- ## Pantson Color Club
- - [https://pantson.xandra.cc](https://pantson.xandra.cc)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## the museum of alexandra
- - [https://xandra.cc](https://xandra.cc)
- - date_published: 2024-04-29T07:26:34.786265+00:00
-
- ## ʞ
- - [https://xn--rpa.cc](https://xn--rpa.cc)
- - date_published: 2024-05-11T07:06:42.830676+00:00
-
- ## หน้าหลัก
- - [https://xo289.cc](https://xo289.cc)
- - date_published: 2024-10-22T14:54:36.334263+00:00
-
- ## Caddy works!
- - [https://yinchie.cc](https://yinchie.cc)
- - date_published: 2023-04-17T13:11:12+00:00
-
- ## Youtils.cc - 線上工具
- - [https://youtils.cc](https://youtils.cc)
- - date_published: 2024-12-03T07:36:51.159106+00:00
-
- ## Yudosai
- - [https://yudo.cc](https://yudo.cc)
- - date_published: 2024-09-23T20:23:40+00:00
-
- ## Lorenz Panny
- - [https://yx7.cc](https://yx7.cc)
- - date_published: 2024-02-08T17:47:58.149987+00:00
-
- ## Zoyander Street
- - [https://zoyander.cc](https://zoyander.cc)
- - date_published: 2024-06-14T11:46:20+00:00
-
- ## BF-SYS: A fantasy computer that uses Brainfuck as its instruction set
- - [https://brainfuck.zptr.cc](https://brainfuck.zptr.cc)
- - date_published: 2023-12-12T07:23:44+00:00
-
- ## zptr
- - [https://zptr.cc](https://zptr.cc)
- - date_published: 2024-07-03T12:07:58.158619+00:00
-
- ## ACGT – Site officiel
- - [http://www.acgt.cd](http://www.acgt.cd)
- - date_published: 2024-06-20T07:31:07.556651+00:00
-
- ## ACP | Agence Congolaise de Presse
- - [https://acp.cd](https://acp.cd)
- - date_published: 2024-06-30T15:44:50+00:00
-
- ## Grafika Google
- - [https://images.google.cd](https://images.google.cd)
- - date_published: 2024-07-20T07:37:04.969530+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.cd](https://maps.google.cd)
- - date_published: 2024-07-20T07:40:28.431093+00:00
-
- ## Google
- - [https://www.google.cd](https://www.google.cd)
- - date_published: 2024-06-21T22:23:03.439099+00:00
-
- ## Custom Domain by Bitly
- - [https://news.mstr.cd](https://news.mstr.cd)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## OECD URL Shortener
- - [https://oe.cd](https://oe.cd)
- - date_published: 2024-06-28T16:16:43.492648+00:00
-
- ## Vodacom RDC
- - [https://www.vodacom.cd](https://www.vodacom.cd)
- - date_published: 2023-12-19T20:14:17+00:00
 

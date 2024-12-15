@@ -1,3 +1,23 @@
+ ## AI Profile Picture Generator and Maker | PFP.AI
+ - [https://profilepicture.ai](https://profilepicture.ai)
+ - date_published: 2024-07-24T02:30:50.604521+00:00
+
+ ## Ai Project Planner tools
+ - [https://app.projectplanner.ai](https://app.projectplanner.ai)
+ - date_published: 2024-10-30T14:39:21.332475+00:00
+
+ ## Project Planner – Ai powered Project management tools
+ - [https://projectplanner.ai](https://projectplanner.ai)
+ - date_published: 2024-06-19T19:51:28.975369+00:00
+
+ ## Learn, Share, Connect | HackHub
+ - [https://promatch.ai](https://promatch.ai)
+ - date_published: 2024-02-24T07:27:58+00:00
+
+ ## Cognee - We help you build deterministic AI memory
+ - [https://www.prometh.ai](https://www.prometh.ai)
+ - date_published: 2024-06-19T19:50:46.126889+00:00
+
  ## PromptBox : Save, Share & Paste Repetative Text
  - [https://promptbox.ai](https://promptbox.ai)
  - date_published: 2024-10-30T21:03:32.383126+00:00
@@ -4002,24 +4022,4 @@ Creative Solutions
  ## wallet.AI
  - [https://wallet.ai](https://wallet.ai)
  - date_published: 2024-01-12T13:03:16+00:00
-
- ## Wallpapers AI: Make PC and phone wallpapers with AI | Wallpapers.ai
- - [https://wallpapers.ai](https://wallpapers.ai)
- - date_published: 2024-08-19T09:02:40.068225+00:00
-
- ## WAMcast
- - [https://wamcast.ai](https://wamcast.ai)
- - date_published: 2024-07-13T09:29:34.428227+00:00
-
- ## Weights & Biases
- - [https://app.wandb.ai](https://app.wandb.ai)
- - date_published: 2024-06-15T19:46:31.087097+00:00
-
- ## W&B Community
- - [https://community.wandb.ai](https://community.wandb.ai)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## W&B Docs | Weights & Biases Documentation
- - [https://docs.wandb.ai](https://docs.wandb.ai)
- - date_published: 2024-06-15T19:46:47.257998+00:00
 

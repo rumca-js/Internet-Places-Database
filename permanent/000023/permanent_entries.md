@@ -1,3 +1,260 @@
+ ## CGL @ ETHZ -
+ - [https://cgl.ethz.ch](https://cgl.ethz.ch)
+ - date_published: 2024-06-22T07:36:57.444866+00:00
+
+ ## Homepage - Departement Chemie und Angewandte Biowissenschaften
+ - [https://chab.ethz.ch](https://chab.ethz.ch)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## ETH CIRCLE
+ - [https://circle.ethz.ch](https://circle.ethz.ch)
+ - date_published: 2024-08-10T22:36:24.480044+00:00
+
+ ## Collegium Helveticum
+ - [https://collegium.ethz.ch](https://collegium.ethz.ch)
+ - date_published: 2024-09-04T17:48:30.393649+00:00
+
+ ## Welcome - D-ITET Computing
+ - [http://computing.ee.ethz.ch](http://computing.ee.ethz.ch)
+ - date_published: 2023-10-16T00:00:00+00:00
+
+ ## About COMSEC - Computer Security Group
+ - [https://comsec.ethz.ch](https://comsec.ethz.ch)
+ - date_published: 2023-10-25T12:13:40.287827+00:00
+
+ ## ConfSearch
+ - [https://confsearch.ethz.ch](https://confsearch.ethz.ch)
+ - date_published: 2022-06-30T17:48:34+00:00
+
+ ## Homepage - ifa
+ - [https://control.ee.ethz.ch](https://control.ee.ethz.ch)
+ - date_published: 2024-08-06T17:39:42.481654+00:00
+
+ ## Startseite - CSS
+ - [https://css.ethz.ch](https://css.ethz.ch)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Homepage
+ - [https://designplusplus.ethz.ch](https://designplusplus.ethz.ch)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## DISCO
+ - [https://disco.ethz.ch](https://disco.ethz.ch)
+ - date_published: 2024-07-16T22:23:02.711731+00:00
+
+ ## Sign in to your account
+ - [https://docs.mat.ethz.ch](https://docs.mat.ethz.ch)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## MaP Doctoral School
+ - [https://doctoral-school.ethz.ch](https://doctoral-school.ethz.ch)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Fourth Workshop on DRAM Security (DRAMSec)
+ - [https://dramsec.ethz.ch](https://dramsec.ethz.ch)
+ - date_published: 2024-06-27T12:37:41+00:00
+
+ ## Homepage
+ - [https://dtip.ethz.ch](https://dtip.ethz.ch)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Departement Erd-​ und Planetenwissenschaften: Startseite
+ - [https://eaps.ethz.ch](https://eaps.ethz.ch)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Research Collection
+ - [http://e-collection.ethbib.ethz.ch](http://e-collection.ethbib.ethz.ch)
+ - date_published: 2024-06-22T14:01:27.692039+00:00
+
+ ## Research Collection
+ - [http://e-collection.library.ethz.ch](http://e-collection.library.ethz.ch)
+ - date_published: 2024-06-22T11:42:43.524473+00:00
+
+ ## Department of Information Technology and Electrical Engineering
+ - [https://ee.ethz.ch](https://ee.ethz.ch)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Energy and Technology Policy Group
+ - [https://epg.ethz.ch](https://epg.ethz.ch)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Departement Erdwissenschaften: Startseite
+ - [https://erdw.ethz.ch](https://erdw.ethz.ch)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Album: ERMETH
+ - [http://ermeth.gallery.ethz.ch](http://ermeth.gallery.ethz.ch)
+ - date_published: 2024-07-21T06:06:19.468796+00:00
+
+ ## Institute for Theoretical Studies
+ - [https://eth-its.ethz.ch](https://eth-its.ethz.ch)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## ETH Zürich - Homepage | ETH Zürich
+ - [https://ethz.ch](https://ethz.ch)
+ - date_published: 2023-10-25T12:13:42.696984+00:00
+ - tags: ['technology institute']
+
+ ## Upcoming events at D-PHYS
+ - [https://events.phys.ethz.ch](https://events.phys.ethz.ch)
+ - date_published: 2024-08-08T23:05:41.009486+00:00
+
+ ## Startseite
+ - [https://extract.ethz.ch](https://extract.ethz.ch)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Homepage
+ - [https://finsuretech.ethz.ch](https://finsuretech.ethz.ch)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Departement Geistes-, Sozial- und Staatswissenschaften
+ - [https://gess.ethz.ch](https://gess.ethz.ch)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Homepage
+ - [https://grantsoffice.ethz.ch](https://grantsoffice.ethz.ch)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## CGL @ ETHZ -
+ - [https://graphics.ethz.ch](https://graphics.ethz.ch)
+ - date_published: 2024-06-22T07:36:27.756253+00:00
+
+ ## Startseite
+ - [https://hci-shop.ethz.ch](https://hci-shop.ethz.ch)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Departement Gesundheitswissenschaften und Technologie
+ - [https://hest.ethz.ch](https://hest.ethz.ch)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Torsten Hoefler's Home Page
+ - [https://htor.inf.ethz.ch](https://htor.inf.ethz.ch)
+ - date_published: 2024-06-22T10:20:47.353567+00:00
+
+ ## Homepage
+ - [https://hyqu.ethz.ch](https://hyqu.ethz.ch)
+ - date_published: 2024-06-26T11:31:08.466192+00:00
+
+ ## Homepage - Institut für Bau- und Infrastrukturmanagement
+ - [https://ibi.ethz.ch](https://ibi.ethz.ch)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Homepage - IBK
+ - [https://ibk.ethz.ch](https://ibk.ethz.ch)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Homepage -  IfB
+ - [https://ifb.ethz.ch](https://ifb.ethz.ch)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Homepage - Institute of Environmental Engineering
+ - [https://ifu.ethz.ch](https://ifu.ethz.ch)
+ - date_published: 2024-08-11T06:25:01.375738+00:00
+
+ ## igl | Interactive Geometry Lab | ETH Zurich
+ - [https://igl.ethz.ch](https://igl.ethz.ch)
+ - date_published: 2024-06-22T07:36:56.913819+00:00
+
+ ## Homepage - Institute of Geodesy and Photogrammetry
+ - [https://igp.ethz.ch](https://igp.ethz.ch)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Homepage - IGT
+ - [https://igt.ethz.ch](https://igt.ethz.ch)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Startseite
+ - [https://ikg.ethz.ch](https://ikg.ethz.ch)
+ - date_published: 2024-08-11T06:25:02.624568+00:00
+
+ ## Institute of Molecular Systems Biology
+ - [https://imsb.ethz.ch](https://imsb.ethz.ch)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Department of Computer Science
+ - [https://inf.ethz.ch](https://inf.ethz.ch)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Album: INFK
+ - [http://infk.gallery.ethz.ch](http://infk.gallery.ethz.ch)
+ - date_published: 2024-07-21T06:06:12.284563+00:00
+
+ ## ISG D-ITET - Info Poster
+ - [https://infoposter.ee.ethz.ch](https://infoposter.ee.ethz.ch)
+ - date_published: 2024-01-15T13:23:16+00:00
+
+ ## Homepage - Institute for Spatial and Landscape Development
+ - [https://irl.ethz.ch](https://irl.ethz.ch)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## IT Services Group (ISG) D-ITET
+ - [https://isg.ee.ethz.ch](https://isg.ee.ethz.ch)
+ - date_published: 2024-06-15T06:54:58.794899+00:00
+
+ ## Homepage
+ - [https://istp.ethz.ch](https://istp.ethz.ch)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Stellenangebote der ETH Z&uuml;rich
+ - [https://jobs.ethz.ch](https://jobs.ethz.ch)
+ - date_published: 2024-04-30T06:02:30.969973+00:00
+
+ ## Startseite
+ - [https://lehrlabor.chab.ethz.ch](https://lehrlabor.chab.ethz.ch)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Startseite
+ - [https://library.ethz.ch](https://library.ethz.ch)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## D-ITET Mailinglists Service - home
+ - [http://lists.ee.ethz.ch](http://lists.ee.ethz.ch)
+ - date_published: 2024-07-18T09:03:42.517458+00:00
+
+ ## MaP
+ - [https://map.ethz.ch](https://map.ethz.ch)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Homepage - MAS in Management, Technology, and Economics
+ - [https://mas-mtec.ethz.ch](https://mas-mtec.ethz.ch)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Homepage - Master of Science in Nuclear Engineering
+ - [https://master-nuclear.ethz.ch](https://master-nuclear.ethz.ch)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## MAS UTD
+ - [https://mas-utd.arch.ethz.ch](https://mas-utd.arch.ethz.ch)
+ - date_published: 2024-05-12T07:16:27.891819+00:00
+
+ ## Homepage - D-MATL
+ - [https://mat.ethz.ch](https://mat.ethz.ch)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Homepage
+ - [https://math.ethz.ch](https://math.ethz.ch)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Homepage - D-MAVT
+ - [https://mavt.ethz.ch](https://mavt.ethz.ch)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Sign In
+ - [https://mavt.sp.ethz.ch](https://mavt.sp.ethz.ch)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Homepage
+ - [https://ml.inf.ethz.ch](https://ml.inf.ethz.ch)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Homepage - Department of Management, Technology, and Economics
+ - [https://mtec.ethz.ch](https://mtec.ethz.ch)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Homepage
+ - [https://nadel.ethz.ch](https://nadel.ethz.ch)
+ - date_published: 2024-07-19T00:00:00+00:00
+
  ## Persönliche Website
  - [https://n.ethz.ch](https://n.ethz.ch)
  - date_published: 2024-06-06T18:16:38.575180+00:00
@@ -3757,263 +4014,4 @@
  ## Sport RSI
  - [https://live.rsi.ch](https://live.rsi.ch)
  - date_published: 2024-07-10T08:56:31+00:00
-
- ## JSON Server
- - [https://mock.rsi.ch](https://mock.rsi.ch)
- - date_published: 2022-11-08T09:22:59+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://music.rsi.ch](https://music.rsi.ch)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## RSI - RSI Radiotelevisione svizzera
- - [https://rsi.ch](https://rsi.ch)
- - date_published: 2024-04-30T06:12:06.723678+00:00
-
- ## RSI - RSI Radiotelevisione svizzera
- - [http://www1.rsi.ch](http://www1.rsi.ch)
- - date_published: 2024-07-21T05:38:58.930816+00:00
-
- ## Dialog.ue.o
- - [https://dialog.rtr.ch](https://dialog.rtr.ch)
- - date_published: 2024-09-05T16:25:05.091156+00:00
-
- ## Formular
- - [https://form.gratulaziuns.rtr.ch](https://form.gratulaziuns.rtr.ch)
- - date_published: 2024-08-06T18:03:31.197958+00:00
-
- ## Radiotelevisiun Svizra Rumantscha (RTR) – News auf Rätoromanisch
- - [https://rtr.ch](https://rtr.ch)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Radiotelevisiun Svizra Rumantscha (RTR) – News auf Rätoromanisch
- - [https://sandbox.rtr.ch](https://sandbox.rtr.ch)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Vous n'avez pas fini de redécouvrir la RTS!
- - [https://avecvous.rts.ch](https://avecvous.rts.ch)
- - date_published: 2024-08-05T15:50:19.568407+00:00
-
- ## Dialog.ue.o
- - [https://dialogue.rts.ch](https://dialogue.rts.ch)
- - date_published: 2024-09-05T16:25:06.357917+00:00
-
- ## Emplois & Carrière
- - [https://jobs.rts.ch](https://jobs.rts.ch)
- - date_published: 2024-08-05T15:50:17.397068+00:00
-
- ## Sign in to your account
- - [https://kingfisher.rts.ch](https://kingfisher.rts.ch)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Radio Télévision Suisse
- - [https://pages.rts.ch](https://pages.rts.ch)
- - date_published: 2024-07-16T22:06:59.979361+00:00
-
- ## Radio Télévision Suisse
- - [https://rts.ch](https://rts.ch)
- - date_published: 2024-04-29T05:02:19.402100+00:00
-
- ## Fristverlängerung Steuern
- - [https://secure-egov.ruf.ch](https://secure-egov.ruf.ch)
- - date_published: 2024-04-30T06:00:29.134016+00:00
-
- ## RustFest Zürich 19th - 24th June 2024
- - [https://rustfest.ch](https://rustfest.ch)
- - date_published: 2024-06-23T08:24:57+00:00
-
- ## Elektronische Bauelemente | Rutronik24 Distributor
- - [https://rutronik24.ch](https://rutronik24.ch)
- - date_published: 2024-09-17T19:15:54.696368+00:00
-
- ## agence de communication - sabina advertising - lausanne
- - [http://sabina.ch](http://sabina.ch)
- - date_published: 2024-07-13T15:33:17.778206+00:00
-
- ## Schweizer Alpen-Club SAC
- - [https://www.sac-cas.ch](https://www.sac-cas.ch)
- - date_published: 2024-10-31T03:49:20.244045+00:00
-
- ## sagw - Schweizerische Akademie der Geistes- und Sozialwissenschaften
- - [http://www.sagw.ch](http://www.sagw.ch)
- - date_published: 2024-10-20T04:35:40.119648+00:00
-
- ## Maison Saint Gervais
- - [http://saintgervais.ch](http://saintgervais.ch)
- - date_published: 2024-07-13T15:04:34.809152+00:00
-
- ## Internet, Telefonie, TV und Mobile | SAK Digital
- - [https://www.sak-digital.ch](https://www.sak-digital.ch)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Samuel Zeller - Swiss photographer
- - [https://samuelzeller.ch](https://samuelzeller.ch)
- - date_published: 2024-07-13T19:25:43.127872+00:00
-
- ## Sandoz - Fondation de Famille
- - [https://www.sandozfondation.ch](https://www.sandozfondation.ch)
- - date_published: 2024-05-01T15:16:04+00:00
-
- ## Saphyrion
- - [http://www.saphyrion.ch](http://www.saphyrion.ch)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Satonline - Versand Shop mit Ladenlokal - Sat, Funk, Antennen, Radios, IPTV
- - [https://www.sat-online.ch](https://www.sat-online.ch)
- - date_published: 2024-08-10T23:48:53.649279+00:00
-
- ## Technology for society
- - [https://www.satw.ch](https://www.satw.ch)
- - date_published: 2024-07-12T08:40:44.384383+00:00
-
- ## Accueil - Sauvageons en ville - découvrir une autre nature en ville à Lausanne et à Morges
- - [https://www.sauvageons-en-ville.ch](https://www.sauvageons-en-ville.ch)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Say Hello GmbH - WordPress and web apps
- - [https://sayhello.ch](https://sayhello.ch)
- - date_published: 2024-06-10T16:17:26+00:00
-
- ## Das Online-Portal der SBB für Fahrplan, Zug und ÖV
- - [https://sbb.ch](https://sbb.ch)
- - date_published: 2024-06-26T07:56:40+00:00
-
- ## Encrypted Form
- - [https://sjf-sailing.sbicego.ch](https://sjf-sailing.sbicego.ch)
- - date_published: 2024-03-27T11:06:39+00:00
-
- ## Schauspielhaus Zürich
- - [https://2425.schauspielhaus.ch](https://2425.schauspielhaus.ch)
- - date_published: 2024-07-13T14:31:55.780021+00:00
-
- ## Schauspielhaus Zürich
- - [https://www.schauspielhaus.ch](https://www.schauspielhaus.ch)
- - date_published: 2024-07-13T14:28:27.004333+00:00
-
- ## Werbeagentur Thurgau - Scherrer Medien
- - [http://www.scherrermedien.ch](http://www.scherrermedien.ch)
- - date_published: 2024-09-26T09:48:07.560677+00:00
-
- ## Welcome | Schilthorn - Piz Gloria
- - [https://schilthorn.ch](https://schilthorn.ch)
- - date_published: 2024-06-27T10:54:43.448430+00:00
-
- ## forum.opendata.ch
- - [https://forum.schoolofdata.ch](https://forum.schoolofdata.ch)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Peter Schorn's Home Page
- - [https://schorn.ch](https://schorn.ch)
- - date_published: 2024-01-02T10:38:18+00:00
- - tags: ['personal']
-
- ## Schreibszene – Besser schreiben lernen in der Schweiz
- - [https://schreibszene.ch](https://schreibszene.ch)
- - date_published: 2024-09-13T19:26:21+00:00
-
- ## Schreibszene und CMA
- - [https://video.schreibszene.ch](https://video.schreibszene.ch)
- - date_published: 2024-06-13T22:10:58+00:00
-
- ## Schreinerei Bucher AG - Startseite - Aus Schreinerei Holzgang wird Bucher
- - [https://schreinerei-holzgang.ch](https://schreinerei-holzgang.ch)
- - date_published: 2024-10-21T09:23:49.328820+00:00
-
- ## Schwabe
- - [https://schwabe.ch](https://schwabe.ch)
- - date_published: 2024-12-10T17:12:17.239295+00:00
-
- ## David Schweikert's Home Page
- - [http://david.schweikert.ch](http://david.schweikert.ch)
- - date_published: 2020-04-06T08:43:06+00:00
-
- ## Postgrey - Postfix Greylisting Policy Server
- - [https://postgrey.schweikert.ch](https://postgrey.schweikert.ch)
- - date_published: 2019-06-25T09:58:05+00:00
-
- ## So vielseitig wie die Schweiz – Schweizer Familie
- - [https://schweizerfamilie.ch](https://schweizerfamilie.ch)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Finden Sie eine Grillstelle in Ihrer Nähe
- - [https://www.schweizerfeuerstellen.ch](https://www.schweizerfeuerstellen.ch)
- - date_published: 2024-08-09T08:39:12+00:00
-
- ## Association suisse du journalisme scientifique - Les journalistes, rédacteurs et communicateurs scientifiques de suisse
- - [https://www.science-journalism.ch](https://www.science-journalism.ch)
- - date_published: 2021-01-20T20:16:19+00:00
-
- ## VSnet, Wissenschaft Wallis - Agenda, Veranstaltungen, Ausstellungen, Kurse, Workshops | Wissenschaft Wallis
- - [https://www.science-valais.ch](https://www.science-valais.ch)
- - date_published: 2024-07-16T22:06:58.277989+00:00
-
- ## Home - Scientifica
- - [https://scientifica.ch](https://scientifica.ch)
- - date_published: 2024-06-19T07:41:29.018774+00:00
- - tags: ['science']
-
- ## Scientology - l'Eglise de la Scientology de France, Portail officiel
- - [https://scientology.ch](https://scientology.ch)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Sclerodermie.ch | Main dans la main pour un avenir meilleur
- - [https://www.sclerodermie.ch](https://www.sclerodermie.ch)
- - date_published: 2024-06-28T12:04:22.617227+00:00
-
- ## Commission for Research Partnerships with Developing Countries (KFPE)
- - [https://kfpe.scnat.ch](https://kfpe.scnat.ch)
- - date_published: 2024-10-20T04:43:06.116680+00:00
-
- ## scri.ch
- - [http://scri.ch](http://scri.ch)
- - date_published: 2024-07-13T15:45:24.825745+00:00
-
- ## Swisscom Privatkunden: Mobile, TV, Internet & Festnetz
- - [https://rcp.scsstatic.ch](https://rcp.scsstatic.ch)
- - date_published: 2024-06-16T07:19:45+00:00
-
- ## SDX CDN
- - [https://sdx.scsstatic.ch](https://sdx.scsstatic.ch)
- - date_published: 2024-05-24T11:45:01+00:00
-
- ## Sean Charlton White
- - [https://seancw.ch](https://seancw.ch)
- - date_published: 2024-07-04T01:57:58.027239+00:00
-
- ## search.ch
- - [https://api.search.ch](https://api.search.ch)
- - date_published: 2024-09-05T16:26:04.257697+00:00
-
- ## Blog - blog.search.ch
- - [https://blog.search.ch](https://blog.search.ch)
- - date_published: 2021-09-14T00:00:00+00:00
-
- ## search.ch
- - [https://login.search.ch](https://login.search.ch)
- - date_published: 2024-09-05T16:26:00.967994+00:00
-
- ## The Swiss Search Engine - search.ch
- - [https://search.ch](https://search.ch)
- - date_published: 2024-09-05T16:03:32.579272+00:00
- - tags: ['search engine']
-
- ## Want to take off
- - [https://sef-growth.ch](https://sef-growth.ch)
- - date_published: 2024-07-21T05:49:56.002694+00:00
-
- ## Startseite - SEF.NextGen
- - [https://sef-nextgen.ch](https://sef-nextgen.ch)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Location de radios SELORA
- - [https://www.selora.ch](https://www.selora.ch)
- - date_published: 2024-07-16T22:48:49.632444+00:00
-
- ## La Semaine de la citoyenneté dans les lieux de formation vaudois
- - [https://semaine-citoyennete-vaud.ch](https://semaine-citoyennete-vaud.ch)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## | Sen:te
- - [http://www.sente.ch](http://www.sente.ch)
- - date_published: 2024-06-30T10:05:30.685090+00:00
 

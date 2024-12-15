@@ -1,3 +1,23 @@
+ ## Wallpapers AI: Make PC and phone wallpapers with AI | Wallpapers.ai
+ - [https://wallpapers.ai](https://wallpapers.ai)
+ - date_published: 2024-08-19T09:02:40.068225+00:00
+
+ ## WAMcast
+ - [https://wamcast.ai](https://wamcast.ai)
+ - date_published: 2024-07-13T09:29:34.428227+00:00
+
+ ## Weights & Biases
+ - [https://app.wandb.ai](https://app.wandb.ai)
+ - date_published: 2024-06-15T19:46:31.087097+00:00
+
+ ## W&B Community
+ - [https://community.wandb.ai](https://community.wandb.ai)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## W&B Docs | Weights & Biases Documentation
+ - [https://docs.wandb.ai](https://docs.wandb.ai)
+ - date_published: 2024-06-15T19:46:47.257998+00:00
+
  ## Weights & Biases – Developer tools for ML
  - [https://kr.wandb.ai](https://kr.wandb.ai)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -588,6 +608,10 @@
  - [https://r3.cloud.yellow.ai](https://r3.cloud.yellow.ai)
  - date_published: 2024-09-26T05:41:29+00:00
 
+ ## Alien Worlds - Yeomen
+ - [https://aw-warder.yeomen.ai](https://aw-warder.yeomen.ai)
+ - date_published: 2024-09-24T13:06:48+00:00
+
  ## Yomu AI | Write papers and essays with AI
  - [https://www.yomu.ai](https://www.yomu.ai)
  - date_published: 2024-07-03T23:22:54.702507+00:00
@@ -941,6 +965,10 @@
  - [http://dood.al](http://dood.al)
  - date_published: 2014-07-01T18:09:07+00:00
 
+ ## Ecommerce Bridge Shqipëria
+ - [https://www.ecommercebridge.al](https://www.ecommercebridge.al)
+ - date_published: 2024-12-14T03:32:45.367650+00:00
+
  ## ELEKTRO-SERVIS
  - [https://elektroservis.al](https://elektroservis.al)
  - date_published: 2021-09-28T00:00:00+00:00
@@ -960,6 +988,10 @@
  ## home - Fiat Professional Albania
  - [https://www.fiatprofessional.al](https://www.fiatprofessional.al)
  - date_published: 2015-07-12T14:50:38+00:00
+
+ ## Flatio - Short, mid and long-term rentals for digital nomads
+ - [https://www.flatio.al](https://www.flatio.al)
+ - date_published: 2024-12-14T05:00:57.914012+00:00
 
  ## Udhëtim me autobus në Evropë | FlixBus
  - [https://www.flixbus.al](https://www.flixbus.al)
@@ -3370,6 +3402,14 @@
  - [https://ecocheck.app](https://ecocheck.app)
  - date_published: 2024-10-22T11:41:21.370462+00:00
 
+ ## Ecomail.app | Email and omni-channel marketing platform
+ - [https://ecomail.app](https://ecomail.app)
+ - date_published: 2024-12-13T20:07:41+00:00
+
+ ## Knowledge base | Ecomail.app
+ - [https://support.ecomail.app](https://support.ecomail.app)
+ - date_published: 2024-12-14T03:31:06.014082+00:00
+
  ## Download Edge
  - [https://dl.edge.app](https://dl.edge.app)
  - date_published: 2024-07-04T10:15:24.191494+00:00
@@ -3979,44 +4019,4 @@
  ## geleza.app: Write better marketing copy and content with AI
  - [https://geleza.app](https://geleza.app)
  - date_published: 2024-06-19T20:09:16.901670+00:00
-
- ## Genea.app - Build your family tree
- - [https://www.genea.app](https://www.genea.app)
- - date_published: 2022-03-23T15:28:04+00:00
-
- ## Apps, welcome home.
- - [https://get.app](https://get.app)
- - date_published: 2024-05-10T05:46:32.432269+00:00
-
- ## Aegis Authenticator - Secure 2FA app for Android
- - [https://getaegis.app](https://getaegis.app)
- - date_published: 2023-10-25T11:46:37.370107+00:00
-
- ## Get the Boom App: Bring the Boom to every video call
- - [https://www.getboom.app](https://www.getboom.app)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Your Phone, Minus the Distractions
- - [https://getbrick.app](https://getbrick.app)
- - date_published: 2024-06-09T04:16:51+00:00
-
- ## Getcho | Fast & Reliable on-demand delivery
- - [https://getcho.app](https://getcho.app)
- - date_published: 2024-06-06T19:54:58+00:00
-
- ## Converse
- - [https://getconverse.app](https://getconverse.app)
- - date_published: 2024-09-04T12:28:43.455826+00:00
-
- ## CURE: Eine App für alle Gesundheitsthemen.
- - [https://www.getcure.app](https://www.getcure.app)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## gumdrop
- - [https://getgumdrop.app](https://getgumdrop.app)
- - date_published: 2024-06-10T12:48:23.633923+00:00
-
- ## Landscape - Mountaineering and Alpine Climbing App
- - [https://getlandscape.app](https://getlandscape.app)
- - date_published: 2024-05-06T21:34:12.949335+00:00
 
