@@ -1,3 +1,758 @@
+ ## The Walrus
+ - [https://secure.thewalrus.ca](https://secure.thewalrus.ca)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## The Walrus Store
+ - [https://store.thewalrus.ca](https://store.thewalrus.ca)
+ - date_published: 2024-07-21T09:25:16.337235+00:00
+
+ ## The Walrus | Canada's Conversation
+ - [https://thewalrus.ca](https://thewalrus.ca)
+ - date_published: 2023-10-25T12:12:23.582516+00:00
+
+ ## Non-Religious Moral Code of Ethics & Common Decency - 21 Ways to be Happy - The Way To Happiness
+ - [http://www.thewaytohappiness.ca](http://www.thewaytohappiness.ca)
+ - date_published: 2024-09-04T17:53:45.991504+00:00
+
+ ## ThinkPol - Free the news
+ - [https://thinkpol.ca](https://thinkpol.ca)
+ - date_published: 2023-10-25T12:08:24.491426+00:00
+
+ ## Thomas Anderson
+ - [https://thomasanderson.ca](https://thomasanderson.ca)
+ - date_published: 2024-04-03T06:25:45.635825+00:00
+ - tags: ['personal']
+
+ ## Thomson Reuters online store
+ - [https://store.thomsonreuters.ca](https://store.thomsonreuters.ca)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Thomson Reuters Canada
+ - [https://www.thomsonreuters.ca](https://www.thomsonreuters.ca)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Workwear and Menswear Sewing Patterns and Supplies | Thread Theory Designs
+ - [https://threadtheory.ca](https://threadtheory.ca)
+ - date_published: 2024-07-10T03:36:48.678061+00:00
+
+ ## Finding the best business, It's that easy - ThreeBestRated.ca
+ - [https://threebestrated.ca](https://threebestrated.ca)
+ - date_published: 2024-05-02T09:53:04.963128+00:00
+
+ ## dayder
+ - [https://dayder.thume.ca](https://dayder.thume.ca)
+ - date_published: 2024-04-30T05:16:58.353294+00:00
+
+ ## dayder
+ - [https://hnblogs.thume.ca](https://hnblogs.thume.ca)
+ - date_published: 2024-04-30T05:16:53.652654+00:00
+
+ ## Tristan's Site - Tristan Hume
+ - [https://thume.ca](https://thume.ca)
+ - date_published: 2023-10-25T08:43:07.236288+00:00
+ - tags: ['personal']
+
+ ## TIAO - Tourism Counts
+ - [https://www.tiaontario.ca](https://www.tiaontario.ca)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Let's Get Your Identity Verified
+ - [https://www.ticketmaster.ca](https://www.ticketmaster.ca)
+ - date_published: 2024-07-19T05:00:01.344837+00:00
+
+ ## TicketWeb - independent music concert tickets and more
+ - [https://www.ticketweb.ca](https://www.ticketweb.ca)
+ - date_published: 2024-07-01T05:01:18.417896+00:00
+
+ ## Directory
+ - [https://members.tico.ca](https://members.tico.ca)
+ - date_published: 2024-07-17T10:26:22.622257+00:00
+
+ ## Home - Tidal Commerce
+ - [https://tidalcommerce.ca](https://tidalcommerce.ca)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Laundry Detergent and Fabric Care Products - Tide
+ - [https://tide.ca](https://tide.ca)
+ - date_published: 2024-10-04T08:32:10+00:00
+
+ ## Tidewater Press | Canadian publishers - Tidewater Press
+ - [https://www.tidewaterpress.ca](https://www.tidewaterpress.ca)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## This is the default server vhost
+ - [http://www.tiles.ca](http://www.tiles.ca)
+ - date_published: 2024-06-24T11:23:01+00:00
+
+ ## Tilray
+ - [https://www.tilraymedical.ca](https://www.tilraymedical.ca)
+ - date_published: 2024-07-16T23:46:47.159020+00:00
+
+ ## Trusses | Engineered Floors | Timber Wolf Truss
+ - [https://timberwolftruss.ca](https://timberwolftruss.ca)
+ - date_published: 2024-04-30T05:14:37.713928+00:00
+
+ ## Time2Thrive | Tim Ebl | Substack
+ - [https://www.time2thrive.ca](https://www.time2thrive.ca)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## Timur Ochakovsky | Web Developer
+ - [https://timur.ca](https://timur.ca)
+ - date_published: 2023-11-08T12:51:06+00:00
+
+ ## Tireshops in Canada, Canada
+ - [http://www.tireshops.ca](http://www.tireshops.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Toronto Language and Cognition Lab | UofT
+ - [https://www.tlclab.ca](https://www.tlclab.ca)
+ - date_published: 2024-07-19T15:20:02.673409+00:00
+
+ ## Home - Thompson-Nicola Regional District
+ - [https://www.tnrd.ca](https://www.tnrd.ca)
+ - date_published: 2024-08-18T11:13:07+00:00
+
+ ## Todd Industries - Game Servers
+ - [https://games.toddindustries.ca](https://games.toddindustries.ca)
+ - date_published: 2024-06-16T21:25:29.763007+00:00
+
+ ## Todd Industries ©
+ - [https://toddindustries.ca](https://toddindustries.ca)
+ - date_published: 2020-04-12T17:32:01+00:00
+
+ ## COMING SOON - TOFUtv
+ - [http://www.tofutv.ca](http://www.tofutv.ca)
+ - date_published: 2024-07-28T00:31:57+00:00
+
+ ## Home | TOJam
+ - [https://tojam.ca](https://tojam.ca)
+ - date_published: 2024-09-09T23:24:19.778431+00:00
+
+ ## tomjacques.ca
+ - [http://tomjacques.ca](http://tomjacques.ca)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Tony Burke | Professor of Early Christianity, York University, Toronto
+ - [http://www.tonyburke.ca](http://www.tonyburke.ca)
+ - date_published: 2024-07-02T09:57:12.094403+00:00
+
+ ## City of Toronto Search
+ - [https://find.toronto.ca](https://find.toronto.ca)
+ - date_published: 2024-02-16T16:27:35+00:00
+
+ ## City of Toronto
+ - [https://www.toronto.ca](https://www.toronto.ca)
+ - date_published: 2017-02-09T19:00:55+00:00
+
+ ## Paul Henman, Toronto Agile Coach
+ - [https://torontoagilecoach.ca](https://torontoagilecoach.ca)
+ - date_published: 2024-08-18T10:54:15.488090+00:00
+
+ ## Toronto FC Culture
+ - [https://culture.torontofc.ca](https://culture.torontofc.ca)
+ - date_published: 2024-10-18T17:27:11.171007+00:00
+
+ ## torontofc
+ - [https://www.torontofc.ca](https://www.torontofc.ca)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Industry-Focused Creative Diploma Programs | Toronto Film School
+ - [https://www.torontofilmschool.ca](https://www.torontofilmschool.ca)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Home - Toronto Foundation
+ - [https://torontofoundation.ca](https://torontofoundation.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Toronto, Ontario Real Estate & Houses for Sale - Toronto Homes Hub
+ - [http://torontohomeshub.ca](http://torontohomeshub.ca)
+ - date_published: 2024-09-19T00:56:16+00:00
+
+ ## The Chang School of Continuing Education - Toronto Metropolitan University
+ - [https://continuing.torontomu.ca](https://continuing.torontomu.ca)
+ - date_published: 2024-07-21T09:11:26.548894+00:00
+
+ ## Toronto Metropolitan University Libraries
+ - [https://library.torontomu.ca](https://library.torontomu.ca)
+ - date_published: 2024-07-21T09:11:24.646522+00:00
+
+ ## Welcome | my.torontomu Portal
+ - [https://my.torontomu.ca](https://my.torontomu.ca)
+ - date_published: 2024-07-21T09:11:23.135544+00:00
+
+ ## Toronto Metropolitan University Home
+ - [https://torontomu.ca](https://torontomu.ca)
+ - date_published: 2024-04-30T05:17:19.531860+00:00
+
+ ## ECB Webmail - Login
+ - [https://webmail.ee.torontomu.ca](https://webmail.ee.torontomu.ca)
+ - date_published: 2024-04-30T05:17:25.707665+00:00
+
+ ## Department of Electrical, Computer, & Biomedical Engineering - Toronto Metropolitan University
+ - [https://www.ecb.torontomu.ca](https://www.ecb.torontomu.ca)
+ - date_published: 2023-10-25T12:08:29.901066+00:00
+
+ ## Account : Toronto Public Library
+ - [https://account.torontopubliclibrary.ca](https://account.torontopubliclibrary.ca)
+ - date_published: 2024-05-12T05:59:12.786227+00:00
+
+ ## Account : Toronto Public Library
+ - [https://betaaccount.torontopubliclibrary.ca](https://betaaccount.torontopubliclibrary.ca)
+ - date_published: 2024-05-12T05:59:22.364632+00:00
+
+ ## Account : Toronto Public Library
+ - [https://devaccount.torontopubliclibrary.ca](https://devaccount.torontopubliclibrary.ca)
+ - date_published: 2024-07-14T19:20:47.694160+00:00
+
+ ## Home
+ - [https://torontopubliclibrary.ca](https://torontopubliclibrary.ca)
+ - date_published: 2024-04-03T06:41:22.645507+00:00
+ - tags: ['public library']
+
+ ## Schwartz Reisman Institute for Technology and Society
+ - [https://www.torontosri.ca](https://www.torontosri.ca)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Total Equipment Rentals
+ - [https://totalrentals.ca](https://totalrentals.ca)
+ - date_published: 2024-04-30T05:14:45.360788+00:00
+
+ ## Total Rentals Safety and Operator Training
+ - [https://www.totalsafetytraining.ca](https://www.totalsafetytraining.ca)
+ - date_published: 2024-07-21T09:25:43.236869+00:00
+
+ ## Tourisme Alberta
+ - [https://tourismealberta.ca](https://tourismealberta.ca)
+ - date_published: 2024-12-14T14:01:29.312348+00:00
+
+ ## L'hiver au Nouveau-Brunswick, Canada
+ - [https://tourismenouveaubrunswick.ca](https://tourismenouveaubrunswick.ca)
+ - date_published: 2024-12-14T10:27:11+00:00
+
+ ## Tour-The-Shore | Nova Scotia's Eastern Shore
+ - [https://www.tour-the-shore.ca](https://www.tour-the-shore.ca)
+ - date_published: 2024-07-11T17:18:57.262036+00:00
+
+ ## Towing in Canada, Canada
+ - [http://www.towing.ca](http://www.towing.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Curiousity? | Dr. Terri's Maker Log
+ - [http://terri.toybox.ca](http://terri.toybox.ca)
+ - date_published: 2024-06-28T19:53:28.454404+00:00
+
+ ## Newsroom | Toyota Canada
+ - [https://media.toyota.ca](https://media.toyota.ca)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Vintage Toys & Games, History and Exploration of Play | Toy Tales
+ - [https://toytales.ca](https://toytales.ca)
+ - date_published: 2024-12-12T19:25:14.134951+00:00
+
+ ## Digital Archive : Toronto Public Library
+ - [https://digitalarchive.tpl.ca](https://digitalarchive.tpl.ca)
+ - date_published: 2024-05-12T05:59:16.466961+00:00
+
+ ## Account : Toronto Public Library
+ - [https://lists.tpl.ca](https://lists.tpl.ca)
+ - date_published: 2024-05-12T05:59:15.076276+00:00
+
+ ## Home
+ - [https://tpl.ca](https://tpl.ca)
+ - date_published: 2024-07-14T19:20:52.035501+00:00
+
+ ## Toronto Public Library - Programs
+ - [https://events.tplcs.ca](https://events.tplcs.ca)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Home Page for TPL Foundation - Toronto Public Library Foundation
+ - [http://donate.tplfoundation.ca](http://donate.tplfoundation.ca)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home Page for TPL Foundation - Toronto Public Library Foundation
+ - [https://tplfoundation.ca](https://tplfoundation.ca)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Toronto Public Library Foundation's 2017 Annual Report
+ - [https://whygive.tplfoundation.ca](https://whygive.tplfoundation.ca)
+ - date_published: 2024-07-15T10:46:56.977972+00:00
+
+ ## Welcome to your Strapi app
+ - [https://cms.tpllabs.ca](https://cms.tpllabs.ca)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## TPUG – Toronto PET Users Group
+ - [https://www.tpug.ca](https://www.tpug.ca)
+ - date_published: 2024-07-14T12:20:13.387868+00:00
+
+ ## TradeZero | Awarded Best Broker for Short Selling
+ - [https://tradezero.ca](https://tradezero.ca)
+ - date_published: 2024-10-30T14:16:22.760944+00:00
+
+ ## Today's Home: Trail Real Estate
+ - [https://homes.trailtimes.ca](https://homes.trailtimes.ca)
+ - date_published: 2024-06-29T11:31:57.898993+00:00
+
+ ## Public Transit in Ottawa
+ - [http://www.transitottawa.ca](http://www.transitottawa.ca)
+ - date_published: 2024-06-26T11:13:26+00:00
+
+ ## Transport Bond | Vente et livraison de matériaux en vrac
+ - [https://transportbond.ca](https://transportbond.ca)
+ - date_published: 2024-10-21T11:45:13.499943+00:00
+
+ ## Home - Transport Futures
+ - [https://transportfutures.ca](https://transportfutures.ca)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Travelagents in Canada, Canada
+ - [http://www.travelagents.ca](http://www.travelagents.ca)
+ - date_published: 2024-06-29T17:26:10.148627+00:00
+
+ ## Travel News, Information and Offers Canada TP
+ - [https://www.travelpulsequebec.ca](https://www.travelpulsequebec.ca)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home Page - Tree Canada
+ - [https://treecanada.ca](https://treecanada.ca)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Best Weed Delivery Toronto | 420 Mississauga | Tree Huggerz
+ - [https://treehuggerz.ca](https://treehuggerz.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Tree Library: A high-quality tree database for educators, students and lay persons
+ - [https://treelib.ca](https://treelib.ca)
+ - date_published: 2024-05-08T11:36:29.423923+00:00
+
+ ## Tribal Solutions
+ - [https://www.tribalsolutions.ca](https://www.tribalsolutions.ca)
+ - date_published: 2024-07-21T08:35:31.203413+00:00
+
+ ## About Us | triOS College
+ - [https://info.trios.ca](https://info.trios.ca)
+ - date_published: 2024-08-11T09:22:05.127041+00:00
+
+ ## Tripadvisor : plus d'un milliard d'avis et de contributions sur les hôtels, les attractions, les restaurants et plus
+ - [https://fr.tripadvisor.ca](https://fr.tripadvisor.ca)
+ - date_published: 2024-06-23T09:27:25.323710+00:00
+
+ ## Tripadvisor: Over a billion reviews & contributions for Hotels, Attractions, Restaurants, and more
+ - [https://www.tripadvisor.ca](https://www.tripadvisor.ca)
+ - date_published: 2024-06-23T09:18:54.664173+00:00
+
+ ## TriSummit
+ - [https://trisummit.ca](https://trisummit.ca)
+ - date_published: 2024-09-16T06:56:21+00:00
+
+ ## Home | TRIUMF : Canada's particle accelerator centre
+ - [http://www.triumf.ca](http://www.triumf.ca)
+ - date_published: 2024-06-22T09:58:12.185508+00:00
+
+ ## trivago.ca - Compare hotel prices worldwide
+ - [https://www.trivago.ca](https://www.trivago.ca)
+ - date_published: 2024-09-04T11:20:23.489258+00:00
+
+ ## Thompson Rivers University
+ - [http://tru.ca](http://tru.ca)
+ - date_published: 2024-07-04T09:43:24.926700+00:00
+
+ ## The CogDog Show
+ - [http://cogdog.trubox.ca](http://cogdog.trubox.ca)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## You Show – Show your work, your learning, your thinking
+ - [http://youshow.trubox.ca](http://youshow.trubox.ca)
+ - date_published: 2015-04-09T13:55:30+00:00
+
+ ## TRUE RHYTHM
+ - [https://truerhythm.ca](https://truerhythm.ca)
+ - date_published: 2024-06-17T08:45:53.585547+00:00
+
+ ## Top 5 Top 5 Toronto Trustees for 2020 | Trustees.ca Plumbers and Plumbing Contractors for 2020 | Trustees.ca
+ - [http://www.trustees.ca](http://www.trustees.ca)
+ - date_published: 2024-06-29T17:35:53.398362+00:00
+
+ ## Füm - The Good Habit™
+ - [https://tryfum.ca](https://tryfum.ca)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## TSN 1V1
+ - [https://1v1.tsn.ca](https://1v1.tsn.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Bell Media Account
+ - [https://account.tsn.ca](https://account.tsn.ca)
+ - date_published: 2024-06-11T16:23:45+00:00
+
+ ## TSN - Canada's Source for Sports News, Scores & Live Games
+ - [https://tsn.ca](https://tsn.ca)
+ - date_published: 2024-06-17T09:32:38+00:00
+
+ ## Toronto Star
+ - [https://www.tsoffers.ca](https://www.tsoffers.ca)
+ - date_published: 2024-05-06T14:31:14.507038+00:00
+
+ ## The Trailing Edge - New and Used Computers, Parts and Repairs
+ - [https://www.tte.ca](https://www.tte.ca)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Toronto Users Group for Power Systems
+ - [https://tug.ca](https://tug.ca)
+ - date_published: 2023-10-25T12:08:30.829886+00:00
+
+ ## Festival Information - Canadian Tulip Festival
+ - [https://tulipfestival.ca](https://tulipfestival.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Sign In | Sentry
+ - [https://sentry.turbulent.ca](https://sentry.turbulent.ca)
+ - date_published: 2024-08-19T06:27:10.172047+00:00
+
+ ## Turbulent
+ - [https://turbulent.ca](https://turbulent.ca)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Empower Students to Do Their Best, Original Work | Turnitin
+ - [https://www.turnitin.ca](https://www.turnitin.ca)
+ - date_published: 2024-10-23T16:26:26+00:00
+
+ ## Tuxedos in Canada, Canada
+ - [http://www.tuxedos.ca](http://www.tuxedos.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## TV5Unis
+ - [http://www.tv5.ca](http://www.tv5.ca)
+ - date_published: 2024-06-17T15:43:11.850023+00:00
+
+ ## TV5 Québec Canada
+ - [https://tv5quebeccanada.ca](https://tv5quebeccanada.ca)
+ - date_published: 2024-10-19T15:21:42.578784+00:00
+
+ ## TV5Unis
+ - [https://www.tv5unis.ca](https://www.tv5unis.ca)
+ - date_published: 2024-10-19T15:21:13.950623+00:00
+
+ ## TVA Nouvelles | L’actualité de dernière heure en temps réel
+ - [https://www.tvanouvelles.ca](https://www.tvanouvelles.ca)
+ - date_published: 2024-08-19T08:11:17.118937+00:00
+
+ ## Toutes les Nouvelles du Sport: Infos, Vidéos, Résultats & Statistiques - TVA Sports
+ - [https://www.tvasports.ca](https://www.tvasports.ca)
+ - date_published: 2024-08-19T08:10:47.276212+00:00
+
+ ## Twitch Calgary
+ - [http://twitchcalgary.ca](http://twitchcalgary.ca)
+ - date_published: 2024-10-19T22:17:34.676100+00:00
+
+ ## Twitchy Bristles Painting
+ - [http://twitchybristles.ca](http://twitchybristles.ca)
+ - date_published: 2024-07-11T15:28:30.830829+00:00
+
+ ## Home - Tsleil-Waututh Nation
+ - [https://twnation.ca](https://twnation.ca)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Home - Tsleil-Waututh Nation School
+ - [https://twnationschool.ca](https://twnationschool.ca)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Sacred Trust
+ - [https://twnsacredtrust.ca](https://twnsacredtrust.ca)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## TWO MEN AND A TRUCK | The Movers Who Care
+ - [https://twomenandatruck.ca](https://twomenandatruck.ca)
+ - date_published: 2024-12-13T17:31:42+00:00
+
+ ## Tyndale University | Home
+ - [https://www.tyndale.ca](https://www.tyndale.ca)
+ - date_published: 2024-06-22T13:33:47+00:00
+
+ ## Home - U15 Group of Canadian Research Universities
+ - [https://u15.ca](https://u15.ca)
+ - date_published: 2022-07-27T19:47:44+00:00
+
+ ## Undergraduate Admissions + Programs
+ - [https://apply.ualberta.ca](https://apply.ualberta.ca)
+ - date_published: 2024-07-12T21:58:03+00:00
+
+ ## Apps@UAlberta.ca
+ - [https://apps.ualberta.ca](https://apps.ualberta.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Bear Tracks - University of Alberta
+ - [https://beartracks.ualberta.ca](https://beartracks.ualberta.ca)
+ - date_published: 2021-10-28T20:52:39+00:00
+
+ ## Bookstore | University of Alberta
+ - [https://bookstore.ualberta.ca](https://bookstore.ualberta.ca)
+ - date_published: 2024-04-30T05:17:38.096141+00:00
+
+ ## BPSC Library
+ - [https://bpsc.library.ualberta.ca](https://bpsc.library.ualberta.ca)
+ - date_published: 2024-07-21T09:08:30.331270+00:00
+
+ ## University of Alberta - Acalog ACMS™
+ - [https://calendar.ualberta.ca](https://calendar.ualberta.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## University of Alberta Single Sign On
+ - [https://canvas.ualberta.ca](https://canvas.ualberta.ca)
+ - date_published: 2024-09-05T11:28:19.717981+00:00
+
+ ## Directory@UAlberta.ca
+ - [https://directory.ualberta.ca](https://directory.ualberta.ca)
+ - date_published: 2024-07-22T18:48:27.250844+00:00
+
+ ## dsc – Digital Scholarship Centre
+ - [https://dsc.library.ualberta.ca](https://dsc.library.ualberta.ca)
+ - date_published: 2024-07-21T09:08:35.619844+00:00
+
+ ## University of Alberta Single Sign On
+ - [https://eclass.srv.ualberta.ca](https://eclass.srv.ualberta.ca)
+ - date_published: 2024-04-30T05:17:35.094045+00:00
+
+ ## HTTP Server Test Page
+ - [https://ezpa.library.ualberta.ca](https://ezpa.library.ualberta.ca)
+ - date_published: 2024-06-04T22:57:12+00:00
+
+ ## Subject Guides
+ - [https://guides.library.ualberta.ca](https://guides.library.ualberta.ca)
+ - date_published: 2024-07-21T09:08:23.771635+00:00
+
+ ## Information Services + Technology
+ - [http://ist.ualberta.ca](http://ist.ualberta.ca)
+ - date_published: 2024-07-16T16:46:38+00:00
+
+ ## Publishing - UofA Library
+ - [https://journals.library.ualberta.ca](https://journals.library.ualberta.ca)
+ - date_published: 2024-07-15T09:18:03.000925+00:00
+
+ ## Library - UofA Library
+ - [https://library.ualberta.ca](https://library.ualberta.ca)
+ - date_published: 2024-04-30T05:18:22.792206+00:00
+
+ ## Library - UofA Library
+ - [https://login.ezproxy.library.ualberta.ca](https://login.ezproxy.library.ualberta.ca)
+ - date_published: 2024-07-21T09:08:40.758872+00:00
+
+ ## SimpleSAMLphp installation page
+ - [https://login.ualberta.ca](https://login.ualberta.ca)
+ - date_published: 2024-07-21T09:10:49.515876+00:00
+
+ ## MyCCID
+ - [https://myccid.ualberta.ca](https://myccid.ualberta.ca)
+ - date_published: 2024-05-30T21:54:38+00:00
+
+ ## University of Alberta
+ - [https://neos.library.ualberta.ca](https://neos.library.ualberta.ca)
+ - date_published: 2023-05-16T16:31:30+00:00
+
+ ## news.library.ualberta.ca —
+ - [https://news.library.ualberta.ca](https://news.library.ualberta.ca)
+ - date_published: 2024-07-21T09:08:18.675749+00:00
+
+ ## Peel's Prairie Provinces - Sources for Western Canada and Western Canadian History
+ - [http://peel.library.ualberta.ca](http://peel.library.ualberta.ca)
+ - date_published: 2024-08-08T19:11:02.817563+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.su.ualberta.ca](https://plausible.su.ualberta.ca)
+ - date_published: 2024-07-21T09:10:34.941510+00:00
+
+ ## Welcome
+ - [https://policiesonline.ualberta.ca](https://policiesonline.ualberta.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## sites.library.ualberta.ca
+ - [https://sites.library.ualberta.ca](https://sites.library.ualberta.ca)
+ - date_published: 2024-07-21T09:08:22.546573+00:00
+
+ ## University of Alberta Students' Union
+ - [https://su.ualberta.ca](https://su.ualberta.ca)
+ - date_published: 2024-04-30T05:17:42.130043+00:00
+
+ ## University of Alberta
+ - [https://ualberta.ca](https://ualberta.ca)
+ - date_published: 2023-11-07T11:03:04.316671+00:00
+
+ ## UASU Cares
+ - [http://uasucares.su.ualberta.ca](http://uasucares.su.ualberta.ca)
+ - date_published: 2024-07-21T09:09:33.208458+00:00
+
+ ## Alberta Law Reform Institute
+ - [https://www.alri.ualberta.ca](https://www.alri.ualberta.ca)
+ - date_published: 2024-08-10T22:44:40.077343+00:00
+
+ ## Careers | University of Alberta
+ - [https://www.careers.ualberta.ca](https://www.careers.ualberta.ca)
+ - date_published: 2024-07-12T16:03:00+00:00
+
+ ## Computing Science
+ - [http://www.cs.ualberta.ca](http://www.cs.ualberta.ca)
+ - date_published: 2024-05-28T15:33:31+00:00
+
+ ## Electrical and Computer Engineering University of Alberta
+ - [https://www.ece.ualberta.ca](https://www.ece.ualberta.ca)
+ - date_published: 2011-09-20T21:59:28+00:00
+
+ ## Bear Tracks - University of Alberta
+ - [https://www.guest.beartracks.ualberta.ca](https://www.guest.beartracks.ualberta.ca)
+ - date_published: 2021-10-28T20:52:39+00:00
+
+ ## U of A -- Math and Stat Sciences
+ - [http://www.math.ualberta.ca](http://www.math.ualberta.ca)
+ - date_published: 2012-03-16T15:49:52+00:00
+
+ ## ONEcard
+ - [https://www.onecard.ualberta.ca](https://www.onecard.ualberta.ca)
+ - date_published: 2024-07-18T15:59:02+00:00
+
+ ## Psychology
+ - [http://www.psych.ualberta.ca](http://www.psych.ualberta.ca)
+ - date_published: 2024-06-24T18:32:23+00:00
+
+ ## Homepage - University of Alberta Press
+ - [https://ualbertapress.ca](https://ualbertapress.ca)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## About UBC Library
+ - [https://about.library.ubc.ca](https://about.library.ubc.ca)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Vice President Academic |
+ - [https://academic.ubc.ca](https://academic.ubc.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Peter A. Allard School of Law - University of British Columbia
+ - [https://allard.ubc.ca](https://allard.ubc.ca)
+ - date_published: 2024-10-18T21:57:19.513787+00:00
+
+ ## alumni UBC - The homepage of alumni UBC - UBC Alumni Association - alumni UBC
+ - [https://alumni.ubc.ca](https://alumni.ubc.ca)
+ - date_published: 2024-10-19T10:38:40.247766+00:00
+
+ ## Homepage | Arts One | University of British Columbia
+ - [https://artsone.arts.ubc.ca](https://artsone.arts.ubc.ca)
+ - date_published: 2024-12-04T20:23:58.006475+00:00
+
+ ## Faculty of Arts | University of British Columbia (Vancouver)
+ - [http://arts.ubc.ca](http://arts.ubc.ca)
+ - date_published: 2024-10-18T21:56:09.363341+00:00
+
+ ## Ask Us Home | Ask Us
+ - [https://ask.library.ubc.ca](https://ask.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:37.852135+00:00
+
+ ## Welcome | Blockchain@UBC
+ - [https://blockchain.ubc.ca](https://blockchain.ubc.ca)
+ - date_published: 2024-06-16T04:07:58.990087+00:00
+
+ ## Home | UBC Blogs
+ - [http://blogs.ubc.ca](http://blogs.ubc.ca)
+ - date_published: 2024-06-28T18:49:02.895426+00:00
+
+ ## The UBC Brand
+ - [http://brand.ubc.ca](http://brand.ubc.ca)
+ - date_published: 2024-07-21T05:55:27.622822+00:00
+
+ ## c21: Physics Teaching for the 21st Century
+ - [http://c21.phas.ubc.ca](http://c21.phas.ubc.ca)
+ - date_published: 2023-03-31T21:58:54+00:00
+
+ ## University of British Columbia Library | UBC Library Home
+ - [https://clf.library.ubc.ca](https://clf.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:11.277374+00:00
+
+ ## UBC Arts | University of British Columbia | Admissions & Campus Map
+ - [https://cms.arts.ubc.ca](https://cms.arts.ubc.ca)
+ - date_published: 2024-10-18T21:56:05.796681+00:00
+
+ ## Library Collections | UBC Library Collections
+ - [https://collections.library.ubc.ca](https://collections.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:28.244010+00:00
+
+ ## Secure logon for UBC VPNLESS MFA
+ - [https://confluence.it.ubc.ca](https://confluence.it.ubc.ca)
+ - date_published: 2024-07-21T09:07:35.981145+00:00
+
+ ## Home | Copyright at UBC
+ - [https://copyright.ubc.ca](https://copyright.ubc.ca)
+ - date_published: 2024-07-21T09:07:18.519394+00:00
+
+ ## Home :: UBC Library Course Reserves
+ - [https://courses.library.ubc.ca](https://courses.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:54.593034+00:00
+
+ ## Welcome to myPHAS!
+ - [https://courses.phas.ubc.ca](https://courses.phas.ubc.ca)
+ - date_published: 2024-08-06T10:27:10.150903+00:00
+
+ ## Homepage | University of British Columbia
+ - [https://courses.students.ubc.ca](https://courses.students.ubc.ca)
+ - date_published: 2024-07-11T12:56:11.388547+00:00
+
+ ## Home Page | Canadian Physics Olympiad National Program
+ - [https://cpo.phas.ubc.ca](https://cpo.phas.ubc.ca)
+ - date_published: 2024-06-22T09:58:08.443955+00:00
+
+ ## Home | Computer Science at UBC
+ - [https://cs.ubc.ca](https://cs.ubc.ca)
+ - date_published: 2024-07-21T05:55:17.672268+00:00
+
+ ## Demonstrations by Category [UBC PHAS Demonstration Room Catalog]
+ - [http://democart.phas.ubc.ca](http://democart.phas.ubc.ca)
+ - date_published: 2024-08-06T10:27:25.855418+00:00
+
+ ## Untitled Document
+ - [https://directory.ubc.ca](https://directory.ubc.ca)
+ - date_published: 2022-05-27T21:05:27+00:00
+
+ ## OpenAthens / Please wait...
+ - [https://doi-org.ezproxy.library.ubc.ca](https://doi-org.ezproxy.library.ubc.ca)
+ - date_published: 2024-06-30T08:29:59.599517+00:00
+
+ ## Home - Department of Electrical and Computer Engineering
+ - [https://ece.sites.olt.ubc.ca](https://ece.sites.olt.ubc.ca)
+ - date_published: 2024-04-30T05:18:56.990829+00:00
+
+ ## Home - Department of Electrical and Computer Engineering
+ - [https://ece.ubc.ca](https://ece.ubc.ca)
+ - date_published: 2024-04-30T05:18:53.816734+00:00
+
+ ## Vancouver School of Economics | University of British Columbia | Canada
+ - [https://economics.ubc.ca](https://economics.ubc.ca)
+ - date_published: 2024-09-12T19:31:04.835085+00:00
+
+ ## Home | ECE Engineering Services
+ - [https://eng-services.ece.ubc.ca](https://eng-services.ece.ubc.ca)
+ - date_published: 2024-07-21T09:05:58.885762+00:00
+
+ ## Economics, Philosophy and Political Science: UBC's Okanagan Campus
+ - [https://epp.ok.ubc.ca](https://epp.ok.ubc.ca)
+ - date_published: 2024-07-01T20:24:01.463724+00:00
+
+ ## Home Page | PHAS EDI Committee
+ - [https://equity-inclusion.phas.ubc.ca](https://equity-inclusion.phas.ubc.ca)
+ - date_published: 2024-08-06T10:27:21.984027+00:00
+
+ ## UBC Okanagan Events Calendar
+ - [https://events.ok.ubc.ca](https://events.ok.ubc.ca)
+ - date_published: 2024-07-21T09:06:33.857606+00:00
+
+ ## Home | UBC Experts Guide
+ - [https://experts.news.ubc.ca](https://experts.news.ubc.ca)
+ - date_published: 2024-04-30T05:18:48.209797+00:00
+
+ ## French, Hispanic and Italian Studies | University of British Columbia (UBC)
+ - [https://fhis.ubc.ca](https://fhis.ubc.ca)
+ - date_published: 2024-10-19T10:39:40.850510+00:00
+
+ ## UBC Forestry | Faculty of Forestry, University of British Columbia
+ - [https://forestry.ubc.ca](https://forestry.ubc.ca)
+ - date_published: 2024-12-03T18:46:49.264259+00:00
+
  ## UBC Botanical Garden Forums
  - [https://forums.botanicalgarden.ubc.ca](https://forums.botanicalgarden.ubc.ca)
  - date_published: 2024-07-11T00:00:00+00:00
@@ -1167,17 +1922,109 @@
  - [http://upsidefoundation.ca](http://upsidefoundation.ca)
  - date_published: 2024-04-11T00:00:00+00:00
 
+ ## Accueil | Actualités UQAM
+ - [https://actualites.uqam.ca](https://actualites.uqam.ca)
+ - date_published: 2021-12-01T07:55:57+00:00
+
+ ## Balados
+ - [https://balados.uqam.ca](https://balados.uqam.ca)
+ - date_published: 2024-12-15T13:36:39.600723+00:00
+
+ ## Accueil | Service des bibliothèques | UQAM
+ - [https://bibliotheques.uqam.ca](https://bibliotheques.uqam.ca)
+ - date_published: 2024-12-15T13:37:41.631560+00:00
+
+ ## Accueil | Bourses d'études | UQAM
+ - [https://bourses.uqam.ca](https://bourses.uqam.ca)
+ - date_published: 2024-12-15T13:37:14.764459+00:00
+
+ ## Plan interactif - Plan du campus | UQAM
+ - [http://carte.uqam.ca](http://carte.uqam.ca)
+ - date_published: 2024-12-15T13:36:33+00:00
+
+ ## Bureau des diplômés
+ - [https://diplomes.uqam.ca](https://diplomes.uqam.ca)
+ - date_published: 2024-12-15T13:37:02.300996+00:00
+
+ ## Prix et distinctions | UQAM
+ - [http://distinctions.uqam.ca](http://distinctions.uqam.ca)
+ - date_published: 2024-12-15T13:37:10.606316+00:00
+
+ ## Accueil | Service des entreprises auxiliaires | UQAM
+ - [https://ech.uqam.ca](https://ech.uqam.ca)
+ - date_published: 2024-12-15T13:36:42.982150+00:00
+
+ ## Accueil
+ - [http://ecoresponsable.uqam.ca](http://ecoresponsable.uqam.ca)
+ - date_published: 2024-12-15T13:36:53+00:00
+
+ ## Étudier à l'UQAM
+ - [https://etudier.uqam.ca](https://etudier.uqam.ca)
+ - date_published: 2024-12-15T08:31:00+00:00
+
+ ## UQAM | Calendrier des événements
+ - [https://evenements.uqam.ca](https://evenements.uqam.ca)
+ - date_published: 2024-12-15T13:36:15.654407+00:00
+
+ ## Fondation de l'UQAM
+ - [https://fondation.uqam.ca](https://fondation.uqam.ca)
+ - date_published: 2024-12-15T13:36:28.831719+00:00
+
  ## Home | Institut des sciences mathématiques
  - [http://ism.uqam.ca](http://ism.uqam.ca)
  - date_published: 2024-09-06T21:08:52.947102+00:00
+
+ ## Accueil - Moodle - UQAM
+ - [https://moodle.uqam.ca](https://moodle.uqam.ca)
+ - date_published: 2024-12-15T13:36:35.908647+00:00
+
+ ## Portail étudiant | UQAM
+ - [https://portailetudiant.uqam.ca](https://portailetudiant.uqam.ca)
+ - date_published: 2024-12-15T13:36:59.803938+00:00
 
  ## Répertoire des professeurs
  - [https://professeurs.uqam.ca](https://professeurs.uqam.ca)
  - date_published: 2024-06-30T09:12:39.791572+00:00
 
+ ## Rectorat - Rectorat
+ - [https://rectorat.uqam.ca](https://rectorat.uqam.ca)
+ - date_published: 2024-12-15T13:37:53.312553+00:00
+
+ ## Accueil | Ressources humaines | UQAM
+ - [https://rh.uqam.ca](https://rh.uqam.ca)
+ - date_published: 2024-12-15T13:36:58.330399+00:00
+
+ ## Services alimentaires de l'UQAM | Services alimentaires | UQAM
+ - [http://servicesalimentaires.uqam.ca](http://servicesalimentaires.uqam.ca)
+ - date_published: 2024-12-15T13:37:56.055323+00:00
+
+ ## Services informatiques | Services informatiques | UQAM
+ - [https://servicesinformatiques.uqam.ca](https://servicesinformatiques.uqam.ca)
+ - date_published: 2024-12-15T13:36:45.657737+00:00
+
+ ## Accueil | Répertoire des services et ressources | UQAM
+ - [https://services.uqam.ca](https://services.uqam.ca)
+ - date_published: 2024-12-15T13:37:30.770041+00:00
+
+ ## Centre sportif
+ - [http://sports.uqam.ca](http://sports.uqam.ca)
+ - date_published: 2024-12-15T13:37:24.730324+00:00
+
+ ## Présentation du service | Service de la prévention et de la sécurité | UQAM
+ - [https://sps.uqam.ca](https://sps.uqam.ca)
+ - date_published: 2024-12-15T13:37:35.648190+00:00
+
  ## UQAM | Université du Québec à Montréal | Accueil
  - [https://uqam.ca](https://uqam.ca)
  - date_published: 2024-10-30T20:19:44.655018+00:00
+
+ ## Accueil | Services à la vie étudiante | UQAM
+ - [https://vie-etudiante.uqam.ca](https://vie-etudiante.uqam.ca)
+ - date_published: 2024-12-15T13:37:50.140350+00:00
+
+ ## Accueil | Service des bibliothèques | UQAM
+ - [http://www.bibliotheques.uqam.ca](http://www.bibliotheques.uqam.ca)
+ - date_published: 2024-12-15T13:36:50.128078+00:00
 
  ## Observatoire des sciences et des technologies | Mesure de la science, de la technologie et de l'innovation
  - [http://www.ost.uqam.ca](http://www.ost.uqam.ca)
@@ -3170,849 +4017,4 @@
  ## Moodle
  - [https://moodle.yorku.ca](https://moodle.yorku.ca)
  - date_published: 2024-07-09T00:00:00+00:00
-
- ## Passport York Login
- - [http://myosgoodepd.osgoode.yorku.ca](http://myosgoodepd.osgoode.yorku.ca)
- - date_published: 2024-07-09T21:36:19.297449+00:00
-
- ## News | York University
- - [https://news.yorku.ca](https://news.yorku.ca)
- - date_published: 2024-04-30T05:32:10.631393+00:00
-
- ## OSAP (Ontario Student Assistance Program) | OSAP | York University
- - [http://osap.students.yorku.ca](http://osap.students.yorku.ca)
- - date_published: 2024-07-21T07:57:32.808693+00:00
-
- ## OSAP (Ontario Student Assistance Program) | OSAP | York University
- - [https://osap.yorku.ca](https://osap.yorku.ca)
- - date_published: 2024-07-21T07:57:34.441566+00:00
-
- ## University Information Technology (UIT) | Something goes here....
- - [https://passportyork.yorku.ca](https://passportyork.yorku.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Classics in the History of Psychology
- - [https://psychclassics.yorku.ca](https://psychclassics.yorku.ca)
- - date_published: 2024-01-06T17:40:41.073576+00:00
-
- ## Passport York Login
- - [https://psychology.blog.yorku.ca](https://psychology.blog.yorku.ca)
- - date_published: 2024-07-21T08:04:39.553865+00:00
-
- ## Registrar's Office - Home | Registrar's Office | York University
- - [https://registrar.yorku.ca](https://registrar.yorku.ca)
- - date_published: 2024-07-09T21:36:57.398233+00:00
-
- ## LibGuides
- - [https://researchguides.library.yorku.ca](https://researchguides.library.yorku.ca)
- - date_published: 2024-10-18T22:17:53.333681+00:00
-
- ## Welcome! - Centre for Human Rights, Equity and Inclusion
- - [https://rights.info.yorku.ca](https://rights.info.yorku.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Safety | York University
- - [https://safety.yorku.ca](https://safety.yorku.ca)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Canada’s #1 Business School | Schulich School of Business
- - [https://schulich.yorku.ca](https://schulich.yorku.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## York Search Results - York University
- - [https://search2.info.yorku.ca](https://search2.info.yorku.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Secretariat Policies
- - [https://secretariat-policies.info.yorku.ca](https://secretariat-policies.info.yorku.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Student Financial Services - Home | Student Financial Services | York University
- - [https://sfs.yorku.ca](https://sfs.yorku.ca)
- - date_published: 2024-04-30T05:32:28.949793+00:00
-
- ## WordPress at York |
- - [https://site.info.yorku.ca](https://site.info.yorku.ca)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Faculty & Staff Services | University Information Technology (UIT)
- - [https://staff.computing.yorku.ca](https://staff.computing.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Current Students | Division of Students | York University
- - [https://students.yorku.ca](https://students.yorku.ca)
- - date_published: 2024-07-21T07:57:23.196380+00:00
-
- ## UPSA
- - [http://upsa.club.yorku.ca](http://upsa.club.yorku.ca)
- - date_published: 2024-07-21T08:04:42.456648+00:00
-
- ## WordPress at York
- - [http://wordpress.info.yorku.ca](http://wordpress.info.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## William van Wijngaarden – Lasers and Physics will blow your mind
- - [https://wvanwijngaarden.info.yorku.ca](https://wvanwijngaarden.info.yorku.ca)
- - date_published: 2024-06-15T09:13:48+00:00
-
- ## Homepage | Electrical Engineering and Computer Science
- - [http://www.cse.yorku.ca](http://www.cse.yorku.ca)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Change the World Now | Glendon Campus | York University
- - [https://www.glendon.yorku.ca](https://www.glendon.yorku.ca)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Osgoode Hall Law School – York University
- - [http://www.osgoode.yorku.ca](http://www.osgoode.yorku.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Department of Psychology
- - [https://www.psych.yorku.ca](https://www.psych.yorku.ca)
- - date_published: 2024-04-30T05:31:55.441536+00:00
-
- ## Research and Innovation | York University
- - [http://www.research.yorku.ca](http://www.research.yorku.ca)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Homepage - YFile
- - [https://yfile.news.yorku.ca](https://yfile.news.yorku.ca)
- - date_published: 2024-04-30T05:32:00.155249+00:00
-
- ## Welcome to York University! Bienvenue à l'Université York! - York International
- - [https://yorkinternational.yorku.ca](https://yorkinternational.yorku.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## York University | Right the Future
- - [https://yorku.ca](https://yorku.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## YUBlog | YUBlog
- - [https://yublog.students.yorku.ca](https://yublog.students.yorku.ca)
- - date_published: 2024-07-21T07:58:03.781085+00:00
-
- ## Passport York Login
- - [https://yulearn.yorku.ca](https://yulearn.yorku.ca)
- - date_published: 2024-07-08T23:02:02.959783+00:00
-
- ## Passport York Login
- - [https://yulink-new.yorku.ca](https://yulink-new.yorku.ca)
- - date_published: 2024-05-09T06:47:35.611383+00:00
-
- ## York University Psychology Clinic
- - [https://yupc.info.yorku.ca](https://yupc.info.yorku.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Home - Young W
- - [https://www.youngw.ca](https://www.youngw.ca)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## AdChoices in Canada - Learn about the blue icon & your choices
- - [https://youradchoices.ca](https://youradchoices.ca)
- - date_published: 2024-06-15T03:45:09.750365+00:00
-
- ## Your Environment
- - [https://yourenvironment.ca](https://yourenvironment.ca)
- - date_published: 2024-05-06T23:34:02.979229+00:00
-
- ## Homepage
- - [http://yourvancouverrealestate.ca](http://yourvancouverrealestate.ca)
- - date_published: 2024-07-17T02:14:27+00:00
-
- ## What Are Human Rights? Defined • Youth for Human Rights Campaign
- - [http://www.youthforhumanrights.ca](http://www.youthforhumanrights.ca)
- - date_published: 2024-09-04T17:53:42.657314+00:00
-
- ## Home - Youth Science Canada
- - [https://youthscience.ca](https://youthscience.ca)
- - date_published: 2024-08-09T03:54:14.350183+00:00
-
- ## yoyodyneconsulting.ca
- - [http://www.yoyodyneconsulting.ca](http://www.yoyodyneconsulting.ca)
- - date_published: 2024-08-19T21:49:10.597946+00:00
-
- ## We are yunikon. Your partner for your digital footprint!
- - [https://yunikon.ca](https://yunikon.ca)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Zoomer Digital Network
- - [https://zdn.ca](https://zdn.ca)
- - date_published: 2024-03-22T19:16:07+00:00
-
- ## Splashpage
- - [https://www.zeiss.ca](https://www.zeiss.ca)
- - date_published: 2024-09-16T07:56:26.896158+00:00
-
- ## Zeste, la destination qui comblera vos appétits! | Zeste
- - [https://www.zeste.ca](https://www.zeste.ca)
- - date_published: 2024-08-19T08:11:09.348826+00:00
-
- ## Ka-Ping Yee
- - [http://zesty.ca](http://zesty.ca)
- - date_published: 2024-03-18T05:51:34+00:00
-
- ## Home - ZGV
- - [http://zgv.ca](http://zgv.ca)
- - date_published: 2020-06-11T00:00:00+00:00
-
- ## ssh guest@amyzhu
- - [https://amy.zhucchini.ca](https://amy.zhucchini.ca)
- - date_published: 2024-07-28T03:11:13+00:00
-
- ## Zipcar: Car Sharing Alternative for Daily and Hourly Car Rental
- - [https://members.zipcar.ca](https://members.zipcar.ca)
- - date_published: 2024-06-15T17:09:51.284132+00:00
-
- ## Canada Business Directory
- - [https://www.zipleaf.ca](https://www.zipleaf.ca)
- - date_published: 2024-06-29T17:23:18.110235+00:00
-
- ## Redirect to Zisman.ca start page
- - [http://www.zisman.ca](http://www.zisman.ca)
- - date_published: 2021-05-31T14:51:16+00:00
-
- ## Zoetis
- - [https://www2.zoetis.ca](https://www2.zoetis.ca)
- - date_published: 2024-06-27T09:52:48+00:00
-
- ## Race Results & Registration | Zone4
- - [https://zone4.ca](https://zone4.ca)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Zoomer Magazine
- - [https://secure.zoomer.ca](https://secure.zoomer.ca)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## ZoomerMedia Limited
- - [https://www.zoomermedia.ca](https://www.zoomermedia.ca)
- - date_published: 2024-06-17T12:28:51.796300+00:00
-
- ## Language selection - Agriculture and Agri-Food Canada / Sélection de la langue - Agriculture et Agroalimentaire Canada
- - [https://agr.gc.ca](https://agr.gc.ca)
- - date_published: 2024-10-15T06:45:27.597195+00:00
-
- ## Agence spatiale canadienne | Canadian Space Agency
- - [http://www.asc-csa.gc.ca](http://www.asc-csa.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Canada.ca
- - [http://www.canada.gc.ca](http://www.canada.gc.ca)
- - date_published: 2024-07-14T02:13:44+00:00
-
- ## Canada and the world | Canada et le monde
- - [https://www.canadainternational.gc.ca](https://www.canadainternational.gc.ca)
- - date_published: 2017-06-01T00:00:00+00:00
-
- ## Canadian Biodiversity Information Facility (CBIF) - agriculture.canada.ca
- - [http://www.cbif.gc.ca](http://www.cbif.gc.ca)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Canadian Coast Guard | Garde côtière canadienne
- - [https://www.ccg-gcc.gc.ca](https://www.ccg-gcc.gc.ca)
- - date_published: 2024-10-18T06:56:21.734906+00:00
-
- ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
- - [https://www.census.gc.ca](https://www.census.gc.ca)
- - date_published: 2024-07-10T17:16:03+00:00
-
- ## Canada Research Chairs | Chaires de recherche du Canada
- - [http://www.chairs-chaires.gc.ca](http://www.chairs-chaires.gc.ca)
- - date_published: 2013-09-10T00:00:00+00:00
-
- ## Immigration, Refugees and Citizenship Canada | Immigration, Réfugiés et Citoyenneté Canada
- - [https://cic.gc.ca](https://cic.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Canadian Institutes of Health Research / Instituts de recherche en santé du Canada
- - [http://www.cihr-irsc.gc.ca](http://www.cihr-irsc.gc.ca)
- - date_published: 2019-11-27T02:31:38+00:00
-
- ## Canadian Nuclear Safety Commission - Commission canadienne de sûreté nucléaire
- - [https://www.cnsc-ccsn.gc.ca](https://www.cnsc-ccsn.gc.ca)
- - date_published: 2022-10-05T00:00:00+00:00
-
- ## Conseil de la radiodiffusion et des télécommunications canadiennes / Canadian Radio-television and Telecommunications Commission | CRTC
- - [https://crtc.gc.ca](https://crtc.gc.ca)
- - date_published: 2014-03-21T00:00:00+00:00
-
- ## Communications Security Establishment
- - [https://cse-cst.gc.ca](https://cse-cst.gc.ca)
- - date_published: 2024-02-07T15:33:10+00:00
- - tags: ['france security intelligence', 'security intelligence']
-
- ## Canadian Centre for Cyber Security
- - [https://cyber.gc.ca](https://cyber.gc.ca)
- - date_published: 2018-08-15T00:00:00+00:00
-
- ## Fisheries and Oceans Canada | Pêches et Océans Canada
- - [http://www.dfo-mpo.gc.ca](http://www.dfo-mpo.gc.ca)
- - date_published: 2022-01-24T00:00:00+00:00
-
- ## Marine Environmental Data Section | Section des données sur le milieu marin
- - [http://www.meds-sdmm.dfo-mpo.gc.ca](http://www.meds-sdmm.dfo-mpo.gc.ca)
- - date_published: 2024-10-30T00:33:14.759724+00:00
-
- ## Environment and Climate Change Canada - Canada.ca
- - [https://ec.gc.ca](https://ec.gc.ca)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Language selection - Federal Economic Development Agency for Southern Ontario Main Site / Sélection de la langue - Site principal Agence fédérale de développement économique pour le Sud de l'Ontario
- - [https://www.feddevontario.gc.ca](https://www.feddevontario.gc.ca)
- - date_published: 2023-03-10T15:38:23+00:00
-
- ## Guichet-Emplois pour employeurs - Module pour employeurs
- - [https://employeur.guichetemplois.gc.ca](https://employeur.guichetemplois.gc.ca)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Guichet-Emplois
- - [https://guichetemplois.gc.ca](https://guichetemplois.gc.ca)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Language selection - Innovation, Science and Economic Development Canada Main Site / Sélection de la langue - Site principal d'Innovation, Sciences et Développement économique Canada
- - [http://strategis.ic.gc.ca](http://strategis.ic.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Global Affairs Canada – Splash page / Affaires mondiales Canada – Page de garde
- - [https://international.gc.ca](https://international.gc.ca)
- - date_published: 2013-06-26T00:00:00+00:00
-
- ## Job Bank for Employers - Employer Module
- - [https://employer.jobbank.gc.ca](https://employer.jobbank.gc.ca)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Job Bank
- - [https://jobbank.gc.ca](https://jobbank.gc.ca)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Justice Laws Website - Site Web de la législation (Justice)
- - [https://laws.justice.gc.ca](https://laws.justice.gc.ca)
- - date_published: 2023-04-12T12:42:30+00:00
-
- ## Justice Laws Website - Site Web de la législation (Justice)
- - [https://laws-lois.justice.gc.ca](https://laws-lois.justice.gc.ca)
- - date_published: 2023-04-12T12:42:30+00:00
-
- ## Ressources du Portail linguistique du Canada – Langues – Identité canadienne et société – Culture, histoire et sport – Canada.ca
- - [https://www.noslangues-ourlanguages.gc.ca](https://www.noslangues-ourlanguages.gc.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Canadian Astronomy Data Centre
- - [https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca)
- - date_published: 2022-10-03T00:00:00+00:00
-
- ## Home - National Research Council Canada
- - [https://www.nrc-cnrc.gc.ca](https://www.nrc-cnrc.gc.ca)
- - date_published: 2024-07-04T09:05:04+00:00
-
- ## Research Portal / Portail de recherche
- - [https://portal-portail.nserc-crsng.gc.ca](https://portal-portail.nserc-crsng.gc.ca)
- - date_published: 2012-11-05T00:00:00+00:00
-
- ## Natural Sciences and Engineering Research Council of Canada  | Conseil de recherches en sciences naturelles et en génie du Canada
- - [https://www.nserc-crsng.gc.ca](https://www.nserc-crsng.gc.ca)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Canadian Nuclear Safety Commission - Commission canadienne de sûreté nucléaire
- - [http://nuclearsafety.gc.ca](http://nuclearsafety.gc.ca)
- - date_published: 2022-10-05T00:00:00+00:00
-
- ## ParlVu
- - [https://parlvu.parl.gc.ca](https://parlvu.parl.gc.ca)
- - date_published: 2024-07-10T05:30:08.053880+00:00
-
- ## Parks Canada
- - [https://www.pc.gc.ca](https://www.pc.gc.ca)
- - date_published: 2024-06-21T09:43:17.305148+00:00
-
- ## Public Health Agency of Canada (PHAC) | Agence de la sante publique du Canada (ASPC)
- - [https://phac-aspc.gc.ca](https://phac-aspc.gc.ca)
- - date_published: 2024-07-13T19:47:42.410865+00:00
-
- ## Prime Minister of Canada - Premier ministre du Canada
- - [https://pm.gc.ca](https://pm.gc.ca)
- - date_published: 2017-12-06T00:00:00+00:00
-
- ## Commissariat à la protection de la vie privée du Canada / Office of the Privacy Commissioner
- - [https://priv.gc.ca](https://priv.gc.ca)
- - date_published: 2023-10-25T12:09:36.663904+00:00
-
- ## Publications du gouvernement du Canada | Government of Canada Publications
- - [https://publications.gc.ca](https://publications.gc.ca)
- - date_published: 2002-07-01T00:00:00+00:00
-
- ## Public Safety Canada / Sécurité publique Canada
- - [https://www.publicsafety.gc.ca](https://www.publicsafety.gc.ca)
- - date_published: 2024-06-22T08:51:59.855148+00:00
-
- ## Services aux Autochtones Canada / Indigenous Services Canada - Canada.ca
- - [https://sac-isc.gc.ca](https://sac-isc.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Canada.ca
- - [http://www.science.gc.ca](http://www.science.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Social Sciences and Humanities Research Council / Conseil de recherches en sciences humaines
- - [https://www.sshrc-crsh.gc.ca](https://www.sshrc-crsh.gc.ca)
- - date_published: 2020-06-02T23:37:03+00:00
-
- ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
- - [https://statcan.gc.ca](https://statcan.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
- - [https://www12.statcan.gc.ca](https://www12.statcan.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
- - [https://www150.statcan.gc.ca](https://www150.statcan.gc.ca)
- - date_published: 2023-11-27T21:10:40.723455+00:00
-
- ## Language selection - Treasury Board of Canada Secretariat / Sélection de la langue - Secrétariat du Conseil du Trésor du Canada
- - [http://tbs-sct.gc.ca](http://tbs-sct.gc.ca)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Transport Canada / Transports Canada
- - [https://wwwapps.tc.gc.ca](https://wwwapps.tc.gc.ca)
- - date_published: 2021-11-29T19:02:34+00:00
-
- ## Listage dans le répertoire rejeté (Erreur 403) / Directory listing denied (Error 403)
- - [https://www.tpsgc-pwgsc.gc.ca](https://www.tpsgc-pwgsc.gc.ca)
- - date_published: 2021-10-05T00:00:00+00:00
-
- ## Home - Travel.gc.ca
- - [https://travel.gc.ca](https://travel.gc.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Language selection - Vanier Canada Graduate Scholarships  / Sélection de la langue - Bourses d'études supérieures du Canada Vanier
- - [https://vanier.gc.ca](https://vanier.gc.ca)
- - date_published: 2019-12-16T14:14:45+00:00
-
- ## Language selection
- - [https://veterans.gc.ca](https://veterans.gc.ca)
- - date_published: 2024-06-14T17:06:54+00:00
-
- ## Weather Information - Environment Canada
- - [https://weather.gc.ca](https://weather.gc.ca)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Manitoba Child Care Search - Government of Manitoba
- - [https://childcaresearch.gov.mb.ca](https://childcaresearch.gov.mb.ca)
- - date_published: 2024-04-30T05:33:01.579827+00:00
-
- ## Province of Manitoba | Home Page
- - [https://edu.gov.mb.ca](https://edu.gov.mb.ca)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Province of Manitoba | Home Page
- - [https://gov.mb.ca](https://gov.mb.ca)
- - date_published: 2024-04-30T05:32:46.909932+00:00
-
- ## Province of Manitoba | News Releases
- - [https://news.gov.mb.ca](https://news.gov.mb.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Residents Portal | Residents
- - [https://residents.gov.mb.ca](https://residents.gov.mb.ca)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Manitoba Vital Statistics Branch | Province of Manitoba
- - [https://vitalstats.gov.mb.ca](https://vitalstats.gov.mb.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Resource Not Found | Province of Manitoba
- - [https://web22.gov.mb.ca](https://web22.gov.mb.ca)
- - date_published: 2024-07-21T07:55:15.072834+00:00
-
- ## Province of Manitoba | Home Page
- - [https://web2.gov.mb.ca](https://web2.gov.mb.ca)
- - date_published: 2024-04-30T05:33:03.894877+00:00
-
- ## Manitoba Hydro: Safe, clean, reliable energy
- - [http://www.hydro.mb.ca](http://www.hydro.mb.ca)
- - date_published: 2024-08-06T18:03:03.947826+00:00
-
- ## Home - The Law Society of Manitoba
- - [http://www.lawsociety.mb.ca](http://www.lawsociety.mb.ca)
- - date_published: 2024-07-31T09:56:14+00:00
-
- ## Home
- - [https://manitobacourts.mb.ca](https://manitobacourts.mb.ca)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Home
- - [https://www.mpi.mb.ca](https://www.mpi.mb.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Manitoba Schools Science Symposium
- - [http://www.msss.mb.ca](http://www.msss.mb.ca)
- - date_published: 2024-08-09T03:54:15.631665+00:00
-
- ## Home - Office of the Auditor General Manitoba
- - [http://www.oag.mb.ca](http://www.oag.mb.ca)
- - date_published: 2024-08-06T18:03:01.978437+00:00
-
- ## Manitoba Ombudsman
- - [http://www.ombudsman.mb.ca](http://www.ombudsman.mb.ca)
- - date_published: 2023-10-04T00:00:00+00:00
-
- ## Law Society of New Brunswick
- - [http://www.lawsociety-barreau.nb.ca](http://www.lawsociety-barreau.nb.ca)
- - date_published: 2024-09-02T13:02:30+00:00
-
- ## Home - Science East Science Centre
- - [http://scienceeast.nb.ca](http://scienceeast.nb.ca)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Law Society of Newfoundland and Labrador - The Law Society of Newfoundland and Labrador
- - [http://www.lawsociety.nf.ca](http://www.lawsociety.nf.ca)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Government of Newfoundland and Labrador
- - [https://www.gov.nl.ca](https://www.gov.nl.ca)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Arctic Energy Alliance - Saving Energy and Saving Money in the NWT
- - [https://aea.nt.ca](https://aea.nt.ca)
- - date_published: 2024-10-28T20:27:07.150603+00:00
-
- ## Home - The Law Society of the Northwest Territories (QA)
- - [http://www.lawsociety.nt.ca](http://www.lawsociety.nt.ca)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Home | Law Society of Nunavut
- - [http://lawsociety.nu.ca](http://lawsociety.nu.ca)
- - date_published: 2024-09-02T13:02:15.718473+00:00
-
- ## Ontario Arts Council - Conseil des arts de l’Ontario - Welcome | Bienvenue
- - [http://www.arts.on.ca](http://www.arts.on.ca)
- - date_published: 2024-07-21T09:52:54.823018+00:00
-
- ## Dialogue
- - [https://dialogue.cpso.on.ca](https://dialogue.cpso.on.ca)
- - date_published: 2024-07-08T16:52:38.728281+00:00
-
- ## Excalibur - Welcome to York University's Community Newspaper!
- - [http://www.excal.on.ca](http://www.excal.on.ca)
- - date_published: 2024-10-18T14:37:23.356244+00:00
-
- ## Agents Licensed in Ontario
- - [https://alias2a.fsco.gov.on.ca](https://alias2a.fsco.gov.on.ca)
- - date_published: 2024-09-30T13:53:38.007064+00:00
-
- ## Financial Services Regulatory Authority of Ontario
- - [https://portal.fsco.gov.on.ca](https://portal.fsco.gov.on.ca)
- - date_published: 2024-09-30T13:53:41.603807+00:00
-
- ## Welcome to the Archives of Ontario / Bienvenue aux Archives publiques de l'Ontario
- - [http://www.archives.gov.on.ca](http://www.archives.gov.on.ca)
- - date_published: 2024-07-15T10:46:17.564953+00:00
-
- ## Curriculum and Resources
- - [https://www.dcp.edu.gov.on.ca](https://www.dcp.edu.gov.on.ca)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Untitled Document
- - [http://www.edu.gov.on.ca](http://www.edu.gov.on.ca)
- - date_published: 2022-12-09T10:32:08+00:00
-
- ## The Ontario Public Service Careers - Carrières dans la fonction publique de l'Ontario
- - [https://www.gojobs.gov.on.ca](https://www.gojobs.gov.on.ca)
- - date_published: 2024-08-06T17:44:36.048708+00:00
-
- ## GlobalProtect Portal
- - [https://access.ices.on.ca](https://access.ices.on.ca)
- - date_published: 2024-05-12T04:58:13.025556+00:00
-
- ## ICES
- - [https://www.ices.on.ca](https://www.ices.on.ca)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Please Sign In
- - [https://matomo.lhsc.on.ca](https://matomo.lhsc.on.ca)
- - date_published: 2024-08-18T08:23:53.272656+00:00
-
- ## Homepage | LHSC
- - [https://www.lhsc.on.ca](https://www.lhsc.on.ca)
- - date_published: 2024-08-18T08:23:55.109969+00:00
-
- ## St. Catharines Public Library - Home
- - [http://www.stcatharines.library.on.ca](http://www.stcatharines.library.on.ca)
- - date_published: 2024-07-15T03:53:34+00:00
-
- ## St. Joseph's Health Care London
- - [https://www.sjhc.london.on.ca](https://www.sjhc.london.on.ca)
- - date_published: 2024-08-18T08:23:41.164600+00:00
-
- ## Home
- - [https://www.mfoa.on.ca](https://www.mfoa.on.ca)
- - date_published: 2024-10-02T12:07:11.743127+00:00
-
- ## Muskoka Lakes Association - Home
- - [https://www.mla.on.ca](https://www.mla.on.ca)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Welcome to the OAA
- - [https://oaa.on.ca](https://oaa.on.ca)
- - date_published: 2024-04-30T05:04:06.444617+00:00
-
- ## Sign In
- - [https://secure.oaa.on.ca](https://secure.oaa.on.ca)
- - date_published: 2024-07-21T09:53:33.289045+00:00
-
- ## Ontario Human Rights Commission |
- - [http://www.ohrc.on.ca](http://www.ohrc.on.ca)
- - date_published: 2024-07-21T07:57:21.259960+00:00
-
- ## Home -
- - [https://www.ottawahospital.on.ca](https://www.ottawahospital.on.ca)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Homepage - The Burgess Shale
- - [https://burgess-shale.rom.on.ca](https://burgess-shale.rom.on.ca)
- - date_published: 2024-07-02T14:42:50.721758+00:00
-
- ## Home -
- - [http://www.saintemarieamongthehurons.on.ca](http://www.saintemarieamongthehurons.on.ca)
- - date_published: 2024-10-29T20:01:13.869381+00:00
-
- ## Hardwood & Timber Supplier in Canada | Trans Canada Wood Products
- - [https://www.transcanadagroup.on.ca](https://www.transcanadagroup.on.ca)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## L'Agenda du libre du Québec
- - [https://agendadulibre.qc.ca](https://agendadulibre.qc.ca)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## ASTROLab du Parc du Mont-Mégantic - Astrolab du parc national du Mont-Mégantic
- - [https://astrolab.qc.ca](https://astrolab.qc.ca)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Le Barreau du Québec | Ordre professionnel des avocats
- - [http://www.barreau.qc.ca](http://www.barreau.qc.ca)
- - date_published: 2024-09-02T13:03:12.337474+00:00
-
- ## Accueil | Collège Bois de Boulogne
- - [https://bdeb.qc.ca](https://bdeb.qc.ca)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Canadian Centre for Architecture
- - [https://www.cca.qc.ca](https://www.cca.qc.ca)
- - date_published: 2024-08-11T07:52:20.162591+00:00
-
- ## Accueil
- - [https://www.cegepsherbrooke.qc.ca](https://www.cegepsherbrooke.qc.ca)
- - date_published: 2024-08-19T06:19:18+00:00
-
- ## Accueil - Cégep Gérald-Godin
- - [https://cgodin.qc.ca](https://cgodin.qc.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Collège de Maisonneuve|Cégep à Montréal
- - [https://cmaisonneuve.qc.ca](https://cmaisonneuve.qc.ca)
- - date_published: 2023-03-21T00:00:00+00:00
-
- ## ffq.qc.ca
- - [http://www.ffq.qc.ca](http://www.ffq.qc.ca)
- - date_published: 2024-10-21T18:16:39.115557+00:00
-
- ## La Vitrine linguistique de l’Office québécois de la langue française
- - [http://bdl.oqlf.gouv.qc.ca](http://bdl.oqlf.gouv.qc.ca)
- - date_published: 2024-12-12T09:37:53.149424+00:00
-
- ## Accueil
- - [https://frq.gouv.qc.ca](https://frq.gouv.qc.ca)
- - date_published: 2024-06-22T07:30:03+00:00
-
- ## La Vitrine linguistique de l’Office québécois de la langue française
- - [http://gdt.oqlf.gouv.qc.ca](http://gdt.oqlf.gouv.qc.ca)
- - date_published: 2024-10-30T16:51:19.866244+00:00
-
- ## Ministère des Relations internationales et de la Francophonie
- - [http://mri.gouv.qc.ca](http://mri.gouv.qc.ca)
- - date_published: 2024-12-10T20:04:45.862079+00:00
-
- ## Accueil
- - [http://www.calq.gouv.qc.ca](http://www.calq.gouv.qc.ca)
- - date_published: 2024-12-10T20:16:21.347340+00:00
-
- ## Ministère de la Culture et des Communications
- - [https://www.mcc.gouv.qc.ca](https://www.mcc.gouv.qc.ca)
- - date_published: 2023-08-07T11:36:23+00:00
-
- ## Accueil - Office québécois de la langue française
- - [https://www.oqlf.gouv.qc.ca](https://www.oqlf.gouv.qc.ca)
- - date_published: 2024-10-19T15:30:55.536326+00:00
-
- ## | Grenier aux nouvelles
- - [https://www.grenier.qc.ca](https://www.grenier.qc.ca)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Trouver une décision | SOQUIJ
- - [https://jugements.qc.ca](https://jugements.qc.ca)
- - date_published: 2024-04-30T05:33:19.515573+00:00
-
- ## Accueil | les amis de la montagne
- - [http://www.lemontroyal.qc.ca](http://www.lemontroyal.qc.ca)
- - date_published: 2024-07-10T11:01:26.676342+00:00
-
- ## Index
- - [https://www.mbam.qc.ca](https://www.mbam.qc.ca)
- - date_published: 2024-10-18T06:57:05.579519+00:00
-
- ## Un avenir à égalité | Oxfam-Québec
- - [https://oxfam.qc.ca](https://oxfam.qc.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Québec Science - L'heure est à la science
- - [https://www.quebecscience.qc.ca](https://www.quebecscience.qc.ca)
- - date_published: 2018-06-18T22:31:43+00:00
-
- ## Recettes du Québec
- - [https://www.recettes.qc.ca](https://www.recettes.qc.ca)
- - date_published: 2024-08-19T08:10:35.935042+00:00
-
- ## Centre d'aide SOQUIJ
- - [https://aide.soquij.qc.ca](https://aide.soquij.qc.ca)
- - date_published: 2023-07-22T07:50:13+00:00
-
- ## Accueil
- - [https://aristote.soquij.qc.ca](https://aristote.soquij.qc.ca)
- - date_published: 2024-04-30T05:33:10.583218+00:00
-
- ## Accueil
- - [https://blogue.soquij.qc.ca](https://blogue.soquij.qc.ca)
- - date_published: 2024-04-30T05:33:59.647746+00:00
-
- ## Nos postes ouverts à Montréal, Québec | SOQUIJ Carrières
- - [https://carrieres.soquij.qc.ca](https://carrieres.soquij.qc.ca)
- - date_published: 2024-07-21T07:54:53.717013+00:00
-
- ## Trouver une décision | SOQUIJ
- - [https://citoyens.soquij.qc.ca](https://citoyens.soquij.qc.ca)
- - date_published: 2023-10-25T12:09:44.985607+00:00
-
- ## Centre de formation SOQUIJ
- - [https://formations.soquij.qc.ca](https://formations.soquij.qc.ca)
- - date_published: 2024-07-21T07:54:55.119535+00:00
-
- ## Accueil
- - [https://soquij.qc.ca](https://soquij.qc.ca)
- - date_published: 2024-04-30T05:33:12.499235+00:00
-
- ## Law Society of Saskatchewan
- - [http://www.lawsociety.sk.ca](http://www.lawsociety.sk.ca)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## Welcome to the Johnson Shoyama Graduate School of Public Policy - Graduate School of Public Policy
- - [https://www.schoolofpublicpolicy.sk.ca](https://www.schoolofpublicpolicy.sk.ca)
- - date_published: 2024-09-02T13:05:47.749362+00:00
-
- ## ashur.cab/rera
- - [https://ashur.cab](https://ashur.cab)
- - date_published: 2024-07-08T22:19:26.725704+00:00
-
- ## Jack.cab
- - [https://jack.cab](https://jack.cab)
- - date_published: 2024-10-29T09:28:04.864175+00:00
-
- ## [mdk] arcade rom and information repository
- - [https://mdk.cab](https://mdk.cab)
- - date_published: 2024-07-11T16:21:07.819129+00:00
-
- ## Ryan Marcus · UPenn
- - [https://rm.cab](https://rm.cab)
- - date_published: 2024-07-25T19:51:07+00:00
-
- ## 32-Bit Cafe
- - [https://32bit.cafe](https://32bit.cafe)
- - date_published: 2024-05-06T15:02:55.360254+00:00
-
- ## 32-Bit Cafe
- - [https://discourse.32bit.cafe](https://discourse.32bit.cafe)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## 32-Bit Cafe Gitea
- - [https://git.32bit.cafe](https://git.32bit.cafe)
- - date_published: 2024-06-23T18:34:30.771823+00:00
-
- ## My 32-Bit Cafe
- - [https://my.32bit.cafe](https://my.32bit.cafe)
- - date_published: 2024-02-14T19:37:13+00:00
-
- ## 32 Bitcoin Cafe - CryptoCuppaz collection!
- - [https://nft.32bit.cafe](https://nft.32bit.cafe)
- - date_published: 2023-07-18T09:05:18+00:00
-
- ## The 32-Bit Cafe
- - [https://pixel.32bit.cafe](https://pixel.32bit.cafe)
- - date_published: 2024-09-18T02:36:24.107641+00:00
-
- ## FreshRSS
- - [https://rss.32bit.cafe](https://rss.32bit.cafe)
- - date_published: 2023-12-30T16:17:00+00:00
-
- ## 32-Bit Cafe
- - [https://spampoison.32bit.cafe](https://spampoison.32bit.cafe)
- - date_published: 2024-06-23T17:37:11.909673+00:00
-
- ## ~32bit
- - [https://tilde.32bit.cafe](https://tilde.32bit.cafe)
- - date_published: 2023-04-01T18:58:08+00:00
-
- ## 32-bit Cafe - Login
- - [https://webmail.32bit.cafe](https://webmail.32bit.cafe)
- - date_published: 2024-06-23T18:34:57.328349+00:00
-
- ## avery.cafe
- - [https://avery.cafe](https://avery.cafe)
- - date_published: 2024-03-25T23:44:23+00:00
-
- ## Backend Cafe
- - [https://backend.cafe](https://backend.cafe)
- - date_published: 2023-10-25T12:09:49.850684+00:00
-
- ## Basil's Café
- - [https://basil.cafe](https://basil.cafe)
- - date_published: 2024-05-07T23:14:35.904453+00:00
-
- ## Home
- - [https://coffin-wiki.basil.cafe](https://coffin-wiki.basil.cafe)
- - date_published: 2024-06-18T15:21:30.496269+00:00
-
- ## Currently offline until further notice
- - [https://umami.basil.cafe](https://umami.basil.cafe)
- - date_published: 1970-01-01T00:00:01+00:00
-
- ## BinaryDigit's Cafe
- - [https://binarydigit.cafe](https://binarydigit.cafe)
- - date_published: 2024-04-28T02:45:18.201129+00:00
-
- ## BinaryDigit's Now Page
- - [https://now.binarydigit.cafe](https://now.binarydigit.cafe)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## home | 🐥😺 dot ☕
- - [https://birdcat.cafe](https://birdcat.cafe)
- - date_published: 2024-08-07T21:13:33.566195+00:00
-
- ## Your awesome title
- - [https://biyori.cafe](https://biyori.cafe)
- - date_published: 2024-07-17T21:16:11+00:00
-
- ## blinkie maker | generate blinkie gifs with custom text!
- - [https://blinkies.cafe](https://blinkies.cafe)
- - date_published: 2024-05-09T08:41:14.068662+00:00
-
- ## Explore local activities · Campground
- - [https://campground.bonfire.cafe](https://campground.bonfire.cafe)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## BSD.cafe Mastodon Portal
- - [https://mastodon.bsd.cafe](https://mastodon.bsd.cafe)
- - date_published: 2023-10-27T13:13:18.606396+00:00
-
- ## BSD Cafe - Status
- - [https://status.bsd.cafe](https://status.bsd.cafe)
- - date_published: 2024-04-30T05:34:05.356517+00:00
 

@@ -250,6 +250,10 @@
  - [https://ddd.academy](https://ddd.academy)
  - date_published: 2024-06-29T01:10:43+00:00
 
+ ## DIGITAL RESEARCH ACADEMY
+ - [https://digital-research.academy](https://digital-research.academy)
+ - date_published: 2024-07-30T15:15:26+00:00
+
  ## Home | epicenter.academy
  - [https://epicenter.academy](https://epicenter.academy)
  - date_published: 2024-05-02T13:40:25.608544+00:00
@@ -308,7 +312,7 @@
  - date_published: 2024-06-22T07:44:52+00:00
 
  ## MagicBrief Academy
- - [https://magicbrief.academy](https://magicbrief.academy)
+ - [http://magicbrief.academy](http://magicbrief.academy)
  - date_published: 2024-10-30T18:21:52.203144+00:00
 
  ## Frontpage
@@ -432,8 +436,16 @@
  - date_published: 2024-07-11T23:14:57.054538+00:00
 
  ## Ajman University | Ranked No. 5 in the UAE
- - [http://www.ajman.ac.ae](http://www.ajman.ac.ae)
+ - [https://ajman.ac.ae](https://ajman.ac.ae)
  - date_published: 2024-10-30T20:24:57+00:00
+
+ ## Ajman University Alumni Association Website
+ - [https://alumni.ajman.ac.ae](https://alumni.ajman.ac.ae)
+ - date_published: 2024-12-15T14:09:35.706340+00:00
+
+ ## Sustainability at Ajman University
+ - [https://sustainablecampus.ajman.ac.ae](https://sustainablecampus.ajman.ac.ae)
+ - date_published: 2024-12-15T14:09:38+00:00
 
  ## Home
  - [https://library.bits-dubai.ac.ae](https://library.bits-dubai.ac.ae)
@@ -610,6 +622,10 @@
  ## Printer, Scanner, Sewing Machine, Label Maker | Brother Gulf
  - [https://www.brother.ae](https://www.brother.ae)
  - date_published: 2024-05-02T11:25:24.655943+00:00
+
+ ## Home - CAA
+ - [https://www.caa.ae](https://www.caa.ae)
+ - date_published: 2024-12-15T14:09:30+00:00
 
  ## ADNEC Services | Exhibition Service and Main Contracting
  - [https://www.capital360.ae](https://www.capital360.ae)
@@ -806,6 +822,10 @@
  ## Royalty-Free Stock Photos, Creative Images & Vectors | News, Fashion, and Entertainment imagery - Getty Images
  - [https://www.gettyimages.ae](https://www.gettyimages.ae)
  - date_published: 2024-06-20T01:49:27.923150+00:00
+
+ ## Ghaf Capital Partners – U.A.E's first locally managed blockchain private investment firm
+ - [https://ghafcapital.ae](https://ghafcapital.ae)
+ - date_published: 2023-09-27T07:56:24+00:00
 
  ## Giant Bicycles UAE | World’s Leading Brand of Bicycles & Accessories
  - [https://giant-bicycles.ae](https://giant-bicycles.ae)
@@ -1766,6 +1786,10 @@
  - [https://umg.africa](https://umg.africa)
  - date_published: 2024-07-17T11:10:06.845556+00:00
 
+ ## Envoyer de l'argent en Guinée au meilleur taux avec YMO
+ - [https://ymo.africa](https://ymo.africa)
+ - date_published: 2024-12-15T10:10:14.000379+00:00
+
  ## Zindi
  - [https://assets.zindi.africa](https://assets.zindi.africa)
  - date_published: 2024-07-10T07:05:17+00:00
@@ -1985,6 +2009,10 @@
  - [http://www.e3media.agency](http://www.e3media.agency)
  - date_published: 2024-07-14T16:42:45.786581+00:00
 
+ ## Nibble Edge | Creative, Content, Media, Digital Experiences, Tech Agency Sydney
+ - [https://edge.agency](https://edge.agency)
+ - date_published: 2024-12-15T06:23:04.029128+00:00
+
  ## Evo Agency | Award winning digital agency - Design, Development, Paid & Organic Search Agency
  - [https://www.evo.agency](https://www.evo.agency)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -2004,6 +2032,10 @@
  ## Building Brands That Lead and Inspire
  - [https://focuslab.agency](https://focuslab.agency)
  - date_published: 2024-10-22T11:12:04.132324+00:00
+
+ ## Welcome to Form Agency - a South East-based marketing and design agency
+ - [https://form.agency](https://form.agency)
+ - date_published: 2024-12-13T10:16:37+00:00
 
  ## Website Design Services | Fractalmax Agency
  - [https://fractalmax.agency](https://fractalmax.agency)
@@ -2586,6 +2618,10 @@
  - [https://agnostiq.ai](https://agnostiq.ai)
  - date_published: 2024-06-01T00:00:00+00:00
 
+ ## AI Agent Store - Browse AI Agents, Discover Best or List Yours
+ - [https://aiagentstore.ai](https://aiagentstore.ai)
+ - date_published: 2024-12-15T11:48:19.349225+00:00
+
  ## AI Implementation Hub for Non-Techies | Easy AI Integration for Your Business
  - [https://aicado.ai](https://aicado.ai)
  - date_published: 2024-09-13T20:28:51.019714+00:00
@@ -2863,6 +2899,10 @@
  - [https://aplicaciones.ai](https://aplicaciones.ai)
  - date_published: 2023-01-23T08:10:19+00:00
 
+ ## Creator AI | Personalized AI Portrait | AI Image & Video
+ - [https://apob.ai](https://apob.ai)
+ - date_published: 2024-12-15T11:48:38.779502+00:00
+
  ## Apollo Research
  - [https://apolloresearch.ai](https://apolloresearch.ai)
  - date_published: 2024-05-08T09:57:56.336096+00:00
@@ -2950,6 +2990,10 @@
  ## ArtBot.ai - Let AI create your perfect Halloween art
  - [https://artbot.ai](https://artbot.ai)
  - date_published: 2024-06-19T21:07:20.260134+00:00
+
+ ## Search through Rijksmuseum artworks based on meaning
+ - [https://artexplorer.ai](https://artexplorer.ai)
+ - date_published: 2024-12-15T14:16:28+00:00
 
  ## Art Fish Intelligence | Yennie Jun | Substack
  - [https://www.artfish.ai](https://www.artfish.ai)
@@ -3179,6 +3223,10 @@
  ## AI Assistant One Tap Away: Write, Chat, Transcribe | Auri.AI
  - [https://auri.ai](https://auri.ai)
  - date_published: 2024-06-14T00:20:59+00:00
+
+ ## Auth0 AI
+ - [https://www.auth0.ai](https://www.auth0.ai)
+ - date_published: 2024-12-15T08:32:36.500548+00:00
 
  ## AuthorVoices.ai: Artificial Intelligence, Genuine Narration
  - [https://www.authorvoices.ai](https://www.authorvoices.ai)
@@ -3649,6 +3697,10 @@
  - [https://blogbooster.ai](https://blogbooster.ai)
  - date_published: 2023-03-31T00:00:00+00:00
 
+ ## Blogify.ai — AI Tools for Quick, Quality Content Creation
+ - [https://www.blogify.ai](https://www.blogify.ai)
+ - date_published: 2024-12-15T06:36:59.198793+00:00
+
  ## Bloombot
  - [https://bloombot.ai](https://bloombot.ai)
  - date_published: 2024-06-14T09:00:07.066712+00:00
@@ -3688,6 +3740,10 @@
  ## Rapid MVP Development | Bogar.ai - Launch Your Product in 30 Days
  - [https://bogar.ai](https://bogar.ai)
  - date_published: 2024-10-01T07:13:47+00:00
+
+ ## Bonsai Robotics – Home
+ - [https://www.bonsairobotics.ai](https://www.bonsairobotics.ai)
+ - date_published: 2024-12-15T15:27:39+00:00
 
  ## BookBud.ai: Create Books with AI for Publication
  - [https://bookbud.ai](https://bookbud.ai)
@@ -3901,6 +3957,10 @@
  - [https://bunni.ai](https://bunni.ai)
  - date_published: 2024-10-30T15:48:00.825713+00:00
 
+ ## Bylo.ai: The Best Free AI Image Generator for Text to Image
+ - [https://bylo.ai](https://bylo.ai)
+ - date_published: 2024-12-15T06:37:08.922517+00:00
+
  ## Bypass AI: Anti AI Detector & AI Detection Remover
  - [https://bypassai.ai](https://bypassai.ai)
  - date_published: 2024-06-19T21:05:27.432307+00:00
@@ -3958,64 +4018,4 @@
  - [https://candy.ai](https://candy.ai)
  - date_published: 2024-06-14T08:51:37.223431+00:00
  - tags: ['nsfw', 'artificial intelligence bot']
-
- ## Capably
- - [https://agentrunner-admin.api.capably.ai](https://agentrunner-admin.api.capably.ai)
- - date_published: 2024-10-30T19:15:52.444125+00:00
-
- ## Capably
- - [https://api.capably.ai](https://api.capably.ai)
- - date_published: 2024-10-30T19:15:50.681165+00:00
-
- ## Capably Status
- - [https://status.capably.ai](https://status.capably.ai)
- - date_published: 2024-10-30T19:15:47.928304+00:00
-
- ## Trust Center
- - [https://trust.capably.ai](https://trust.capably.ai)
- - date_published: 2024-10-30T19:15:45.174676+00:00
-
- ## Capably
- - [https://www.capably.ai](https://www.capably.ai)
- - date_published: 2024-10-30T19:15:49.225494+00:00
-
- ## Smart Shopping Carts | AI Shopping Cart Technology | Caper
- - [https://www.caper.ai](https://www.caper.ai)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Home
- - [https://capitalmonitor.ai](https://capitalmonitor.ai)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Create persuasive content from data
- - [https://capitol.ai](https://capitol.ai)
- - date_published: 2024-07-24T02:33:47.796589+00:00
-
- ## captionit - Instagram Caption Generator
- - [https://www.captionit.ai](https://www.captionit.ai)
- - date_published: 2024-10-17T15:31:43+00:00
-
- ## Captions | Your AI-powered creative studio
- - [https://captions.ai](https://captions.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Projects - Captions
- - [https://desktop.captions.ai](https://desktop.captions.ai)
- - date_published: 2024-06-22T22:32:51.304535+00:00
-
- ## Introduction to Captions - Captions
- - [https://help.captions.ai](https://help.captions.ai)
- - date_published: 2024-06-22T22:32:50.029275+00:00
-
- ## Capybara Affirmations AI - Homepage
- - [https://capybaraaffirmations.ai](https://capybaraaffirmations.ai)
- - date_published: 2024-10-29T08:45:41+00:00
-
- ## Carbon | Data Connectors for LLMs
- - [https://carbon.ai](https://carbon.ai)
- - date_published: 2024-10-24T06:16:39+00:00
-
- ## Careerdekho AI — AI Career Discovery Tool
- - [https://careerdekho.ai](https://careerdekho.ai)
- - date_published: 2024-06-19T20:04:36.381554+00:00
 

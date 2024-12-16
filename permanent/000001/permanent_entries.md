@@ -1,3 +1,67 @@
+ ## Cantian AI | Personalized AI BaZi Reading
+ - [https://cantian.ai](https://cantian.ai)
+ - date_published: 2024-12-15T11:13:44.965981+00:00
+
+ ## Capably
+ - [https://agentrunner-admin.api.capably.ai](https://agentrunner-admin.api.capably.ai)
+ - date_published: 2024-10-30T19:15:52.444125+00:00
+
+ ## Capably
+ - [https://api.capably.ai](https://api.capably.ai)
+ - date_published: 2024-10-30T19:15:50.681165+00:00
+
+ ## Capably
+ - [https://capably.ai](https://capably.ai)
+ - date_published: 2024-12-15T11:11:13.197100+00:00
+
+ ## Capably Status
+ - [https://status.capably.ai](https://status.capably.ai)
+ - date_published: 2024-10-30T19:15:47.928304+00:00
+
+ ## Trust Center
+ - [https://trust.capably.ai](https://trust.capably.ai)
+ - date_published: 2024-10-30T19:15:45.174676+00:00
+
+ ## Smart Shopping Carts | AI Shopping Cart Technology | Caper
+ - [https://www.caper.ai](https://www.caper.ai)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Home
+ - [https://capitalmonitor.ai](https://capitalmonitor.ai)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Create persuasive content from data
+ - [https://capitol.ai](https://capitol.ai)
+ - date_published: 2024-07-24T02:33:47.796589+00:00
+
+ ## captionit - Instagram Caption Generator
+ - [https://www.captionit.ai](https://www.captionit.ai)
+ - date_published: 2024-10-17T15:31:43+00:00
+
+ ## Captions | Your AI-powered creative studio
+ - [https://captions.ai](https://captions.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Projects - Captions
+ - [https://desktop.captions.ai](https://desktop.captions.ai)
+ - date_published: 2024-06-22T22:32:51.304535+00:00
+
+ ## Introduction to Captions - Captions
+ - [https://help.captions.ai](https://help.captions.ai)
+ - date_published: 2024-06-22T22:32:50.029275+00:00
+
+ ## Capybara Affirmations AI - Homepage
+ - [https://capybaraaffirmations.ai](https://capybaraaffirmations.ai)
+ - date_published: 2024-10-29T08:45:41+00:00
+
+ ## Carbon | Data Connectors for LLMs
+ - [https://carbon.ai](https://carbon.ai)
+ - date_published: 2024-10-24T06:16:39+00:00
+
+ ## Careerdekho AI — AI Career Discovery Tool
+ - [https://careerdekho.ai](https://careerdekho.ai)
+ - date_published: 2024-06-19T20:04:36.381554+00:00
+
  ## Free AI Cover Letter Generator: Powered By ChatGPT
  - [https://careered.ai](https://careered.ai)
  - date_published: 2023-10-25T11:36:45.243241+00:00
@@ -152,13 +216,13 @@
  - [https://app.chaindesk.ai](https://app.chaindesk.ai)
  - date_published: 2024-10-30T17:52:13.505670+00:00
 
+ ## Chaindesk - Build a ChatGPT AI Chatbot for your website
+ - [https://chaindesk.ai](https://chaindesk.ai)
+ - date_published: 2024-12-15T08:54:37.617010+00:00
+
  ## Introduction - chaindesk.ai - Connect custom data to large language models
  - [https://docs.chaindesk.ai](https://docs.chaindesk.ai)
  - date_published: 2024-10-30T17:52:03.071897+00:00
-
- ## Chaindesk - Build a ChatGPT AI Chatbot for your website
- - [https://www.chaindesk.ai](https://www.chaindesk.ai)
- - date_published: 2024-06-19T20:40:25.874265+00:00
 
  ## ChainForge: A visual programming environment for prompt engineering
  - [https://chainforge.ai](https://chainforge.ai)
@@ -796,6 +860,10 @@ Welcome
  ## ContentPie
  - [https://contentpie.ai](https://contentpie.ai)
  - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Contents.ai Platform Login | Contents.ai
+ - [https://app.contents.ai](https://app.contents.ai)
+ - date_published: 2024-12-12T15:50:29+00:00
 
  ## AI Content Generation, Marketing Toolkit & Chatbots | Contents.ai
  - [https://contents.ai](https://contents.ai)
@@ -1861,6 +1929,10 @@ Welcome
  - [https://www.dubdub.ai](https://www.dubdub.ai)
  - date_published: 2024-04-12T00:00:00+00:00
 
+ ## Dubverse Black | Substack
+ - [https://black.dubverse.ai](https://black.dubverse.ai)
+ - date_published: 2024-12-15T12:03:06.422925+00:00
+
  ## Welcome to Dubverse TTS API - Dubverse AI
  - [https://docs.dubverse.ai](https://docs.dubverse.ai)
  - date_published: 2024-10-30T20:01:01.555864+00:00
@@ -1908,6 +1980,7 @@ Welcome
  ## Dashboard - Pirsch Analytics
  - [https://p.easymessage.ai](https://p.easymessage.ai)
  - date_published: 2024-10-30T18:35:24.339405+00:00
+ - date_dead_since: 2024-12-15T10:10:29.988280+00:00
 
  ## Best AI Writer, Content Generator & Copywriting Assistant | Easy-Peasy.AI
  - [https://easy-peasy.ai](https://easy-peasy.ai)
@@ -1932,6 +2005,10 @@ Welcome
  ## Ecomtent: AI Optimize Product Content Across Ecommerce Channels
  - [https://www.ecomtent.ai](https://www.ecomtent.ai)
  - date_published: 2024-06-19T00:00:00+00:00
+
+ ## EdenX | Start your AI movies
+ - [https://edenx.ai](https://edenx.ai)
+ - date_published: 2024-12-12T11:09:04+00:00
 
  ## Kubernetes-native IoT and Edge AI Solutions
  - [https://edgenesis.ai](https://edgenesis.ai)
@@ -2088,8 +2165,12 @@ Welcome
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Embra - AI Copilot for your team's communications
- - [https://www.embra.ai](https://www.embra.ai)
+ - [https://embra.ai](https://embra.ai)
  - date_published: 2024-10-30T14:41:22+00:00
+
+ ## Embra - The AI Operating System to simplify your workday
+ - [http://landing.embra.ai](http://landing.embra.ai)
+ - date_published: 2024-12-15T04:55:45+00:00
 
  ## Emdash — organize your book highlights with AI
  - [https://emdash.ai](https://emdash.ai)
@@ -2115,6 +2196,10 @@ Welcome
  - [https://energymonitor.ai](https://energymonitor.ai)
  - date_published: 2023-10-25T11:38:25.700332+00:00
  - tags: ['global warming', 'climate change']
+
+ ## Entelligence.ai Dashboard
+ - [https://entelligence.ai](https://entelligence.ai)
+ - date_published: 2024-12-15T07:49:08.868851+00:00
 
  ## Ento
  - [https://app.ento.ai](https://app.ento.ai)
@@ -2198,8 +2283,8 @@ Welcome
  - date_published: 2024-05-06T18:02:52.670864+00:00
 
  ## EvolutionaryScale
- - [https://www.evolutionaryscale.ai](https://www.evolutionaryscale.ai)
- - date_published: 2024-07-03T00:00:00+00:00
+ - [https://evolutionaryscale.ai](https://evolutionaryscale.ai)
+ - date_published: 2024-12-13T08:45:16+00:00
 
  ## AI-led Experience Optimization | Evolv AI
  - [https://go.evolv.ai](https://go.evolv.ai)
@@ -2236,6 +2321,10 @@ Welcome
  ## Exemplary AI - Your Content Repurposing Toolkit
  - [https://exemplary.ai](https://exemplary.ai)
  - date_published: 2024-06-19T21:23:35.050862+00:00
+
+ ## Expify.AI the biggest AI tools directory.
+ - [https://www.expify.ai](https://www.expify.ai)
+ - date_published: 2024-12-15T11:48:34.637341+00:00
 
  ## explained.ai
  - [https://explained.ai](https://explained.ai)
@@ -2445,6 +2534,10 @@ Welcome
  - [https://fastsdxl.ai](https://fastsdxl.ai)
  - date_published: 2024-02-22T22:52:46+00:00
 
+ ## Featherless AI
+ - [https://enterprise.featherless.ai](https://enterprise.featherless.ai)
+ - date_published: 2024-09-12T15:27:16+00:00
+
  ## Serverless LLM Hosting - Featherless.ai
  - [https://featherless.ai](https://featherless.ai)
  - date_published: 2024-10-30T14:05:01+00:00
@@ -2522,8 +2615,12 @@ Welcome
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Figure
- - [https://www.figure.ai](https://www.figure.ai)
- - date_published: 2024-09-04T19:13:15.031092+00:00
+ - [https://figure.ai](https://figure.ai)
+ - date_published: 2024-12-15T08:13:31.811718+00:00
+
+ ## Filipa.ai – Free AI Assistant: Personalized News, Recipes, and local search
+ - [https://filipa.ai](https://filipa.ai)
+ - date_published: 2024-12-10T18:17:05+00:00
 
  ## Film Recommendation Using GenAI
  - [http://filmfinder.ai](http://filmfinder.ai)
@@ -2536,6 +2633,10 @@ Welcome
  ## Fintech Ready News API
  - [https://finalle.ai](https://finalle.ai)
  - date_published: 2024-06-19T19:38:50.158458+00:00
+
+ ## FindPlugins.ai » Discover & Review ChatGPT Plugins
+ - [https://www.findplugins.ai](https://www.findplugins.ai)
+ - date_published: 2024-12-15T06:11:00.654384+00:00
 
  ## Findsight AI
  - [https://findsight.ai](https://findsight.ai)
@@ -2621,6 +2722,10 @@ Welcome
  - [https://fixphotos.ai](https://fixphotos.ai)
  - date_published: 2024-10-30T18:22:43.147988+00:00
 
+ ## The #1 Photo Restoration Service - Fix Your Old, Damaged Photos
+ - [https://upload.fixphotos.ai](https://upload.fixphotos.ai)
+ - date_published: 2024-12-15T01:43:09+00:00
+
  ## Flamel.ai - The Social Media Hub for Multi-Location Brands
  - [https://flamel.ai](https://flamel.ai)
  - date_published: 2024-05-31T00:00:00+00:00
@@ -2686,8 +2791,8 @@ Welcome
  - date_published: 2024-10-30T17:11:43.165251+00:00
 
  ## FlowX.AI
- - [https://www.flowx.ai](https://www.flowx.ai)
- - date_published: 2024-06-18T00:00:00+00:00
+ - [https://flowx.ai](https://flowx.ai)
+ - date_published: 2024-12-15T08:25:36+00:00
 
  ## DNS Filtering, Security & Website Blocking Software | DNSFilter
  - [https://fltr.ai](https://fltr.ai)
@@ -2712,6 +2817,10 @@ Welcome
  ## https://www.flux.ai
  - [https://flux.ai](https://flux.ai)
  - date_published: 2024-01-09T02:23:17.781528+00:00
+
+ ## Flux AI - Free Online Flux.1 AI Image Generator
+ - [https://flux1.ai](https://flux1.ai)
+ - date_published: 2024-12-15T06:11:30.255303+00:00
 
  ## fluxi AI
  - [https://fluxi.ai](https://fluxi.ai)
@@ -2986,6 +3095,10 @@ Welcome
  - [https://www.app.getconch.ai](https://www.app.getconch.ai)
  - date_published: 2024-10-30T11:08:03+00:00
 
+ ## Convo - AI-led interviews & surveys
+ - [http://getconvo.ai](http://getconvo.ai)
+ - date_published: 2024-12-15T09:57:43.996615+00:00
+
  ## React App
  - [https://getcustomer.ai](https://getcustomer.ai)
  - date_published: 2024-04-23T06:47:09+00:00
@@ -3106,6 +3219,10 @@ Welcome
  - [https://learn.getodin.ai](https://learn.getodin.ai)
  - date_published: 2024-10-30T11:10:23.701843+00:00
 
+ ## Simplify Document Editing in Google Workspace | Pointer AI
+ - [https://www.getpointer.ai](https://www.getpointer.ai)
+ - date_published: 2024-12-08T14:46:25+00:00
+
  ## Recall
  - [https://app.getrecall.ai](https://app.getrecall.ai)
  - date_published: 2024-05-07T10:33:24.441584+00:00
@@ -3181,6 +3298,10 @@ Welcome
  ## ChatGPT Writer - Write emails, messages, and more using AI
  - [https://gimmesummary.ai](https://gimmesummary.ai)
  - date_published: 2024-06-19T20:59:05.858888+00:00
+
+ ## Girlfriendly AI - No Filter NSFW Character AI Chat
+ - [https://www.girlfriendly.ai](https://www.girlfriendly.ai)
+ - date_published: 2024-12-15T11:48:37.489912+00:00
 
  ## GirlJams.AI: An AI-powered songwriting experience
  - [https://girljams.ai](https://girljams.ai)
@@ -3450,6 +3571,10 @@ Welcome
  ## Groupt - Transform Data into Decisions
  - [https://www.groupt.ai](https://www.groupt.ai)
  - date_published: 2024-09-13T20:26:46.196503+00:00
+
+ ## GTMGuy - AI Product Development Suite for Founders
+ - [https://gtmguy.ai](https://gtmguy.ai)
+ - date_published: 2024-12-15T11:48:28.376718+00:00
 
  ## GuestLab
  - [https://guestlab.ai](https://guestlab.ai)
@@ -3735,6 +3860,10 @@ Welcome
  - [https://hidemy.ai](https://hidemy.ai)
  - date_published: 2023-07-24T20:01:35+00:00
 
+ ## Track & Improve Your AI Visiblity - Highlighted.ai
+ - [https://highlighted.ai](https://highlighted.ai)
+ - date_published: 2024-12-15T05:40:01.564521+00:00
+
  ## HirelakeAI: Turnkey Solution for Hiring - HireLakeAI
  - [https://hirelake.ai](https://hirelake.ai)
  - date_published: 2022-06-20T15:29:33+00:00
@@ -3886,132 +4015,4 @@ Welcome
  ## Welcome to Hume AI — Hume API
  - [https://dev.hume.ai](https://dev.hume.ai)
  - date_published: 2024-07-11T00:00:00+00:00
-
- ## Home • Hume AI
- - [https://hume.ai](https://hume.ai)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Humy.ai - Shaping a Better Future of Education with AI
- - [https://www.humy.ai](https://www.humy.ai)
- - date_published: 2024-10-29T17:09:03+00:00
-
- ## Humyn.ai
- - [https://app.humyn.ai](https://app.humyn.ai)
- - date_published: 2024-05-10T05:00:49.349649+00:00
-
- ## We're Building a better future with humans.
- - [https://hushl.ai](https://hushl.ai)
- - date_published: 2024-10-30T19:07:41.383674+00:00
-
- ## Console
- - [https://console.hybrid.ai](https://console.hybrid.ai)
- - date_published: 2024-06-10T07:06:22+00:00
-
- ## The leading programmatic marketing platform | Hybrid DSP programmatic advertising
- - [https://hybrid.ai](https://hybrid.ai)
- - date_published: 2023-11-17T06:52:13+00:00
-
- ## Show HN: Hyperbrowser – Scalable Browser Infrastructure for AI Apps
- - [https://www.hyperbrowser.ai](https://www.hyperbrowser.ai)
- - date_published: 2024-12-10T21:24:40+00:00
-
- ## Home | HyperCycle
- - [https://www.hypercycle.ai](https://www.hypercycle.ai)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## HyperGPT | Power Up Web3 with AI!
- - [https://hypergpt.ai](https://hypergpt.ai)
- - date_published: 2024-12-12T22:50:49.430085+00:00
-
- ## hypergro: AI-Powered UGC Video Ads for Smart Customer Acquisition
- - [https://hypergro.ai](https://hypergro.ai)
- - date_published: 2024-06-27T10:52:57.385251+00:00
-
- ## Umami
- - [https://data.cloud.hyperparam.ai](https://data.cloud.hyperparam.ai)
- - date_published: 2024-05-08T11:49:23.315430+00:00
-
- ## Hypertxt
- - [https://app.hypertxt.ai](https://app.hypertxt.ai)
- - date_published: 2024-09-06T15:56:47+00:00
-
- ## Hypertxt
- - [https://blog.hypertxt.ai](https://blog.hypertxt.ai)
- - date_published: 2024-09-14T08:00:50+00:00
-
- ## Hypertxt | AI Blog Post Generator
- - [https://hypertxt.ai](https://hypertxt.ai)
- - date_published: 2024-09-14T08:00:43.619348+00:00
-
- ## Careers - Hypotenuse AI
- - [https://careers.hypotenuse.ai](https://careers.hypotenuse.ai)
- - date_published: 2024-10-30T10:11:55.401912+00:00
-
- ## Hypotenuse AI - Ecommerce AI Writer & AI Writing Assistant
- - [https://es.hypotenuse.ai](https://es.hypotenuse.ai)
- - date_published: 2024-10-30T10:00:54+00:00
-
- ## Hypotenuse AI Knowledge Base
- - [https://help.hypotenuse.ai](https://help.hypotenuse.ai)
- - date_published: 2024-10-30T10:11:58.712517+00:00
-
- ## Hypotenuse AI: AI Writing Assistant & Text Generator
- - [https://hypotenuse.ai](https://hypotenuse.ai)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Hypotenuse AI - Ecommerce AI Writer & AI Writing Assistant
- - [https://it.hypotenuse.ai](https://it.hypotenuse.ai)
- - date_published: 2024-10-30T10:00:54+00:00
-
- ## Hypotenuse AI - Ecommerce AI Writer & AI Writing Assistant
- - [https://pt-br.hypotenuse.ai](https://pt-br.hypotenuse.ai)
- - date_published: 2024-10-30T10:00:54+00:00
-
- ## Hypotenuse AI - Ecommerce AI Writer & AI Writing Assistant
- - [https://zh.hypotenuse.ai](https://zh.hypotenuse.ai)
- - date_published: 2024-10-30T10:00:54+00:00
-
- ## HYPR
- - [https://hypr.ai](https://hypr.ai)
- - date_published: 2020-10-20T21:41:27+00:00
-
- ## HYPV.ai | Hyperpersonalisation Ecommerce Platform
- - [https://hypv.ai](https://hypv.ai)
- - date_published: 2024-08-25T00:00:00+00:00
-
- ## Institute for AI Policy and Strategy
- - [https://iaps.ai](https://iaps.ai)
- - date_published: 2024-07-06T19:51:15.034776+00:00
-
- ## Ask AI Questions · Free AI Search Engine · iAsk.Ai is a Free Answer Engine, Enabling Users to Ask ChatGPT AI Any Question (iAsk)
- - [https://iask.ai](https://iask.ai)
- - date_published: 2024-06-19T19:22:00.167904+00:00
-
- ## ICAI
- - [https://icai.ai](https://icai.ai)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Idea Generator | Unlimited Free Ideas Generated by AI
- - [https://www.ideagenerator.ai](https://www.ideagenerator.ai)
- - date_published: 2024-06-19T19:22:42.032981+00:00
-
- ## A Better way to Brainstorm with AI
- - [https://ideamap.ai](https://ideamap.ai)
- - date_published: 2024-06-11T14:53:37+00:00
-
- ## Generador de Ideas de Negocio y Negocios Rentables
- - [https://ideasdenegocio.ai](https://ideasdenegocio.ai)
- - date_published: 2024-11-08T15:38:18.107756+00:00
-
- ## Revenue Institute | Revenue Operations & Data Analytics
- - [https://app.identitymatrix.ai](https://app.identitymatrix.ai)
- - date_published: 2024-08-15T10:32:46+00:00
-
- ## Attention Required! | Cloudflare
- - [https://ideogram.ai](https://ideogram.ai)
- - date_published: 2024-06-16T19:20:46.516638+00:00
-
- ## Frictionless Biometric Authentication Software
- - [https://idrnd.ai](https://idrnd.ai)
- - date_published: 2024-07-29T00:00:00+00:00
 

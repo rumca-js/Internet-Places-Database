@@ -1,3 +1,406 @@
+ ## Umami
+ - [https://umami-theta-one.vercel.app](https://umami-theta-one.vercel.app)
+ - date_published: 2024-07-14T09:42:54.050714+00:00
+
+ ## Url:Jam
+ - [https://url-jam.vercel.app](https://url-jam.vercel.app)
+ - date_published: 2024-08-18T06:34:44.149729+00:00
+
+ ## Utsav Somaiya - Software Engineer, Livewire Enthusiastic
+ - [https://utsav-somaiya.vercel.app](https://utsav-somaiya.vercel.app)
+ - date_published: 2024-06-19T09:31:00.653758+00:00
+
+ ## Uwulink
+ - [https://uwulink-demo.vercel.app](https://uwulink-demo.vercel.app)
+ - date_published: 2024-07-04T09:59:32.415993+00:00
+
+ ## Uzair Manan's Portfolio
+ - [https://uzairmanan.vercel.app](https://uzairmanan.vercel.app)
+ - date_published: 2024-12-13T15:22:36+00:00
+
+ ## v 2048
+ - [https://v2048.vercel.app](https://v2048.vercel.app)
+ - date_published: 2024-05-06T14:46:02.201176+00:00
+
+ ## @lit-protocol/js-sdk
+ - [https://v6-api-doc-lit-js-sdk.vercel.app](https://v6-api-doc-lit-js-sdk.vercel.app)
+ - date_published: 2024-09-21T23:49:57.934404+00:00
+
+ ## Varsoe | Welcome to Varsoe
+ - [https://varsoe.vercel.app](https://varsoe.vercel.app)
+ - date_published: 2024-07-14T08:31:00.202685+00:00
+
+ ## Venturekit | AI Generated Business Plans
+ - [https://venturekit-pbyn3a5pc-my-team-c720a78a.vercel.app](https://venturekit-pbyn3a5pc-my-team-c720a78a.vercel.app)
+ - date_published: 2024-09-13T20:43:22.646704+00:00
+
+ ## Verifiable Credentials
+ - [https://verifiable-credentials-website.vercel.app](https://verifiable-credentials-website.vercel.app)
+ - date_published: 2024-04-30T02:27:09.367081+00:00
+
+ ## Vinxi
+ - [https://vinxi.vercel.app](https://vinxi.vercel.app)
+ - date_published: 2024-07-20T22:17:57.784335+00:00
+
+ ## Visionex
+ - [https://visionex-astro.vercel.app](https://visionex-astro.vercel.app)
+ - date_published: 2024-06-21T23:49:05.267676+00:00
+
+ ## Visionex
+ - [https://visionex-nextjs.vercel.app](https://visionex-nextjs.vercel.app)
+ - date_published: 2024-06-21T23:49:10.068306+00:00
+
+ ## Visit Again
+ - [https://visitagain.vercel.app](https://visitagain.vercel.app)
+ - date_published: 2024-07-02T20:50:22.224329+00:00
+
+ ## Visitor Badge
+ - [https://visitor-badge.vercel.app](https://visitor-badge.vercel.app)
+ - date_published: 2024-08-11T22:07:22.428491+00:00
+
+ ## Vizionova - Build Intelligent Map Diagramming
+ - [https://vizionova.vercel.app](https://vizionova.vercel.app)
+ - date_published: 2024-06-19T19:19:06.685652+00:00
+
+ ## Resemble Streaming Demo
+ - [https://voicepods-stream.vercel.app](https://voicepods-stream.vercel.app)
+ - date_published: 2024-10-30T07:45:26.655302+00:00
+
+ ## Voto
+ - [https://voto-tech.vercel.app](https://voto-tech.vercel.app)
+ - date_published: 2024-09-23T12:18:59.102026+00:00
+
+ ## Immersive 3D experience for a seat picker product - by Neotix
+ - [https://vrseat.vercel.app](https://vrseat.vercel.app)
+ - date_published: 2024-08-06T20:05:09.335780+00:00
+
+ ## Home
+ - [https://vuito.vercel.app](https://vuito.vercel.app)
+ - date_published: 2024-10-17T10:52:11.137729+00:00
+
+ ## V WASM Playground
+ - [https://v-wasm.vercel.app](https://v-wasm.vercel.app)
+ - date_published: 2024-05-06T14:46:01.506498+00:00
+
+ ## Vyaakaran - Visualize automata, parsers, grammars for free
+ - [https://vyaakaran.vercel.app](https://vyaakaran.vercel.app)
+ - date_published: 2024-07-14T10:32:35.548245+00:00
+
+ ## Way2Movies - Stream Movies, Shows & Anime
+ - [https://way2movies.vercel.app](https://way2movies.vercel.app)
+ - date_published: 2024-11-10T16:48:31+00:00
+ - tags: ['movies', 'piracy']
+
+ ## WEBCRYPTOPRO Cryptocurrency Consultants
+ - [http://webcryptopro.vercel.app](http://webcryptopro.vercel.app)
+ - date_published: 2024-07-14T10:06:29.026211+00:00
+
+ ## Airdraw
+ - [https://web-draw-e58vy7q9m-arefmalek.vercel.app](https://web-draw-e58vy7q9m-arefmalek.vercel.app)
+ - date_published: 2023-12-15T11:11:38.412590+00:00
+
+ ## Jewelry landing page for product visualization and configuration using WEBGi - by Neotix
+ - [https://webgi-jewelry.vercel.app](https://webgi-jewelry.vercel.app)
+ - date_published: 2024-08-06T20:04:15.671733+00:00
+
+ ## ExperAI
+ - [https://webitfast-m4z1okb96-exper-ai.vercel.app](https://webitfast-m4z1okb96-exper-ai.vercel.app)
+ - date_published: 2024-10-30T18:08:29.233589+00:00
+
+ ## oscard0m Blog
+ - [https://web-oscard0m.vercel.app](https://web-oscard0m.vercel.app)
+ - date_published: 2024-04-30T02:10:34.292590+00:00
+
+ ## David Levai's Digital Garden
+ - [https://website-2023-e8dvz76pa-thedevdavid.vercel.app](https://website-2023-e8dvz76pa-thedevdavid.vercel.app)
+ - date_published: 2024-07-14T08:03:16.689398+00:00
+
+ ## Alguna: Modern SaaS Pricing, Quoting & Billing Platform
+ - [https://website-2zm8hlepf-alguna.vercel.app](https://website-2zm8hlepf-alguna.vercel.app)
+ - date_published: 2024-07-23T22:15:45.431916+00:00
+
+ ## Tinybird · The Way to build Real-time Data Products
+ - [https://website-6qw75lyju-tinybird.vercel.app](https://website-6qw75lyju-tinybird.vercel.app)
+ - date_published: 2024-06-11T21:16:40.989323+00:00
+
+ ## Sync your data in minutes | WELD
+ - [https://website-9voih4b0i-weldhq.vercel.app](https://website-9voih4b0i-weldhq.vercel.app)
+ - date_published: 2024-11-08T11:55:51.120193+00:00
+
+ ## Tinybird · The Way to build Real-time Data Products
+ - [https://website-aq1w0pvya-tinybird.vercel.app](https://website-aq1w0pvya-tinybird.vercel.app)
+ - date_published: 2024-06-27T12:07:57.100913+00:00
+
+ ## PostgreSQL ++ for time series and events
+ - [https://web-splash-git-chore-products-dropdown-timescale-company.vercel.app](https://web-splash-git-chore-products-dropdown-timescale-company.vercel.app)
+ - date_published: 2024-06-22T20:27:10.107949+00:00
+
+ ## Polygon @ ETH Denver
+ - [https://welcome-to-cardona.vercel.app](https://welcome-to-cardona.vercel.app)
+ - date_published: 2024-09-25T12:10:46.114046+00:00
+
+ ## Create Next App
+ - [https://wf-cms-hr.vercel.app](https://wf-cms-hr.vercel.app)
+ - date_published: 2024-09-25T17:31:43.561666+00:00
+
+ ## What I love now
+ - [https://what-i-love-now.vercel.app](https://what-i-love-now.vercel.app)
+ - date_published: 2024-05-09T06:17:52.024300+00:00
+
+ ## Whisper
+ - [https://whisper-convex.vercel.app](https://whisper-convex.vercel.app)
+ - date_published: 2024-04-29T07:32:38.303896+00:00
+
+ ## Whose Prompt is it Anyways? by Convex
+ - [https://whose-prompt-is-it-anyways.vercel.app](https://whose-prompt-is-it-anyways.vercel.app)
+ - date_published: 2024-04-29T07:32:50.147137+00:00
+
+ ## sphere wif hat
+ - [https://wif-sphere.vercel.app](https://wif-sphere.vercel.app)
+ - date_published: 2024-06-22T12:42:01.497953+00:00
+
+ ## WindLand - By Neotix
+ - [https://windland-neotix.vercel.app](https://windland-neotix.vercel.app)
+ - date_published: 2024-08-06T20:06:03.171242+00:00
+
+ ## WonderMap
+ - [https://wondermap.vercel.app](https://wondermap.vercel.app)
+ - date_published: 2024-06-24T03:36:40.076935+00:00
+
+ ## እንቆቅልሽ
+ - [https://wordle-am.vercel.app](https://wordle-am.vercel.app)
+ - date_published: 2024-07-21T02:22:55.129648+00:00
+
+ ## Written
+ - [https://written-weld.vercel.app](https://written-weld.vercel.app)
+ - date_published: 2024-08-18T22:02:23.080710+00:00
+
+ ## WTF DOES THIS COMPANY DO
+ - [https://wtfdoesthiscompanydo.vercel.app](https://wtfdoesthiscompanydo.vercel.app)
+ - date_published: 2023-10-25T11:51:04.640307+00:00
+
+ ## https://yakgpt.vercel.app
+ - [https://yakgpt.vercel.app](https://yakgpt.vercel.app)
+ - date_published: 2024-01-09T02:23:41.451242+00:00
+
+ ## Yasuragi Tea
+ - [https://yasuragi.vercel.app](https://yasuragi.vercel.app)
+ - date_published: 2024-05-10T02:44:21.200686+00:00
+
+ ## YC Idea Matcher
+ - [https://yc-idea-matcher-mxjdrz0f5-neondatabase.vercel.app](https://yc-idea-matcher-mxjdrz0f5-neondatabase.vercel.app)
+ - date_published: 2024-08-19T11:29:38.569412+00:00
+
+ ## YC Idea Matcher
+ - [https://yc-idea-matcher.vercel.app](https://yc-idea-matcher.vercel.app)
+ - date_published: 2023-10-25T11:51:16.534056+00:00
+
+ ## Year In Music
+ - [https://year-in-music-workshop.vercel.app](https://year-in-music-workshop.vercel.app)
+ - date_published: 2024-07-02T20:41:55.395698+00:00
+
+ ## Create Next App
+ - [https://ynw-ai.vercel.app](https://ynw-ai.vercel.app)
+ - date_published: 2024-11-30T23:21:46.686966+00:00
+
+ ## Sanity Studio
+ - [https://yolo-backend.vercel.app](https://yolo-backend.vercel.app)
+ - date_published: 2024-09-04T12:27:04.252098+00:00
+
+ ## youkwhd
+ - [https://youkwhd.vercel.app](https://youkwhd.vercel.app)
+ - date_published: 2024-07-23T23:27:33.700603+00:00
+
+ ## Your Best Accent - master pronunciation with your voice clone
+ - [https://yourbestaccent-bi7ol6rgr-grammarians.vercel.app](https://yourbestaccent-bi7ol6rgr-grammarians.vercel.app)
+ - date_published: 2024-08-06T17:07:41.970551+00:00
+
+ ## Youtube Chatpers | Summaries powered by ChatGPT
+ - [https://youtubechapters-9my80y6as-jxnlco.vercel.app](https://youtubechapters-9my80y6as-jxnlco.vercel.app)
+ - date_published: 2024-10-30T11:55:27.217822+00:00
+
+ ## One-Click YouTube Playlist Downloader
+ - [https://ytdlfree.vercel.app](https://ytdlfree.vercel.app)
+ - date_published: 2024-10-25T15:15:27+00:00
+
+ ## YT idea generator
+ - [https://yt-ideas.vercel.app](https://yt-ideas.vercel.app)
+ - date_published: 2024-06-14T08:57:57.169654+00:00
+
+ ## zk0fficer
+ - [https://zk-officer.vercel.app](https://zk-officer.vercel.app)
+ - date_published: 2024-09-23T12:18:52.154020+00:00
+
+ ## zmov
+ - [https://zmov.vercel.app](https://zmov.vercel.app)
+ - date_published: 2024-11-09T10:26:04+00:00
+ - tags: ['movies', 'piracy']
+
+ ## Very Useful Apps
+ - [https://veryuseful.app](https://veryuseful.app)
+ - date_published: 2024-07-17T05:37:28.597396+00:00
+
+ ## ‎AI Captions for Videos: VidCap
+ - [https://vidcap.app](https://vidcap.app)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## videomuse.app
+ - [https://www.videomuse.app](https://www.videomuse.app)
+ - date_published: 2024-10-30T07:04:48.952087+00:00
+
+ ## Videotok - Create faceless videos with AI
+ - [https://videotok.app](https://videotok.app)
+ - date_published: 2024-07-10T11:15:35.560460+00:00
+
+ ## Video Trim App - Free & Online & Offline
+ - [https://videotrim.app](https://videotrim.app)
+ - date_published: 2024-06-03T11:21:00.994159+00:00
+
+ ## Craft viral-ready marketing videos in minutes with AI
+ - [https://viralvideo.app](https://viralvideo.app)
+ - date_published: 2024-12-15T08:29:54.804051+00:00
+
+ ## Professional Headshots in minutes with Virtual Face AI
+ - [https://virtualface.app](https://virtualface.app)
+ - date_published: 2023-10-25T11:51:19.247159+00:00
+
+ ## Virtual Staging AI
+ - [https://virtualstagingai.app](https://virtualstagingai.app)
+ - date_published: 2024-06-19T18:53:39.687773+00:00
+
+ ## Visti - RSS reader
+ - [https://visti.app](https://visti.app)
+ - date_published: 2024-07-02T20:35:10.424388+00:00
+
+ ## Careers at Vitals
+ - [https://careers.vitals.app](https://careers.vitals.app)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## Vitals Help Center
+ - [https://help.vitals.app](https://help.vitals.app)
+ - date_published: 2024-10-15T22:50:56.488841+00:00
+
+ ## Vitals™ | The all-in-one app to grow your Shopify store
+ - [https://vitals.app](https://vitals.app)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## VK Клипы — место встречи впечатлений
+ - [https://vkclips.app](https://vkclips.app)
+ - date_published: 2024-06-07T14:06:41+00:00
+
+ ## Coming Soon
+ - [https://www.vlox.app](https://www.vlox.app)
+ - date_published: 2024-09-21T23:40:54.347111+00:00
+
+ ## VNGGames
+ - [https://id.vnggames.app](https://id.vnggames.app)
+ - date_published: 2024-07-17T23:11:06.493923+00:00
+
+ ## Voice Calculator - #1 AI Voice Math Solver | Free iOS Calculator App
+ - [https://voicecalculator.app](https://voicecalculator.app)
+ - date_published: 2024-12-12T23:54:44.498729+00:00
+
+ ## Volanta
+ - [https://feedback.volanta.app](https://feedback.volanta.app)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Volanta
+ - [https://fly.volanta.app](https://fly.volanta.app)
+ - date_published: 2024-08-20T08:39:53+00:00
+
+ ## Volanta — Your personal flight tracker
+ - [https://volanta.app](https://volanta.app)
+ - date_published: 2024-06-08T18:16:10.315571+00:00
+
+ ## VoteHub - Embedded Votings and Rankings
+ - [https://vote-hub.app](https://vote-hub.app)
+ - date_published: 2024-05-30T12:40:18.030669+00:00
+
+ ## VoxelChain - Interactive voxel worlds in the browser
+ - [https://voxelchain.app](https://voxelchain.app)
+ - date_published: 2023-10-25T11:51:21.827960+00:00
+
+ ## Vup Cloud Storage
+ - [https://vup.app](https://vup.app)
+ - date_published: 2024-07-18T06:24:51.363205+00:00
+
+ ## W.App Help Center
+ - [https://help.w.app](https://help.w.app)
+ - date_published: 2024-12-15T04:52:41.718976+00:00
+
+ ## Generate WhatsApp Links | W.app
+ - [https://w.app](https://w.app)
+ - date_published: 2024-10-30T14:38:35.359417+00:00
+
+ ## Wakeout | Healthier workdays, desk exercises
+ - [https://wakeout.app](https://wakeout.app)
+ - date_published: 2024-06-20T05:35:00.311184+00:00
+
+ ## Wallaroo • Wallpapers Just For You!
+ - [https://wallaroo.app](https://wallaroo.app)
+ - date_published: 2024-01-05T22:33:22+00:00
+
+ ## Protect Your Crypto | Wallet Guard
+ - [https://www.walletguard.app](https://www.walletguard.app)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## NOW Wallet - best app for crypto assets by ChangeNOW
+ - [https://walletnow.app](https://walletnow.app)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Wand – Bring your drawings to life.
+ - [https://www.wand.app](https://www.wand.app)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## WannaGift
+ - [https://www.wannagift.app](https://www.wannagift.app)
+ - date_published: 2024-10-09T18:48:37+00:00
+
+ ## Laravel
+ - [https://laravel-wasmer-examples.wasmer.app](https://laravel-wasmer-examples.wasmer.app)
+ - date_published: 2024-07-19T23:25:08.499504+00:00
+
+ ## My New Hugo Site
+ - [https://wasmer-edge-hugo-sample.wasmer.app](https://wasmer-edge-hugo-sample.wasmer.app)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## WATCH3R
+ - [https://watch3r.app](https://watch3r.app)
+ - date_published: 2024-06-14T14:48:09.194760+00:00
+
+ ## Watcharr
+ - [https://beta.watcharr.app](https://beta.watcharr.app)
+ - date_published: 2024-05-14T04:03:19.257742+00:00
+
+ ## Watcharr Docs | Watcharr Docs
+ - [https://watcharr.app](https://watcharr.app)
+ - date_published: 2024-04-08T19:31:16.233648+00:00
+ - tags: ['movie library', 'self-host']
+
+ ## Home  | Watchwolf
+ - [https://www.watchwolf.app](https://www.watchwolf.app)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Watchworthy
+ - [https://watchworthy.app](https://watchworthy.app)
+ - date_published: 2024-06-11T19:02:26+00:00
+
+ ## Wavelength is Shutting Down on July 31st, 2024
+ - [https://www.wavelength.app](https://www.wavelength.app)
+ - date_published: 2024-07-02T13:29:06.734193+00:00
+
+ ## Wavacity | Online Audio Editor Based on Audacity
+ - [https://wavvy.app](https://wavvy.app)
+ - date_published: 2023-07-26T06:34:47+00:00
+
+ ## Wayland Protocol Documentation | Wayland Explorer
+ - [https://wayland.app](https://wayland.app)
+ - date_published: 2024-05-11T09:06:00.472799+00:00
+
+ ## Show HN: Wealthfolio: A Private, Open-Source Investment Tracker
+ - [https://wealthfolio.app](https://wealthfolio.app)
+ - date_published: 2024-09-06T12:56:15+00:00
+
  ## Weathergraph
  - [https://weathergraph.app](https://weathergraph.app)
  - date_published: 2024-08-18T04:48:50.287888+00:00
@@ -903,6 +1306,10 @@
  - [https://garciamedia.com.ar](https://garciamedia.com.ar)
  - date_published: 2024-07-14T12:57:04.819301+00:00
 
+ ## Homepage - Garnier.com
+ - [https://www.garnier.com.ar](https://www.garnier.com.ar)
+ - date_published: 2024-12-15T08:04:05+00:00
+
  ## Gaspar Iwaniura Lorge | artworks
  - [https://shop.gaspariwaniura.com.ar](https://shop.gaspariwaniura.com.ar)
  - date_published: 2024-03-29T00:00:00+00:00
@@ -990,6 +1397,10 @@
  ## Into A Dream Fanlisting Collective - v.4.0 (Abstract)
  - [http://into-a-dream.com.ar](http://into-a-dream.com.ar)
  - date_published: 2024-08-17T23:40:11.323362+00:00
+
+ ## Ivolution
+ - [https://www.ivolution.com.ar](https://www.ivolution.com.ar)
+ - date_published: 2024-12-15T20:07:01.702428+00:00
 
  ## Sitio oficial de Jeep® Argentina
  - [https://modelos.jeep.com.ar](https://modelos.jeep.com.ar)
@@ -1923,6 +2334,10 @@
  - [https://daydreamonline.art](https://daydreamonline.art)
  - date_published: 2024-08-07T23:27:21.702933+00:00
 
+ ## Whitepaper | Déesse
+ - [https://docs.deesse.art](https://docs.deesse.art)
+ - date_published: 2024-12-15T09:22:06.825809+00:00
+
  ## deforum
  - [https://www.deforum.art](https://www.deforum.art)
  - date_published: 2024-03-19T17:53:57+00:00
@@ -2026,7 +2441,7 @@
  - tags: ['personal']
 
  ## The best place to create AI Images & Videos
- - [https://www.funfun.art](https://www.funfun.art)
+ - [https://funfun.art](https://funfun.art)
  - date_published: 2024-10-30T17:52:12.728190+00:00
 
  ## GabJo Art
@@ -2074,6 +2489,10 @@
  - [https://snapdress.image2image.art](https://snapdress.image2image.art)
  - date_published: 2024-06-14T07:27:29+00:00
 
+ ## Imagine Help Center
+ - [https://help.imagine.art](https://help.imagine.art)
+ - date_published: 2024-12-15T04:40:56.357187+00:00
+
  ## Free AI Art Generator: Create AI Images with Text to Art
  - [https://imagine.art](https://imagine.art)
  - date_published: 2024-10-30T14:35:43.806316+00:00
@@ -2081,6 +2500,10 @@
  ## Imagine API
  - [https://platform.imagine.art](https://platform.imagine.art)
  - date_published: 2024-10-30T14:35:50.016283+00:00
+
+ ## Imagine API References - Imagine API Reference
+ - [https://reference.imagine.art](https://reference.imagine.art)
+ - date_published: 2024-12-15T04:40:42.062774+00:00
 
  ## Imprecision
  - [https://imprecision.art](https://imprecision.art)
@@ -2249,6 +2672,10 @@
  ## Places - NEWEAST
  - [https://neweast.art](https://neweast.art)
  - date_published: 2024-07-01T08:05:48.177346+00:00
+
+ ## NEX: Controllable AI Image Generation for All
+ - [https://www.nex.art](https://www.nex.art)
+ - date_published: 2024-12-12T11:14:04+00:00
 
  ## The best AI tools for creatives | NextGen.art
  - [https://www.nextgen.art](https://www.nextgen.art)
@@ -2423,6 +2850,10 @@
  - [https://sabafeleke.art](https://sabafeleke.art)
  - date_published: 2024-04-03T06:24:25.571383+00:00
  - tags: ['personal']
+
+ ## Saint11
+ - [https://saint11.art](https://saint11.art)
+ - date_published: 2024-11-29T20:02:09+00:00
 
  ## SEESPACE
  - [https://seespace.art](https://seespace.art)
@@ -3605,432 +4036,4 @@ October 2024 in Singapore
  ## Nachhaltigkeit
  - [http://nachhaltigkeit.univie.ac.at](http://nachhaltigkeit.univie.ac.at)
  - date_published: 2024-10-14T23:56:46.787135+00:00
-
- ## Personalwesen und Frauenförderung
- - [http://personalwesen.univie.ac.at](http://personalwesen.univie.ac.at)
- - date_published: 2024-10-14T23:57:44.990266+00:00
-
- ## Podcasts
- - [http://podcasts.univie.ac.at](http://podcasts.univie.ac.at)
- - date_published: 2024-10-14T23:59:07.245055+00:00
-
- ## Research Data Management
- - [http://rdm.univie.ac.at](http://rdm.univie.ac.at)
- - date_published: 2024-10-14T23:59:08.507812+00:00
-
- ## Rudolphina – Wissenschaftsmagazin der Universität Wien
- - [http://rudolphina.univie.ac.at](http://rudolphina.univie.ac.at)
- - date_published: 2024-10-14T23:58:05.688144+00:00
-
- ## Satzung der Universität Wien
- - [http://satzung.univie.ac.at](http://satzung.univie.ac.at)
- - date_published: 2024-10-14T23:59:22.951117+00:00
-
- ## - Servicedesk
- - [http://servicedesk.univie.ac.at](http://servicedesk.univie.ac.at)
- - date_published: 2024-07-21T01:58:39.717649+00:00
-
- ## Fakultät für Sozialwissenschaften
- - [https://sowi.univie.ac.at](https://sowi.univie.ac.at)
- - date_published: 2024-10-14T23:58:06.712433+00:00
-
- ## Sprachenzentrum Universität Wien | Sprachenzentrum Universität Wien
- - [http://sprachenzentrum.univie.ac.at](http://sprachenzentrum.univie.ac.at)
- - date_published: 2024-10-14T23:59:00.547131+00:00
-
- ## Büro Studienpräses
- - [http://studienpraeses.univie.ac.at](http://studienpraeses.univie.ac.at)
- - date_published: 2024-10-14T23:56:54.744857+00:00
-
- ## Studieren
- - [https://studieren.univie.ac.at](https://studieren.univie.ac.at)
- - date_published: 2024-06-27T12:49:11.837522+00:00
-
- ## Institut für Theater-, Film- und Medienwissenschaft
- - [https://tfm.univie.ac.at](https://tfm.univie.ac.at)
- - date_published: 2024-09-02T15:47:37.241276+00:00
-
- ## Transfer
- - [http://transfer.univie.ac.at](http://transfer.univie.ac.at)
- - date_published: 2024-10-14T23:57:14.531310+00:00
-
- ## Universität Wien
- - [http://ucrisportal.univie.ac.at](http://ucrisportal.univie.ac.at)
- - date_published: 2024-10-14T23:58:56.840244+00:00
-
- ## Ukraine
- - [http://ukraine.univie.ac.at](http://ukraine.univie.ac.at)
- - date_published: 2024-10-14T23:58:33.106945+00:00
-
- ## Universität Wien
- - [https://univie.ac.at](https://univie.ac.at)
- - date_published: 2024-10-14T23:58:42.694127+00:00
-
- ## Startseite - Gast - u:space
- - [https://uspace.univie.ac.at](https://uspace.univie.ac.at)
- - date_published: 2024-07-21T01:58:45.491428+00:00
-
- ## Vienna Doctoral School in Physics
- - [https://vds-physics.univie.ac.at](https://vds-physics.univie.ac.at)
- - date_published: 2024-07-01T05:47:16.952011+00:00
-
- ## Accessing webmail - form
- - [http://webmail.univie.ac.at](http://webmail.univie.ac.at)
- - date_published: 2024-07-21T01:58:51.618066+00:00
-
- ## IFIP WG 2.5
- - [https://wg25.taa.univie.ac.at](https://wg25.taa.univie.ac.at)
- - date_published: 2007-09-07T00:00:00+00:00
-
- ## Dashboard - Wiki der Universität Wien
- - [http://wiki.univie.ac.at](http://wiki.univie.ac.at)
- - date_published: 2024-07-21T01:58:43.050846+00:00
-
- ## Women in Science
- - [http://womeninscience.univie.ac.at](http://womeninscience.univie.ac.at)
- - date_published: 2024-10-14T23:57:22.426506+00:00
-
- ## Startseite - ÖH Uni Wien
- - [http://www.oeh.univie.ac.at](http://www.oeh.univie.ac.at)
- - date_published: 2024-10-14T23:57:29.882500+00:00
-
- ## Sign in - Matomo
- - [https://zidstats.univie.ac.at](https://zidstats.univie.ac.at)
- - date_published: 2024-07-21T01:58:47.804793+00:00
-
- ## Zentraler Informatikdienst
- - [http://zid.univie.ac.at](http://zid.univie.ac.at)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## The Vienna Institute for International Economic Studies (wiiw)
- - [https://wiiw.ac.at](https://wiiw.ac.at)
- - date_published: 2024-10-22T11:32:30.490751+00:00
-
- ## Austrian Computer Science Day 2019 – Business meets Computer Science  –  03.06.2019 / WU Wien
- - [https://acsd2019.ai.wu.ac.at](https://acsd2019.ai.wu.ac.at)
- - date_published: 2020-05-20T12:26:56+00:00
-
- ## INDRZ WU
- - [http://campus.wu.ac.at](http://campus.wu.ac.at)
- - date_published: 2024-09-05T13:36:46+00:00
-
- ## WU (Wirtschaftsuniversität Wien)
- - [https://www.wu.ac.at](https://www.wu.ac.at)
- - date_published: 2024-10-14T19:32:50.297831+00:00
-
- ## Zentralanstalt für Meteorologie und Geodynamik — ZAMG
- - [https://zamg.ac.at](https://zamg.ac.at)
- - date_published: 2024-04-28T02:22:49.641037+00:00
-
- ## 101 CODING UND DESIGN
- - [http://101.at](http://101.at)
- - date_published: 2024-07-13T15:12:50+00:00
-
- ## 13TH FLOOR
- - [http://vserver.13thfloor.at](http://vserver.13thfloor.at)
- - date_published: 2024-07-13T07:56:44.705322+00:00
-
- ## 3M Science. Applied to Life. | 3M Österreich
- - [https://www.3maustria.at](https://www.3maustria.at)
- - date_published: 2024-08-06T10:42:02.803622+00:00
-
- ## 90 Minuten - Fußball-Magazin Österreich
- - [https://www.90minuten.at](https://www.90minuten.at)
- - date_published: 2024-10-29T10:04:34.765475+00:00
-
- ## A1 digital.campus
- - [https://a1digitalcampus.at](https://a1digitalcampus.at)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Universität Klagenfurt
- - [https://www.aau.at](https://www.aau.at)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Abarth Österreich | Schnelle Hochleistungs-Fahrzeuge
- - [https://www.abarth.at](https://www.abarth.at)
- - date_published: 2024-06-19T09:09:35.875389+00:00
-
- ## Mode online von mehr als 2.000 Top-Marken | ABOUT YOU
- - [https://m.aboutyou.at](https://m.aboutyou.at)
- - date_published: 2024-09-17T19:58:17+00:00
-
- ## Mode online von mehr als 2.000 Top-Marken | ABOUT YOU
- - [https://www.aboutyou.at](https://www.aboutyou.at)
- - date_published: 2024-09-17T19:58:17+00:00
-
- ## Universität Wien
- - [http://univie.academic-whistleblower.at](http://univie.academic-whistleblower.at)
- - date_published: 2024-10-14T23:58:26.881090+00:00
-
- ## CDP | Austrian Center for Digital Production
- - [https://acdp.at](https://acdp.at)
- - date_published: 2024-12-12T15:53:29.576931+00:00
-
- ## Acht Engineering
- - [https://www.acht.at](https://www.acht.at)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Austria Center Vienna | Österreichs größtes Kongresszentrum
- - [https://www.acv.at](https://www.acv.at)
- - date_published: 2024-06-20T16:06:26.476623+00:00
-
- ## Adecco Personaldienstleistungen
- - [http://www.adecco.at](http://www.adecco.at)
- - date_published: 2024-10-29T04:23:41.936701+00:00
-
- ## adidas offizielle Website Österreich | Sportbekleidung
- - [https://www.adidas.at](https://www.adidas.at)
- - date_published: 2024-07-14T12:13:47.421753+00:00
-
- ## Adressregister
- - [http://www.adressregister.at](http://www.adressregister.at)
- - date_published: 2023-05-10T11:54:10+00:00
-
- ## ᐅ Finden Sie Ihren perfekten Rechtsanwalt auf fairesRecht
- - [https://advolist.at](https://advolist.at)
- - date_published: 2024-09-13T16:21:51.577226+00:00
-
- ## Ars Electronica
- - [http://www.aec.at](http://www.aec.at)
- - date_published: 2024-08-19T17:07:50+00:00
-
- ## Ärztekammer
- - [http://arztsuche.aekooe.at](http://arztsuche.aekooe.at)
- - date_published: 2024-07-18T09:19:44+00:00
-
- ## AGES - Österreichische Agentur für Gesundheit und Ernährungssicherheit
- - [https://www.ages.at](https://www.ages.at)
- - date_published: 2024-07-13T17:35:18+00:00
-
- ## Agile Experts - Consult, Train and Coach for The Learning Organization
- - [http://agileexperts.at](http://agileexperts.at)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## agix.at steht im Dezember 2024 zum Verkauf
- - [https://agix.at](https://agix.at)
- - date_published: 2024-12-12T08:51:30.506332+00:00
-
- ## Agronetto Österreich – ein Online-Marktplatz für Landmaschinen und Ersatzteile
- - [https://agronetto.at](https://agronetto.at)
- - date_published: 2024-08-11T15:43:01.540661+00:00
-
- ## Airbnb | Ferienwohnungen, Blockhütten, Häuser in Strandnähe & mehr
- - [https://airbnb.at](https://airbnb.at)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## AKH Wien, Universitätsklinikum - AKH Wien
- - [https://akhwien.at](https://akhwien.at)
- - date_published: 2024-05-09T06:26:10.772176+00:00
-
- ## Startseite Bauprojekte - AKH Wien Bauprojekte
- - [https://www.bauprojekte.akhwien.at](https://www.bauprojekte.akhwien.at)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## The ALBERTINA Museum Vienna
- - [http://www.albertina.at](http://www.albertina.at)
- - date_published: 2024-06-24T09:21:31.747592+00:00
-
- ## Offizielle Alfa Romeo Website | Alfa Romeo AT
- - [https://www.alfaromeo.at](https://www.alfaromeo.at)
- - date_published: 2024-06-19T09:01:57.290053+00:00
-
- ## all about apps
- - [https://code.allaboutapps.at](https://code.allaboutapps.at)
- - date_published: 2021-09-23T00:00:00+00:00
-
- ## all-inn.at » Der ultimative Innsbruck CityGuide [ 2024 ]
- - [https://all-inn.at](https://all-inn.at)
- - date_published: 2024-07-16T12:59:22+00:00
-
- ## Bester Shop & Beste Deals | Alza
- - [https://www.alza.at](https://www.alza.at)
- - date_published: 2024-09-16T02:46:05.373861+00:00
-
- ## WEBDESIGN Wien von Ameisenhaufen.at - Webseiten & App Entwicklung
- - [https://ameisenhaufen.at](https://ameisenhaufen.at)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Service für Arbeitsuchende » online informieren | AMS
- - [http://www.ams.at](http://www.ams.at)
- - date_published: 2024-06-28T08:39:10+00:00
-
- ## Stop the AMS algorithm!
- - [https://amsalgorithmus.at](https://amsalgorithmus.at)
- - date_published: 2024-05-02T13:35:01.562798+00:00
-
- ## VOR AnachB Routenplaner
- - [https://anachb.at](https://anachb.at)
- - date_published: 2024-05-22T09:18:07+00:00
-
- ## parken.AnachB.at - Parkplatzbörse Wien - Einen Parkplatz in Wien mieten
- - [https://parken.anachb.at](https://parken.anachb.at)
- - date_published: 2024-09-13T16:20:38.330715+00:00
-
- ## GoatCounter
- - [https://analytics.anarc.at](https://analytics.anarc.at)
- - date_published: 2006-01-02T00:00:00+00:00
-
- ## Anarcat - anarcat
- - [https://anarc.at](https://anarc.at)
- - date_published: 2023-10-25T11:52:42.006171+00:00
-
- ## My Notebook - Linux, Open Source, Web Development and other Stuff
- - [https://andreasrohner.at](https://andreasrohner.at)
- - date_published: 2015-10-24T00:00:00+00:00
-
- ## Angeln in Österreich - Angelurlaub Österreich
- - [https://www.angel-urlaub.at](https://www.angel-urlaub.at)
- - date_published: 2024-09-13T16:18:59.850132+00:00
-
- ## angular-austria.at
- - [https://angular-austria.at](https://angular-austria.at)
- - date_published: 2024-06-22T23:47:38.527272+00:00
-
- ## r1ch.net anticheat - A Quake II anti-cheat system
- - [http://antiche.at](http://antiche.at)
- - date_published: 2009-07-03T00:00:00+00:00
-
- ## Anton Pirker
- - [https://anton-pirker.at](https://anton-pirker.at)
- - date_published: 2024-06-21T21:31:28+00:00
-
- ## APA – Austria Presse Agentur | Nationale Nachrichtenagentur
- - [https://apa.at](https://apa.at)
- - date_published: 2024-05-08T06:16:13.660416+00:00
-
- ## Playbook | Homebase | APA
- - [https://playbook.apa.at](https://playbook.apa.at)
- - date_published: 2024-07-04T11:29:30.991442+00:00
-
- ## Workshops
- - [https://www.apa-campus.at](https://www.apa-campus.at)
- - date_published: 2024-07-04T11:29:34.909463+00:00
-
- ## APP ENTWICKLUNG Wien von Ameisenhaufen.at - Webdesign & Apps
- - [https://www.app-entwicklung-wien.at](https://www.app-entwicklung-wien.at)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Apprentice.at
- - [http://apprentice.at](http://apprentice.at)
- - date_published: 2024-07-09T19:08:37.361312+00:00
-
- ## Nachhilfe/Unterricht durch einen unserer ausgewählten Lehrer zu Hause
- - [https://apprentus.at](https://apprentus.at)
- - date_published: 2024-06-15T01:45:29.821855+00:00
-
- ## Abfertigungsrechner der Arbeiterkammer
- - [https://abfertigung.arbeiterkammer.at](https://abfertigung.arbeiterkammer.at)
- - date_published: 2024-10-22T11:32:01.912008+00:00
-
- ## Startseite
- - [https://bgld.arbeiterkammer.at](https://bgld.arbeiterkammer.at)
- - date_published: 2024-10-22T11:31:48.876578+00:00
-
- ## Brutto-Netto-Rechner der Arbeiterkammern
- - [https://bruttonetto.arbeiterkammer.at](https://bruttonetto.arbeiterkammer.at)
- - date_published: 2024-10-22T11:32:05.658709+00:00
-
- ## Arbeiterkammer Kärnten
- - [https://kaernten.arbeiterkammer.at](https://kaernten.arbeiterkammer.at)
- - date_published: 2024-10-22T11:31:58.747395+00:00
-
- ## AK Niederösterreich
- - [https://noe.arbeiterkammer.at](https://noe.arbeiterkammer.at)
- - date_published: 2024-10-22T11:32:00.725956+00:00
-
- ## Startseite
- - [https://ooe.arbeiterkammer.at](https://ooe.arbeiterkammer.at)
- - date_published: 2024-06-18T15:38:12.839001+00:00
-
- ## Online-Pensionsrechner der Arbeiterkammer
- - [http://pensionsrechner.arbeiterkammer.at](http://pensionsrechner.arbeiterkammer.at)
- - date_published: 2024-10-22T11:31:56.387368+00:00
-
- ## Sign in - Matomo
- - [https://piwik.arbeiterkammer.at](https://piwik.arbeiterkammer.at)
- - date_published: 2024-10-22T11:31:37.083057+00:00
-
- ## Resturlaubsrechner der Arbeiterkammern
- - [http://resturlaub.arbeiterkammer.at](http://resturlaub.arbeiterkammer.at)
- - date_published: 2024-10-22T11:31:38.250745+00:00
-
- ## Arbeiterkammer Salzburg
- - [https://sbg.arbeiterkammer.at](https://sbg.arbeiterkammer.at)
- - date_published: 2024-10-22T11:31:55.037219+00:00
-
- ## Startseite
- - [https://stmk.arbeiterkammer.at](https://stmk.arbeiterkammer.at)
- - date_published: 2024-10-22T11:32:07.977542+00:00
-
- ## Arbeiterkammer Vorarlberg
- - [https://vbg.arbeiterkammer.at](https://vbg.arbeiterkammer.at)
- - date_published: 2024-10-22T11:31:40.384932+00:00
-
- ## AK Wien, die Interessenvertretung für Arbeitnehmer
- - [https://wien.arbeiterkammer.at](https://wien.arbeiterkammer.at)
- - date_published: 2024-10-22T11:31:43.467003+00:00
-
- ## Arbeiterkammer
- - [https://www.arbeiterkammer.at](https://www.arbeiterkammer.at)
- - date_published: 2024-10-22T11:31:51.925503+00:00
-
- ## Home - Arztakademie - OAK
- - [http://www.arztakademie.at](http://www.arztakademie.at)
- - date_published: 2024-07-09T20:13:14.354897+00:00
-
- ## Das österreichische Ärzteverzeichnis - ARZTSUCHE24.at
- - [https://arztsuche24.at](https://arztsuche24.at)
- - date_published: 2024-09-13T16:20:36.159549+00:00
-
- ## ASFINAG
- - [https://www.asfinag.at](https://www.asfinag.at)
- - date_published: 2024-09-13T16:20:09.961077+00:00
-
- ## atempo - Wir setzen uns für die Gleichstellung von Menschen ein
- - [https://www.atempo.at](https://www.atempo.at)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://analytics.attac.at](https://analytics.attac.at)
- - date_published: 2024-10-22T11:32:40.746082+00:00
-
- ## Attac Österreich
- - [https://attac.at](https://attac.at)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Audi Österreich » Modelle & Angebote entdecken
- - [https://www.audi.at](https://www.audi.at)
- - date_published: 2024-07-19T22:43:27.915367+00:00
-
- ## Alle Netflix-Filem und Serien - AufNetflix.at
- - [https://www.aufnetflix.at](https://www.aufnetflix.at)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## aurena.at | Österreichs spannendste Auktionen
- - [https://www.aurena.at](https://www.aurena.at)
- - date_published: 2024-10-22T12:19:25.298777+00:00
-
- ## Ausflugsziele und Ausflugstipps in Oberösterreich
- - [https://www.ausflugstipps.at](https://www.ausflugstipps.at)
- - date_published: 2024-09-13T16:20:30.770356+00:00
-
- ## AUSSDA - The Austrian Social Science Data Archive
- - [https://aussda.at](https://aussda.at)
- - date_published: 2024-10-18T19:25:28.820211+00:00
-
- ## Hotels in Austria & Slovenia | Austria Trend Hotels
- - [https://www.austria-trend.at](https://www.austria-trend.at)
- - date_published: 2024-06-22T07:50:28.741878+00:00
-
- ## Austro Control - SDI free
- - [https://maps.austrocontrol.at](https://maps.austrocontrol.at)
- - date_published: 2024-07-31T07:28:30+00:00
-
- ## About Austro Engine
- - [http://austroengine.at](http://austroengine.at)
- - date_published: 2024-07-09T21:47:31.794244+00:00
-
- ## Gebrauchtwagen und Neuwagen bei AutoScout24
- - [https://www.autoscout24.at](https://www.autoscout24.at)
- - date_published: 2024-07-14T12:56:44.641096+00:00
 
