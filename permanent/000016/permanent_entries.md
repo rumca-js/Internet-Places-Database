@@ -1,3 +1,99 @@
+ ## UnB Notícias - Últimas
+ - [https://noticias.unb.br](https://noticias.unb.br)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Ouvidoria - Início
+ - [https://ouvidoria.unb.br](https://ouvidoria.unb.br)
+ - date_published: 2024-07-20T11:05:40+00:00
+
+ ## DPI - Grupos de Pesquisa
+ - [http://pesquisa.unb.br](http://pesquisa.unb.br)
+ - date_published: 2024-07-20T11:07:06+00:00
+
+ ## SIGUnB - Sistema Integrado de Gestão - Início
+ - [http://portalsig.unb.br](http://portalsig.unb.br)
+ - date_published: 2024-07-20T11:21:06.452976+00:00
+
+ ## Prefeitura da UnB - PRC - Inicio
+ - [http://prc.unb.br](http://prc.unb.br)
+ - date_published: 2024-07-20T11:15:54+00:00
+
+ ## Prefeitura da UnB - PRC - Inicio
+ - [http://prefeitura.unb.br](http://prefeitura.unb.br)
+ - date_published: 2024-07-20T11:08:25+00:00
+
+ ## ProIC - Programa de Iniciação Científica - Início
+ - [http://proic.unb.br](http://proic.unb.br)
+ - date_published: 2024-07-20T11:08:53.460770+00:00
+
+ ## Proteção de Dados Pessoais da UnB - Início
+ - [https://protecaodedados.unb.br](https://protecaodedados.unb.br)
+ - date_published: 2024-07-20T11:20:20+00:00
+
+ ## Revista Darcy - Início
+ - [https://revistadarcy.unb.br](https://revistadarcy.unb.br)
+ - date_published: 2024-07-20T11:06:23+00:00
+
+ ## Início - Restaurante Universitário
+ - [http://ru.unb.br](http://ru.unb.br)
+ - date_published: 2024-07-20T11:14:26+00:00
+
+ ## SAA - Início
+ - [https://saa.unb.br](https://saa.unb.br)
+ - date_published: 2024-07-20T11:08:56+00:00
+
+ ## trafego-secom
+ - [http://secom.unb.br](http://secom.unb.br)
+ - date_published: 2024-07-20T11:19:02.929233+00:00
+
+ ## SeMA - Início
+ - [http://sema.unb.br](http://sema.unb.br)
+ - date_published: 2024-07-20T11:09:17+00:00
+
+ ## STI : Autenticação Integrada
+ - [https://sig.unb.br](https://sig.unb.br)
+ - date_published: 2024-07-20T11:05:37.974425+00:00
+
+ ## SPI - Início
+ - [http://spi.unb.br](http://spi.unb.br)
+ - date_published: 2024-07-20T11:05:48+00:00
+
+ ## Secretaria de Tecnologia da Informação - STI - HOME
+ - [https://sti.unb.br](https://sti.unb.br)
+ - date_published: 2024-07-20T11:06:04+00:00
+
+ ## Universidade de Brasília - Início
+ - [https://unb.br](https://unb.br)
+ - date_published: 2024-05-19T02:41:42.253885+00:00
+
+ ## UnB Ciência - Últimas
+ - [http://unbciencia.unb.br](http://unbciencia.unb.br)
+ - date_published: 2024-07-20T11:20:29+00:00
+
+ ## UnB Idiomas
+ - [http://unbidiomas.unb.br](http://unbidiomas.unb.br)
+ - date_published: 2024-07-20T11:20:17.110818+00:00
+
+ ## UnB Imagens - Início
+ - [http://unbimagens.unb.br](http://unbimagens.unb.br)
+ - date_published: 2024-07-20T11:21:09+00:00
+
+ ## UnBTV
+ - [http://unbtv.unb.br](http://unbtv.unb.br)
+ - date_published: 2024-07-20T11:09:03.653495+00:00
+
+ ## Departamento de Ciências da Computação - CIC - Início
+ - [http://www.cic.unb.br](http://www.cic.unb.br)
+ - date_published: 2024-06-23T10:57:34+00:00
+
+ ## Departamento de Matemática
+ - [https://www.mat.unb.br](https://www.mat.unb.br)
+ - date_published: 2024-07-17T05:50:11.121905+00:00
+
+ ## Portal do Sei - Início
+ - [http://www.portalsei.unb.br](http://www.portalsei.unb.br)
+ - date_published: 2024-07-20T11:09:10+00:00
+
  ## Faculdade de Odontologia - Câmpus de Araçatuba
  - [http://www.foa.unesp.br](http://www.foa.unesp.br)
  - date_published: 2024-06-29T10:06:42.639580+00:00
@@ -3915,100 +4011,4 @@
  - [https://gov.br](https://gov.br)
  - date_published: 2023-12-11T19:33:23.992575+00:00
  - tags: ['government']
-
- ## Cadastro do AcessoGovBr
- - [https://cadastro.acesso.gov.br](https://cadastro.acesso.gov.br)
- - date_published: 2024-04-24T03:56:20+00:00
-
- ## Acesso GovBR
- - [https://contas.acesso.gov.br](https://contas.acesso.gov.br)
- - date_published: 2024-04-24T03:56:08+00:00
-
- ## Empresas gov.br
- - [https://empresas.acesso.gov.br](https://empresas.acesso.gov.br)
- - date_published: 2024-04-24T03:56:07+00:00
-
- ## Portal Logado
- - [https://servicos.acesso.gov.br](https://servicos.acesso.gov.br)
- - date_published: 2024-01-04T17:39:50+00:00
-
- ## Portal Logado
- - [https://sso.acesso.gov.br](https://sso.acesso.gov.br)
- - date_published: 2024-01-04T17:39:50+00:00
-
- ## Home
- - [http://acessoainformacao.gov.br](http://acessoainformacao.gov.br)
- - date_published: 2024-07-20T11:20:25.505697+00:00
-
- ## Banco Central do Brasil
- - [https://bcb.gov.br](https://bcb.gov.br)
- - date_published: 2024-05-12T04:09:19.217035+00:00
-
- ## Banco Central do Brasil
- - [https://cdn-www.bcb.gov.br](https://cdn-www.bcb.gov.br)
- - date_published: 2024-07-09T21:25:25+00:00
-
- ## Barra Brasil
- - [http://barra.brasil.gov.br](http://barra.brasil.gov.br)
- - date_published: 2023-12-07T13:59:42+00:00
-
- ## GOV.BR
- - [http://brasil.gov.br](http://brasil.gov.br)
- - date_published: 2024-07-11T21:36:28.910171+00:00
-
- ## CAIXA
- - [http://www.caixa.gov.br](http://www.caixa.gov.br)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## CAPES 70 anos
- - [https://70anos.capes.gov.br](https://70anos.capes.gov.br)
- - date_published: 2021-10-08T14:02:24+00:00
-
- ## CAPES 72 anos
- - [https://72anos.capes.gov.br](https://72anos.capes.gov.br)
- - date_published: 2023-07-27T21:23:34+00:00
-
- ## CAPES - Catálogo de Atos Administrativos
- - [http://cad.capes.gov.br](http://cad.capes.gov.br)
- - date_published: 2023-08-17T01:00:08+00:00
-
- ## CAPES
- - [https://capes.gov.br](https://capes.gov.br)
- - date_published: 2024-05-11T08:09:05.282834+00:00
-
- ## Catálogo de Teses & Dissertações - CAPES
- - [https://catalogodeteses.capes.gov.br](https://catalogodeteses.capes.gov.br)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Portal eduCapes:Inicio
- - [https://educapes.capes.gov.br](https://educapes.capes.gov.br)
- - date_published: 2024-07-13T18:16:46.473581+00:00
-
- ## Plataforma Freire
- - [https://freire.capes.gov.br](https://freire.capes.gov.br)
- - date_published: 2024-07-12T20:37:56+00:00
-
- ## GEOCAPES
- - [https://geocapes.capes.gov.br](https://geocapes.capes.gov.br)
- - date_published: 2023-10-17T19:08:16+00:00
-
- ## Declaração de Rendimentos
- - [https://informerendimentos.capes.gov.br](https://informerendimentos.capes.gov.br)
- - date_published: 2024-07-13T18:17:34.875432+00:00
-
- ## Revista Brasileira de Pós-Graduação
- - [https://rbpg.capes.gov.br](https://rbpg.capes.gov.br)
- - date_published: 2024-07-13T18:17:09.761963+00:00
-
- ## Plataforma Sucupira
- - [https://sucupira.capes.gov.br](https://sucupira.capes.gov.br)
- - date_published: 2024-07-13T18:16:50.909184+00:00
-
- ## Portal .periodicos. CAPES - Portal .periodicos. CAPES
- - [https://www.periodicos.capes.gov.br](https://www.periodicos.capes.gov.br)
- - date_published: 2024-07-07T06:41:55+00:00
-
- ## Central de Painéis
- - [https://centralpaineis.cgu.gov.br](https://centralpaineis.cgu.gov.br)
- - date_published: 2023-10-29T14:11:31+00:00
 

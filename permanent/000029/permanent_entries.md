@@ -1,3 +1,155 @@
+ ## 首页
+ - [http://bkzs.hfut.edu.cn](http://bkzs.hfut.edu.cn)
+ - date_published: 2024-06-21T09:48:50+00:00
+
+ ## 计算机与信息学院（人工智能学院）
+ - [https://ci.hfut.edu.cn](https://ci.hfut.edu.cn)
+ - date_published: 2024-05-10T05:30:13.590138+00:00
+
+ ## 合肥工业大学财务处
+ - [http://cwc.hfut.edu.cn](http://cwc.hfut.edu.cn)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 本科生院创新创业教育处
+ - [http://cxcyc.hfut.edu.cn](http://cxcyc.hfut.edu.cn)
+ - date_published: 2024-07-11T03:24:40+00:00
+
+ ## 合工大党代会
+ - [https://ddh9.hfut.edu.cn](https://ddh9.hfut.edu.cn)
+ - date_published: 2024-07-12T13:22:46+00:00
+
+ ## 合肥工业大学 - 邮件系统
+ - [http://email.hfut.edu.cn](http://email.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:21.232786+00:00
+
+ ## 合肥工业大学
+ - [https://gdjy.hfut.edu.cn](https://gdjy.hfut.edu.cn)
+ - date_published: 2024-07-12T16:09:32.108003+00:00
+
+ ## 合肥工业大学智能制造技术研究院
+ - [http://imi.hfut.edu.cn](http://imi.hfut.edu.cn)
+ - date_published: 2024-07-12T16:09:35.428148+00:00
+
+ ## 国际事务处（港澳台事务办公室）
+ - [http://international.hfut.edu.cn](http://international.hfut.edu.cn)
+ - date_published: 2024-07-12T09:47:10+00:00
+
+ ## 信息化建设与发展中心
+ - [http://it.hfut.edu.cn](http://it.hfut.edu.cn)
+ - date_published: 2024-07-12T09:00:08+00:00
+
+ ## 合肥工业大学继续教育学院
+ - [http://jxjy.hfut.edu.cn](http://jxjy.hfut.edu.cn)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## 科研院
+ - [http://kyy.hfut.edu.cn](http://kyy.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:37.245524+00:00
+
+ ## 合肥工业大学图书馆
+ - [http://lib.hfut.edu.cn](http://lib.hfut.edu.cn)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## 合肥工业大学新闻网
+ - [http://news.hfut.edu.cn](http://news.hfut.edu.cn)
+ - date_published: 2024-07-12T09:09:16+00:00
+
+ ## 首页
+ - [http://oa.hfut.edu.cn](http://oa.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:24.021401+00:00
+
+ ## 高层次人才工作办公室
+ - [http://rcb.hfut.edu.cn](http://rcb.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:58.985974+00:00
+
+ ## 合肥工业大学WEBVPN系统
+ - [https://webvpn.hfut.edu.cn](https://webvpn.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:14.341379+00:00
+
+ ## 合肥工业大学
+ - [https://www.hfut.edu.cn](https://www.hfut.edu.cn)
+ - date_published: 2024-05-10T05:30:22.841718+00:00
+
+ ## å®£ä¼ é¨
+ - [http://xcb.hfut.edu.cn](http://xcb.hfut.edu.cn)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## 合肥工业大学宣城校区
+ - [http://xc.hfut.edu.cn](http://xc.hfut.edu.cn)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 党委学生工作部
+ - [http://xgb.hfut.edu.cn](http://xgb.hfut.edu.cn)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## 学科建设与评估处
+ - [http://xkb.hfut.edu.cn](http://xkb.hfut.edu.cn)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## 学术委员会
+ - [http://xswyh.hfut.edu.cn](http://xswyh.hfut.edu.cn)
+ - date_published: 2024-06-14T02:48:20+00:00
+
+ ## 信息公开网
+ - [http://xxgk.hfut.edu.cn](http://xxgk.hfut.edu.cn)
+ - date_published: 2024-07-12T16:09:20.670082+00:00
+
+ ## 合工大校友会
+ - [http://xyh.hfut.edu.cn](http://xyh.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:40.558094+00:00
+
+ ## 研究生院
+ - [http://yjsy.hfut.edu.cn](http://yjsy.hfut.edu.cn)
+ - date_published: 2024-07-12T08:13:45+00:00
+
+ ## 合肥工业大学研究生招生网
+ - [http://yjszs.hfut.edu.cn](http://yjszs.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:10.803928+00:00
+
+ ## 总务部
+ - [http://zwb.hfut.edu.cn](http://zwb.hfut.edu.cn)
+ - date_published: 2024-07-12T09:57:07+00:00
+
+ ## 专业学位研究生教育网
+ - [http://zyxw.hfut.edu.cn](http://zyxw.hfut.edu.cn)
+ - date_published: 2024-06-03T01:33:32+00:00
+
+ ## 河海大学-Hohai University
+ - [http://www.hhu.edu.cn](http://www.hhu.edu.cn)
+ - date_published: 2024-09-09T15:13:40.013490+00:00
+
+ ## 计算学部
+ - [http://computing.hit.edu.cn](http://computing.hit.edu.cn)
+ - date_published: 2024-07-12T15:57:25.741076+00:00
+
+ ## 计算学部英文版
+ - [https://encs.hit.edu.cn](https://encs.hit.edu.cn)
+ - date_published: 2024-05-10T05:29:54.915756+00:00
+
+ ## Harbin Institute of Technology
+ - [http://en.hit.edu.cn](http://en.hit.edu.cn)
+ - date_published: 2024-05-10T05:30:08.944099+00:00
+
+ ## HIT TIMES
+ - [http://hit-times.hit.edu.cn](http://hit-times.hit.edu.cn)
+ - date_published: 2024-07-12T16:06:07.997538+00:00
+
+ ## 哈尔滨工业大学电子邮件系统
+ - [https://mail.hit.edu.cn](https://mail.hit.edu.cn)
+ - date_published: 2024-07-12T15:59:50.383434+00:00
+
+ ## 哈尔滨工业大学校园地图/三维虚拟校园GIS/智慧校园可视化平台/数字孪生校园
+ - [http://map.hit.edu.cn](http://map.hit.edu.cn)
+ - date_published: 2024-07-12T16:06:23.443893+00:00
+
+ ## 哈尔滨工业大学新闻网
+ - [http://news.hit.edu.cn](http://news.hit.edu.cn)
+ - date_published: 2024-07-12T15:58:22.924277+00:00
+
+ ## 国际教育学院英文
+ - [http://studyathit.hit.edu.cn](http://studyathit.hit.edu.cn)
+ - date_published: 2024-07-12T16:06:11.585900+00:00
+
  ## 哈尔滨工业大学
  - [http://www.hit.edu.cn](http://www.hit.edu.cn)
  - date_published: 2024-06-30T21:06:15.018292+00:00
@@ -3851,156 +4003,4 @@
  ## 辽宁省卫生健康委员会
  - [http://wsjk.ln.gov.cn](http://wsjk.ln.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## 辽宁省人民政府
- - [http://www.ln.gov.cn](http://www.ln.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 辽宁省医疗保障局
- - [http://ybj.ln.gov.cn](http://ybj.ln.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 辽宁省应急管理厅
- - [http://yjgl.ln.gov.cn](http://yjgl.ln.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 辽宁省机关党建网
- - [http://www.lnjgdj.gov.cn](http://www.lnjgdj.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 辽宁纪检监察网
- - [http://www.lnsjjjc.gov.cn](http://www.lnsjjjc.gov.cn)
- - date_published: 2024-06-30T14:00:11.624666+00:00
-
- ## 辽宁政务服务网
- - [http://www.lnzwfw.gov.cn](http://www.lnzwfw.gov.cn)
- - date_published: 2024-06-30T18:21:25.648315+00:00
-
- ## 中国人民政治协商会议辽宁省委员会
- - [http://www.lnzx.gov.cn](http://www.lnzx.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 国家粮食和物资储备局
- - [http://lswz.gov.cn](http://lswz.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## 国家粮食和物资储备局电子邮件系统
- - [http://mail.lswz.gov.cn](http://mail.lswz.gov.cn)
- - date_published: 2024-06-30T17:17:47.475531+00:00
-
- ## 国家粮食和物资储备局
- - [http://sousuo.lswz.gov.cn](http://sousuo.lswz.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 西藏自治区粮食和物资储备局
- - [http://xz.lswz.gov.cn](http://xz.lswz.gov.cn)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## 漯河市人民政府
- - [http://www.luohe.gov.cn](http://www.luohe.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 洛龙区人民政府
- - [https://www.luolong.gov.cn](https://www.luolong.gov.cn)
- - date_published: 1997-02-26T00:00:00+00:00
-
- ## 广州市荔湾区人民政府门户网站
- - [http://www.lw.gov.cn](http://www.lw.gov.cn)
- - date_published: 2024-10-21T05:52:40.338288+00:00
-
- ## 洛阳市人民政府
- - [https://www.ly.gov.cn](https://www.ly.gov.cn)
- - date_published: 2024-06-30T22:28:03.841283+00:00
-
- ## 邮箱登录
- - [https://mail.gov.cn](https://mail.gov.cn)
- - date_published: 2024-06-30T18:20:49.436082+00:00
-
- ## 中华人民共和国民政部
- - [http://www.mca.gov.cn](http://www.mca.gov.cn)
- - date_published: 2024-05-07T16:48:11.269942+00:00
-
- ## 全国文化和旅游市场网上举报投诉处理系统网站
- - [https://jbts.mct.gov.cn](https://jbts.mct.gov.cn)
- - date_published: 2024-04-10T03:23:34+00:00
-
- ## 文化和旅游部大众旅游服务栏目
- - [https://lyfw.mct.gov.cn](https://lyfw.mct.gov.cn)
- - date_published: 2024-06-30T19:24:27.925199+00:00
-
- ## 文化和旅游部数据服务栏目
- - [https://sjfw.mct.gov.cn](https://sjfw.mct.gov.cn)
- - date_published: 2024-06-30T19:23:07.138736+00:00
-
- ## 文化资源展馆服务栏目
- - [https://whzg.mct.gov.cn](https://whzg.mct.gov.cn)
- - date_published: 2024-06-30T19:31:34.411951+00:00
-
- ## 中华人民共和国文化和旅游部
- - [https://www.mct.gov.cn](https://www.mct.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## 文化和旅游部热点专题
- - [https://zhuanti.mct.gov.cn](https://zhuanti.mct.gov.cn)
- - date_published: 2024-06-13T07:23:02+00:00
-
- ## 文化和旅游部政务服务门户
- - [https://zwfw.mct.gov.cn](https://zwfw.mct.gov.cn)
- - date_published: 2024-06-30T19:25:04.078566+00:00
-
- ## 生态环境部华东核与辐射安全监督站
- - [http://ecro.mee.gov.cn](http://ecro.mee.gov.cn)
- - date_published: 2024-06-27T07:55:49+00:00
-
- ## MINISTRY OF ECOLOGY AND ENVIRONMENT THE PEOPLE'S REPUBLIC OF CHINA
- - [http://english.mee.gov.cn](http://english.mee.gov.cn)
- - date_published: 2024-06-30T15:53:02.057519+00:00
-
- ## 辐射安全培训
- - [http://fushe.mee.gov.cn](http://fushe.mee.gov.cn)
- - date_published: 2024-06-30T23:06:44.672885+00:00
-
- ## 黄河流域生态环境监督管理局
- - [http://huanghejg.mee.gov.cn](http://huanghejg.mee.gov.cn)
- - date_published: 2024-06-30T15:49:51.544232+00:00
-
- ## 中央纪委国家监委驻生态环境部纪检监察组
- - [http://jjjcz.mee.gov.cn](http://jjjcz.mee.gov.cn)
- - date_published: 2024-05-31T06:10:37+00:00
-
- ## 信访投诉举报管理平台
- - [http://jubao.mee.gov.cn](http://jubao.mee.gov.cn)
- - date_published: 2024-06-30T15:50:42.856817+00:00
-
- ## 登录
- - [https://leadmail.mee.gov.cn](https://leadmail.mee.gov.cn)
- - date_published: 2024-06-30T15:51:16.073727+00:00
-
- ## 国家核安全局
- - [https://nnsa.mee.gov.cn](https://nnsa.mee.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## 全国核技术利用辐射安全申报系统
- - [http://rr.mee.gov.cn](http://rr.mee.gov.cn)
- - date_published: 2024-06-30T23:06:49.426215+00:00
-
- ## 中华人民共和国生态环境部
- - [https://www.mee.gov.cn](https://www.mee.gov.cn)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## 社会应急力量救援协调系统
- - [https://htgl-llgl.mem.gov.cn](https://htgl-llgl.mem.gov.cn)
- - date_published: 2024-05-31T02:01:21+00:00
-
- ## 中华人民共和国应急管理部
- - [https://mem.gov.cn](https://mem.gov.cn)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## 中国森林草原防灭火网 - 首页
- - [http://slcyfh.mem.gov.cn](http://slcyfh.mem.gov.cn)
- - date_published: 2024-06-30T19:09:35.259812+00:00
-
- ## 孟州市人民政府_孟州市人民政府
- - [http://www.mengzhou.gov.cn](http://www.mengzhou.gov.cn)
- - date_published: 2024-06-30T22:00:03+00:00
 

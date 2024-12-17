@@ -1,3 +1,195 @@
+ ## OneGate
+ - [https://mg-local.servicios.javerianacali.edu.co](https://mg-local.servicios.javerianacali.edu.co)
+ - date_published: 2024-09-11T16:59:15.161310+00:00
+
+ ## Servicios PQRSF
+ - [https://pqrsf.javerianacali.edu.co](https://pqrsf.javerianacali.edu.co)
+ - date_published: 2023-09-12T16:58:14+00:00
+
+ ## Conoce nuestros cursos y diplomados
+ - [https://virtual.javerianacali.edu.co](https://virtual.javerianacali.edu.co)
+ - date_published: 2024-06-12T11:01:33.641762+00:00
+
+ ## Vive en Cali | Javeriana Cali
+ - [https://vivirencali.javerianacali.edu.co](https://vivirencali.javerianacali.edu.co)
+ - date_published: 2024-05-30T23:00:03+00:00
+
+ ## SISTEMA ORGANIZACIONAL FINANCIERO & ACADEMICO ADMINISTRATIVO - SOF&A
+ - [https://academico.juanncorpas.edu.co](https://academico.juanncorpas.edu.co)
+ - date_published: 2024-06-12T10:57:42.814362+00:00
+
+ ## Centro de Información y Consulta - Catálogo Público Koha
+ - [https://catalogo.juanncorpas.edu.co](https://catalogo.juanncorpas.edu.co)
+ - date_published: 2024-09-11T16:01:59.340542+00:00
+
+ ## Inicio | Fundación Universitaria Juan N. Corpas
+ - [https://juanncorpas.edu.co](https://juanncorpas.edu.co)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## DSpace Home
+ - [https://repositorio.juanncorpas.edu.co](https://repositorio.juanncorpas.edu.co)
+ - date_published: 2024-06-12T10:57:40.830404+00:00
+
+ ## Sistema de Revistas. Fundación Universitaria Juan N. Corpas
+ - [https://revistas.juanncorpas.edu.co](https://revistas.juanncorpas.edu.co)
+ - date_published: 2024-06-12T10:56:50.681945+00:00
+
+ ## Home | Fundación Universitaria Juan N. Corpas
+ - [https://sga.juanncorpas.edu.co](https://sga.juanncorpas.edu.co)
+ - date_published: 2024-06-12T10:57:29.893051+00:00
+
+ ## SN        Login
+ - [https://sofianew.juanncorpas.edu.co](https://sofianew.juanncorpas.edu.co)
+ - date_published: 2024-09-10T16:59:05.310715+00:00
+
+ ## Biblioteca Juan Alberto Aragón Bateman catalog
+ - [https://biblioteca.konradlorenz.edu.co](https://biblioteca.konradlorenz.edu.co)
+ - date_published: 2024-06-12T11:04:03.979999+00:00
+
+ ## Biblioteca Juan Alberto Aragón Bateman catalog
+ - [https://catalogo.konradlorenz.edu.co](https://catalogo.konradlorenz.edu.co)
+ - date_published: 2024-09-11T17:20:08.513025+00:00
+
+ ## Ser Konradista - Fundación Universitaria Konrad Lorenz
+ - [https://la.konradlorenz.edu.co](https://la.konradlorenz.edu.co)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Medio Universitario | Fundación Universitaria Konrad Lorenz
+ - [https://mediouniversitario.konradlorenz.edu.co](https://mediouniversitario.konradlorenz.edu.co)
+ - date_published: 2024-06-12T03:20:50.480962+00:00
+
+ ## Konrad Lorenz-Lista de bases: Todo
+ - [https://recursosvirtuales.konradlorenz.edu.co](https://recursosvirtuales.konradlorenz.edu.co)
+ - date_published: 2024-09-11T17:20:16.965037+00:00
+
+ ## Repositorio - Fundación Universitaria Konrad Lorenz
+ - [https://repositorio.konradlorenz.edu.co](https://repositorio.konradlorenz.edu.co)
+ - date_published: 2024-09-11T17:20:09.914041+00:00
+
+ ## Apache Tomcat/9.0.71
+ - [https://serviciosweb.konradlorenz.edu.co](https://serviciosweb.konradlorenz.edu.co)
+ - date_published: 2024-06-12T03:20:58.564438+00:00
+
+ ## Entrar al sitio | VirtualKonrad
+ - [https://virtual.konradlorenz.edu.co](https://virtual.konradlorenz.edu.co)
+ - date_published: 2024-09-11T17:20:13.552378+00:00
+
+ ## Home - Aspirantes - Pregrados y Posgrados en Bogotá
+ - [https://www.konradlorenz.edu.co](https://www.konradlorenz.edu.co)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Acreditación Institucional en Alta Calidad – Minisitio de la dirección de Autoevaluación y Acreditación Institucional
+ - [https://acreditacion.libertadores.edu.co](https://acreditacion.libertadores.edu.co)
+ - date_published: 2024-09-11T21:12:37+00:00
+
+ ## Blackboard Learn
+ - [https://blackboard.libertadores.edu.co](https://blackboard.libertadores.edu.co)
+ - date_published: 2004-09-12T14:45:19+00:00
+
+ ## inicio
+ - [https://calendarioacademico.libertadores.edu.co](https://calendarioacademico.libertadores.edu.co)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Home
+ - [https://calendariomc.libertadores.edu.co](https://calendariomc.libertadores.edu.co)
+ - date_published: 2024-12-09T19:28:51.462848+00:00
+
+ ## Educación Continua | Diplomados seminarios y cursos
+ - [https://educacion-continua.libertadores.edu.co](https://educacion-continua.libertadores.edu.co)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Error
+ - [https://gf.libertadores.edu.co](https://gf.libertadores.edu.co)
+ - date_published: 2024-09-12T14:45:10.304694+00:00
+
+ ## helpdesk
+ - [https://helpdesk.libertadores.edu.co](https://helpdesk.libertadores.edu.co)
+ - date_published: 2024-12-09T19:28:36.033168+00:00
+
+ ## Intranet Los Libertadores – Intranet Los Libertadores
+ - [https://intranet.libertadores.edu.co](https://intranet.libertadores.edu.co)
+ - date_published: 2024-09-12T14:45:49.221857+00:00
+
+ ## Error
+ - [https://to.libertadores.edu.co](https://to.libertadores.edu.co)
+ - date_published: 2024-09-12T14:43:12.303473+00:00
+
+ ## Secretaría de Educación ⋆ Secretaría de Educación
+ - [https://medellin.edu.co](https://medellin.edu.co)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Página de inicio - Unidad de Educación Continua - I.U. Pascual Bravo
+ - [https://educacioncontinua.pascualbravo.edu.co](https://educacioncontinua.pascualbravo.edu.co)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## %
+ - [https://epdi.pascualbravo.edu.co](https://epdi.pascualbravo.edu.co)
+ - date_published: 2024-12-09T19:45:54.678283+00:00
+
+ ## Unidad de EducaciÃ³n Digital
+ - [https://mercurio.pascualbravo.edu.co](https://mercurio.pascualbravo.edu.co)
+ - date_published: 2024-06-12T11:28:15.432028+00:00
+
+ ## Inicio - Institución Universitaria Pascual Bravo
+ - [https://pascualbravo.edu.co](https://pascualbravo.edu.co)
+ - date_published: 2024-06-12T03:34:57.633125+00:00
+
+ ## Institucion Universitaria Pascual Bravo: Home
+ - [https://repositorio.pascualbravo.edu.co](https://repositorio.pascualbravo.edu.co)
+ - date_published: 2024-06-12T11:28:32.568514+00:00
+
+ ## Revista CINTEX
+ - [https://revistas.pascualbravo.edu.co](https://revistas.pascualbravo.edu.co)
+ - date_published: 2024-06-12T11:28:27.678794+00:00
+
+ ## SICAU - Acceso no autorizado
+ - [http://sicau.pascualbravo.edu.co](http://sicau.pascualbravo.edu.co)
+ - date_published: 2016-10-20T16:38:17+00:00
+
+ ## Campus Digital
+ - [https://pascualbravovirtual.edu.co](https://pascualbravovirtual.edu.co)
+ - date_published: 2024-06-12T11:28:12.198264+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [https://directorio.pedagogica.edu.co](https://directorio.pedagogica.edu.co)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [https://estilos.pedagogica.edu.co](https://estilos.pedagogica.edu.co)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Inicio | UPN
+ - [https://pqrsfd.pedagogica.edu.co](https://pqrsfd.pedagogica.edu.co)
+ - date_published: 2024-06-12T03:12:24.934979+00:00
+
+ ## UPN
+ - [https://www.pedagogica.edu.co](https://www.pedagogica.edu.co)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## | Politécnico Grancolombiano
+ - [https://poli.edu.co](https://poli.edu.co)
+ - date_published: 2024-06-12T12:15:01.726761+00:00
+
+ ## POLIDEPORTES
+ - [https://polideportes.poligran.edu.co](https://polideportes.poligran.edu.co)
+ - date_published: 2024-12-09T19:47:55.655329+00:00
+
+ ## Poliradio » PoliRadio
+ - [https://poliradio.poligran.edu.co](https://poliradio.poligran.edu.co)
+ - date_published: 2024-09-12T14:41:02.107180+00:00
+
+ ## Red RENATA - Red RENATA Red Nacional Académica de Tecnología Avanzada
+ - [http://www.renata.edu.co](http://www.renata.edu.co)
+ - date_published: 2024-12-09T18:28:17.457037+00:00
+
+ ## Fundación Universitaria San Mateo: Educación de calidad
+ - [https://sanmateo.edu.co](https://sanmateo.edu.co)
+ - date_published: 2024-09-11T16:51:57.822872+00:00
+
+ ## Santoto Virtual, Programas Virtuales
+ - [https://santotovirtual.edu.co](https://santotovirtual.edu.co)
+ - date_published: 2024-09-10T11:35:50.056661+00:00
+
  ## Servicio Nacional de Aprendizaje | SENA
  - [https://www.sena.edu.co](https://www.sena.edu.co)
  - date_published: 2024-12-10T05:17:24+00:00
@@ -3875,196 +4067,4 @@
  ## 1Win Colombia: Beneficios y Oportunidades de la Plataforma
  - [https://1win.net.co](https://1win.net.co)
  - date_published: 2024-12-03T01:32:30+00:00
-
- ## Index of /
- - [https://mirrors.atlas.net.co](https://mirrors.atlas.net.co)
- - date_published: 2024-08-19T22:20:22.020265+00:00
-
- ## twister | P2P microblogging platform
- - [http://twister.net.co](http://twister.net.co)
- - date_published: 2020-06-25T16:55:44+00:00
-
- ## Zimbra Web Client Sign In
- - [https://webmail.une.net.co](https://webmail.une.net.co)
- - date_published: 2024-12-10T12:15:26.717029+00:00
-
- ## Inicio - ACIET
- - [https://aciet.org.co](https://aciet.org.co)
- - date_published: 2022-11-24T21:20:52+00:00
-
- ## Inicio | AMI
- - [https://ami.org.co](https://ami.org.co)
- - date_published: 2024-06-11T23:30:39.656449+00:00
-
- ## AMV Colombia | Autorregulador del mercado de valores
- - [https://amvcolombia.org.co](https://amvcolombia.org.co)
- - date_published: 2024-12-09T16:58:09.822665+00:00
-
- ## Arquidiócesis de Bogotá
- - [https://arquibogota.org.co](https://arquibogota.org.co)
- - date_published: 2024-06-12T10:49:26.325041+00:00
-
- ## Arquidiócesis de Bogotá
- - [http://casaemaus.arquibogota.org.co](http://casaemaus.arquibogota.org.co)
- - date_published: 2024-09-11T01:07:22+00:00
-
- ## Arquidiócesis de Bogotá
- - [https://coordinacionvidaliturgicayoracion.arquibogota.org.co](https://coordinacionvidaliturgicayoracion.arquibogota.org.co)
- - date_published: 2024-09-11T01:46:24+00:00
-
- ## Arquidiócesis de Bogotá
- - [http://diaconadopermanente.arquibogota.org.co](http://diaconadopermanente.arquibogota.org.co)
- - date_published: 2024-09-11T01:07:22+00:00
-
- ## Arquidiócesis de Bogotá
- - [http://famig.arquibogota.org.co](http://famig.arquibogota.org.co)
- - date_published: 2024-09-11T00:50:06+00:00
-
- ## Arquidiócesis de Bogotá
- - [https://fundacionvalenzuelabalen.arquibogota.org.co](https://fundacionvalenzuelabalen.arquibogota.org.co)
- - date_published: 2024-09-11T01:07:22+00:00
-
- ## Arquidiócesis de Bogotá
- - [https://seab.arquibogota.org.co](https://seab.arquibogota.org.co)
- - date_published: 2024-06-12T03:15:49.203454+00:00
-
- ## Arquidiócesis de Bogotá
- - [https://vicariadeevangelizacion.arquibogota.org.co](https://vicariadeevangelizacion.arquibogota.org.co)
- - date_published: 2024-06-12T10:49:43.486280+00:00
-
- ## ASCUN Inicio - Asociación Colombiana de Universidades
- - [https://ascun.org.co](https://ascun.org.co)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Asocajas
- - [https://asocajas.org.co](https://asocajas.org.co)
- - date_published: 2024-06-12T11:29:28.464249+00:00
-
- ## Asocajas – Potencial sin límites
- - [http://congreso.asocajas.org.co](http://congreso.asocajas.org.co)
- - date_published: 2024-09-12T13:31:38.966775+00:00
-
- ## Eventos pensados para desarrollar tu potencial - Asocajas Formación / Eventos
- - [https://eventos.asocajas.org.co](https://eventos.asocajas.org.co)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Asociación de fiduciarias de Colombia | Inicio
- - [https://www.asofiduciarias.org.co](https://www.asofiduciarias.org.co)
- - date_published: 2024-12-09T16:58:30.302344+00:00
-
- ## Inicio
- - [https://www.bancodealimentos.org.co](https://www.bancodealimentos.org.co)
- - date_published: 2024-09-07T00:00:00+00:00
-
- ## CamaraBAQ
- - [http://www.camarabaq.org.co](http://www.camarabaq.org.co)
- - date_published: 2024-09-11T16:53:35.676614+00:00
-
- ## Biblioteca Digital CCB :: Inicio
- - [http://bibliotecadigital.ccb.org.co](http://bibliotecadigital.ccb.org.co)
- - date_published: 2024-09-11T16:52:01.491419+00:00
-
- ## Inicio de búsqueda
- - [https://centrodeconocimiento.ccb.org.co](https://centrodeconocimiento.ccb.org.co)
- - date_published: 2024-06-12T11:00:46.349489+00:00
-
- ## Cámara de Comercio de Bogotá
- - [https://www.ccb.org.co](https://www.ccb.org.co)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## Prueba Slider
- - [https://www.ccce.org.co](https://www.ccce.org.co)
- - date_published: 2024-12-09T15:51:54.335654+00:00
-
- ## Home - CCCS
- - [https://www.cccs.org.co](https://www.cccs.org.co)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## CCI Corporación Colombia Internacional – Sembramos a Colombia para el mundo
- - [http://www.cci.org.co](http://www.cci.org.co)
- - date_published: 2024-09-10T15:38:42.136846+00:00
-
- ## Inicio | Conferencia Episcopal de Colombia
- - [https://cec.org.co](https://cec.org.co)
- - date_published: 2024-06-12T10:49:05.202280+00:00
-
- ## ORDO COLOMBIANO | CONFERENCIA EPISCOPAL DE COLOMBIA
- - [http://web-ordo-colombiano.cec.org.co](http://web-ordo-colombiano.cec.org.co)
- - date_published: 2022-12-05T13:03:22+00:00
-
- ## Sínodo 2021 – 2023 – La Iglesia de Dios es convocada en Sínodo
- - [https://xn--snodo-zsa.cec.org.co](https://xn--snodo-zsa.cec.org.co)
- - date_published: 2024-09-11T01:45:57.551796+00:00
-
- ## Inicio
- - [https://cirugiaplastica.org.co](https://cirugiaplastica.org.co)
- - date_published: 2024-06-12T10:27:23.336333+00:00
-
- ## Ultimas Noticias
- - [http://www.confecamaras.org.co](http://www.confecamaras.org.co)
- - date_published: 2024-09-10T11:16:38+00:00
-
- ## Conservation Internacional Colombia
- - [https://www.conservation.org.co](https://www.conservation.org.co)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Conferencia de Religiosos de Colombia - Inicio
- - [https://www.crc.org.co](https://www.crc.org.co)
- - date_published: 2024-09-11T01:45:02+00:00
-
- ## Cámara colombiana de la edición independiente
- - [https://edicionindependiente.org.co](https://edicionindependiente.org.co)
- - date_published: 2023-12-20T10:14:18+00:00
-
- ## Espac – Escuela Parroquial  de Catequesistas
- - [http://espac.org.co](http://espac.org.co)
- - date_published: 2024-09-11T01:48:49.792928+00:00
-
- ## Inicio - Federación Colombiana de Municipios
- - [https://fcm.org.co](https://fcm.org.co)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Ventanilla Única Virtual
- - [https://pqrsdsimit.fcm.org.co](https://pqrsdsimit.fcm.org.co)
- - date_published: 2024-06-12T03:12:06.725614+00:00
-
- ## Ingreso
- - [https://simit.fcm.org.co](https://simit.fcm.org.co)
- - date_published: 2024-06-12T03:11:58.335188+00:00
-
- ## Federación Nacional de Industriales de la Madera
- - [http://fedemaderas.org.co](http://fedemaderas.org.co)
- - date_published: 2024-09-10T15:37:53.749447+00:00
-
- ## Fedesarrollo
- - [http://www.fedesarrollo.org.co](http://www.fedesarrollo.org.co)
- - date_published: 2024-09-11T16:52:09.857955+00:00
-
- ## Fides
- - [https://www.fides.org.co](https://www.fides.org.co)
- - date_published: 2024-06-12T14:23:13.398411+00:00
-
- ## Fundación para la Libertad de Prensa
- - [https://www.flip.org.co](https://www.flip.org.co)
- - date_published: 2024-09-10T23:32:49.964145+00:00
-
- ## Inicio | Federación Nacional de Departamentos
- - [https://www.fnd.org.co](https://www.fnd.org.co)
- - date_published: 2024-09-10T14:53:18.166418+00:00
-
- ## Foro Nacional por Colombia | +40 años, por una democracia viva y deliberante
- - [https://foro.org.co](https://foro.org.co)
- - date_published: 2024-06-11T23:45:49.802102+00:00
-
- ## Soy paciente
- - [https://fsfb.org.co](https://fsfb.org.co)
- - date_published: 2024-06-12T05:59:54.560892+00:00
-
- ## Inicio l Intervención social | Fundación Carvajal | Cali
- - [https://www.fundacioncarvajal.org.co](https://www.fundacioncarvajal.org.co)
- - date_published: 2024-09-10T23:58:01.560425+00:00
-
- ## Fundación El Nogal
- - [https://multimedia.fundacionelnogal.org.co](https://multimedia.fundacionelnogal.org.co)
- - date_published: 2024-06-12T11:27:23.214048+00:00
 

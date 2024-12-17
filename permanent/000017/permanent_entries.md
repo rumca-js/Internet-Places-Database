@@ -1,3 +1,99 @@
+ ## Cadastro do AcessoGovBr
+ - [https://cadastro.acesso.gov.br](https://cadastro.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:20+00:00
+
+ ## Acesso GovBR
+ - [https://contas.acesso.gov.br](https://contas.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:08+00:00
+
+ ## Empresas gov.br
+ - [https://empresas.acesso.gov.br](https://empresas.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:07+00:00
+
+ ## Portal Logado
+ - [https://servicos.acesso.gov.br](https://servicos.acesso.gov.br)
+ - date_published: 2024-01-04T17:39:50+00:00
+
+ ## Portal Logado
+ - [https://sso.acesso.gov.br](https://sso.acesso.gov.br)
+ - date_published: 2024-01-04T17:39:50+00:00
+
+ ## Home
+ - [http://acessoainformacao.gov.br](http://acessoainformacao.gov.br)
+ - date_published: 2024-07-20T11:20:25.505697+00:00
+
+ ## Banco Central do Brasil
+ - [https://bcb.gov.br](https://bcb.gov.br)
+ - date_published: 2024-05-12T04:09:19.217035+00:00
+
+ ## Banco Central do Brasil
+ - [https://cdn-www.bcb.gov.br](https://cdn-www.bcb.gov.br)
+ - date_published: 2024-07-09T21:25:25+00:00
+
+ ## Barra Brasil
+ - [http://barra.brasil.gov.br](http://barra.brasil.gov.br)
+ - date_published: 2023-12-07T13:59:42+00:00
+
+ ## GOV.BR
+ - [http://brasil.gov.br](http://brasil.gov.br)
+ - date_published: 2024-07-11T21:36:28.910171+00:00
+
+ ## CAIXA
+ - [http://www.caixa.gov.br](http://www.caixa.gov.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## CAPES 70 anos
+ - [https://70anos.capes.gov.br](https://70anos.capes.gov.br)
+ - date_published: 2021-10-08T14:02:24+00:00
+
+ ## CAPES 72 anos
+ - [https://72anos.capes.gov.br](https://72anos.capes.gov.br)
+ - date_published: 2023-07-27T21:23:34+00:00
+
+ ## CAPES - Catálogo de Atos Administrativos
+ - [http://cad.capes.gov.br](http://cad.capes.gov.br)
+ - date_published: 2023-08-17T01:00:08+00:00
+
+ ## CAPES
+ - [https://capes.gov.br](https://capes.gov.br)
+ - date_published: 2024-05-11T08:09:05.282834+00:00
+
+ ## Catálogo de Teses & Dissertações - CAPES
+ - [https://catalogodeteses.capes.gov.br](https://catalogodeteses.capes.gov.br)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Portal eduCapes:Inicio
+ - [https://educapes.capes.gov.br](https://educapes.capes.gov.br)
+ - date_published: 2024-07-13T18:16:46.473581+00:00
+
+ ## Plataforma Freire
+ - [https://freire.capes.gov.br](https://freire.capes.gov.br)
+ - date_published: 2024-07-12T20:37:56+00:00
+
+ ## GEOCAPES
+ - [https://geocapes.capes.gov.br](https://geocapes.capes.gov.br)
+ - date_published: 2023-10-17T19:08:16+00:00
+
+ ## Declaração de Rendimentos
+ - [https://informerendimentos.capes.gov.br](https://informerendimentos.capes.gov.br)
+ - date_published: 2024-07-13T18:17:34.875432+00:00
+
+ ## Revista Brasileira de Pós-Graduação
+ - [https://rbpg.capes.gov.br](https://rbpg.capes.gov.br)
+ - date_published: 2024-07-13T18:17:09.761963+00:00
+
+ ## Plataforma Sucupira
+ - [https://sucupira.capes.gov.br](https://sucupira.capes.gov.br)
+ - date_published: 2024-07-13T18:16:50.909184+00:00
+
+ ## Portal .periodicos. CAPES - Portal .periodicos. CAPES
+ - [https://www.periodicos.capes.gov.br](https://www.periodicos.capes.gov.br)
+ - date_published: 2024-07-07T06:41:55+00:00
+
+ ## Central de Painéis
+ - [https://centralpaineis.cgu.gov.br](https://centralpaineis.cgu.gov.br)
+ - date_published: 2023-10-29T14:11:31+00:00
+
  ## e-Agendas - Sistema Eletrônico de Agendas do Poder Executivo Federal
  - [https://eagendas.cgu.gov.br](https://eagendas.cgu.gov.br)
  - date_published: 2024-05-10T00:00:00+00:00
@@ -1848,6 +1944,10 @@
  ## STACK – Library
  - [https://stack.cld.bz](https://stack.cld.bz)
  - date_published: 2024-06-16T17:23:03.102241+00:00
+
+ ## user-Jl6ZMuz – Library
+ - [https://user-jl6zmuz.cld.bz](https://user-jl6zmuz.cld.bz)
+ - date_published: 2024-12-16T13:10:19.730014+00:00
 
  ## Discover Belize with Belize Exotic Adventures – Belize Tours, Cave Tubing, Rainforest Tours, ATV Tours, Zipline Tours, Mayan Temples and Ruins
  - [https://www.discoverbelize.bz](https://www.discoverbelize.bz)
@@ -3701,6 +3801,10 @@
  - [https://calotte.ca](https://calotte.ca)
  - date_published: 2024-08-07T20:02:28+00:00
 
+ ## Cambridge Ontario Hotel | Hotels in Cambridge Ontario | Cambridge Hotel and Conference Centre
+ - [https://www.cambridgehotel.ca](https://www.cambridgehotel.ca)
+ - date_published: 2024-12-16T12:59:02.433917+00:00
+
  ## Cam Champ
  - [https://camchamp.ca](https://camchamp.ca)
  - date_published: 2023-03-16T00:00:00+00:00
@@ -3913,109 +4017,4 @@
  ## Dr. Carin Bondar - Biologist with a Twist
  - [https://carinbondar.ca](https://carinbondar.ca)
  - date_published: 2024-10-19T06:26:22.302932+00:00
-
- ## Home - Canadian Association of Research Libraries
- - [https://www.carl-abrc.ca](https://www.carl-abrc.ca)
- - date_published: 2024-10-22T21:49:47.733594+00:00
-
- ## Carleton 360
- - [https://360.carleton.ca](https://360.carleton.ca)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Undergraduate Admissions - Carleton University
- - [https://admissions.carleton.ca](https://admissions.carleton.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Carleton Alumni | Carleton University
- - [https://alumni.carleton.ca](https://alumni.carleton.ca)
- - date_published: 2024-07-08T16:37:07.342967+00:00
-
- ## Carleton Athletics | Carleton University
- - [https://athletics.carleton.ca](https://athletics.carleton.ca)
- - date_published: 2024-07-08T16:36:58.908517+00:00
-
- ## Sign In
- - [https://brightspace.carleton.ca](https://brightspace.carleton.ca)
- - date_published: 2024-07-08T16:37:14.924044+00:00
-
- ## Calendars < Carleton University
- - [https://calendar.carleton.ca](https://calendar.carleton.ca)
- - date_published: 2024-06-07T20:10:37+00:00
-
- ## Carleton University
- - [https://carleton.ca](https://carleton.ca)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Dining Services | Carleton University
- - [https://dining.carleton.ca](https://dining.carleton.ca)
- - date_published: 2024-07-08T16:37:03.593692+00:00
-
- ## Events Calendar - Carleton University
- - [https://events.carleton.ca](https://events.carleton.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Carleton FutureFunder
- - [https://futurefunder.carleton.ca](https://futurefunder.carleton.ca)
- - date_published: 2024-07-08T16:37:19.054705+00:00
-
- ## Current Grad Students | Carleton University
- - [https://gradstudents.carleton.ca](https://gradstudents.carleton.ca)
- - date_published: 2024-07-08T16:37:23.287082+00:00
-
- ## Graduate Admissions | Carleton University
- - [https://graduate.carleton.ca](https://graduate.carleton.ca)
- - date_published: 2024-07-08T16:37:26.661515+00:00
-
- ## HotSoft: Software as Interactive Media at Carleton University
- - [http://hotsoft.carleton.ca](http://hotsoft.carleton.ca)
- - date_published: 2024-06-23T20:38:14.826096+00:00
-
- ## Housing and Residence Life Services - Carleton University
- - [https://housing.carleton.ca](https://housing.carleton.ca)
- - date_published: 2024-07-08T16:36:55.808723+00:00
-
- ## Hub for Good - Carleton University
- - [https://hubforgood.carleton.ca](https://hubforgood.carleton.ca)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Sign In
- - [https://i.carleton.ca](https://i.carleton.ca)
- - date_published: 2024-07-08T16:37:12.748153+00:00
-
- ## MacOdrum Library | Carleton University
- - [https://library.carleton.ca](https://library.carleton.ca)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Carleton Newsroom | Carleton University
- - [https://newsroom.carleton.ca](https://newsroom.carleton.ca)
- - date_published: 2024-07-08T16:37:01.121040+00:00
-
- ## Research – Carleton University
- - [https://research.carleton.ca](https://research.carleton.ca)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Current Students - Carleton University : Current Students
- - [https://students.carleton.ca](https://students.carleton.ca)
- - date_published: 2024-07-08T16:36:53.357835+00:00
-
- ## Carleton Computer Security Lab (CCSL)
- - [https://www.ccsl.carleton.ca](https://www.ccsl.carleton.ca)
- - date_published: 2023-05-31T02:29:08+00:00
-
- ## Chris Carlier
- - [https://carlier.ca](https://carlier.ca)
- - date_published: 2023-12-28T18:49:41.221395+00:00
- - tags: ['personal']
-
- ## Carlo Franco
- - [http://www.carlofranco.ca](http://www.carlofranco.ca)
- - date_published: 2014-03-26T00:00:00+00:00
-
- ## Carson Brown
- - [https://carsonbrown.ca](https://carsonbrown.ca)
- - date_published: 2024-08-07T20:03:44.004535+00:00
-
- ## Home | Cartoon Network
- - [http://www.cartoonnetwork.ca](http://www.cartoonnetwork.ca)
- - date_published: 2024-10-23T10:20:09.435032+00:00
 

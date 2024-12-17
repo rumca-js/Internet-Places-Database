@@ -1,3 +1,320 @@
+ ## ALTAR PROGRESSIVE
+ - [https://altar-progressive.bandcamp.com](https://altar-progressive.bandcamp.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Altar-Records-Europe
+ - [https://altar-records-europe.bandcamp.com](https://altar-records-europe.bandcamp.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## ALTAR RELAX
+ - [https://altar-relax.bandcamp.com](https://altar-relax.bandcamp.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## A  L  T  E  R
+ - [https://alter.bandcamp.com](https://alter.bandcamp.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Altin Gün
+ - [https://altingunband.bandcamp.com](https://altingunband.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Blue Rev, by Alvvays
+ - [https://alvvays.bandcamp.com](https://alvvays.bandcamp.com)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Aly Tadros
+ - [http://alytadros.bandcamp.com](http://alytadros.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Amek Collective
+ - [http://amekcollective.bandcamp.com](http://amekcollective.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Amidah Records
+ - [https://amidahrecords.bandcamp.com](https://amidahrecords.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Six to Eight, by Amongst Wolves
+ - [http://amongstwolves.bandcamp.com](http://amongstwolves.bandcamp.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Amplifi
+ - [https://amplifi.bandcamp.com](https://amplifi.bandcamp.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Analog Africa
+ - [https://analogafrica.bandcamp.com](https://analogafrica.bandcamp.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Artists | Analog Revolution
+ - [https://analogrevolution.bandcamp.com](https://analogrevolution.bandcamp.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## AnalogueTrash
+ - [https://analoguetrash.bandcamp.com](https://analoguetrash.bandcamp.com)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## An'archives
+ - [https://anarchiveslabel.bandcamp.com](https://anarchiveslabel.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Fear Not, by Anareta
+ - [https://anareta.bandcamp.com](https://anareta.bandcamp.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Anders Jakobsen
+ - [https://andersjakobsen.bandcamp.com](https://andersjakobsen.bandcamp.com)
+ - date_published: 2024-10-22T20:19:05.144199+00:00
+
+ ## André Obin
+ - [https://andreobin.bandcamp.com](https://andreobin.bandcamp.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Andres Roots
+ - [https://andresroots.bandcamp.com](https://andresroots.bandcamp.com)
+ - date_published: 2024-10-17T12:04:38.600226+00:00
+
+ ## Mr.Brown's Studio Sessions Volume 3, by Andrew Edward Brown
+ - [https://andrewedwardbrown.bandcamp.com](https://andrewedwardbrown.bandcamp.com)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Angela Winter
+ - [https://angelawinter.bandcamp.com](https://angelawinter.bandcamp.com)
+ - date_published: 2024-08-18T03:03:59.961357+00:00
+
+ ## Bola del Desierto [AR001-DDNS08], by Bola del Desierto
+ - [https://animahrecords.bandcamp.com](https://animahrecords.bandcamp.com)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Annabel Lee
+ - [https://annabelleeband.bandcamp.com](https://annabelleeband.bandcamp.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Te Whakamiha, by Anna Coddington
+ - [https://annacoddington.bandcamp.com](https://annacoddington.bandcamp.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Another Timbre
+ - [https://anothertimbre.bandcamp.com](https://anothertimbre.bandcamp.com)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## antennasia
+ - [https://antennasia.bandcamp.com](https://antennasia.bandcamp.com)
+ - date_published: 2024-06-30T06:26:47.108172+00:00
+
+ ## Anti-Lilly & Phoniks
+ - [https://antilillyandphoniks.bandcamp.com](https://antilillyandphoniks.bandcamp.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Antiquated Future Records
+ - [https://antiquatedfuture.bandcamp.com](https://antiquatedfuture.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Antonina Nowacka
+ - [https://antoninanowacka.bandcamp.com](https://antoninanowacka.bandcamp.com)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Antonio Adolfo
+ - [https://antonioadolfo.bandcamp.com](https://antonioadolfo.bandcamp.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Aphasia Records
+ - [https://aphasiarecords.bandcamp.com](https://aphasiarecords.bandcamp.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Aphex Twin
+ - [https://aphextwin.bandcamp.com](https://aphextwin.bandcamp.com)
+ - date_published: 2024-12-07T16:21:37.249767+00:00
+
+ ## Apollo Brown
+ - [https://apollobrown360.bandcamp.com](https://apollobrown360.bandcamp.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Apply Triangle
+ - [https://applytriangle.bandcamp.com](https://applytriangle.bandcamp.com)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Appraiser
+ - [https://appraiser.bandcamp.com](https://appraiser.bandcamp.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## ROBERT STILLMAN
+ - [https://archaicfuturerecordings.bandcamp.com](https://archaicfuturerecordings.bandcamp.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## lightheaded
+ - [https://areyoufeelinglightheaded.bandcamp.com](https://areyoufeelinglightheaded.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Ariahindream
+ - [https://ariahindream.bandcamp.com](https://ariahindream.bandcamp.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Arkady Rose
+ - [https://arkadyrose.bandcamp.com](https://arkadyrose.bandcamp.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Armen Nalbandian
+ - [https://armennalbandian.bandcamp.com](https://armennalbandian.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Memory Color
+ - [https://arouralrecords.bandcamp.com](https://arouralrecords.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Hopscotch Fever, by Artificial Go
+ - [https://artificialgo.bandcamp.com](https://artificialgo.bandcamp.com)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Art-X
+ - [https://artx.bandcamp.com](https://artx.bandcamp.com)
+ - date_published: 2024-11-05T17:12:25.196325+00:00
+
+ ## Merch from Ash Code
+ - [https://ashcode.bandcamp.com](https://ashcode.bandcamp.com)
+ - date_published: 2024-06-18T16:25:00.546804+00:00
+
+ ## A Shell in the Pit
+ - [https://ashellinthepit.bandcamp.com](https://ashellinthepit.bandcamp.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Ash International
+ - [https://ashinternational.bandcamp.com](https://ashinternational.bandcamp.com)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Ash Wednesday
+ - [https://ashwednesday2.bandcamp.com](https://ashwednesday2.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## A Space Love Adventure
+ - [https://aspaceloveadventure.bandcamp.com](https://aspaceloveadventure.bandcamp.com)
+ - date_published: 2024-12-07T17:54:06.598070+00:00
+
+ ## Assemblage 23
+ - [http://assemblage23.bandcamp.com](http://assemblage23.bandcamp.com)
+ - date_published: 2024-06-30T07:51:55.221459+00:00
+
+ ## Astral Industries
+ - [https://astralindustries.bandcamp.com](https://astralindustries.bandcamp.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## At 1980
+ - [https://at1980.bandcamp.com](https://at1980.bandcamp.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## A Taut Line
+ - [https://atautline.bandcamp.com](https://atautline.bandcamp.com)
+ - date_published: 2024-10-22T20:17:39.034449+00:00
+
+ ## atomic bongos
+ - [https://atomicbongos.bandcamp.com](https://atomicbongos.bandcamp.com)
+ - date_published: 2024-10-29T13:58:55.140654+00:00
+
+ ## Artists | ATO
+ - [https://atorecords.bandcamp.com](https://atorecords.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Audile Snow
+ - [http://audilesnow.bandcamp.com](http://audilesnow.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## AudioTong
+ - [http://audiotong.bandcamp.com](http://audiotong.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Auditive Escape
+ - [http://auditiveescape.bandcamp.com](http://auditiveescape.bandcamp.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Pantaleimon Speaks / Lynx, by Augrimmer
+ - [https://augrimmer.bandcamp.com](https://augrimmer.bandcamp.com)
+ - date_published: 2024-12-14T23:10:27.636410+00:00
+
+ ## Illusive Golden Age, by Augury
+ - [https://augurymetal.bandcamp.com](https://augurymetal.bandcamp.com)
+ - date_published: 2024-06-21T22:11:00.133914+00:00
+
+ ## AUM Fidelity
+ - [https://aumfidelity.bandcamp.com](https://aumfidelity.bandcamp.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## The Abyss, by Austin Ross
+ - [https://austinross.bandcamp.com](https://austinross.bandcamp.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Austin Wintory
+ - [http://austinwintory.bandcamp.com](http://austinwintory.bandcamp.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Talitakum, by Avalanche Kaito
+ - [https://avalanchekaito.bandcamp.com](https://avalanchekaito.bandcamp.com)
+ - date_published: 2024-12-07T14:13:36.392175+00:00
+
+ ## Avantgarde Music
+ - [https://avantgardemusic.bandcamp.com](https://avantgardemusic.bandcamp.com)
+ - date_published: 2024-12-14T23:09:37.403745+00:00
+
+ ## Avernal
+ - [https://avernal.bandcamp.com](https://avernal.bandcamp.com)
+ - date_published: 2024-12-14T23:09:54.438862+00:00
+
+ ## AYOM
+ - [https://ayommusic.bandcamp.com](https://ayommusic.bandcamp.com)
+ - date_published: 2024-12-10T21:09:34.008908+00:00
+
+ ## Baba Vanga
+ - [https://babavanga.bandcamp.com](https://babavanga.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Baba Zula - İstanbul Sokakları, by Baba Zula
+ - [https://baba-zula.bandcamp.com](https://baba-zula.bandcamp.com)
+ - date_published: 2024-12-10T21:09:38.650716+00:00
+
+ ## bab creat musc
+ - [https://bab-be-u.bandcamp.com](https://bab-be-u.bandcamp.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Bab L' Bluz
+ - [https://bablbluz.bandcamp.com](https://bablbluz.bandcamp.com)
+ - date_published: 2024-06-26T07:20:48.414081+00:00
+
+ ## Bartosz, by Bachorze
+ - [https://bachorze.bandcamp.com](https://bachorze.bandcamp.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Ba Da Bing Records
+ - [https://badabingrecords.bandcamp.com](https://badabingrecords.bandcamp.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Mid Spiral, by BADBADNOTGOOD
+ - [https://badbadnotgoodofficial.bandcamp.com](https://badbadnotgoodofficial.bandcamp.com)
+ - date_published: 2024-07-14T09:42:47.889520+00:00
+
+ ## Mint Park aka BAKÁH
+ - [https://bakah-mint.bandcamp.com](https://bakah-mint.bandcamp.com)
+ - date_published: 2024-12-12T17:26:44.182821+00:00
+
+ ## Symphony of Sirens, by Baku
+ - [https://bakusymphony.bandcamp.com](https://bakusymphony.bandcamp.com)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Balearic
+ - [https://balearic.bandcamp.com](https://balearic.bandcamp.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Balmat
+ - [https://balmat.bandcamp.com](https://balmat.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Bana Haffar
+ - [https://banahaffarreleases.bandcamp.com](https://banahaffarreleases.bandcamp.com)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Bandcamp
+ - [https://bandcamp.com](https://bandcamp.com)
+ - date_published: 2023-11-13T09:21:59.175085+00:00
+ - tags: ['monetization', 'crowdfunding', 'creator platform', 'music', 'social media']
+
  ## Bandikoot in Dub
  - [https://bandikootindub.bandcamp.com](https://bandikootindub.bandcamp.com)
  - date_published: 2024-11-05T17:12:34.368371+00:00
@@ -3683,320 +4000,4 @@
  ## PS2, by Parallax Scrolls
  - [https://parallaxscrolls.bandcamp.com](https://parallaxscrolls.bandcamp.com)
  - date_published: 2024-10-17T22:07:15.314641+00:00
-
- ## Patalax (Pawlacz Perski Sublabel)
- - [https://patalax.bandcamp.com](https://patalax.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Patrice Bourgeault
- - [https://patricebourgeault.bandcamp.com](https://patricebourgeault.bandcamp.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Patricia Taxxon
- - [https://patriciataxxon.bandcamp.com](https://patriciataxxon.bandcamp.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Patrick Conway
- - [https://patrickconway.bandcamp.com](https://patrickconway.bandcamp.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Pawlacz Perski
- - [https://pawlaczperski.bandcamp.com](https://pawlaczperski.bandcamp.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Normal Life, by Pawl Jefferson
- - [https://pawljefferson.bandcamp.com](https://pawljefferson.bandcamp.com)
- - date_published: 2024-10-17T22:09:42.983137+00:00
-
- ## PC Music
- - [https://pcmusic.bandcamp.com](https://pcmusic.bandcamp.com)
- - date_published: 2024-10-22T22:13:51.372346+00:00
-
- ## CANTES MALDITOS, by PEDRO DE DIOS & ANTONIO FERNANDEZ
- - [https://pedrodediosantoniofernandez.bandcamp.com](https://pedrodediosantoniofernandez.bandcamp.com)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## BM015 - New World Energy, by Pegasvs
- - [https://pegasvs.bandcamp.com](https://pegasvs.bandcamp.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## PENPALS
- - [https://pen-pals.bandcamp.com](https://pen-pals.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Pernice Brothers
- - [https://pernicebrothers.bandcamp.com](https://pernicebrothers.bandcamp.com)
- - date_published: 2024-07-19T20:30:49.634103+00:00
-
- ## Perpetual Doom
- - [https://perpetualdoom.bandcamp.com](https://perpetualdoom.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Lustful Sacraments, by PERTURBATOR
- - [https://perturbator.bandcamp.com](https://perturbator.bandcamp.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Peruvian Sleep
- - [https://peruviansleep.bandcamp.com](https://peruviansleep.bandcamp.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Pete Astor
- - [https://peteastor1.bandcamp.com](https://peteastor1.bandcamp.com)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## Subscribe to Peter Gabriel
- - [https://petergabriel.bandcamp.com](https://petergabriel.bandcamp.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Petite League
- - [https://petiteleague.bandcamp.com](https://petiteleague.bandcamp.com)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Peyote Tapes
- - [https://peyotetapes.bandcamp.com](https://peyotetapes.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Phil Haynes
- - [https://philhaynesmusic.bandcamp.com](https://philhaynesmusic.bandcamp.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Philip Age
- - [https://philipage.bandcamp.com](https://philipage.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Philip Jeck
- - [https://philipjeck.bandcamp.com](https://philipjeck.bandcamp.com)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Sorry State, by Philip Labes
- - [https://philiplabes.bandcamp.com](https://philiplabes.bandcamp.com)
- - date_published: 2024-12-13T11:12:39.034363+00:00
-
- ## Phill Niblock
- - [https://phillniblock.bandcamp.com](https://phillniblock.bandcamp.com)
- - date_published: 2024-07-21T03:49:13.395549+00:00
-
- ## So Much Wine, by Phoebe Bridgers
- - [https://phoebebridgers.bandcamp.com](https://phoebebridgers.bandcamp.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Under the Shadow of a Foreign Sun, by Piah Mater
- - [https://piahmater.bandcamp.com](https://piahmater.bandcamp.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Pickle Darling
- - [https://pickledarling.bandcamp.com](https://pickledarling.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Pigeon
- - [https://pigeon4.bandcamp.com](https://pigeon4.bandcamp.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Pihka Is My Name
- - [https://pihkaismyname.bandcamp.com](https://pihkaismyname.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Piotr Kurek
- - [https://piotrkurek.bandcamp.com](https://piotrkurek.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Old Thread, by Pious Faults
- - [https://piousfaultsaus.bandcamp.com](https://piousfaultsaus.bandcamp.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Past Inside the Present
- - [https://pitp.bandcamp.com](https://pitp.bandcamp.com)
- - date_published: 2024-08-18T03:04:04.943580+00:00
-
- ## 0 A.D. (Original Game Soundtrack), by Omri Lahav
- - [https://play0ad.bandcamp.com](https://play0ad.bandcamp.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Plaża Zachodnia
- - [https://plazach.bandcamp.com](https://plazach.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Pleasant Mob
- - [https://pleasantmob.bandcamp.com](https://pleasantmob.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Please Feed My Records
- - [https://pleasefeedmyrecords.bandcamp.com](https://pleasefeedmyrecords.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## The EPs of PL, by Pleasure Leftists
- - [https://pleasureleftists.bandcamp.com](https://pleasureleftists.bandcamp.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Plexus Of Infinity
- - [https://plexusofinfinity.bandcamp.com](https://plexusofinfinity.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Another Pobbles Christmas (Unwrapped), by POBBLES
- - [https://pobbles.bandcamp.com](https://pobbles.bandcamp.com)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## Streets Ahead, by Pocaille
- - [https://pocaille.bandcamp.com](https://pocaille.bandcamp.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Pogo
- - [https://pogomix.bandcamp.com](https://pogomix.bandcamp.com)
- - date_published: 2024-12-04T20:28:55.059006+00:00
-
- ## Pointless Geometry
- - [https://pointless-geometry.bandcamp.com](https://pointless-geometry.bandcamp.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Mirror Starts Moving Without Me, by Pom Pom Squad
- - [https://pompomsquad.bandcamp.com](https://pompomsquad.bandcamp.com)
- - date_published: 2024-09-13T17:12:07.204307+00:00
-
- ## Niestety nie da się olać systemu, by Poradnia G
- - [https://poradniag.bandcamp.com](https://poradniag.bandcamp.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Porter Ray
- - [http://porterray.bandcamp.com](http://porterray.bandcamp.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Powderpaint
- - [https://powderpaint.bandcamp.com](https://powderpaint.bandcamp.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Power
- - [https://powermelbourne.bandcamp.com](https://powermelbourne.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## POWERNERD
- - [https://powernerd.bandcamp.com](https://powernerd.bandcamp.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Live in Seattle 05​/​28​/2018, by Power Trip
- - [https://powertripsl.bandcamp.com](https://powertripsl.bandcamp.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Everyone Laughs, by Powerwasher
- - [https://powerwasher.bandcamp.com](https://powerwasher.bandcamp.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Practical Records
- - [https://practicalrecords.bandcamp.com](https://practicalrecords.bandcamp.com)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Prado Records
- - [https://pradorecords.bandcamp.com](https://pradorecords.bandcamp.com)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## Precious Recordings of London
- - [https://preciousrecordingsoflondon.bandcamp.com](https://preciousrecordingsoflondon.bandcamp.com)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## pregnant mutant
- - [http://pregnantmutant.bandcamp.com](http://pregnantmutant.bandcamp.com)
- - date_published: 2024-12-11T07:52:57.183439+00:00
-
- ## Pressure Sounds
- - [https://pressuresounds.bandcamp.com](https://pressuresounds.bandcamp.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Palace of Bones (REMIX), by Priestusssy
- - [https://priestusssy.bandcamp.com](https://priestusssy.bandcamp.com)
- - date_published: 2024-12-12T17:26:32.098881+00:00
-
- ## hot lava, by Prima
- - [https://prima1.bandcamp.com](https://prima1.bandcamp.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Private Lives
- - [https://privatelivesmtl.bandcamp.com](https://privatelivesmtl.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Merch from Private Selection Records
- - [https://privateselection.bandcamp.com](https://privateselection.bandcamp.com)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Prom Queen
- - [https://promqueenband.bandcamp.com](https://promqueenband.bandcamp.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Poison Future, by protruders
- - [https://protruders.bandcamp.com](https://protruders.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## PSSNGЯ
- - [https://pssngr.bandcamp.com](https://pssngr.bandcamp.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Wormhole Waiting Room, by psyaknob
- - [https://psyaknob.bandcamp.com](https://psyaknob.bandcamp.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Psychemagik
- - [https://psychemagik.bandcamp.com](https://psychemagik.bandcamp.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## That's How It Starts, by Hanna Schmidt
- - [https://pushkinsprefers.bandcamp.com](https://pushkinsprefers.bandcamp.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Pye Corner Audio
- - [https://pyecorneraudio.bandcamp.com](https://pyecorneraudio.bandcamp.com)
- - date_published: 2024-08-18T09:07:42.181393+00:00
-
- ## AUDIOTOTEMPOLE, by Q-Burns Abstract Message
- - [https://qburns.bandcamp.com](https://qburns.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## QENDRESA
- - [https://qendresa.bandcamp.com](https://qendresa.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Qlowski
- - [https://qlowski.bandcamp.com](https://qlowski.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Quaker Parents
- - [https://quakerparents.bandcamp.com](https://quakerparents.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Queen City Sounds Podcast
- - [https://queencitysoundspodcast.bandcamp.com](https://queencitysoundspodcast.bandcamp.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Oyster Cuts, by Quivers
- - [https://quiversss.bandcamp.com](https://quiversss.bandcamp.com)
- - date_published: 2024-06-15T03:57:48.153025+00:00
-
- ## Artists | Rabid Records
- - [https://rabidrecords.bandcamp.com](https://rabidrecords.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Rachel Kiel
- - [https://rachelkiel.bandcamp.com](https://rachelkiel.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Rachika Nayar
- - [https://rachika.bandcamp.com](https://rachika.bandcamp.com)
- - date_published: 2024-08-18T09:09:41.827607+00:00
-
- ## Rad Cult
- - [https://radcult.bandcamp.com](https://radcult.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Lena Raine
- - [https://radicaldreamland.bandcamp.com](https://radicaldreamland.bandcamp.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Infinite Roots Vol.2, by Radius Etc
- - [https://radiusetc.bandcamp.com](https://radiusetc.bandcamp.com)
- - date_published: 2024-06-30T06:11:02.052868+00:00
-
- ## Confessions of the Unconscious Mind, by Rad Magma
- - [https://radmagma.bandcamp.com](https://radmagma.bandcamp.com)
- - date_published: 2024-09-01T00:00:00+00:00
-
- ## Ragani
- - [https://ragani.bandcamp.com](https://ragani.bandcamp.com)
- - date_published: 2024-05-10T00:00:00+00:00
 

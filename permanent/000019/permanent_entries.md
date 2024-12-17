@@ -1,3 +1,107 @@
+ ## @luqman
+ - [https://luqman.ca](https://luqman.ca)
+ - date_published: 2022-11-15T03:27:24+00:00
+
+ ## Luuk van Baars - Portfolio
+ - [http://luuk.ca](http://luuk.ca)
+ - date_published: 2023-07-06T13:04:26+00:00
+
+ ## Lost Wizard Enterprises Incorporated
+ - [http://www.l-w.ca](http://www.l-w.ca)
+ - date_published: 2021-11-02T18:41:36+00:00
+
+ ## The Macdonald-Laurier Institute
+ - [https://macdonaldlaurier.ca](https://macdonaldlaurier.ca)
+ - date_published: 2023-10-25T12:05:29.853121+00:00
+
+ ## ezProxy Login Redirect
+ - [https://ezproxy.macewan.ca](https://ezproxy.macewan.ca)
+ - date_published: 2024-06-30T01:30:38.353424+00:00
+
+ ## Macleans.ca - Canada’s magazine
+ - [https://macleans.ca](https://macleans.ca)
+ - date_published: 2023-10-25T12:05:41.174712+00:00
+
+ ## Mactracker - Get info on any Mac
+ - [https://mactracker.ca](https://mactracker.ca)
+ - date_published: 2024-08-04T02:44:11+00:00
+
+ ## Madrona Grove
+ - [https://madrona.ca](https://madrona.ca)
+ - date_published: 2024-01-09T01:36:41.563745+00:00
+
+ ## Magenta Health
+ - [https://www.magentahealth.ca](https://www.magentahealth.ca)
+ - date_published: 2024-07-12T20:29:49.279552+00:00
+
+ ## Fabian Rodriguez, « MagicFab » | GNU/Linux and free open source software consulting, training and conferences in Montreal, Quebec, Canada
+ - [https://magicfab.ca](https://magicfab.ca)
+ - date_published: 2022-07-10T23:07:57+00:00
+
+ ## Top 5 Top 5 Toronto Maids for 2020 | Maids.ca Plumbers and Plumbing Contractors for 2020 | Maids.ca
+ - [http://www.maids.ca](http://www.maids.ca)
+ - date_published: 2024-06-29T17:36:38.307913+00:00
+
+ ## Writer | Filmmaker • Mailyne K. Briggs
+ - [https://mailyne.ca](https://mailyne.ca)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## Homepage - Mainframe Studios
+ - [https://www.mainframe.ca](https://www.mainframe.ca)
+ - date_published: 2024-10-26T15:06:26.957988+00:00
+
+ ## First to be published
+ - [https://makevotesequal.ca](https://makevotesequal.ca)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Apps & Websites - Chris Mallinson
+ - [http://mallinson.ca](http://mallinson.ca)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Province of Manitoba | Home Page
+ - [https://manitoba.ca](https://manitoba.ca)
+ - date_published: 2024-04-30T05:32:54.961213+00:00
+
+ ## Manitoba 511
+ - [https://www.manitoba511.ca](https://www.manitoba511.ca)
+ - date_published: 2024-07-21T07:55:21.570601+00:00
+
+ ## Manitoba Advocate
+ - [http://manitobaadvocate.ca](http://manitobaadvocate.ca)
+ - date_published: 2024-08-06T18:02:56.873489+00:00
+
+ ## Manitoba Lieutenant Governor
+ - [http://manitobalg.ca](http://manitobalg.ca)
+ - date_published: 2024-08-10T23:03:06.390420+00:00
+
+ ## Manna Food Bank
+ - [https://mannafoodbank.ca](https://mannafoodbank.ca)
+ - date_published: 2024-10-17T23:22:57.834377+00:00
+
+ ## Manufacturing Jobs Canada Dev
+ - [https://www.manufacturingjobsite.ca](https://www.manufacturingjobsite.ca)
+ - date_published: 2024-10-15T17:36:47.227016+00:00
+
+ ## Public landing page | Manulife Advisors
+ - [https://advisor.manulife.ca](https://advisor.manulife.ca)
+ - date_published: 2024-10-07T19:22:58.854976+00:00
+
+ ## Manulife CIAM
+ - [https://id.manulife.ca](https://id.manulife.ca)
+ - date_published: 1985-10-26T08:15:00+00:00
+
+ ## Manulife Securities
+ - [https://manulifesecurities.manulife.ca](https://manulifesecurities.manulife.ca)
+ - date_published: 2024-10-07T19:26:20.302119+00:00
+
+ ## Manulife Customer Portal
+ - [https://portal.manulife.ca](https://portal.manulife.ca)
+ - date_published: 2024-06-16T13:09:10.118765+00:00
+
+ ## Manulife - Insurance & investment solutions for you
+ - [https://www.manulife.ca](https://www.manulife.ca)
+ - date_published: 2024-05-01T06:47:53.869054+00:00
+
  ## Online Personal Banking | Manulife Bank
  - [https://www.manulifebank.ca](https://www.manulifebank.ca)
  - date_published: 2024-05-01T07:04:12.173605+00:00
@@ -3343,6 +3447,7 @@
  ## SkyNews | Canada’s astronomy & space news | Where Earth Meets Sky
  - [https://skynews.ca](https://skynews.ca)
  - date_published: 2023-10-25T10:24:38.913027+00:00
+ - date_dead_since: 2024-12-16T10:48:16.916696+00:00
 
  ## Skyscanner
  - [https://www.skyscanner.ca](https://www.skyscanner.ca)
@@ -3803,6 +3908,10 @@
  - date_published: 2024-02-11T05:02:26.143775+00:00
  - tags: ['personal']
 
+ ## Tapestry Hall
+ - [https://www.tapestryhall.ca](https://www.tapestryhall.ca)
+ - date_published: 2024-12-16T10:55:39+00:00
+
  ## Tarzana and Tarzana Ranch, California
  - [https://tarzana.ca](https://tarzana.ca)
  - date_published: 2019-01-24T20:47:24+00:00
@@ -3927,113 +4036,4 @@
  ## The Hub | More Signal. Less Noise.
  - [https://thehub.ca](https://thehub.ca)
  - date_published: 2023-10-25T12:12:13.121688+00:00
-
- ## Institute of Canadian Agencies
- - [http://theica.ca](http://theica.ca)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## The Impact Project
- - [https://www.theimpactproject.ca](https://www.theimpactproject.ca)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## The Independent
- - [https://theindependent.ca](https://theindependent.ca)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## The Inside Line  - Calgary Mountain Bike Shop
- - [https://theinsideline.ca](https://theinsideline.ca)
- - date_published: 2024-06-15T11:58:37.525844+00:00
-
- ## Burnaby Now LocalPROS
- - [https://burnaby.thelocalpros.ca](https://burnaby.thelocalpros.ca)
- - date_published: 2024-06-27T12:56:24.257522+00:00
-
- ## New West Record LocalPROS
- - [https://newwest.thelocalpros.ca](https://newwest.thelocalpros.ca)
- - date_published: 2024-06-27T12:55:00.010020+00:00
-
- ## Tri-City News LocalPROS
- - [https://tricities.thelocalpros.ca](https://tricities.thelocalpros.ca)
- - date_published: 2024-06-27T12:52:22.317924+00:00
-
- ## Mural of Honour - Mural of Honour
- - [https://mural.themilitarymuseums.ca](https://mural.themilitarymuseums.ca)
- - date_published: 2024-10-17T18:26:17.320873+00:00
-
- ## The Military Museums - The Military Museums
- - [https://themilitarymuseums.ca](https://themilitarymuseums.ca)
- - date_published: 2024-06-17T08:46:18+00:00
-
- ## The MINA Project
- - [https://www.theminaproject.ca](https://www.theminaproject.ca)
- - date_published: 2024-10-11T09:57:48.049153+00:00
-
- ## The Moulding Store Inc. | Calgary Mouldings, Doors, Locks, Bath Hardware and Accessories
- - [http://themouldingstore.ca](http://themouldingstore.ca)
- - date_published: 2024-06-23T12:04:27+00:00
-
- ## The Narwhal | News on Climate Change, Environmental Issues in Canada
- - [https://thenarwhal.ca](https://thenarwhal.ca)
- - date_published: 2018-04-30T21:43:50+00:00
-
- ## The North Face Renewed Marketplace
- - [https://renewed.thenorthface.ca](https://renewed.thenorthface.ca)
- - date_published: 2024-10-21T02:27:27.901403+00:00
-
- ## Theodore and Pringle Optical
- - [https://www.theodoreandpringle.ca](https://www.theodoreandpringle.ca)
- - date_published: 2024-09-30T12:16:17.922546+00:00
-
- ## theorca
- - [https://www.theorca.ca](https://www.theorca.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## The Organic Prepper Home - The Organic Prepper
- - [https://www.theorganicprepper.ca](https://www.theorganicprepper.ca)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## theoria – notes and commentaries
- - [http://www.theoria.ca](http://www.theoria.ca)
- - date_published: 2024-06-30T04:29:52.391280+00:00
-
- ## The Politics of Reproduction Research Group
- - [http://thepoliticsofreproduction.ca](http://thepoliticsofreproduction.ca)
- - date_published: 2024-09-02T13:05:48.920305+00:00
-
- ## The Power Centre Thunder Bay
- - [https://www.thepowercentre.ca](https://www.thepowercentre.ca)
- - date_published: 2024-08-18T14:37:00.977435+00:00
-
- ## TherapyMantra: Best Online Therapy and Counseling
- - [https://therapymantra.ca](https://therapymantra.ca)
- - date_published: 2024-07-23T21:20:02.198661+00:00
-
- ## Home The Rover
- - [https://therover.ca](https://therover.ca)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Peter Limberg
- - [https://thestoa.ca](https://thestoa.ca)
- - date_published: 2024-04-30T15:44:33.451663+00:00
- - tags: ['personal']
-
- ## A.D. SUI
- - [https://thesuiway.ca](https://thesuiway.ca)
- - date_published: 2024-04-29T02:17:46.340015+00:00
-
- ## Plausible · Web analytics
- - [https://analytic.thetechrobo.ca](https://analytic.thetechrobo.ca)
- - date_published: 2024-05-11T06:56:09.482135+00:00
-
- ## Archived YouTube Video Finder
- - [https://findyoutubevideo.thetechrobo.ca](https://findyoutubevideo.thetechrobo.ca)
- - date_published: 2023-11-11T08:20:40+00:00
-
- ## The Tyee | Home
- - [https://thetyee.ca](https://thetyee.ca)
- - date_published: 2024-06-29T06:14:02.957860+00:00
-
- ## The UWSA
- - [https://theuwsa.ca](https://theuwsa.ca)
- - date_published: 2024-09-13T20:01:10.127221+00:00
 

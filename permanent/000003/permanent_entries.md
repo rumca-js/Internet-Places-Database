@@ -1,3 +1,23 @@
+ ## Podcast Transcripts - PodText
+ - [https://podtext.ai](https://podtext.ai)
+ - date_published: 2023-10-25T11:41:33.465633+00:00
+
+ ## Podwise - Podcast knowledge at 10x speed
+ - [https://podwise.ai](https://podwise.ai)
+ - date_published: 2024-05-12T06:41:30.988245+00:00
+
+ ## PointOne
+ - [https://pointone.ai](https://pointone.ai)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## POKEIT - Drawing the Future with AI
+ - [https://pokeit.ai](https://pokeit.ai)
+ - date_published: 2024-10-30T07:28:45.080921+00:00
+
+ ## Pollinations.AI
+ - [https://pollinations.ai](https://pollinations.ai)
+ - date_published: 2024-06-19T21:38:19.950079+00:00
+
  ## AI Video Generator: Create Realistic/Imaginary HD Videos | Pollo AI
  - [https://pollo.ai](https://pollo.ai)
  - date_published: 2024-12-15T11:48:18.286865+00:00
@@ -2812,6 +2832,10 @@
  - [https://tacto.ai](https://tacto.ai)
  - date_published: 2024-07-02T00:00:00+00:00
 
+ ## Tagshop | Full-Funnel UGC Platform for eCommerce
+ - [https://tagshop.ai](https://tagshop.ai)
+ - date_published: 2024-12-16T09:36:01+00:00
+
  ## Talefy
  - [https://talefy.ai](https://talefy.ai)
  - date_published: 2024-06-14T08:55:13.726788+00:00
@@ -3998,28 +4022,4 @@
  ## Home - Vee
  - [https://vee.ai](https://vee.ai)
  - date_published: 2024-10-29T22:58:48+00:00
-
- ## VEG3
- - [https://veg3.ai](https://veg3.ai)
- - date_published: 2024-10-30T07:23:20.125480+00:00
-
- ## Meet Copilot, smart tech for your bike
- - [http://velo.ai](http://velo.ai)
- - date_published: 2024-10-28T16:52:49+00:00
-
- ## Meet Copilot, smart tech for your bike
- - [https://www.velo.ai](https://www.velo.ai)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Ivan Vendrov
- - [https://www.vendrov.ai](https://www.vendrov.ai)
- - date_published: 2024-07-04T06:10:05.953231+00:00
-
- ## Venice | Private and Uncensored AI
- - [https://venice.ai](https://venice.ai)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Venturekit | AI Generated Business Plans
- - [https://venturekit.ai](https://venturekit.ai)
- - date_published: 2024-06-14T08:54:38.792469+00:00
 

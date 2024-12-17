@@ -1,3 +1,31 @@
+ ## Faculty of Life Sciences
+ - [https://lifesciences.univie.ac.at](https://lifesciences.univie.ac.at)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Fakultät für Mathematik
+ - [http://mathematik.univie.ac.at](http://mathematik.univie.ac.at)
+ - date_published: 2024-08-11T22:42:25.773401+00:00
+
+ ## Faculty of Mathematics
+ - [https://mat.univie.ac.at](https://mat.univie.ac.at)
+ - date_published: 2024-02-08T18:02:47.499311+00:00
+
+ ## Aktuelle Pressemeldungen
+ - [https://medienportal.univie.ac.at](https://medienportal.univie.ac.at)
+ - date_published: 2024-07-10T02:11:12.398286+00:00
+
+ ## Home
+ - [http://merchandising.univie.ac.at](http://merchandising.univie.ac.at)
+ - date_published: 2024-10-14T23:59:34.062264+00:00
+
+ ## Home | Moodle University of Vienna
+ - [http://moodle.univie.ac.at](http://moodle.univie.ac.at)
+ - date_published: 2024-07-21T01:58:40+00:00
+
+ ## Nachhaltigkeit
+ - [http://nachhaltigkeit.univie.ac.at](http://nachhaltigkeit.univie.ac.at)
+ - date_published: 2024-10-14T23:56:46.787135+00:00
+
  ## Personalwesen und Frauenförderung
  - [http://personalwesen.univie.ac.at](http://personalwesen.univie.ac.at)
  - date_published: 2024-10-14T23:57:44.990266+00:00
@@ -3984,32 +4012,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Karriere-Beratung und Events für Studierende
  - [http://www.uniport.at](http://www.uniport.at)
  - date_published: 2024-10-14T23:56:48.595846+00:00
-
- ## Department of Computer Science | Universität Salzburg
- - [https://cs.uni-salzburg.at](https://cs.uni-salzburg.at)
- - date_published: 2024-08-19T17:55:52.709732+00:00
-
- ## selfie
- - [https://selfie.cs.uni-salzburg.at](https://selfie.cs.uni-salzburg.at)
- - date_published: 2023-10-25T08:31:05.114799+00:00
-
- ## Home - Paris Lodron Universität Salzburg
- - [https://www.uni-salzburg.at](https://www.uni-salzburg.at)
- - date_published: 2021-02-20T09:55:24+00:00
-
- ## Home | Universitätszahnklinik Wien
- - [https://www.unizahnklinik-wien.at](https://www.unizahnklinik-wien.at)
- - date_published: 2024-07-09T20:13:05.112195+00:00
-
- ## Unsere ÖBB
- - [https://www.unsereoebb.at](https://www.unsereoebb.at)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Unwired Edge Cloud Console
- - [https://admin.wifi.unwired.at](https://admin.wifi.unwired.at)
- - date_published: 2024-06-13T15:54:16+00:00
-
- ## Urlaubsgeschichten.at
- - [https://urlaubsgeschichten.at](https://urlaubsgeschichten.at)
- - date_published: 2024-07-16T17:47:06.502102+00:00
 

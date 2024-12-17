@@ -1,3 +1,39 @@
+ ## The Spectator Australia | Politics, current affairs and opinion
+ - [https://spectator.com.au](https://spectator.com.au)
+ - date_published: 2024-04-29T05:41:56.160192+00:00
+
+ ## Speedcube Tutorials and Solutions from Beginner to beyond
+ - [https://ca.speedcube.com.au](https://ca.speedcube.com.au)
+ - date_published: 2024-06-16T10:20:02.543270+00:00
+
+ ## Speedcube Tutorials and Solutions from Beginner to beyond
+ - [https://de.speedcube.com.au](https://de.speedcube.com.au)
+ - date_published: 2024-06-16T10:20:08.876187+00:00
+
+ ## Speedcube Tutorials and Solutions from Beginner to beyond
+ - [https://in.speedcube.com.au](https://in.speedcube.com.au)
+ - date_published: 2024-06-16T10:20:14.559546+00:00
+
+ ## Speedcube Tutorials and Solutions from Beginner to beyond
+ - [https://nz.speedcube.com.au](https://nz.speedcube.com.au)
+ - date_published: 2024-06-16T10:20:12.227330+00:00
+
+ ## Speedcube Tutorials and Solutions from Beginner to beyond
+ - [https://sg.speedcube.com.au](https://sg.speedcube.com.au)
+ - date_published: 2024-06-16T10:20:00.511461+00:00
+
+ ## Speedcube Tutorials and Solutions from Beginner to beyond
+ - [https://speedcube.com.au](https://speedcube.com.au)
+ - date_published: 2024-09-30T16:58:49.950261+00:00
+
+ ## Speedcube Tutorials and Solutions from Beginner to beyond
+ - [https://uk.speedcube.com.au](https://uk.speedcube.com.au)
+ - date_published: 2024-06-16T10:20:04.898882+00:00
+
+ ## Prime Minister's Spelling Bee
+ - [https://www.spelling-bee.com.au](https://www.spelling-bee.com.au)
+ - date_published: 2024-07-12T18:30:03.151469+00:00
+
  ## Spicy Web Digital Marketing Agency | Performance Ads + SEO + Website Development + Branding
  - [https://spicyweb.com.au](https://spicyweb.com.au)
  - date_published: 2024-04-30T02:18:30.312053+00:00
@@ -762,6 +798,10 @@
  ## Toy Titans - Australia
  - [https://toytitans.com.au](https://toytitans.com.au)
  - date_published: 2024-09-16T02:45:11.420431+00:00
+
+ ## Unlimited nbn® Internet and 50% Mobile Plans for First 6 Months | TPG
+ - [https://tpg.com.au](https://tpg.com.au)
+ - date_published: 2024-12-14T14:43:46+00:00
 
  ## Home to Australia's Favourite Telcos | TPG Telecom
  - [https://www.tpgtelecom.com.au](https://www.tpgtelecom.com.au)
@@ -3977,44 +4017,4 @@ University of Technology
  ## Dashboard | icare
  - [https://my.icare.nsw.gov.au](https://my.icare.nsw.gov.au)
  - date_published: 2024-09-12T15:34:41.077226+00:00
-
- ## NSW Civil and Administrative Tribunal
- - [https://ncat.nsw.gov.au](https://ncat.nsw.gov.au)
- - date_published: 2024-10-17T17:55:33.710903+00:00
-
- ## Home
- - [https://newsletters.regional.nsw.gov.au](https://newsletters.regional.nsw.gov.au)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## NSW Government
- - [https://nsw.gov.au](https://nsw.gov.au)
- - date_published: 2024-06-12T12:19:52.544018+00:00
-
- ## OneGov | Government services, simplified
- - [https://onegov.nsw.gov.au](https://onegov.nsw.gov.au)
- - date_published: 2024-06-12T06:03:01.832865+00:00
-
- ## Welcome! | TfNSW Open Data Hub and Developer Portal
- - [https://opendata.transport.nsw.gov.au](https://opendata.transport.nsw.gov.au)
- - date_published: 2024-09-09T21:21:44.669855+00:00
-
- ## Hospital Parking
- - [https://parking.health.nsw.gov.au](https://parking.health.nsw.gov.au)
- - date_published: 2024-05-28T22:37:46+00:00
-
- ## Parliament of NSW
- - [https://parliament.nsw.gov.au](https://parliament.nsw.gov.au)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Dubbo Regional Council - Application Tracker
- - [https://planning.dubbo.nsw.gov.au](https://planning.dubbo.nsw.gov.au)
- - date_published: 2024-09-18T22:01:05.598165+00:00
-
- ## Home | Planning
- - [https://planning.nsw.gov.au](https://planning.nsw.gov.au)
- - date_published: 2024-10-15T04:19:16+00:00
-
- ## Home - NSW Police Public Site
- - [https://police.nsw.gov.au](https://police.nsw.gov.au)
- - date_published: 2024-06-12T00:00:00+00:00
 

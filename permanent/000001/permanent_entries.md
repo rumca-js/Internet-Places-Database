@@ -1,3 +1,8 @@
+ ## Candy.AI: Create Your AI Girlfriend & Start Chatting
+ - [https://candy.ai](https://candy.ai)
+ - date_published: 2024-06-14T08:51:37.223431+00:00
+ - tags: ['nsfw', 'artificial intelligence bot']
+
  ## Cantian AI | Personalized AI BaZi Reading
  - [https://cantian.ai](https://cantian.ai)
  - date_published: 2024-12-15T11:13:44.965981+00:00
@@ -147,6 +152,10 @@
  ## wrtsc
  - [https://wrtsc.catgirl.ai](https://wrtsc.catgirl.ai)
  - date_published: 2023-03-18T06:54:14+00:00
+
+ ## Catizen - Kitty's Vibe: Heal the World
+ - [https://catizen.ai](https://catizen.ai)
+ - date_published: 2024-12-04T08:31:14+00:00
 
  ## Cambridge Boston Alignment Initiative
  - [https://www.cbai.ai](https://www.cbai.ai)
@@ -2217,6 +2226,10 @@ Welcome
  - [https://epique.ai](https://epique.ai)
  - date_published: 2024-06-19T19:51:37.039655+00:00
 
+ ## Epoch AI
+ - [https://epoch.ai](https://epoch.ai)
+ - date_published: 2024-12-16T14:38:28+00:00
+
  ## Stronger Business Insights with AI-Powered Knowledge Management | Lucy
  - [http://www.equals3.ai](http://www.equals3.ai)
  - date_published: 2024-10-29T21:45:30+00:00
@@ -4003,16 +4016,4 @@ Welcome
  ## AI Humanizer - Humanize AI - AI Detector Bypass | Humbot
  - [https://humbot.ai](https://humbot.ai)
  - date_published: 2024-06-19T19:41:47.142990+00:00
-
- ## Home · Hume AI
- - [https://beta.hume.ai](https://beta.hume.ai)
- - date_published: 2024-07-11T14:23:08.852363+00:00
-
- ## Voice-to-Voice Demo • Hume AI
- - [https://demo.hume.ai](https://demo.hume.ai)
- - date_published: 2024-07-11T14:23:16.752838+00:00
-
- ## Welcome to Hume AI — Hume API
- - [https://dev.hume.ai](https://dev.hume.ai)
- - date_published: 2024-07-11T00:00:00+00:00
 

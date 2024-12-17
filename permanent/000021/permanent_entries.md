@@ -1,3 +1,116 @@
+ ## Home | Becoming YU | York University
+ - [https://becomingyu.yorku.ca](https://becomingyu.yorku.ca)
+ - date_published: 2024-07-21T07:57:53.361490+00:00
+
+ ## blockchain.lab
+ - [https://blockchain.lab.yorku.ca](https://blockchain.lab.yorku.ca)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## WordPress at York |
+ - [https://blog.yorku.ca](https://blog.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## 2024-2025 Academic Calendar | Academic Calendars | York University
+ - [https://calendars.students.yorku.ca](https://calendars.students.yorku.ca)
+ - date_published: 2024-07-21T08:03:28.530189+00:00
+
+ ## Calumet College
+ - [http://calumet.yorku.ca](http://calumet.yorku.ca)
+ - date_published: 2024-07-21T08:04:47.828687+00:00
+
+ ## Career Centre | We help connect York University students and new graduates with career opportunities!
+ - [https://careers.yorku.ca](https://careers.yorku.ca)
+ - date_published: 2024-05-09T06:47:47.200130+00:00
+
+ ## Welcome - Department of Chemistry
+ - [http://chemistry.info.yorku.ca](http://chemistry.info.yorku.ca)
+ - date_published: 2024-10-19T04:50:12.728346+00:00
+
+ ## University Information Technology (UIT) | Something goes here....
+ - [http://computing.yorku.ca](http://computing.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Homepage
+ - [https://continue.yorku.ca](https://continue.yorku.ca)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Student Counselling, Health & Well-being | Division of Students | York University
+ - [https://counselling.students.yorku.ca](https://counselling.students.yorku.ca)
+ - date_published: 2024-07-09T21:37:03.374255+00:00
+
+ ## Passport York Login
+ - [https://coursestatus.yorku.ca](https://coursestatus.yorku.ca)
+ - date_published: 2024-07-09T21:37:05.659224+00:00
+
+ ## Current Students | Division of Students | York University
+ - [https://currentstudents.yorku.ca](https://currentstudents.yorku.ca)
+ - date_published: 2024-04-30T05:32:23.896619+00:00
+
+ ## Organizational Unit and Designate List
+ - [http://designates.apps06.yorku.ca](http://designates.apps06.yorku.ca)
+ - date_published: 2024-07-21T08:03:45.097874+00:00
+
+ ## Osgoode Hall Law School Digital Commons
+ - [https://digitalcommons.osgoode.yorku.ca](https://digitalcommons.osgoode.yorku.ca)
+ - date_published: 2024-10-18T22:18:03.056403+00:00
+
+ ## York University - Shibboleth - Loading Session Information
+ - [https://eclass.yorku.ca](https://eclass.yorku.ca)
+ - date_published: 2024-04-30T05:32:18.223282+00:00
+
+ ## Upcoming Events at York University
+ - [https://events.yorku.ca](https://events.yorku.ca)
+ - date_published: 2024-03-12T17:42:35.149483+00:00
+
+ ## MachForm Admin Panel
+ - [https://forms.students.yorku.ca](https://forms.students.yorku.ca)
+ - date_published: 2024-07-21T07:57:11.379215+00:00
+
+ ## Your Future Starts Here | Future Students | York University
+ - [https://futurestudents.yorku.ca](https://futurestudents.yorku.ca)
+ - date_published: 2024-04-30T05:31:58.274621+00:00
+
+ ## Google Apps at York
+ - [https://google.info.yorku.ca](https://google.info.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Welcome to the Snowden Digital Surveillance Archive · Snowden Archive
+ - [https://grid.glendon.yorku.ca](https://grid.glendon.yorku.ca)
+ - date_published: 2024-05-29T08:29:45+00:00
+ - tags: ['surveillance', 'edward snowden']
+
+ ## Information Security at York | UIT Information Security York University
+ - [https://infosec.yorku.ca](https://infosec.yorku.ca)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Information and Privacy Office
+ - [https://ipo.info.yorku.ca](https://ipo.info.yorku.ca)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## Your Suggestions are Welcome | University Information Technology (UIT)
+ - [http://ithelp.yorku.ca](http://ithelp.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Las Nubes Project - Las Nubes Project
+ - [https://lasnubes.euc.yorku.ca](https://lasnubes.euc.yorku.ca)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## York University Library Home - York University Libraries
+ - [https://library.yorku.ca](https://library.yorku.ca)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Passport York Login
+ - [https://machformopd.osgoode.yorku.ca](https://machformopd.osgoode.yorku.ca)
+ - date_published: 2024-07-09T21:36:21.138746+00:00
+
+ ## Winter 2024 - The York University Magazine
+ - [https://magazine.yorku.ca](https://magazine.yorku.ca)
+ - date_published: 2024-04-30T05:32:16.159127+00:00
+
+ ## Moodle
+ - [https://moodle.yorku.ca](https://moodle.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## Passport York Login
  - [http://myosgoodepd.osgoode.yorku.ca](http://myosgoodepd.osgoode.yorku.ca)
  - date_published: 2024-07-09T21:36:19.297449+00:00
@@ -1445,6 +1558,10 @@
  ## Home | PSQUARE CAPITAL
  - [https://psquare.capital](https://psquare.capital)
  - date_published: 2024-06-06T14:16:21+00:00
+
+ ## Homepage - QCP
+ - [https://www.qcp.capital](https://www.qcp.capital)
+ - date_published: 2024-03-15T03:57:05+00:00
 
  ## Radiant
  - [https://app.radiant.capital](https://app.radiant.capital)
@@ -3794,6 +3911,10 @@
  - [https://shop.hazel.cc](https://shop.hazel.cc)
  - date_published: 2024-05-09T08:40:19.377426+00:00
 
+ ## Titta på TV Online Streaming | Titta på gratis filmer online
+ - [http://hdfilmer.cc](http://hdfilmer.cc)
+ - date_published: 2024-12-16T14:36:28.710261+00:00
+
  ## Show HN: Resource Index – FOSS Git Repository and NPM Package Index
  - [https://res-index.hkit.cc](https://res-index.hkit.cc)
  - date_published: 2024-05-30T03:18:40+00:00
@@ -3902,124 +4023,4 @@
  ## SONOFF Official Homepage| Smart Home automation SONOFF Official
  - [https://sonoff.itead.cc](https://sonoff.itead.cc)
  - date_published: 2024-06-20T00:00:00+00:00
-
- ## Support
- - [https://support.itead.cc](https://support.itead.cc)
- - date_published: 2024-09-16T13:25:13.863419+00:00
-
- ## Home – JJC
- - [http://www.jjc.cc](http://www.jjc.cc)
- - date_published: 2024-09-09T13:15:17.395628+00:00
-
- ## JOIN Cycling App for iOS & Android - Improve Your Ride
- - [https://join.cc](https://join.cc)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## jstn
- - [http://jstn.cc](http://jstn.cc)
- - date_published: 2024-07-14T13:05:21.390382+00:00
-
- ## jtti-Dedicated Server|Cloud Server-Jtti Singapore Global Network Infrastructure Service Provider
- - [https://jtti.cc](https://jtti.cc)
- - date_published: 2024-05-07T23:30:17.179297+00:00
-
- ## J-V.CC
- - [https://j-v.cc](https://j-v.cc)
- - date_published: 2024-07-30T15:27:38+00:00
-
- ## 每日頭條 - 每日新鮮頭條一網打盡
- - [https://kknews.cc](https://kknews.cc)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## HackMD - KKTIX
- - [https://hackmd.kktix.cc](https://hackmd.kktix.cc)
- - date_published: 2024-06-22T12:42:03.003936+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://de.kolorize.cc](https://de.kolorize.cc)
- - date_published: 2024-04-30T05:43:39.001873+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://es.kolorize.cc](https://es.kolorize.cc)
- - date_published: 2024-04-30T05:43:43.011499+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://fr.kolorize.cc](https://fr.kolorize.cc)
- - date_published: 2024-04-30T05:43:28.022002+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://it.kolorize.cc](https://it.kolorize.cc)
- - date_published: 2024-04-30T05:43:32.915080+00:00
-
- ## Colorize Photo with Next Generation AI | Kolorize
- - [https://kolorize.cc](https://kolorize.cc)
- - date_published: 2024-01-17T14:03:48.489490+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://pt.kolorize.cc](https://pt.kolorize.cc)
- - date_published: 2024-04-30T05:43:48.976595+00:00
-
- ## imagor v1.4.6
- - [https://s3p.kolorize.cc](https://s3p.kolorize.cc)
- - date_published: 2024-04-30T05:43:23.425851+00:00
-
- ## imagor v1.4.14
- - [https://s3t.kolorize.cc](https://s3t.kolorize.cc)
- - date_published: 2024-09-05T12:31:18.057299+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://tw.kolorize.cc](https://tw.kolorize.cc)
- - date_published: 2024-04-30T05:43:53.125520+00:00
-
- ## /dev/krzaq
- - [https://dev.krzaq.cc](https://dev.krzaq.cc)
- - date_published: 2024-09-04T07:06:12.340865+00:00
-
- ## LARE
- - [https://lare.cc](https://lare.cc)
- - date_published: 2024-08-28T15:06:29+00:00
-
- ## LaTeX.Online - cloud compiler LaTeX to PDF
- - [https://latexonline.cc](https://latexonline.cc)
- - date_published: 2024-06-01T06:39:47+00:00
-
- ## Ensemble, réinventons la tech | Latitudes
- - [https://www.latitudes.cc](https://www.latitudes.cc)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Nuclear'Atk（核攻击）网络安全实验室
- - [http://lcx.cc](http://lcx.cc)
- - date_published: 2024-09-30T05:52:42+00:00
-
- ## Lifeform
- - [https://lifeform.cc](https://lifeform.cc)
- - date_published: 2024-05-27T23:19:38+00:00
-
- ## CoLLAs
- - [https://lifelong-ml.cc](https://lifelong-ml.cc)
- - date_published: 2024-07-11T14:30:26.017037+00:00
-
- ## LILYGO
- - [https://community.lilygo.cc](https://community.lilygo.cc)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Committed To The Research & Development Of IoT
- - [https://www.lilygo.cc](https://www.lilygo.cc)
- - date_published: 2024-01-04T04:23:21.553958+00:00
-
- ## Linkinbio: The Link-In-Bio Tool That You Get Paid For Each Click.
- - [https://linkinbio.cc](https://linkinbio.cc)
- - date_published: 2024-07-17T12:41:19.546806+00:00
-
- ## LinkStack
- - [https://linksta.cc](https://linksta.cc)
- - date_published: 2024-05-14T03:48:44.023599+00:00
-
- ## Linmi - 探索未知，沉淀新知，迭代认知。
- - [https://linmi.cc](https://linmi.cc)
- - date_published: 2024-08-18T06:57:54.860118+00:00
-
- ## LinuxLists.cc - Mailing List Archive
- - [https://linuxlists.cc](https://linuxlists.cc)
- - date_published: 2024-06-16T00:00:00+00:00
 

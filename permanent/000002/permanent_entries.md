@@ -1,3 +1,15 @@
+ ## Home · Hume AI
+ - [https://beta.hume.ai](https://beta.hume.ai)
+ - date_published: 2024-07-11T14:23:08.852363+00:00
+
+ ## Voice-to-Voice Demo • Hume AI
+ - [https://demo.hume.ai](https://demo.hume.ai)
+ - date_published: 2024-07-11T14:23:16.752838+00:00
+
+ ## Welcome to Hume AI — Hume API
+ - [https://dev.hume.ai](https://dev.hume.ai)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## Home • Hume AI
  - [https://hume.ai](https://hume.ai)
  - date_published: 2024-04-18T00:00:00+00:00
@@ -526,6 +538,10 @@
  ## ioni - AI Agents Platform
  - [https://ioni.ai](https://ioni.ai)
  - date_published: 2024-10-27T15:33:32+00:00
+
+ ## TalentSprint iPearl: Interactive Platform for Experiential and Remote Learning
+ - [https://ipearl.ai](https://ipearl.ai)
+ - date_published: 2024-06-26T10:02:02+00:00
 
  ## Ipso AI
  - [https://ipso.ai](https://ipso.ai)
@@ -3484,6 +3500,10 @@
  - [http://patterned.ai](http://patterned.ai)
  - date_published: 2024-06-19T20:38:58.486282+00:00
 
+ ## Pattern | Airport Ground Handling
+ - [https://www.patternlabs.ai](https://www.patternlabs.ai)
+ - date_published: 2024-12-16T17:20:54.740160+00:00
+
  ## Paxo: AI meeting notes for the real world
  - [https://paxo.ai](https://paxo.ai)
  - date_published: 2023-09-22T00:00:00+00:00
@@ -4001,24 +4021,4 @@
  ## Podcast transcripts, sponsors, and audience data - Podscribe
  - [https://app.podscribe.ai](https://app.podscribe.ai)
  - date_published: 2024-06-13T13:45:33+00:00
-
- ## Podcast Transcripts - PodText
- - [https://podtext.ai](https://podtext.ai)
- - date_published: 2023-10-25T11:41:33.465633+00:00
-
- ## Podwise - Podcast knowledge at 10x speed
- - [https://podwise.ai](https://podwise.ai)
- - date_published: 2024-05-12T06:41:30.988245+00:00
-
- ## PointOne
- - [https://pointone.ai](https://pointone.ai)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## POKEIT - Drawing the Future with AI
- - [https://pokeit.ai](https://pokeit.ai)
- - date_published: 2024-10-30T07:28:45.080921+00:00
-
- ## Pollinations.AI
- - [https://pollinations.ai](https://pollinations.ai)
- - date_published: 2024-06-19T21:38:19.950079+00:00
 

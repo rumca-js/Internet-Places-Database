@@ -3609,6 +3609,10 @@
  - [https://biomatter.ai](https://biomatter.ai)
  - date_published: 2024-10-30T15:22:45.680107+00:00
 
+ ## NOA by biped.ai, the best complement to canes and dogs
+ - [https://biped.ai](https://biped.ai)
+ - date_published: 2024-12-13T13:36:17+00:00
+
  ## Bit.ai - Document Collaboration for The New Era
  - [https://app.bit.ai](https://app.bit.ai)
  - date_published: 2024-10-17T09:12:49+00:00
@@ -4013,9 +4017,4 @@
  ## Calligrapher.ai: Realistic computer-generated handwriting
  - [https://calligrapher.ai](https://calligrapher.ai)
  - date_published: 2023-10-25T11:36:44.320352+00:00
-
- ## Candy.AI: Create Your AI Girlfriend & Start Chatting
- - [https://candy.ai](https://candy.ai)
- - date_published: 2024-06-14T08:51:37.223431+00:00
- - tags: ['nsfw', 'artificial intelligence bot']
 

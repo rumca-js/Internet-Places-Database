@@ -1,3 +1,108 @@
+ ## Home - Canadian Association of Research Libraries
+ - [https://www.carl-abrc.ca](https://www.carl-abrc.ca)
+ - date_published: 2024-10-22T21:49:47.733594+00:00
+
+ ## Carleton 360
+ - [https://360.carleton.ca](https://360.carleton.ca)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Undergraduate Admissions - Carleton University
+ - [https://admissions.carleton.ca](https://admissions.carleton.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Carleton Alumni | Carleton University
+ - [https://alumni.carleton.ca](https://alumni.carleton.ca)
+ - date_published: 2024-07-08T16:37:07.342967+00:00
+
+ ## Carleton Athletics | Carleton University
+ - [https://athletics.carleton.ca](https://athletics.carleton.ca)
+ - date_published: 2024-07-08T16:36:58.908517+00:00
+
+ ## Sign In
+ - [https://brightspace.carleton.ca](https://brightspace.carleton.ca)
+ - date_published: 2024-07-08T16:37:14.924044+00:00
+
+ ## Calendars < Carleton University
+ - [https://calendar.carleton.ca](https://calendar.carleton.ca)
+ - date_published: 2024-06-07T20:10:37+00:00
+
+ ## Carleton University
+ - [https://carleton.ca](https://carleton.ca)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Dining Services | Carleton University
+ - [https://dining.carleton.ca](https://dining.carleton.ca)
+ - date_published: 2024-07-08T16:37:03.593692+00:00
+
+ ## Events Calendar - Carleton University
+ - [https://events.carleton.ca](https://events.carleton.ca)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Carleton FutureFunder
+ - [https://futurefunder.carleton.ca](https://futurefunder.carleton.ca)
+ - date_published: 2024-07-08T16:37:19.054705+00:00
+
+ ## Current Grad Students | Carleton University
+ - [https://gradstudents.carleton.ca](https://gradstudents.carleton.ca)
+ - date_published: 2024-07-08T16:37:23.287082+00:00
+
+ ## Graduate Admissions | Carleton University
+ - [https://graduate.carleton.ca](https://graduate.carleton.ca)
+ - date_published: 2024-07-08T16:37:26.661515+00:00
+
+ ## HotSoft: Software as Interactive Media at Carleton University
+ - [http://hotsoft.carleton.ca](http://hotsoft.carleton.ca)
+ - date_published: 2024-06-23T20:38:14.826096+00:00
+
+ ## Housing and Residence Life Services - Carleton University
+ - [https://housing.carleton.ca](https://housing.carleton.ca)
+ - date_published: 2024-07-08T16:36:55.808723+00:00
+
+ ## Hub for Good - Carleton University
+ - [https://hubforgood.carleton.ca](https://hubforgood.carleton.ca)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Sign In
+ - [https://i.carleton.ca](https://i.carleton.ca)
+ - date_published: 2024-07-08T16:37:12.748153+00:00
+
+ ## MacOdrum Library | Carleton University
+ - [https://library.carleton.ca](https://library.carleton.ca)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Carleton Newsroom | Carleton University
+ - [https://newsroom.carleton.ca](https://newsroom.carleton.ca)
+ - date_published: 2024-07-08T16:37:01.121040+00:00
+
+ ## Research – Carleton University
+ - [https://research.carleton.ca](https://research.carleton.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Current Students - Carleton University : Current Students
+ - [https://students.carleton.ca](https://students.carleton.ca)
+ - date_published: 2024-07-08T16:36:53.357835+00:00
+
+ ## Carleton Computer Security Lab (CCSL)
+ - [https://www.ccsl.carleton.ca](https://www.ccsl.carleton.ca)
+ - date_published: 2023-05-31T02:29:08+00:00
+
+ ## Chris Carlier
+ - [https://carlier.ca](https://carlier.ca)
+ - date_published: 2023-12-28T18:49:41.221395+00:00
+ - tags: ['personal']
+
+ ## Carlo Franco
+ - [http://www.carlofranco.ca](http://www.carlofranco.ca)
+ - date_published: 2014-03-26T00:00:00+00:00
+
+ ## Carson Brown
+ - [https://carsonbrown.ca](https://carsonbrown.ca)
+ - date_published: 2024-08-07T20:03:44.004535+00:00
+
+ ## Home | Cartoon Network
+ - [http://www.cartoonnetwork.ca](http://www.cartoonnetwork.ca)
+ - date_published: 2024-10-23T10:20:09.435032+00:00
+
  ## Cascade Automatic Dishwasher Detergent | Cascade Detergent
  - [https://cascadeclean.ca](https://cascadeclean.ca)
  - date_published: 2024-10-23T08:01:52+00:00
@@ -3930,108 +4035,4 @@
  ## Law Society of Ontario Home | Law Society of Ontario
  - [https://lso.ca](https://lso.ca)
  - date_published: 2024-09-02T13:02:39.708237+00:00
-
- ## @luqman
- - [https://luqman.ca](https://luqman.ca)
- - date_published: 2022-11-15T03:27:24+00:00
-
- ## Luuk van Baars - Portfolio
- - [http://luuk.ca](http://luuk.ca)
- - date_published: 2023-07-06T13:04:26+00:00
-
- ## Lost Wizard Enterprises Incorporated
- - [http://www.l-w.ca](http://www.l-w.ca)
- - date_published: 2021-11-02T18:41:36+00:00
-
- ## The Macdonald-Laurier Institute
- - [https://macdonaldlaurier.ca](https://macdonaldlaurier.ca)
- - date_published: 2023-10-25T12:05:29.853121+00:00
-
- ## ezProxy Login Redirect
- - [https://ezproxy.macewan.ca](https://ezproxy.macewan.ca)
- - date_published: 2024-06-30T01:30:38.353424+00:00
-
- ## Macleans.ca - Canada’s magazine
- - [https://macleans.ca](https://macleans.ca)
- - date_published: 2023-10-25T12:05:41.174712+00:00
-
- ## Mactracker - Get info on any Mac
- - [https://mactracker.ca](https://mactracker.ca)
- - date_published: 2024-08-04T02:44:11+00:00
-
- ## Madrona Grove
- - [https://madrona.ca](https://madrona.ca)
- - date_published: 2024-01-09T01:36:41.563745+00:00
-
- ## Magenta Health
- - [https://www.magentahealth.ca](https://www.magentahealth.ca)
- - date_published: 2024-07-12T20:29:49.279552+00:00
-
- ## Fabian Rodriguez, « MagicFab » | GNU/Linux and free open source software consulting, training and conferences in Montreal, Quebec, Canada
- - [https://magicfab.ca](https://magicfab.ca)
- - date_published: 2022-07-10T23:07:57+00:00
-
- ## Top 5 Top 5 Toronto Maids for 2020 | Maids.ca Plumbers and Plumbing Contractors for 2020 | Maids.ca
- - [http://www.maids.ca](http://www.maids.ca)
- - date_published: 2024-06-29T17:36:38.307913+00:00
-
- ## Writer | Filmmaker • Mailyne K. Briggs
- - [https://mailyne.ca](https://mailyne.ca)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## Homepage - Mainframe Studios
- - [https://www.mainframe.ca](https://www.mainframe.ca)
- - date_published: 2024-10-26T15:06:26.957988+00:00
-
- ## First to be published
- - [https://makevotesequal.ca](https://makevotesequal.ca)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Apps & Websites - Chris Mallinson
- - [http://mallinson.ca](http://mallinson.ca)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Province of Manitoba | Home Page
- - [https://manitoba.ca](https://manitoba.ca)
- - date_published: 2024-04-30T05:32:54.961213+00:00
-
- ## Manitoba 511
- - [https://www.manitoba511.ca](https://www.manitoba511.ca)
- - date_published: 2024-07-21T07:55:21.570601+00:00
-
- ## Manitoba Advocate
- - [http://manitobaadvocate.ca](http://manitobaadvocate.ca)
- - date_published: 2024-08-06T18:02:56.873489+00:00
-
- ## Manitoba Lieutenant Governor
- - [http://manitobalg.ca](http://manitobalg.ca)
- - date_published: 2024-08-10T23:03:06.390420+00:00
-
- ## Manna Food Bank
- - [https://mannafoodbank.ca](https://mannafoodbank.ca)
- - date_published: 2024-10-17T23:22:57.834377+00:00
-
- ## Manufacturing Jobs Canada Dev
- - [https://www.manufacturingjobsite.ca](https://www.manufacturingjobsite.ca)
- - date_published: 2024-10-15T17:36:47.227016+00:00
-
- ## Public landing page | Manulife Advisors
- - [https://advisor.manulife.ca](https://advisor.manulife.ca)
- - date_published: 2024-10-07T19:22:58.854976+00:00
-
- ## Manulife CIAM
- - [https://id.manulife.ca](https://id.manulife.ca)
- - date_published: 1985-10-26T08:15:00+00:00
-
- ## Manulife Securities
- - [https://manulifesecurities.manulife.ca](https://manulifesecurities.manulife.ca)
- - date_published: 2024-10-07T19:26:20.302119+00:00
-
- ## Manulife Customer Portal
- - [https://portal.manulife.ca](https://portal.manulife.ca)
- - date_published: 2024-06-16T13:09:10.118765+00:00
-
- ## Manulife - Insurance & investment solutions for you
- - [https://www.manulife.ca](https://www.manulife.ca)
- - date_published: 2024-05-01T06:47:53.869054+00:00
 
