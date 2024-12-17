@@ -75,7 +75,8 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 # Static lists
 
 This data were used to create the following static lists:
-- [Static Lists Index](https://rumca-js.github.io/quickstart/public/static_lists)
+- [Offline Search](https://rumca-js.github.io/quickstart/public/static_lists/viewerzip.html?file=top) - A lightweight tool that loads JSON data to enable searching for popular sites without requiring additional overhead or internet connectivity.
+- [Static Lists Index](https://rumca-js.github.io/quickstart/public/static_lists) - index of static lists
 - [Search engines](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=operating_systems)
 - [Operating system](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=operating_systems)
 - [Programming language](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=programming_languages)
