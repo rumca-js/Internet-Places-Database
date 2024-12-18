@@ -1,3 +1,59 @@
+ ## Library Homepage
+ - [https://imageserv.lib.unc.edu](https://imageserv.lib.unc.edu)
+ - date_published: 2024-07-02T04:22:22.799502+00:00
+
+ ## Home New — Instructional Innovation
+ - [https://instructionalinnovation.unc.edu](https://instructionalinnovation.unc.edu)
+ - date_published: 2024-07-02T04:20:52.438285+00:00
+
+ ## Institute for the Study of the Americas
+ - [https://isa.unc.edu](https://isa.unc.edu)
+ - date_published: 2024-07-02T04:20:58.837392+00:00
+
+ ## Welcome to UNC's ISSS Portal for International Students and Scholars
+ - [https://isssportal.unc.edu](https://isssportal.unc.edu)
+ - date_published: 2024-07-02T04:25:28+00:00
+
+ ## ISSS
+ - [https://isss.unc.edu](https://isss.unc.edu)
+ - date_published: 2024-07-02T04:33:40.918645+00:00
+
+ ## ITS Commons
+ - [http://its-commons.unc.edu](http://its-commons.unc.edu)
+ - date_published: 2024-07-02T04:21:22.247360+00:00
+
+ ## UNC Chapel Hill - ITS Status
+ - [https://itsstatus.unc.edu](https://itsstatus.unc.edu)
+ - date_published: 2024-07-02T04:21:24.514786+00:00
+
+ ## Home - Information Technology Services
+ - [https://its.unc.edu](https://its.unc.edu)
+ - date_published: 2024-05-07T21:37:23.906306+00:00
+
+ ## Home Page
+ - [https://law.unc.edu](https://law.unc.edu)
+ - date_published: 2024-08-18T07:57:24.335132+00:00
+
+ ## Home – Learning Center
+ - [https://learningcenter.unc.edu](https://learningcenter.unc.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Home Page
+ - [https://library.law.unc.edu](https://library.law.unc.edu)
+ - date_published: 2024-06-24T10:35:19.403222+00:00
+
+ ## Homepage - UNC-Chapel Hill Libraries
+ - [https://library.unc.edu](https://library.unc.edu)
+ - date_published: 2024-05-06T16:59:29.519023+00:00
+
+ ## Lifelong Learning
+ - [https://lifelonglearning.unc.edu](https://lifelonglearning.unc.edu)
+ - date_published: 2024-05-07T21:38:33.008677+00:00
+
+ ## Home - Carolina Arts & Sciences Magazine
+ - [https://magazine.college.unc.edu](https://magazine.college.unc.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
  ## Home - Maps - The University of North Carolina at Chapel Hill
  - [https://maps.unc.edu](https://maps.unc.edu)
  - date_published: 2024-04-01T00:00:00+00:00
@@ -3960,60 +4016,4 @@
  ## Translational Imaging Center at USC			Scott E Fraser University of Southern California
  - [https://bioimage.usc.edu](https://bioimage.usc.edu)
  - date_published: 2021-02-19T00:39:06+00:00
-
- ## Blackboard Learn
- - [https://blackboard.usc.edu](https://blackboard.usc.edu)
- - date_published: 2004-07-02T11:00:59+00:00
-
- ## USC Viterbi | Department of Biomedical Engineering
- - [https://bme.usc.edu](https://bme.usc.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Welcome to Bourbon
- - [http://bourbon.usc.edu](http://bourbon.usc.edu)
- - date_published: 2024-08-18T18:34:28.264228+00:00
-
- ## University of Southern California Bovard College
- - [http://bovardcollege.usc.edu](http://bovardcollege.usc.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Access rights validated
- - [https://brightspace.usc.edu](https://brightspace.usc.edu)
- - date_published: 2024-07-02T11:00:43.817802+00:00
-
- ## USC Center for Artificial Intelligence in Society
- - [https://cais.usc.edu](https://cais.usc.edu)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## USC Calendar Help
- - [http://calendarhelp.usc.edu](http://calendarhelp.usc.edu)
- - date_published: 2024-07-02T10:01:40+00:00
-
- ## Events Calendar
- - [https://calendar.usc.edu](https://calendar.usc.edu)
- - date_published: 2024-05-07T22:01:40.345561+00:00
-
- ## IIS Windows Server
- - [https://camel2.usc.edu](https://camel2.usc.edu)
- - date_published: 2019-10-17T00:33:00+00:00
-
- ## Home - Campus Activities
- - [http://campusactivities.usc.edu](http://campusactivities.usc.edu)
- - date_published: 2024-10-07T00:00:00+00:00
-
- ## Campus Support & Intervention – Within the Office of Campus Wellbeing and Crisis Intervention
- - [http://campussupport.usc.edu](http://campussupport.usc.edu)
- - date_published: 2024-10-15T06:03:17.123095+00:00
-
- ## Career Center | University of Southern California
- - [https://careers.usc.edu](https://careers.usc.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Past Catalogues
- - [http://cataloguearchive.usc.edu](http://cataloguearchive.usc.edu)
- - date_published: 2024-10-15T06:06:21+00:00
-
- ## University of Southern California - Modern Campus Catalog™
- - [https://catalogue.usc.edu](https://catalogue.usc.edu)
- - date_published: 2024-06-16T00:00:00+00:00
 

@@ -1,3 +1,60 @@
+ ## CSUN University Library Digital Collection
+ - [https://digital-collections.csun.edu](https://digital-collections.csun.edu)
+ - date_published: 2024-08-19T05:02:39+00:00
+
+ ## California State University, Northridge
+ - [https://www.csun.edu](https://www.csun.edu)
+ - date_published: 2024-10-11T19:03:48+00:00
+
+ ## Cleveland State University
+ - [https://csuohio.edu](https://csuohio.edu)
+ - date_published: 2024-08-10T23:44:55+00:00
+
+ ## Colorado State University Pueblo |  | CSU Pueblo
+ - [https://www.csupueblo.edu](https://www.csupueblo.edu)
+ - date_published: 2024-07-22T06:09:32.193456+00:00
+
+ ## Research Portal
+ - [https://scholars.csus.edu](https://scholars.csus.edu)
+ - date_published: 2024-07-03T14:00:00+00:00
+
+ ## California State University, Sacramento
+ - [https://www.csus.edu](https://www.csus.edu)
+ - date_published: 2024-07-03T09:40:33.868941+00:00
+
+ ## California State University, San Bernardino | CSUSB
+ - [https://www.csusb.edu](https://www.csusb.edu)
+ - date_published: 2024-10-19T04:12:14.972855+00:00
+
+ ## Home | California State University Stanislaus
+ - [http://www.csustan.edu](http://www.csustan.edu)
+ - date_published: 2024-07-14T02:33:10+00:00
+
+ ## August 2020 - CSU System Magazine
+ - [https://archive.magazine.csusystem.edu](https://archive.magazine.csusystem.edu)
+ - date_published: 2024-07-22T06:09:26.330084+00:00
+
+ ## We are Colorado | Colorado State University System
+ - [https://csusystem.edu](https://csusystem.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## STATE | The Magazine of the Colorado State University System
+ - [https://magazine.csusystem.edu](https://magazine.csusystem.edu)
+ - date_published: 2024-04-30T03:47:49.898303+00:00
+
+ ## CSCU - Welcome to CSCU
+ - [https://www.ct.edu](https://www.ct.edu)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Columbia Theological Seminary – Admissions – Theological Seminary
+ - [https://admissions.ctsnet.edu](https://admissions.ctsnet.edu)
+ - date_published: 2024-07-07T05:53:55.068487+00:00
+ - tags: ['theological seminary']
+
+ ## Come to Columbia - Columbia Theological Seminary
+ - [https://apply.ctsnet.edu](https://apply.ctsnet.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
  ## John Bulow Campbell Library catalog
  - [https://library.ctsnet.edu](https://library.ctsnet.edu)
  - date_published: 2024-07-07T05:53:50.165989+00:00
@@ -3943,60 +4000,4 @@
  ## Administration and Finance | Georgia Institute of Technology
  - [https://af.gatech.edu](https://af.gatech.edu)
  - date_published: 2024-06-14T21:39:27+00:00
-
- ## Harnessing the Power of AI | AI at Georgia Tech
- - [https://ai.gatech.edu](https://ai.gatech.edu)
- - date_published: 2024-07-22T03:45:43.409433+00:00
-
- ## AI Unplugged
- - [https://aiunplugged.lmc.gatech.edu](https://aiunplugged.lmc.gatech.edu)
- - date_published: 2024-05-07T18:50:14.524497+00:00
-
- ## Home | Master of Science in Analytics
- - [https://analytics.gatech.edu](https://analytics.gatech.edu)
- - date_published: 2024-07-02T04:12:57+00:00
-
- ## Welcome! | Undergraduate Admission
- - [https://application.gatech.edu](https://application.gatech.edu)
- - date_published: 2024-07-22T03:09:54.472689+00:00
-
- ## Home | Georgia Tech Algorithm and Randomness Center (ARC)
- - [https://arc.gatech.edu](https://arc.gatech.edu)
- - date_published: 2024-06-13T18:15:03+00:00
-
- ## Home | School of Architecture
- - [https://arch.gatech.edu](https://arch.gatech.edu)
- - date_published: 2024-07-18T19:32:16+00:00
-
- ## Home | ARTS
- - [https://arts.gatech.edu](https://arts.gatech.edu)
- - date_published: 2024-04-30T04:19:07.870298+00:00
-
- ## GT SSO or Guest Redirect - Administrative Services
- - [https://asc.gatech.edu](https://asc.gatech.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Education Abroad
- - [http://atlas.gatech.edu](http://atlas.gatech.edu)
- - date_published: 2024-07-22T03:18:12.617418+00:00
-
- ## Home | School of Building Construction
- - [https://bc.gatech.edu](https://bc.gatech.edu)
- - date_published: 2024-07-10T15:57:49+00:00
-
- ## Employee Benefits
- - [https://benefits.hr.gatech.edu](https://benefits.hr.gatech.edu)
- - date_published: 2024-07-22T03:36:41+00:00
-
- ## Custom Domain by Bitly
- - [https://b.gatech.edu](https://b.gatech.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home | Briaerean Honor Society | Georgia Institute of Technology | Atlanta, GA
- - [https://bhs.gatech.edu](https://bhs.gatech.edu)
- - date_published: 2024-07-22T02:10:29+00:00
-
- ## Welcome | Bioinformatics
- - [https://bioinformatics.gatech.edu](https://bioinformatics.gatech.edu)
- - date_published: 2024-07-22T03:12:04.060270+00:00
 

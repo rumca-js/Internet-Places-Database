@@ -1,3 +1,60 @@
+ ## Deck.Gallery® — Beautifully designed decks, curated
+ - [https://deck.gallery](https://deck.gallery)
+ - date_published: 2024-05-09T06:11:55.947419+00:00
+
+ ## DOMINO CLUB
+ - [https://domino.gallery](https://domino.gallery)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## FORMA — FORMA.GALLERY
+ - [http://www.forma.gallery](http://www.forma.gallery)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Free Faces
+ - [https://www.freefaces.gallery](https://www.freefaces.gallery)
+ - date_published: 2024-11-25T21:30:43+00:00
+
+ ## Function
+ - [https://function.gallery](https://function.gallery)
+ - date_published: 2024-09-14T09:24:46.672768+00:00
+
+ ## The struggle is real The first-person shooter as an allegory of social media life | An artist tournament set in Fondazione Spara — an online survival multiplayer video game by Riccardo Rudi and Superinternet | Green Cube Gallery
+ - [http://greencube.gallery](http://greencube.gallery)
+ - date_published: 2024-07-13T15:19:38.788611+00:00
+
+ ## Nico Kaiser - Photos
+ - [https://kaiser.gallery](https://kaiser.gallery)
+ - date_published: 2024-07-05T09:56:29+00:00
+
+ ## Files - Nextcloud
+ - [https://demo.memories.gallery](https://demo.memories.gallery)
+ - date_published: 2024-03-21T20:42:24.918216+00:00
+
+ ## Show HN: Memories, FOSS Google Photos alternative built for high performance
+ - [https://memories.gallery](https://memories.gallery)
+ - date_published: 2024-03-21T19:25:10+00:00
+ - tags: ['self-host']
+
+ ## Mimesia Gallery
+ - [https://mimesia.gallery](https://mimesia.gallery)
+ - date_published: 2024-06-15T10:56:19.428840+00:00
+
+ ## Minimal Gallery – Website inspiration
+ - [https://minimal.gallery](https://minimal.gallery)
+ - date_published: 2023-10-25T19:16:29.833681+00:00
+
+ ## MONA
+ - [https://www.mona.gallery](https://www.mona.gallery)
+ - date_published: 2024-09-23T13:11:18.327709+00:00
+
+ ## The Mutable Gallery
+ - [https://mutable.gallery](https://mutable.gallery)
+ - date_published: 2024-09-18T19:08:43.358627+00:00
+
+ ## Nyx.gallery - AI-generated photography
+ - [https://nyx.gallery](https://nyx.gallery)
+ - date_published: 2023-10-25T19:16:35.991453+00:00
+
  ## OGimage.gallery | The finest hand-picked OG Images ✨
  - [https://www.ogimage.gallery](https://www.ogimage.gallery)
  - date_published: 2024-05-02T00:00:00+00:00
@@ -3981,60 +4038,4 @@
  ## VMT - Driving progress in tunnel projects
  - [https://vmt.global](https://vmt.global)
  - date_published: 2024-12-10T08:27:28+00:00
-
- ## Voice - Include - Innovate - Influence
- - [https://voice.global](https://voice.global)
- - date_published: 2024-09-25T12:55:54+00:00
-
- ## Login -  WEDOS Protection
- - [https://client.wedos.global](https://client.wedos.global)
- - date_published: 2024-06-16T16:25:23.484875+00:00
-
- ## WEDOS Global - WEDOS.com
- - [https://wedos.global](https://wedos.global)
- - date_published: 2024-10-07T00:00:00+00:00
-
- ## World Health Network - WHN
- - [https://whn.global](https://whn.global)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## World Environment Day
- - [https://www.worldenvironmentday.global](https://www.worldenvironmentday.global)
- - date_published: 2024-12-12T17:12:58.687022+00:00
-
- ## Toyota Woven City | TOP | What is Woven City
- - [https://www.woven-city.global](https://www.woven-city.global)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Woven by Toyota
- - [https://www.woven-planet.global](https://www.woven-planet.global)
- - date_published: 2024-07-10T01:12:11+00:00
-
- ## XR: Revolutionizing Advertising with Unified Data at Scale
- - [https://xr.global](https://xr.global)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## zenGate
- - [https://www.zengate.global](https://www.zengate.global)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## GAMA Ad Marketplace
- - [https://gama.globo](https://gama.globo)
- - date_published: 2024-10-28T14:36:14.864227+00:00
-
- ## Meu Perfil - GloboAds
- - [https://perfil.globoads.globo](https://perfil.globoads.globo)
- - date_published: 2024-10-28T14:35:42.837952+00:00
-
- ## Home | Globo Ads PME
- - [https://globosim.globo](https://globosim.globo)
- - date_published: 2024-10-28T14:35:35.650168+00:00
-
- ## Grafika Google
- - [https://images.google.gm](https://images.google.gm)
- - date_published: 2024-07-20T07:40:53.217348+00:00
-
- ## Google
- - [https://www.google.gm](https://www.google.gm)
- - date_published: 2024-06-21T22:22:25.067810+00:00
 

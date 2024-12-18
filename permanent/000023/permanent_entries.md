@@ -1,3 +1,7 @@
+ ## Switch edu-ID
+ - [https://eduid.ch](https://eduid.ch)
+ - date_published: 2024-07-16T22:05:03.649004+00:00
+
  ## Effinger — Kaffeebar & Coworking Space Bern
  - [https://www.effinger.ch](https://www.effinger.ch)
  - date_published: 2024-09-12T14:50:47.472931+00:00
@@ -4009,8 +4013,4 @@
  ## NIZAR KAZAN + CO
  - [https://www.nizarkazan.ch](https://www.nizarkazan.ch)
  - date_published: 2022-11-17T09:37:31+00:00
-
- ## Noord
- - [https://www.noord.ch](https://www.noord.ch)
- - date_published: 2024-09-09T19:50:54+00:00
 

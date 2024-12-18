@@ -1,3 +1,25 @@
+ ## GPT-5 | The Latest News on AI
+    
+         - The latest information on machine learning, AI, and GPT tools.
+ - [https://www.gpt-5.com](https://www.gpt-5.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Create AI Apps with Agent
+ - [https://www.gptagent.com](https://www.gptagent.com)
+ - date_published: 2024-10-17T15:58:12+00:00
+
+ ## GPT Auth | Authentication and monetization for your GPTs
+ - [https://gpt-auth.com](https://gpt-auth.com)
+ - date_published: 2024-10-30T16:27:10.523214+00:00
+
+ ## Element
+ - [https://chat2.gptbuddy.com](https://chat2.gptbuddy.com)
+ - date_published: 2023-05-10T14:31:41+00:00
+
+ ## AI Operations | GPTBuddy
+ - [https://gptbuddy.com](https://gptbuddy.com)
+ - date_published: 2024-05-11T00:00:00+00:00
+
  ## Web3 Summary | All in One Defi & NFT Platform
  - [https://gptcamp.com](https://gptcamp.com)
  - date_published: 2024-10-30T13:09:13.896981+00:00
@@ -4011,24 +4033,4 @@
  ## Groove | Build better customer experiences with Groove
  - [https://rumblefaq.groovehq.com](https://rumblefaq.groovehq.com)
  - date_published: 2024-04-23T00:00:00+00:00
-
- ## #1 Top Rated Help Desk Software (4.8/5 Stars on G2)
- - [https://www.groovehq.com](https://www.groovehq.com)
- - date_published: 2024-06-26T12:35:16+00:00
-
- ## GrooveJar - Your Best Conversion Rate Optimization Tool
- - [https://api.groovejar.com](https://api.groovejar.com)
- - date_published: 2024-10-30T11:00:12.075635+00:00
-
- ## GrooveSell
- - [https://groovepages.groovesell.com](https://groovepages.groovesell.com)
- - date_published: 2024-06-19T23:41:13.958707+00:00
-
- ## Salam Groovy Japan
- - [https://groovyjapan.com](https://groovyjapan.com)
- - date_published: 2024-05-07T10:48:01.419336+00:00
-
- ## Why pay an installer when you can do it yourself? - Alarm Grid
- - [http://groovymikes.com](http://groovymikes.com)
- - date_published: 2024-11-15T14:17:00+00:00
 

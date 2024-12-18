@@ -1,3 +1,7 @@
+ ## Devil May Cry Wiki
+ - [https://devilmaycry.fandom.com](https://devilmaycry.fandom.com)
+ - date_published: 2024-05-02T14:29:45.973285+00:00
+
  ## Devil May Cry Fanon Wiki
  - [https://devil-may-cry-fanon.fandom.com](https://devil-may-cry-fanon.fandom.com)
  - date_published: 2024-06-17T21:25:11+00:00
@@ -3994,8 +3998,4 @@
  ## InfoDepot Wiki
  - [https://infodepot.fandom.com](https://infodepot.fandom.com)
  - date_published: 2024-06-20T04:06:52+00:00
-
- ## Ingress Wiki
- - [https://ingress.fandom.com](https://ingress.fandom.com)
- - date_published: 2024-06-17T18:40:37+00:00
 

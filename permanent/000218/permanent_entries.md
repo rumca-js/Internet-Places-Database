@@ -1,3 +1,52 @@
+ ## ConWebWatch: because the conservative media need a watchdog, too
+ - [https://conwebwatch.tripod.com](https://conwebwatch.tripod.com)
+ - date_published: 2024-05-06T23:50:02.981420+00:00
+
+ ## Create a Website | Tripod Web Hosting
+ - [http://distortiongallery.tripod.com](http://distortiongallery.tripod.com)
+ - date_published: 2024-06-23T20:29:44.762048+00:00
+
+ ## Flapping Terror - CLOSED
+ - [http://doubleoduck.tripod.com](http://doubleoduck.tripod.com)
+ - date_published: 2024-10-23T10:19:04.949373+00:00
+
+ ## Eugene Goldberg's Web Page
+ - [http://eigold.tripod.com](http://eigold.tripod.com)
+ - date_published: 2024-08-18T18:45:25.292106+00:00
+
+ ## Shinji's Neon Genesis Evangelion site
+ - [https://gothicshinji.tripod.com](https://gothicshinji.tripod.com)
+ - date_published: 2024-07-10T17:07:38+00:00
+ - tags: ['neon genesis evangelion', 'fan page']
+
+ ## Jar Jar Binks: The greatest thing that ever happened to Star Wars-I LOVE JAR JAR!!!!
+ - [http://ilovejarjarbinks.tripod.com](http://ilovejarjarbinks.tripod.com)
+ - date_published: 2024-06-23T17:19:08.661598+00:00
+
+ ## Insomniac OD - My dream woman wears a smart suit
+ - [http://insomniac_od.tripod.com](http://insomniac_od.tripod.com)
+ - date_published: 2024-07-13T10:42:07.568295+00:00
+
+ ## Issues Ezine February - March 2003
+ - [http://issuesny.tripod.com](http://issuesny.tripod.com)
+ - date_published: 2024-06-23T17:21:00.631287+00:00
+
+ ## Jeff Miller Pages
+ - [http://jeff560.tripod.com](http://jeff560.tripod.com)
+ - date_published: 2024-06-30T07:22:36.830950+00:00
+
+ ## the artist
+ - [http://jo2bigornia.tripod.com](http://jo2bigornia.tripod.com)
+ - date_published: 2024-07-12T22:07:21.703394+00:00
+
+ ## Very Pissed Off Combat Veterans -- And Blueprints For Change By John McCarthy
+ - [http://johnmccarthy90066.tripod.com](http://johnmccarthy90066.tripod.com)
+ - date_published: 2024-12-12T21:50:17.835905+00:00
+
+ ## John Ray's academic writings
+ - [http://jonjayray.tripod.com](http://jonjayray.tripod.com)
+ - date_published: 2024-06-27T07:10:46.501213+00:00
+
  ## Khurasan Miniatures
  - [http://khurasanminiatures.tripod.com](http://khurasanminiatures.tripod.com)
  - date_published: 2024-07-20T06:27:18.848877+00:00
@@ -3974,52 +4023,4 @@
  ## Tumblr
  - [https://absurdistnaturereserve.tumblr.com](https://absurdistnaturereserve.tumblr.com)
  - date_published: 2024-12-13T09:17:41.334675+00:00
-
- ## Sharp as Teeth and Stars
- - [http://absurdlakefront.tumblr.com](http://absurdlakefront.tumblr.com)
- - date_published: 2024-07-09T20:26:41.501782+00:00
-
- ## Shit Academics Say
- - [https://academicssay.tumblr.com](https://academicssay.tumblr.com)
- - date_published: 2024-06-27T04:17:54.673652+00:00
-
- ## Tumblr
- - [https://accarasshrekobsession.tumblr.com](https://accarasshrekobsession.tumblr.com)
- - date_published: 2024-07-17T08:59:47.624383+00:00
-
- ## Accidentally Quadratic
- - [https://accidentallyquadratic.tumblr.com](https://accidentallyquadratic.tumblr.com)
- - date_published: 2024-08-19T07:15:43.626523+00:00
-
- ## Accident Lawyers Firm
- - [https://accidentlawyersfirm.tumblr.com](https://accidentlawyersfirm.tumblr.com)
- - date_published: 2024-10-19T04:12:08.800286+00:00
-
- ## ace-bucket
- - [https://ace-bucket.tumblr.com](https://ace-bucket.tumblr.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## acelestial
- - [https://ac-elestial.tumblr.com](https://ac-elestial.tumblr.com)
- - date_published: 2024-10-23T08:03:49.549773+00:00
-
- ## Addicted to Subtext
- - [https://acenerdsbian.tumblr.com](https://acenerdsbian.tumblr.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## .•~jaimecat stan account~•.
- - [https://a-chaotic-dumbass.tumblr.com](https://a-chaotic-dumbass.tumblr.com)
- - date_published: 2024-12-13T09:28:27.754521+00:00
-
- ## Tumblr
- - [https://acidbathcat.tumblr.com](https://acidbathcat.tumblr.com)
- - date_published: 2024-12-13T10:27:14.978267+00:00
-
- ## action on tumblr
- - [https://action.tumblr.com](https://action.tumblr.com)
- - date_published: 2024-10-23T08:06:37.058412+00:00
-
- ## G R I M E S
- - [https://actuallygrimes.tumblr.com](https://actuallygrimes.tumblr.com)
- - date_published: 2019-03-13T00:00:00+00:00
 

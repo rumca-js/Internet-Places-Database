@@ -1,3 +1,67 @@
+ ## FEDEK
+ - [http://fedek.org.tr](http://fedek.org.tr)
+ - date_published: 2024-10-18T22:11:11.736588+00:00
+
+ ## GNOME Türkiye
+ - [https://gnome.org.tr](https://gnome.org.tr)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## Güvenli Çocuk
+ - [http://www.guvenlicocuk.org.tr](http://www.guvenlicocuk.org.tr)
+ - date_published: 2024-10-19T17:24:26.365033+00:00
+
+ ## Güvenli Net
+ - [https://www.guvenlinet.org.tr](https://www.guvenlinet.org.tr)
+ - date_published: 2023-03-14T10:13:48+00:00
+
+ ## Ankara Uzay ve Havacılık İhtisas Organize Sanayi Bölgesi
+ - [https://www.hab.org.tr](https://www.hab.org.tr)
+ - date_published: 2024-09-19T19:55:09.208921+00:00
+
+ ## HEPDAK | Anasayfa
+ - [https://www.hepdak.org.tr](https://www.hepdak.org.tr)
+ - date_published: 2024-10-19T14:35:48.478109+00:00
+
+ ## İstanbul Araştırmaları Enstitüsü
+ - [https://www.iae.org.tr](https://www.iae.org.tr)
+ - date_published: 2024-10-27T23:46:58.720761+00:00
+
+ ## Ana Sayfa - Kamu İç Denetçileri Derneği
+ - [http://www.kidder.org.tr](http://www.kidder.org.tr)
+ - date_published: 2024-10-19T14:49:37.371746+00:00
+
+ ## Anasayfa | Konya Sanayi Odası
+ - [https://www.kso.org.tr](https://www.kso.org.tr)
+ - date_published: 2024-09-19T19:59:10+00:00
+
+ ## TSELAK
+ - [https://tselak.labkar.org.tr](https://tselak.labkar.org.tr)
+ - date_published: 2024-06-17T15:54:37.514962+00:00
+
+ ## Index of /
+ - [http://ftp.linux.org.tr](http://ftp.linux.org.tr)
+ - date_published: 2024-08-19T22:19:30.675699+00:00
+
+ ## Ana Sayfa - Doğu Marmara Kalkınma Ajansı
+ - [http://www.marka.org.tr](http://www.marka.org.tr)
+ - date_published: 2024-10-19T14:55:32.691924+00:00
+
+ ## Mevlana Kalkınma Ajansı
+ - [https://www.mevka.org.tr](https://www.mevka.org.tr)
+ - date_published: 2024-09-19T19:54:35.681936+00:00
+
+ ## ORAN Kalkınma Ajansı
+ - [https://www.oran.org.tr](https://www.oran.org.tr)
+ - date_published: 2024-10-19T17:12:04.474549+00:00
+
+ ## OSD - Anasayfa
+ - [https://www.osd.org.tr](https://www.osd.org.tr)
+ - date_published: 2024-08-07T23:00:29.775758+00:00
+
+ ## Özgür Yazılım Derneği
+ - [https://oyd.org.tr](https://oyd.org.tr)
+ - date_published: 2024-07-23T23:43:32.252963+00:00
+
  ## Pardus Gönüllüleri
  - [https://gonullu.pardus.org.tr](https://gonullu.pardus.org.tr)
  - date_published: 2024-08-17T23:30:59.970390+00:00
@@ -3179,6 +3243,7 @@
  ## Titan OS | Re-thinking TV
  - [https://www.titanos.tv](https://www.titanos.tv)
  - date_published: 2024-10-30T11:21:29+00:00
+ - tags: ['operating system']
 
  ## TMG Studios
  - [https://tmgstudios.tv](https://tmgstudios.tv)
@@ -3961,68 +4026,4 @@
  ## EF國際文教機構 | EF海外遊學留學 | EF台灣
  - [https://www.ef.com.tw](https://www.ef.com.tw)
  - date_published: 2024-05-01T00:00:00+00:00
-
- ## ELTA TECHNOLOGY
- - [https://www.elta.com.tw](https://www.elta.com.tw)
- - date_published: 2024-07-07T10:16:18.705430+00:00
-
- ## Experian - 益博睿——企業徵信，決策分析，反詐欺與身分辨識
- - [https://www.experian.com.tw](https://www.experian.com.tw)
- - date_published: 2024-06-25T21:31:54.279340+00:00
-
- ## 財團法人徐有庠紀念基金會
- - [http://yzhsu.feg.com.tw](http://yzhsu.feg.com.tw)
- - date_published: 2024-07-14T10:35:19.243788+00:00
-
- ## 基金投資規劃 | 投資理財網 | 富達投信 | 富達台灣
- - [https://www.fidelity.com.tw](https://www.fidelity.com.tw)
- - date_published: 2024-10-27T18:01:21.884714+00:00
-
- ## 火氣音樂｜Fire On Music
- - [https://www.fireonmusic.com.tw](https://www.fireonmusic.com.tw)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## Fitness factory｜健身工廠
- - [https://www.fitnessfactory.com.tw](https://www.fitnessfactory.com.tw)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## 台灣塑膠工業股份有限公司
- - [http://www.fpc.com.tw](http://www.fpc.com.tw)
- - date_published: 2024-12-15T14:23:10.755973+00:00
-
- ## FranklinCovey 富蘭克林柯維：全球最值得信賴的領導力公司
- - [https://www.franklincovey.com.tw](https://www.franklincovey.com.tw)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## 403 - 禁止: 拒絕存取。
- - [http://www.frenchcar.com.tw](http://www.frenchcar.com.tw)
- - date_published: 2024-07-04T07:36:23.876071+00:00
-
- ## 哈啦區 - 巴哈姆特
- - [https://forum.gamer.com.tw](https://forum.gamer.com.tw)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## 勇者福利社 - 巴哈姆特
- - [https://fuli.gamer.com.tw](https://fuli.gamer.com.tw)
- - date_published: 2024-10-22T10:40:42.880638+00:00
-
- ## 創作大廳 - 巴哈姆特
- - [https://home.gamer.com.tw](https://home.gamer.com.tw)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 巴哈姆特電玩資訊站
- - [https://m.gamer.com.tw](https://m.gamer.com.tw)
- - date_published: 2024-10-22T10:40:46.034963+00:00
-
- ## 巴哈姆特電玩資訊站
- - [https://prj.gamer.com.tw](https://prj.gamer.com.tw)
- - date_published: 2024-10-22T10:41:01.888925+00:00
-
- ## 巴哈姆特電玩資訊站
- - [https://www.gamer.com.tw](https://www.gamer.com.tw)
- - date_published: 2024-10-18T03:43:27.940367+00:00
-
- ## Home - GOLD APOLLO
- - [https://www.gapollo.com.tw](https://www.gapollo.com.tw)
- - date_published: 2024-09-18T00:00:00+00:00
 

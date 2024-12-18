@@ -1,3 +1,23 @@
+ ## #1 Top Rated Help Desk Software (4.8/5 Stars on G2)
+ - [https://www.groovehq.com](https://www.groovehq.com)
+ - date_published: 2024-06-26T12:35:16+00:00
+
+ ## GrooveJar - Your Best Conversion Rate Optimization Tool
+ - [https://api.groovejar.com](https://api.groovejar.com)
+ - date_published: 2024-10-30T11:00:12.075635+00:00
+
+ ## GrooveSell
+ - [https://groovepages.groovesell.com](https://groovepages.groovesell.com)
+ - date_published: 2024-06-19T23:41:13.958707+00:00
+
+ ## Salam Groovy Japan
+ - [https://groovyjapan.com](https://groovyjapan.com)
+ - date_published: 2024-05-07T10:48:01.419336+00:00
+
+ ## Why pay an installer when you can do it yourself? - Alarm Grid
+ - [http://groovymikes.com](http://groovymikes.com)
+ - date_published: 2024-11-15T14:17:00+00:00
+
  ## groovyPost Forums
  - [https://forum.groovypost.com](https://forum.groovypost.com)
  - date_published: 2024-05-15T00:00:00+00:00
@@ -4002,24 +4022,4 @@
  ## Gymshark Official Store - Up To 60% Off Gym & Workout Clothes
  - [https://se.gymshark.com](https://se.gymshark.com)
  - date_published: 2024-08-06T03:29:54.976162+00:00
-
- ## Gymshark Support
- - [https://support.gymshark.com](https://support.gymshark.com)
- - date_published: 2024-08-06T03:29:04.095676+00:00
-
- ## Gymshark Official Store - Gym Clothes & Workout Clothes
- - [https://uk.gymshark.com](https://uk.gymshark.com)
- - date_published: 2024-08-06T03:29:34.026931+00:00
-
- ## Workout Clothes & Activewear - Gymshark
- - [https://us.checkout.gymshark.com](https://us.checkout.gymshark.com)
- - date_published: 2024-08-06T03:29:48.818965+00:00
-
- ## The Adventures of Gyno-Star – Fighting the forces of evil and male chauvinism
- - [http://www.gynostar.com](http://www.gynostar.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## HTMX and the Rule of Least Power
- - [https://blog.gypsydave5.com](https://blog.gypsydave5.com)
- - date_published: 2024-04-12T00:00:00+00:00
 

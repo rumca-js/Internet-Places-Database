@@ -1,3 +1,63 @@
+ ## Sākumlapa
+ - [https://www.mil.lv](https://www.mil.lv)
+ - date_published: 2024-09-09T12:00:08+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.ly](https://images.google.com.ly)
+ - date_published: 2024-07-20T07:41:24.182147+00:00
+
+ ## Google
+ - [https://www.google.com.ly](https://www.google.com.ly)
+ - date_published: 2024-06-21T22:24:41.883064+00:00
+
+ ## Adobe: Creative, marketing and document management solutions
+ - [https://adobe.ly](https://adobe.ly)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Anomaly Innovations
+ - [https://anoma.ly](https://anoma.ly)
+ - date_published: 2024-09-04T07:27:52.394239+00:00
+
+ ## anxious.ly
+ - [https://anxious.ly](https://anxious.ly)
+ - date_published: 2024-09-04T19:35:01+00:00
+
+ ## Bigcapital | Financial accounting software for medium and small businesses.
+ - [https://bigcapital.ly](https://bigcapital.ly)
+ - date_published: 2023-10-25T20:19:36.733650+00:00
+
+ ## Blizzard Entertainment
+ - [http://blizz.ly](http://blizz.ly)
+ - date_published: 2024-08-18T15:19:41.075560+00:00
+
+ ## Bravo TV Official Site
+ - [http://bravo.ly](http://bravo.ly)
+ - date_published: 2024-10-31T22:51:38+00:00
+
+ ## Buffer: All-you-need social media toolkit for small businesses
+ - [https://buff.ly](https://buff.ly)
+ - date_published: 2024-05-06T14:18:52.082427+00:00
+
+ ## Send Personalised Cards Online | Card Delivery
+ - [http://card.ly](http://card.ly)
+ - date_published: 2024-06-30T04:43:27.817388+00:00
+
+ ## Leading Global Influencer Marketing | Digital Voices | London – New York
+ - [https://amd.chrd.ly](https://amd.chrd.ly)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Chronoly | Analytics for developers
+ - [https://www.chrono.ly](https://www.chrono.ly)
+ - date_published: 2024-11-22T10:54:26.742379+00:00
+
+ ## Zight Screen Recorder for Mac, Windows, Chrome, & iOS
+ - [https://cl.ly](https://cl.ly)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Zight Screen Recorder for Mac, Windows, Chrome, & iOS
+ - [https://my.cl.ly](https://my.cl.ly)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## Custom Domain by Bitly
  - [https://cldp.ly](https://cldp.ly)
  - date_published: 2024-06-30T17:23:28+00:00
@@ -4011,64 +4071,4 @@
  ## how to: instagram grid (2021)
  - [https://gridsly.glitch.me](https://gridsly.glitch.me)
  - date_published: 2020-12-07T12:30:21+00:00
-
- ## Hex Triplet Words
- - [https://hex-triplet-words.glitch.me](https://hex-triplet-words.glitch.me)
- - date_published: 2023-10-25T20:20:13.574717+00:00
-
- ## Hit the P!
- - [https://hit-the-p.glitch.me](https://hit-the-p.glitch.me)
- - date_published: 2020-07-13T12:12:43+00:00
-
- ## Hello!
- - [https://h-o-m-e-p-a-g-e.glitch.me](https://h-o-m-e-p-a-g-e.glitch.me)
- - date_published: 2021-12-08T13:35:52+00:00
-
- ## Hello World!
- - [https://how-should-i-colour-the-days.glitch.me](https://how-should-i-colour-the-days.glitch.me)
- - date_published: 2024-04-29T05:16:11.438408+00:00
-
- ## How to: Start Day
- - [https://how-to-start-day.glitch.me](https://how-to-start-day.glitch.me)
- - date_published: 2020-10-18T23:41:04+00:00
-
- ## I broke my phone today
- - [https://ibrokemyphonetoday.glitch.me](https://ibrokemyphonetoday.glitch.me)
- - date_published: 2020-09-24T11:31:09+00:00
-
- ## in2writing
- - [https://in2writing.glitch.me](https://in2writing.glitch.me)
- - date_published: 2024-04-15T17:56:30+00:00
-
- ## Waking up ･ﾟ✧
- - [https://indieweb-directory.glitch.me](https://indieweb-directory.glitch.me)
- - date_published: 2024-05-04T09:41:15.938450+00:00
-
- ## Infinity Train information
- - [https://infinitytrain.glitch.me](https://infinitytrain.glitch.me)
- - date_published: 2024-06-12T17:26:40+00:00
-
- ## JESUS CRISTO
- - [https://jesus-cristo.glitch.me](https://jesus-cristo.glitch.me)
- - date_published: 2020-09-23T23:06:48+00:00
-
- ## Remove text, leave punctuation
- - [https://just-the-punctuation.glitch.me](https://just-the-punctuation.glitch.me)
- - date_published: 2024-10-26T17:45:02+00:00
-
- ## light diff timer
- - [https://light-diff-time.glitch.me](https://light-diff-time.glitch.me)
- - date_published: 2020-07-13T14:02:03+00:00
-
- ## LIKELIKE Online / oMoMA
- - [https://likelike.glitch.me](https://likelike.glitch.me)
- - date_published: 2020-04-30T15:05:13+00:00
-
- ## Waking up ･ﾟ✧
- - [http://likeliketext.glitch.me](http://likeliketext.glitch.me)
- - date_published: 2024-07-17T23:26:07.783883+00:00
-
- ## DearArtem
- - [https://listen-to-your-heart.glitch.me](https://listen-to-your-heart.glitch.me)
- - date_published: 2022-01-20T18:18:12+00:00
 

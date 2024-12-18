@@ -1,3 +1,70 @@
+ ## https://victimservicecenter.org/
+ - [https://victimservicecenter.org](https://victimservicecenter.org)
+ - date_published: 2024-07-03T14:41:05.521190+00:00
+
+ ## Home | Victims For Justice
+ - [https://victimsforjustice.org](https://victimsforjustice.org)
+ - date_published: 2018-01-04T00:31:51+00:00
+
+ ## The Dictionary of Victorian London, by Lee Jackson, author
+ - [http://www.victorianlondon.org](http://www.victorianlondon.org)
+ - date_published: 2023-10-19T16:56:59+00:00
+
+ ## The Victorian Web: Linking Scholarship, Teaching and Learning since 1994
+ - [https://victorianweb.org](https://victorianweb.org)
+ - date_published: 2023-11-01T18:33:01.038777+00:00
+
+ ## Inicio - Vida Salvaje
+ - [https://vidasalvaje.org](https://vidasalvaje.org)
+ - date_published: 2023-11-29T14:42:58.928937+00:00
+ - tags: ['personal']
+
+ ## Fundación por un Mundo Libre de Drogas Sitio: Hechos para Adultos y Adolescentes sobre el Abuso de Drogas y Sustancias, Información de Libros sobre Drogas, Educación
+ - [http://www.vidasindrogas.org](http://www.vidasindrogas.org)
+ - date_published: 2024-09-04T17:58:33.319951+00:00
+
+ ## Empowering the World's Documentarians
+ - [https://videoconsortium.org](https://videoconsortium.org)
+ - date_published: 2024-09-15T09:41:14+00:00
+
+ ## Video Dev
+ - [https://video-dev.org](https://video-dev.org)
+ - date_published: 2024-05-17T02:54:27.124063+00:00
+ - tags: ['open source', 'video codecs']
+
+ ## VideoFest is the longest running independent film festival in Dallas.
+ - [http://www.videofest.org](http://www.videofest.org)
+ - date_published: 2024-07-11T16:10:30.362237+00:00
+
+ ## Browse  Latest | https://addons.videolan.org/browse/
+ - [https://addons.videolan.org](https://addons.videolan.org)
+ - date_published: 2024-05-17T02:55:05.360263+00:00
+ - tags: ['vlc', 'program extensions']
+
+ ## Index of /
+ - [https://artifacts.videolan.org](https://artifacts.videolan.org)
+ - date_published: 2024-05-17T02:55:10.054300+00:00
+
+ ## Explore projects · GitLab
+ - [https://code.videolan.org](https://code.videolan.org)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## The VideoLAN Forums - Forum Home
+ - [https://forum.videolan.org](https://forum.videolan.org)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Index of /videolan/
+ - [https://get.videolan.org](https://get.videolan.org)
+ - date_published: 2024-05-17T02:55:04.339251+00:00
+
+ ## git.videolan.org Git
+ - [https://git.videolan.org](https://git.videolan.org)
+ - date_published: 2024-05-12T06:58:10.695907+00:00
+
+ ## VLC: Official site - Free multimedia solutions for all OS! - VideoLAN
+ - [https://images.videolan.org](https://images.videolan.org)
+ - date_published: 2024-02-16T00:00:00+00:00
+
  ## VLC media player continuous nightly builds - VideoLAN
  - [http://nightlies.videolan.org](http://nightlies.videolan.org)
  - date_published: 2023-01-11T17:30:02+00:00
@@ -3977,68 +4044,4 @@
  ## Web IDL Standard
  - [https://webidl.spec.whatwg.org](https://webidl.spec.whatwg.org)
  - date_published: 2024-07-02T03:12:26+00:00
-
- ## WebSockets Standard
- - [https://websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Web Hypertext Application Technology Working Group (WHATWG)
- - [https://whatwg.org](https://whatwg.org)
- - date_published: 2024-05-11T05:35:57.397694+00:00
-
- ## WHATWG Wiki
- - [https://wiki.whatwg.org](https://wiki.whatwg.org)
- - date_published: 2024-03-18T17:29:51+00:00
-
- ## XMLHttpRequest Standard
- - [https://xhr.spec.whatwg.org](https://xhr.spec.whatwg.org)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## What Would You Say?
- - [https://whatwouldyousay.org](https://whatwouldyousay.org)
- - date_published: 2024-07-03T06:01:10+00:00
-
- ## Home - Wheelchairgames
- - [https://wheelchairgames.org](https://wheelchairgames.org)
- - date_published: 2021-09-13T13:07:49+00:00
-
- ## Wheelmap
- - [https://wheelmap.org](https://wheelmap.org)
- - date_published: 2024-07-14T14:49:45.675731+00:00
-
- ## wheels.org
- - [https://wheels.org](https://wheels.org)
- - date_published: 2024-10-31T15:40:37.846433+00:00
-
- ## Home - When We All Vote
- - [https://whenweallvote.org](https://whenweallvote.org)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Home - Find Shooting Ranges Near You | Where To Shoot
- - [http://wheretoshoot.org](http://wheretoshoot.org)
- - date_published: 2024-07-04T00:00:39.039871+00:00
-
- ## WHI Lab ·
- - [https://whilab.org](https://whilab.org)
- - date_published: 2024-07-18T00:37:30+00:00
-
- ## Whiley
- - [https://whiley.org](https://whiley.org)
- - date_published: 2024-02-11T22:19:37+00:00
-
- ## Whipsnade Zoo | A ZSL conservation zoo
- - [https://www.whipsnadezoo.org](https://www.whipsnadezoo.org)
- - date_published: 2024-10-15T07:06:03.124164+00:00
-
- ## Signal Support
- - [http://support.whispersystems.org](http://support.whispersystems.org)
- - date_published: 2015-10-20T00:00:00+00:00
-
- ## Signal Messenger: Speak Freely
- - [https://whispersystems.org](https://whispersystems.org)
- - date_published: 2024-08-07T14:57:31.650074+00:00
-
- ## Whispy
- - [https://whispy.org](https://whispy.org)
- - date_published: 2024-07-08T09:28:18.387893+00:00
 

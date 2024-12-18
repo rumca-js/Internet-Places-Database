@@ -1,3 +1,59 @@
+ ## Synapse Développement, IA générative pour la relation client.
+ - [https://www.synapse-developpement.fr](https://www.synapse-developpement.fr)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Syndicat de l'industrie informatique CNT – Solidarité Ouvrière
+ - [https://www.syndicat-informatique.fr](https://www.syndicat-informatique.fr)
+ - date_published: 2024-07-08T10:57:18.116010+00:00
+
+ ## Bienvenue sur Synth Media
+ - [https://synthmedia.fr](https://synthmedia.fr)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Sysnove : Infogérance de serveurs dédiés | Sysnove
+ - [https://www.sysnove.fr](https://www.sysnove.fr)
+ - date_published: 2021-06-17T07:29:11+00:00
+
+ ## Solutions temps réel sécurisées, logiciel critique, sûreté de fonctionnement
+ - [https://www.systerel.fr](https://www.systerel.fr)
+ - date_published: 2024-07-08T10:59:11.391531+00:00
+
+ ## Accueil
+ - [https://www.tagbox.fr](https://www.tagbox.fr)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Tais-toi et peins ! - Tutos, peinture sur figurines & photos pourries
+ - [https://www.taistoietpeins.fr](https://www.taistoietpeins.fr)
+ - date_published: 2024-10-26T21:29:03.278839+00:00
+
+ ## Benoit VRIGNAUD – Développeur free-lance, je conçois vos outils informatiques sur mesure.
+ - [https://www.tangue.fr](https://www.tangue.fr)
+ - date_published: 2024-07-08T10:57:19.597473+00:00
+
+ ## Tanium : la plateforme de gestion autonome des endpoints
+ - [https://www.tanium.fr](https://www.tanium.fr)
+ - date_published: 2024-12-16T17:24:15.266807+00:00
+
+ ## Store Taylor Swift - Store Taylor Swift
+ - [https://taylorswift-store.fr](https://taylorswift-store.fr)
+ - date_published: 2024-10-19T19:43:30.957226+00:00
+
+ ## Mastodon by tcit
+ - [https://social.tcit.fr](https://social.tcit.fr)
+ - date_published: 2024-05-14T04:06:23.624902+00:00
+
+ ## ACCUEIL (page) – LES ECHOS LE PARISIEN MÉDIAS
+ - [https://teamedia.fr](https://teamedia.fr)
+ - date_published: 2024-06-30T06:42:50.928464+00:00
+
+ ## Team France Export - Accompagner les entreprises françaises à l'international
+ - [https://www.teamfrance-export.fr](https://www.teamfrance-export.fr)
+ - date_published: 2024-09-11T18:09:16.836647+00:00
+
+ ## Impression Textile - Personnalisation Vêtement | TeamShirts
+ - [https://www.teamshirts.fr](https://www.teamshirts.fr)
+ - date_published: 2024-10-21T09:00:35.935070+00:00
+
  ## Logiciel de gestion automobile | Véhicules neufs & occasions | tec3h
  - [https://tec3h.fr](https://tec3h.fr)
  - date_published: 2024-07-12T06:50:31.237734+00:00
@@ -3956,61 +4012,4 @@ Secrétariat d'État chargé de la Mer
  ## Dash Enterprise
  - [https://dash.gallery](https://dash.gallery)
  - date_published: 2020-08-07T18:23:31+00:00
-
- ## Deck.Gallery® — Beautifully designed decks, curated
- - [https://deck.gallery](https://deck.gallery)
- - date_published: 2024-05-09T06:11:55.947419+00:00
-
- ## DOMINO CLUB
- - [https://domino.gallery](https://domino.gallery)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## FORMA — FORMA.GALLERY
- - [http://www.forma.gallery](http://www.forma.gallery)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Free Faces
- - [https://www.freefaces.gallery](https://www.freefaces.gallery)
- - date_published: 2024-11-25T21:30:43+00:00
-
- ## Function
- - [https://function.gallery](https://function.gallery)
- - date_published: 2024-09-14T09:24:46.672768+00:00
-
- ## The struggle is real The first-person shooter as an allegory of social media life | An artist tournament set in Fondazione Spara — an online survival multiplayer video game by Riccardo Rudi and Superinternet | Green Cube Gallery
- - [http://greencube.gallery](http://greencube.gallery)
- - date_published: 2024-07-13T15:19:38.788611+00:00
-
- ## Nico Kaiser - Photos
- - [https://kaiser.gallery](https://kaiser.gallery)
- - date_published: 2024-07-05T09:56:29+00:00
-
- ## Files - Nextcloud
- - [https://demo.memories.gallery](https://demo.memories.gallery)
- - date_published: 2024-03-21T20:42:24.918216+00:00
-
- ## Show HN: Memories, FOSS Google Photos alternative built for high performance
- - [https://memories.gallery](https://memories.gallery)
- - date_published: 2024-03-21T19:25:10+00:00
- - tags: ['self-host']
-
- ## Mimesia Gallery
- - [https://mimesia.gallery](https://mimesia.gallery)
- - date_published: 2024-06-15T10:56:19.428840+00:00
-
- ## Minimal Gallery – Website inspiration
- - [https://minimal.gallery](https://minimal.gallery)
- - date_published: 2023-10-25T19:16:29.833681+00:00
-
- ## MONA
- - [https://www.mona.gallery](https://www.mona.gallery)
- - date_published: 2024-09-23T13:11:18.327709+00:00
-
- ## The Mutable Gallery
- - [https://mutable.gallery](https://mutable.gallery)
- - date_published: 2024-09-18T19:08:43.358627+00:00
-
- ## Nyx.gallery - AI-generated photography
- - [https://nyx.gallery](https://nyx.gallery)
- - date_published: 2023-10-25T19:16:35.991453+00:00
 

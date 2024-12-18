@@ -1,3 +1,7 @@
+ ## Ahmed Ghazi Web Design + Code
+ - [https://ahmedghazi.com](https://ahmedghazi.com)
+ - date_published: 2024-06-20T16:27:42.428475+00:00
+
  ## Ahmed Ibrahim
  - [https://ahmed-ibrahim.com](https://ahmed-ibrahim.com)
  - date_published: 2024-05-11T10:18:58.771672+00:00
@@ -4029,8 +4033,4 @@
  ## Home
  - [https://alatepartners.com](https://alatepartners.com)
  - date_published: 2024-07-15T12:39:30.766035+00:00
-
- ## The Alation Data Intelligence Platform: Data Catalog & Governance
- - [https://www.alation.com](https://www.alation.com)
- - date_published: 2024-10-14T09:04:52.942379+00:00
 

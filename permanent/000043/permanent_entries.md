@@ -1,3 +1,7 @@
+ ## Auto Insurance Quotes - Car Insurance | Allstate Online Quote
+ - [https://purchase.allstate.com](https://purchase.allstate.com)
+ - date_published: 2024-10-02T10:28:15.316021+00:00
+
  ## Allstate Insurance Company | You're In Good Hands.
  - [https://www.allstate.com](https://www.allstate.com)
  - date_published: 0001-01-01T00:00:00+00:00
@@ -4043,8 +4047,4 @@
  ## amirisu co.
  - [https://amirisu.com](https://amirisu.com)
  - date_published: 2024-04-29T03:43:29.955624+00:00
-
- ## amirisu - Online shop for yarns and textiles selected from all over the world
- - [https://shop.amirisu.com](https://shop.amirisu.com)
- - date_published: 2024-08-06T03:08:06.174958+00:00
 

@@ -1,3 +1,7 @@
+ ## BBC Wildlife Magazine: nature, conservation and wildlife watching
+ - [https://discoverwildlife.com](https://discoverwildlife.com)
+ - date_published: 2024-05-17T00:00:00+00:00
+
  ## Home
  - [https://corporate.discovery.com](https://corporate.discovery.com)
  - date_published: 2024-04-30T00:00:00+00:00
@@ -4031,8 +4035,4 @@
  ## Dog Tricks World - Teach Your Dog A New Trick
  - [https://dogtricksworld.com](https://dogtricksworld.com)
  - date_published: 2023-11-20T14:44:21.971118+00:00
-
- ## home
- - [https://dogwellnet.com](https://dogwellnet.com)
- - date_published: 2024-08-06T08:10:43+00:00
 

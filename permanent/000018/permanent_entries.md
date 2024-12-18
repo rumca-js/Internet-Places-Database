@@ -1,3 +1,7 @@
+ ## Dr. Carin Bondar - Biologist with a Twist
+ - [https://carinbondar.ca](https://carinbondar.ca)
+ - date_published: 2024-10-19T06:26:22.302932+00:00
+
  ## Home - Canadian Association of Research Libraries
  - [https://www.carl-abrc.ca](https://www.carl-abrc.ca)
  - date_published: 2024-10-22T21:49:47.733594+00:00
@@ -4031,8 +4035,4 @@
  ## L. Ron Hubbard - Scientology & Dianetics Founder
  - [https://www.lronhubbard.ca](https://www.lronhubbard.ca)
  - date_published: 2024-06-06T19:38:31.754675+00:00
-
- ## Law Society of Ontario Home | Law Society of Ontario
- - [https://lso.ca](https://lso.ca)
- - date_published: 2024-09-02T13:02:39.708237+00:00
 

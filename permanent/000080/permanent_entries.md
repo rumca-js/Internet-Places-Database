@@ -1,3 +1,7 @@
+ ## Code With Antonio
+ - [https://codewithantonio.com](https://codewithantonio.com)
+ - date_published: 2024-04-29T07:32:31.093345+00:00
+
  ## codewithbolt.com
  - [https://www.codewithbolt.com](https://www.codewithbolt.com)
  - date_published: 2024-10-20T15:21:55.017043+00:00
@@ -4041,9 +4045,4 @@ Colyvan's Homepage
  ## Commodore Computer Club – USA - Vancouver, WA – Portland, OR – PDX Commodore Users Group
  - [https://www.commodorecomputerclub.com](https://www.commodorecomputerclub.com)
  - date_published: 2024-07-20T20:57:33.276916+00:00
-
- ## Commodore Format Archive – Commodore Format magazine fan site
- - [https://commodoreformatarchive.com](https://commodoreformatarchive.com)
- - date_published: 2023-10-25T11:14:50.885010+00:00
- - tags: ['magazine', 'commodore']
 

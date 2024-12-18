@@ -1,3 +1,7 @@
+ ## TerribleHack X
+ - [https://terriblehack-x.devpost.com](https://terriblehack-x.devpost.com)
+ - date_published: 2024-08-19T19:20:34.580709+00:00
+
  ## TerribleHack XI
  - [https://terriblehack-xi.devpost.com](https://terriblehack-xi.devpost.com)
  - date_published: 2024-08-19T19:20:32.966873+00:00
@@ -4040,8 +4044,4 @@ A blog about programming, distributed systems and others
  ## DiscoverWatamu
  - [https://www.discoverwatamu.com](https://www.discoverwatamu.com)
  - date_published: 2024-10-20T01:16:02.722380+00:00
-
- ## BBC Wildlife Magazine: nature, conservation and wildlife watching
- - [https://discoverwildlife.com](https://discoverwildlife.com)
- - date_published: 2024-05-17T00:00:00+00:00
 

@@ -1,3 +1,56 @@
+ ## Askwho Casts AI | Substack
+ - [https://askwhocastsai.substack.com](https://askwhocastsai.substack.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## The Matter Blotter | Alan Aspuru-Guzik | Substack
+ - [https://aspuru.substack.com](https://aspuru.substack.com)
+ - date_published: 2024-07-01T05:47:43.624474+00:00
+
+ ## Assisted Everything | Marco Witzmann | Substack
+ - [https://assistedeverything.substack.com](https://assistedeverything.substack.com)
+ - date_published: 2023-10-25T09:42:57.739698+00:00
+ - tags: ['substack']
+
+ ## Adrian’s Letters | Adrian Stobbe | Substack
+ - [https://astobbe.substack.com](https://astobbe.substack.com)
+ - date_published: 2024-05-01T02:27:58.962036+00:00
+
+ ## Astral Codex Ten | Scott Alexander | Substack
+ - [https://astralcodexten.substack.com](https://astralcodexten.substack.com)
+ - date_published: 2023-10-25T09:43:00.399502+00:00
+ - tags: ['substack']
+
+ ## Athelas Engineering | Aakash Adesara | Substack
+ - [https://athelaseng.substack.com](https://athelaseng.substack.com)
+ - date_published: 2023-10-25T09:43:02.627661+00:00
+ - tags: ['substack']
+
+ ## Cold Brew | Atit Kothari | Substack
+ - [https://atitkothari.substack.com](https://atitkothari.substack.com)
+ - date_published: 2024-05-04T10:03:27.672762+00:00
+
+ ## atomic14 | Chris Greening | Substack
+ - [https://atomic14.substack.com](https://atomic14.substack.com)
+ - date_published: 2023-11-04T18:28:36.332399+00:00
+
+ ## Auerstack | David B. Auerbach | Substack
+ - [https://auerstack.substack.com](https://auerstack.substack.com)
+ - date_published: 2023-10-25T09:43:04.705340+00:00
+ - tags: ['substack']
+
+ ## August's Newsletter | August Lamm | Substack
+ - [https://augustlamm.substack.com](https://augustlamm.substack.com)
+ - date_published: 2024-12-12T06:54:06.384279+00:00
+
+ ## Thought Thumbstack | Utkarsh Singh | Substack
+ - [https://auralie.substack.com](https://auralie.substack.com)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Trying to Understand the World | Aurelien | Substack
+ - [https://aurelien2022.substack.com](https://aurelien2022.substack.com)
+ - date_published: 2023-10-25T09:43:13.295537+00:00
+ - tags: ['substack']
+
  ## The Total State | Auron MacIntyre | Substack
  - [https://auronmacintyre.substack.com](https://auronmacintyre.substack.com)
  - date_published: 2024-02-12T00:00:00+00:00
@@ -4040,52 +4093,4 @@
  ## Jason Pargin’s Newsletter | jasonpargin | Substack
  - [https://jasonpargin.substack.com](https://jasonpargin.substack.com)
  - date_published: 2024-03-16T03:36:41.460320+00:00
-
- ## The Experiment | Jason Stanford | Substack
- - [https://jasonstanford.substack.com](https://jasonstanford.substack.com)
- - date_published: 2023-11-28T22:06:34.502561+00:00
-
- ## Java Newsletter | Suraj Mishra | Substack
- - [https://javabulletin.substack.com](https://javabulletin.substack.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Politics, News, Novels and More | MJ Javani | Substack
- - [https://javani.substack.com](https://javani.substack.com)
- - date_published: 2024-01-09T01:41:06.222556+00:00
-
- ## Javarevisited Newsletter | javinpaul | Substack
- - [https://javarevisited.substack.com](https://javarevisited.substack.com)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## Bloomin' Faeries! | Jaycee Knight Erotica | Substack
- - [https://jayceeknight.substack.com](https://jayceeknight.substack.com)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## These Are Systems | Jacob Bayless | Substack
- - [https://jbconsulting.substack.com](https://jbconsulting.substack.com)
- - date_published: 2024-01-09T01:41:08.420577+00:00
-
- ## gripes and musings | Jonathan Ben-Menachem | Substack
- - [https://jbenmenachem.substack.com](https://jbenmenachem.substack.com)
- - date_published: 2024-08-09T04:36:29.609264+00:00
-
- ## America First Report | JD Rucker | Substack
- - [https://jdrucker.substack.com](https://jdrucker.substack.com)
- - date_published: 2024-08-11T14:41:38.570305+00:00
-
- ## Encyclopedia Autonomica | J Daniel Semrau | MFin | CAIO | Substack
- - [https://jdsemrau.substack.com](https://jdsemrau.substack.com)
- - date_published: 2024-10-28T07:12:41.269033+00:00
-
- ## Tech and Tea | Jean Hsu | Substack
- - [https://jeanhsu.substack.com](https://jeanhsu.substack.com)
- - date_published: 2024-01-09T01:41:11.957328+00:00
-
- ## Generation Tech | Jean M. Twenge | Substack
- - [https://jeanmtwenge.substack.com](https://jeanmtwenge.substack.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## White Rabbit Pursuits | Substack
- - [https://jeannette.substack.com](https://jeannette.substack.com)
- - date_published: 2024-05-10T06:14:27.470104+00:00
 

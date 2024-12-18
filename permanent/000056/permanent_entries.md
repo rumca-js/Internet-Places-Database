@@ -1,3 +1,7 @@
+ ## The Microscopists
+ - [https://themicroscopists.bitesizebio.com](https://themicroscopists.bitesizebio.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
  ## Bitesized Engineering | Mihailo Joksimovic | Substack
  - [https://www.bitesizedengineering.com](https://www.bitesizedengineering.com)
  - date_published: 2023-10-25T13:01:25.431101+00:00
@@ -4052,8 +4056,4 @@
  ## bloggy
  - [http://bloggy.com](http://bloggy.com)
  - date_published: 2020-12-30T01:25:00+00:00
-
- ## Full Service Managed WordPress Hosting - PressHarbor
- - [http://aicyberlaw.blogharbor.com](http://aicyberlaw.blogharbor.com)
- - date_published: 2024-05-31T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## From scratch
+ - [https://fromscratch.bharatkalluri.com](https://fromscratch.bharatkalluri.com)
+ - date_published: 2024-07-10T06:26:44.068726+00:00
+
  ## Welcome to Bharat's digital garden
  - [https://notes.bharatkalluri.com](https://notes.bharatkalluri.com)
  - date_published: 2024-07-04T00:00:00+00:00
@@ -4022,8 +4026,4 @@
  ## The Happy Scientist
  - [https://thehappyscientist.bitesizebio.com](https://thehappyscientist.bitesizebio.com)
  - date_published: 2024-08-16T00:00:00+00:00
-
- ## The Microscopists
- - [https://themicroscopists.bitesizebio.com](https://themicroscopists.bitesizebio.com)
- - date_published: 2024-08-08T00:00:00+00:00
 

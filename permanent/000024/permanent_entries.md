@@ -1,3 +1,7 @@
+ ## Noord
+ - [https://www.noord.ch](https://www.noord.ch)
+ - date_published: 2024-09-09T19:50:54+00:00
+
  ## nossaistorgia.ch
  - [https://nossaistorgia.ch](https://nossaistorgia.ch)
  - date_published: 2024-08-06T18:03:32.078484+00:00
@@ -4014,8 +4018,4 @@ Fakultät | Universität Basel
  ## Rocket.Chat: Kommunikationsplattform, der Sie voll und ganz vertrauen können
  - [https://de.rocket.chat](https://de.rocket.chat)
  - date_published: 2024-05-13T00:00:00+00:00
-
- ## Rocket.Chat Developer | Rocket.Chat Developer
- - [https://developer.rocket.chat](https://developer.rocket.chat)
- - date_published: 2024-04-18T00:00:00+00:00
 

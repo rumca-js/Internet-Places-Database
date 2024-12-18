@@ -921,6 +921,10 @@
  - [https://visit.atnf.csiro.au](https://visit.atnf.csiro.au)
  - date_published: 2024-08-13T01:43:07+00:00
 
+ ## Show HN: Atlas of Water Science via generative AI
+ - [https://wateratlas.webapp.csiro.au](https://wateratlas.webapp.csiro.au)
+ - date_published: 2024-12-16T23:13:14+00:00
+
  ## Australia Telescope National Facility |
  - [https://www.atnf.csiro.au](https://www.atnf.csiro.au)
  - date_published: 2024-03-06T00:00:00+00:00
@@ -4013,8 +4017,4 @@
  ## Agricultural & rural farm news | Farm Weekly | WA
  - [https://www.farmweekly.com.au](https://www.farmweekly.com.au)
  - date_published: 2024-07-09T20:52:57+00:00
-
- ## Fashion Journal | A fashion magazine for people like you
- - [https://fashionjournal.com.au](https://fashionjournal.com.au)
- - date_published: 2024-08-16T00:00:00+00:00
 

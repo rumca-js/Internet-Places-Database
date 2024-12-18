@@ -1,3 +1,7 @@
+ ## Blogger
+ - [http://www.godontrial.blogspot.com](http://www.godontrial.blogspot.com)
+ - date_published: 2024-12-12T21:48:29.078993+00:00
+
  ## gotimmigration
  - [http://www.gotimmigration.blogspot.com](http://www.gotimmigration.blogspot.com)
  - date_published: 2024-03-08T23:16:19+00:00
@@ -4037,8 +4041,4 @@
  ## Apparel, Gifts & Textbooks | University of Michigan - Flint Official Bookstore
  - [https://umflint.bncollege.com](https://umflint.bncollege.com)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## Apparel, Gifts & Textbooks | Official Store of the University of North Carolina
- - [https://unc.bncollege.com](https://unc.bncollege.com)
- - date_published: 2024-05-07T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## A Mindful Mumble
+ - [https://spencerblogssometimes.blogspot.com](https://spencerblogssometimes.blogspot.com)
+ - date_published: 2024-03-13T03:00:18+00:00
+
  ## spending loud night!
  - [http://spendingloudnight.blogspot.com](http://spendingloudnight.blogspot.com)
  - date_published: 2024-10-07T04:17:45+00:00
@@ -4007,8 +4011,4 @@
  ## Blogger
  - [http://tokyo-girl.blogspot.com](http://tokyo-girl.blogspot.com)
  - date_published: 2024-12-12T19:30:41.181196+00:00
-
- ## Mikes Wargaming & Modelling Blog
- - [http://tolcrothlogan.blogspot.com](http://tolcrothlogan.blogspot.com)
- - date_published: 2024-07-16T21:04:02+00:00
 

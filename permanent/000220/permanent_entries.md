@@ -1,3 +1,51 @@
+ ## DFTBA Records
+ - [https://dftbarecords.tumblr.com](https://dftbarecords.tumblr.com)
+ - date_published: 2024-05-09T05:49:43.457438+00:00
+
+ ## I am that is
+ - [https://dgalerab.tumblr.com](https://dgalerab.tumblr.com)
+ - date_published: 2024-09-16T06:43:32.415780+00:00
+
+ ## Tumblr
+ - [https://dhampirslovecomrades.tumblr.com](https://dhampirslovecomrades.tumblr.com)
+ - date_published: 2024-10-16T01:31:22.873364+00:00
+
+ ## Loud Welsh Introvert
+ - [https://dheanasaur.tumblr.com](https://dheanasaur.tumblr.com)
+ - date_published: 2024-06-30T07:39:31.612085+00:00
+
+ ## Dangerous Luxury
+ - [https://diamondwerewolf.tumblr.com](https://diamondwerewolf.tumblr.com)
+ - date_published: 2024-12-13T11:16:56.207859+00:00
+
+ ## Diary of a Leatherman
+ - [https://diaryofaleatherman.tumblr.com](https://diaryofaleatherman.tumblr.com)
+ - date_published: 2015-03-18T00:00:00+00:00
+
+ ## claudia
+ - [https://diawhims.tumblr.com](https://diawhims.tumblr.com)
+ - date_published: 2024-10-23T08:37:04.813532+00:00
+
+ ## DIBLAH
+ - [http://diblah-blog.tumblr.com](http://diblah-blog.tumblr.com)
+ - date_published: 2024-09-16T06:41:44.034134+00:00
+
+ ## Dicebound: Tabletop RPG Fan-Blog
+ - [https://dicebound.tumblr.com](https://dicebound.tumblr.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## ♥inactive ♥
+ - [https://dietgonta.tumblr.com](https://dietgonta.tumblr.com)
+ - date_published: 2024-10-23T13:08:07.885221+00:00
+
+ ## digitalpaws
+ - [https://digitalpaws.tumblr.com](https://digitalpaws.tumblr.com)
+ - date_published: 2024-10-23T08:03:32.136948+00:00
+
+ ## The Mind of Okumura
+ - [https://digital-striker.tumblr.com](https://digital-striker.tumblr.com)
+ - date_published: 2024-10-26T14:38:27.365398+00:00
+
  ## Untitled
  - [https://dig-jules.tumblr.com](https://dig-jules.tumblr.com)
  - date_published: 2024-12-13T10:25:47.054097+00:00
@@ -3952,52 +4000,4 @@ is being bad
  ## Desmarais
  - [http://katedesmarais.tumblr.com](http://katedesmarais.tumblr.com)
  - date_published: 2024-09-16T04:23:31.501661+00:00
-
- ## Kate FoX Art
- - [https://katefoxart.tumblr.com](https://katefoxart.tumblr.com)
- - date_published: 2024-12-13T10:58:52.312140+00:00
-
- ## Kate is lazy, Kate is bored
- - [http://kateislazy.tumblr.com](http://kateislazy.tumblr.com)
- - date_published: 2024-07-12T15:11:42.716837+00:00
-
- ## the melancholic temperament
- - [http://katelizabeth.tumblr.com](http://katelizabeth.tumblr.com)
- - date_published: 2024-06-27T02:33:37.138840+00:00
-
- ## Katemonkeyville
- - [https://katemonkeyville.tumblr.com](https://katemonkeyville.tumblr.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## "Critical Kate" Willært
- - [https://katewillaert.tumblr.com](https://katewillaert.tumblr.com)
- - date_published: 2024-10-31T15:37:51.779319+00:00
-
- ## oh, but, it seems i wore my long legs today.
- - [https://kathrynmhahn.tumblr.com](https://kathrynmhahn.tumblr.com)
- - date_published: 2024-12-13T11:50:54.379404+00:00
-
- ## Kat - of the 999xx variety
- - [https://katkat030.tumblr.com](https://katkat030.tumblr.com)
- - date_published: 2024-06-27T02:49:22.300922+00:00
-
- ## Relax, We’re All Crazy. It’s Not A Competition.
- - [https://katsen13.tumblr.com](https://katsen13.tumblr.com)
- - date_published: 2024-10-16T01:59:14.824695+00:00
-
- ## BYE
- - [https://kat.tumblr.com](https://kat.tumblr.com)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Tumblr
- - [http://kawaiiraggie.tumblr.com](http://kawaiiraggie.tumblr.com)
- - date_published: 2024-10-16T02:01:43.349279+00:00
-
- ## Kazunori Miura
- - [https://kazunori-miura.tumblr.com](https://kazunori-miura.tumblr.com)
- - date_published: 2024-10-14T17:00:25.014113+00:00
-
- ## KBBBLOG
- - [http://kbbblog.tumblr.com](http://kbbblog.tumblr.com)
- - date_published: 2024-09-14T22:51:46.937268+00:00
 

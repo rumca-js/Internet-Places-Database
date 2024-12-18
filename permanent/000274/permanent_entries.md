@@ -1,3 +1,59 @@
+ ## Information Technology | Kent State University
+ - [https://support.kent.edu](https://support.kent.edu)
+ - date_published: 2024-07-01T03:56:43+00:00
+
+ ## Welcome to KSU | Kent State University
+ - [https://welcome.kent.edu](https://welcome.kent.edu)
+ - date_published: 2024-07-01T00:13:24+00:00
+
+ ## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
+ - [https://www.kent.edu](https://www.kent.edu)
+ - date_published: 2023-10-25T11:22:42.294245+00:00
+
+ ## Chicago-Kent College of Law | Chicago-Kent College of Law
+ - [https://www.kentlaw.edu](https://www.kentlaw.edu)
+ - date_published: 2024-03-24T16:57:37.545830+00:00
+
+ ## Branding
+ - [http://brand.kgi.edu](http://brand.kgi.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## KGI - Ebook Download
+ - [https://ebook.kgi.edu](https://ebook.kgi.edu)
+ - date_published: 2018-04-25T00:00:00+00:00
+
+ ## Home
+ - [https://kgi.edu](https://kgi.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Give Now
+ - [https://legacy.kgi.edu](https://legacy.kgi.edu)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Home - Professional and Continuing Education
+ - [https://pce.kgi.edu](https://pce.kgi.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Kirkwood Community College
+ - [https://apply.kirkwood.edu](https://apply.kirkwood.edu)
+ - date_published: 2024-06-20T16:48:48.205510+00:00
+
+ ## Kirkwood MyHub
+ - [https://hub.kirkwood.edu](https://hub.kirkwood.edu)
+ - date_published: 2024-05-29T14:50:26+00:00
+
+ ## Welcome | Kirkwood Bookstore & EagleShop
+ - [https://shop.kirkwood.edu](https://shop.kirkwood.edu)
+ - date_published: 2024-06-20T16:48:36.038713+00:00
+
+ ## Homepage | Kirkwood Community College | Cedar Rapids, Iowa
+ - [https://www.kirkwood.edu](https://www.kirkwood.edu)
+ - date_published: 2024-05-04T09:28:08.118028+00:00
+
+ ## KIT – ITI Algorithm Engineering –  Willkommen am Institut für Theoretische Informatik, Algorithm Engineering
+ - [https://ae.iti.kit.edu](https://ae.iti.kit.edu)
+ - date_published: 2024-08-18T18:45:34.893256+00:00
+
  ## KIT – ITI Algorithm Engineering –  Willkommen am Institut für Theoretische Informatik, Algorithm Engineering
  - [https://algo2.iti.kit.edu](https://algo2.iti.kit.edu)
  - date_published: 2024-08-18T18:45:49.700533+00:00
@@ -3946,60 +4002,4 @@
  ## The Art and Science of PCB Design
  - [https://pcb.mit.edu](https://pcb.mit.edu)
  - date_published: 2023-12-30T01:59:09+00:00
-
- ## MIT CSAIL Parallel and Distributed Operating Systems Group
- - [https://pdos.csail.mit.edu](https://pdos.csail.mit.edu)
- - date_published: 2023-10-25T18:54:29.573498+00:00
-
- ## People | MIT CSAIL
- - [https://people.csail.mit.edu](https://people.csail.mit.edu)
- - date_published: 2023-10-25T18:54:31.453216+00:00
-
- ## Persci – Perceptual Science Group @ MIT
- - [https://persci.mit.edu](https://persci.mit.edu)
- - date_published: 2024-05-08T03:58:05.753777+00:00
-
- ## Program Guided Image Manipulators
- - [http://pgim.csail.mit.edu](http://pgim.csail.mit.edu)
- - date_published: 2020-10-20T01:05:52+00:00
-
- ## MIT PGP Key Server
- - [https://pgp.mit.edu](https://pgp.mit.edu)
- - date_published: 2020-10-08T18:18:03+00:00
-
- ## Home
- - [http://philosophy.mit.edu](http://philosophy.mit.edu)
- - date_published: 2024-07-08T12:23:39.905620+00:00
-
- ## Symposium on Computational Photography and Video
- - [http://photo.csail.mit.edu](http://photo.csail.mit.edu)
- - date_published: 2015-11-03T21:05:38+00:00
-
- ## Physics 101
- - [http://phys101.csail.mit.edu](http://phys101.csail.mit.edu)
- - date_published: 2019-07-19T23:44:10+00:00
-
- ## Physics Workshop at NeurIPS 2018
- - [http://phys2018.csail.mit.edu](http://phys2018.csail.mit.edu)
- - date_published: 2018-12-28T17:11:04+00:00
-
- ## ADEPT
- - [https://physadept.csail.mit.edu](https://physadept.csail.mit.edu)
- - date_published: 2007-06-11T18:53:14+00:00
-
- ## Intuitive Physics Workshop at NIPS 2016
- - [http://phys.csail.mit.edu](http://phys.csail.mit.edu)
- - date_published: 2018-12-28T17:09:30+00:00
-
- ## Home - MIT PE
- - [https://physicaleducationandwellness.mit.edu](https://physicaleducationandwellness.mit.edu)
- - date_published: 2023-10-25T18:54:34.032158+00:00
-
- ## MIT Physics
- - [https://physics.mit.edu](https://physics.mit.edu)
- - date_published: 2024-05-07T19:36:54.101678+00:00
-
- ## Physical Simulators + Neural Nets
- - [http://physplus.csail.mit.edu](http://physplus.csail.mit.edu)
- - date_published: 2019-04-13T21:37:55+00:00
 

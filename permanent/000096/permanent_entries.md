@@ -1,3 +1,7 @@
+ ## Employplan Documentation
+ - [https://docs.employplan.com](https://docs.employplan.com)
+ - date_published: 2024-10-30T15:50:07+00:00
+
  ## Landing
  - [https://employplan.com](https://employplan.com)
  - date_published: 2024-04-08T00:00:00+00:00
@@ -4025,8 +4029,4 @@
  ## Home - Equities News for Impact focused on Impact Investing
  - [https://www.equities.com](https://www.equities.com)
  - date_published: 2023-12-29T02:15:41+00:00
-
- ## Equities Lab | Your Quantitative Solution
- - [https://www.equitieslab.com](https://www.equitieslab.com)
- - date_published: 2024-07-11T00:00:00+00:00
 

@@ -1,3 +1,38 @@
+ ## Quake® Champions Official Website | Home
+ - [https://quake.com](https://quake.com)
+ - date_published: 2024-07-07T16:49:11+00:00
+ - tags: ['quake', 'video game']
+
+ ## Quake2.com - The Ultimate Quake 2 Site
+ - [http://www.quake2.com](http://www.quake2.com)
+ - date_published: 2024-07-12T18:51:24.169659+00:00
+ - tags: ['quake 2', 'quake']
+
+ ## Quake3Stuff.com
+ - [https://quake3stuff.com](https://quake3stuff.com)
+ - date_published: 2023-10-19T13:38:05+00:00
+ - tags: ['quake']
+
+ ## Quake3World.com • Portal
+ - [https://quake3world.com](https://quake3world.com)
+ - date_published: 2024-04-29T06:46:58.186060+00:00
+ - tags: ['internet forum', 'quake 3 arena', 'quake']
+
+ ## www.quakearea.com
+ - [https://quakearea.com](https://quakearea.com)
+ - date_published: 2023-10-28T20:30:07.859572+00:00
+ - tags: ['quake']
+
+ ## QFL TAMPA - Quake for Life CTF League
+ - [https://quakectf.com](https://quakectf.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+ - tags: ['quake', 'video games', 'convention']
+
+ ## Quake Haus
+ - [https://quakehaus.com](https://quakehaus.com)
+ - date_published: 2023-10-28T20:33:15.259113+00:00
+ - tags: ['doom', 'video game news', 'quake']
+
  ## quakejs.com
  - [http://quakejs.com](http://quakejs.com)
  - date_published: 2024-07-07T19:41:28+00:00
@@ -4015,36 +4050,4 @@
  ## index
  - [https://raeslittleblueguys.com](https://raeslittleblueguys.com)
  - date_published: 2018-04-23T05:07:33+00:00
-
- ## El desván de Rafael Castillejo-Recuerdos compartidos-Ejercicios de memoria sentimental-
-Tebeos antiguos-Cromos antiguos-Fotos antiguas de Zaragoza-Recuerdos del Circo-Antiguos ultramarinos-
-Antigua publicidad-Antigua farmacia-Vedettes de revista musical-Recuerdos de cine-Libros antiguos de escuela-
-Charlas de memoria para personas mayores-
- - [http://www.rafaelcastillejo.com](http://www.rafaelcastillejo.com)
- - date_published: 2021-05-22T13:36:27+00:00
-
- ## Game Design Expert | Rafael Chandler
- - [http://www.rafaelchandler.com](http://www.rafaelchandler.com)
- - date_published: 2024-12-13T05:17:45.199235+00:00
-
- ## Keep it simple!
- - [https://dev.rafaelcosquiere.com](https://dev.rafaelcosquiere.com)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## Rafael Quintanilha
- - [https://rafaelquintanilha.com](https://rafaelquintanilha.com)
- - date_published: 2024-05-11T10:06:25.217609+00:00
- - tags: ['personal']
-
- ## Rafael Silva Source
- - [https://www.rafael-silva.com](https://www.rafael-silva.com)
- - date_published: 2024-09-04T03:10:00.619758+00:00
-
- ## Royal Air Force Charitable Trust
- - [http://rafct.com](http://rafct.com)
- - date_published: 2024-06-21T09:52:16.655993+00:00
-
- ## Raffael Kormann
- - [https://raffaelkormann.com](https://raffaelkormann.com)
- - date_published: 2024-07-13T16:13:10.609537+00:00
 

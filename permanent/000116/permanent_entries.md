@@ -1,3 +1,23 @@
+ ## Golf Maintenance | Consulting | Project Management |
+ - [https://www.golfmaintenance.com](https://www.golfmaintenance.com)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## GolfMonster - Your Guide to the World Of Golf
+ - [https://golfmonster.com](https://golfmonster.com)
+ - date_published: 2024-09-12T15:12:22+00:00
+
+ ## Tee Times At 11,000+ Golf Courses | GolfNow Official Site
+ - [https://www.golfnow.com](https://www.golfnow.com)
+ - date_published: 2024-07-13T13:15:53.805451+00:00
+
+ ## GolfPass | The Best of Golf in One Convenient Membership
+ - [https://www.golfpass.com](https://www.golfpass.com)
+ - date_published: 2024-07-13T13:16:02.559744+00:00
+
+ ## Golfstat Live Scoring
+ - [https://results.golfstat.com](https://results.golfstat.com)
+ - date_published: 2024-09-05T09:54:23.166179+00:00
+
  ## Golf Unfiltered - Golf Equipment and News for the Modern Player
  - [https://www.golfunfiltered.com](https://www.golfunfiltered.com)
  - date_published: 2024-12-11T22:43:37.598940+00:00
@@ -4027,26 +4047,4 @@ Homebrew Video Game Depot
  ## Download Speech-To-Text Ai-Based Desktop Application
  - [https://gpt4office.com](https://gpt4office.com)
  - date_published: 2024-10-30T07:22:50.174540+00:00
-
- ## GPT-5 | The Latest News on AI
-    
-         - The latest information on machine learning, AI, and GPT tools.
- - [https://www.gpt-5.com](https://www.gpt-5.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Create AI Apps with Agent
- - [https://www.gptagent.com](https://www.gptagent.com)
- - date_published: 2024-10-17T15:58:12+00:00
-
- ## GPT Auth | Authentication and monetization for your GPTs
- - [https://gpt-auth.com](https://gpt-auth.com)
- - date_published: 2024-10-30T16:27:10.523214+00:00
-
- ## Element
- - [https://chat2.gptbuddy.com](https://chat2.gptbuddy.com)
- - date_published: 2023-05-10T14:31:41+00:00
-
- ## AI Operations | GPTBuddy
- - [https://gptbuddy.com](https://gptbuddy.com)
- - date_published: 2024-05-11T00:00:00+00:00
 

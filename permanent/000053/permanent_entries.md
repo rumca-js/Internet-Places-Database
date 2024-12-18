@@ -1,3 +1,7 @@
+ ## The Baseline Scenario
+ - [http://baselinescenario.com](http://baselinescenario.com)
+ - date_published: 2024-06-20T03:46:39.520784+00:00
+
  ## Basemark Web 3.0 | Main page
  - [https://web.basemark.com](https://web.basemark.com)
  - date_published: 2024-09-02T16:05:38.630779+00:00
@@ -4014,8 +4018,4 @@
  ## Belay the C++ – A blog talking about (usually bad) practices in C++
  - [https://belaycpp.com](https://belaycpp.com)
  - date_published: 2023-10-25T12:56:44.895499+00:00
-
- ## Assurer le C++ – Un blog (presque) hebdomadaire parlant de (souvent mauvaises) pratiques en C++
- - [https://fr.belaycpp.com](https://fr.belaycpp.com)
- - date_published: 2024-08-18T00:00:00+00:00
 

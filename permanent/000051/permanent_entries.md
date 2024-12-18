@@ -1,3 +1,7 @@
+ ## Altar Records
+ - [https://altar.bandcamp.com](https://altar.bandcamp.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
  ## ALTAR PROGRESSIVE
  - [https://altar-progressive.bandcamp.com](https://altar-progressive.bandcamp.com)
  - date_published: 2024-06-29T00:00:00+00:00
@@ -3996,8 +4000,4 @@
  ## Papercuts
  - [https://papercutsmusic.bandcamp.com](https://papercutsmusic.bandcamp.com)
  - date_published: 2024-07-19T20:27:05.049103+00:00
-
- ## PS2, by Parallax Scrolls
- - [https://parallaxscrolls.bandcamp.com](https://parallaxscrolls.bandcamp.com)
- - date_published: 2024-10-17T22:07:15.314641+00:00
 

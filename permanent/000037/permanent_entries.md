@@ -1,3 +1,7 @@
+ ## World Time Clock & Map
+ - [https://w.24timezones.com](https://w.24timezones.com)
+ - date_published: 2024-09-14T22:19:19+00:00
+
  ## 24tix.com
  - [https://www.24tix.com](https://www.24tix.com)
  - date_published: 2024-07-19T16:47:57.774587+00:00
@@ -4045,8 +4049,4 @@ syndication,XML,RDF,news ...
  ## Andreessen Horowitz | Software Is Eating the World
  - [https://info.a16z.com](https://info.a16z.com)
  - date_published: 2024-04-25T00:00:00+00:00
-
- ## Jobs at Andreessen Horowitz Companies | Andreessen Horowitz
- - [https://jobs.a16z.com](https://jobs.a16z.com)
- - date_published: 2024-04-30T00:00:00+00:00
 

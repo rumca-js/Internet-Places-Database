@@ -1,3 +1,51 @@
+ ## Simple Sabotage for the 21st Century – Specific Suggestions
+ - [https://specificsuggestions.com](https://specificsuggestions.com)
+ - date_published: 2024-11-29T18:33:39+00:00
+
+ ## Specify | Your Design Token Engine
+ - [https://specifyapp.com](https://specifyapp.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## SEPP'Manufaktur Südtirol
+ - [https://speckshoponline.com](https://speckshoponline.com)
+ - date_published: 2024-09-19T20:33:14.723002+00:00
+
+ ## Speckyboy Design Magazine
+ - [https://speckyboy.com](https://speckyboy.com)
+ - date_published: 2024-05-10T04:14:10.709639+00:00
+
+ ## Spec Markdown
+ - [https://spec-md.com](https://spec-md.com)
+ - date_published: 2023-01-12T19:29:38+00:00
+
+ ## ZX SPECTRUM NEXT – The official portal for all things Next
+ - [https://www.specnext.com](https://www.specnext.com)
+ - date_published: 2024-07-02T22:05:07+00:00
+
+ ## Specops Software - Password Security Tools for Active Directory
+ - [https://specopssoft.com](https://specopssoft.com)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Leading Scientific Equipment for Surface Analysis
+ - [http://www.specs.com](http://www.specs.com)
+ - date_published: 2024-10-19T03:53:19.606093+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.spectacleapp.com](https://www.spectacleapp.com)
+ - date_published: 2024-05-06T14:19:44.295479+00:00
+
+ ## Spectacles od Snap Inc. • Spectacles nowej generacji
+ - [https://spectacles.com](https://spectacles.com)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Spectacles Support
+ - [https://support.spectacles.com](https://support.spectacles.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Spectacular AI
+ - [https://spectacularai.com](https://spectacularai.com)
+ - date_published: 2024-12-15T08:13:57.235572+00:00
+
  ## Home
  - [https://conferences.spectacularnwt.com](https://conferences.spectacularnwt.com)
  - date_published: 2018-06-19T00:00:00+00:00
@@ -4000,60 +4048,5 @@
  ## FINAL FANTASY VIII Remastered | SQUARE ENIX
  - [https://ffviiiremastered.square-enix-games.com](https://ffviiiremastered.square-enix-games.com)
  - date_published: 2024-07-11T16:39:22.885961+00:00
- - tags: ['video game']
-
- ## FINAL FANTASY VII REMAKE INTERGRADE | SQUARE ENIX
- - [https://ffvii-remake-intergrade.square-enix-games.com](https://ffvii-remake-intergrade.square-enix-games.com)
- - date_published: 2023-01-19T12:51:29+00:00
- - tags: ['video game']
-
- ## FINAL FANTASY VII Remake
- - [https://ffvii-remake.square-enix-games.com](https://ffvii-remake.square-enix-games.com)
- - date_published: 2024-07-11T16:39:31.904218+00:00
- - tags: ['video game']
-
- ## FINAL FANTASY VII | SQUARE ENIX
- - [https://ffvii.square-enix-games.com](https://ffvii.square-enix-games.com)
- - date_published: 2024-06-16T07:19:08.857945+00:00
- - tags: ['video game']
-
- ## Square Enix Boutique | France
- - [https://fr.store.square-enix-games.com](https://fr.store.square-enix-games.com)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Square Enix Store | United Kingdom
- - [https://gb.store.square-enix-games.com](https://gb.store.square-enix-games.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## HARVESTELLA for Nintendo Switch & Steam | SQUARE ENIX
- - [https://harvestella.square-enix-games.com](https://harvestella.square-enix-games.com)
- - date_published: 2024-10-25T10:57:20.520401+00:00
- - tags: ['video game']
-
- ## Square Enix Store | Italia
- - [https://it.store.square-enix-games.com](https://it.store.square-enix-games.com)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Life is Strange
- - [https://lifeisstrange.square-enix-games.com](https://lifeisstrange.square-enix-games.com)
- - date_published: 2024-06-16T00:00:00+00:00
- - tags: ['video game']
-
- ## VISIONS OF MANA for PlayStation 5, 4, Xbox Series X | S, PC via Steam | SQUARE ENIX
- - [https://mana.square-enix-games.com](https://mana.square-enix-games.com)
- - date_published: 2024-06-16T00:00:00+00:00
- - tags: ['video game']
-
- ## Square Enix Store | North America
- - [https://na.store.square-enix-games.com](https://na.store.square-enix-games.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- - [https://nierautomata.square-enix-games.com](https://nierautomata.square-enix-games.com)
- - date_published: 2024-06-21T20:28:58+00:00
- - tags: ['video game']
-
- ## NieR Replicant ver.1.22474487139... | SQUARE ENIX
- - [https://nier.square-enix-games.com](https://nier.square-enix-games.com)
- - date_published: 2023-03-21T12:28:42+00:00
  - tags: ['video game']
 

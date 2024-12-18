@@ -1,3 +1,51 @@
+ ## Alana Cattapan
+ - [https://arcattapan.wordpress.com](https://arcattapan.wordpress.com)
+ - date_published: 2024-09-02T13:05:44.776000+00:00
+
+ ## Archaeoastronomy
+ - [https://archaeoastronomy.wordpress.com](https://archaeoastronomy.wordpress.com)
+ - date_published: 2024-06-24T10:18:49.353073+00:00
+
+ ## Archaeological Networks
+ - [http://archaeologicalnetworks.wordpress.com](http://archaeologicalnetworks.wordpress.com)
+ - date_published: 2024-08-17T14:22:30+00:00
+
+ ## Tomb Raider Horizons
+ - [https://archaeologyoftombraider.wordpress.com](https://archaeologyoftombraider.wordpress.com)
+ - date_published: 2024-06-20T12:13:26+00:00
+
+ ## ArcheoThoughts – Andre Costopoulos, University of Alberta
+ - [https://archeothoughts.wordpress.com](https://archeothoughts.wordpress.com)
+ - date_published: 2023-10-25T18:08:49.700117+00:00
+
+ ## Arch Linux and Haskell
+ - [http://archhaskell.wordpress.com](http://archhaskell.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Ærchies Archive - Digital Detritus
+ - [http://archiearchive.wordpress.com](http://archiearchive.wordpress.com)
+ - date_published: 2024-07-01T06:01:19.943848+00:00
+
+ ## ♦♦ ARCHITECTURAL COMMENT
+ - [https://architecturalcomment.wordpress.com](https://architecturalcomment.wordpress.com)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Archived Music Press
+ - [http://archivedmusicpress.wordpress.com](http://archivedmusicpress.wordpress.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Archive of Mana
+ - [https://archiveofmana.wordpress.com](https://archiveofmana.wordpress.com)
+ - date_published: 2024-10-22T09:32:43.273921+00:00
+
+ ## Site Title
+ - [http://arcona.wordpress.com](http://arcona.wordpress.com)
+ - date_published: 2024-07-15T09:42:30.926594+00:00
+
+ ## Story
+ - [https://arctictern12663379.wordpress.com](https://arctictern12663379.wordpress.com)
+ - date_published: 2024-04-30T07:33:49.778966+00:00
+
  ## Ardent Performance Computing
  - [https://ardentperf.wordpress.com](https://ardentperf.wordpress.com)
  - date_published: 2024-08-14T20:46:54.058478+00:00
@@ -3962,52 +4010,4 @@
  ## Craig Jamieson
  - [https://digiguru.wordpress.com](https://digiguru.wordpress.com)
  - date_published: 2024-05-08T06:48:39.351745+00:00
-
- ## Digital Composting
- - [https://digitalcomposting.wordpress.com](https://digitalcomposting.wordpress.com)
- - date_published: 2024-05-14T20:48:07.670174+00:00
-
- ## Digital Worlds - Distorted Reality
- - [http://digitalworlds.wordpress.com](http://digitalworlds.wordpress.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Digitopoly
- - [https://digitopoly.wordpress.com](https://digitopoly.wordpress.com)
- - date_published: 2024-05-09T05:54:25.936502+00:00
-
- ## Diigo
- - [https://diigo.wordpress.com](https://diigo.wordpress.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Dilip Krishnan
- - [https://dilipkay.wordpress.com](https://dilipkay.wordpress.com)
- - date_published: 2024-07-12T16:13:42.497801+00:00
-
- ## Drew Diller's blog
- - [http://dillerdesign.wordpress.com](http://dillerdesign.wordpress.com)
- - date_published: 2024-08-06T06:00:32.493963+00:00
-
- ## Private Site
- - [http://dimpost.wordpress.com](http://dimpost.wordpress.com)
- - date_published: 2024-06-19T16:57:02.090936+00:00
-
- ## The Dina Blog
- - [https://dinablog.wordpress.com](https://dinablog.wordpress.com)
- - date_published: 2024-08-11T05:37:27.244804+00:00
-
- ## Dinda's Foss Blog
- - [https://dindafoss.wordpress.com](https://dindafoss.wordpress.com)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Dinner Document
- - [https://dinnerdocument.wordpress.com](https://dinnerdocument.wordpress.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Elizabeth Creely
- - [https://dinnshenchas.wordpress.com](https://dinnshenchas.wordpress.com)
- - date_published: 2024-07-03T22:51:50.287540+00:00
-
- ## dinosaurpalaeo
- - [https://dinosaurpalaeo.wordpress.com](https://dinosaurpalaeo.wordpress.com)
- - date_published: 2024-10-19T05:20:52.144736+00:00
 

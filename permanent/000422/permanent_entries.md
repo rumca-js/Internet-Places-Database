@@ -1,3 +1,67 @@
+ ## Golden Eagle – Smart Living in Nature
+ - [https://goldeneagle.nxsoft.pt](https://goldeneagle.nxsoft.pt)
+ - date_published: 2024-06-25T16:32:25.133225+00:00
+
+ ## Academia Observador
+ - [https://academia.observador.pt](https://academia.observador.pt)
+ - date_published: 2024-10-20T21:34:50.038362+00:00
+
+ ## Observador – Notícias, Opinião, Especiais, Explicadores e Newsletters
+ - [https://observador.pt](https://observador.pt)
+ - date_published: 2024-06-18T07:42:22.375773+00:00
+
+ ## O Caminho para a Felicidade: Ensino de Carácter Moral, Bons Conselhos, Valores Éticos, Virtudes de Mais Felizes de Vida
+ - [http://www.ocaminhoparaafelicidade.pt](http://www.ocaminhoparaafelicidade.pt)
+ - date_published: 2024-09-04T17:51:32.316859+00:00
+
+ ## Leya
+ - [http://www.oficinadolivro.pt](http://www.oficinadolivro.pt)
+ - date_published: 2024-07-12T20:49:38.600830+00:00
+
+ ## O Jogo
+ - [http://www.ojogo.pt](http://www.ojogo.pt)
+ - date_published: 2024-06-25T18:52:52.974531+00:00
+
+ ## FREGUESIA DE OLEIROS AMIEIRA
+ - [http://www.oleirosamieira.pt](http://www.oleirosamieira.pt)
+ - date_published: 2024-09-05T15:23:28.060318+00:00
+
+ ## Portugal Anúncios Classificados OLX
+ - [https://olx.pt](https://olx.pt)
+ - date_published: 2024-08-19T18:04:50.770117+00:00
+
+ ## Jornalismo de proximidade
+ - [https://omirante.pt](https://omirante.pt)
+ - date_published: 2024-07-12T21:24:53.905505+00:00
+
+ ## Nothing found for  404
+ - [http://www.viaoptima.online.pt](http://www.viaoptima.online.pt)
+ - date_published: 2013-12-16T13:20:07+00:00
+
+ ## onlinecurriculo.pt FAQ
+ - [https://help.onlinecurriculo.pt](https://help.onlinecurriculo.pt)
+ - date_published: 2024-06-22T22:19:09.905145+00:00
+
+ ## Crie o seu Currículo Vencedor de Vagas - (Grátis) Criador de Currículos
+ - [https://onlinecurriculo.pt](https://onlinecurriculo.pt)
+ - date_published: 2024-05-06T09:21:33.033344+00:00
+
+ ## Jornal NOVO
+ - [https://onovo.pt](https://onovo.pt)
+ - date_published: 2024-09-05T14:01:24.064623+00:00
+
+ ## Agência de Marketing Digital | OnVision
+ - [https://onvision.pt](https://onvision.pt)
+ - date_published: 2023-06-09T19:27:05+00:00
+
+ ## OPEL | SITE OFICIAL | O FUTURO É DE TODOS
+ - [https://www.opel.pt](https://www.opel.pt)
+ - date_published: 2024-07-11T09:14:09+00:00
+
+ ## Openbank | Banco Online e Digital do Grupo Santander
+ - [https://www.openbank.pt](https://www.openbank.pt)
+ - date_published: 2024-06-14T11:30:16+00:00
+
  ## Lodo Ostraria - Espaço gastronômico na cidade algarvia de Faro
  - [https://ostrarialodo.pt](https://ostrarialodo.pt)
  - date_published: 2018-01-15T00:00:00+00:00
@@ -3969,68 +4033,4 @@
  ## Banca Transilvania. Banca per gli imprenditori
  - [https://it.bancatransilvania.ro](https://it.bancatransilvania.ro)
  - date_published: 2024-09-16T03:04:59.678925+00:00
-
- ## Banca Transilvania. Банк для підприємців
- - [https://ukr.bancatransilvania.ro](https://ukr.bancatransilvania.ro)
- - date_published: 2024-09-16T03:04:25.941209+00:00
-
- ## Banca Transilvania. Banca Oamenilor Întreprinzători
- - [https://www.bancatransilvania.ro](https://www.bancatransilvania.ro)
- - date_published: 2024-09-16T03:04:52.427216+00:00
-
- ## Owlet BBC BASIC Editor
- - [https://bbcmic.ro](https://bbcmic.ro)
- - date_published: 2024-01-17T05:11:30.033411+00:00
-
- ## VirtualBeeb - BBC Micro 3D simulation
- - [https://virtual.bbcmic.ro](https://virtual.bbcmic.ro)
- - date_published: 2021-12-01T00:00:00+00:00
-
- ## BCR - Persoane fizice
- - [https://www.bcr.ro](https://www.bcr.ro)
- - date_published: 2024-10-02T10:28:52+00:00
-
- ## Biblioteca Centrală Universitară "Lucian Blaga" Cluj-Napoca |
- - [http://www.bcucluj.ro](http://www.bcucluj.ro)
- - date_published: 2024-06-23T08:14:30+00:00
-
- ## BEREA OFICIALĂ A REDACȚIEI TIMES NEW ROMAN
- - [https://bereatnr.ro](https://bereatnr.ro)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Bitdefender - Lider global software de securitate cibernetică
- - [https://www.bitdefender.ro](https://www.bitdefender.ro)
- - date_published: 2024-07-20T02:26:46.575962+00:00
-
- ## Custom web applications and websites | BIXEL - Web development agency
- - [http://bixel.ro](http://bixel.ro)
- - date_published: 2024-10-16T20:53:44.530561+00:00
-
- ## Curse cu mașina sau cu autobuzul la prețuri mici. | BlaBlaCar
- - [https://blablacar.ro](https://blablacar.ro)
- - date_published: 2024-06-15T01:00:52.366419+00:00
-
- ## BlaBlaLife
- - [https://blog.blablacar.ro](https://blog.blablacar.ro)
- - date_published: 2024-09-15T19:54:09.476966+00:00
-
- ## python-catalin
- - [http://python-catalin.blogspot.ro](http://python-catalin.blogspot.ro)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Descarcă aplicația și comandă o călătorie
- - [https://blue.ro](https://blue.ro)
- - date_published: 2024-12-11T21:05:42.836309+00:00
-
- ## Creare Magazin Online pe Platforma Ecommerce Magento. Realizare magazine online - Blugento
- - [https://www.blugento.ro](https://www.blugento.ro)
- - date_published: 2024-04-25T09:55:53+00:00
-
- ## TOP 20 Casino Online în 2024 - Cazinouri Online Noi Romania
- - [https://www.bogdancazino.ro](https://www.bogdancazino.ro)
- - date_published: 2024-06-19T12:14:58+00:00
-
- ## Electrocasnice Bosch: experimentează sustenabilitatea, calitatea și precizia.
- - [https://www.bosch-home.ro](https://www.bosch-home.ro)
- - date_published: 2024-06-16T21:35:51.747457+00:00
 

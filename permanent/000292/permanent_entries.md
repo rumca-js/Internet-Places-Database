@@ -1,3 +1,59 @@
+ ## Login | Cal.com
+ - [https://cal.glasskube.eu](https://cal.glasskube.eu)
+ - date_published: 2024-08-17T07:03:47.915850+00:00
+
+ ## Global Citizenship Observatory (GLOBALCIT) - Globalcit
+ - [https://globalcit.eu](https://globalcit.eu)
+ - date_published: 2024-10-18T20:54:24.616790+00:00
+
+ ## Home - GlobalFocus
+ - [https://www.global-focus.eu](https://www.global-focus.eu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## GlobalReader - OEE software with hardware
+ - [https://globalreader.eu](https://globalreader.eu)
+ - date_published: 2024-12-11T00:01:54.579042+00:00
+
+ ## Home - Globe Nederland
+ - [https://globenederland.eu](https://globenederland.eu)
+ - date_published: 2024-04-30T06:43:07.000898+00:00
+
+ ## GLS: Parcels to people.
+ - [https://gls-group.eu](https://gls-group.eu)
+ - date_published: 2024-05-04T08:44:01.250116+00:00
+
+ ## G'MIC - GREYC's Magic for Image Computing: A Full-Featured Open-Source Framework for Image Processing - Main
+ - [https://gmic.eu](https://gmic.eu)
+ - date_published: 2024-06-13T17:57:32.971152+00:00
+
+ ## Ludo
+ - [http://blog.gmludo.eu](http://blog.gmludo.eu)
+ - date_published: 2024-03-13T00:07:12+00:00
+
+ ## GnousGit
+ - [https://git.gnous.eu](https://git.gnous.eu)
+ - date_published: 2024-05-09T08:00:49.077888+00:00
+
+ ## Gnuhost - High Security Customized Infrastructure
+ - [https://gnuhost.eu](https://gnuhost.eu)
+ - date_published: 2024-05-08T11:49:35.806997+00:00
+
+ ## Go2Market - Jak sprzedawać na Amazon w Europie - doradztwo, szkolenia, analiza.
+ - [https://go2market.eu](https://go2market.eu)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Big Farm
+ - [https://www.goodgame-bigfarm.eu](https://www.goodgame-bigfarm.eu)
+ - date_published: 2024-12-14T06:27:24.204990+00:00
+
+ ## Goodgame Empire
+ - [https://www.goodgameempire.eu](https://www.goodgameempire.eu)
+ - date_published: 2024-12-14T06:27:20.972814+00:00
+
+ ## GoodJobs - Nachhaltige & Sinnstiftende Jobs
+ - [https://goodjobs.eu](https://goodjobs.eu)
+ - date_published: 2024-12-10T23:04:59.033898+00:00
+
  ## Choose Your Country
  - [https://www.goodyear.eu](https://www.goodyear.eu)
  - date_published: 2024-09-03T19:34:08.749130+00:00
@@ -3973,60 +4029,4 @@ Portal
  - [https://stopscanningme.eu](https://stopscanningme.eu)
  - date_published: 2023-10-25T19:11:57.111015+00:00
  - tags: ['surveillance', 'privacy', 'technofeudalism', 'activism']
-
- ## Stop Software Patents Petition
- - [http://petition.stopsoftwarepatents.eu](http://petition.stopsoftwarepatents.eu)
- - date_published: 2024-07-13T16:31:39.354853+00:00
-
- ## Stop Software Patents Petition
- - [http://www.stopsoftwarepatents.eu](http://www.stopsoftwarepatents.eu)
- - date_published: 2024-07-14T11:56:07.956446+00:00
-
- ## Stop Tracking Science
- - [https://stoptrackingscience.eu](https://stoptrackingscience.eu)
- - date_published: 2024-07-12T16:51:35.070886+00:00
-
- ## Graphics Drawing Tablets, Pen Display Monitors | XP-Pen Europe Official Store
- - [https://storexppen.eu](https://storexppen.eu)
- - date_published: 2024-05-30T18:41:22.932312+00:00
-
- ## Stormshield security
- - [https://advisories.stormshield.eu](https://advisories.stormshield.eu)
- - date_published: 2024-06-05T16:12:57+00:00
-
- ## Welcome to Stormshield Technical Documentation
- - [https://documentation.stormshield.eu](https://documentation.stormshield.eu)
- - date_published: 2024-04-02T09:34:55+00:00
-
- ## Stormshield Security Portal
- - [https://security.stormshield.eu](https://security.stormshield.eu)
- - date_published: 2024-07-02T21:51:32.030429+00:00
-
- ## Stormshield, the European choice for your cybersecurity
- - [https://stormshield.eu](https://stormshield.eu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Stowarzyszenie Rozwoju Psychiatrii i Opieki Środowiskowej (SRP)
- - [https://www.stowarzyszenie-rozwoju.eu](https://www.stowarzyszenie-rozwoju.eu)
- - date_published: 2024-09-20T18:53:11.827976+00:00
-
- ## muziek voor iedereen
- - [http://512104449.swh.strato-hosting.eu](http://512104449.swh.strato-hosting.eu)
- - date_published: 2024-06-13T21:25:46.298324+00:00
-
- ## muziek voor iedereen
- - [http://512344514.swh.strato-hosting.eu](http://512344514.swh.strato-hosting.eu)
- - date_published: 2024-09-13T18:55:46.926076+00:00
-
- ## muziek voor iedereen
- - [http://512444155.swh.strato-hosting.eu](http://512444155.swh.strato-hosting.eu)
- - date_published: 2024-09-13T18:56:52.947727+00:00
-
- ## muziek voor iedereen
- - [http://525422092.swh.strato-hosting.eu](http://525422092.swh.strato-hosting.eu)
- - date_published: 2024-09-13T18:55:17.867656+00:00
-
- ## BAIP
- - [http://533738878.swh.strato-hosting.eu](http://533738878.swh.strato-hosting.eu)
- - date_published: 2024-07-24T07:15:54.486874+00:00
 

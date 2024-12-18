@@ -1,3 +1,51 @@
+ ## Syed Balkhi - Entrepreneur. Investor. Marketing Extraordinaire.
+ - [https://syedbalkhi.com](https://syedbalkhi.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Akbar on Development
+ - [https://www.syedgakbar.com](https://www.syedgakbar.com)
+ - date_published: 2024-11-12T17:08:04.707096+00:00
+
+ ## Synchrony Account Manager
+ - [https://aeoutfitters.syf.com](https://aeoutfitters.syf.com)
+ - date_published: 2024-08-27T02:38:41+00:00
+
+ ## apply.syf.com
+ - [https://apply.syf.com](https://apply.syf.com)
+ - date_published: 2024-09-14T22:33:58+00:00
+
+ ## Synchrony Account Manager
+ - [https://mastercard.syf.com](https://mastercard.syf.com)
+ - date_published: 2024-06-14T02:36:18+00:00
+
+ ## Synchrony Account Manager
+ - [https://qvc.syf.com](https://qvc.syf.com)
+ - date_published: 2024-06-22T07:30:48+00:00
+
+ ## Synchrony Account Manager
+ - [https://tjx.syf.com](https://tjx.syf.com)
+ - date_published: 2024-09-17T06:48:59+00:00
+
+ ## Welcome to nginx!
+ - [https://pdpone.syfpos.com](https://pdpone.syfpos.com)
+ - date_published: 2024-05-06T23:01:21.712804+00:00
+
+ ## Unified Portal
+ - [https://portal.syftco.com](https://portal.syftco.com)
+ - date_published: 2024-07-07T09:58:43.664425+00:00
+
+ ## Syften: Live Keyword Alert Monitoring for Online Communities
+ - [https://syften.com](https://syften.com)
+ - date_published: 2024-08-19T21:58:14.717459+00:00
+
+ ## SYFY Official Site
+ - [https://syfy.com](https://syfy.com)
+ - date_published: 2024-02-24T09:56:38.811044+00:00
+
+ ## Sygma | Project Management for Physical Products
+ - [https://sygmahq.com](https://sygmahq.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
  ## Home
  - [https://www.sygnum.com](https://www.sygnum.com)
  - date_published: 2024-09-10T00:00:00+00:00
@@ -3992,52 +4040,4 @@
  ## ForteLabs.co
  - [https://cjjuw.talkfrom.com](https://cjjuw.talkfrom.com)
  - date_published: 2024-06-23T01:37:21.410962+00:00
-
- ## Support
- - [https://kofhf.talkfrom.com](https://kofhf.talkfrom.com)
- - date_published: 2024-06-23T01:37:24.645381+00:00
-
- ## i站最好用的加速器
- - [https://mafeq.talkfrom.com](https://mafeq.talkfrom.com)
- - date_published: 2024-06-23T01:37:30.485722+00:00
-
- ## vp加速器免费pc端
- - [https://nlvvv.talkfrom.com](https://nlvvv.talkfrom.com)
- - date_published: 2024-06-23T01:37:14.474656+00:00
-
- ## 老王加速器要钱吗
- - [https://talkfrom.com](https://talkfrom.com)
- - date_published: 2024-05-06T13:15:25.427266+00:00
-
- ## The Bear Truth
- - [https://vyzqj.talkfrom.com](https://vyzqj.talkfrom.com)
- - date_published: 2024-06-23T01:37:32.236887+00:00
-
- ## Guardians of the Geekery
- - [https://wxupj.talkfrom.com](https://wxupj.talkfrom.com)
- - date_published: 2024-06-23T01:37:16.836313+00:00
-
- ## Further API
- - [https://api-docs.talkfurther.com](https://api-docs.talkfurther.com)
- - date_published: 2024-12-16T14:53:26.470419+00:00
-
- ## FURTHER Virtual Sales Assistant - Dashboard
- - [https://dashboard.talkfurther.com](https://dashboard.talkfurther.com)
- - date_published: 2024-12-16T09:36:29+00:00
-
- ## Further | Blog
- - [https://learn.talkfurther.com](https://learn.talkfurther.com)
- - date_published: 2024-12-10T19:43:00+00:00
-
- ## Further | Conversational Technology + Senior Living Occupancy Solutions
- - [https://talkfurther.com](https://talkfurther.com)
- - date_published: 2024-06-19T08:41:47+00:00
-
- ## Talking Biz News
- - [https://talkingbiznews.com](https://talkingbiznews.com)
- - date_published: 2024-09-18T23:12:46.082397+00:00
-
- ## Comic Book Blog | Talking Comics - comics.games.culture
- - [https://talkingcomicbooks.com](https://talkingcomicbooks.com)
- - date_published: 2024-10-25T10:36:54.820119+00:00
 

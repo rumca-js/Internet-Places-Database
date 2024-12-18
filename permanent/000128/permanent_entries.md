@@ -1,3 +1,27 @@
+ ## Imp Kerr Store
+ - [https://shop.impkerr.com](https://shop.impkerr.com)
+ - date_published: 2024-07-01T10:38:13.754059+00:00
+
+ ## WordPress eCommerce Plugins & Themes • impleCode
+ - [https://cdn.implecode.com](https://cdn.implecode.com)
+ - date_published: 2024-06-12T03:29:56.887224+00:00
+
+ ## eCommerce Product Catalog Live Demo • impleCode
+ - [https://demo.implecode.com](https://demo.implecode.com)
+ - date_published: 2024-06-12T03:29:58.858530+00:00
+
+ ## WordPress eCommerce Plugins & Themes • impleCode
+ - [https://implecode.com](https://implecode.com)
+ - date_published: 2024-06-11T23:59:19.228022+00:00
+
+ ## Projects < GlotPress
+ - [https://translate.implecode.com](https://translate.implecode.com)
+ - date_published: 2024-06-12T03:30:00.981144+00:00
+
+ ## Implementing Responsive Design | Building sites for an anywhere, everywhere web | implementingresponsivedesign.com
+ - [http://implementingresponsivedesign.com](http://implementingresponsivedesign.com)
+ - date_published: 2024-07-23T22:06:30.455142+00:00
+
  ## Implenia – Bauunternehmer & Immobiliendienstleister - Implenia AG
  - [https://implenia.com](https://implenia.com)
  - date_published: 2024-05-06T22:56:14.293323+00:00
@@ -4002,28 +4026,4 @@
  ## Ingo Steinke, Sustainable and Creative Web Developer in Berlin
  - [https://ingo-steinke.com](https://ingo-steinke.com)
  - date_published: 2024-05-09T08:02:28.985587+00:00
-
- ## INGOYA – An immersive experience – World Premiere
- - [https://ingoya.com](https://ingoya.com)
- - date_published: 2022-05-13T00:00:00+00:00
-
- ## Ingrails, App Developement, Web Developement, UI/UX Design, Digital Agency ,Strategy, Design, Marketing & Technology
- - [https://ingrails.com](https://ingrails.com)
- - date_published: 2024-12-15T13:53:47.478258+00:00
-
- ## Ingram Content Group
- - [https://www.ingramcontent.com](https://www.ingramcontent.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Ingram Micro - The business behind the world's brands
- - [https://www.ingrammicro.com](https://www.ingrammicro.com)
- - date_published: 2024-10-22T03:36:54.622368+00:00
-
- ## I N G R E D I E N T   X   E N T E R T A I N M E N T
- - [http://www.ingredientx.com](http://www.ingredientx.com)
- - date_published: 2021-09-08T05:37:33+00:00
-
- ## United States - English
- - [http://www.ingredion.com](http://www.ingredion.com)
- - date_published: 2024-06-16T18:16:39+00:00
 

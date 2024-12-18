@@ -1,3 +1,7 @@
+ ## 中国社会科学院世界经济与政治研究所
+ - [http://iwep.cssn.cn](http://iwep.cssn.cn)
+ - date_published: 2024-06-30T18:32:59.762895+00:00
+
  ## 中国世界史研究网
  - [http://iwh.cssn.cn](http://iwh.cssn.cn)
  - date_published: 2024-06-30T18:33:05.068546+00:00
@@ -4007,8 +4011,4 @@
  - [https://bmy.com.cn](https://bmy.com.cn)
  - date_published: 2023-11-13T13:49:10.021687+00:00
  - tags: ['museum']
-
- ## 403 - 禁止访问: 访问被拒绝。
- - [http://cgzb.bmy.com.cn](http://cgzb.bmy.com.cn)
- - date_published: 2024-04-30T06:25:33.064825+00:00
 

@@ -1,3 +1,7 @@
+ ## KAB 创业教育网
+ - [http://www.kab.org.cn](http://www.kab.org.cn)
+ - date_published: 2024-06-26T08:14:59+00:00
+
  ## 蓝山新闻网_主流媒体,党政门户
  - [https://www.lsxw.org.cn](https://www.lsxw.org.cn)
  - date_published: 2024-10-21T06:43:28.172546+00:00
@@ -4020,8 +4024,4 @@
  ## DIMO
  - [http://dimo.co](http://dimo.co)
  - date_published: 2024-12-12T17:56:49.690222+00:00
-
- ## Dines & Co. | Building Better Brands
- - [https://dines.co](https://dines.co)
- - date_published: 2024-06-05T00:00:00+00:00
 

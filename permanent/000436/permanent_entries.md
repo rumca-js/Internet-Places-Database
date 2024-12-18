@@ -1,3 +1,67 @@
+ ## ELTA TECHNOLOGY
+ - [https://www.elta.com.tw](https://www.elta.com.tw)
+ - date_published: 2024-07-07T10:16:18.705430+00:00
+
+ ## Experian - 益博睿——企業徵信，決策分析，反詐欺與身分辨識
+ - [https://www.experian.com.tw](https://www.experian.com.tw)
+ - date_published: 2024-06-25T21:31:54.279340+00:00
+
+ ## 財團法人徐有庠紀念基金會
+ - [http://yzhsu.feg.com.tw](http://yzhsu.feg.com.tw)
+ - date_published: 2024-07-14T10:35:19.243788+00:00
+
+ ## 基金投資規劃 | 投資理財網 | 富達投信 | 富達台灣
+ - [https://www.fidelity.com.tw](https://www.fidelity.com.tw)
+ - date_published: 2024-10-27T18:01:21.884714+00:00
+
+ ## 火氣音樂｜Fire On Music
+ - [https://www.fireonmusic.com.tw](https://www.fireonmusic.com.tw)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Fitness factory｜健身工廠
+ - [https://www.fitnessfactory.com.tw](https://www.fitnessfactory.com.tw)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## 台灣塑膠工業股份有限公司
+ - [http://www.fpc.com.tw](http://www.fpc.com.tw)
+ - date_published: 2024-12-15T14:23:10.755973+00:00
+
+ ## FranklinCovey 富蘭克林柯維：全球最值得信賴的領導力公司
+ - [https://www.franklincovey.com.tw](https://www.franklincovey.com.tw)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## 403 - 禁止: 拒絕存取。
+ - [http://www.frenchcar.com.tw](http://www.frenchcar.com.tw)
+ - date_published: 2024-07-04T07:36:23.876071+00:00
+
+ ## 哈啦區 - 巴哈姆特
+ - [https://forum.gamer.com.tw](https://forum.gamer.com.tw)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## 勇者福利社 - 巴哈姆特
+ - [https://fuli.gamer.com.tw](https://fuli.gamer.com.tw)
+ - date_published: 2024-10-22T10:40:42.880638+00:00
+
+ ## 創作大廳 - 巴哈姆特
+ - [https://home.gamer.com.tw](https://home.gamer.com.tw)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 巴哈姆特電玩資訊站
+ - [https://m.gamer.com.tw](https://m.gamer.com.tw)
+ - date_published: 2024-10-22T10:40:46.034963+00:00
+
+ ## 巴哈姆特電玩資訊站
+ - [https://prj.gamer.com.tw](https://prj.gamer.com.tw)
+ - date_published: 2024-10-22T10:41:01.888925+00:00
+
+ ## 巴哈姆特電玩資訊站
+ - [https://www.gamer.com.tw](https://www.gamer.com.tw)
+ - date_published: 2024-10-18T03:43:27.940367+00:00
+
+ ## Home - GOLD APOLLO
+ - [https://www.gapollo.com.tw](https://www.gapollo.com.tw)
+ - date_published: 2024-09-18T00:00:00+00:00
+
  ## Garmin SSO Portal
  - [https://buy.garmin.com.tw](https://buy.garmin.com.tw)
  - date_published: 2024-06-20T01:45:41.332549+00:00
@@ -3945,68 +4009,4 @@
  - [https://tv.kyivstar.ua](https://tv.kyivstar.ua)
  - date_published: 2024-10-31T14:27:25+00:00
  - tags: ['piracy']
-
- ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover
- - [https://www.landrover.ua](https://www.landrover.ua)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Наймасовіший освітній проєкт України LINGVA.SKILLS
- - [http://lingva.ua](http://lingva.ua)
- - date_published: 2023-02-09T13:20:10+00:00
-
- ## SpeakUkrainian
- - [https://ukr.lingva.ua](https://ukr.lingva.ua)
- - date_published: 2021-04-08T19:03:44+00:00
-
- ## ЛУН — Усі новобудови України, квартири в ЖК від забудовників
- - [https://lun.ua](https://lun.ua)
- - date_published: 2024-06-30T09:28:27.230196+00:00
-
- ## Sign in - Matomo
- - [https://piwik.luxnet.ua](https://piwik.luxnet.ua)
- - date_published: 2024-10-19T22:54:27.218622+00:00
-
- ## Люксоптика: оправи, сонцезахисні окуляри, контактні лінзи
- - [https://luxoptica.ua](https://luxoptica.ua)
- - date_published: 2024-06-30T09:28:03.682274+00:00
-
- ## MacHOUSE
- - [https://machouse.ua](https://machouse.ua)
- - date_published: 2024-10-19T23:05:05.548611+00:00
-
- ## Marie Claire — жіночий журнал — все про моду, зірок та красу
- - [https://marieclaire.ua](https://marieclaire.ua)
- - date_published: 2024-07-01T08:04:45.507069+00:00
-
- ## Офіційний імпортер Maserati в Україні | Maserati UA
- - [http://www.maserati.ua](http://www.maserati.ua)
- - date_published: 2024-07-12T05:03:28+00:00
-
- ## Mastercard – глобальна технологічна компанія платіжної індустрії
- - [https://www.mastercard.ua](https://www.mastercard.ua)
- - date_published: 2024-10-19T15:55:51.726727+00:00
-
- ## Макснет – Гігабітний інтернет-провайдер та оператор зв'язку для дому та бізнесу
- - [https://maxnet.ua](https://maxnet.ua)
- - date_published: 2024-12-15T11:37:36.941410+00:00
-
- ## Міжнародна компанія страхування життя
- - [https://www.metlife.ua](https://www.metlife.ua)
- - date_published: 2024-07-19T16:44:26+00:00
-
- ## Mikrotik.UA ➢ Навчання ✦ Сертифікація ✦ Продаж обладнання ✆ +380973649643 – MIKROTIK.UA | Навчання ✦ Продаж обладнання
- - [https://mikrotik.ua](https://mikrotik.ua)
- - date_published: 2024-05-09T04:08:50.060436+00:00
-
- ## Mind.ua
- - [https://mind.ua](https://mind.ua)
- - date_published: 2024-07-20T14:51:46.526066+00:00
-
- ## Безпечний переказ коштів
- - [https://send.monobank.ua](https://send.monobank.ua)
- - date_published: 2024-05-02T10:42:38.727938+00:00
-
- ## Help Ukraine in the war with Russia
- - [https://uahelp.monobank.ua](https://uahelp.monobank.ua)
- - date_published: 2023-03-23T20:44:29+00:00
 

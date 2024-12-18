@@ -1,3 +1,27 @@
+ ## Payments, Tax & Subscriptions for SaaS
+ - [https://pictalesstore.lemonsqueezy.com](https://pictalesstore.lemonsqueezy.com)
+ - date_published: 2024-10-29T18:22:56+00:00
+
+ ## Polite Pop
+ - [https://politepop.lemonsqueezy.com](https://politepop.lemonsqueezy.com)
+ - date_published: 2024-07-11T10:46:56.730220+00:00
+
+ ## Product Frameworks
+ - [https://productframeworks.lemonsqueezy.com](https://productframeworks.lemonsqueezy.com)
+ - date_published: 2024-06-23T02:16:31.120328+00:00
+
+ ## PySaaS
+ - [https://pysaas.lemonsqueezy.com](https://pysaas.lemonsqueezy.com)
+ - date_published: 2024-05-06T09:18:41.495296+00:00
+
+ ## QuickSEO
+ - [https://quickseo.lemonsqueezy.com](https://quickseo.lemonsqueezy.com)
+ - date_published: 2024-09-04T00:49:19.300139+00:00
+
+ ## realvjy
+ - [https://realvjy.lemonsqueezy.com](https://realvjy.lemonsqueezy.com)
+ - date_published: 2024-09-14T09:32:37.173201+00:00
+
  ## ReplyGuy
  - [https://replyguy.lemonsqueezy.com](https://replyguy.lemonsqueezy.com)
  - date_published: 2024-06-19T02:23:13.931353+00:00
@@ -4051,28 +4075,4 @@
  ## Infinite Loops
  - [https://infiniteloops.libsyn.com](https://infiniteloops.libsyn.com)
  - date_published: 2024-06-20T08:14:33+00:00
-
- ## The Inside BJJ Podcast
- - [http://insidebjj.libsyn.com](http://insidebjj.libsyn.com)
- - date_published: 2024-09-20T16:53:36+00:00
-
- ## Invest Like the Best with Patrick O'Shaughnessy
- - [https://investlikethebest.libsyn.com](https://investlikethebest.libsyn.com)
- - date_published: 2024-05-06T13:28:42.408044+00:00
-
- ## Libsyn Investor Relations
- - [https://investor.libsyn.com](https://investor.libsyn.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## If This Goes On (Don't Panic): Science Fiction, Fantasy & Progressive Politics
- - [https://itgodp.libsyn.com](https://itgodp.libsyn.com)
- - date_published: 2024-05-08T05:05:09.190368+00:00
-
- ## Public Health On Call
- - [https://johnshopkinssph.libsyn.com](https://johnshopkinssph.libsyn.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Justice Worriers podcast
- - [https://justiceworriers.libsyn.com](https://justiceworriers.libsyn.com)
- - date_published: 2024-08-13T04:21:52+00:00
 

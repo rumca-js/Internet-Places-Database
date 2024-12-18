@@ -1,3 +1,59 @@
+ ## Baylor College of Medicine Blog Network
+ - [https://blogs.bcm.edu](https://blogs.bcm.edu)
+ - date_published: 2023-12-10T11:15:31.259852+00:00
+
+ ## Welcome to Baylor College of Medicine
+ - [https://cdn.bcm.edu](https://cdn.bcm.edu)
+ - date_published: 2024-07-21T02:09:38+00:00
+
+ ## Give | Baylor College of Medicine | BCM
+ - [https://give.bcm.edu](https://give.bcm.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://intouch.bcm.edu](https://intouch.bcm.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Login Required | Baylor College of Medicine
+ - [https://intranet.bcm.edu](https://intranet.bcm.edu)
+ - date_published: 2024-07-22T07:57:46.970607+00:00
+
+ ## Jobs at Baylor College of Medicine
+ - [https://jobs.bcm.edu](https://jobs.bcm.edu)
+ - date_published: 2024-07-22T07:57:58.968003+00:00
+
+ ## Baylor College of Medicine Blog Network
+ - [http://momentumblog.bcm.edu](http://momentumblog.bcm.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## MyChart - Login Page
+ - [https://mychart.bcm.edu](https://mychart.bcm.edu)
+ - date_published: 2024-07-22T07:57:43.442288+00:00
+
+ ## Learn English/Spanish - F1 Students Accepted - Bilingual Education Institute
+ - [https://bei.edu](https://bei.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## English for Corporate Clients - Bilingual Education Institute
+ - [https://corporate.bei.edu](https://corporate.bei.edu)
+ - date_published: 2024-04-30T03:17:10.915265+00:00
+
+ ## Unlock Your Potential with Bellevue University: Accredited, Flexible Online Degrees | Bellevue University
+ - [https://www.bellevue.edu](https://www.bellevue.edu)
+ - date_published: 2024-07-14T08:49:04.254842+00:00
+
+ ## Home - Adept Lab at UCBerkeley
+ - [https://adept.eecs.berkeley.edu](https://adept.eecs.berkeley.edu)
+ - date_published: 2017-01-01T00:00:00+00:00
+
+ ## Home
+ - [https://admissions.berkeley.edu](https://admissions.berkeley.edu)
+ - date_published: 2024-02-11T00:00:00+00:00
+
+ ## Welcome - Aerospace Engineering
+ - [https://aero.berkeley.edu](https://aero.berkeley.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
  ## Algorithmic Fairness and Opacity Group - Berkeley
  - [http://afog.berkeley.edu](http://afog.berkeley.edu)
  - date_published: 2024-04-09T00:00:00+00:00
@@ -3961,60 +4017,4 @@
  ## Software
  - [http://software.caltech.edu](http://software.caltech.edu)
  - date_published: 2024-08-19T21:21:21.544587+00:00
-
- ## Student Events
- - [https://spa.caltech.edu](https://spa.caltech.edu)
- - date_published: 2024-07-15T02:39:51.855522+00:00
-
- ## SRL
- - [https://srl.caltech.edu](https://srl.caltech.edu)
- - date_published: 2024-04-30T03:43:12.297983+00:00
-
- ## SRL
- - [https://srl.sites.caltech.edu](https://srl.sites.caltech.edu)
- - date_published: 2024-07-22T06:35:14.032336+00:00
-
- ## Spitzer
- - [http://ssc.spitzer.caltech.edu](http://ssc.spitzer.caltech.edu)
- - date_published: 2024-10-16T07:18:46.705164+00:00
-
- ## The SEP Instrument Suite on STEREO
- - [https://stereo.srl.caltech.edu](https://stereo.srl.caltech.edu)
- - date_published: 2014-08-19T00:00:00+00:00
-
- ## Mission
- - [https://studentaffairs.caltech.edu](https://studentaffairs.caltech.edu)
- - date_published: 2024-07-15T02:36:26.904407+00:00
-
- ## Sustainability
- - [https://sustainability.caltech.edu](https://sustainability.caltech.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Home
- - [http://tacit.caltech.edu](http://tacit.caltech.edu)
- - date_published: 2024-07-22T06:48:20.694012+00:00
-
- ## WebHome < Main < TCCON Wiki
- - [https://tccon-wiki.caltech.edu](https://tccon-wiki.caltech.edu)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Educational Technology at Caltech
- - [https://teach.caltech.edu](https://teach.caltech.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Educational Technology at Caltech
- - [https://teach.sites.caltech.edu](https://teach.sites.caltech.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## The California Tech
- - [http://tech.caltech.edu](http://tech.caltech.edu)
- - date_published: 2024-07-22T06:27:48.101231+00:00
-
- ## Telecommuting
- - [https://telecommute.caltech.edu](https://telecommute.caltech.edu)
- - date_published: 2024-06-16T08:15:32.446326+00:00
-
- ## Telecommuting
- - [https://telecommute.sites.caltech.edu](https://telecommute.sites.caltech.edu)
- - date_published: 2024-09-27T10:14:23.573204+00:00
 

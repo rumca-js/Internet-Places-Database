@@ -1,3 +1,69 @@
+ ## Tizen Developers | An open source, standards-based software platform for multiple device categories.
+ - [https://developer.tizen.org](https://developer.tizen.org)
+ - date_published: 2024-07-11T21:45:15+00:00
+
+ ## Tizen Docs
+ - [https://docs.tizen.org](https://docs.tizen.org)
+ - date_published: 2024-04-29T01:45:28.629052+00:00
+
+ ## Gerrit Code Review
+ - [https://review.tizen.org](https://review.tizen.org)
+ - date_published: 2024-02-08T22:04:57.286707+00:00
+
+ ## Tizen | An open source, standards-based software platform for multiple device categories.
+ - [https://tizen.org](https://tizen.org)
+ - date_published: 2024-05-10T03:58:21.073232+00:00
+
+ ## Home Page | Transbay Joint Powers Authority
+ - [http://www.tjpa.org](http://www.tjpa.org)
+ - date_published: 2024-06-28T13:15:40.586911+00:00
+
+ ## Topi Tjukanov
+ - [https://tjukanov.org](https://tjukanov.org)
+ - date_published: 2024-07-13T12:53:30.402000+00:00
+
+ ## tk88 - Đăng Ký & Đăng Nhập Trang Chủ tk88
+ - [https://tk88viet.org](https://tk88viet.org)
+ - date_published: 2024-12-10T03:38:30.432919+00:00
+
+ ## Transitional Kindergarten • Early Childhood Learning • TKCalifornia
+ - [https://tkcalifornia.org](https://tkcalifornia.org)
+ - date_published: 2024-06-24T11:47:36.663844+00:00
+
+ ## Tlachinollan | Centro de Derechos Humanos de la Montaña
+ - [http://www.tlachinollan.org](http://www.tlachinollan.org)
+ - date_published: 2015-10-18T15:46:27+00:00
+
+ ## TLauncher — Скачать лаунчер Майнкрафт
+ - [https://tlauncher.org](https://tlauncher.org)
+ - date_published: 2024-04-09T17:48:34+00:00
+ - tags: ['game launcher', 'minecraft']
+
+ ## Transnational Litigation Blog
+ - [https://tlblog.org](https://tlblog.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## TLDP-ES: Página Principal
+ - [http://es.tldp.org](http://es.tldp.org)
+ - date_published: 2021-01-12T12:15:08+00:00
+
+ ## ILDP | PLUTO Project
+ - [http://it.tldp.org](http://it.tldp.org)
+ - date_published: 2024-05-27T10:19:46.747635+00:00
+
+ ## The Linux Documentation Project
+ - [https://tldp.org](https://tldp.org)
+ - date_published: 2023-10-25T22:14:58.578899+00:00
+ - tags: ['linux documentation']
+
+ ## The Linux Documentation Project
+ - [http://wiki.tldp.org](http://wiki.tldp.org)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## TL;DR AI are better community-written abstracts for research papers
+ - [https://tldr-ai.org](https://tldr-ai.org)
+ - date_published: 2024-04-30T05:34:22+00:00
+
  ## Test Page for the HTTP Server on Fedora
  - [http://gallery.tlhiv.org](http://gallery.tlhiv.org)
  - date_published: 2023-02-20T17:42:39+00:00
@@ -3982,69 +4048,4 @@ http://754r.ucbtest.org
  ## Ukrainian Archive
  - [https://ukrainianarchive.org](https://ukrainianarchive.org)
  - date_published: 2024-06-27T15:25:00+00:00
-
- ## –Ukrainian Patriot
- - [https://ukrainianpatriot.org](https://ukrainianpatriot.org)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Home page | HOLODOMOR DESCENDANTS NETWORK
- - [https://hdn.ukrainianworldcongress.org](https://hdn.ukrainianworldcongress.org)
- - date_published: 2024-05-12T04:55:47.921156+00:00
-
- ## JOIN THE GLOBAL RALLY On February 24, 2024, Stand With Ukraine!
- - [https://standwithukraine.ukrainianworldcongress.org](https://standwithukraine.ukrainianworldcongress.org)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Stand With Ukraine!
- - [https://standwithukraineworld.ukrainianworldcongress.org](https://standwithukraineworld.ukrainianworldcongress.org)
- - date_published: 2024-02-17T12:12:21+00:00
-
- ## International Organization - Ukrainian World Congress
- - [https://ukrainianworldcongress.org](https://ukrainianworldcongress.org)
- - date_published: 2024-04-01T07:02:41.553203+00:00
-
- ## Arts and Humanities Research Council (AHRC)
- - [https://ahrc.ukri.org](https://ahrc.ukri.org)
- - date_published: 2024-05-04T15:14:27.764366+00:00
-
- ## Environmental Data Service | NERC Environmental Data Service
- - [https://eds.ukri.org](https://eds.ukri.org)
- - date_published: 2024-06-17T17:47:27.636154+00:00
-
- ## Engineering and Physical Sciences Research Council (EPSRC)
- - [https://epsrc.ukri.org](https://epsrc.ukri.org)
- - date_published: 2024-05-08T07:35:42.799166+00:00
-
- ## Economic and Social Research Council (ESRC)
- - [https://esrc.ukri.org](https://esrc.ukri.org)
- - date_published: 2024-06-17T18:32:29.688615+00:00
-
- ## EPSRC Grants on the Web - Notice
- - [https://gow.epsrc.ukri.org](https://gow.epsrc.ukri.org)
- - date_published: 2024-01-18T10:44:14+00:00
-
- ## Research England
- - [https://re.ukri.org](https://re.ukri.org)
- - date_published: 2024-06-17T18:37:59.241242+00:00
-
- ## Science and Technology Facilities Council (STFC)
- - [https://stfc.ukri.org](https://stfc.ukri.org)
- - date_published: 2024-10-20T04:16:54.098287+00:00
-
- ## UK National Quantum Technologies Programme
- - [https://uknqt.ukri.org](https://uknqt.ukri.org)
- - date_published: 2024-10-19T05:49:42.785339+00:00
-
- ## UK Research and Innovation
- - [https://ukri.org](https://ukri.org)
- - date_published: 2023-12-07T17:40:19.222248+00:00
- - tags: ['organization']
-
- ## Discover UKRI
- - [https://www.discover.ukri.org](https://www.discover.ukri.org)
- - date_published: 2024-10-20T06:03:02.724695+00:00
-
- ## Ukrinform新闻
- - [https://ukrinform.org](https://ukrinform.org)
- - date_published: 2024-05-02T10:44:14.962972+00:00
 

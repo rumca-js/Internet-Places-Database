@@ -1,3 +1,67 @@
+ ## Światowy Dzień Książki: Celebrowanie Mocy Słowa – Odkrywajmy świat literatury razem – inspiracje z okazji Światowego Dnia Książki
+ - [http://www.gckkroscienko.pl](http://www.gckkroscienko.pl)
+ - date_published: 2024-03-21T19:55:11+00:00
+
+ ## Wybór grupy wydarzeń
+ - [https://bilety.ikm.gda.pl](https://bilety.ikm.gda.pl)
+ - date_published: 2024-07-01T08:07:18.795157+00:00
+
+ ## Biuletyn Informacji Publicznej - Instytut Kultury Miejskiej
+ - [https://bip.ikm.gda.pl](https://bip.ikm.gda.pl)
+ - date_published: 2024-07-01T08:07:25.467346+00:00
+
+ ## Archidiecezja Gdańska
+ - [https://diecezja.gda.pl](https://diecezja.gda.pl)
+ - date_published: 2024-05-13T03:10:32.083670+00:00
+
+ ## Strona główna - Gdańskie Miniatury
+ - [https://gdanskieminiatury.ikm.gda.pl](https://gdanskieminiatury.ikm.gda.pl)
+ - date_published: 2024-07-01T08:07:05.443412+00:00
+
+ ## Strona główna - Gdańskie Seminarium Duchowne
+ - [https://gsd.gda.pl](https://gsd.gda.pl)
+ - date_published: 2024-07-17T07:09:05.827621+00:00
+
+ ## Strona główna - Instytut Kultury Miejskiej
+ - [https://ikm.gda.pl](https://ikm.gda.pl)
+ - date_published: 2024-05-07T18:45:58.120890+00:00
+
+ ## Strona główna
+ - [https://marketingwkulturze.ikm.gda.pl](https://marketingwkulturze.ikm.gda.pl)
+ - date_published: 2024-07-01T08:07:23.128614+00:00
+
+ ## Zadzwoń w sprawie pomocy! - Miejski Ośrodek Pomocy Rodzinie w Gdańsku
+ - [http://mopr.gda.pl](http://mopr.gda.pl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Obserwatorium Kultury - Strona główna
+ - [http://obserwatorium.ikm.gda.pl](http://obserwatorium.ikm.gda.pl)
+ - date_published: 2024-07-01T08:07:06.269601+00:00
+
+ ## Otwarty IKM
+ - [https://otwarty.ikm.gda.pl](https://otwarty.ikm.gda.pl)
+ - date_published: 2024-07-01T08:07:21.207581+00:00
+
+ ## Homepage - ${res.getProperty('base.library.full')}
+ - [https://pbc.gda.pl](https://pbc.gda.pl)
+ - date_published: 2024-08-19T17:45:50+00:00
+
+ ## Informacje dla autorów nadsyłających materiały
+ - [https://utw.diecezja.gda.pl](https://utw.diecezja.gda.pl)
+ - date_published: 2024-07-17T07:14:36.271691+00:00
+
+ ## Agencja Rozwoju Pomorza S.A. | Agencja Rozwoju Pomorza S.A.
+ - [https://www.arp.gda.pl](https://www.arp.gda.pl)
+ - date_published: 2024-07-01T08:06:23.780276+00:00
+
+ ## Strona główna
+ - [https://www.caritas.gda.pl](https://www.caritas.gda.pl)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Wydział Katechetyczny Archidiecezji Gdańskiej
+ - [http://www.katecheza.diecezja.gda.pl](http://www.katecheza.diecezja.gda.pl)
+ - date_published: 2024-07-17T07:09:13.744143+00:00
+
  ## Diecezjalne Duszpasterstwo Młodzieży
  - [https://www.mlodziez.diecezja.gda.pl](https://www.mlodziez.diecezja.gda.pl)
  - date_published: 2024-07-17T07:09:07.882924+00:00
@@ -4011,71 +4075,4 @@
  ## Marcin Mossakowski WWW
  - [https://marcinmossakowski.pl](https://marcinmossakowski.pl)
  - date_published: 2024-12-04T20:22:27.251088+00:00
-
- ## Andrzej Maria Marczewski
- - [http://www.marczewski.pl](http://www.marczewski.pl)
- - date_published: 2020-07-06T00:00:00+00:00
-
- ## Margonem MMORPG - Dynamiczna gra w przeglądarce! Fantasy RPG online. Graj wojownikiem, magiem, łowcą, tropicielem, tancerzem ostrzy lub paladynem! -
- - [http://www.margonem.pl](http://www.margonem.pl)
- - date_published: 2024-07-10T02:05:20.595178+00:00
-
- ## Noclegi w Sławie – Marina Sława – Hotel – Tawerna – Port
- - [http://marina-slawa.pl](http://marina-slawa.pl)
- - date_published: 2024-09-02T13:54:53.554218+00:00
-
- ## Mario Budowlaniec czyli remont po prostu...
- - [https://mariobudowlaniec.pl](https://mariobudowlaniec.pl)
- - date_published: 2024-04-29T08:51:51+00:00
- - tags: ['youtuber']
-
- ## /home/mariom
- - [https://blog.mariom.pl](https://blog.mariom.pl)
- - date_published: 2024-06-01T05:06:10.610017+00:00
- - tags: ['personal']
-
- ## Sign In | Site Stats
- - [https://s.mariom.pl](https://s.mariom.pl)
- - date_published: 2024-09-04T04:37:30.099611+00:00
-
- ## Marka Godna Zaufania
- - [https://markagodnazaufania.pl](https://markagodnazaufania.pl)
- - date_published: 2024-08-18T17:02:17.997718+00:00
-
- ## UMWW
- - [https://markaw.pl](https://markaw.pl)
- - date_published: 2023-03-22T00:00:00+00:00
-
- ## Dino, najbliżej Ciebie
- - [https://marketdino.pl](https://marketdino.pl)
- - date_published: 2024-11-26T16:12:19.752618+00:00
-
- ## Strona główna - Marketer+ przewodnik po marketingu
- - [https://marketerplus.pl](https://marketerplus.pl)
- - date_published: 2024-10-22T21:08:44.609687+00:00
-
- ## Marketing przy Kawie
- - [https://marketingprzykawie.pl](https://marketingprzykawie.pl)
- - date_published: 2024-10-22T21:08:41.304080+00:00
-
- ## Artwork – Marpi Studio
- - [https://demo.marpi.pl](https://demo.marpi.pl)
- - date_published: 2024-06-20T09:10:22.611194+00:00
-
- ## Mastercard® Bezcenne® Chwile
- - [https://bezcennechwile.mastercard.pl](https://bezcennechwile.mastercard.pl)
- - date_published: 2024-05-12T04:02:18.200471+00:00
-
- ## Strona główna | Mastercard.pl
- - [https://mastercard.pl](https://mastercard.pl)
- - date_published: 2024-03-28T07:22:06+00:00
- - tags: ['payments', 'card company']
-
- ## Strona główna - Mataba.pl
- - [http://mataba.pl](http://mataba.pl)
- - date_published: 2024-09-09T21:33:43.891482+00:00
-
- ## Matay.pl
- - [http://www.matay.pl](http://www.matay.pl)
- - date_published: 2024-07-14T12:04:40.099604+00:00
 

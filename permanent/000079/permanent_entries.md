@@ -1,3 +1,7 @@
+ ## Campingplatz Software - Cloud Camping
+ - [https://www.cloud-camping.com](https://www.cloud-camping.com)
+ - date_published: 2024-07-24T04:57:21.852762+00:00
+
  ## CloudCannon
  - [https://app.cloudcannon.com](https://app.cloudcannon.com)
  - date_published: 2024-05-10T02:48:37.973928+00:00
@@ -4033,8 +4037,4 @@
  ## codewenda.com
  - [http://codewenda.com](http://codewenda.com)
  - date_published: 2024-06-30T07:07:15.442363+00:00
-
- ## Code With Antonio
- - [https://codewithantonio.com](https://codewithantonio.com)
- - date_published: 2024-04-29T07:32:31.093345+00:00
 

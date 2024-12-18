@@ -1,3 +1,7 @@
+ ## Enciclopedia Católica
+ - [https://ec.aciprensa.com](https://ec.aciprensa.com)
+ - date_published: 2024-05-26T14:53:04+00:00
+
  ## ACI Stampa
  - [https://acistampa.com](https://acistampa.com)
  - date_published: 2024-05-08T04:35:26.021301+00:00
@@ -4023,8 +4027,4 @@ Service - ADAM MARK ZACHS - Convicted Murderer and Fugitive
  ## Introduction
  - [https://docs.adonisjs.com](https://docs.adonisjs.com)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## AdonisJS Packages
- - [https://packages.adonisjs.com](https://packages.adonisjs.com)
- - date_published: 2024-06-19T00:00:00+00:00
 

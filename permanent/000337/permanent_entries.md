@@ -1,3 +1,63 @@
+ ## ドクターズ・ファイル｜症状から探せる、病気がわかる、ドクターが見つかる
+ - [https://doctorsfile.jp](https://doctorsfile.jp)
+ - date_published: 2024-06-24T02:03:44.840108+00:00
+
+ ## ホスピタルズ・ファイル | 病院・総合病院・大学病院の実績やドクターの情報がわかる
+ - [https://hospitalsfile.doctorsfile.jp](https://hospitalsfile.doctorsfile.jp)
+ - date_published: 2024-06-24T02:04:08.113479+00:00
+
+ ## にきたつ庵・道後麦酒館・道後麦酒館別館運営の水口酒造株式会社
+ - [https://www.dogobeer.jp](https://www.dogobeer.jp)
+ - date_published: 2024-07-10T08:09:22.229688+00:00
+
+ ## 人気漫画を無料で試し読み・全巻お得に読むならAmebaマンガ
+ - [https://dokusho-ojikan.jp](https://dokusho-ojikan.jp)
+ - date_published: 2024-10-26T07:19:28.214941+00:00
+
+ ## 読書感想文全国コンクール公式サイト
+ - [https://www.dokusyokansoubun.jp](https://www.dokusyokansoubun.jp)
+ - date_published: 2024-05-08T04:19:28+00:00
+
+ ## doope! 国内外のゲーム情報サイト
+ - [https://doope.jp](https://doope.jp)
+ - date_published: 2024-05-04T07:26:24.985783+00:00
+
+ ## 艦これ速報　艦隊これくしょんまとめ
+ - [http://kancolle.doorblog.jp](http://kancolle.doorblog.jp)
+ - date_published: 2024-10-26T23:44:13.378909+00:00
+
+ ## Entaku.rb
+ - [https://entakurb.doorkeeper.jp](https://entakurb.doorkeeper.jp)
+ - date_published: 2024-07-02T20:44:16.970847+00:00
+
+ ## Grow.rb
+ - [https://growrb.doorkeeper.jp](https://growrb.doorkeeper.jp)
+ - date_published: 2024-07-02T20:44:22.619688+00:00
+
+ ## Kyoto.js
+ - [https://kyotojs.doorkeeper.jp](https://kyotojs.doorkeeper.jp)
+ - date_published: 2024-09-18T17:57:34.849187+00:00
+
+ ## さくらのイベント（関東版）
+ - [https://sakura-kanto.doorkeeper.jp](https://sakura-kanto.doorkeeper.jp)
+ - date_published: 2024-09-02T10:51:41.208248+00:00
+
+ ## トレカ専門店 ドラゴンスター公式サイト＆通販サイト
+ - [https://dorasuta.jp](https://dorasuta.jp)
+ - date_published: 2024-06-29T22:58:41.695025+00:00
+
+ ## DOS/V POWER REPORT | Impress
+ - [https://www.dosv.jp](https://www.dosv.jp)
+ - date_published: 2024-05-06T15:44:51.953960+00:00
+
+ ## 障害の概況
+ - [https://downdetector.jp](https://downdetector.jp)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## DPlus Code
+ - [https://dpluscode.jp](https://dpluscode.jp)
+ - date_published: 2024-09-21T22:10:20.621060+00:00
+
  ## ドラゴンクエストX ｜ 公式サイト
  - [https://www.dqx.jp](https://www.dqx.jp)
  - date_published: 2024-07-14T05:42:57.357950+00:00
@@ -3948,64 +4008,4 @@
  ## R2030 グラスルーツ実践支援制度
  - [https://ritsumei-grassroots.jp](https://ritsumei-grassroots.jp)
  - date_published: 2024-06-23T22:33:00.859265+00:00
-
- ## The Ritsumeikan Trust Top Page | Ritsumeikan Trust
- - [https://en.ritsumeikan-trust.jp](https://en.ritsumeikan-trust.jp)
- - date_published: 2024-06-23T22:32:58.270589+00:00
-
- ## 学校法人立命館 | 学校法人立命館
- - [https://www.ritsumeikan-trust.jp](https://www.ritsumeikan-trust.jp)
- - date_published: 2024-05-06T15:29:36.153203+00:00
-
- ## 立命館大学国際平和ミュージアム
- - [https://www.ritsumeikan-wp-museum.jp](https://www.ritsumeikan-wp-museum.jp)
- - date_published: 2024-05-06T15:29:31.727587+00:00
-
- ## 立東舎
- - [https://rittorsha.jp](https://rittorsha.jp)
- - date_published: 2024-06-16T15:00:06+00:00
-
- ## Rocket8（ロケットエイト）
- - [https://rocket8.jp](https://rocket8.jp)
- - date_published: 2024-05-17T02:46:48.891097+00:00
-
- ## ロームシアター京都
- - [https://rohmtheatrekyoto.jp](https://rohmtheatrekyoto.jp)
- - date_published: 2024-09-18T15:26:50.169215+00:00
-
- ## Roland - Blog
- - [http://blog.roland.jp](http://blog.roland.jp)
- - date_published: 2024-07-09T23:16:44.773844+00:00
-
- ## 作文・小論文コンクール（2024年度）
- - [https://www.ron2024.jp](https://www.ron2024.jp)
- - date_published: 2024-09-25T15:38:21.702493+00:00
-
- ## ROOMIE（ルーミー）
- - [https://www.roomie.jp](https://www.roomie.jp)
- - date_published: 2024-06-18T16:32:33.088007+00:00
-
- ## RUGs（ラグス） Supported by intel
- - [https://roundup-gamers.jp](https://roundup-gamers.jp)
- - date_published: 2024-06-20T01:28:39.161051+00:00
-
- ## メタファー：リファンタジオ（Metaphor: ReFantazio）| アトラス
- - [https://rpg.jp](https://rpg.jp)
- - date_published: 2024-10-22T10:14:12.458160+00:00
-
- ## RS No. 9 HARAJUKU
- - [https://rsno9.jp](https://rsno9.jp)
- - date_published: 2024-07-18T07:30:54+00:00
-
- ## 株式会社ア－ルティ
- - [https://rt-net.jp](https://rt-net.jp)
- - date_published: 2024-12-15T15:27:24.593504+00:00
-
- ## アールティロボットショップ, ロボットキット、部品は専門スタッフがいるアールティへ！
- - [https://www.rt-shop.jp](https://www.rt-shop.jp)
- - date_published: 2024-12-13T13:52:01.960674+00:00
-
- ## 株式会社ラブ・ラボ
- - [https://rub-lab.jp](https://rub-lab.jp)
- - date_published: 2024-10-17T22:00:14.638377+00:00
 

@@ -1,3 +1,59 @@
+ ## Voice - Include - Innovate - Influence
+ - [https://voice.global](https://voice.global)
+ - date_published: 2024-09-25T12:55:54+00:00
+
+ ## Login -  WEDOS Protection
+ - [https://client.wedos.global](https://client.wedos.global)
+ - date_published: 2024-06-16T16:25:23.484875+00:00
+
+ ## WEDOS Global - WEDOS.com
+ - [https://wedos.global](https://wedos.global)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## World Health Network - WHN
+ - [https://whn.global](https://whn.global)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## World Environment Day
+ - [https://www.worldenvironmentday.global](https://www.worldenvironmentday.global)
+ - date_published: 2024-12-12T17:12:58.687022+00:00
+
+ ## Toyota Woven City | TOP | What is Woven City
+ - [https://www.woven-city.global](https://www.woven-city.global)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Woven by Toyota
+ - [https://www.woven-planet.global](https://www.woven-planet.global)
+ - date_published: 2024-07-10T01:12:11+00:00
+
+ ## XR: Revolutionizing Advertising with Unified Data at Scale
+ - [https://xr.global](https://xr.global)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## zenGate
+ - [https://www.zengate.global](https://www.zengate.global)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## GAMA Ad Marketplace
+ - [https://gama.globo](https://gama.globo)
+ - date_published: 2024-10-28T14:36:14.864227+00:00
+
+ ## Meu Perfil - GloboAds
+ - [https://perfil.globoads.globo](https://perfil.globoads.globo)
+ - date_published: 2024-10-28T14:35:42.837952+00:00
+
+ ## Home | Globo Ads PME
+ - [https://globosim.globo](https://globosim.globo)
+ - date_published: 2024-10-28T14:35:35.650168+00:00
+
+ ## Grafika Google
+ - [https://images.google.gm](https://images.google.gm)
+ - date_published: 2024-07-20T07:40:53.217348+00:00
+
+ ## Google
+ - [https://www.google.gm](https://www.google.gm)
+ - date_published: 2024-06-21T22:22:25.067810+00:00
+
  ## MSI.GM
  - [https://msi.gm](https://msi.gm)
  - date_published: 2024-08-08T19:22:03.902336+00:00
@@ -3961,60 +4017,4 @@ Medicine- Healthcare Practitioner Licensing and Regulation
  ## Florida Department of Health in Hillsborough
  - [https://hillsborough.floridahealth.gov](https://hillsborough.floridahealth.gov)
  - date_published: 2024-05-08T02:48:02.986884+00:00
-
- ## Florida Department of Health in Holmes
- - [https://holmes.floridahealth.gov](https://holmes.floridahealth.gov)
- - date_published: 2024-05-08T02:49:00.507269+00:00
-
- ## Florida Department of Health in Indian River
- - [https://indianriver.floridahealth.gov](https://indianriver.floridahealth.gov)
- - date_published: 2024-05-08T02:49:20.832913+00:00
-
- ## Florida Department of Health in Jackson
- - [https://jackson.floridahealth.gov](https://jackson.floridahealth.gov)
- - date_published: 2024-05-08T02:49:11.226262+00:00
-
- ## Florida Department of Health in Jefferson
- - [https://jefferson.floridahealth.gov](https://jefferson.floridahealth.gov)
- - date_published: 2024-05-08T02:49:53.711003+00:00
-
- ## Florida Department of Health in Lafayette
- - [https://lafayette.floridahealth.gov](https://lafayette.floridahealth.gov)
- - date_published: 2024-05-08T02:48:13.356400+00:00
-
- ## Florida Department of Health in Lake
- - [https://lake.floridahealth.gov](https://lake.floridahealth.gov)
- - date_published: 2024-05-08T02:48:22.703414+00:00
-
- ## Florida Department of Health in Lee
- - [https://lee.floridahealth.gov](https://lee.floridahealth.gov)
- - date_published: 2024-05-08T02:48:42.326987+00:00
-
- ## Florida Department of Health in Leon
- - [https://leon.floridahealth.gov](https://leon.floridahealth.gov)
- - date_published: 2024-05-08T02:48:37.888464+00:00
-
- ## Florida Department of Health in Levy
- - [https://levy.floridahealth.gov](https://levy.floridahealth.gov)
- - date_published: 2024-05-08T02:48:06.495337+00:00
-
- ## Florida Department of Health in Liberty
- - [https://liberty.floridahealth.gov](https://liberty.floridahealth.gov)
- - date_published: 2024-05-08T02:50:20.613010+00:00
-
- ## Florida Department of Health in Madison
- - [https://madison.floridahealth.gov](https://madison.floridahealth.gov)
- - date_published: 2024-05-08T02:50:36.081039+00:00
-
- ## Florida Department of Health in Manatee
- - [https://manatee.floridahealth.gov](https://manatee.floridahealth.gov)
- - date_published: 2024-05-08T02:48:35.542586+00:00
-
- ## Florida Department of Health in Marion
- - [https://marion.floridahealth.gov](https://marion.floridahealth.gov)
- - date_published: 2024-05-08T02:48:44.546982+00:00
-
- ## Florida Department of Health in Martin
- - [https://martin.floridahealth.gov](https://martin.floridahealth.gov)
- - date_published: 2024-05-08T02:47:54.793089+00:00
 

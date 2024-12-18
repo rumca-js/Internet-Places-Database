@@ -1,3 +1,67 @@
+ ## Foundations of Digital Games 2014
+ - [http://fdg2014.org](http://fdg2014.org)
+ - date_published: 2017-07-25T22:53:38+00:00
+
+ ## >b's Homepage
+ - [https://fdik.org](https://fdik.org)
+ - date_published: 2014-12-18T00:25:50+00:00
+
+ ## FDLM : Le français dans le monde
+ - [http://www.fdlm.org](http://www.fdlm.org)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Health Center
+ - [https://www.fdohpatientportal.org](https://www.fdohpatientportal.org)
+ - date_published: 2023-09-19T10:37:15+00:00
+
+ ## Home - FDR Presidential Library & Museum
+ - [https://www.fdrlibrary.org](https://www.fdrlibrary.org)
+ - date_published: 2024-06-29T18:24:09.628407+00:00
+
+ ## F-Droid - Free and Open Source Android App Repository
+ - [https://f-droid.org](https://f-droid.org)
+ - date_published: 2023-10-24T20:10:50.007548+00:00
+ - tags: ['app store', 'open source']
+
+ ## F-Droid Forum
+ - [https://forum.f-droid.org](https://forum.f-droid.org)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## F-Droid
+      
+        Search
+ - [https://search.f-droid.org](https://search.f-droid.org)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## F-Droid - Free and Open Source Android App Repository
+ - [http://fdroid.org](http://fdroid.org)
+ - date_published: 2024-08-08T10:17:36+00:00
+
+ ## F-Droid
+ - [https://fdroidstatus.org](https://fdroidstatus.org)
+ - date_published: 2024-07-20T03:17:54.417928+00:00
+
+ ## FdSI.org | Freunde der Saarbrücker Informatik
+ - [https://fdsi.org](https://fdsi.org)
+ - date_published: 2024-04-29T06:30:22.963327+00:00
+
+ ## FDSN: 
+International Federation of Digital Seismograph Networks
+ - [http://www.fdsn.org](http://www.fdsn.org)
+ - date_published: 2024-07-22T06:55:19.912146+00:00
+
+ ## Florida Education Association
+ - [https://feaweb.org](https://feaweb.org)
+ - date_published: 2019-02-11T16:47:21+00:00
+
+ ## WeBank AI
+ - [https://dataset.fedai.org](https://dataset.fedai.org)
+ - date_published: 2020-12-29T06:45:36+00:00
+
+ ## FedAI Home
+ - [https://www.fedai.org](https://www.fedai.org)
+ - date_published: 2022-04-07T09:55:10+00:00
+
  ## Fed Communities
  - [https://fedcommunities.org](https://fedcommunities.org)
  - date_published: 2024-03-20T00:00:00+00:00
@@ -3987,64 +4051,4 @@ Archive
  ## Homepage
  - [https://www.freedomforum.org](https://www.freedomforum.org)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## Freedom from the FDA
- - [http://www.freedomfromfda.org](http://www.freedomfromfda.org)
- - date_published: 2014-06-02T00:00:00+00:00
-
- ## Expanding Freedom and Democracy
- - [https://freedomhouse.org](https://freedomhouse.org)
- - date_published: 2024-05-12T04:27:17.360727+00:00
-
- ## Freedom: Investigative Journalism in the Public Interest
- - [https://freedommag.org](https://freedommag.org)
- - date_published: 2024-10-19T21:35:25.774556+00:00
-
- ## Human Trafficking Advocacy | Freedom Network USA
- - [https://freedomnetworkusa.org](https://freedomnetworkusa.org)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Home | Freedom of Mobility Forum
- - [https://freedomofmobilityforum.org](https://freedomofmobilityforum.org)
- - date_published: 2024-05-10T04:34:13.562803+00:00
-
- ## San Leandro, CA Lawyers and Attorneys
- - [https://freedoms-edge.org](https://freedoms-edge.org)
- - date_published: 2023-12-17T20:34:51+00:00
-
- ## | Freedom to Marry
- - [http://www.freedomtomarry.org](http://www.freedomtomarry.org)
- - date_published: 2015-06-26T00:00:00+00:00
-
- ## Our future. Our votes. Our democracy.
- - [https://www.freedomtovoteact.org](https://www.freedomtovoteact.org)
- - date_published: 2024-07-20T21:47:25.662903+00:00
-
- ## readable.css
- - [https://readable-css.freedomtowrite.org](https://readable-css.freedomtowrite.org)
- - date_published: 2022-06-15T00:00:00+00:00
-
- ## The FreeDOS Project
- - [https://www.freedos.org](https://www.freedos.org)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Entdecken Sie die besten App-Downloads für Mac OS X auf FDM
- - [https://de.freedownloadmanager.org](https://de.freedownloadmanager.org)
- - date_published: 2024-07-17T14:56:51.067218+00:00
-
- ## Most Popular Downloads for Windows on FreeDownloadManager.org
- - [https://download.freedownloadmanager.org](https://download.freedownloadmanager.org)
- - date_published: 2024-07-17T14:56:48.932765+00:00
-
- ## Discover the best software downloads for Windows on FDM
- - [https://en.freedownloadmanager.org](https://en.freedownloadmanager.org)
- - date_published: 2024-05-14T02:45:13.825099+00:00
-
- ## Descubre las mejores descargas de programas para Windows en FDM
- - [https://es.freedownloadmanager.org](https://es.freedownloadmanager.org)
- - date_published: 2024-07-17T14:56:56.884199+00:00
-
- ## Free Download Manager - download everything from the internet
- - [http://freedownloadmanager.org](http://freedownloadmanager.org)
- - date_published: 2024-09-04T06:01:21.470494+00:00
 

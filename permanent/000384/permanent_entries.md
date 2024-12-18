@@ -1,3 +1,63 @@
+ ## Environmental Defense Fund Planned Giving :: Welcome to Planned Giving
+ - [https://edf.giftplans.org](https://edf.giftplans.org)
+ - date_published: 2024-05-12T07:37:50.346195+00:00
+
+ ## Northwell Health Foundation | Gift Planning :: Welcome to Gift Planning
+ - [https://northwell.giftplans.org](https://northwell.giftplans.org)
+ - date_published: 2024-07-01T16:28:27.758125+00:00
+
+ ## Santa Fe Institute Planned Giving :: Gift Planning
+ - [https://santafe.giftplans.org](https://santafe.giftplans.org)
+ - date_published: 2024-05-07T20:23:15.254397+00:00
+
+ ## Swarthmore College Gift Planning :: Gift Planning
+ - [https://swarthmore.giftplans.org](https://swarthmore.giftplans.org)
+ - date_published: 2024-07-01T20:48:38.876786+00:00
+
+ ## The University of Alabama Planned Giving :: Planned Giving
+ - [https://ua.giftplans.org](https://ua.giftplans.org)
+ - date_published: 2024-07-01T22:02:52.127310+00:00
+
+ ## The University of Houston Planned Giving :: Planned Giving
+ - [https://uh.giftplans.org](https://uh.giftplans.org)
+ - date_published: 2024-07-02T02:26:10.375715+00:00
+
+ ## UNM Planned Giving :: Welcome to Gift Planning
+ - [https://unmfund.giftplans.org](https://unmfund.giftplans.org)
+ - date_published: 2024-07-02T05:05:47.119148+00:00
+
+ ## Gigafact: Making facts ubiquitous and accessible to all
+ - [https://gigafact.org](https://gigafact.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## GIGA！無料通信
+ - [https://www.gigafree.org](https://www.gigafree.org)
+ - date_published: 2024-04-30T06:13:14+00:00
+
+ ## (no title)
+ - [https://www.giga-net.org](https://www.giga-net.org)
+ - date_published: 2024-10-17T22:26:12.280405+00:00
+
+ ## Inclusive Infrastructure - Global Infrastructure hub
+ - [https://inclusiveinfra.gihub.org](https://inclusiveinfra.gihub.org)
+ - date_published: 2024-12-04T01:16:04+00:00
+
+ ## Advisory Contents Page
+ - [https://advisory.gijn.org](https://advisory.gijn.org)
+ - date_published: 2024-08-18T19:06:01.504282+00:00
+
+ ## 全球深度报道网
+ - [https://cn.gijn.org](https://cn.gijn.org)
+ - date_published: 2024-08-18T18:10:07+00:00
+
+ ## Global Investigative Journalism Network
+ - [https://gijn.org](https://gijn.org)
+ - date_published: 2023-10-25T21:24:56.514394+00:00
+
+ ## Home
+ - [https://gilcrease.org](https://gilcrease.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## Giles Turnbull's website
  - [https://gilest.org](https://gilest.org)
  - date_published: 2024-01-10T02:57:57.538118+00:00
@@ -3989,65 +4049,4 @@
  ## Home
  - [https://www.haiti.org](https://www.haiti.org)
  - date_published: 2024-09-18T04:05:34.447503+00:00
-
- ## Log in — Hak5
- - [https://account.shop.hak5.org](https://account.shop.hak5.org)
- - date_published: 2024-09-02T10:59:05.080399+00:00
-
- ## Product Documentation | Product Documentation
- - [https://docs.hak5.org](https://docs.hak5.org)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Hak5 Download Portal
- - [https://downloads.hak5.org](https://downloads.hak5.org)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Pentest Tools & Media | Hak5 Official Site
- - [https://hak5.org](https://hak5.org)
- - date_published: 2024-08-26T20:53:21+00:00
- - tags: ['hardware hacking']
-
- ## Payload Hub
- - [https://payloads.hak5.org](https://payloads.hak5.org)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Hak5 PayloadStudio
- - [https://payloadstudio.hak5.org](https://payloadstudio.hak5.org)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Pentest Tools & Media | Hak5 Official Site
- - [https://shop.hak5.org](https://shop.hak5.org)
- - date_published: 2024-09-02T10:58:40.529490+00:00
-
- ## Hakai Institute
- - [https://hakai.org](https://hakai.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## hakank's homepage
- - [http://www.hakank.org](http://www.hakank.org)
- - date_published: 2024-06-11T07:44:12+00:00
-
- ## Haka | Software Defined Security
- - [http://www.haka-security.org](http://www.haka-security.org)
- - date_published: 2015-06-23T08:26:27+00:00
-
- ## Hakin9 - IT Security Magazine
- - [https://hakin9.org](https://hakin9.org)
- - date_published: 2023-02-06T12:40:38+00:00
-
- ## H A K U M E I    |    version 1.0 / deadly blossom
- - [https://tfl.hakumei.org](https://tfl.hakumei.org)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## .:: Halal Research Council ::.
- - [https://www.halalrc.org](https://www.halalrc.org)
- - date_published: 2024-09-24T21:40:12.070687+00:00
-
- ## Haldane's Sieve
- - [https://haldanessieve.org](https://haldanessieve.org)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Home | Half Acre Cycling
- - [https://halfacrecycling.org](https://halfacrecycling.org)
- - date_published: 2024-05-08T06:48:34.520985+00:00
 

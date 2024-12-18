@@ -1,3 +1,7 @@
+ ## The Alation Data Intelligence Platform: Data Catalog & Governance
+ - [https://www.alation.com](https://www.alation.com)
+ - date_published: 2024-10-14T09:04:52.942379+00:00
+
  ## Albacross: B2B Intent Data to Accelerate Your Revenue
  - [https://albacross.com](https://albacross.com)
  - date_published: 2024-05-28T15:48:00+00:00
@@ -4058,8 +4062,4 @@
  ## Home | AllStarsWomen NFT Club & DAO
  - [https://www.allstarswomennftclub.com](https://www.allstarswomennftclub.com)
  - date_published: 1970-01-01T00:00:00+00:00
-
- ## Auto Insurance Quotes - Car Insurance | Allstate Online Quote
- - [https://purchase.allstate.com](https://purchase.allstate.com)
- - date_published: 2024-10-02T10:28:15.316021+00:00
 

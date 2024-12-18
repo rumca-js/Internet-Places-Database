@@ -1,3 +1,64 @@
+ ## code4lib 2023
+ - [https://2023.code4lib.org](https://2023.code4lib.org)
+ - date_published: 2023-03-23T18:55:15+00:00
+
+ ## Code4Lib
+ - [http://code4lib.org](http://code4lib.org)
+ - date_published: 2023-09-27T20:00:03+00:00
+
+ ## The Code4Lib Journal
+ - [https://journal.code4lib.org](https://journal.code4lib.org)
+ - date_published: 2024-07-18T04:42:44.600492+00:00
+
+ ## Planet Code4Lib
+ - [https://planet.code4lib.org](https://planet.code4lib.org)
+ - date_published: 2024-06-30T21:12:36+00:00
+
+ ## code52
+ - [http://code52.org](http://code52.org)
+ - date_published: 2012-04-30T23:05:42+00:00
+
+ ## Code_Aster
+ - [https://forum.code-aster.org](https://forum.code-aster.org)
+ - date_published: 2024-12-15T19:06:33.173570+00:00
+
+ ## start [Codebase64 wiki]
+ - [https://codebase64.org](https://codebase64.org)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Code Beautify and Code Formatter For Developers - to Beautify, Validate, Minify, JSON, XML, JavaScript, CSS, HTML, Excel and more
+ - [https://codebeautify.org](https://codebeautify.org)
+ - date_published: 2024-04-05T14:01:06+00:00
+ - tags: ['pretty print']
+
+ ## Codeberg News
+ - [https://blog.codeberg.org](https://blog.codeberg.org)
+ - date_published: 2023-10-25T21:08:17.151581+00:00
+
+ ## Woodpecker
+ - [https://ci.codeberg.org](https://ci.codeberg.org)
+ - date_published: 2024-08-10T23:36:35+00:00
+
+ ## Codeberg.org
+ - [https://codeberg.org](https://codeberg.org)
+ - date_published: 2023-10-25T21:08:17.885638+00:00
+
+ ## Codeberg Design Example
+ - [https://design.codeberg.org](https://design.codeberg.org)
+ - date_published: 2022-11-26T22:10:43+00:00
+
+ ## Codeberg Documentation | Codeberg Documentation
+ - [https://docs.codeberg.org](https://docs.codeberg.org)
+ - date_published: 2024-05-01T06:47:31.048081+00:00
+
+ ## Codeberg Fonts
+ - [https://fonts.codeberg.org](https://fonts.codeberg.org)
+ - date_published: 2022-11-26T22:13:06+00:00
+
+ ## Is Codeberg.org financially sustainable relying on member fees? Any precedents?
+ - [https://join.codeberg.org](https://join.codeberg.org)
+ - date_published: 2024-06-23T07:00:29+00:00
+
  ## Codeberg Service Status
  - [https://status.codeberg.org](https://status.codeberg.org)
  - date_published: 2024-04-20T20:29:11.714597+00:00
@@ -3968,64 +4029,4 @@
  ## craigslist: toronto jobs, apartments, for sale, services, community, and events
  - [https://toronto.craigslist.org](https://toronto.craigslist.org)
  - date_published: 2024-07-07T00:00:00+00:00
-
- ## craigslist: tucson jobs, apartments, for sale, services, community, and events
- - [https://tucson.craigslist.org](https://tucson.craigslist.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## craigslist: vancouver, BC jobs, apartments, for sale, services, community, and events
- - [https://vancouver.craigslist.org](https://vancouver.craigslist.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## craigslist: venezia lavori, appartamenti, in vendita, servizi, comunità ed eventi
- - [https://venice.craigslist.org](https://venice.craigslist.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## craigslist: ventura jobs, apartments, for sale, services, community, and events
- - [https://ventura.craigslist.org](https://ventura.craigslist.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## craigslist: victoria, BC jobs, apartments, for sale, services, community, and events
- - [https://victoria.craigslist.org](https://victoria.craigslist.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## craigslist: washington, DC jobs, apartments, for sale, services, community, and events
- - [https://washingtondc.craigslist.org](https://washingtondc.craigslist.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## craigslist: western slope jobs, apartments, for sale, services, community, and events
- - [https://westslope.craigslist.org](https://westslope.craigslist.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## craigslist: winnipeg jobs, apartments, for sale, services, community, and events
- - [https://winnipeg.craigslist.org](https://winnipeg.craigslist.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## craigslist: yuma jobs, apartments, for sale, services, community, and events
- - [https://yuma.craigslist.org](https://yuma.craigslist.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## craigslist: Zürich Jobs, Wohnungen, zu verkaufen, Dienstleistungen, Gemeinschaft und Veranstaltungen
- - [https://zurich.craigslist.org](https://zurich.craigslist.org)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Craigslist Fund
- - [https://www.craigslistfund.org](https://www.craigslistfund.org)
- - date_published: 2024-07-07T09:37:27.752674+00:00
-
- ## Massachusetts Cranberries | CCCGA
- - [https://www.cranberries.org](https://www.cranberries.org)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Contemporary Art in Metro Detroit | Cranbrook Art Museum
- - [https://cranbrookartmuseum.org](https://cranbrookartmuseum.org)
- - date_published: 2024-09-06T10:01:42+00:00
-
- ## Lorrie Faith Cranor's Home Page
- - [http://lorrie.cranor.org](http://lorrie.cranor.org)
- - date_published: 2024-06-19T19:00:57+00:00
-
- ## PagesPerso - Crans Wiki
- - [https://perso.crans.org](https://perso.crans.org)
- - date_published: 2022-09-07T00:00:00+00:00
 

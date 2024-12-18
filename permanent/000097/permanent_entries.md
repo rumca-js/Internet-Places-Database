@@ -1,3 +1,7 @@
+ ## Equities Lab | Your Quantitative Solution
+ - [https://www.equitieslab.com](https://www.equitieslab.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## Home
  - [https://charts3.equitystory.com](https://charts3.equitystory.com)
  - date_published: 2024-06-25T21:52:22.696883+00:00
@@ -4048,8 +4052,4 @@
  ## EHF Beach Handball EBT  - Latest News and Results | EHF
  - [http://www.eurohandball-beachtour.com](http://www.eurohandball-beachtour.com)
  - date_published: 2024-09-18T00:00:00+00:00
-
- ## Central European Science Journals for Student Research | PaperWriter
- - [http://eurojournals.com](http://eurojournals.com)
- - date_published: 2024-10-29T09:50:55+00:00
 

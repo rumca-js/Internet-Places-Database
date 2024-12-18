@@ -1,3 +1,7 @@
+ ## Blogger
+ - [http://clinicalcases.blogspot.com](http://clinicalcases.blogspot.com)
+ - date_published: 2024-12-15T02:48:02.554021+00:00
+
  ## ANYTHING BUT A ONE!
  - [http://clint-anythingbutaone.blogspot.com](http://clint-anythingbutaone.blogspot.com)
  - date_published: 2024-07-19T00:03:06+00:00
@@ -4002,8 +4006,4 @@
  ## Easy Opinions
  - [http://easyopinions.blogspot.com](http://easyopinions.blogspot.com)
  - date_published: 2024-07-03T01:47:25+00:00
-
- ## Easy Peasy Fiction
- - [https://easypeasyfiction.blogspot.com](https://easypeasyfiction.blogspot.com)
- - date_published: 2024-03-05T12:18:28+00:00
 

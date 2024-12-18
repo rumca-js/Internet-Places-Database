@@ -1,3 +1,28 @@
+ ## Tired of texting? Looking for a better, more fun way to chat?
+ - [https://mermeliz.com](https://mermeliz.com)
+ - date_published: 2024-05-27T21:22:20+00:00
+ - tags: ['personal']
+
+ ## Meross Official Store
+ - [https://shop.meross.com](https://shop.meross.com)
+ - date_published: 2024-08-06T05:46:22.401191+00:00
+
+ ## Meross Offical Site, Smart House and Home Automation Device Provider.
+ - [https://www.meross.com](https://www.meross.com)
+ - date_published: 2024-06-23T05:59:40.090304+00:00
+
+ ## Meroxa
+ - [https://docs.meroxa.com](https://docs.meroxa.com)
+ - date_published: 2024-07-22T11:04:52.736138+00:00
+
+ ## News — Middle-earth Role-Playing Community Website
+ - [http://merp.com](http://merp.com)
+ - date_published: 2024-06-18T21:44:37.843146+00:00
+
+ ## Merpay, Inc.
+ - [https://en.merpay.com](https://en.merpay.com)
+ - date_published: 2024-10-22T17:25:06.521830+00:00
+
  ## 株式会社メルペイ
  - [https://jp.merpay.com](https://jp.merpay.com)
  - date_published: 2024-04-22T00:00:00+00:00
@@ -1787,6 +1812,7 @@
  ## MeWe: The best chat & group app with privacy you trust.
  - [https://mewe.com](https://mewe.com)
  - date_published: 2024-05-01T03:18:28.619603+00:00
+ - tags: ['social platform']
 
  ## meWho.com
  - [https://mewho.com](https://mewho.com)
@@ -4035,30 +4061,4 @@
  ## Microsoft Loop - Think, plan and create together
  - [https://loop.microsoft.com](https://loop.microsoft.com)
  - date_published: 2024-10-07T00:00:00+00:00
-
- ## MCAPSStartforPartnersFY24 | SignIn
- - [https://mcapsstartforpartners.microsoft.com](https://mcapsstartforpartners.microsoft.com)
- - date_published: 2024-06-29T13:25:38.514134+00:00
-
- ## Microsoft Artifact Registry
- - [http://mcr.microsoft.com](http://mcr.microsoft.com)
- - date_published: 2024-12-12T17:43:53.208869+00:00
-
- ## Microsoft Production Studios | stream.microsoft.com
- - [https://mediastream.microsoft.com](https://mediastream.microsoft.com)
- - date_published: 2016-01-26T18:44:45+00:00
-
- ## Log in Medius
- - [https://medius.microsoft.com](https://medius.microsoft.com)
- - date_published: 2024-06-19T17:26:21.526568+00:00
-
- ## Microsoft – chmura, komputery, aplikacje i gry
- - [https://microsoft.com](https://microsoft.com)
- - date_published: 2024-04-28T02:26:51.043312+00:00
- - tags: ['gatekeeper', 'edge', 'company', 'web browser']
-
- ## Wideokonferencje, spotkania, rozmowy | Microsoft Teams
- - [https://microsoft.com/microsoft-teams](https://microsoft.com/microsoft-teams)
- - date_published: 2024-11-28T20:10:14+00:00
- - tags: ['ma teams', 'video meetings', 'social communicator', 'gatekeeper']
 

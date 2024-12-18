@@ -1,3 +1,8 @@
+ ## Richard Hill's Home Page
+ - [http://retu.be](http://retu.be)
+ - date_published: 2019-09-09T20:05:37+00:00
+ - tags: ['personal']
+
  ## Home • Revtrdrh
  - [http://www.revtrdrh.be](http://www.revtrdrh.be)
  - date_published: 2024-10-18T21:03:46.419021+00:00
@@ -4011,8 +4016,4 @@
  ## OEEC.biz
  - [https://oeec.biz](https://oeec.biz)
  - date_published: 2024-06-21T22:05:35+00:00
-
- ## オフィスサーチ.biz
- - [https://office-search.biz](https://office-search.biz)
- - date_published: 2024-09-09T16:59:04.499932+00:00
 

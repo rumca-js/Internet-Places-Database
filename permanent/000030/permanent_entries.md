@@ -1,3 +1,7 @@
+ ## 辽宁省卫生健康委员会
+ - [http://wsjk.ln.gov.cn](http://wsjk.ln.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## 辽宁省人民政府
  - [http://www.ln.gov.cn](http://www.ln.gov.cn)
  - date_published: 2024-06-30T00:00:00+00:00
@@ -3993,8 +3997,4 @@
  ## 交通职业资格网
  - [https://www.jtzyzg.org.cn](https://www.jtzyzg.org.cn)
  - date_published: 2024-06-29T01:13:16+00:00
-
- ## KAB 创业教育网
- - [http://www.kab.org.cn](http://www.kab.org.cn)
- - date_published: 2024-06-26T08:14:59+00:00
 

@@ -1,3 +1,59 @@
+ ## Weiterleitung
+ - [https://campus.uni-freiburg.de](https://campus.uni-freiburg.de)
+ - date_published: 2024-07-24T06:21:11.656517+00:00
+
+ ## Computer Graphics - University of Freiburg
+ - [https://cg.informatik.uni-freiburg.de](https://cg.informatik.uni-freiburg.de)
+ - date_published: 2024-10-18T14:50:13.156432+00:00
+
+ ## Forschungsdatenbank Freiburg
+ - [http://forschdb.verwaltung.uni-freiburg.de](http://forschdb.verwaltung.uni-freiburg.de)
+ - date_published: 2024-07-24T06:21:35.363087+00:00
+
+ ## FreiDok plus - Startseite
+ - [https://freidok.uni-freiburg.de](https://freidok.uni-freiburg.de)
+ - date_published: 2024-04-29T06:27:13.995307+00:00
+
+ ## ILIAS Uni Freiburg: Login
+ - [https://ilias.uni-freiburg.de](https://ilias.uni-freiburg.de)
+ - date_published: 2024-07-24T06:15:59.412589+00:00
+
+ ## Katalog plus - Universitätsbibliothek Freiburg
+ - [https://katalog.ub.uni-freiburg.de](https://katalog.ub.uni-freiburg.de)
+ - date_published: 2024-07-24T06:21:38.550745+00:00
+
+ ## Public Relations — Office of University and Science Communications
+ - [https://kommunikation.uni-freiburg.de](https://kommunikation.uni-freiburg.de)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Abteilung für Mathematische Logik
+ - [https://logik.mathematik.uni-freiburg.de](https://logik.mathematik.uni-freiburg.de)
+ - date_published: 2024-07-24T06:16:25.697108+00:00
+
+ ## Herzlich willkommen • Institut für Medienkulturwissenschaft
+ - [https://medienkulturwissenschaft.uni-freiburg.de](https://medienkulturwissenschaft.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:48.720599+00:00
+
+ ## Machine Learning Lab
+ - [http://ml.informatik.uni-freiburg.de](http://ml.informatik.uni-freiburg.de)
+ - date_published: 2024-07-13T03:07:12.689104+00:00
+
+ ## Zentraler Webserver
+ - [https://piwik.mw.uni-freiburg.de](https://piwik.mw.uni-freiburg.de)
+ - date_published: 2024-07-24T06:18:36.977409+00:00
+
+ ## Software Engineering
+ - [https://swt.informatik.uni-freiburg.de](https://swt.informatik.uni-freiburg.de)
+ - date_published: 2024-08-07T18:59:18+00:00
+
+ ## Uni-Freiburg : SWT - Ultimate
+ - [https://ultimate.informatik.uni-freiburg.de](https://ultimate.informatik.uni-freiburg.de)
+ - date_published: 2024-06-13T17:40:25+00:00
+
+ ## Albert-Ludwigs-Universität Freiburg
+ - [https://uni-freiburg.de](https://uni-freiburg.de)
+ - date_published: 2024-04-29T06:27:19.880061+00:00
+
  ## Institut für Anorganische und Analytische Chemie
  - [http://www.ac.uni-freiburg.de](http://www.ac.uni-freiburg.de)
  - date_published: 2024-07-24T06:19:34.636559+00:00
@@ -4001,60 +4057,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## VMT GmbH DE | Gesellschaft für Vermessungstechnik
  - [https://vmt-gmbh.de](https://vmt-gmbh.de)
  - date_published: 2024-05-22T02:37:45.991186+00:00
-
- ## Verein Niedersächsischer Bildungsinitiativen e.V. |
- - [https://vnb.de](https://vnb.de)
- - date_published: 2024-09-12T16:04:13.997579+00:00
-
- ## Vodafone Community
- - [https://forum.vodafone.de](https://forum.vodafone.de)
- - date_published: 2024-06-25T23:15:05.331526+00:00
-
- ## Vodafone Careers Germany
- - [https://jobs.vodafone.de](https://jobs.vodafone.de)
- - date_published: 2024-12-10T18:36:40.671507+00:00
-
- ## Alle Vodafone-Shops in Deutschland | Städteverzeichnis
- - [https://shops.vodafone.de](https://shops.vodafone.de)
- - date_published: 2024-06-12T14:56:07+00:00
-
- ## Speedtest Plus für Kabel- und DSL-Verbindungen | Vodafone
- - [https://speedtest.vodafone.de](https://speedtest.vodafone.de)
- - date_published: 2024-06-25T23:15:01+00:00
-
- ## Vodafone.de | Mobilfunk, Handys & Internet-Anbieter
- - [https://vodafone.de](https://vodafone.de)
- - date_published: 2024-07-01T19:01:27+00:00
-
- ## Internet, Telefon & TV Angebote | Vodafone
- - [https://zuhauseplus.vodafone.de](https://zuhauseplus.vodafone.de)
- - date_published: 2024-06-25T23:15:06.731583+00:00
-
- ## Vodafone Institut • Think Tank for a Green Digitisation
- - [https://vodafone-institut.de](https://vodafone-institut.de)
- - date_published: 2024-06-25T22:01:21+00:00
-
- ## Startseite - Vodafone Stiftung
- - [https://vodafone-stiftung.de](https://vodafone-stiftung.de)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Startseite - Verbund der Öffentlichen Bibliotheken Berlins
- - [https://voebb.de](https://voebb.de)
- - date_published: 2024-07-09T14:08:58.633169+00:00
-
- ## voelkner | Elektronik, Technik, Werkzeug & mehr
- - [https://voelkner.de](https://voelkner.de)
- - date_published: 2024-07-13T13:39:14.548904+00:00
-
- ## VOGUE Collection - Der Onlineshop von VOGUE Deutschland
- - [https://shop.vogue.de](https://shop.vogue.de)
- - date_published: 2024-10-15T00:00:00+00:00
-
- ## Homepage
- - [https://vogue.de](https://vogue.de)
- - date_published: 2024-06-17T01:36:36.336854+00:00
-
- ## Nachrichten für Trier, Eifel, Mosel & Luxemburg
- - [https://volksfreund.de](https://volksfreund.de)
- - date_published: 2024-07-23T00:00:00+00:00
 

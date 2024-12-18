@@ -1,3 +1,31 @@
+ ## The Scholar's Stage
+ - [https://149512802.v2.pressablecdn.com](https://149512802.v2.pressablecdn.com)
+ - date_published: 2024-08-18T18:43:06+00:00
+
+ ## PRINT Magazine
+ - [https://149522020.v2.pressablecdn.com](https://149522020.v2.pressablecdn.com)
+ - date_published: 2024-05-07T09:26:42.550166+00:00
+
+ ## Home - NISAW
+ - [https://149530900.v2.pressablecdn.com](https://149530900.v2.pressablecdn.com)
+ - date_published: 2019-05-08T17:05:43+00:00
+
+ ## A List Apart
+ - [https://149572954.v2.pressablecdn.com](https://149572954.v2.pressablecdn.com)
+ - date_published: 2024-05-01T03:13:46.863899+00:00
+
+ ## North American Invasive Species Management Association - NAISMA
+ - [https://149586796.v2.pressablecdn.com](https://149586796.v2.pressablecdn.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Dithering
+ - [https://149601156.v2.pressablecdn.com](https://149601156.v2.pressablecdn.com)
+ - date_published: 2024-08-19T22:16:21.937338+00:00
+
+ ## Welcome - Native-Land.ca
+ - [https://149613070.v2.pressablecdn.com](https://149613070.v2.pressablecdn.com)
+ - date_published: 2024-07-01T17:00:01+00:00
+
  ## Homepage
  - [https://149625908.v2.pressablecdn.com](https://149625908.v2.pressablecdn.com)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -3993,32 +4021,4 @@
  ## Tesseract.js | Pure Javascript OCR for 100 Languages!
  - [https://tesseract.projectnaptha.com](https://tesseract.projectnaptha.com)
  - date_published: 2023-11-19T01:29:53+00:00
-
- ## Home | Project News Oasis
- - [https://www.projectnewsoasis.com](https://www.projectnewsoasis.com)
- - date_published: 2024-07-07T09:20:41.202643+00:00
-
- ## Nim Technology Consultants – Nim Technology Consultants
- - [http://www.project-nim.com](http://www.project-nim.com)
- - date_published: 2024-07-07T04:29:35.901611+00:00
-
- ## Nova Europa
- - [http://projectnovaeuropa.com](http://projectnovaeuropa.com)
- - date_published: 2024-06-27T11:50:19.592678+00:00
-
- ## OBS Studio
- - [https://projectobs.com](https://projectobs.com)
- - date_published: 2023-09-15T18:38:48+00:00
-
- ## Homepage - Projecto Colibri
- - [http://www.projectocolibri.com](http://www.projectocolibri.com)
- - date_published: 2024-03-06T14:45:19+00:00
-
- ## Project Perfect Game
- - [https://www.projectperfectgame.com](https://www.projectperfectgame.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Project Perfect Mod: Command & Conquer
- - [https://cnc.projectperfectmod.com](https://cnc.projectperfectmod.com)
- - date_published: 2024-06-29T00:00:00+00:00
 

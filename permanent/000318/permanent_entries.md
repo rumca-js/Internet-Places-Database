@@ -1,3 +1,59 @@
+ ## Investigative Journalism Foundation
+ - [https://investigative-journalism-foundation.ghost.io](https://investigative-journalism-foundation.ghost.io)
+ - date_published: 2024-07-11T18:12:15.145736+00:00
+
+ ## IO Rodeo Blog
+ - [https://iorodeo-blog.ghost.io](https://iorodeo-blog.ghost.io)
+ - date_published: 2024-10-27T22:49:49.866503+00:00
+
+ ## Isosceles Blog
+ - [https://isosceles.ghost.io](https://isosceles.ghost.io)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## It's Me Waldi | Create the Life You Want
+ - [https://itsmewaldi.ghost.io](https://itsmewaldi.ghost.io)
+ - date_published: 2024-05-12T05:43:03.703925+00:00
+
+ ## SubAnima
+ - [https://jake-brown-2.ghost.io](https://jake-brown-2.ghost.io)
+ - date_published: 2024-08-18T18:20:23.499873+00:00
+
+ ## James A. Reeves
+ - [https://jamesreeves.ghost.io](https://jamesreeves.ghost.io)
+ - date_published: 2024-08-17T23:54:07.591875+00:00
+
+ ## James Stuber
+ - [https://james-stuber.ghost.io](https://james-stuber.ghost.io)
+ - date_published: 2024-09-06T23:07:13.034904+00:00
+
+ ## Janet A. Carr
+ - [https://janetacarr.ghost.io](https://janetacarr.ghost.io)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Jason Shen | The Outlier Coach
+ - [https://jason-shen.ghost.io](https://jason-shen.ghost.io)
+ - date_published: 2024-08-19T17:35:48.906777+00:00
+
+ ## JavaScript Jam, a podcast/community for JS developers
+ - [https://javascript-jam.ghost.io](https://javascript-jam.ghost.io)
+ - date_published: 2024-06-23T01:32:22.744119+00:00
+
+ ## Bernard Vander Beken
+ - [https://jawn.ghost.io](https://jawn.ghost.io)
+ - date_published: 2024-08-18T02:25:25.685606+00:00
+
+ ## Jeremy Danyow
+ - [https://jdanyow.ghost.io](https://jdanyow.ghost.io)
+ - date_published: 2024-08-19T15:29:06.867499+00:00
+
+ ## Jenna Pederson
+ - [https://jennapederson.ghost.io](https://jennapederson.ghost.io)
+ - date_published: 2024-07-14T09:41:20.840615+00:00
+
+ ## WHY EDIFY
+ - [https://jeremy-jorgensen.ghost.io](https://jeremy-jorgensen.ghost.io)
+ - date_published: 2024-08-18T11:59:26.901984+00:00
+
  ## Jina AI
  - [https://jina-ai-gmbh.ghost.io](https://jina-ai-gmbh.ghost.io)
  - date_published: 2024-07-20T02:30:46.957764+00:00
@@ -3974,59 +4030,4 @@
  ## blueimp.github.io
  - [https://blueimp.github.io](https://blueimp.github.io)
  - date_published: 2013-05-23T16:42:59+00:00
-
- ## bluer555.github.io
- - [https://bluer555.github.io](https://bluer555.github.io)
- - date_published: 2021-03-27T20:08:58+00:00
-
- ## About me - Jiale Xu
- - [https://bluestyle97.github.io](https://bluestyle97.github.io)
- - date_published: 2023-09-05T05:39:17+00:00
-
- ## Redirecting to Blurr Online
- - [https://blurrbrowser.github.io](https://blurrbrowser.github.io)
- - date_published: 2023-12-15T17:14:15+00:00
-
- ## beanmachine tech.
- - [https://bmchtech.github.io](https://bmchtech.github.io)
- - date_published: 2024-10-23T02:34:03.696384+00:00
-
- ## Ben Mildenhall
- - [https://bmild.github.io](https://bmild.github.io)
- - date_published: 2024-04-28T03:41:59.160522+00:00
-
- ## The 31st British Machine Vision (Virtual) Conference 2020 : Home
- - [https://bmvc2020.github.io](https://bmvc2020.github.io)
- - date_published: 2020-09-06T22:42:08+00:00
-
- ## Bobbie's Web Demos
- - [https://bobbiec.github.io](https://bobbiec.github.io)
- - date_published: 2024-01-01T07:05:08.100446+00:00
-
- ## Bob CD
- - [https://bob-cd.github.io](https://bob-cd.github.io)
- - date_published: 2023-10-25T19:44:36.877232+00:00
-
- ## Divjot Singh
- - [https://bogas04.github.io](https://bogas04.github.io)
- - date_published: 2023-08-13T09:48:59+00:00
-
- ## Bolei Zhou
- - [https://boleizhou.github.io](https://boleizhou.github.io)
- - date_published: 2024-07-31T00:00:00+00:00
-
- - [https://bonsaiden.github.io](https://bonsaiden.github.io)
- - date_published: 2010-03-23T07:38:43+00:00
-
- ## News
- - [https://boolector.github.io](https://boolector.github.io)
- - date_published: 2024-04-28T03:26:18.762236+00:00
-
- ## Boosting View Synthesis with Residual Transfer
- - [https://boosting-view-synth.github.io](https://boosting-view-synth.github.io)
- - date_published: 2022-07-13T23:37:43+00:00
-
- ## Bootean
- - [https://bootean.github.io](https://bootean.github.io)
- - date_published: 2024-07-14T17:04:11+00:00
 

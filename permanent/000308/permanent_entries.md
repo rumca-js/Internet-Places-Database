@@ -1,3 +1,59 @@
+ ## Universitas Prasetiya Mulya
+ - [https://www.prasetiyamulya.ac.id](https://www.prasetiyamulya.ac.id)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Pendidikan Biologi – UIN Raden Fatah Palembang
+ - [http://biologiedu.radenfatah.ac.id](http://biologiedu.radenfatah.ac.id)
+ - date_published: 2024-10-11T12:08:57.457094+00:00
+
+ ## SIGASTRA
+ - [https://sigastra.radenintan.ac.id](https://sigastra.radenintan.ac.id)
+ - date_published: 2024-06-23T20:46:48.283861+00:00
+
+ ## STAIM Tulungagung
+ - [https://staimta.ac.id](https://staimta.ac.id)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Beranda - Program Studi hukum Ekonomi Syariah
+ - [https://hes.stainkepri.ac.id](https://hes.stainkepri.ac.id)
+ - date_published: 2024-10-11T12:05:35.677958+00:00
+
+ ## STAISA
+ - [https://staisa.ac.id](https://staisa.ac.id)
+ - date_published: 2024-10-11T12:11:07.461320+00:00
+
+ ## stiebalikpapan.ac.id
+ - [http://stiebalikpapan.ac.id](http://stiebalikpapan.ac.id)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## LMS STIKes Respati
+ - [https://aset.stikesrespati-tsm.ac.id](https://aset.stikesrespati-tsm.ac.id)
+ - date_published: 2024-06-16T15:32:41+00:00
+
+ ## Program Studi Teknologi Informasi – ITB STIKOM Bali
+ - [https://ti.stikom-bali.ac.id](https://ti.stikom-bali.ac.id)
+ - date_published: 2024-10-11T12:05:13.590417+00:00
+
+ ## STITNU Al Hikmah Mojokerto – Toward Human Intelligence and Character
+ - [https://stitnualhikmah.ac.id](https://stitnualhikmah.ac.id)
+ - date_published: 2024-10-11T12:05:31.412190+00:00
+
+ ## STP Aviasi – Sekolah Tinggi Penerbangan AVIASI
+ - [https://www.stp-aviasi.ac.id](https://www.stp-aviasi.ac.id)
+ - date_published: 2024-10-11T12:11:43.727019+00:00
+
+ ## Homepage | Digital Creative Multimedia
+ - [https://dsm.telkomuniversity.ac.id](https://dsm.telkomuniversity.ac.id)
+ - date_published: 2024-06-30T07:41:24.151468+00:00
+
+ ## Cierpliwości...
+ - [http://mrdzero.student.telkomuniversity.ac.id](http://mrdzero.student.telkomuniversity.ac.id)
+ - date_published: 2024-06-17T06:43:10.382169+00:00
+
+ ## Universitas Telkom
+ - [https://telkomuniversity.ac.id](https://telkomuniversity.ac.id)
+ - date_published: 2024-06-30T07:41:21.688176+00:00
+
  ## SISRI - Login
  - [https://sisri.trunojoyo.ac.id](https://sisri.trunojoyo.ac.id)
  - date_published: 2024-07-14T17:11:13.849984+00:00
@@ -3946,61 +4002,4 @@
  ## - Irish Council for Civil Liberties
  - [https://iccl.ie](https://iccl.ie)
  - date_published: 2023-10-25T19:28:50.484106+00:00
-
- ## international council on monuments & sites  – Irish Heritage
- - [https://www.icomos.ie](https://www.icomos.ie)
- - date_published: 2024-07-09T14:23:59.236720+00:00
-
- ## National Scratch Competition | Irish Computer Society
- - [https://scratch.ics.ie](https://scratch.ics.ie)
- - date_published: 2023-11-09T15:56:54+00:00
-
- ## Home - IEN
- - [https://ien.ie](https://ien.ie)
- - date_published: 2024-09-12T17:44:43.876821+00:00
-
- ## Home - IFI Archive Player
- - [https://ifiarchiveplayer.ie](https://ifiarchiveplayer.ie)
- - date_published: 2024-11-12T16:57:10+00:00
-
- ## Home Page | IFSC
- - [https://ifsc.ie](https://ifsc.ie)
- - date_published: 2024-05-11T07:23:00.164730+00:00
-
- ## energy chains, polymer bearings, flexible cable, & linear slides
- - [https://www.igus.ie](https://www.igus.ie)
- - date_published: 2024-08-06T23:13:15.410940+00:00
-
- ## The Irish Human Rights and Equality Commission
- - [https://ihrec.ie](https://ihrec.ie)
- - date_published: 2024-05-11T08:22:57.495292+00:00
-
- ## IMMA | Irish Museum of Modern Art
- - [https://imma.ie](https://imma.ie)
- - date_published: 2024-11-23T15:21:39+00:00
-
- ## Irish Mining & Quarrying Society
- - [https://imqs.ie](https://imqs.ie)
- - date_published: 2024-12-14T12:45:47.815320+00:00
-
- ## Irish Medical Times
- - [https://www.imt.ie](https://www.imt.ie)
- - date_published: 2024-10-15T23:01:10.666863+00:00
-
- ## Home
- - [https://ind.ie](https://ind.ie)
- - date_published: 2023-11-15T17:47:45.736424+00:00
- - tags: ['personal']
-
- ## Independent.ie
- - [https://independent.ie](https://independent.ie)
- - date_published: 2023-10-25T19:29:09.791542+00:00
-
- ## Login required
- - [https://member.independent.ie](https://member.independent.ie)
- - date_published: 2024-08-19T03:23:26.227392+00:00
-
- ## Breaking News Ireland - Latest World News Headlines - The Irish Independent
- - [https://m.independent.ie](https://m.independent.ie)
- - date_published: 2024-08-19T00:00:00+00:00
 

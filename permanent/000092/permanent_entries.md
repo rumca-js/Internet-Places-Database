@@ -1,3 +1,7 @@
+ ## Dreaming Freedom Manga Online
+ - [https://dreaming-freedom.com](https://dreaming-freedom.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Dreaming in Code
  - [https://dreamingincode.com](https://dreamingincode.com)
  - date_published: 2024-05-11T09:34:14.992133+00:00
@@ -4046,8 +4050,4 @@
  ## HMI touch screen,TFT LCD display, Lcd Touch Display Panel - Dwin
  - [https://m.dwin-global.com](https://m.dwin-global.com)
  - date_published: 2024-08-22T18:21:20+00:00
-
- ## HMI touch screen,TFT LCD display, Lcd Touch Display Panel - Dwin
- - [http://mg.dwin-global.com](http://mg.dwin-global.com)
- - date_published: 2024-09-21T02:45:38+00:00
 

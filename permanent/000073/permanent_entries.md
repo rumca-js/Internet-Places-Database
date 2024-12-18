@@ -1,3 +1,7 @@
+ ## Help Center
+ - [https://help.calendly.com](https://help.calendly.com)
+ - date_published: 2024-09-09T22:17:19.335096+00:00
+
  ## Free Online Appointment Scheduling Software | Calendly
  - [https://marketing-assets.calendly.com](https://marketing-assets.calendly.com)
  - date_published: 2024-07-17T00:00:00+00:00
@@ -4024,8 +4028,4 @@
  ## Attention Required! | Cloudflare
  - [https://geostag.cardinalcommerce.com](https://geostag.cardinalcommerce.com)
  - date_published: 2024-09-27T08:06:08.580295+00:00
-
- ## Attention Required! | Cloudflare
- - [https://songbird.cardinalcommerce.com](https://songbird.cardinalcommerce.com)
- - date_published: 2024-08-18T11:03:45.417424+00:00
 

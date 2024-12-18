@@ -1,3 +1,52 @@
+ ## Some Thoughts
+ - [https://vishalsodani.com](https://vishalsodani.com)
+ - date_published: 2024-07-23T23:43:03.504202+00:00
+
+ ## Vishay Intertechnology: Passives & Discrete Semiconductors
+ - [https://www.vishay.com](https://www.vishay.com)
+ - date_published: 2024-07-11T05:17:35+00:00
+
+ ## Vishnu Menon
+ - [https://vishnumenon.com](https://vishnumenon.com)
+ - date_published: 2023-09-18T18:24:46+00:00
+ - tags: ['personal']
+
+ ## Vishnu Nanduri, PHD
+ - [https://vishnunanduri.com](https://vishnunanduri.com)
+ - date_published: 2024-06-20T04:51:54.054324+00:00
+
+ ## vp's
+ - [https://vishnupadmanabhan.com](https://vishnupadmanabhan.com)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## VI Shots — Expert LabVIEW Consulting Services
+ - [http://vishots.com](http://vishots.com)
+ - date_published: 2024-10-14T15:37:50.791220+00:00
+
+ ## OneNeck IT Solutions
+ - [http://www.visi.com](http://www.visi.com)
+ - date_published: 2022-02-21T20:45:28+00:00
+
+ ## Home
+ - [https://community.visible.com](https://community.visible.com)
+ - date_published: 2024-06-28T17:09:57.085571+00:00
+
+ ## Visible Wireless | Unlimited Data, Talk & Text Cell Phone Plans
+ - [https://visible.com](https://visible.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Visible Privacy
+ - [https://visibleprivacy.com](https://visibleprivacy.com)
+ - date_published: 2024-06-20T10:32:14+00:00
+
+ ## Home | Vision
+ - [https://vision.com](https://vision.com)
+ - date_published: 2024-12-09T19:14:31+00:00
+
+ ## The Visionary CTO | Matt Watson | Substack
+ - [https://blog.visionarycto.com](https://blog.visionarycto.com)
+ - date_published: 2023-10-25T17:57:32.350119+00:00
+
  ## Parth Valerio
  - [https://visionaryfinearts.com](https://visionaryfinearts.com)
  - date_published: 2024-06-12T18:57:00+00:00
@@ -3987,52 +4036,4 @@
  ## VPNFácil – Elige el Mejor VPN en Español Aquí, muy Fácil
  - [https://vpnfacil.com](https://vpnfacil.com)
  - date_published: 2024-05-06T12:49:31.540279+00:00
-
- ## VPNHacks.com
- - [https://www.vpnhacks.com](https://www.vpnhacks.com)
- - date_published: 2024-07-18T14:27:56.882370+00:00
-
- ## أفضل 10 خدمات VPN: موثوقة وآمنة وسريعة [تحديث 2024]
- - [https://ar.vpnmentor.com](https://ar.vpnmentor.com)
- - date_published: 2024-05-07T11:03:07.564118+00:00
-
- ## 10 топ VPN услуги за България [2024] (скорост и сигурност)
- - [https://bg.vpnmentor.com](https://bg.vpnmentor.com)
- - date_published: 2024-05-07T11:02:56.533725+00:00
-
- ## 10 nejlepších VPN pro ČR v roce 2024 dle rychlosti a bezpečí
- - [https://cs.vpnmentor.com](https://cs.vpnmentor.com)
- - date_published: 2024-05-07T11:02:53.570003+00:00
-
- ## De 10 bedste VPN i Danmark i 2024 – hurtige og sikre
- - [https://da.vpnmentor.com](https://da.vpnmentor.com)
- - date_published: 2024-05-07T11:02:59.336786+00:00
-
- ## 10 besten VPN für Deutschland in 2024 – Sicher & schnell
- - [https://de.vpnmentor.com](https://de.vpnmentor.com)
- - date_published: 2024-05-07T11:03:11.096042+00:00
-
- ## 10 καλύτερα VPN για Ελλάδα το 2024 (ταχύτητα & ασφάλεια)
- - [https://el.vpnmentor.com](https://el.vpnmentor.com)
- - date_published: 2024-05-07T11:02:44.550367+00:00
-
- ## Las 10 mejores VPN: rápidos y más seguros en 2024
- - [https://es.vpnmentor.com](https://es.vpnmentor.com)
- - date_published: 2024-05-07T11:03:03.204151+00:00
-
- ## 9 parasta VPN-palvelua Suomessa 2024 – nopeat & turvalliset
- - [https://fi.vpnmentor.com](https://fi.vpnmentor.com)
- - date_published: 2024-05-07T11:02:31.804358+00:00
-
- ## Les 10 meilleurs VPN pour la France en 2024 – Comparatif VPN
- - [https://fr.vpnmentor.com](https://fr.vpnmentor.com)
- - date_published: 2024-05-07T11:02:18.359982+00:00
-
- ## 10 שירותי VPN מומלצים לישראל ב-2024 (מהירים ומאובטחים)
- - [https://he.vpnmentor.com](https://he.vpnmentor.com)
- - date_published: 2024-05-07T11:02:38.365342+00:00
-
- ## Najbolji VPN-ovi u Hrvatskoj za 2024. | Recenzije VPN-ova
- - [https://hr.vpnmentor.com](https://hr.vpnmentor.com)
- - date_published: 2024-05-07T11:01:58.422265+00:00
 

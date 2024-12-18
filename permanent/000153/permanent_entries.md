@@ -1,3 +1,29 @@
+ ## MCAPSStartforPartnersFY24 | SignIn
+ - [https://mcapsstartforpartners.microsoft.com](https://mcapsstartforpartners.microsoft.com)
+ - date_published: 2024-06-29T13:25:38.514134+00:00
+
+ ## Microsoft Artifact Registry
+ - [http://mcr.microsoft.com](http://mcr.microsoft.com)
+ - date_published: 2024-12-12T17:43:53.208869+00:00
+
+ ## Microsoft Production Studios | stream.microsoft.com
+ - [https://mediastream.microsoft.com](https://mediastream.microsoft.com)
+ - date_published: 2016-01-26T18:44:45+00:00
+
+ ## Log in Medius
+ - [https://medius.microsoft.com](https://medius.microsoft.com)
+ - date_published: 2024-06-19T17:26:21.526568+00:00
+
+ ## Microsoft – chmura, komputery, aplikacje i gry
+ - [https://microsoft.com](https://microsoft.com)
+ - date_published: 2024-04-28T02:26:51.043312+00:00
+ - tags: ['gatekeeper', 'edge', 'company', 'web browser']
+
+ ## Wideokonferencje, spotkania, rozmowy | Microsoft Teams
+ - [https://microsoft.com/microsoft-teams](https://microsoft.com/microsoft-teams)
+ - date_published: 2024-11-28T20:10:14+00:00
+ - tags: ['ma teams', 'video meetings', 'social communicator', 'gatekeeper']
+
  ## Osobisty magazyn w chmurze — Microsoft OneDrive
  - [https://microsoft.com/onedrive](https://microsoft.com/onedrive)
  - date_published: 2024-12-10T17:17:38+00:00
@@ -4032,29 +4058,4 @@
  ## The Art of Miraval
  - [https://www.miraval.com](https://www.miraval.com)
  - date_published: 2024-07-03T06:33:48.142427+00:00
-
- ## Miraval Studios | More than a recording studio in France
- - [https://miraval-studios.com](https://miraval-studios.com)
- - date_published: 2024-11-08T10:02:46.470788+00:00
-
- ## miray van der Bend
- - [https://mirayvdbend.com](https://mirayvdbend.com)
- - date_published: 2024-08-19T15:26:55.332688+00:00
-
- ## mIRC: Internet Relay Chat client
- - [https://mirc.com](https://mirc.com)
- - date_published: 2023-10-25T08:36:59.140579+00:00
- - tags: ['social communicator']
-
- ## Mirco Azzopardi
- - [https://mircoazzopardi.com](https://mircoazzopardi.com)
- - date_published: 2024-08-19T15:26:49.366157+00:00
-
- ## Learn Advanced Software Design
- - [https://mirdin.com](https://mirdin.com)
- - date_published: 2024-05-04T15:20:06.660892+00:00
-
- ## Learn Advanced Software Design
- - [https://self-service.mirdin.com](https://self-service.mirdin.com)
- - date_published: 2024-05-06T22:34:08.592648+00:00
 

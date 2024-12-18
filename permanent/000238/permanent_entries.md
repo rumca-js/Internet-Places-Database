@@ -1,3 +1,51 @@
+ ## Digital Composting
+ - [https://digitalcomposting.wordpress.com](https://digitalcomposting.wordpress.com)
+ - date_published: 2024-05-14T20:48:07.670174+00:00
+
+ ## Digital Worlds - Distorted Reality
+ - [http://digitalworlds.wordpress.com](http://digitalworlds.wordpress.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Digitopoly
+ - [https://digitopoly.wordpress.com](https://digitopoly.wordpress.com)
+ - date_published: 2024-05-09T05:54:25.936502+00:00
+
+ ## Diigo
+ - [https://diigo.wordpress.com](https://diigo.wordpress.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Dilip Krishnan
+ - [https://dilipkay.wordpress.com](https://dilipkay.wordpress.com)
+ - date_published: 2024-07-12T16:13:42.497801+00:00
+
+ ## Drew Diller's blog
+ - [http://dillerdesign.wordpress.com](http://dillerdesign.wordpress.com)
+ - date_published: 2024-08-06T06:00:32.493963+00:00
+
+ ## Private Site
+ - [http://dimpost.wordpress.com](http://dimpost.wordpress.com)
+ - date_published: 2024-06-19T16:57:02.090936+00:00
+
+ ## The Dina Blog
+ - [https://dinablog.wordpress.com](https://dinablog.wordpress.com)
+ - date_published: 2024-08-11T05:37:27.244804+00:00
+
+ ## Dinda's Foss Blog
+ - [https://dindafoss.wordpress.com](https://dindafoss.wordpress.com)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Dinner Document
+ - [https://dinnerdocument.wordpress.com](https://dinnerdocument.wordpress.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Elizabeth Creely
+ - [https://dinnshenchas.wordpress.com](https://dinnshenchas.wordpress.com)
+ - date_published: 2024-07-03T22:51:50.287540+00:00
+
+ ## dinosaurpalaeo
+ - [https://dinosaurpalaeo.wordpress.com](https://dinosaurpalaeo.wordpress.com)
+ - date_published: 2024-10-19T05:20:52.144736+00:00
+
  ## Dipika Writes
  - [https://dipikawrites.wordpress.com](https://dipikawrites.wordpress.com)
  - date_published: 2024-09-17T17:10:48.690770+00:00
@@ -3955,52 +4003,4 @@
  ## iris elsewhere.
  - [https://iriselsewhere.wordpress.com](https://iriselsewhere.wordpress.com)
  - date_published: 2024-12-14T22:31:09.803878+00:00
-
- ## Irish Writing Blog
- - [http://irishwritingblog.wordpress.com](http://irishwritingblog.wordpress.com)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Iris, Books & More
- - [http://irisonbooks.wordpress.com](http://irisonbooks.wordpress.com)
- - date_published: 2024-09-16T00:35:27+00:00
-
- ## Iris van Rooij
- - [https://irisvanrooijcogsci.wordpress.com](https://irisvanrooijcogsci.wordpress.com)
- - date_published: 2024-08-19T08:36:35.381805+00:00
-
- ## IRON HEART STAFF BLOG
- - [https://ironheart21.wordpress.com](https://ironheart21.wordpress.com)
- - date_published: 2024-08-19T20:05:59.481822+00:00
-
- ## Iron Leg
- - [https://ironleg.wordpress.com](https://ironleg.wordpress.com)
- - date_published: 2024-12-13T06:06:40.500834+00:00
-
- ## Irving Mejia-Hilario
- - [https://irvingmejiajournalism.wordpress.com](https://irvingmejiajournalism.wordpress.com)
- - date_published: 2024-06-14T19:47:49.498641+00:00
-
- ## The ISCABBS Archive
- - [http://iscabbs.wordpress.com](http://iscabbs.wordpress.com)
- - date_published: 2024-07-18T04:42:08.450600+00:00
-
- ## Ignatius Sapto Condro Atmawan Bisawarna-warni Wordpress
- - [https://iscab.wordpress.com](https://iscab.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Integrated Sciences
- - [https://iscience.wordpress.com](https://iscience.wordpress.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Isonomia Quarterly
- - [https://isonomiaquarterly.wordpress.com](https://isonomiaquarterly.wordpress.com)
- - date_published: 2024-08-18T13:49:24.065595+00:00
-
- ## Is That in the Bible?
- - [https://isthatinthebible.wordpress.com](https://isthatinthebible.wordpress.com)
- - date_published: 2024-12-14T13:14:05.506962+00:00
-
- ## ISTR 2021 Conference Blog
- - [https://istrconference.wordpress.com](https://istrconference.wordpress.com)
- - date_published: 2024-07-17T00:00:00+00:00
 

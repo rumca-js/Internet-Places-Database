@@ -1,3 +1,7 @@
+ ## SONOFF Official Homepage| Smart Home automation SONOFF Official
+ - [https://sonoff.itead.cc](https://sonoff.itead.cc)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## Support
  - [https://support.itead.cc](https://support.itead.cc)
  - date_published: 2024-09-16T13:25:13.863419+00:00
@@ -4019,8 +4023,4 @@
  ## Edoardo D'Anna, PhD
  - [https://edoardodanna.ch](https://edoardodanna.ch)
  - date_published: 2023-09-13T22:32:49+00:00
-
- ## Switch edu-ID
- - [https://eduid.ch](https://eduid.ch)
- - date_published: 2024-07-16T22:05:03.649004+00:00
 

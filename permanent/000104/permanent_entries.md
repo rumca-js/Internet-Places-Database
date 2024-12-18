@@ -1,3 +1,7 @@
+ ## Tamagotchi Fanon Wiki
+ - [https://tamagotchifanon.fandom.com](https://tamagotchifanon.fandom.com)
+ - date_published: 2024-10-24T23:08:07+00:00
+
  ## Tamora Pierce Wiki
  - [https://tamorapierce.fandom.com](https://tamorapierce.fandom.com)
  - date_published: 2024-06-17T18:18:38+00:00
@@ -4004,8 +4008,4 @@ e-mail, free web site, free web site hosting
  ## forum.farmanager.com - For English Speakers
  - [https://enforum.farmanager.com](https://enforum.farmanager.com)
  - date_published: 2024-04-25T00:00:00+00:00
-
- ## Far Manager Official Site : main
- - [https://farmanager.com](https://farmanager.com)
- - date_published: 2024-05-04T05:41:38.422469+00:00
 

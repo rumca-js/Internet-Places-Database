@@ -1,3 +1,7 @@
+ ## Law Society of Ontario Home | Law Society of Ontario
+ - [https://lso.ca](https://lso.ca)
+ - date_published: 2024-09-02T13:02:39.708237+00:00
+
  ## @luqman
  - [https://luqman.ca](https://luqman.ca)
  - date_published: 2022-11-15T03:27:24+00:00
@@ -4032,8 +4036,4 @@
  ## Hot Sauce Reviews, Recipes, and Pepper Growing Guides
  - [https://thehotsauceguy.ca](https://thehotsauceguy.ca)
  - date_published: 2024-06-24T00:00:00+00:00
-
- ## The Hub | More Signal. Less Noise.
- - [https://thehub.ca](https://thehub.ca)
- - date_published: 2023-10-25T12:12:13.121688+00:00
 

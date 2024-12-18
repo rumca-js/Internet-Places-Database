@@ -1,3 +1,51 @@
+ ## The Experiment | Jason Stanford | Substack
+ - [https://jasonstanford.substack.com](https://jasonstanford.substack.com)
+ - date_published: 2023-11-28T22:06:34.502561+00:00
+
+ ## Java Newsletter | Suraj Mishra | Substack
+ - [https://javabulletin.substack.com](https://javabulletin.substack.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Politics, News, Novels and More | MJ Javani | Substack
+ - [https://javani.substack.com](https://javani.substack.com)
+ - date_published: 2024-01-09T01:41:06.222556+00:00
+
+ ## Javarevisited Newsletter | javinpaul | Substack
+ - [https://javarevisited.substack.com](https://javarevisited.substack.com)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Bloomin' Faeries! | Jaycee Knight Erotica | Substack
+ - [https://jayceeknight.substack.com](https://jayceeknight.substack.com)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## These Are Systems | Jacob Bayless | Substack
+ - [https://jbconsulting.substack.com](https://jbconsulting.substack.com)
+ - date_published: 2024-01-09T01:41:08.420577+00:00
+
+ ## gripes and musings | Jonathan Ben-Menachem | Substack
+ - [https://jbenmenachem.substack.com](https://jbenmenachem.substack.com)
+ - date_published: 2024-08-09T04:36:29.609264+00:00
+
+ ## America First Report | JD Rucker | Substack
+ - [https://jdrucker.substack.com](https://jdrucker.substack.com)
+ - date_published: 2024-08-11T14:41:38.570305+00:00
+
+ ## Encyclopedia Autonomica | J Daniel Semrau | MFin | CAIO | Substack
+ - [https://jdsemrau.substack.com](https://jdsemrau.substack.com)
+ - date_published: 2024-10-28T07:12:41.269033+00:00
+
+ ## Tech and Tea | Jean Hsu | Substack
+ - [https://jeanhsu.substack.com](https://jeanhsu.substack.com)
+ - date_published: 2024-01-09T01:41:11.957328+00:00
+
+ ## Generation Tech | Jean M. Twenge | Substack
+ - [https://jeanmtwenge.substack.com](https://jeanmtwenge.substack.com)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## White Rabbit Pursuits | Substack
+ - [https://jeannette.substack.com](https://jeannette.substack.com)
+ - date_published: 2024-05-10T06:14:27.470104+00:00
+
  ## Jeff’s Newsletter | Jeff Burke | Substack
  - [https://jeffburke.substack.com](https://jeffburke.substack.com)
  - date_published: 2024-07-04T09:40:05.008467+00:00
@@ -4026,54 +4074,5 @@
  ## The Map is Mostly Water | Simon Sarris | Substack
  - [https://simonsarris.substack.com](https://simonsarris.substack.com)
  - date_published: 2023-10-25T10:03:37.881602+00:00
- - tags: ['substack']
-
- ## Simon Willison’s Newsletter | Substack
- - [https://simonw.substack.com](https://simonw.substack.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Simplicity is SOTA | Richard Demsyn-Jones | Substack
- - [https://simplicityissota.substack.com](https://simplicityissota.substack.com)
- - date_published: 2024-01-09T01:44:19.327248+00:00
-
- ## Simplicius's Garden of Knowledge | Substack
- - [https://simplicius76.substack.com](https://simplicius76.substack.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Simply Orthodox | Jamey Bennett | Substack
- - [https://simplyorthodox.substack.com](https://simplyorthodox.substack.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Sinica | Kaiser Y Kuo | Substack
- - [https://sinica.substack.com](https://sinica.substack.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## The Accessibility Apprentice | Kristian | Substack
- - [https://sirkotsky.substack.com](https://sirkotsky.substack.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Sketchy Ideas | Chris J Wilson | Substack
- - [https://sketchyideas.substack.com](https://sketchyideas.substack.com)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Skin of Our Teeth | Kate Neale Cooper | Substack
- - [https://skinofourteeth.substack.com](https://skinofourteeth.substack.com)
- - date_published: 2024-08-18T06:01:48.487419+00:00
-
- ## Stupid Fresh Mess | Skottie Young | Substack
- - [https://skottieyoung.substack.com](https://skottieyoung.substack.com)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Skunk Ledger | BLAP | Substack
- - [https://skunkledger.substack.com](https://skunkledger.substack.com)
- - date_published: 2024-01-09T01:44:21.881309+00:00
-
- ## Irregular Ideas with Paul Kedrosky & Eric Norlin of SKV | SK Ventures | Substack
- - [https://skventures.substack.com](https://skventures.substack.com)
- - date_published: 2024-01-09T01:44:24.174332+00:00
-
- ## Skybrian’s Blog | Substack
- - [https://skybrian.substack.com](https://skybrian.substack.com)
- - date_published: 2023-10-25T10:03:51.030062+00:00
  - tags: ['substack']
 

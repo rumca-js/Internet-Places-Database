@@ -1,3 +1,7 @@
+ ## JoLaine
+ - [http://jolainejonespokorney.blogspot.com](http://jolainejonespokorney.blogspot.com)
+ - date_published: 2024-02-21T01:22:30+00:00
+
  ## Jomada - Adventures in Middle-earth
  - [http://jomada-adventures.blogspot.com](http://jomada-adventures.blogspot.com)
  - date_published: 2024-10-24T20:28:37+00:00
@@ -4003,8 +4007,4 @@
  ## Marmota's Dress Diaries
  - [http://marmota-b.blogspot.com](http://marmota-b.blogspot.com)
  - date_published: 2024-12-06T12:13:28+00:00
-
- ## Marrickvillia
- - [http://marrickvillia.blogspot.com](http://marrickvillia.blogspot.com)
- - date_published: 2024-09-06T22:03:16+00:00
 

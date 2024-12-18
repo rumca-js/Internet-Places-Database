@@ -1,3 +1,68 @@
+ ## –Ukrainian Patriot
+ - [https://ukrainianpatriot.org](https://ukrainianpatriot.org)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Home page | HOLODOMOR DESCENDANTS NETWORK
+ - [https://hdn.ukrainianworldcongress.org](https://hdn.ukrainianworldcongress.org)
+ - date_published: 2024-05-12T04:55:47.921156+00:00
+
+ ## JOIN THE GLOBAL RALLY On February 24, 2024, Stand With Ukraine!
+ - [https://standwithukraine.ukrainianworldcongress.org](https://standwithukraine.ukrainianworldcongress.org)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Stand With Ukraine!
+ - [https://standwithukraineworld.ukrainianworldcongress.org](https://standwithukraineworld.ukrainianworldcongress.org)
+ - date_published: 2024-02-17T12:12:21+00:00
+
+ ## International Organization - Ukrainian World Congress
+ - [https://ukrainianworldcongress.org](https://ukrainianworldcongress.org)
+ - date_published: 2024-04-01T07:02:41.553203+00:00
+
+ ## Arts and Humanities Research Council (AHRC)
+ - [https://ahrc.ukri.org](https://ahrc.ukri.org)
+ - date_published: 2024-05-04T15:14:27.764366+00:00
+
+ ## Environmental Data Service | NERC Environmental Data Service
+ - [https://eds.ukri.org](https://eds.ukri.org)
+ - date_published: 2024-06-17T17:47:27.636154+00:00
+
+ ## Engineering and Physical Sciences Research Council (EPSRC)
+ - [https://epsrc.ukri.org](https://epsrc.ukri.org)
+ - date_published: 2024-05-08T07:35:42.799166+00:00
+
+ ## Economic and Social Research Council (ESRC)
+ - [https://esrc.ukri.org](https://esrc.ukri.org)
+ - date_published: 2024-06-17T18:32:29.688615+00:00
+
+ ## EPSRC Grants on the Web - Notice
+ - [https://gow.epsrc.ukri.org](https://gow.epsrc.ukri.org)
+ - date_published: 2024-01-18T10:44:14+00:00
+
+ ## Research England
+ - [https://re.ukri.org](https://re.ukri.org)
+ - date_published: 2024-06-17T18:37:59.241242+00:00
+
+ ## Science and Technology Facilities Council (STFC)
+ - [https://stfc.ukri.org](https://stfc.ukri.org)
+ - date_published: 2024-10-20T04:16:54.098287+00:00
+
+ ## UK National Quantum Technologies Programme
+ - [https://uknqt.ukri.org](https://uknqt.ukri.org)
+ - date_published: 2024-10-19T05:49:42.785339+00:00
+
+ ## UK Research and Innovation
+ - [https://ukri.org](https://ukri.org)
+ - date_published: 2023-12-07T17:40:19.222248+00:00
+ - tags: ['organization']
+
+ ## Discover UKRI
+ - [https://www.discover.ukri.org](https://www.discover.ukri.org)
+ - date_published: 2024-10-20T06:03:02.724695+00:00
+
+ ## Ukrinform新闻
+ - [https://ukrinform.org](https://ukrinform.org)
+ - date_published: 2024-05-02T10:44:14.962972+00:00
+
  ## Home - UK Research Integrity Office
  - [https://ukrio.org](https://ukrio.org)
  - date_published: 2024-06-22T18:55:01.343291+00:00
@@ -3966,71 +4031,4 @@
  - [https://viceteam.org](https://viceteam.org)
  - date_published: 2024-05-23T11:39:45+00:00
  - tags: ['seo', 'website marketing']
-
- ## https://victimservicecenter.org/
- - [https://victimservicecenter.org](https://victimservicecenter.org)
- - date_published: 2024-07-03T14:41:05.521190+00:00
-
- ## Home | Victims For Justice
- - [https://victimsforjustice.org](https://victimsforjustice.org)
- - date_published: 2018-01-04T00:31:51+00:00
-
- ## The Dictionary of Victorian London, by Lee Jackson, author
- - [http://www.victorianlondon.org](http://www.victorianlondon.org)
- - date_published: 2023-10-19T16:56:59+00:00
-
- ## The Victorian Web: Linking Scholarship, Teaching and Learning since 1994
- - [https://victorianweb.org](https://victorianweb.org)
- - date_published: 2023-11-01T18:33:01.038777+00:00
-
- ## Inicio - Vida Salvaje
- - [https://vidasalvaje.org](https://vidasalvaje.org)
- - date_published: 2023-11-29T14:42:58.928937+00:00
- - tags: ['personal']
-
- ## Fundación por un Mundo Libre de Drogas Sitio: Hechos para Adultos y Adolescentes sobre el Abuso de Drogas y Sustancias, Información de Libros sobre Drogas, Educación
- - [http://www.vidasindrogas.org](http://www.vidasindrogas.org)
- - date_published: 2024-09-04T17:58:33.319951+00:00
-
- ## Empowering the World's Documentarians
- - [https://videoconsortium.org](https://videoconsortium.org)
- - date_published: 2024-09-15T09:41:14+00:00
-
- ## Video Dev
- - [https://video-dev.org](https://video-dev.org)
- - date_published: 2024-05-17T02:54:27.124063+00:00
- - tags: ['open source', 'video codecs']
-
- ## VideoFest is the longest running independent film festival in Dallas.
- - [http://www.videofest.org](http://www.videofest.org)
- - date_published: 2024-07-11T16:10:30.362237+00:00
-
- ## Browse  Latest | https://addons.videolan.org/browse/
- - [https://addons.videolan.org](https://addons.videolan.org)
- - date_published: 2024-05-17T02:55:05.360263+00:00
- - tags: ['vlc', 'program extensions']
-
- ## Index of /
- - [https://artifacts.videolan.org](https://artifacts.videolan.org)
- - date_published: 2024-05-17T02:55:10.054300+00:00
-
- ## Explore projects · GitLab
- - [https://code.videolan.org](https://code.videolan.org)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## The VideoLAN Forums - Forum Home
- - [https://forum.videolan.org](https://forum.videolan.org)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Index of /videolan/
- - [https://get.videolan.org](https://get.videolan.org)
- - date_published: 2024-05-17T02:55:04.339251+00:00
-
- ## git.videolan.org Git
- - [https://git.videolan.org](https://git.videolan.org)
- - date_published: 2024-05-12T06:58:10.695907+00:00
-
- ## VLC: Official site - Free multimedia solutions for all OS! - VideoLAN
- - [https://images.videolan.org](https://images.videolan.org)
- - date_published: 2024-02-16T00:00:00+00:00
 

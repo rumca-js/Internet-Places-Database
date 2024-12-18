@@ -1,3 +1,27 @@
+ ## Project Greenify – Medium
+ - [https://project-greenifyy.medium.com](https://project-greenifyy.medium.com)
+ - date_published: 2024-02-08T22:17:01.927262+00:00
+
+ ## Project Serum – Medium
+ - [https://projectserum.medium.com](https://projectserum.medium.com)
+ - date_published: 2024-10-11T21:40:30.763840+00:00
+
+ ## Prospectors – Medium
+ - [https://prospectors.medium.com](https://prospectors.medium.com)
+ - date_published: 2024-10-11T21:40:45.569700+00:00
+
+ ## Matt Herzog – Medium
+ - [https://protozog.medium.com](https://protozog.medium.com)
+ - date_published: 2024-05-11T09:23:34.376077+00:00
+
+ ## Quobyte – Medium
+ - [https://quobyte.medium.com](https://quobyte.medium.com)
+ - date_published: 2024-07-18T13:23:05.271986+00:00
+
+ ## RACA3 – Medium
+ - [https://raca3.medium.com](https://raca3.medium.com)
+ - date_published: 2024-12-13T06:33:07.944255+00:00
+
  ## Rachel Coldicutt – Medium
  - [https://rachelcoldicutt.medium.com](https://rachelcoldicutt.medium.com)
  - date_published: 2024-07-11T14:28:53.819918+00:00
@@ -3989,29 +4013,4 @@
  ## Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.
  - [https://mermaidchart.com](https://mermaidchart.com)
  - date_published: 2023-10-25T16:01:35.538500+00:00
-
- ## Tired of texting? Looking for a better, more fun way to chat?
- - [https://mermeliz.com](https://mermeliz.com)
- - date_published: 2024-05-27T21:22:20+00:00
- - tags: ['personal']
-
- ## Meross Official Store
- - [https://shop.meross.com](https://shop.meross.com)
- - date_published: 2024-08-06T05:46:22.401191+00:00
-
- ## Meross Offical Site, Smart House and Home Automation Device Provider.
- - [https://www.meross.com](https://www.meross.com)
- - date_published: 2024-06-23T05:59:40.090304+00:00
-
- ## Meroxa
- - [https://docs.meroxa.com](https://docs.meroxa.com)
- - date_published: 2024-07-22T11:04:52.736138+00:00
-
- ## News — Middle-earth Role-Playing Community Website
- - [http://merp.com](http://merp.com)
- - date_published: 2024-06-18T21:44:37.843146+00:00
-
- ## Merpay, Inc.
- - [https://en.merpay.com](https://en.merpay.com)
- - date_published: 2024-10-22T17:25:06.521830+00:00
 

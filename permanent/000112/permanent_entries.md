@@ -1,3 +1,7 @@
+ ## Binding of Isaac: Rebirth Wiki
+ - [https://bindingofisaacrebirth.gamepedia.com](https://bindingofisaacrebirth.gamepedia.com)
+ - date_published: 2024-10-24T02:11:30+00:00
+
  ## BukkitWiki
  - [https://bukkit.gamepedia.com](https://bukkit.gamepedia.com)
  - date_published: 2024-06-13T21:09:10+00:00
@@ -4046,8 +4050,4 @@
  ## Generation Black Magazine
  - [https://genbmag.com](https://genbmag.com)
  - date_published: 2024-06-10T00:00:00+00:00
-
- ## Home - Gen B USA Magazine
- - [https://www.genbusa.com](https://www.genbusa.com)
- - date_published: 2020-01-02T11:13:56+00:00
 

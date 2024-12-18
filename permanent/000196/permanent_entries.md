@@ -1,3 +1,51 @@
+ ## Solutions Review Technology News and Vendor Reviews
+ - [https://solutionsreview.com](https://solutionsreview.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## SolveBio
+ - [https://www.solvebio.com](https://www.solvebio.com)
+ - date_published: 2023-08-22T18:38:10+00:00
+
+ ## Solveig Sørbø
+ - [https://solveigsorbo.com](https://solveigsorbo.com)
+ - date_published: 2024-01-07T04:14:37.204798+00:00
+
+ ## Write Patents With AI | Solve Intelligence
+ - [https://www.solveintelligence.com](https://www.solveintelligence.com)
+ - date_published: 2024-10-29T14:14:02+00:00
+
+ ## solver
+ - [http://www.solver.com](http://www.solver.com)
+ - date_published: 2024-08-02T18:46:55.214528+00:00
+
+ ## Solver Max - Home
+ - [https://solvermax.com](https://solvermax.com)
+ - date_published: 2024-01-08T19:27:02.080164+00:00
+
+ ## Solver Wp
+ - [https://solverwp.com](https://solverwp.com)
+ - date_published: 2023-12-11T18:37:07.651221+00:00
+
+ ## Wp Plugin
+ - [https://wp-plugins.solverwp.com](https://wp-plugins.solverwp.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Solver Wp Themes
+ - [https://wp-themes.solverwp.com](https://wp-themes.solverwp.com)
+ - date_published: 2024-04-29T05:14:59.931369+00:00
+
+ ## Solve Your Marketing – Take our powerful free marketing assessment tool to discover where you need to improve so you can solve your marketing.
+ - [https://solveyourmarketing.com](https://solveyourmarketing.com)
+ - date_published: 2024-06-29T08:55:37.746525+00:00
+
+ ## Solvicode - Ship Your Code Faster
+ - [https://www.solvicode.com](https://www.solvicode.com)
+ - date_published: 2024-12-10T10:27:01.153670+00:00
+
+ ## Puzzles Games Activities | solvingfun.com
+ - [http://www.solvingfun.com](http://www.solvingfun.com)
+ - date_published: 2024-09-16T23:57:31.506751+00:00
+
  ## Solving Procrastination
  - [https://solvingprocrastination.com](https://solvingprocrastination.com)
  - date_published: 2023-11-19T14:19:03.262194+00:00
@@ -3991,52 +4039,4 @@ Equity & GIS
  ## Specific Mechanical Systems | Brewing and Distillery Equipment
  - [https://specificmechanical.com](https://specificmechanical.com)
  - date_published: 2024-04-18T00:00:00+00:00
-
- ## Simple Sabotage for the 21st Century – Specific Suggestions
- - [https://specificsuggestions.com](https://specificsuggestions.com)
- - date_published: 2024-11-29T18:33:39+00:00
-
- ## Specify | Your Design Token Engine
- - [https://specifyapp.com](https://specifyapp.com)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## SEPP'Manufaktur Südtirol
- - [https://speckshoponline.com](https://speckshoponline.com)
- - date_published: 2024-09-19T20:33:14.723002+00:00
-
- ## Speckyboy Design Magazine
- - [https://speckyboy.com](https://speckyboy.com)
- - date_published: 2024-05-10T04:14:10.709639+00:00
-
- ## Spec Markdown
- - [https://spec-md.com](https://spec-md.com)
- - date_published: 2023-01-12T19:29:38+00:00
-
- ## ZX SPECTRUM NEXT – The official portal for all things Next
- - [https://www.specnext.com](https://www.specnext.com)
- - date_published: 2024-07-02T22:05:07+00:00
-
- ## Specops Software - Password Security Tools for Active Directory
- - [https://specopssoft.com](https://specopssoft.com)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Leading Scientific Equipment for Surface Analysis
- - [http://www.specs.com](http://www.specs.com)
- - date_published: 2024-10-19T03:53:19.606093+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.spectacleapp.com](https://www.spectacleapp.com)
- - date_published: 2024-05-06T14:19:44.295479+00:00
-
- ## Spectacles od Snap Inc. • Spectacles nowej generacji
- - [https://spectacles.com](https://spectacles.com)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Spectacles Support
- - [https://support.spectacles.com](https://support.spectacles.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Spectacular AI
- - [https://spectacularai.com](https://spectacularai.com)
- - date_published: 2024-12-15T08:13:57.235572+00:00
 

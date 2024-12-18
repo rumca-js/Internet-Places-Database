@@ -1,3 +1,63 @@
+ ## craigslist: tucson jobs, apartments, for sale, services, community, and events
+ - [https://tucson.craigslist.org](https://tucson.craigslist.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## craigslist: vancouver, BC jobs, apartments, for sale, services, community, and events
+ - [https://vancouver.craigslist.org](https://vancouver.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: venezia lavori, appartamenti, in vendita, servizi, comunità ed eventi
+ - [https://venice.craigslist.org](https://venice.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: ventura jobs, apartments, for sale, services, community, and events
+ - [https://ventura.craigslist.org](https://ventura.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: victoria, BC jobs, apartments, for sale, services, community, and events
+ - [https://victoria.craigslist.org](https://victoria.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: washington, DC jobs, apartments, for sale, services, community, and events
+ - [https://washingtondc.craigslist.org](https://washingtondc.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: western slope jobs, apartments, for sale, services, community, and events
+ - [https://westslope.craigslist.org](https://westslope.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: winnipeg jobs, apartments, for sale, services, community, and events
+ - [https://winnipeg.craigslist.org](https://winnipeg.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: yuma jobs, apartments, for sale, services, community, and events
+ - [https://yuma.craigslist.org](https://yuma.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: Zürich Jobs, Wohnungen, zu verkaufen, Dienstleistungen, Gemeinschaft und Veranstaltungen
+ - [https://zurich.craigslist.org](https://zurich.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Craigslist Fund
+ - [https://www.craigslistfund.org](https://www.craigslistfund.org)
+ - date_published: 2024-07-07T09:37:27.752674+00:00
+
+ ## Massachusetts Cranberries | CCCGA
+ - [https://www.cranberries.org](https://www.cranberries.org)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Contemporary Art in Metro Detroit | Cranbrook Art Museum
+ - [https://cranbrookartmuseum.org](https://cranbrookartmuseum.org)
+ - date_published: 2024-09-06T10:01:42+00:00
+
+ ## Lorrie Faith Cranor's Home Page
+ - [http://lorrie.cranor.org](http://lorrie.cranor.org)
+ - date_published: 2024-06-19T19:00:57+00:00
+
+ ## PagesPerso - Crans Wiki
+ - [https://perso.crans.org](https://perso.crans.org)
+ - date_published: 2022-09-07T00:00:00+00:00
+
  ## Blog by Marco
  - [https://crapts.org](https://crapts.org)
  - date_published: 2024-04-21T15:27:32.723574+00:00
@@ -3982,64 +4042,4 @@ irc logs at libera.irclog.whitequark.org
  - [https://defectivebydesign.org](https://defectivebydesign.org)
  - date_published: 2024-05-08T09:35:57.647047+00:00
  - tags: ['drm', 'activism']
-
- ## Homepage v2 - Defence for Children
- - [https://defenceforchildren.org](https://defenceforchildren.org)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Engaging Networks: Nonprofit Digital Engagement Platform
- - [https://support.defenders.org](https://support.defenders.org)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Defending Democracy Together
- - [https://www.defendingdemocracytogether.org](https://www.defendingdemocracytogether.org)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Parents Defending Education
- - [https://defendinged.org](https://defendinged.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home - Defending The Republic
- - [https://defendingtherepublic.org](https://defendingtherepublic.org)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## DEFEND THE ATLANTA FOREST
- - [https://defendtheatlantaforest.org](https://defendtheatlantaforest.org)
- - date_published: 2024-06-18T17:27:57+00:00
-
- ## Defend the Vatican
- - [http://defendtheholysee.org](http://defendtheholysee.org)
- - date_published: 2024-08-18T20:31:21.023712+00:00
-
- ## Attention Required! | Cloudflare
- - [http://www.deffa.org](http://www.deffa.org)
- - date_published: 2024-08-20T05:18:26.578173+00:00
-
- ## DeFi Collective
- - [https://deficollective.org](https://deficollective.org)
- - date_published: 2024-09-23T12:02:15+00:00
-
- ## Digital Empowerment Foundation, DEF |
- - [http://defindia.org](http://defindia.org)
- - date_published: 2024-08-08T12:18:40.061842+00:00
-
- ## DefinitiveDrupal.org | Configuration, Code, and Community
- - [https://definitivedrupal.org](https://definitivedrupal.org)
- - date_published: 2024-05-08T12:12:24.924893+00:00
-
- ## DeFi Security Summit 2024
- - [https://defisecuritysummit.org](https://defisecuritysummit.org)
- - date_published: 2024-07-14T21:47:51.734192+00:00
-
- ## DeFiVerse
- - [https://defi-verse.org](https://defi-verse.org)
- - date_published: 2024-09-10T10:27:02+00:00
-
- ## DeFiVerse blockchain explorer | Blockscout
- - [https://scan.defi-verse.org](https://scan.defi-verse.org)
- - date_published: 2024-09-24T06:42:42.907530+00:00
-
- ## DeFiVerse-Testnet blockchain explorer | Blockscout
- - [https://scan-testnet.defi-verse.org](https://scan-testnet.defi-verse.org)
- - date_published: 2024-09-23T22:39:08.198672+00:00
 

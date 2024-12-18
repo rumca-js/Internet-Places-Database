@@ -1,3 +1,59 @@
+ ## Research Guides
+ - [http://libguides.valpo.edu](http://libguides.valpo.edu)
+ - date_published: 2024-07-01T12:22:30.265060+00:00
+
+ ## Christopher Center Library
+ - [http://library.valpo.edu](http://library.valpo.edu)
+ - date_published: 2024-07-01T12:22:34.053759+00:00
+
+ ## ValpoScholar | Valparaiso University Research
+ - [https://scholar.valpo.edu](https://scholar.valpo.edu)
+ - date_published: 2024-05-07T19:19:19.956824+00:00
+
+ ## Valparaiso University
+ - [http://www.valpo.edu](http://www.valpo.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions.vanderbilt.edu](https://admissions.vanderbilt.edu)
+ - date_published: 2024-02-02T20:15:57+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.library.vanderbilt.edu](https://analytics.library.vanderbilt.edu)
+ - date_published: 2024-07-12T14:58:09.187917+00:00
+
+ ## Application Management
+ - [https://apply.vanderbilt.edu](https://apply.vanderbilt.edu)
+ - date_published: 2024-07-12T14:58:21.330685+00:00
+
+ ## Vanderbilt University College of Arts and Science
+ - [https://as.vanderbilt.edu](https://as.vanderbilt.edu)
+ - date_published: 2024-06-23T09:41:35.579460+00:00
+
+ ## SimCapture Central  | SimBridge
+ - [https://bline.app.vanderbilt.edu](https://bline.app.vanderbilt.edu)
+ - date_published: 2024-07-12T14:58:55.819380+00:00
+
+ ## Sign On
+ - [https://brightspace.vanderbilt.edu](https://brightspace.vanderbilt.edu)
+ - date_published: 2024-07-12T14:58:43.980796+00:00
+
+ ## Collection Guides | Collection Guides
+ - [https://collections.library.vanderbilt.edu](https://collections.library.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:40.863758+00:00
+
+ ## Sign On
+ - [https://dev.vanderbilt.edu](https://dev.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:45.412137+00:00
+
+ ## Department of Electrical and Computer Engineering
+ - [http://eecs.vanderbilt.edu](http://eecs.vanderbilt.edu)
+ - date_published: 2024-12-15T19:41:11.330767+00:00
+
+ ## Home Page
+ - [https://engineering.vanderbilt.edu](https://engineering.vanderbilt.edu)
+ - date_published: 2024-08-06T04:24:21.401491+00:00
+
  ## Events@Vanderbilt
  - [https://events.vanderbilt.edu](https://events.vanderbilt.edu)
  - date_published: 2024-07-09T05:50:14+00:00
@@ -3946,60 +4002,4 @@
  ## Williams Home Page
  - [https://williams.edu](https://williams.edu)
  - date_published: 2024-05-07T22:30:17.704844+00:00
-
- ## Home
- - [https://www.willistonstate.edu](https://www.willistonstate.edu)
- - date_published: 2024-07-01T16:00:53.658637+00:00
-
- ## Disability Resource Guide
- - [https://accessibility.fpm.wisc.edu](https://accessibility.fpm.wisc.edu)
- - date_published: 2024-07-02T14:32:24.443439+00:00
-
- ## Accessibility @ UW-Madison
- - [https://accessible.wisc.edu](https://accessible.wisc.edu)
- - date_published: 2024-05-07T22:30:34.810014+00:00
-
- ## Library Account
- - [https://account.library.wisc.edu](https://account.library.wisc.edu)
- - date_published: 2024-07-21T06:50:37.891196+00:00
-
- ## University of Wisconsin-Madison Login
- - [https://admin.today.wisc.edu](https://admin.today.wisc.edu)
- - date_published: 2024-07-02T14:34:03.632418+00:00
-
- ## Office of Admissions and Recruitment
- - [https://admissions.wisc.edu](https://admissions.wisc.edu)
- - date_published: 2024-07-02T14:28:49.984776+00:00
-
- ## Applied Math Engineering and Physics (AMEP)
- - [https://amep.math.wisc.edu](https://amep.math.wisc.edu)
- - date_published: 2024-07-04T02:16:25.233023+00:00
-
- ## Animal models for biotechnology
- - [https://animalmodels.biotech.wisc.edu](https://animalmodels.biotech.wisc.edu)
- - date_published: 2024-07-02T14:33:41.561367+00:00
-
- ## UW Psychiatry | Equity & AntiRacism
- - [https://antiracism.psychiatry.wisc.edu](https://antiracism.psychiatry.wisc.edu)
- - date_published: 2024-09-15T15:08:59.568528+00:00
-
- ## University of Wisconsin-Madison Login
- - [https://apps.cs.wisc.edu](https://apps.cs.wisc.edu)
- - date_published: 2024-07-02T14:35:46.200207+00:00
-
- ## University of Wisconsin-Madison Login
- - [https://apps.google.wisc.edu](https://apps.google.wisc.edu)
- - date_published: 2024-07-21T06:50:48.250735+00:00
-
- ## Biomedical Computing Group
- - [https://bcg.biostat.wisc.edu](https://bcg.biostat.wisc.edu)
- - date_published: 2024-09-18T22:59:47.105262+00:00
-
- ## Huber Research Group
- - [https://biofuels.che.wisc.edu](https://biofuels.che.wisc.edu)
- - date_published: 2024-08-18T17:45:03.481296+00:00
-
- ## BioGarage
- - [https://biogarage.biotech.wisc.edu](https://biogarage.biotech.wisc.edu)
- - date_published: 2024-07-02T14:33:29.019963+00:00
 

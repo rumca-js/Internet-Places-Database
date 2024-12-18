@@ -1,3 +1,8 @@
+ ## Daren Smith | Creative Entrepreneur, Film Producer, Author
+ - [https://darentsmith.com](https://darentsmith.com)
+ - date_published: 2020-09-24T00:00:00+00:00
+ - tags: ['personal']
+
  ## Darewise Entertainment | Pioneering Web3 Technology | Gaming Bitcoin Metaverse
  - [https://darewise.com](https://darewise.com)
  - date_published: 2024-09-25T10:23:36.628675+00:00
@@ -4055,8 +4060,4 @@
  ## DEACERO®
  - [https://www.deacero.com](https://www.deacero.com)
  - date_published: 2024-08-19T07:53:32.785817+00:00
-
- ## Wake Forest - Athletics Unite (Deacon Club)
- - [https://deaconclub.com](https://deaconclub.com)
- - date_published: 2024-07-01T00:00:00+00:00
 

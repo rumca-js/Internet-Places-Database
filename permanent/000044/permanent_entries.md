@@ -1,3 +1,7 @@
+ ## amirisu - Online shop for yarns and textiles selected from all over the world
+ - [https://shop.amirisu.com](https://shop.amirisu.com)
+ - date_published: 2024-08-06T03:08:06.174958+00:00
+
  ## amirisu kurumi north america
  - [https://amirisu-kurumi.com](https://amirisu-kurumi.com)
  - date_published: 2024-06-14T00:00:00+00:00
@@ -4075,8 +4079,4 @@
  ## Anna Readman
  - [https://annareadman.com](https://annareadman.com)
  - date_published: 2024-07-17T06:25:59.647557+00:00
-
- ## Home Page
- - [https://annarountree.com](https://annarountree.com)
- - date_published: 2024-09-01T00:00:00+00:00
 

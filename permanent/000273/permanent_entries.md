@@ -1,3 +1,60 @@
+ ## Edmond & Lily Safra Center for Ethics
+ - [https://ethics.harvard.edu](https://ethics.harvard.edu)
+ - date_published: 2024-06-15T13:00:55+00:00
+
+ ## Events Calendar - Harvard SEAS
+ - [https://events.seas.harvard.edu](https://events.seas.harvard.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Explore SEL
+ - [http://exploresel.gse.harvard.edu](http://exploresel.gse.harvard.edu)
+ - date_published: 2024-07-09T18:30:49+00:00
+
+ ## Harvard School of Engineering and Applied Sciences Faculty Explorer
+ - [https://facultyexplorer.seas.harvard.edu](https://facultyexplorer.seas.harvard.edu)
+ - date_published: 2024-04-30T04:47:13.495931+00:00
+
+ ## Home HAS EVENTS
+ - [https://filmstudycenter.fas.harvard.edu](https://filmstudycenter.fas.harvard.edu)
+ - date_published: 2024-07-14T05:40:33.415243+00:00
+
+ ## Peter Galison - Department of the History of Science, Harvard University
+ - [https://galison.scholar.harvard.edu](https://galison.scholar.harvard.edu)
+ - date_published: 2024-09-05T12:58:33+00:00
+
+ ## Google Apps For Harvard
+ - [https://g.harvard.edu](https://g.harvard.edu)
+ - date_published: 2024-09-18T07:59:13.379613+00:00
+
+ ## Digital Giza | Home
+ - [http://giza.fas.harvard.edu](http://giza.fas.harvard.edu)
+ - date_published: 2024-05-08T10:34:39.804939+00:00
+
+ ## GARY KING
+ - [https://gking.harvard.edu](https://gking.harvard.edu)
+ - date_published: 2024-03-26T16:12:46.229022+00:00
+ - tags: ['personal']
+
+ ## The Variation Lab @ Harvard SEAS | The Variation Lab @ Harvard SEAS
+ - [http://glassmanlab.seas.harvard.edu](http://glassmanlab.seas.harvard.edu)
+ - date_published: 2024-05-16T02:39:09+00:00
+
+ ## The Harvard Kenneth C. Griffin Graduate School of Arts and Sciences
+ - [https://gsas.harvard.edu](https://gsas.harvard.edu)
+ - date_published: 2024-08-11T05:21:32.552802+00:00
+
+ ## Research Guides
+ - [https://guides.library.harvard.edu](https://guides.library.harvard.edu)
+ - date_published: 2024-06-30T04:01:14.379264+00:00
+
+ ## Harvard University
+ - [https://harvard.edu](https://harvard.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Harvard Forest
+ - [https://harvardforest.fas.harvard.edu](https://harvardforest.fas.harvard.edu)
+ - date_published: 2024-08-02T00:00:00+00:00
+
  ## Harvard Business Publishing Education
  - [https://hbsp.harvard.edu](https://hbsp.harvard.edu)
  - date_published: 2023-10-25T18:51:44.051862+00:00
@@ -3954,60 +4011,4 @@ Data Services
  ## Shibboleth Authentication Request
  - [https://proxy.library.kent.edu](https://proxy.library.kent.edu)
  - date_published: 2024-07-01T11:11:19.416968+00:00
-
- ## Information Technology | Kent State University
- - [https://support.kent.edu](https://support.kent.edu)
- - date_published: 2024-07-01T03:56:43+00:00
-
- ## Welcome to KSU | Kent State University
- - [https://welcome.kent.edu](https://welcome.kent.edu)
- - date_published: 2024-07-01T00:13:24+00:00
-
- ## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
- - [https://www.kent.edu](https://www.kent.edu)
- - date_published: 2023-10-25T11:22:42.294245+00:00
-
- ## Chicago-Kent College of Law | Chicago-Kent College of Law
- - [https://www.kentlaw.edu](https://www.kentlaw.edu)
- - date_published: 2024-03-24T16:57:37.545830+00:00
-
- ## Branding
- - [http://brand.kgi.edu](http://brand.kgi.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## KGI - Ebook Download
- - [https://ebook.kgi.edu](https://ebook.kgi.edu)
- - date_published: 2018-04-25T00:00:00+00:00
-
- ## Home
- - [https://kgi.edu](https://kgi.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Give Now
- - [https://legacy.kgi.edu](https://legacy.kgi.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Home - Professional and Continuing Education
- - [https://pce.kgi.edu](https://pce.kgi.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Kirkwood Community College
- - [https://apply.kirkwood.edu](https://apply.kirkwood.edu)
- - date_published: 2024-06-20T16:48:48.205510+00:00
-
- ## Kirkwood MyHub
- - [https://hub.kirkwood.edu](https://hub.kirkwood.edu)
- - date_published: 2024-05-29T14:50:26+00:00
-
- ## Welcome | Kirkwood Bookstore & EagleShop
- - [https://shop.kirkwood.edu](https://shop.kirkwood.edu)
- - date_published: 2024-06-20T16:48:36.038713+00:00
-
- ## Homepage | Kirkwood Community College | Cedar Rapids, Iowa
- - [https://www.kirkwood.edu](https://www.kirkwood.edu)
- - date_published: 2024-05-04T09:28:08.118028+00:00
-
- ## KIT – ITI Algorithm Engineering –  Willkommen am Institut für Theoretische Informatik, Algorithm Engineering
- - [https://ae.iti.kit.edu](https://ae.iti.kit.edu)
- - date_published: 2024-08-18T18:45:34.893256+00:00
 

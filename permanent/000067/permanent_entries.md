@@ -1,3 +1,7 @@
+ ## Mikes Wargaming & Modelling Blog
+ - [http://tolcrothlogan.blogspot.com](http://tolcrothlogan.blogspot.com)
+ - date_published: 2024-07-16T21:04:02+00:00
+
  ## Tolkien and Fantasy
  - [http://tolkienandfantasy.blogspot.com](http://tolkienandfantasy.blogspot.com)
  - date_published: 2024-08-14T21:22:35+00:00
@@ -4004,8 +4008,4 @@
  ## Gilbert Submits
  - [http://www.gilbertsubmits.blogspot.com](http://www.gilbertsubmits.blogspot.com)
  - date_published: 2024-03-14T06:39:05+00:00
-
- ## Blogger
- - [http://www.godontrial.blogspot.com](http://www.godontrial.blogspot.com)
- - date_published: 2024-12-12T21:48:29.078993+00:00
 

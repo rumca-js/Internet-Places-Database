@@ -1,3 +1,64 @@
+ ## Log in — Hak5
+ - [https://account.shop.hak5.org](https://account.shop.hak5.org)
+ - date_published: 2024-09-02T10:59:05.080399+00:00
+
+ ## Product Documentation | Product Documentation
+ - [https://docs.hak5.org](https://docs.hak5.org)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Hak5 Download Portal
+ - [https://downloads.hak5.org](https://downloads.hak5.org)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Pentest Tools & Media | Hak5 Official Site
+ - [https://hak5.org](https://hak5.org)
+ - date_published: 2024-08-26T20:53:21+00:00
+ - tags: ['hardware hacking']
+
+ ## Payload Hub
+ - [https://payloads.hak5.org](https://payloads.hak5.org)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Hak5 PayloadStudio
+ - [https://payloadstudio.hak5.org](https://payloadstudio.hak5.org)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Pentest Tools & Media | Hak5 Official Site
+ - [https://shop.hak5.org](https://shop.hak5.org)
+ - date_published: 2024-09-02T10:58:40.529490+00:00
+
+ ## Hakai Institute
+ - [https://hakai.org](https://hakai.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## hakank's homepage
+ - [http://www.hakank.org](http://www.hakank.org)
+ - date_published: 2024-06-11T07:44:12+00:00
+
+ ## Haka | Software Defined Security
+ - [http://www.haka-security.org](http://www.haka-security.org)
+ - date_published: 2015-06-23T08:26:27+00:00
+
+ ## Hakin9 - IT Security Magazine
+ - [https://hakin9.org](https://hakin9.org)
+ - date_published: 2023-02-06T12:40:38+00:00
+
+ ## H A K U M E I    |    version 1.0 / deadly blossom
+ - [https://tfl.hakumei.org](https://tfl.hakumei.org)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## .:: Halal Research Council ::.
+ - [https://www.halalrc.org](https://www.halalrc.org)
+ - date_published: 2024-09-24T21:40:12.070687+00:00
+
+ ## Haldane's Sieve
+ - [https://haldanessieve.org](https://haldanessieve.org)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Home | Half Acre Cycling
+ - [https://halfacrecycling.org](https://halfacrecycling.org)
+ - date_published: 2024-05-08T06:48:34.520985+00:00
+
  ## Index of /
  - [https://buildbot.halide-lang.org](https://buildbot.halide-lang.org)
  - date_published: 2024-07-21T09:24:19.449461+00:00
@@ -460,6 +521,7 @@
  ## Harvey OS
  - [https://harvey-os.org](https://harvey-os.org)
  - date_published: 2023-04-24T20:58:07+00:00
+ - tags: ['operating system']
 
  ## Cierpliwości...
  - [https://hasbrouck.org](https://hasbrouck.org)
@@ -3962,65 +4024,4 @@
  ## Hyperledger TOC
  - [https://tsc.hyperledger.org](https://tsc.hyperledger.org)
  - date_published: 2024-09-16T16:01:14+00:00
-
- ## Hyperledger - Hyperledger - Hyperledger Foundation
- - [https://wiki.hyperledger.org](https://wiki.hyperledger.org)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Hypermail project home page
- - [http://www.hypermail-project.org](http://www.hypermail-project.org)
- - date_published: 2016-03-08T18:46:22+00:00
-
- ## Programming Languages - Hyperpolyglot
- - [https://hyperpolyglot.org](https://hyperpolyglot.org)
- - date_published: 2019-04-27T17:07:07+00:00
-
- ## _hyperscript
- - [https://hyperscript.org](https://hyperscript.org)
- - date_published: 2024-04-23T04:00:00+00:00
- - tags: ['html framework']
-
- ## Hyperskill - Learn to code and break into tech
- - [http://hyperskill.org](http://hyperskill.org)
- - date_published: 2024-07-20T18:08:34.330833+00:00
-
- ## What are hypersomnia sleep disorders, such as idiopathic hypersomnia, narcolepsy types 1 and 2, and Kleine-Levin syndrome? - Hypersomnia Foundation
- - [https://www.hypersomniafoundation.org](https://www.hypersomniafoundation.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Home — HyperSpy Website
- - [https://hyperspy.org](https://hyperspy.org)
- - date_published: 2024-05-31T11:06:05+00:00
-
- ## Hyperview · Native mobile apps, as easy as creating a web site
- - [https://hyperview.org](https://hyperview.org)
- - date_published: 2023-10-25T21:29:42.395442+00:00
-
- ## Hyperworlds â€“ Web Replacement Projects
- - [https://hyperworlds.org](https://hyperworlds.org)
- - date_published: 2023-02-12T20:15:17+00:00
-
- ## Hyphanet
- - [https://hyphanet.org](https://hyphanet.org)
- - date_published: 2023-06-26T00:00:00+00:00
-
- ## A-label: African Languages Between the Lines – Notes on sub-Saharan languages written in Arabic script
- - [https://ajami.hypotheses.org](https://ajami.hypotheses.org)
- - date_published: 2024-07-02T10:18:00.524282+00:00
-
- ## Archivbibliothek für Post-Neukantianismus und kritischen Idealismus der Gegenwart (APIG)
- - [https://apig.hypotheses.org](https://apig.hypotheses.org)
- - date_published: 2024-07-01T05:46:59.558788+00:00
-
- ## Computer-Assisted Language Comparison in Practice | Tutorials on Computational Approaches to the History and Diversity of Languages
- - [https://calc.hypotheses.org](https://calc.hypotheses.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Caramel – Sciences du langage et monde contemporain
- - [https://caramel.hypotheses.org](https://caramel.hypotheses.org)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Les carnets d'HTL – Actualités et ressources en histoire des théories linguistiques
- - [https://carnetshtl.hypotheses.org](https://carnetshtl.hypotheses.org)
- - date_published: 2024-07-02T10:15:06.673310+00:00
 

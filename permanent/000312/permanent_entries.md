@@ -1,4 +1,60 @@
  ## Digital Sansad
+ - [https://loksabha.nic.in](https://loksabha.nic.in)
+ - date_published: 2024-08-08T15:04:27.446548+00:00
+
+ ## Medical Counselling Committee (MCC) | India
+ - [https://mcc.nic.in](https://mcc.nic.in)
+ - date_published: 2024-08-08T18:39:40.050820+00:00
+
+ ## Pradhan Mantri Poshan Shakti Nirman (PM POSHAN) in India
+ - [http://mdm.nic.in](http://mdm.nic.in)
+ - date_published: 2022-07-21T18:19:41+00:00
+
+ ## Protocol Division, Ministry of External Affairs, Government of India
+ - [https://meaprotocol.nic.in](https://meaprotocol.nic.in)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Ministry of Food Processing Industries | GOI
+ - [https://mofpi.nic.in](https://mofpi.nic.in)
+ - date_published: 2024-04-28T00:26:31.533601+00:00
+
+ ## Ministry of Road Transport and Highways.
+ - [https://morth.nic.in](https://morth.nic.in)
+ - date_published: 2024-07-20T09:10:17+00:00
+
+ ## NATIONAL CONSUMER DISPUTES REDRESSAL COMMISSION
+ - [http://ncdrc.nic.in](http://ncdrc.nic.in)
+ - date_published: 2024-08-02T09:52:06+00:00
+
+ ## National Mission on Monuments and Antiquities
+ - [https://nmma.nic.in](https://nmma.nic.in)
+ - date_published: 2024-08-08T11:49:13.639095+00:00
+
+ ## Joint Entrance Examination (Main) | India
+ - [https://jeemain.nta.nic.in](https://jeemain.nta.nic.in)
+ - date_published: 2024-08-19T20:29:14.244846+00:00
+
+ ## PMGSY
+ - [https://omms.nic.in](https://omms.nic.in)
+ - date_published: 2024-07-06T19:19:44.700462+00:00
+
+ ## Digital Sansad
+ - [https://parliamentofindia.nic.in](https://parliamentofindia.nic.in)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Hon'ble Prime Minister of India
+ - [https://pmindiawebcast.nic.in](https://pmindiawebcast.nic.in)
+ - date_published: 2024-06-30T07:05:30+00:00
+
+ ## Home :: Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)
+ - [http://pmssy-mohfw.nic.in](http://pmssy-mohfw.nic.in)
+ - date_published: 2024-08-08T18:48:24.905430+00:00
+
+ ## Home | President of India
+ - [https://presidentofindia.nic.in](https://presidentofindia.nic.in)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Digital Sansad
  - [https://rajyasabha.nic.in](https://rajyasabha.nic.in)
  - date_published: 2024-08-08T15:04:31.253203+00:00
 
@@ -3976,61 +4032,4 @@ built-in pre- and post-processing facilities
  ## MAME Classic
  - [https://mameclassic.mameworld.info](https://mameclassic.mameworld.info)
  - date_published: 2024-06-14T15:48:44.439325+00:00
-
- ## M.A.M.E. F.E. Official Web Site
- - [https://mamefe.mameworld.info](https://mamefe.mameworld.info)
- - date_published: 2024-06-14T15:51:39.453387+00:00
-
- ## MASH's MAMEINFO
- - [https://mameinfo.mameworld.info](https://mameinfo.mameworld.info)
- - date_published: 2024-06-14T15:51:58.444619+00:00
-
- ## Tafoid's Emulator Utilities [MAMELOAD-ML TNG]
- - [https://mameload.mameworld.info](https://mameload.mameworld.info)
- - date_published: 2024-06-14T15:48:32.379837+00:00
-
- ## Mamemix
- - [https://mamemix.mameworld.info](https://mamemix.mameworld.info)
- - date_published: 2024-06-14T15:52:54.455272+00:00
-
- ## MAMEWorld - The Largest MAME Resource on the Net
- - [https://mameworld.info](https://mameworld.info)
- - date_published: 2024-04-28T00:00:00+00:00
- - tags: ['web1', 'emulator', 'mame']
-
- ## The Massive Mame Project - Your One Stop Arcade Cabinet Resource!
- - [https://massive.mameworld.info](https://massive.mameworld.info)
- - date_published: 2024-06-14T15:50:26.455656+00:00
-
- ## MAME Content Manager Plus
- - [https://mcm.mameworld.info](https://mcm.mameworld.info)
- - date_published: 2024-06-14T15:49:35.206605+00:00
-
- ## MiSFiTMAME
- - [https://misfitmame.mameworld.info](https://misfitmame.mameworld.info)
- - date_published: 2024-06-14T15:48:58.791090+00:00
-
- ## Mr. Do!'s Arcade
- - [https://mrdo.mameworld.info](https://mrdo.mameworld.info)
- - date_published: 2024-06-14T15:49:34.139652+00:00
-
- ## Orc's Gaff
- - [https://orc.mameworld.info](https://orc.mameworld.info)
- - date_published: 2024-06-14T15:48:18.018277+00:00
-
- ## PC and Console to JAMMA Page
- - [https://pc2jamma.mameworld.info](https://pc2jamma.mameworld.info)
- - date_published: 2024-06-14T15:51:15.756087+00:00
-
- ## PhilWIP
- - [https://philwip.mameworld.info](https://philwip.mameworld.info)
- - date_published: 2024-06-14T15:49:50.913780+00:00
-
- ## Ranger_lennier's MAME Page
- - [https://ranger.mameworld.info](https://ranger.mameworld.info)
- - date_published: 2024-06-14T15:50:57.677922+00:00
-
- ## Arbee's WIP Emporium
- - [https://rbelmont.mameworld.info](https://rbelmont.mameworld.info)
- - date_published: 2024-06-14T15:51:21.937279+00:00
 

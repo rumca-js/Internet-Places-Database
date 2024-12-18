@@ -1,3 +1,63 @@
+ ## Homepage v2 - Defence for Children
+ - [https://defenceforchildren.org](https://defenceforchildren.org)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Engaging Networks: Nonprofit Digital Engagement Platform
+ - [https://support.defenders.org](https://support.defenders.org)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Defending Democracy Together
+ - [https://www.defendingdemocracytogether.org](https://www.defendingdemocracytogether.org)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Parents Defending Education
+ - [https://defendinged.org](https://defendinged.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Home - Defending The Republic
+ - [https://defendingtherepublic.org](https://defendingtherepublic.org)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## DEFEND THE ATLANTA FOREST
+ - [https://defendtheatlantaforest.org](https://defendtheatlantaforest.org)
+ - date_published: 2024-06-18T17:27:57+00:00
+
+ ## Defend the Vatican
+ - [http://defendtheholysee.org](http://defendtheholysee.org)
+ - date_published: 2024-08-18T20:31:21.023712+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://www.deffa.org](http://www.deffa.org)
+ - date_published: 2024-08-20T05:18:26.578173+00:00
+
+ ## DeFi Collective
+ - [https://deficollective.org](https://deficollective.org)
+ - date_published: 2024-09-23T12:02:15+00:00
+
+ ## Digital Empowerment Foundation, DEF |
+ - [http://defindia.org](http://defindia.org)
+ - date_published: 2024-08-08T12:18:40.061842+00:00
+
+ ## DefinitiveDrupal.org | Configuration, Code, and Community
+ - [https://definitivedrupal.org](https://definitivedrupal.org)
+ - date_published: 2024-05-08T12:12:24.924893+00:00
+
+ ## DeFi Security Summit 2024
+ - [https://defisecuritysummit.org](https://defisecuritysummit.org)
+ - date_published: 2024-07-14T21:47:51.734192+00:00
+
+ ## DeFiVerse
+ - [https://defi-verse.org](https://defi-verse.org)
+ - date_published: 2024-09-10T10:27:02+00:00
+
+ ## DeFiVerse blockchain explorer | Blockscout
+ - [https://scan.defi-verse.org](https://scan.defi-verse.org)
+ - date_published: 2024-09-24T06:42:42.907530+00:00
+
+ ## DeFiVerse-Testnet blockchain explorer | Blockscout
+ - [https://scan-testnet.defi-verse.org](https://scan-testnet.defi-verse.org)
+ - date_published: 2024-09-23T22:39:08.198672+00:00
+
  ## Django Events Foundation North America | DEFNA
  - [https://defna.org](https://defna.org)
  - date_published: 2024-06-11T09:08:08.593387+00:00
@@ -3970,64 +4030,4 @@
  ## Haqq RPC: Public Web3 API for blockchain integration
  - [https://haqq.drpc.org](https://haqq.drpc.org)
  - date_published: 2024-09-24T02:14:10.557280+00:00
-
- ## Harmony 0 RPC: Public Web3 API for blockchain integration
- - [https://harmony-0.drpc.org](https://harmony-0.drpc.org)
- - date_published: 2024-09-24T07:05:44.301808+00:00
-
- ## Harmony 1 RPC: Public Web3 API for blockchain integration
- - [https://harmony-1.drpc.org](https://harmony-1.drpc.org)
- - date_published: 2024-09-24T02:25:22.239784+00:00
-
- ## Holesky RPC: Public Web3 API for blockchain integration
- - [https://holesky.drpc.org](https://holesky.drpc.org)
- - date_published: 2024-09-24T02:18:45.875829+00:00
-
- ## Immutable Zkevm RPC: Public Web3 API for blockchain integration
- - [https://immutable-zkevm.drpc.org](https://immutable-zkevm.drpc.org)
- - date_published: 2024-09-23T21:35:22.052519+00:00
-
- ## Immutable Zkevm Testnet RPC: Public Web3 API for blockchain integration
- - [https://immutable-zkevm-testnet.drpc.org](https://immutable-zkevm-testnet.drpc.org)
- - date_published: 2024-09-23T22:22:58.103188+00:00
-
- ## Kava RPC: Public Web3 API for blockchain integration
- - [https://kava.drpc.org](https://kava.drpc.org)
- - date_published: 2024-09-24T09:04:14.312886+00:00
-
- ## Kava Testnet RPC: Public Web3 API for blockchain integration
- - [https://kava-testnet.drpc.org](https://kava-testnet.drpc.org)
- - date_published: 2024-09-24T00:15:11.319509+00:00
-
- ## Klaytn RPC: Public Web3 API for blockchain integration
- - [https://klaytn.drpc.org](https://klaytn.drpc.org)
- - date_published: 2024-09-24T07:21:58.934461+00:00
-
- ## Kroma RPC: Public Web3 API for blockchain integration
- - [https://kroma.drpc.org](https://kroma.drpc.org)
- - date_published: 2024-09-23T23:30:05.708193+00:00
-
- ## Linea RPC: Public Web3 API for blockchain integration
- - [https://linea.drpc.org](https://linea.drpc.org)
- - date_published: 2024-09-24T02:20:28.771979+00:00
-
- ## Lisk RPC: Public Web3 API for blockchain integration
- - [https://lisk.drpc.org](https://lisk.drpc.org)
- - date_published: 2024-09-23T16:28:22.990750+00:00
-
- ## Manta Pacific RPC: Public Web3 API for blockchain integration
- - [https://manta-pacific.drpc.org](https://manta-pacific.drpc.org)
- - date_published: 2024-09-23T22:55:56.788637+00:00
-
- ## Manta Pacific Testnet RPC: Public Web3 API for blockchain integration
- - [https://manta-pacific-testnet.drpc.org](https://manta-pacific-testnet.drpc.org)
- - date_published: 2024-09-24T03:20:29.376067+00:00
-
- ## Mantle RPC: Public Web3 API for blockchain integration
- - [https://mantle.drpc.org](https://mantle.drpc.org)
- - date_published: 2024-09-24T04:26:59.049688+00:00
-
- ## Metall2 RPC: Public Web3 API for blockchain integration
- - [https://metall2.drpc.org](https://metall2.drpc.org)
- - date_published: 2024-09-24T10:16:21.642065+00:00
 

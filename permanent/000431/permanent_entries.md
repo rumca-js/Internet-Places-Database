@@ -1,3 +1,72 @@
+ ## List Index - lists.irde.st
+ - [https://lists.irde.st](https://lists.irde.st)
+ - date_published: 2024-07-10T06:00:49.917609+00:00
+
+ ## J.st
+ - [https://j.st](https://j.st)
+ - date_published: 2024-07-09T20:32:35.967574+00:00
+ - tags: ['link service']
+
+ ## Joost van Amersfoort
+ - [https://joo.st](https://joo.st)
+ - date_published: 2024-07-13T04:26:15.790241+00:00
+
+ ## Julien Jorge's Personal Website
+ - [https://julien.jorge.st](https://julien.jorge.st)
+ - date_published: 2023-10-25T08:56:02.922696+00:00
+ - tags: ['personal']
+
+ ## KST
+ - [https://kalli.st](https://kalli.st)
+ - date_published: 2024-07-08T08:49:14.540856+00:00
+
+ ## Cierpliwości...
+ - [https://kck.st](https://kck.st)
+ - date_published: 2024-03-27T12:00:41.150921+00:00
+ - tags: ['kickstarter']
+
+ ## KRYDRUFI - Your ultimate all-in-one mobile battle painting station
+ - [https://krydrufi.kckb.st](https://krydrufi.kckb.st)
+ - date_published: 2024-10-26T21:45:27.257148+00:00
+
+ ## Welcome
+ - [https://emilien.klein.st](https://emilien.klein.st)
+ - date_published: 2023-12-17T16:41:55.577098+00:00
+ - tags: ['personal']
+
+ ## Library Genesis
+ - [https://libgen.st](https://libgen.st)
+ - date_published: 2024-05-06T15:11:52.126336+00:00
+
+ ## LIBLAST
+ - [https://libla.st](https://libla.st)
+ - date_published: 2023-03-16T00:00:00+00:00
+ - tags: ['open source', 'video game']
+
+ ## LIBLAST
+ - [https://play.libla.st](https://play.libla.st)
+ - date_published: 2024-06-30T20:58:44+00:00
+
+ ## Arbeiten
+ - [https://macheiner.st](https://macheiner.st)
+ - date_published: 2022-02-12T00:00:00+00:00
+
+ ## marcan.st
+ - [https://marcan.st](https://marcan.st)
+ - date_published: 2023-03-29T03:14:38+00:00
+
+ ## Marine Beaufils embroidery art
+ - [https://www.marine.st](https://www.marine.st)
+ - date_published: 2024-07-10T07:41:50.663624+00:00
+
+ ## Welcome - Microca.st
+ - [http://microca.st](http://microca.st)
+ - date_published: 2022-01-13T20:09:40+00:00
+
+ ## Never Post
+ - [https://www.neverpo.st](https://www.neverpo.st)
+ - date_published: 2024-07-08T22:19:16.718334+00:00
+
  ## datatest_stable - Rust
  - [https://datatest-stable.nexte.st](https://datatest-stable.nexte.st)
  - date_published: 2024-06-10T00:00:00+00:00
@@ -3974,70 +4043,4 @@
  ## Ansh
  - [https://anshk.tech](https://anshk.tech)
  - date_published: 2024-06-20T15:37:52.820705+00:00
-
- ## APSL Tech - Actitud, Personas, Soluciones, Liderazgo
- - [https://apsl.tech](https://apsl.tech)
- - date_published: 2024-07-02T23:35:52.379726+00:00
-
- ## Arc
- - [http://arc.tech](http://arc.tech)
- - date_published: 2024-07-24T02:30:44.732218+00:00
-
- ## Area Technology
- - [https://area.tech](https://area.tech)
- - date_published: 2024-06-21T20:20:21.643012+00:00
-
- ## Multilocal Advertising Technology - ARMIS
- - [https://armis.tech](https://armis.tech)
- - date_published: 2017-08-07T14:20:11+00:00
-
- ## ARMIS Console
- - [https://console.armis.tech](https://console.armis.tech)
- - date_published: 2022-06-09T08:57:11+00:00
-
- ## Ashwin Hariharan
- - [https://ashwinhariharan.tech](https://ashwinhariharan.tech)
- - date_published: 2024-06-03T06:29:16.987227+00:00
- - tags: ['personal']
-
- ## Astrid Yu
- - [https://astrid.tech](https://astrid.tech)
- - date_published: 2023-10-25T08:56:06.592458+00:00
- - tags: ['personal']
-
- ## astroanax's home page
- - [https://astroanax.tech](https://astroanax.tech)
- - date_published: 2024-02-24T16:31:37+00:00
-
- ## Attention - AI for Sales, in real-time
- - [https://www.attention.tech](https://www.attention.tech)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## AUGMENTAL - Home
- - [https://augmental.tech](https://augmental.tech)
- - date_published: 2023-10-25T22:43:56.470480+00:00
-
- ## Moving us Towards a Self-Driving Future
- - [https://aurora.tech](https://aurora.tech)
- - date_published: 2024-05-10T04:55:15.207969+00:00
-
- ## Moving us Towards a Self-Driving Future
- - [https://info.aurora.tech](https://info.aurora.tech)
- - date_published: 2024-07-12T07:10:55.048647+00:00
-
- ## Investors
- - [https://ir.aurora.tech](https://ir.aurora.tech)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Geniuslink - URL Shortener for Creators and Affiliates
- - [https://austin.tech](https://austin.tech)
- - date_published: 2024-02-24T20:43:27.794701+00:00
-
- ## Auve Tech
- - [https://auve.tech](https://auve.tech)
- - date_published: 2024-07-12T07:18:22.934005+00:00
-
- ## Ayush Gupta - Developer, Photographer, Blogger & Designer | GuptaJi
- - [https://ayushgupta.tech](https://ayushgupta.tech)
- - date_published: 2024-05-11T10:19:20.877931+00:00
 

@@ -1,3 +1,7 @@
+ ## Wake Forest - Athletics Unite (Deacon Club)
+ - [https://deaconclub.com](https://deaconclub.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## Deacon Ross - Pocket Blog
  - [http://deaconross.com](http://deaconross.com)
  - date_published: 2024-08-20T19:37:09.537214+00:00
@@ -4046,8 +4050,4 @@
  ## The Denver Post – Colorado breaking news, sports, business, weather, entertainment.
  - [https://denverpost.com](https://denverpost.com)
  - date_published: 2023-10-25T11:03:04.845006+00:00
-
- ## Sign In with MNG
- - [https://enewspaper.denverpost.com](https://enewspaper.denverpost.com)
- - date_published: 2024-05-01T04:46:30.285639+00:00
 

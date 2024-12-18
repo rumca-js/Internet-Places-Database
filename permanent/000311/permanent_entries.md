@@ -1,3 +1,59 @@
+ ## Crime News : Latest क्राइम न्यूज़ In Hindi | CrimeTak
+ - [https://crimetak.in](https://crimetak.in)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Latest IT Channel News & Updates - Latest Tech News - CRN India
+ - [https://www.crn.in](https://www.crn.in)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Crowdin | Localization Management Platform for agile teams
+ - [https://crwd.in](https://crwd.in)
+ - date_published: 2024-05-14T03:37:20.583432+00:00
+
+ ## Cryptography and Surf
+ - [https://cryptme.in](https://cryptme.in)
+ - date_published: 2024-07-04T18:41:28.672569+00:00
+
+ ## CSTEP
+ - [http://www.cstep.in](http://www.cstep.in)
+ - date_published: 2024-07-16T20:41:05.637124+00:00
+
+ ## CtrlS - Asia's Largest Rated 4 Data Center & Managed Service Provider
+ - [https://www.ctrls.in](https://www.ctrls.in)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Chandigarh University (CU) Blog - Best University in India
+ - [https://blog.cuchd.in](https://blog.cuchd.in)
+ - date_published: 2024-12-15T11:22:22+00:00
+
+ ## CUCET Application Form 2025, Registration Form, Scholarships - Chandigarh University Entrance Exam Date
+ - [http://cucet.cuchd.in](http://cucet.cuchd.in)
+ - date_published: 2024-12-15T14:28:25.929211+00:00
+
+ ## Best Private University in Punjab, North India (India) - Chandigarh University
+ - [https://cuchd.in](https://cuchd.in)
+ - date_published: 2024-10-30T20:26:03.534853+00:00
+
+ ## Chandigarh University News
+ - [https://news.cuchd.in](https://news.cuchd.in)
+ - date_published: 2024-12-12T05:16:47+00:00
+
+ ## Affordable Distance Education in Punjab by India’s Best Private University - Chandigarh University
+ - [https://www.cuidol.in](https://www.cuidol.in)
+ - date_published: 2024-12-15T14:28:29.383021+00:00
+
+ ## Cujammu
+ - [http://www.cujammu.in](http://www.cujammu.in)
+ - date_published: 2024-06-06T12:54:28+00:00
+
+ ## Best University in Uttar Pradesh (UP) - Chandigarh University Uttar Pradesh Campus
+ - [http://www.culko.in](http://www.culko.in)
+ - date_published: 2024-12-15T14:28:19.621084+00:00
+
+ ## Cyber Security
+ - [https://blog.cyberbruharmy.in](https://blog.cyberbruharmy.in)
+ - date_published: 2024-07-13T06:50:36.113687+00:00
+
  ## CyberBruhArmy
  - [https://course.cyberbruharmy.in](https://course.cyberbruharmy.in)
  - date_published: 2023-10-16T00:00:00+00:00
@@ -3975,60 +4031,4 @@ Studies  (IJELR), Indexed Journal
  ## IOCL eProcurement System
  - [https://iocletenders.nic.in](https://iocletenders.nic.in)
  - date_published: 2022-05-23T07:04:52+00:00
-
- ## Digital Sansad
- - [https://loksabha.nic.in](https://loksabha.nic.in)
- - date_published: 2024-08-08T15:04:27.446548+00:00
-
- ## Medical Counselling Committee (MCC) | India
- - [https://mcc.nic.in](https://mcc.nic.in)
- - date_published: 2024-08-08T18:39:40.050820+00:00
-
- ## Pradhan Mantri Poshan Shakti Nirman (PM POSHAN) in India
- - [http://mdm.nic.in](http://mdm.nic.in)
- - date_published: 2022-07-21T18:19:41+00:00
-
- ## Protocol Division, Ministry of External Affairs, Government of India
- - [https://meaprotocol.nic.in](https://meaprotocol.nic.in)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Ministry of Food Processing Industries | GOI
- - [https://mofpi.nic.in](https://mofpi.nic.in)
- - date_published: 2024-04-28T00:26:31.533601+00:00
-
- ## Ministry of Road Transport and Highways.
- - [https://morth.nic.in](https://morth.nic.in)
- - date_published: 2024-07-20T09:10:17+00:00
-
- ## NATIONAL CONSUMER DISPUTES REDRESSAL COMMISSION
- - [http://ncdrc.nic.in](http://ncdrc.nic.in)
- - date_published: 2024-08-02T09:52:06+00:00
-
- ## National Mission on Monuments and Antiquities
- - [https://nmma.nic.in](https://nmma.nic.in)
- - date_published: 2024-08-08T11:49:13.639095+00:00
-
- ## Joint Entrance Examination (Main) | India
- - [https://jeemain.nta.nic.in](https://jeemain.nta.nic.in)
- - date_published: 2024-08-19T20:29:14.244846+00:00
-
- ## PMGSY
- - [https://omms.nic.in](https://omms.nic.in)
- - date_published: 2024-07-06T19:19:44.700462+00:00
-
- ## Digital Sansad
- - [https://parliamentofindia.nic.in](https://parliamentofindia.nic.in)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Hon'ble Prime Minister of India
- - [https://pmindiawebcast.nic.in](https://pmindiawebcast.nic.in)
- - date_published: 2024-06-30T07:05:30+00:00
-
- ## Home :: Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)
- - [http://pmssy-mohfw.nic.in](http://pmssy-mohfw.nic.in)
- - date_published: 2024-08-08T18:48:24.905430+00:00
-
- ## Home | President of India
- - [https://presidentofindia.nic.in](https://presidentofindia.nic.in)
- - date_published: 2024-08-06T00:00:00+00:00
 

@@ -1,3 +1,59 @@
+ ## Blackboard Learn
+ - [https://blackboard.usc.edu](https://blackboard.usc.edu)
+ - date_published: 2004-07-02T11:00:59+00:00
+
+ ## USC Viterbi | Department of Biomedical Engineering
+ - [https://bme.usc.edu](https://bme.usc.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Welcome to Bourbon
+ - [http://bourbon.usc.edu](http://bourbon.usc.edu)
+ - date_published: 2024-08-18T18:34:28.264228+00:00
+
+ ## University of Southern California Bovard College
+ - [http://bovardcollege.usc.edu](http://bovardcollege.usc.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Access rights validated
+ - [https://brightspace.usc.edu](https://brightspace.usc.edu)
+ - date_published: 2024-07-02T11:00:43.817802+00:00
+
+ ## USC Center for Artificial Intelligence in Society
+ - [https://cais.usc.edu](https://cais.usc.edu)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## USC Calendar Help
+ - [http://calendarhelp.usc.edu](http://calendarhelp.usc.edu)
+ - date_published: 2024-07-02T10:01:40+00:00
+
+ ## Events Calendar
+ - [https://calendar.usc.edu](https://calendar.usc.edu)
+ - date_published: 2024-05-07T22:01:40.345561+00:00
+
+ ## IIS Windows Server
+ - [https://camel2.usc.edu](https://camel2.usc.edu)
+ - date_published: 2019-10-17T00:33:00+00:00
+
+ ## Home - Campus Activities
+ - [http://campusactivities.usc.edu](http://campusactivities.usc.edu)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## Campus Support & Intervention – Within the Office of Campus Wellbeing and Crisis Intervention
+ - [http://campussupport.usc.edu](http://campussupport.usc.edu)
+ - date_published: 2024-10-15T06:03:17.123095+00:00
+
+ ## Career Center | University of Southern California
+ - [https://careers.usc.edu](https://careers.usc.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Past Catalogues
+ - [http://cataloguearchive.usc.edu](http://cataloguearchive.usc.edu)
+ - date_published: 2024-10-15T06:06:21+00:00
+
+ ## University of Southern California - Modern Campus Catalog™
+ - [https://catalogue.usc.edu](https://catalogue.usc.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
  ## Home - Sonny Astani @ USC Viterbi
  - [https://cee.usc.edu](https://cee.usc.edu)
  - date_published: 2024-04-19T00:00:00+00:00
@@ -3943,60 +3999,4 @@
  ## I.I.S. G. Vallauri - Fossano
  - [http://www.vallauri.edu](http://www.vallauri.edu)
  - date_published: 2024-10-13T06:54:25.633180+00:00
-
- ## Research Guides
- - [http://libguides.valpo.edu](http://libguides.valpo.edu)
- - date_published: 2024-07-01T12:22:30.265060+00:00
-
- ## Christopher Center Library
- - [http://library.valpo.edu](http://library.valpo.edu)
- - date_published: 2024-07-01T12:22:34.053759+00:00
-
- ## ValpoScholar | Valparaiso University Research
- - [https://scholar.valpo.edu](https://scholar.valpo.edu)
- - date_published: 2024-05-07T19:19:19.956824+00:00
-
- ## Valparaiso University
- - [http://www.valpo.edu](http://www.valpo.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Undergraduate Admissions
- - [https://admissions.vanderbilt.edu](https://admissions.vanderbilt.edu)
- - date_published: 2024-02-02T20:15:57+00:00
-
- ## Sign in - Matomo
- - [https://analytics.library.vanderbilt.edu](https://analytics.library.vanderbilt.edu)
- - date_published: 2024-07-12T14:58:09.187917+00:00
-
- ## Application Management
- - [https://apply.vanderbilt.edu](https://apply.vanderbilt.edu)
- - date_published: 2024-07-12T14:58:21.330685+00:00
-
- ## Vanderbilt University College of Arts and Science
- - [https://as.vanderbilt.edu](https://as.vanderbilt.edu)
- - date_published: 2024-06-23T09:41:35.579460+00:00
-
- ## SimCapture Central  | SimBridge
- - [https://bline.app.vanderbilt.edu](https://bline.app.vanderbilt.edu)
- - date_published: 2024-07-12T14:58:55.819380+00:00
-
- ## Sign On
- - [https://brightspace.vanderbilt.edu](https://brightspace.vanderbilt.edu)
- - date_published: 2024-07-12T14:58:43.980796+00:00
-
- ## Collection Guides | Collection Guides
- - [https://collections.library.vanderbilt.edu](https://collections.library.vanderbilt.edu)
- - date_published: 2024-07-12T14:57:40.863758+00:00
-
- ## Sign On
- - [https://dev.vanderbilt.edu](https://dev.vanderbilt.edu)
- - date_published: 2024-07-12T14:57:45.412137+00:00
-
- ## Department of Electrical and Computer Engineering
- - [http://eecs.vanderbilt.edu](http://eecs.vanderbilt.edu)
- - date_published: 2024-12-15T19:41:11.330767+00:00
-
- ## Home Page
- - [https://engineering.vanderbilt.edu](https://engineering.vanderbilt.edu)
- - date_published: 2024-08-06T04:24:21.401491+00:00
 

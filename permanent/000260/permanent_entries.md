@@ -1,3 +1,59 @@
+ ## Startnext - Mutige gestalten die Zukunft
+ - [https://startnext.de](https://startnext.de)
+ - date_published: 2024-10-18T23:30:22.653916+00:00
+
+ ## StartUp-City Hannover
+ - [https://www.startupcityhannover.de](https://www.startupcityhannover.de)
+ - date_published: 2024-12-10T20:53:24.955916+00:00
+
+ ## STARTUP TEENS // Home
+ - [https://www.startupteens.de](https://www.startupteens.de)
+ - date_published: 2024-07-24T05:19:35.007847+00:00
+
+ ## Startup-Verband – Die Unternehmen der Zukunft
+ - [https://startupverband.de](https://startupverband.de)
+ - date_published: 2024-06-23T12:09:37.746455+00:00
+
+ ## Home · SwaF
+ - [http://www.start-with-a-friend.de](http://www.start-with-a-friend.de)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Alle News zu Star Wars, Ahsoka, Skeleton Crew, The Acolyte, Andor und mehr
+ - [http://www.starwars-union.de](http://www.starwars-union.de)
+ - date_published: 2024-09-04T02:43:16.757640+00:00
+
+ ## Home
+ - [https://www.starwatch.de](https://www.starwatch.de)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Willkommen bei Starzel
+ - [https://www.starzel.de](https://www.starzel.de)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## FRO
+ - [https://www.static-immobilienscout24.de](https://www.static-immobilienscout24.de)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## NVMe Webhosting Profi Tarife | NVMe Reseller Hosting mit SSD Webspace | SSD vServer
+ - [https://station55.de](https://station55.de)
+ - date_published: 2024-07-17T13:07:13.902850+00:00
+
+ ## Statista - Das Statistik-Portal
+ - [https://www.statista.de](https://www.statista.de)
+ - date_published: 2024-06-16T09:52:10.277723+00:00
+
+ ## Statkraft in Deutschland - Mit Energie die Welt erneuern
+ - [https://www.statkraft.de](https://www.statkraft.de)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Statping Service Monitoring
+ - [https://statping.de](https://statping.de)
+ - date_published: 2024-09-14T22:36:22.843950+00:00
+
+ ## Staubsauger Paradies
+ - [https://www.staubsauger-paradies.de](https://www.staubsauger-paradies.de)
+ - date_published: 2024-08-11T13:43:31.435117+00:00
+
  ## Startseite - Bund/Länder-Arbeitsgemeinschaft Umwelt und Digitalisierung (BLAG UDig)
  - [https://www.sta-uis.de](https://www.sta-uis.de)
  - date_published: 2024-07-24T04:07:09.334610+00:00
@@ -3954,60 +4010,4 @@
  ## BIOIII
  - [https://bio3.biologie.uni-freiburg.de](https://bio3.biologie.uni-freiburg.de)
  - date_published: 2024-07-24T06:19:12.219042+00:00
-
- ## Weiterleitung
- - [https://campus.uni-freiburg.de](https://campus.uni-freiburg.de)
- - date_published: 2024-07-24T06:21:11.656517+00:00
-
- ## Computer Graphics - University of Freiburg
- - [https://cg.informatik.uni-freiburg.de](https://cg.informatik.uni-freiburg.de)
- - date_published: 2024-10-18T14:50:13.156432+00:00
-
- ## Forschungsdatenbank Freiburg
- - [http://forschdb.verwaltung.uni-freiburg.de](http://forschdb.verwaltung.uni-freiburg.de)
- - date_published: 2024-07-24T06:21:35.363087+00:00
-
- ## FreiDok plus - Startseite
- - [https://freidok.uni-freiburg.de](https://freidok.uni-freiburg.de)
- - date_published: 2024-04-29T06:27:13.995307+00:00
-
- ## ILIAS Uni Freiburg: Login
- - [https://ilias.uni-freiburg.de](https://ilias.uni-freiburg.de)
- - date_published: 2024-07-24T06:15:59.412589+00:00
-
- ## Katalog plus - Universitätsbibliothek Freiburg
- - [https://katalog.ub.uni-freiburg.de](https://katalog.ub.uni-freiburg.de)
- - date_published: 2024-07-24T06:21:38.550745+00:00
-
- ## Public Relations — Office of University and Science Communications
- - [https://kommunikation.uni-freiburg.de](https://kommunikation.uni-freiburg.de)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Abteilung für Mathematische Logik
- - [https://logik.mathematik.uni-freiburg.de](https://logik.mathematik.uni-freiburg.de)
- - date_published: 2024-07-24T06:16:25.697108+00:00
-
- ## Herzlich willkommen • Institut für Medienkulturwissenschaft
- - [https://medienkulturwissenschaft.uni-freiburg.de](https://medienkulturwissenschaft.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:48.720599+00:00
-
- ## Machine Learning Lab
- - [http://ml.informatik.uni-freiburg.de](http://ml.informatik.uni-freiburg.de)
- - date_published: 2024-07-13T03:07:12.689104+00:00
-
- ## Zentraler Webserver
- - [https://piwik.mw.uni-freiburg.de](https://piwik.mw.uni-freiburg.de)
- - date_published: 2024-07-24T06:18:36.977409+00:00
-
- ## Software Engineering
- - [https://swt.informatik.uni-freiburg.de](https://swt.informatik.uni-freiburg.de)
- - date_published: 2024-08-07T18:59:18+00:00
-
- ## Uni-Freiburg : SWT - Ultimate
- - [https://ultimate.informatik.uni-freiburg.de](https://ultimate.informatik.uni-freiburg.de)
- - date_published: 2024-06-13T17:40:25+00:00
-
- ## Albert-Ludwigs-Universität Freiburg
- - [https://uni-freiburg.de](https://uni-freiburg.de)
- - date_published: 2024-04-29T06:27:19.880061+00:00
 

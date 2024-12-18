@@ -1,3 +1,7 @@
+ ## Página de inicio del servicio de asistencia :: Pontificia Universidad Javeriana, Cali
+ - [https://mesadeservicio.javerianacali.edu.co](https://mesadeservicio.javerianacali.edu.co)
+ - date_published: 2024-12-09T19:09:30.765749+00:00
+
  ## OneGate
  - [https://mg-local.servicios.javerianacali.edu.co](https://mg-local.servicios.javerianacali.edu.co)
  - date_published: 2024-09-11T16:59:15.161310+00:00
@@ -4063,8 +4067,4 @@
  ## inicio | Fuerza Aérea Colombiana
  - [https://www.fac.mil.co](https://www.fac.mil.co)
  - date_published: 2024-09-10T11:19:33.636971+00:00
-
- ## 1Win Colombia: Beneficios y Oportunidades de la Plataforma
- - [https://1win.net.co](https://1win.net.co)
- - date_published: 2024-12-03T01:32:30+00:00
 

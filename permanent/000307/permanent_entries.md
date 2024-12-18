@@ -1,3 +1,59 @@
+ ## Glas Hrvatske - HRT
+ - [https://glashrvatske.hrt.hr](https://glashrvatske.hrt.hr)
+ - date_published: 2024-08-11T16:54:11.928523+00:00
+
+ ## Glazba - HRT
+ - [https://glazba.hrt.hr](https://glazba.hrt.hr)
+ - date_published: 2024-08-11T16:54:06.264014+00:00
+
+ ## Naslovnica - HRT
+ - [https://hrt.hr](https://hrt.hr)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Televizija - HRT
+ - [https://hrtprikazuje.hrt.hr](https://hrtprikazuje.hrt.hr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Juhuhu
+ - [https://juhuhu.hrt.hr](https://juhuhu.hrt.hr)
+ - date_published: 2024-08-11T16:54:10.608729+00:00
+
+ ## Magazin - HRT
+ - [https://magazin.hrt.hr](https://magazin.hrt.hr)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## HRT: Neovisni proizvođači audiovizualnih djela
+ - [https://neovisni-proizvodjaci.hrt.hr](https://neovisni-proizvodjaci.hrt.hr)
+ - date_published: 2024-08-11T16:54:12.771043+00:00
+
+ ## O nama - HRT
+ - [https://o-nama.hrt.hr](https://o-nama.hrt.hr)
+ - date_published: 1926-05-16T00:00:00+00:00
+
+ ## Hrvatski radio - HRT
+ - [https://radio.hrt.hr](https://radio.hrt.hr)
+ - date_published: 2024-01-04T14:59:28.124402+00:00
+
+ ## Sport - HRT
+ - [https://sport.hrt.hr](https://sport.hrt.hr)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## HRTi
+ - [https://streaming.hrt.hr](https://streaming.hrt.hr)
+ - date_published: 2024-05-16T09:51:38+00:00
+
+ ## HRT Teletekst - 100-01.HTML
+ - [https://teletekst.hrt.hr](https://teletekst.hrt.hr)
+ - date_published: 2024-08-11T16:54:08.366899+00:00
+
+ ## Vijesti - HRT
+ - [https://vijesti.hrt.hr](https://vijesti.hrt.hr)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Hrvatski streljački savez
+ - [https://hss-csf.hr](https://hss-csf.hr)
+ - date_published: 2024-09-24T22:11:17.790709+00:00
+
  ## Naslovnica
  - [http://www.t.ht.hr](http://www.t.ht.hr)
  - date_published: 2024-07-06T23:58:49.691751+00:00
@@ -3958,60 +4014,4 @@
  ## FTI UMBY – Fakultas Teknologi Informasi (FTI) UMBY
  - [https://fti.mercubuana-yogya.ac.id](https://fti.mercubuana-yogya.ac.id)
  - date_published: 2024-10-14T17:14:22.823627+00:00
-
- ## Universitas Prasetiya Mulya
- - [https://www.prasetiyamulya.ac.id](https://www.prasetiyamulya.ac.id)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Pendidikan Biologi – UIN Raden Fatah Palembang
- - [http://biologiedu.radenfatah.ac.id](http://biologiedu.radenfatah.ac.id)
- - date_published: 2024-10-11T12:08:57.457094+00:00
-
- ## SIGASTRA
- - [https://sigastra.radenintan.ac.id](https://sigastra.radenintan.ac.id)
- - date_published: 2024-06-23T20:46:48.283861+00:00
-
- ## STAIM Tulungagung
- - [https://staimta.ac.id](https://staimta.ac.id)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Beranda - Program Studi hukum Ekonomi Syariah
- - [https://hes.stainkepri.ac.id](https://hes.stainkepri.ac.id)
- - date_published: 2024-10-11T12:05:35.677958+00:00
-
- ## STAISA
- - [https://staisa.ac.id](https://staisa.ac.id)
- - date_published: 2024-10-11T12:11:07.461320+00:00
-
- ## stiebalikpapan.ac.id
- - [http://stiebalikpapan.ac.id](http://stiebalikpapan.ac.id)
- - date_published: 2024-10-04T00:00:00+00:00
-
- ## LMS STIKes Respati
- - [https://aset.stikesrespati-tsm.ac.id](https://aset.stikesrespati-tsm.ac.id)
- - date_published: 2024-06-16T15:32:41+00:00
-
- ## Program Studi Teknologi Informasi – ITB STIKOM Bali
- - [https://ti.stikom-bali.ac.id](https://ti.stikom-bali.ac.id)
- - date_published: 2024-10-11T12:05:13.590417+00:00
-
- ## STITNU Al Hikmah Mojokerto – Toward Human Intelligence and Character
- - [https://stitnualhikmah.ac.id](https://stitnualhikmah.ac.id)
- - date_published: 2024-10-11T12:05:31.412190+00:00
-
- ## STP Aviasi – Sekolah Tinggi Penerbangan AVIASI
- - [https://www.stp-aviasi.ac.id](https://www.stp-aviasi.ac.id)
- - date_published: 2024-10-11T12:11:43.727019+00:00
-
- ## Homepage | Digital Creative Multimedia
- - [https://dsm.telkomuniversity.ac.id](https://dsm.telkomuniversity.ac.id)
- - date_published: 2024-06-30T07:41:24.151468+00:00
-
- ## Cierpliwości...
- - [http://mrdzero.student.telkomuniversity.ac.id](http://mrdzero.student.telkomuniversity.ac.id)
- - date_published: 2024-06-17T06:43:10.382169+00:00
-
- ## Universitas Telkom
- - [https://telkomuniversity.ac.id](https://telkomuniversity.ac.id)
- - date_published: 2024-06-30T07:41:21.688176+00:00
 

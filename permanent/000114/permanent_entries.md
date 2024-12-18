@@ -1,3 +1,7 @@
+ ## WP-Optimize | WordPress Performance Plugin - WP-Optimize
+ - [https://getwpo.com](https://getwpo.com)
+ - date_published: 2023-12-11T18:58:35.920934+00:00
+
  ## Welcome to Get WP Templates - Get WP Templates
  - [https://getwptemplates.com](https://getwptemplates.com)
  - date_published: 2024-06-22T22:22:49.227122+00:00
@@ -2230,7 +2234,7 @@
  ## GitHub - searxng/searxng: SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
  - [https://github.com/searxng/searxng](https://github.com/searxng/searxng)
  - date_published: 2024-11-07T09:48:56+00:00
- - tags: ['search engine']
+ - tags: ['privacy', 'search engine']
 
  ## GitHub - yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader
  - [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
@@ -2359,12 +2363,12 @@
  ## GitHub - StefanLobbenmeier/youtube-dl-gui: A cross-platform GUI for youtube-dl made in Electron and node.js
  - [https://github.com/StefanLobbenmeier/youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui)
  - date_published: 2024-11-14T11:37:46+00:00
- - tags: ['youtube', 'download manager']
+ - tags: ['youtube', 'download manager', 'youtube client']
 
  ## GitHub - axcore/tartube: A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
  - [https://github.com/axcore/tartube](https://github.com/axcore/tartube)
  - date_published: 2024-11-14T11:39:01+00:00
- - tags: ['youtube', 'download manager']
+ - tags: ['youtube', 'download manager', 'youtube client']
 
  ## GitHub - mhogomchungu/media-downloader: Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
  - [https://github.com/mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)
@@ -2819,7 +2823,7 @@
  ## ReVanced
  - [https://github.com/revanced](https://github.com/revanced)
  - date_published: 2024-12-11T20:11:07+00:00
- - tags: ['youtube']
+ - tags: ['youtube', 'youtube client']
 
  ## GitHub - ImranR98/Obtainium: Get Android app updates straight from the source.
  - [https://github.com/ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
@@ -2839,6 +2843,26 @@
  - [https://github.com/zyrouge/symphony](https://github.com/zyrouge/symphony)
  - date_published: 2024-12-16T15:56:33+00:00
  - tags: ['music player']
+
+ ## GitHub - jnv/lists: The definitive list of lists (of lists) curated on GitHub and elsewhere
+ - [https://github.com/jnv/lists](https://github.com/jnv/lists)
+ - date_published: 2024-12-17T15:53:54+00:00
+ - tags: ['awesome list']
+
+ ## GitHub - th-ch/youtube-music: YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+ - [https://github.com/th-ch/youtube-music](https://github.com/th-ch/youtube-music)
+ - date_published: 2024-12-17T17:24:45+00:00
+ - tags: ['youtube client']
+
+ ## GitHub - FreeTubeApp/FreeTube: An Open Source YouTube app for privacy
+ - [https://github.com/FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+ - date_published: 2024-12-17T17:34:18+00:00
+ - tags: ['open source', 'youtube client']
+
+ ## GitHub - flaviotordini/minitube: YouTube app
+ - [https://github.com/flaviotordini/minitube](https://github.com/flaviotordini/minitube)
+ - date_published: 2024-12-17T17:35:57+00:00
+ - tags: ['youtube client']
 
  ## Git Large File Storage
  - [https://git-lfs.github.com](https://git-lfs.github.com)
@@ -4147,24 +4171,4 @@
  ## Glints - Firewall
  - [https://glints.com](https://glints.com)
  - date_published: 2024-06-23T02:01:16.459488+00:00
-
- ## RingCentral
- - [https://app.glip.com](https://app.glip.com)
- - date_published: 2024-09-16T05:22:14+00:00
-
- ## สล็อตเว็บตรง API ชั้นนำ เว็บสล็อตเว็บตรง ทรูวอเลท อัตราชนะ 100%
- - [https://www.glisser.com](https://www.glisser.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Glitch Blog
- - [https://blog.glitch.com](https://blog.glitch.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Redirecting to glitch.com
- - [https://cdn.glitch.com](https://cdn.glitch.com)
- - date_published: 2024-04-29T07:27:19.744832+00:00
-
- ## Glitch: The friendly community where everyone builds the web
- - [https://glitch.com](https://glitch.com)
- - date_published: 2024-04-29T07:27:20.405569+00:00
 

@@ -1,3 +1,60 @@
+ ## Support TCNJ
+ - [https://give.tcnj.edu](https://give.tcnj.edu)
+ - date_published: 2024-07-12T14:39:04+00:00
+
+ ## Governance
+ - [https://governance.tcnj.edu](https://governance.tcnj.edu)
+ - date_published: 2024-07-12T17:37:22+00:00
+
+ ## TCNJ - The College of New Jersey | Graduate and Continuing Education
+ - [https://graduate.tcnj.edu](https://graduate.tcnj.edu)
+ - date_published: 2024-07-12T15:56:27+00:00
+
+ ## Student Consumer Information: Higher Education Opportunity Act | Student Outcomes
+ - [https://heoa.tcnj.edu](https://heoa.tcnj.edu)
+ - date_published: 2024-07-13T15:13:12+00:00
+
+ ## Honors
+ - [https://honors.tcnj.edu](https://honors.tcnj.edu)
+ - date_published: 2024-07-12T17:42:01+00:00
+
+ ## The College of New Jersey | Residential Education and Housing
+ - [https://housing.tcnj.edu](https://housing.tcnj.edu)
+ - date_published: 2024-07-12T17:34:25+00:00
+
+ ## TCNJ | School of Humanities and Social Sciences
+ - [https://hss.tcnj.edu](https://hss.tcnj.edu)
+ - date_published: 2024-07-12T16:46:18+00:00
+
+ ## The College of New Jersey | Intersession
+ - [https://intersession.tcnj.edu](https://intersession.tcnj.edu)
+ - date_published: 2024-07-14T17:31:44+00:00
+
+ ## TCNJ | R. Barbara Gitenstein Library
+ - [https://library.tcnj.edu](https://library.tcnj.edu)
+ - date_published: 2024-07-12T15:18:02+00:00
+
+ ## The College of New Jersey | News
+ - [https://news.tcnj.edu](https://news.tcnj.edu)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## School of Nursing and Health Sciences | TCNJ
+ - [https://nhs.tcnj.edu](https://nhs.tcnj.edu)
+ - date_published: 2024-07-12T17:41:58+00:00
+
+ ## TCNJ | Parent and Family Programs
+ - [https://parents.tcnj.edu](https://parents.tcnj.edu)
+ - date_published: 2024-07-12T17:39:11+00:00
+
+ ## Parking Services
+ - [https://parking.tcnj.edu](https://parking.tcnj.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## PolicyStat
+            :: PolicyStat
+ - [https://policies.tcnj.edu](https://policies.tcnj.edu)
+ - date_published: 2024-07-15T11:24:52.565631+00:00
+
  ## TCNJ Pre-College Programs for High School Students | The College of New Jersey
  - [https://precollege.tcnj.edu](https://precollege.tcnj.edu)
  - date_published: 2024-07-13T20:31:51+00:00
@@ -3968,60 +4025,4 @@
  ## CERES | Connecting the EdTech Research EcoSystem
  - [https://ceres.uci.edu](https://ceres.uci.edu)
  - date_published: 2024-07-01T22:53:32+00:00
-
- ## UCI Division of Continuing Education
- - [http://ce.uci.edu](http://ce.uci.edu)
- - date_published: 2024-07-01T22:50:48.878290+00:00
-
- ## Home // Community & Government Relations // UCI
- - [https://cgr.uci.edu](https://cgr.uci.edu)
- - date_published: 2024-07-09T22:36:35.809604+00:00
-
- ## Home // Office of the Chancellor // UCI
- - [http://chancellor.uci.edu](http://chancellor.uci.edu)
- - date_published: 2024-07-01T22:49:56.727019+00:00
-
- ## Classroom Technologies – Office of Information Technology @ UCI
- - [https://classrooms.uci.edu](https://classrooms.uci.edu)
- - date_published: 2024-07-01T21:58:49+00:00
-
- ## Home | Center for Clinical Research | UCI
- - [https://clinicalresearch.som.uci.edu](https://clinicalresearch.som.uci.edu)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Cellular & Molecular Biosciences – Gateway to Biomedical Discovery at UC Irvine
- - [https://cmb.uci.edu](https://cmb.uci.edu)
- - date_published: 2024-07-09T22:34:11.966810+00:00
-
- ## Center for Machine Learning and Intelligent Systems | University of California, Irvine
- - [https://cml.ics.uci.edu](https://cml.ics.uci.edu)
- - date_published: 2024-05-07T20:53:27.536388+00:00
-
- ## Center for the Neurobiology of Learning and Memory | UCI CNLM
- - [https://cnlm.uci.edu](https://cnlm.uci.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## The Susan & Henry Samueli College of Health Sciences – UCI Health Affairs
- - [https://cohs.uci.edu](https://cohs.uci.edu)
- - date_published: 2024-07-09T22:27:07+00:00
-
- ## Home // Strategic Communications & Public Affairs // UCI
- - [https://communications.uci.edu](https://communications.uci.edu)
- - date_published: 2024-05-09T06:50:22.332352+00:00
-
- ## Computing Services | Social Ecology Computing Services
- - [http://computing.soceco.uci.edu](http://computing.soceco.uci.edu)
- - date_published: 2024-07-09T14:19:55+00:00
-
- ## UCI Student Center & Event Services · Interact. Learn. Enjoy.
- - [http://conferencecenter.uci.edu](http://conferencecenter.uci.edu)
- - date_published: 2024-07-01T22:49:22+00:00
-
- ## Home - Connected Learning Lab
- - [https://connectedlearning.uci.edu](https://connectedlearning.uci.edu)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## landing - UCI Cybersecurity Policy & Research Institute
- - [https://cpri.uci.edu](https://cpri.uci.edu)
- - date_published: 2024-05-07T20:52:40.293444+00:00
 

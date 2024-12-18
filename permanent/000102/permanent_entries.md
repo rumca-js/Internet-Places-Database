@@ -1,3 +1,7 @@
+ ## Ingress Wiki
+ - [https://ingress.fandom.com](https://ingress.fandom.com)
+ - date_published: 2024-06-17T18:40:37+00:00
+
  ## Inheriwiki
  - [https://inheritance.fandom.com](https://inheritance.fandom.com)
  - date_published: 2024-06-16T22:37:08+00:00
@@ -3996,8 +4000,4 @@
  ## Sakigake!! Otokojuku Wiki
  - [https://otokojuku.fandom.com](https://otokojuku.fandom.com)
  - date_published: 2024-06-17T10:43:42+00:00
-
- ## Our Blood Oath Wiki
- - [https://our-blood-oath.fandom.com](https://our-blood-oath.fandom.com)
- - date_published: 2024-06-17T20:23:05+00:00
 

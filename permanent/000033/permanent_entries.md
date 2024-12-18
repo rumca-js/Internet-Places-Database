@@ -1,3 +1,7 @@
+ ## MailReach
+ - [https://app.mailreach.co](https://app.mailreach.co)
+ - date_published: 2024-07-12T10:19:26+00:00
+
  ## MailReach Helpdesk
  - [https://help.mailreach.co](https://help.mailreach.co)
  - date_published: 2024-07-12T14:19:58.316905+00:00
@@ -4020,8 +4024,4 @@
  ## SpotHopper (static.spotapps.co)
  - [https://static.spotapps.co](https://static.spotapps.co)
  - date_published: 2014-04-24T22:44:18+00:00
-
- ## Spotta | Smart Insect Monitoring as a Service
- - [https://spotta.co](https://spotta.co)
- - date_published: 2023-10-25T12:22:25.066866+00:00
 

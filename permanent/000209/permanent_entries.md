@@ -1,3 +1,51 @@
+ ## MDPI Poland - MDPI Poland
+ - [https://mdpipoland.teamtailor.com](https://mdpipoland.teamtailor.com)
+ - date_published: 2024-06-14T07:16:23+00:00
+
+ ## A unique career - MDPI Singapore
+ - [https://mdpisingapore.teamtailor.com](https://mdpisingapore.teamtailor.com)
+ - date_published: 2024-06-14T09:29:41+00:00
+
+ ## Welcome to MDPI Korea! - MDPI Korea
+ - [https://mdpisouthkorea.teamtailor.com](https://mdpisouthkorea.teamtailor.com)
+ - date_published: 2024-06-14T07:16:11+00:00
+
+ ## Welcome to MDPI Thailand! - MDPI Thailand
+ - [https://mdpithailand.teamtailor.com](https://mdpithailand.teamtailor.com)
+ - date_published: 2024-06-14T07:17:47+00:00
+
+ ## Welcome to our career site - Partner development center
+ - [https://partnerdevelopmentcenter.teamtailor.com](https://partnerdevelopmentcenter.teamtailor.com)
+ - date_published: 2024-09-27T10:53:09+00:00
+
+ ## Welcome to our career site - Raidboxes
+ - [https://raidboxes.teamtailor.com](https://raidboxes.teamtailor.com)
+ - date_published: 2024-09-30T08:57:42+00:00
+
+ ## Team.blue Slovakia - team.blue SaaS
+ - [https://saasteamblue.teamtailor.com](https://saasteamblue.teamtailor.com)
+ - date_published: 2024-09-24T08:11:33+00:00
+
+ ## En skola i utveckling 🚀 - SchoolSoft
+ - [https://schoolsoft.teamtailor.com](https://schoolsoft.teamtailor.com)
+ - date_published: 2024-10-03T20:45:50.922758+00:00
+
+ ## BIENVENUE CHEZ SHOTGUN - Shotgun
+ - [https://shotgun.teamtailor.com](https://shotgun.teamtailor.com)
+ - date_published: 2024-07-02T20:28:22+00:00
+
+ ## Join us - Sparteo
+ - [https://sparteo.teamtailor.com](https://sparteo.teamtailor.com)
+ - date_published: 2024-06-25T15:32:47+00:00
+
+ ## Свободни позиции в СуперХостинг.БГ - SuperHosting.BG
+ - [https://superhosting.teamtailor.com](https://superhosting.teamtailor.com)
+ - date_published: 2024-09-20T06:49:47+00:00
+
+ ## Teamtailor Support
+ - [https://support.teamtailor.com](https://support.teamtailor.com)
+ - date_published: 2024-08-10T23:21:20.881194+00:00
+
  ## Home - team.blue Bulgaria
  - [https://teambluebulgaria.teamtailor.com](https://teambluebulgaria.teamtailor.com)
  - date_published: 2024-09-21T15:28:44+00:00
@@ -3984,55 +4032,4 @@
  ## TermSniper - Search Intent Discovery Tool
  - [https://termsniper.com](https://termsniper.com)
  - date_published: 2024-09-13T20:25:21.470384+00:00
-
- ## Show HN: Term Typer – Learn a Language by Typing
- - [https://termtyper.com](https://termtyper.com)
- - date_published: 2024-04-16T15:27:26+00:00
- - tags: ['learn', 'typing', 'languages']
-
- ## Redirecting…
- - [https://termux.com](https://termux.com)
- - date_published: 2024-06-06T00:21:09+00:00
-
- ## Termux Wiki
- - [https://wiki.termux.com](https://wiki.termux.com)
- - date_published: 2024-06-22T04:16:04+00:00
-
- ## Life Hacks and Technology Solutions for the Modern Musician
- - [https://teropotila.com](https://teropotila.com)
- - date_published: 2023-12-21T08:23:31.688801+00:00
- - tags: ['personal']
-
- ## TERRA-9 - Booking & Artist Management Agency
- - [https://www.terra-9.com](https://www.terra-9.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## The Cheapskate's Guide to Computers and the Internet
- - [http://biglist.terraaeon.com](http://biglist.terraaeon.com)
- - date_published: 2024-05-06T15:03:34.600912+00:00
-
- ## The Cheapskate's Guide to Computers and the Internet
- - [http://misc-stuff.terraaeon.com](http://misc-stuff.terraaeon.com)
- - date_published: 2024-01-09T02:50:33.791011+00:00
-
- ## Night Sky Mail
- - [http://nightskymail.terraaeon.com](http://nightskymail.terraaeon.com)
- - date_published: 2024-06-23T18:48:18.013684+00:00
-
- ## The Wall of Graffiti
- - [http://thewall.terraaeon.com](http://thewall.terraaeon.com)
- - date_published: 2024-08-06T05:11:48.960922+00:00
-
- ## home - Terra Alliance
- - [https://terra-alliance.com](https://terra-alliance.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## News - Terra Arcanum
- - [https://terra-arcanum.com](https://terra-arcanum.com)
- - date_published: 2024-06-01T16:16:52.048270+00:00
- - tags: ['casino', 'gambling']
-
- ## Bosque Residencial – Apartamentos en un conjunto cerrado que integra la vegetación y la arquitectura. Viviendas bajo modalidad turística y residencial, en un verdadero bosque residencial.
- - [https://terrabonga.com](https://terrabonga.com)
- - date_published: 2024-09-10T03:08:17+00:00
 

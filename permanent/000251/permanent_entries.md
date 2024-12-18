@@ -1,3 +1,59 @@
+ ## Jeden svět online
+ - [https://jedensvetonline.cz](https://jedensvetonline.cz)
+ - date_published: 2024-12-14T10:52:33.788210+00:00
+
+ ## Krajanka
+ - [https://jednodusepoctiva.cz](https://jednodusepoctiva.cz)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## Jedu v ledu
+ - [https://jeduvledu.cz](https://jeduvledu.cz)
+ - date_published: 2024-10-16T13:54:19+00:00
+
+ ## Jeep®  Česká republika
+ - [https://jeep.cz](https://jeep.cz)
+ - date_published: 2024-06-13T10:26:35+00:00
+
+ ## JenProČasopisy – Předplatné časopisů
+ - [https://www.jenprocasopisy.cz](https://www.jenprocasopisy.cz)
+ - date_published: 2024-12-14T11:36:03.828904+00:00
+
+ ## 25+ let zkušeností v private equity - Jet Investment
+ - [https://www.jetinvestment.cz](https://www.jetinvestment.cz)
+ - date_published: 2024-12-13T22:51:00.585250+00:00
+
+ ## Jan Grulich – Fedora, KDE, Qt, C++, QML
+ - [https://jgrulich.cz](https://jgrulich.cz)
+ - date_published: 2024-07-14T03:14:41.392402+00:00
+
+ ## JIC - podnikání dává smysl
+ - [https://jic.cz](https://jic.cz)
+ - date_published: 2024-10-21T08:49:28.272834+00:00
+
+ ## JIC –⁠ Obědy
+ - [https://jicobedy.cz](https://jicobedy.cz)
+ - date_published: 2024-12-14T04:53:22.994409+00:00
+
+ ## Jigové hlavičky a další doplňky pro rybáře - Jigovky.cz
+ - [https://jigovky.cz](https://jigovky.cz)
+ - date_published: 2024-10-18T03:45:28.420000+00:00
+
+ ## MFDF Ji.hlava | Mezinárodní festival dokumentárních filmů Ji.hlava
+ - [http://www.ji-hlava.cz](http://www.ji-hlava.cz)
+ - date_published: 2024-12-14T00:57:29.624295+00:00
+
+ ## Jiri Stepanovsky
+ - [https://jiristepanovsky.cz](https://jiristepanovsky.cz)
+ - date_published: 2023-05-01T23:44:15+00:00
+
+ ## Jižní svah - nejen o víně vážně i nevážně...
+ - [https://jizni-svah.cz](https://jizni-svah.cz)
+ - date_published: 2024-05-07T19:05:17.232157+00:00
+
+ ## Nabídky pozic z celé ČR | JobCity
+ - [https://www.jobcity.cz](https://www.jobcity.cz)
+ - date_published: 2024-12-13T21:28:02.587087+00:00
+
  ## Kariéra | Bidfood
  - [https://bidfood.jobs.cz](https://bidfood.jobs.cz)
  - date_published: 2024-10-16T15:07:54.129937+00:00
@@ -3970,60 +4026,4 @@
  ## Svět oken pro Vás již od roku 1999 - česká firma, 36 poboček, tisíce realizací
  - [https://www.svet-oken.cz](https://www.svet-oken.cz)
  - date_published: 2024-09-05T17:04:58.357686+00:00
-
- ## Světová škola
- - [https://www.svetovaskola.cz](https://www.svetovaskola.cz)
- - date_published: 2024-12-13T23:31:35.780730+00:00
-
- ## SvetZeny | Časopis pro ženy, který poradí, pomůže a potěší.
- - [https://svetzeny.cz](https://svetzeny.cz)
- - date_published: 2024-06-10T10:34:29.478958+00:00
-
- ## 30 let svobody? Máme na víc?
- - [https://svobodni.cz](https://svobodni.cz)
- - date_published: 2024-12-14T05:08:52.043570+00:00
-
- ## SW.CZ | Specialista na software
- - [https://www.sw.cz](https://www.sw.cz)
- - date_published: 2024-09-09T22:09:13.732481+00:00
-
- ## Sweetsen fest
- - [https://www.sweetsenfest.cz](https://www.sweetsenfest.cz)
- - date_published: 2024-12-14T04:50:07.803692+00:00
-
- ## Symphony Digital
- - [https://symphony-digital.cz](https://symphony-digital.cz)
- - date_published: 2024-07-01T10:20:30.632722+00:00
-
- ## Sysctl – Open reference
- - [https://sysctl.cz](https://sysctl.cz)
- - date_published: 2024-07-20T19:28:58.267577+00:00
-
- ## Auth
- - [https://auth2.szn.cz](https://auth2.szn.cz)
- - date_published: 2024-07-01T10:22:51.196536+00:00
-
- ## Přihlášení do Seznamu
- - [https://login.szn.cz](https://login.szn.cz)
- - date_published: 2024-05-07T19:06:12.013179+00:00
-
- ## Státní zdravotní ústav - Staráme se o zdravé Česko
- - [http://www.szu.cz](http://www.szu.cz)
- - date_published: 2024-12-14T04:30:24.918106+00:00
-
- ## Úvodní stránka - Technologická agentura ČR
- - [https://www.tacr.cz](https://www.tacr.cz)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Tady můžeš něco změnit | VUT
- - [https://www.tadymuzes.cz](https://www.tadymuzes.cz)
- - date_published: 2023-12-19T00:00:00+00:00
-
- ## TastyFish
- - [http://www.tastyfish.cz](http://www.tastyfish.cz)
- - date_published: 2024-09-02T19:04:26+00:00
-
- ## Aleph main menu
- - [https://aleph.techlib.cz](https://aleph.techlib.cz)
- - date_published: 2018-05-23T11:21:24+00:00
 

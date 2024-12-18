@@ -1,3 +1,59 @@
+ ## Verein Niedersächsischer Bildungsinitiativen e.V. |
+ - [https://vnb.de](https://vnb.de)
+ - date_published: 2024-09-12T16:04:13.997579+00:00
+
+ ## Vodafone Community
+ - [https://forum.vodafone.de](https://forum.vodafone.de)
+ - date_published: 2024-06-25T23:15:05.331526+00:00
+
+ ## Vodafone Careers Germany
+ - [https://jobs.vodafone.de](https://jobs.vodafone.de)
+ - date_published: 2024-12-10T18:36:40.671507+00:00
+
+ ## Alle Vodafone-Shops in Deutschland | Städteverzeichnis
+ - [https://shops.vodafone.de](https://shops.vodafone.de)
+ - date_published: 2024-06-12T14:56:07+00:00
+
+ ## Speedtest Plus für Kabel- und DSL-Verbindungen | Vodafone
+ - [https://speedtest.vodafone.de](https://speedtest.vodafone.de)
+ - date_published: 2024-06-25T23:15:01+00:00
+
+ ## Vodafone.de | Mobilfunk, Handys & Internet-Anbieter
+ - [https://vodafone.de](https://vodafone.de)
+ - date_published: 2024-07-01T19:01:27+00:00
+
+ ## Internet, Telefon & TV Angebote | Vodafone
+ - [https://zuhauseplus.vodafone.de](https://zuhauseplus.vodafone.de)
+ - date_published: 2024-06-25T23:15:06.731583+00:00
+
+ ## Vodafone Institut • Think Tank for a Green Digitisation
+ - [https://vodafone-institut.de](https://vodafone-institut.de)
+ - date_published: 2024-06-25T22:01:21+00:00
+
+ ## Startseite - Vodafone Stiftung
+ - [https://vodafone-stiftung.de](https://vodafone-stiftung.de)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Startseite - Verbund der Öffentlichen Bibliotheken Berlins
+ - [https://voebb.de](https://voebb.de)
+ - date_published: 2024-07-09T14:08:58.633169+00:00
+
+ ## voelkner | Elektronik, Technik, Werkzeug & mehr
+ - [https://voelkner.de](https://voelkner.de)
+ - date_published: 2024-07-13T13:39:14.548904+00:00
+
+ ## VOGUE Collection - Der Onlineshop von VOGUE Deutschland
+ - [https://shop.vogue.de](https://shop.vogue.de)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Homepage
+ - [https://vogue.de](https://vogue.de)
+ - date_published: 2024-06-17T01:36:36.336854+00:00
+
+ ## Nachrichten für Trier, Eifel, Mosel & Luxemburg
+ - [https://volksfreund.de](https://volksfreund.de)
+ - date_published: 2024-07-23T00:00:00+00:00
+
  ## Sign in - Matomo
  - [https://analyse.volkshochschule.de](https://analyse.volkshochschule.de)
  - date_published: 2024-12-10T18:42:10.668130+00:00
@@ -3976,61 +4032,4 @@ Bibliotheken / Z39.50
  ## 0xCB - Tech, Keyboards and more
  - [https://0xcb.dev](https://0xcb.dev)
  - date_published: 2024-06-21T22:05:58.748190+00:00
-
- ## JJ
- - [https://0xjj.dev](https://0xjj.dev)
- - date_published: 2024-12-12T11:35:49.154449+00:00
-
- ## Eleventy is a simpler static site generator
- - [https://11ty.dev](https://11ty.dev)
- - date_published: 2024-02-16T00:00:00+00:00
- - tags: ['self-host', 'static websites']
-
- ## 11ty’s International Symposium on Making Web Sites Real Good
- - [https://conf.11ty.dev](https://conf.11ty.dev)
- - date_published: 2024-05-07T18:48:43.330288+00:00
-
- ## 11ty Merch
- - [https://merch.11ty.dev](https://merch.11ty.dev)
- - date_published: 2024-05-07T18:48:40.563426+00:00
-
- ## THE Eleventy Meetup
- - [https://11tymeetup.dev](https://11tymeetup.dev)
- - date_published: 2024-04-29T07:27:21.280515+00:00
-
- ## 12 Days of Web
- - [https://12daysofweb.dev](https://12daysofweb.dev)
- - date_published: 2024-04-30T00:34:50.848266+00:00
-
- ## 16pixel. | Where Beauty Converges with Innovation
- - [https://16pixel.dev](https://16pixel.dev)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Introducing cutting-edge crypto APIs to streamline your development process.
- - [https://1inch.dev](https://1inch.dev)
- - date_published: 2024-09-23T11:43:54.636267+00:00
-
- ## 1inch - Developer Portal
- - [https://portal.1inch.dev](https://portal.1inch.dev)
- - date_published: 2024-09-20T11:04:38+00:00
-
- ## Saeed Salehi · Stories from a developer :)
- - [https://1saeed.dev](https://1saeed.dev)
- - date_published: 2023-03-17T16:24:01+00:00
-
- ## A world where people pay for software
- - [https://1sub.dev](https://1sub.dev)
- - date_published: 2023-10-25T18:34:35.457611+00:00
-
- ## 200 ok Media
- - [https://200ok.dev](https://200ok.dev)
- - date_published: 2020-01-31T10:28:48+00:00
-
- ## mrvs :: mrvs
- - [https://2d4.dev](https://2d4.dev)
- - date_published: 2024-08-07T23:59:13.047619+00:00
-
- ## You know why you're here
- - [https://46692.dev](https://46692.dev)
- - date_published: 2024-07-23T23:42:23.620938+00:00
 

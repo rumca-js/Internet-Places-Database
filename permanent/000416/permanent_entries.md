@@ -1,3 +1,71 @@
+ ## Sklep internetowy z odzieżą damską, męską i dziecięcą
+ - [https://www.bonprix.pl](https://www.bonprix.pl)
+ - date_published: 2024-10-13T08:05:14.132594+00:00
+
+ ## * Fotografia * Design * Architektura * Moda * Sztuka *
+ - [http://www.bookoff.pl](http://www.bookoff.pl)
+ - date_published: 2021-05-18T00:00:00+00:00
+
+ ## Boop
+ - [https://boop.pl](https://boop.pl)
+ - date_published: 2024-06-13T17:05:22+00:00
+ - tags: ['drama news']
+
+ ## Home Page
+ - [https://www.bosbank.pl](https://www.bosbank.pl)
+ - date_published: 2024-07-13T19:13:12.139534+00:00
+
+ ## Strona główna
+ - [http://www.bosch.pl](http://www.bosch.pl)
+ - date_published: 2024-10-13T23:45:03+00:00
+
+ ## Wysokiej jakości zrównoważone urządzenia gospodarstwa domowego | Bosch
+ - [https://bosch-home.pl](https://bosch-home.pl)
+ - date_published: 2024-10-14T18:44:45.886384+00:00
+
+ ## Cyberprzestępcy u nas w świetle reflektorów.
+ - [http://bothunters.pl](http://bothunters.pl)
+ - date_published: 2024-07-13T20:26:55.954057+00:00
+
+ ## Botsense
+ - [https://botsense.pl](https://botsense.pl)
+ - date_published: 2024-05-26T17:01:12.603485+00:00
+
+ ## Botsense - english version
+ - [https://en.botsense.pl](https://en.botsense.pl)
+ - date_published: 2024-09-02T13:52:16.911095+00:00
+
+ ## Boże Krówki
+ - [https://bozekrowki.pl](https://bozekrowki.pl)
+ - date_published: 2023-12-04T17:42:45+00:00
+ - tags: ['catholic', 'charity', 'religion']
+
+ ## BraciaSamcy.pl
+ - [http://braciasamcy.pl](http://braciasamcy.pl)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## BrandBuddies - Home of influencers marketing
+ - [https://brandbuddies.pl](https://brandbuddies.pl)
+ - date_published: 2024-07-14T08:04:39.857321+00:00
+
+ ## Usuwanie włosów, Produkty do pielęgnacji ciała i włosów dla mężczyzn i kobiet – Braun PL
+ - [https://www.braun.pl](https://www.braun.pl)
+ - date_published: 2024-10-18T20:27:45.123596+00:00
+
+ ## Home - brd24.pl
+ - [https://brd24.pl](https://brd24.pl)
+ - date_published: 2023-10-31T16:18:06.350280+00:00
+ - tags: ['news']
+
+ ## Breakout Days
+ - [https://breakoutdays.pl](https://breakoutdays.pl)
+ - date_published: 2024-09-03T19:25:40.118354+00:00
+
+ ## .:ILG:. - Internetowa Liturgia Godzin
+ - [https://brewiarz.pl](https://brewiarz.pl)
+ - date_published: 2024-11-16T06:36:02+00:00
+ - tags: ['catholic', 'religiom']
+
  ## Opony Premium i Rozwiązania w zakresie mobilności. | Bridgestone Polska |Opony Premium i Rozwiązania w zakresie mobilności.
  - [https://www.bridgestone.pl](https://www.bridgestone.pl)
  - date_published: 2024-09-03T12:17:56+00:00
@@ -4003,68 +4071,4 @@
  ## Gospodarczy Bank Spółdzielczy w Barlinku - GBSBank
  - [http://www.gbsbank.pl](http://www.gbsbank.pl)
  - date_published: 2024-07-13T19:13:21.336997+00:00
-
- ## Światowy Dzień Książki: Celebrowanie Mocy Słowa – Odkrywajmy świat literatury razem – inspiracje z okazji Światowego Dnia Książki
- - [http://www.gckkroscienko.pl](http://www.gckkroscienko.pl)
- - date_published: 2024-03-21T19:55:11+00:00
-
- ## Wybór grupy wydarzeń
- - [https://bilety.ikm.gda.pl](https://bilety.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:18.795157+00:00
-
- ## Biuletyn Informacji Publicznej - Instytut Kultury Miejskiej
- - [https://bip.ikm.gda.pl](https://bip.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:25.467346+00:00
-
- ## Archidiecezja Gdańska
- - [https://diecezja.gda.pl](https://diecezja.gda.pl)
- - date_published: 2024-05-13T03:10:32.083670+00:00
-
- ## Strona główna - Gdańskie Miniatury
- - [https://gdanskieminiatury.ikm.gda.pl](https://gdanskieminiatury.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:05.443412+00:00
-
- ## Strona główna - Gdańskie Seminarium Duchowne
- - [https://gsd.gda.pl](https://gsd.gda.pl)
- - date_published: 2024-07-17T07:09:05.827621+00:00
-
- ## Strona główna - Instytut Kultury Miejskiej
- - [https://ikm.gda.pl](https://ikm.gda.pl)
- - date_published: 2024-05-07T18:45:58.120890+00:00
-
- ## Strona główna
- - [https://marketingwkulturze.ikm.gda.pl](https://marketingwkulturze.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:23.128614+00:00
-
- ## Zadzwoń w sprawie pomocy! - Miejski Ośrodek Pomocy Rodzinie w Gdańsku
- - [http://mopr.gda.pl](http://mopr.gda.pl)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Obserwatorium Kultury - Strona główna
- - [http://obserwatorium.ikm.gda.pl](http://obserwatorium.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:06.269601+00:00
-
- ## Otwarty IKM
- - [https://otwarty.ikm.gda.pl](https://otwarty.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:21.207581+00:00
-
- ## Homepage - ${res.getProperty('base.library.full')}
- - [https://pbc.gda.pl](https://pbc.gda.pl)
- - date_published: 2024-08-19T17:45:50+00:00
-
- ## Informacje dla autorów nadsyłających materiały
- - [https://utw.diecezja.gda.pl](https://utw.diecezja.gda.pl)
- - date_published: 2024-07-17T07:14:36.271691+00:00
-
- ## Agencja Rozwoju Pomorza S.A. | Agencja Rozwoju Pomorza S.A.
- - [https://www.arp.gda.pl](https://www.arp.gda.pl)
- - date_published: 2024-07-01T08:06:23.780276+00:00
-
- ## Strona główna
- - [https://www.caritas.gda.pl](https://www.caritas.gda.pl)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Wydział Katechetyczny Archidiecezji Gdańskiej
- - [http://www.katecheza.diecezja.gda.pl](http://www.katecheza.diecezja.gda.pl)
- - date_published: 2024-07-17T07:09:13.744143+00:00
 

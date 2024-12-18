@@ -1,3 +1,59 @@
+ ## UCI Division of Continuing Education
+ - [http://ce.uci.edu](http://ce.uci.edu)
+ - date_published: 2024-07-01T22:50:48.878290+00:00
+
+ ## Home // Community & Government Relations // UCI
+ - [https://cgr.uci.edu](https://cgr.uci.edu)
+ - date_published: 2024-07-09T22:36:35.809604+00:00
+
+ ## Home // Office of the Chancellor // UCI
+ - [http://chancellor.uci.edu](http://chancellor.uci.edu)
+ - date_published: 2024-07-01T22:49:56.727019+00:00
+
+ ## Classroom Technologies – Office of Information Technology @ UCI
+ - [https://classrooms.uci.edu](https://classrooms.uci.edu)
+ - date_published: 2024-07-01T21:58:49+00:00
+
+ ## Home | Center for Clinical Research | UCI
+ - [https://clinicalresearch.som.uci.edu](https://clinicalresearch.som.uci.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Cellular & Molecular Biosciences – Gateway to Biomedical Discovery at UC Irvine
+ - [https://cmb.uci.edu](https://cmb.uci.edu)
+ - date_published: 2024-07-09T22:34:11.966810+00:00
+
+ ## Center for Machine Learning and Intelligent Systems | University of California, Irvine
+ - [https://cml.ics.uci.edu](https://cml.ics.uci.edu)
+ - date_published: 2024-05-07T20:53:27.536388+00:00
+
+ ## Center for the Neurobiology of Learning and Memory | UCI CNLM
+ - [https://cnlm.uci.edu](https://cnlm.uci.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## The Susan & Henry Samueli College of Health Sciences – UCI Health Affairs
+ - [https://cohs.uci.edu](https://cohs.uci.edu)
+ - date_published: 2024-07-09T22:27:07+00:00
+
+ ## Home // Strategic Communications & Public Affairs // UCI
+ - [https://communications.uci.edu](https://communications.uci.edu)
+ - date_published: 2024-05-09T06:50:22.332352+00:00
+
+ ## Computing Services | Social Ecology Computing Services
+ - [http://computing.soceco.uci.edu](http://computing.soceco.uci.edu)
+ - date_published: 2024-07-09T14:19:55+00:00
+
+ ## UCI Student Center & Event Services · Interact. Learn. Enjoy.
+ - [http://conferencecenter.uci.edu](http://conferencecenter.uci.edu)
+ - date_published: 2024-07-01T22:49:22+00:00
+
+ ## Home - Connected Learning Lab
+ - [https://connectedlearning.uci.edu](https://connectedlearning.uci.edu)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## landing - UCI Cybersecurity Policy & Research Institute
+ - [https://cpri.uci.edu](https://cpri.uci.edu)
+ - date_published: 2024-05-07T20:52:40.293444+00:00
+
  ## UCI’s Steckler Center for Responsible, Ethical, and Accessible Technology
  - [https://create.ics.uci.edu](https://create.ics.uci.edu)
  - date_published: 2024-05-07T20:53:25.866925+00:00
@@ -3945,60 +4001,4 @@
  ## Center For Networked Systems – A Research Center within the Computer Science and Engineering Department at UC San Diego
  - [http://cns.ucsd.edu](http://cns.ucsd.edu)
  - date_published: 2018-02-06T20:09:39+00:00
-
- ## Cog Sci
- - [https://cogsci.ucsd.edu](https://cogsci.ucsd.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## UC San Diego Commencement
- - [https://commencement.ucsd.edu](https://commencement.ucsd.edu)
- - date_published: 2024-06-16T14:32:14+00:00
-
- ## Commons Homepage
- - [https://commons.ucsd.edu](https://commons.ucsd.edu)
- - date_published: 2024-01-23T23:36:46+00:00
-
- ## Department of Communication
- - [http://communication.ucsd.edu](http://communication.ucsd.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Select your identity provider
- - [https://concur.ucsd.edu](https://concur.ucsd.edu)
- - date_published: 2024-09-13T18:37:34.746056+00:00
-
- ## Apply Now
- - [https://connect.grad.ucsd.edu](https://connect.grad.ucsd.edu)
- - date_published: 2024-06-26T17:55:10+00:00
-
- ## Welcome to Contextual Robotics Institute | Contextual Robotics Institute
- - [https://contextualrobotics.ucsd.edu](https://contextualrobotics.ucsd.edu)
- - date_published: 2024-05-04T15:43:44.384148+00:00
-
- ## CoralNet
- - [https://coralnet.ucsd.edu](https://coralnet.ucsd.edu)
- - date_published: 2024-06-13T17:54:35.315107+00:00
-
- ## Center for Research in Language
- - [http://crl.ucsd.edu](http://crl.ucsd.edu)
- - date_published: 2020-10-03T00:00:00+00:00
-
- ## CSE 125 -- Software System Design and Implementation
- - [https://cse125.ucsd.edu](https://cse125.ucsd.edu)
- - date_published: 2024-06-15T15:46:17+00:00
-
- ## CSE 35th Anniversary
- - [https://cse35.ucsd.edu](https://cse35.ucsd.edu)
- - date_published: 2024-05-07T21:00:29.549788+00:00
-
- ## CSE Annual Report
- - [https://cse-annual-report.ucsd.edu](https://cse-annual-report.ucsd.edu)
- - date_published: 2024-05-07T21:00:36.116463+00:00
-
- ## CSE Research Open House| UC San Diego
- - [https://cseopenhouse.ucsd.edu](https://cseopenhouse.ucsd.edu)
- - date_published: 2016-11-28T21:42:49+00:00
-
- ## Home | Computer Science
- - [https://cse.ucsd.edu](https://cse.ucsd.edu)
- - date_published: 2024-01-26T00:00:00+00:00
 

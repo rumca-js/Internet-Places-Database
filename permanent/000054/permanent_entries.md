@@ -1,3 +1,7 @@
+ ## Assurer le C++ – Un blog (presque) hebdomadaire parlant de (souvent mauvaises) pratiques en C++
+ - [https://fr.belaycpp.com](https://fr.belaycpp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
  ## Belbex: Oficinas, Locales, Naves y Suelos en Madrid - Alquiler y Venta
  - [https://belbex.com](https://belbex.com)
  - date_published: 2024-05-12T07:41:16.649699+00:00
@@ -4033,8 +4037,4 @@
  ## Bharat Kalluri
  - [https://bharatkalluri.com](https://bharatkalluri.com)
  - date_published: 2024-05-09T07:48:05.796320+00:00
-
- ## From scratch
- - [https://fromscratch.bharatkalluri.com](https://fromscratch.bharatkalluri.com)
- - date_published: 2024-07-10T06:26:44.068726+00:00
 

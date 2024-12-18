@@ -1,4 +1,8 @@
  ## Converge Support
+ - [https://support.convergepay.com](https://support.convergepay.com)
+ - date_published: 2023-09-29T19:54:20+00:00
+
+ ## Converge Support
  - [https://www.convergepay.com](https://www.convergepay.com)
  - date_published: 2023-06-17T08:38:01+00:00
 
@@ -4032,8 +4036,4 @@
  ## C Board
  - [https://cboard.cprogramming.com](https://cboard.cprogramming.com)
  - date_published: 2024-09-02T12:54:02.326076+00:00
-
- ## Learn C and C++ Programming - Cprogramming.com
- - [https://cprogramming.com](https://cprogramming.com)
- - date_published: 2023-10-16T01:15:06+00:00
 

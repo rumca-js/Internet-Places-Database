@@ -1,3 +1,7 @@
+ ## Official Google Webmaster Central Blog
+ - [https://googlewebmastercentral.blogspot.com](https://googlewebmastercentral.blogspot.com)
+ - date_published: 2024-05-08T06:31:34.189772+00:00
+
  ## Blogger
  - [http://googolplexus.blogspot.com](http://googolplexus.blogspot.com)
  - date_published: 2024-10-19T07:39:01.977513+00:00
@@ -4006,8 +4010,4 @@
  ## John Wiswell on the Web
  - [https://johnwiswell.blogspot.com](https://johnwiswell.blogspot.com)
  - date_published: 2024-04-15T19:03:00+00:00
-
- ## JoLaine
- - [http://jolainejonespokorney.blogspot.com](http://jolainejonespokorney.blogspot.com)
- - date_published: 2024-02-21T01:22:30+00:00
 

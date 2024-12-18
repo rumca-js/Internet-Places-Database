@@ -1,3 +1,58 @@
+ ## FINAL FANTASY VII REMAKE INTERGRADE | SQUARE ENIX
+ - [https://ffvii-remake-intergrade.square-enix-games.com](https://ffvii-remake-intergrade.square-enix-games.com)
+ - date_published: 2023-01-19T12:51:29+00:00
+ - tags: ['video game']
+
+ ## FINAL FANTASY VII Remake
+ - [https://ffvii-remake.square-enix-games.com](https://ffvii-remake.square-enix-games.com)
+ - date_published: 2024-07-11T16:39:31.904218+00:00
+ - tags: ['video game']
+
+ ## FINAL FANTASY VII | SQUARE ENIX
+ - [https://ffvii.square-enix-games.com](https://ffvii.square-enix-games.com)
+ - date_published: 2024-06-16T07:19:08.857945+00:00
+ - tags: ['video game']
+
+ ## Square Enix Boutique | France
+ - [https://fr.store.square-enix-games.com](https://fr.store.square-enix-games.com)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Square Enix Store | United Kingdom
+ - [https://gb.store.square-enix-games.com](https://gb.store.square-enix-games.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## HARVESTELLA for Nintendo Switch & Steam | SQUARE ENIX
+ - [https://harvestella.square-enix-games.com](https://harvestella.square-enix-games.com)
+ - date_published: 2024-10-25T10:57:20.520401+00:00
+ - tags: ['video game']
+
+ ## Square Enix Store | Italia
+ - [https://it.store.square-enix-games.com](https://it.store.square-enix-games.com)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Life is Strange
+ - [https://lifeisstrange.square-enix-games.com](https://lifeisstrange.square-enix-games.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+ - tags: ['video game']
+
+ ## VISIONS OF MANA for PlayStation 5, 4, Xbox Series X | S, PC via Steam | SQUARE ENIX
+ - [https://mana.square-enix-games.com](https://mana.square-enix-games.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+ - tags: ['video game']
+
+ ## Square Enix Store | North America
+ - [https://na.store.square-enix-games.com](https://na.store.square-enix-games.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ - [https://nierautomata.square-enix-games.com](https://nierautomata.square-enix-games.com)
+ - date_published: 2024-06-21T20:28:58+00:00
+ - tags: ['video game']
+
+ ## NieR Replicant ver.1.22474487139... | SQUARE ENIX
+ - [https://nier.square-enix-games.com](https://nier.square-enix-games.com)
+ - date_published: 2023-03-21T12:28:42+00:00
+ - tags: ['video game']
+
  ## PowerWash Simulator | SQUARE ENIX
  - [https://powerwash-simulator.square-enix-games.com](https://powerwash-simulator.square-enix-games.com)
  - date_published: 2024-07-11T17:06:22.653911+00:00
@@ -3953,52 +4008,4 @@
  ## LIGHT WATKINS
  - [https://light-watkins-dchk.squarespace.com](https://light-watkins-dchk.squarespace.com)
  - date_published: 2024-04-15T00:00:00+00:00
-
- ## American Friends Musées d'Orsay et de l'Orangerie
- - [https://lilac-iris-46lj.squarespace.com](https://lilac-iris-46lj.squarespace.com)
- - date_published: 2024-07-19T22:13:12.883436+00:00
-
- ## Lillian Stone
- - [https://lillian-stone.squarespace.com](https://lillian-stone.squarespace.com)
- - date_published: 2024-09-15T13:44:10.388699+00:00
-
- ## The Fratellis
- - [https://lily-elk-5hx6.squarespace.com](https://lily-elk-5hx6.squarespace.com)
- - date_published: 2024-12-12T06:57:51.656981+00:00
-
- ## Serah B. Fredericks
- - [https://lime-blenny-rfl2.squarespace.com](https://lime-blenny-rfl2.squarespace.com)
- - date_published: 2024-04-29T03:15:45.091335+00:00
-
- ## Young Professionals in Energy- SF Bay Area
- - [https://lime-lute-zzp3.squarespace.com](https://lime-lute-zzp3.squarespace.com)
- - date_published: 2024-07-14T13:00:42.354248+00:00
-
- ## Linear Digressions
- - [http://lineardigressions.squarespace.com](http://lineardigressions.squarespace.com)
- - date_published: 2024-06-23T11:18:21.410179+00:00
-
- ## LineLeap
- - [https://lineleap.squarespace.com](https://lineleap.squarespace.com)
- - date_published: 2024-06-21T13:27:08.524471+00:00
-
- ## Local Fit Seattle | Capitol Hill Personal Trainers & Fitness Classes
- - [https://lion-carillon-j6bk.squarespace.com](https://lion-carillon-j6bk.squarespace.com)
- - date_published: 2024-05-10T04:57:03.960216+00:00
-
- ## LITLIT (The Little Literary Fair)
- - [https://litlit.squarespace.com](https://litlit.squarespace.com)
- - date_published: 2024-07-07T05:51:55.277253+00:00
-
- ## Squarespace Website Designer | Little Ox Workshop
- - [https://littleoxworkshopwebsite.squarespace.com](https://littleoxworkshopwebsite.squarespace.com)
- - date_published: 2024-10-22T06:21:12.419589+00:00
-
- ## Lizzie Munro Photography
- - [https://lizzieamunro.squarespace.com](https://lizzieamunro.squarespace.com)
- - date_published: 2024-10-15T07:55:49.885763+00:00
-
- ## Remnants of the Precursors
- - [https://llama-parakeet-rz9e.squarespace.com](https://llama-parakeet-rz9e.squarespace.com)
- - date_published: 2024-07-11T11:50:53.140622+00:00
 

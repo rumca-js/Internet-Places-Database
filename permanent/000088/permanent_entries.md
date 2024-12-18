@@ -1,3 +1,7 @@
+ ## Sign In with MNG
+ - [https://enewspaper.denverpost.com](https://enewspaper.denverpost.com)
+ - date_published: 2024-05-01T04:46:30.285639+00:00
+
  ## Special presentations — The Denver Post
  - [https://extras.denverpost.com](https://extras.denverpost.com)
  - date_published: 2017-01-05T16:38:07+00:00
@@ -4014,8 +4018,4 @@
  ## TerribleHack the 6ix
  - [https://terriblehack6.devpost.com](https://terriblehack6.devpost.com)
  - date_published: 2024-08-19T19:20:36.418275+00:00
-
- ## TerribleHack X
- - [https://terriblehack-x.devpost.com](https://terriblehack-x.devpost.com)
- - date_published: 2024-08-19T19:20:34.580709+00:00
 

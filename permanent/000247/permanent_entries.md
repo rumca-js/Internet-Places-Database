@@ -1,3 +1,71 @@
+ ## Abundantia
+ - [https://www.youtube.com/channel/UC9lKBRxxsDIarUmNaPe0h0Q](https://www.youtube.com/channel/UC9lKBRxxsDIarUmNaPe0h0Q)
+ - date_published: 2024-12-04T21:39:21+00:00
+ - tags: ['finance']
+
+ ## SomeOrdinaryGamers
+ - [https://www.youtube.com/channel/UCtMVHI3AJD4Qk4hcbZnI9ZQ](https://www.youtube.com/channel/UCtMVHI3AJD4Qk4hcbZnI9ZQ)
+ - date_published: 2024-12-04T21:40:09+00:00
+
+ ## Solid jj
+ - [https://www.youtube.com/channel/UCEq_Dr1GHvnNPQNfgOzhZ8Q](https://www.youtube.com/channel/UCEq_Dr1GHvnNPQNfgOzhZ8Q)
+ - date_published: 2024-12-04T21:40:16+00:00
+ - tags: ['comedy', 'super heroes']
+
+ ## Snazzy Labs
+ - [https://www.youtube.com/channel/UCO2x-p9gg9TLKneXlibGR7w](https://www.youtube.com/channel/UCO2x-p9gg9TLKneXlibGR7w)
+ - date_published: 2024-12-04T21:40:23+00:00
+ - tags: ['tech news']
+
+ ## Shut Up & Sit Down
+ - [https://www.youtube.com/channel/UCyRhIGDUKdIOw07Pd8pHxCw](https://www.youtube.com/channel/UCyRhIGDUKdIOw07Pd8pHxCw)
+ - date_published: 2024-12-04T21:40:54+00:00
+ - tags: ['board games']
+
+ ## serpentza
+ - [https://www.youtube.com/channel/UCl7mAGnY4jh4Ps8rhhh8XZg](https://www.youtube.com/channel/UCl7mAGnY4jh4Ps8rhhh8XZg)
+ - date_published: 2024-12-04T21:41:31+00:00
+ - tags: ['china', 'politics']
+
+ ## Second Wind
+ - [https://www.youtube.com/channel/UC1wZGocgLvopgOqBUFCyIJA](https://www.youtube.com/channel/UC1wZGocgLvopgOqBUFCyIJA)
+ - date_published: 2024-12-04T21:41:37+00:00
+ - tags: ['video games']
+
+ ## Scary Pockets
+ - [https://www.youtube.com/channel/UC-2JUs_G21BrJ0efehwGkUw](https://www.youtube.com/channel/UC-2JUs_G21BrJ0efehwGkUw)
+ - date_published: 2024-12-04T21:42:37+00:00
+ - tags: ['music']
+
+ ## The Closer Look
+ - [https://www.youtube.com/channel/UCI9DUIgtRGHNH_HmSTcfUbA](https://www.youtube.com/channel/UCI9DUIgtRGHNH_HmSTcfUbA)
+ - date_published: 2024-12-05T08:10:33+00:00
+ - tags: ['movies']
+
+ ## The Critical Drinker
+ - [https://www.youtube.com/channel/UCSJPFQdZwrOutnmSFYtbstA](https://www.youtube.com/channel/UCSJPFQdZwrOutnmSFYtbstA)
+ - date_published: 2024-12-05T08:10:46+00:00
+ - tags: ['movies', 'moview reviews']
+
+ ## The Dave Cullen Show
+ - [https://www.youtube.com/channel/UCDVb4m_5QHhZElT47E1oODg](https://www.youtube.com/channel/UCDVb4m_5QHhZElT47E1oODg)
+ - date_published: 2024-12-05T08:11:12+00:00
+ - tags: ['movies']
+
+ ## The Escapist
+ - [https://www.youtube.com/channel/UCqg5FCR7NrpvlBWMXdt-5Vg](https://www.youtube.com/channel/UCqg5FCR7NrpvlBWMXdt-5Vg)
+ - date_published: 2024-12-05T08:11:32+00:00
+
+ ## The Film Theorists
+ - [https://www.youtube.com/channel/UC3sznuotAs2ohg_U__Jzj_Q](https://www.youtube.com/channel/UC3sznuotAs2ohg_U__Jzj_Q)
+ - date_published: 2024-12-05T08:11:41+00:00
+ - tags: ['movies']
+
+ ## The Hated One
+ - [https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q)
+ - date_published: 2024-12-05T08:11:58+00:00
+ - tags: ['technology', 'tech', 'privacy']
+
  ## The Linux Experiment
  - [https://www.youtube.com/channel/UC5UAwBUum7CPN5buc-_N1Fw](https://www.youtube.com/channel/UC5UAwBUum7CPN5buc-_N1Fw)
  - date_published: 2024-12-05T08:12:20+00:00
@@ -4107,60 +4175,4 @@
  ## Sailthru
  - [https://sailthru.zendesk.com](https://sailthru.zendesk.com)
  - date_published: 2024-10-14T11:53:44.124090+00:00
-
- ## Podrška - Sancta Domenica
- - [https://sanctadomenica.zendesk.com](https://sanctadomenica.zendesk.com)
- - date_published: 2024-09-16T02:16:42.887229+00:00
-
- ## Scribd Help Center
- - [https://scribd.zendesk.com](https://scribd.zendesk.com)
- - date_published: 2024-08-06T10:11:40.706410+00:00
-
- ## Self Publishing Formula
- - [https://selfpublishingformula.zendesk.com](https://selfpublishingformula.zendesk.com)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Semiconductor Research Corporation
- - [https://semiconductorresearchcorporation.zendesk.com](https://semiconductorresearchcorporation.zendesk.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Sentry Help Center
- - [https://sentry.zendesk.com](https://sentry.zendesk.com)
- - date_published: 2024-05-06T12:55:34.821133+00:00
-
- ## Simple Fund 360 Knowledge Centre
- - [https://sf360.zendesk.com](https://sf360.zendesk.com)
- - date_published: 2024-10-02T12:30:42.315191+00:00
-
- ## San Francisco Chronicle
- - [https://sfchronicle.zendesk.com](https://sfchronicle.zendesk.com)
- - date_published: 2024-04-29T03:26:29.037221+00:00
-
- ## Tindie
- - [https://sf-tindie.zendesk.com](https://sf-tindie.zendesk.com)
- - date_published: 2024-05-06T19:57:47.705272+00:00
-
- ## Sidecar Health
- - [https://sidecarhealth.zendesk.com](https://sidecarhealth.zendesk.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Home
- - [https://signalwire.zendesk.com](https://signalwire.zendesk.com)
- - date_published: 2024-08-11T09:49:46.254554+00:00
-
- ## ProtonMail
- - [https://simplelogin.zendesk.com](https://simplelogin.zendesk.com)
- - date_published: 2024-10-11T20:09:51.397712+00:00
-
- ## Skio
- - [https://skio.zendesk.com](https://skio.zendesk.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Skylight Support
- - [https://skylight.zendesk.com](https://skylight.zendesk.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Slack Help Center
- - [https://slack.zendesk.com](https://slack.zendesk.com)
- - date_published: 2024-05-08T00:00:00+00:00
 

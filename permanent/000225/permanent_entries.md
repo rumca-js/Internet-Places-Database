@@ -1,3 +1,51 @@
+ ## Saying yes...
+ - [http://sayingyes.typepad.com](http://sayingyes.typepad.com)
+ - date_published: 2024-06-19T16:56:41.307144+00:00
+
+ ## Science Library Pad
+ - [http://scilib.typepad.com](http://scilib.typepad.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## SECURITIES LITIGATION WATCH
+ - [http://seclitblog.typepad.com](http://seclitblog.typepad.com)
+ - date_published: 2024-07-13T10:20:17.401593+00:00
+
+ ## Semantic Compositions
+ - [http://semanticcompositions.typepad.com](http://semanticcompositions.typepad.com)
+ - date_published: 2008-06-06T10:13:52+00:00
+
+ ## Classics in Contemporary Culture
+ - [http://semperegoauditor.typepad.com](http://semperegoauditor.typepad.com)
+ - date_published: 2024-07-02T06:35:26.525077+00:00
+
+ ## Sentencing Law and Policy
+ - [https://sentencing.typepad.com](https://sentencing.typepad.com)
+ - date_published: 2024-06-15T02:26:20.408798+00:00
+
+ ## Seth's Blog
+ - [https://sethgodin.typepad.com](https://sethgodin.typepad.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Seven Roads
+ - [http://sevenroads.typepad.com](http://sevenroads.typepad.com)
+ - date_published: 2024-07-02T06:33:26.799721+00:00
+
+ ## sisu
+ - [http://sisu.typepad.com](http://sisu.typepad.com)
+ - date_published: 2024-06-20T03:12:58.093915+00:00
+
+ ## The Slacktiverse
+ - [http://slacktivist.typepad.com](http://slacktivist.typepad.com)
+ - date_published: 2024-07-02T06:17:44.407468+00:00
+
+ ## Blogging Section of SLA-IT
+ - [http://sla-divisions.typepad.com](http://sla-divisions.typepad.com)
+ - date_published: 2024-07-09T18:48:53.357046+00:00
+
+ ## Attackerman
+ - [http://spencerackerman.typepad.com](http://spencerackerman.typepad.com)
+ - date_published: 2024-08-18T13:20:35.950208+00:00
+
  ## Spurious
  - [http://spurious.typepad.com](http://spurious.typepad.com)
  - date_published: 2024-06-30T04:26:25.955754+00:00
@@ -4003,52 +4051,4 @@ Welcome
  ## Underdog Fantasy: Pick'em and Season-long Fantasy for NFL, NBA & more
  - [https://play.underdogfantasy.com](https://play.underdogfantasy.com)
  - date_published: 2020-01-01T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://stats.underdogfantasy.com](https://stats.underdogfantasy.com)
- - date_published: 2024-05-09T04:34:13.494757+00:00
-
- ## Underdog Fantasy: Pick'em and Season-long Fantasy for NFL, NBA & more
- - [https://underdogfantasy.com](https://underdogfantasy.com)
- - date_published: 2024-05-09T04:34:11.565248+00:00
-
- ## Home
- - [https://underdogmedia.com](https://underdogmedia.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## UnderFit // The Best Undershirts for Men, Built for Comfort
- - [https://underfit.com](https://underfit.com)
- - date_published: 2024-06-16T12:36:02+00:00
-
- ## Are you the next Undergraduate of the Year?
- - [https://undergraduateoftheyear.com](https://undergraduateoftheyear.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Underground Garage
- - [http://undergroundgarage.com](http://undergroundgarage.com)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## UGSF - Underground SF
- - [http://undergroundsf.com](http://undergroundsf.com)
- - date_published: 2022-12-04T19:45:20+00:00
-
- ## Underground Printing
- - [https://pogo.undergroundshirts.com](https://pogo.undergroundshirts.com)
- - date_published: 2024-10-23T07:22:34.745474+00:00
-
- ## Underhood Service: Cars, Light Truck Magazine
- - [https://underhoodservice.com](https://underhoodservice.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Underpass App Company
- - [https://underpassapp.com](https://underpassapp.com)
- - date_published: 2023-10-25T17:52:30.897766+00:00
-
- ## Underpinning | Underpinning Contractors | Underpinning Basement | Digging Out Basement | Basement Digging | Underpinning | Foundation Underpinning
- - [https://www.under-pinning.com](https://www.under-pinning.com)
- - date_published: 2024-10-28T23:14:45.458054+00:00
-
- ## ruby0x1.notes
- - [http://notes.underscorediscovery.com](http://notes.underscorediscovery.com)
- - date_published: 2022-06-09T01:56:25+00:00
 

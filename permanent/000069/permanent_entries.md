@@ -1,3 +1,7 @@
+ ## Apparel, Gifts & Textbooks | Official Store of the University of North Carolina
+ - [https://unc.bncollege.com](https://unc.bncollege.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## University of North Carolina Apparel & Spirit Store Gifts, Spirit Apparel & Gear, Basketball Gear & Cold Weather Accessories | University of North Carolina Apparel & Spirit Store Spirit Shop
  - [https://unc.spirit.bncollege.com](https://unc.spirit.bncollege.com)
  - date_published: 2024-07-02T04:33:17.568514+00:00
@@ -4032,8 +4036,4 @@
  ## From idea to production, BotDojo provides tools for shipping AI Applications using Large Language Models.
  - [https://www.botdojo.com](https://www.botdojo.com)
  - date_published: 2024-06-23T10:54:40+00:00
-
- ## Microsoft Bot Framework
- - [https://dev.botframework.com](https://dev.botframework.com)
- - date_published: 2024-05-02T12:44:25.537444+00:00
 

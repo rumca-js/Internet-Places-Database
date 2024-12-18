@@ -1,3 +1,7 @@
+ ## Home - Gen B USA Magazine
+ - [https://www.genbusa.com](https://www.genbusa.com)
+ - date_published: 2020-01-02T11:13:56+00:00
+
  ## Gen Con | Gen Con Indy 2024
  - [https://gencon.com](https://gencon.com)
  - date_published: 2024-05-01T05:00:47.195931+00:00
@@ -4031,8 +4035,4 @@ Homepage
  ## Download the app
  - [https://getworldcoin.com](https://getworldcoin.com)
  - date_published: 2024-07-19T23:03:15.952793+00:00
-
- ## WP-Optimize | WordPress Performance Plugin - WP-Optimize
- - [https://getwpo.com](https://getwpo.com)
- - date_published: 2023-12-11T18:58:35.920934+00:00
 

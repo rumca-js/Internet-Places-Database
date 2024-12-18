@@ -1,3 +1,68 @@
+ ## Fostering Women’s Leadership & Workplace Inclusion | Lean In
+ - [https://leanin.org](https://leanin.org)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Lean In Store
+ - [https://shop.leanin.org](https://shop.leanin.org)
+ - date_published: 2024-06-23T01:31:54.886281+00:00
+
+ ## Lean In Girls | Girls Leadership Program
+ - [https://leaningirls.org](https://leaningirls.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Programming Language and Theorem Prover — Lean
+ - [https://lean-lang.org](https://lean-lang.org)
+ - date_published: 2024-04-29T06:15:56.514317+00:00
+
+ ## Lean 4 Web
+ - [https://live.lean-lang.org](https://live.lean-lang.org)
+ - date_published: 2024-05-07T15:57:13.078779+00:00
+
+ ## Loogle!
+ - [https://loogle.lean-lang.org](https://loogle.lean-lang.org)
+ - date_published: 2024-04-29T06:16:20.387794+00:00
+ - tags: ['open source', 'application']
+
+ ## Lean Media: Amazon Consulting
+ - [https://leanmedia.org](https://leanmedia.org)
+ - date_published: 2024-11-08T11:42:58.490186+00:00
+
+ ## Site is undergoing maintenance
+ - [http://alumni.leapafrica.org](http://alumni.leapafrica.org)
+ - date_published: 2024-07-14T12:42:02.314864+00:00
+
+ ## LEAP Africa
+ - [https://leapafrica.org](https://leapafrica.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## learnwithleapafrica
+ - [http://learn.leapafrica.org](http://learn.leapafrica.org)
+ - date_published: 2024-07-14T12:35:45.304928+00:00
+
+ ## Social Innovators Programme & Awards
+ - [https://sipa.leapafrica.org](https://sipa.leapafrica.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## LeapChat
+ - [https://www.leapchat.org](https://www.leapchat.org)
+ - date_published: 2023-03-07T19:56:19+00:00
+
+ ## Leapfrog
+ - [https://www.leapfroggroup.org](https://www.leapfroggroup.org)
+ - date_published: 2024-07-19T04:40:14.213312+00:00
+
+ ## California Agriculture in the Classroom
+ - [https://learnaboutag.org](https://learnaboutag.org)
+ - date_published: 2024-07-08T11:54:29.925239+00:00
+
+ ## Learn About Electronics - Home Page
+ - [https://learnabout-electronics.org](https://learnabout-electronics.org)
+ - date_published: 2023-10-25T21:38:15.033617+00:00
+
+ ## The World's First AI-Native Coding Bootcamp - LEARN Academy
+ - [https://learnacademy.org](https://learnacademy.org)
+ - date_published: 2024-10-18T05:41:10.302328+00:00
+
  ## BCHS software stack: BSD, C, httpd, SQLite
  - [https://learnbchs.org](https://learnbchs.org)
  - date_published: 2020-05-11T14:51:49+00:00
@@ -2377,7 +2442,7 @@ Intro
  ## Linuxfx Operating System
  - [https://linuxfx.org](https://linuxfx.org)
  - date_published: 2024-04-13T18:22:38+00:00
- - tags: ['operating system']
+ - tags: ['linux', 'operating system']
 
  ## Linux Graphic - Site sur l'infographie sous Linux en Français
  - [https://linuxgraphic.org](https://linuxgraphic.org)
@@ -3971,69 +4036,4 @@ Intro
  ## LRUG | London Ruby User Group
  - [http://lrug.org](http://lrug.org)
  - date_published: 2024-07-22T20:21:23+00:00
-
- ## Loading...
- - [http://os.lsac.org](http://os.lsac.org)
- - date_published: 2024-08-19T18:23:56.286437+00:00
-
- ## LSA
- - [http://www.lsadc.org](http://www.lsadc.org)
- - date_published: 2024-07-02T06:17:20.267722+00:00
-
- ## The Logistics & Supply Chain Management Society – The Regional Professional Body for Logistics and Supply Chain Practitioners
- - [http://lscms.org](http://lscms.org)
- - date_published: 2024-09-12T15:25:13.218583+00:00
-
- ## Liga Studenților Electroniști | Site official
- - [https://lsebucuresti.org](https://lsebucuresti.org)
- - date_published: 2023-10-20T10:42:00+00:00
-
- ## Liceo Scientifico Galileo Galilei
- - [https://www.lsgalilei.org](https://www.lsgalilei.org)
- - date_published: 2024-10-13T07:21:36+00:00
-
- ## The L-Space Web - A Terry Pratchett / Discworld Web® Site
- - [https://www.lspace.org](https://www.lspace.org)
- - date_published: 2023-11-16T07:01:44.475059+00:00
- - tags: ['discworld', 'terry pratchett', 'fantasy']
-
- ## Senior Living St Louis Metro, Central Missouri, & Central Illinois | LSS
- - [https://www.lssliving.org](https://www.lssliving.org)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## LSST Informatics & Statistics Science Collaboration
- - [https://issc.science.lsst.org](https://issc.science.lsst.org)
- - date_published: 2024-07-03T19:56:30+00:00
-
- ## Rubin Observatory
- - [http://www.lsst.org](http://www.lsst.org)
- - date_published: 2024-06-22T21:46:12+00:00
-
- ## Home
- - [https://lsstdesc.org](https://lsstdesc.org)
- - date_published: 2024-07-08T10:46:27+00:00
-
- ## Homepage
- - [https://www.lstream.org](https://www.lstream.org)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## LSU Alumni Association | Louisiana State University Alumni
- - [https://www.lsualumni.org](https://www.lsualumni.org)
- - date_published: 2024-10-18T02:47:09.239022+00:00
-
- ## Home Page
- - [https://lsufoundation.org](https://lsufoundation.org)
- - date_published: 2024-05-07T19:30:51.222062+00:00
-
- ## Home > Lane Transit District
- - [https://www.ltd.org](https://www.ltd.org)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Life Time Foundation
- - [https://www.ltfoundation.org](https://www.ltfoundation.org)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## LT Game Jam
- - [https://ltgamejam.org](https://ltgamejam.org)
- - date_published: 2024-08-08T11:28:01.619442+00:00
 

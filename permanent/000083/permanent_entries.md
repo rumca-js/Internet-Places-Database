@@ -1,3 +1,7 @@
+ ## Learn C and C++ Programming - Cprogramming.com
+ - [https://cprogramming.com](https://cprogramming.com)
+ - date_published: 2023-10-16T01:15:06+00:00
+
  ## FAQ - Cprogramming.com
  - [https://faq.cprogramming.com](https://faq.cprogramming.com)
  - date_published: 2024-09-02T12:54:04.458339+00:00
@@ -4043,8 +4047,4 @@
  ## CryptoCompare Auth API for Developers: Interact with your cryptocompare account though our auth paths.
  - [https://auth-api.cryptocompare.com](https://auth-api.cryptocompare.com)
  - date_published: 2016-08-27T00:00:00+00:00
-
- ## CCData
- - [https://blog.cryptocompare.com](https://blog.cryptocompare.com)
- - date_published: 2024-01-24T00:00:00+00:00
 

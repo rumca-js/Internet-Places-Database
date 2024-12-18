@@ -1,3 +1,59 @@
+ ## Cog Sci
+ - [https://cogsci.ucsd.edu](https://cogsci.ucsd.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## UC San Diego Commencement
+ - [https://commencement.ucsd.edu](https://commencement.ucsd.edu)
+ - date_published: 2024-06-16T14:32:14+00:00
+
+ ## Commons Homepage
+ - [https://commons.ucsd.edu](https://commons.ucsd.edu)
+ - date_published: 2024-01-23T23:36:46+00:00
+
+ ## Department of Communication
+ - [http://communication.ucsd.edu](http://communication.ucsd.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Select your identity provider
+ - [https://concur.ucsd.edu](https://concur.ucsd.edu)
+ - date_published: 2024-09-13T18:37:34.746056+00:00
+
+ ## Apply Now
+ - [https://connect.grad.ucsd.edu](https://connect.grad.ucsd.edu)
+ - date_published: 2024-06-26T17:55:10+00:00
+
+ ## Welcome to Contextual Robotics Institute | Contextual Robotics Institute
+ - [https://contextualrobotics.ucsd.edu](https://contextualrobotics.ucsd.edu)
+ - date_published: 2024-05-04T15:43:44.384148+00:00
+
+ ## CoralNet
+ - [https://coralnet.ucsd.edu](https://coralnet.ucsd.edu)
+ - date_published: 2024-06-13T17:54:35.315107+00:00
+
+ ## Center for Research in Language
+ - [http://crl.ucsd.edu](http://crl.ucsd.edu)
+ - date_published: 2020-10-03T00:00:00+00:00
+
+ ## CSE 125 -- Software System Design and Implementation
+ - [https://cse125.ucsd.edu](https://cse125.ucsd.edu)
+ - date_published: 2024-06-15T15:46:17+00:00
+
+ ## CSE 35th Anniversary
+ - [https://cse35.ucsd.edu](https://cse35.ucsd.edu)
+ - date_published: 2024-05-07T21:00:29.549788+00:00
+
+ ## CSE Annual Report
+ - [https://cse-annual-report.ucsd.edu](https://cse-annual-report.ucsd.edu)
+ - date_published: 2024-05-07T21:00:36.116463+00:00
+
+ ## CSE Research Open House| UC San Diego
+ - [https://cseopenhouse.ucsd.edu](https://cseopenhouse.ucsd.edu)
+ - date_published: 2016-11-28T21:42:49+00:00
+
+ ## Home | Computer Science
+ - [https://cse.ucsd.edu](https://cse.ucsd.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
  ## Home | Computer Science
  - [https://cseweb.ucsd.edu](https://cseweb.ucsd.edu)
  - date_published: 2023-10-25T19:01:08.426811+00:00
@@ -3947,60 +4003,4 @@
  ## home | Coldstream Research Campus
  - [https://coldstream.uky.edu](https://coldstream.uky.edu)
  - date_published: 2024-06-16T22:21:37.173525+00:00
-
- ## Home | Commencement
- - [https://commencement.uky.edu](https://commencement.uky.edu)
- - date_published: 2024-06-16T22:20:59.328687+00:00
-
- ## Department of Communication
- - [https://comm.uky.edu](https://comm.uky.edu)
- - date_published: 2024-10-14T23:37:50.589907+00:00
-
- ## Home | College of Public Health
- - [https://cph.uky.edu](https://cph.uky.edu)
- - date_published: 2024-10-14T23:06:58.274179+00:00
-
- ## Computer Science
- - [https://cs.uky.edu](https://cs.uky.edu)
- - date_published: 2017-11-05T00:51:35+00:00
-
- ## Home | Diversity, Equity and Inclusion
- - [https://dei.uky.edu](https://dei.uky.edu)
- - date_published: 2024-06-16T22:22:02.221486+00:00
-
- ## The College of Dentistry |
- - [https://dentistry.uky.edu](https://dentistry.uky.edu)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## University of Kentucky College of Design – 38°84° the power of place
- - [https://design.uky.edu](https://design.uky.edu)
- - date_published: 2024-06-16T22:21:31.798037+00:00
-
- ## Home | University of Kentucky College of Arts & Sciences
- - [https://di.as.uky.edu](https://di.as.uky.edu)
- - date_published: 2024-07-02T01:00:37+00:00
-
- ## Home | Extension Field Directory
- - [http://directory.ca.uky.edu](http://directory.ca.uky.edu)
- - date_published: 2024-06-30T23:17:11+00:00
-
- ## UK Directory - University of Kentucky
- - [https://directory.uky.edu](https://directory.uky.edu)
- - date_published: 2024-06-16T22:20:43.675455+00:00
-
- ## Home | Office of Diversity
- - [https://diversity.ca.uky.edu](https://diversity.ca.uky.edu)
- - date_published: 2024-05-23T16:44:16+00:00
-
- ## Home | Next Generation Scholars Dual Credit
- - [https://dualcredit.uky.edu](https://dualcredit.uky.edu)
- - date_published: 2024-10-14T23:29:43.174756+00:00
-
- ## Home | Economic Development Collaborative
- - [https://edc.uky.edu](https://edc.uky.edu)
- - date_published: 2024-10-14T23:37:11.013759+00:00
-
- ## Home | College of Education
- - [https://education.uky.edu](https://education.uky.edu)
- - date_published: 2024-06-16T22:21:08.578572+00:00
 

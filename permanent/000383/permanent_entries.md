@@ -1,3 +1,63 @@
+ ## Freedom from the FDA
+ - [http://www.freedomfromfda.org](http://www.freedomfromfda.org)
+ - date_published: 2014-06-02T00:00:00+00:00
+
+ ## Expanding Freedom and Democracy
+ - [https://freedomhouse.org](https://freedomhouse.org)
+ - date_published: 2024-05-12T04:27:17.360727+00:00
+
+ ## Freedom: Investigative Journalism in the Public Interest
+ - [https://freedommag.org](https://freedommag.org)
+ - date_published: 2024-10-19T21:35:25.774556+00:00
+
+ ## Human Trafficking Advocacy | Freedom Network USA
+ - [https://freedomnetworkusa.org](https://freedomnetworkusa.org)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Home | Freedom of Mobility Forum
+ - [https://freedomofmobilityforum.org](https://freedomofmobilityforum.org)
+ - date_published: 2024-05-10T04:34:13.562803+00:00
+
+ ## San Leandro, CA Lawyers and Attorneys
+ - [https://freedoms-edge.org](https://freedoms-edge.org)
+ - date_published: 2023-12-17T20:34:51+00:00
+
+ ## | Freedom to Marry
+ - [http://www.freedomtomarry.org](http://www.freedomtomarry.org)
+ - date_published: 2015-06-26T00:00:00+00:00
+
+ ## Our future. Our votes. Our democracy.
+ - [https://www.freedomtovoteact.org](https://www.freedomtovoteact.org)
+ - date_published: 2024-07-20T21:47:25.662903+00:00
+
+ ## readable.css
+ - [https://readable-css.freedomtowrite.org](https://readable-css.freedomtowrite.org)
+ - date_published: 2022-06-15T00:00:00+00:00
+
+ ## The FreeDOS Project
+ - [https://www.freedos.org](https://www.freedos.org)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Entdecken Sie die besten App-Downloads für Mac OS X auf FDM
+ - [https://de.freedownloadmanager.org](https://de.freedownloadmanager.org)
+ - date_published: 2024-07-17T14:56:51.067218+00:00
+
+ ## Most Popular Downloads for Windows on FreeDownloadManager.org
+ - [https://download.freedownloadmanager.org](https://download.freedownloadmanager.org)
+ - date_published: 2024-07-17T14:56:48.932765+00:00
+
+ ## Discover the best software downloads for Windows on FDM
+ - [https://en.freedownloadmanager.org](https://en.freedownloadmanager.org)
+ - date_published: 2024-05-14T02:45:13.825099+00:00
+
+ ## Descubre las mejores descargas de programas para Windows en FDM
+ - [https://es.freedownloadmanager.org](https://es.freedownloadmanager.org)
+ - date_published: 2024-07-17T14:56:56.884199+00:00
+
+ ## Free Download Manager - download everything from the internet
+ - [http://freedownloadmanager.org](http://freedownloadmanager.org)
+ - date_published: 2024-09-04T06:01:21.470494+00:00
+
  ## Découvrez les meilleurs logiciels pour Win en téléchargement sur FDM
  - [https://fr.freedownloadmanager.org](https://fr.freedownloadmanager.org)
  - date_published: 2024-07-17T14:56:54.905290+00:00
@@ -3998,64 +4058,4 @@ encryption
  ## The Cleveland Museum of Art Planned Giving :: Welcome
  - [https://clevelandart.giftplans.org](https://clevelandart.giftplans.org)
  - date_published: 2024-07-02T09:02:08.319880+00:00
-
- ## Environmental Defense Fund Planned Giving :: Welcome to Planned Giving
- - [https://edf.giftplans.org](https://edf.giftplans.org)
- - date_published: 2024-05-12T07:37:50.346195+00:00
-
- ## Northwell Health Foundation | Gift Planning :: Welcome to Gift Planning
- - [https://northwell.giftplans.org](https://northwell.giftplans.org)
- - date_published: 2024-07-01T16:28:27.758125+00:00
-
- ## Santa Fe Institute Planned Giving :: Gift Planning
- - [https://santafe.giftplans.org](https://santafe.giftplans.org)
- - date_published: 2024-05-07T20:23:15.254397+00:00
-
- ## Swarthmore College Gift Planning :: Gift Planning
- - [https://swarthmore.giftplans.org](https://swarthmore.giftplans.org)
- - date_published: 2024-07-01T20:48:38.876786+00:00
-
- ## The University of Alabama Planned Giving :: Planned Giving
- - [https://ua.giftplans.org](https://ua.giftplans.org)
- - date_published: 2024-07-01T22:02:52.127310+00:00
-
- ## The University of Houston Planned Giving :: Planned Giving
- - [https://uh.giftplans.org](https://uh.giftplans.org)
- - date_published: 2024-07-02T02:26:10.375715+00:00
-
- ## UNM Planned Giving :: Welcome to Gift Planning
- - [https://unmfund.giftplans.org](https://unmfund.giftplans.org)
- - date_published: 2024-07-02T05:05:47.119148+00:00
-
- ## Gigafact: Making facts ubiquitous and accessible to all
- - [https://gigafact.org](https://gigafact.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## GIGA！無料通信
- - [https://www.gigafree.org](https://www.gigafree.org)
- - date_published: 2024-04-30T06:13:14+00:00
-
- ## (no title)
- - [https://www.giga-net.org](https://www.giga-net.org)
- - date_published: 2024-10-17T22:26:12.280405+00:00
-
- ## Inclusive Infrastructure - Global Infrastructure hub
- - [https://inclusiveinfra.gihub.org](https://inclusiveinfra.gihub.org)
- - date_published: 2024-12-04T01:16:04+00:00
-
- ## Advisory Contents Page
- - [https://advisory.gijn.org](https://advisory.gijn.org)
- - date_published: 2024-08-18T19:06:01.504282+00:00
-
- ## 全球深度报道网
- - [https://cn.gijn.org](https://cn.gijn.org)
- - date_published: 2024-08-18T18:10:07+00:00
-
- ## Global Investigative Journalism Network
- - [https://gijn.org](https://gijn.org)
- - date_published: 2023-10-25T21:24:56.514394+00:00
-
- ## Home
- - [https://gilcrease.org](https://gilcrease.org)
- - date_published: 2024-05-07T00:00:00+00:00
 

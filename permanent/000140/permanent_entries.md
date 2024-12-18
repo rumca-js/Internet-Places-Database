@@ -1,3 +1,27 @@
+ ## Illustration Portfolio | LAURIE HASTINGS Illustrator and Printmaker
+ - [http://www.lauriehastings.com](http://www.lauriehastings.com)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## LAURIE ON TECH Homepage
+ - [https://laurieontech.com](https://laurieontech.com)
+ - date_published: 2022-08-05T20:55:41+00:00
+
+ ## Laurie Barth's personal website
+ - [https://timeline.laurieontech.com](https://timeline.laurieontech.com)
+ - date_published: 2024-07-14T08:28:06.130291+00:00
+
+ ## Laurinburg Exchange
+ - [https://www.laurinburgexchange.com](https://www.laurinburgexchange.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Laura Reyes | Product Designer
+ - [https://lauritisreyes.com](https://lauritisreyes.com)
+ - date_published: 2024-04-25T09:33:09+00:00
+
+ ## Home | Lausanne University Hospital
+ - [https://lausanneuniversityhospital.com](https://lausanneuniversityhospital.com)
+ - date_published: 2024-04-30T05:59:51.725109+00:00
+
  ## Lauterbach TRACE32 | JTAG Debugger & Trace Solutions
  - [https://www.lauterbach.com](https://www.lauterbach.com)
  - date_published: 2024-08-19T04:57:58.119700+00:00
@@ -4009,28 +4033,4 @@ LearnWorlds
  ## iChatWithGPT | Personal AI Assistant in iMessage
  - [https://olly.lemonsqueezy.com](https://olly.lemonsqueezy.com)
  - date_published: 2024-10-30T11:23:02+00:00
-
- ## Payments, Tax & Subscriptions for SaaS
- - [https://pictalesstore.lemonsqueezy.com](https://pictalesstore.lemonsqueezy.com)
- - date_published: 2024-10-29T18:22:56+00:00
-
- ## Polite Pop
- - [https://politepop.lemonsqueezy.com](https://politepop.lemonsqueezy.com)
- - date_published: 2024-07-11T10:46:56.730220+00:00
-
- ## Product Frameworks
- - [https://productframeworks.lemonsqueezy.com](https://productframeworks.lemonsqueezy.com)
- - date_published: 2024-06-23T02:16:31.120328+00:00
-
- ## PySaaS
- - [https://pysaas.lemonsqueezy.com](https://pysaas.lemonsqueezy.com)
- - date_published: 2024-05-06T09:18:41.495296+00:00
-
- ## QuickSEO
- - [https://quickseo.lemonsqueezy.com](https://quickseo.lemonsqueezy.com)
- - date_published: 2024-09-04T00:49:19.300139+00:00
-
- ## realvjy
- - [https://realvjy.lemonsqueezy.com](https://realvjy.lemonsqueezy.com)
- - date_published: 2024-09-14T09:32:37.173201+00:00
 

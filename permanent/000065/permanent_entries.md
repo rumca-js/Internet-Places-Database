@@ -1,3 +1,7 @@
+ ## Rath-Torhan Craftworld
+ - [http://rath-torhan.blogspot.com](http://rath-torhan.blogspot.com)
+ - date_published: 2024-10-20T04:58:54+00:00
+
  ## Ratio Ludica
  - [http://ratioludica.blogspot.com](http://ratioludica.blogspot.com)
  - date_published: 2024-07-03T02:48:54+00:00
@@ -4006,8 +4010,4 @@
  ## Spellscape Miniatures
  - [http://spellscape.blogspot.com](http://spellscape.blogspot.com)
  - date_published: 2024-07-03T02:02:03+00:00
-
- ## A Mindful Mumble
- - [https://spencerblogssometimes.blogspot.com](https://spencerblogssometimes.blogspot.com)
- - date_published: 2024-03-13T03:00:18+00:00
 

@@ -1,3 +1,7 @@
+ ## Chris Beckett's Fiction | Blog, books, stories.
+ - [http://www.chris-beckett.com](http://www.chris-beckett.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
  ## I'm Chris Beckstrom
  - [https://chrisbeckstrom.com](https://chrisbeckstrom.com)
  - date_published: 2022-03-17T00:00:00+00:00
@@ -4047,8 +4051,4 @@
  ## PassWeb
  - [https://passweb.citroen.com](https://passweb.citroen.com)
  - date_published: 2024-06-19T08:42:54.789069+00:00
-
- ## Service Box
- - [https://service.citroen.com](https://service.citroen.com)
- - date_published: 2006-11-23T00:00:00+00:00
 

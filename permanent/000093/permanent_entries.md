@@ -1,4 +1,8 @@
  ## HMI touch screen,TFT LCD display, Lcd Touch Display Panel - Dwin
+ - [http://mg.dwin-global.com](http://mg.dwin-global.com)
+ - date_published: 2024-09-21T02:45:38+00:00
+
+ ## HMI touch screen,TFT LCD display, Lcd Touch Display Panel - Dwin
  - [http://mi.dwin-global.com](http://mi.dwin-global.com)
  - date_published: 2024-09-21T02:45:40+00:00
 
@@ -4021,8 +4025,4 @@
  - [https://edaplayground.com](https://edaplayground.com)
  - date_published: 2024-09-09T20:10:36+00:00
  - tags: ['vhdl', 'verilog']
-
- ## Ed LMS · Login
- - [https://admin.edapp.com](https://admin.edapp.com)
- - date_published: 2024-10-30T16:01:07.157454+00:00
 

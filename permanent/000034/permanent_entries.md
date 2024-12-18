@@ -1,3 +1,7 @@
+ ## Spotta | Smart Insect Monitoring as a Service
+ - [https://spotta.co](https://spotta.co)
+ - date_published: 2023-10-25T12:22:25.066866+00:00
+
  ## Springloaded
  - [https://springloaded.co](https://springloaded.co)
  - date_published: 2024-09-09T19:58:43.199043+00:00
@@ -4022,8 +4026,4 @@
  ## Inicio
  - [https://javerianacali.edu.co](https://javerianacali.edu.co)
  - date_published: 2019-12-19T13:50:00+00:00
-
- ## Página de inicio del servicio de asistencia :: Pontificia Universidad Javeriana, Cali
- - [https://mesadeservicio.javerianacali.edu.co](https://mesadeservicio.javerianacali.edu.co)
- - date_published: 2024-12-09T19:09:30.765749+00:00
 

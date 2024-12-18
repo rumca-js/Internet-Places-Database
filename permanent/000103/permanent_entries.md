@@ -1,3 +1,7 @@
+ ## Our Blood Oath Wiki
+ - [https://our-blood-oath.fandom.com](https://our-blood-oath.fandom.com)
+ - date_published: 2024-06-17T20:23:05+00:00
+
  ## Our Generation Dolls Wikia
  - [https://ourgeneration.fandom.com](https://ourgeneration.fandom.com)
  - date_published: 2024-10-22T09:53:40+00:00
@@ -3995,8 +3999,4 @@
  ## Tamagotchi Wiki
  - [https://tamagotchi.fandom.com](https://tamagotchi.fandom.com)
  - date_published: 2024-06-17T00:39:46+00:00
-
- ## Tamagotchi Fanon Wiki
- - [https://tamagotchifanon.fandom.com](https://tamagotchifanon.fandom.com)
- - date_published: 2024-10-24T23:08:07+00:00
 

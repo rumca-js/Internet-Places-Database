@@ -1,3 +1,7 @@
+ ## The Axis of Eval
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - date_published: 2024-01-07T00:00:00+00:00
+
  ## World of Wonder
  - [http://aychplace.blogspot.com](http://aychplace.blogspot.com)
  - date_published: 2024-03-13T12:18:23+00:00
@@ -4011,8 +4015,4 @@
  ## Climatesense-norpag
  - [https://climatesense-norpag.blogspot.com](https://climatesense-norpag.blogspot.com)
  - date_published: 2024-06-13T15:23:29+00:00
-
- ## Blogger
- - [http://clinicalcases.blogspot.com](http://clinicalcases.blogspot.com)
- - date_published: 2024-12-15T02:48:02.554021+00:00
 

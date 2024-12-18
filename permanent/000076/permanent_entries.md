@@ -1,3 +1,7 @@
+ ## The Fig Tree Restaurant - Charlotte, NC Fine Dining
+ - [https://charlottefigtree.com](https://charlottefigtree.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## Charlotte Football Club
  - [https://charlottefootballclub.com](https://charlottefootballclub.com)
  - date_published: 2024-06-17T10:42:28.110959+00:00
@@ -4020,8 +4024,4 @@ cpc直得科技股份有限公司、直線運動、線性滑軌、滾子型線�
  ## Chris Bathgate Machined Metal Sculpture
  - [https://chrisbathgate.com](https://chrisbathgate.com)
  - date_published: 2024-05-09T07:06:38.986503+00:00
-
- ## Chris Beckett's Fiction | Blog, books, stories.
- - [http://www.chris-beckett.com](http://www.chris-beckett.com)
- - date_published: 2024-06-03T00:00:00+00:00
 

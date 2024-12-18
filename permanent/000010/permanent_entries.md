@@ -1,3 +1,7 @@
+ ## Fashion Journal | A fashion magazine for people like you
+ - [https://fashionjournal.com.au](https://fashionjournal.com.au)
+ - date_published: 2024-08-16T00:00:00+00:00
+
  ## Fat Mum Slim | Easy Family Recipes & Family Travel Guides
  - [http://fatmumslim.com.au](http://fatmumslim.com.au)
  - date_published: 2024-12-11T12:33:14.183962+00:00
@@ -3997,8 +4001,4 @@
  ## Spatial Source | news on mapping, geospatial, surveying & geo-data
  - [https://www.spatialsource.com.au](https://www.spatialsource.com.au)
  - date_published: 2024-07-08T12:52:30.722367+00:00
-
- ## Speaking Savvy - Find Your Authentic Voice
- - [https://www.speakingsavvy.com.au](https://www.speakingsavvy.com.au)
- - date_published: 2017-11-16T06:43:14+00:00
 

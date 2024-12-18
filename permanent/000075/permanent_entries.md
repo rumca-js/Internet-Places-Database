@@ -1,3 +1,7 @@
+ ## The CCP BioThreats Initiative
+ - [https://www.ccpbiothreats.com](https://www.ccpbiothreats.com)
+ - date_published: 2024-07-16T18:29:38.090085+00:00
+
  ## Comprehensive office technology solutions from CCP Solutions
  - [https://ccpcopy.com](https://ccpcopy.com)
  - date_published: 2020-07-17T14:09:09+00:00
@@ -4039,8 +4043,4 @@ Challonge
  ## Charlotte Escape Rooms | Reviews of Escape Rooms in Charlotte
  - [https://charlotteescaperooms.com](https://charlotteescaperooms.com)
  - date_published: 2024-06-17T09:21:39.324600+00:00
-
- ## The Fig Tree Restaurant - Charlotte, NC Fine Dining
- - [https://charlottefigtree.com](https://charlottefigtree.com)
- - date_published: 2024-06-20T00:00:00+00:00
 
