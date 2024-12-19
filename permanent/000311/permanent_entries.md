@@ -1,3 +1,107 @@
+ ## Citações e frases famosas: Extensa coleção de citações, frases e pensamentos
+ - [https://citacoes.in](https://citacoes.in)
+ - date_published: 2024-07-04T06:31:57.886823+00:00
+
+ ## Frases de famosos: La mayor colección de frases, citas, pensamientos y aforismos
+ - [https://citas.in](https://citas.in)
+ - date_published: 2024-07-04T06:31:53.368234+00:00
+
+ ## Citroën
+ - [https://citroen.in](https://citroen.in)
+ - date_published: 2023-12-11T16:02:57.040160+00:00
+
+ ## CivicDataLab | Data, Tech, Design, Social Science
+ - [https://civicdatalab.in](https://civicdatalab.in)
+ - date_published: 2024-07-16T11:04:01+00:00
+
+ ## Clarin.com
+ - [https://clar.in](https://clar.in)
+ - date_published: 2024-07-01T15:57:28.627351+00:00
+
+ ## Income Tax Login | Income Tax efiling in India for FY 2023-24 (AY 2024-25) | ClearTax ITR Filing
+ - [https://cleartax.in](https://cleartax.in)
+ - date_published: 2024-08-08T12:13:49.164993+00:00
+
+ ## Planet Clojure
+ - [http://planet.clojure.in](http://planet.clojure.in)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Up with People
+ - [https://uwp.cnkonline.in](https://uwp.cnkonline.in)
+ - date_published: 2024-07-12T23:25:55.892732+00:00
+
+ ## CNLABS | Certification | Interoperability | IPv6 | Security
+ - [https://cnlabs.in](https://cnlabs.in)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Condé Nast Traveller India
+ - [https://www.cntraveller.in](https://www.cntraveller.in)
+ - date_published: 2024-05-08T05:46:19.851606+00:00
+
+ ## Cock Goblins - Cockgobl.in
+ - [https://cockgobl.in](https://cockgobl.in)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Coding Memes
+ - [https://www.codeitbro.in](https://www.codeitbro.in)
+ - date_published: 2024-12-08T09:29:00+00:00
+
+ ## CodeMagnet - Your Magnetic Resource, For Coding Brilliance
+ - [https://codemagnet.in](https://codemagnet.in)
+ - date_published: 2024-07-19T23:25:46.931938+00:00
+
+ ## Inside Out
+ - [https://codito.in](https://codito.in)
+ - date_published: 2024-06-23T17:34:00.990409+00:00
+
+ ## CollegeSpace
+ - [https://collegespace.in](https://collegespace.in)
+ - date_published: 2024-07-14T10:21:09.844259+00:00
+
+ ## Collins India - Explore Publications | HarperCollins
+ - [https://collins.in](https://collins.in)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Public Cloud Services Comparison
+ - [https://comparecloud.in](https://comparecloud.in)
+ - date_published: 2022-10-27T07:31:21+00:00
+
+ ## Tutorials for GATE CSE -
+ - [https://www.computersciencejunction.in](https://www.computersciencejunction.in)
+ - date_published: 2024-06-29T19:46:14+00:00
+
+ ## ConsCent
+ - [https://api.conscent.in](https://api.conscent.in)
+ - date_published: 2024-05-01T02:03:57.098822+00:00
+
+ ## ConsCent
+ - [https://user.conscent.in](https://user.conscent.in)
+ - date_published: 2024-05-13T03:27:33.804111+00:00
+
+ ## Came for the content, stayed for the glow-up!
+ - [https://www.contentondemand.in](https://www.contentondemand.in)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## CoolHotels.in
+ - [https://coolhotels.in](https://coolhotels.in)
+ - date_published: 2024-08-08T10:51:47.219810+00:00
+
+ ## Vasudev Kamath - Random Ramblings
+ - [https://copyninja.in](https://copyninja.in)
+ - date_published: 2024-03-12T07:16:44.822138+00:00
+
+ ## Cosmopolitan India: Celebrities Lifestyle News, Beauty, Fashion and Relationship Tips
+ - [https://cosmopolitan.in](https://cosmopolitan.in)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Buy Domain and Hosting Packages for Your Website | Crazy Domains IN
+ - [https://www.crazydomains.in](https://www.crazydomains.in)
+ - date_published: 2024-06-16T08:52:07.277234+00:00
+
+ ## All your IPL questions answered, here! | Cricketpedia
+ - [https://www.cricketpedia.in](https://www.cricketpedia.in)
+ - date_published: 2024-09-18T23:18:25.942959+00:00
+
  ## Crime News : Latest क्राइम न्यूज़ In Hindi | CrimeTak
  - [https://crimetak.in](https://crimetak.in)
  - date_published: 2024-04-27T00:00:00+00:00
@@ -3927,108 +4031,4 @@ Studies  (IJELR), Indexed Journal
  ## Careers at Walnut Folks Group - Confluencr & Intent Farm
  - [https://walnutfolks.zohorecruit.in](https://walnutfolks.zohorecruit.in)
  - date_published: 2024-05-02T00:00:00+00:00
-
- ## Zombie Tracker
- - [https://zombietracker.in](https://zombietracker.in)
- - date_published: 2024-04-28T01:40:46.055846+00:00
-
- ## EcoEarth | online lighting shop
- - [http://www.ecoearth.ind.in](http://www.ecoearth.ind.in)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Sportswear for Gym, Running, and More: Activewear for Men & Women
- - [https://www.hummel.net.in](https://www.hummel.net.in)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## IJMR | International Journal
- - [http://www.ijmr.net.in](http://www.ijmr.net.in)
- - date_published: 2024-10-29T16:55:31.506286+00:00
-
- ## Welcome to www.love.net.in || Home - list of domains
- - [http://www.love.net.in](http://www.love.net.in)
- - date_published: 2024-06-29T01:58:26.863032+00:00
-
- ## Public Contribution Portal | Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India
- - [https://akam.nic.in](https://akam.nic.in)
- - date_published: 2024-04-28T01:44:53.175047+00:00
-
- ## Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India
- - [https://amritmahotsav.nic.in](https://amritmahotsav.nic.in)
- - date_published: 2023-10-25T19:31:59.115176+00:00
-
- ## Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India
- - [https://cmsadmin.amritmahotsav.nic.in](https://cmsadmin.amritmahotsav.nic.in)
- - date_published: 2024-04-28T01:44:14.468429+00:00
-
- ## Prime Ministers of India
- - [https://archivepmo.nic.in](https://archivepmo.nic.in)
- - date_published: 2020-03-18T09:47:23+00:00
-
- ## Bhavishya 9.3(05082024): (Pension Sanction & Payment Tracking System) An Initiative of D/o of Pension & Pensioners' Welfare
- - [https://bhavishya.nic.in](https://bhavishya.nic.in)
- - date_published: 2024-08-08T13:18:41.352840+00:00
-
- ## ..: BPR&D :..
- - [https://bprd.nic.in](https://bprd.nic.in)
- - date_published: 2024-08-08T13:32:02.347004+00:00
-
- ## CBSE RESULTS
- - [https://cbseresults.nic.in](https://cbseresults.nic.in)
- - date_published: 2024-05-16T11:09:18+00:00
-
- ## Central Institute of Educational Technology | A Constituent unit of NCERT
- - [https://ciet.nic.in](https://ciet.nic.in)
- - date_published: 2024-09-11T17:27:46.905501+00:00
-
- ## Home | Department of Consumer Affairs | Ministry of Consumer Affairs Food and Public Distribution | Government of India
- - [https://consumeraffairs.nic.in](https://consumeraffairs.nic.in)
- - date_published: 2024-04-28T00:27:39.517081+00:00
-
- ## CPAO – Central Pension Accounting Office
- - [https://cpao.nic.in](https://cpao.nic.in)
- - date_published: 2024-04-28T00:30:15.910301+00:00
-
- ## Central Teacher Eligibility Test  | CTET | India
- - [https://ctet.nic.in](https://ctet.nic.in)
- - date_published: 2024-08-08T12:33:57.450792+00:00
-
- ## Central Vigilance Commission
- - [https://pledge.cvc.nic.in](https://pledge.cvc.nic.in)
- - date_published: 2023-10-30T06:33:49+00:00
-
- ## Dashboard
- - [https://mib.dashboard.nic.in](https://mib.dashboard.nic.in)
- - date_published: 2024-08-08T14:13:31.271200+00:00
-
- ## delhitrafficpolice
- - [https://delhitrafficpolice.nic.in](https://delhitrafficpolice.nic.in)
- - date_published: 2024-07-20T09:13:30+00:00
-
- ## CCIS
- - [https://doptcirculars.nic.in](https://doptcirculars.nic.in)
- - date_published: 2024-08-08T18:38:40.350507+00:00
-
- ## eDaakhil - Case Filing Made Easy
- - [https://edaakhil.nic.in](https://edaakhil.nic.in)
- - date_published: 2024-05-03T07:45:53+00:00
-
- ## e-Granthalaya 4.0
- - [https://eg4.nic.in](https://eg4.nic.in)
- - date_published: 2024-03-12T09:15:17+00:00
-
- ## Integrated Government Online Directory
- - [http://goidirectory.nic.in](http://goidirectory.nic.in)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Home :: Integrated Disease Surveillance Programme (IDSP)
- - [http://idsp.nic.in](http://idsp.nic.in)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## India Code: Home
- - [https://indiacode.nic.in](https://indiacode.nic.in)
- - date_published: 2024-08-08T13:32:12.939577+00:00
-
- ## IOCL eProcurement System
- - [https://iocletenders.nic.in](https://iocletenders.nic.in)
- - date_published: 2022-05-23T07:04:52+00:00
 

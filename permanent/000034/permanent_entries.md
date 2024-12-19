@@ -1,3 +1,35 @@
+ ## Spext - Cut audio by trimming the auto generated transcript
+ - [https://app.spext.co](https://app.spext.co)
+ - date_published: 2024-08-20T10:26:07+00:00
+
+ ## Free Google Meet & Zoom meeting recorder
+ - [https://record.spext.co](https://record.spext.co)
+ - date_published: 2024-10-18T08:12:21+00:00
+
+ ## Spext
+ - [https://spext.co](https://spext.co)
+ - date_published: 2024-08-19T15:10:39+00:00
+
+ ## Spin Padel - Club de padel en Bogotá y Colombia
+ - [https://spinpadel.co](https://spinpadel.co)
+ - date_published: 2024-02-02T22:21:39+00:00
+
+ ## Doks
+ - [https://doks.spiritix.co](https://doks.spiritix.co)
+ - date_published: 2024-09-05T23:40:54.250022+00:00
+
+ ## Spiritix
+ - [https://spiritix.co](https://spiritix.co)
+ - date_published: 2024-04-30T06:15:46.488107+00:00
+
+ ## SpotAI Dashboard
+ - [https://dashboard.spotai.co](https://dashboard.spotai.co)
+ - date_published: 2024-10-12T22:32:50.025158+00:00
+
+ ## SpotHopper (static.spotapps.co)
+ - [https://static.spotapps.co](https://static.spotapps.co)
+ - date_published: 2014-04-24T22:44:18+00:00
+
  ## Spotta | Smart Insect Monitoring as a Service
  - [https://spotta.co](https://spotta.co)
  - date_published: 2023-10-25T12:22:25.066866+00:00
@@ -3994,36 +4026,4 @@
  ## Tienda Online Oficial Universidad Javeriana | Tienda Javeriana
  - [https://tienda.javeriana.edu.co](https://tienda.javeriana.edu.co)
  - date_published: 2024-06-12T03:20:22.351200+00:00
-
- ## OneGate
- - [https://auladigital.javerianacali.edu.co](https://auladigital.javerianacali.edu.co)
- - date_published: 2024-06-12T11:02:02.548800+00:00
-
- ## Consultoría | Pontificia Universidad Javeriana, Cali
- - [https://consultoria.javerianacali.edu.co](https://consultoria.javerianacali.edu.co)
- - date_published: 2024-06-12T11:02:24.778922+00:00
-
- ## Inicio
- - [https://cultural.javerianacali.edu.co](https://cultural.javerianacali.edu.co)
- - date_published: 2019-12-19T13:50:00+00:00
-
- ## Inicio de sesión - ujaveriana
- - [https://educacioncontinua.javerianacali.edu.co](https://educacioncontinua.javerianacali.edu.co)
- - date_published: 2024-09-11T16:57:31.162135+00:00
-
- ## Inicio
- - [https://emisora.javerianacali.edu.co](https://emisora.javerianacali.edu.co)
- - date_published: 2024-06-12T11:02:07.339589+00:00
-
- ## Home | Eventos Javeriana Cali
- - [https://eventos.javerianacali.edu.co](https://eventos.javerianacali.edu.co)
- - date_published: 2024-06-12T11:02:04.564915+00:00
-
- ## Sign in to your account
- - [https://forja.javerianacali.edu.co](https://forja.javerianacali.edu.co)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Inicio
- - [https://javerianacali.edu.co](https://javerianacali.edu.co)
- - date_published: 2019-12-19T13:50:00+00:00
 

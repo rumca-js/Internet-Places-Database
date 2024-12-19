@@ -1,3 +1,43 @@
+ ## Apparel, Gifts & Textbooks | The College of New Jersey Official Bookstore
+ - [https://tcnj.bncollege.com](https://tcnj.bncollege.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Apparel, Gifts & Textbooks | University of Alabama at Birmingham Bookstore
+ - [https://uab.bncollege.com](https://uab.bncollege.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Apparel, Gifts & Textbooks | University of Alaska Fairbanks
+ - [https://uaf.bncollege.com](https://uaf.bncollege.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Apparel, Gifts & Textbooks | University of Arkansas at Little Rock Bookstore
+ - [http://ualr.bncollege.com](http://ualr.bncollege.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Apparel, Gifts & Textbooks | University of Baltimore Official Bookstore
+ - [http://ubalt.bncollege.com](http://ubalt.bncollege.com)
+ - date_published: 2024-10-18T22:23:08.763255+00:00
+
+ ## Apparel, Gifts & Textbooks | University of California Riverside Bookstore
+ - [https://ucr.bncollege.com](https://ucr.bncollege.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## University of California - Riverside Apparel & Spirit Store Gifts, Spirit Apparel & Gear, Basketball Gear & Cold Weather Accessories | University of California - Riverside Apparel & Spirit Store Spirit Shop
+ - [https://ucr.spirit.bncollege.com](https://ucr.spirit.bncollege.com)
+ - date_published: 2024-07-01T23:36:49.867323+00:00
+
+ ## Apparel, Gifts & Textbooks | University of Michigan - Dearborn Bookstore
+ - [https://umd.bncollege.com](https://umd.bncollege.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## University of Michigan - Dearborn Apparel & Spirit Store Gifts, Spirit Apparel & Gear, Basketball Gear & Cold Weather Accessories | University of Michigan - Dearborn Apparel & Spirit Store Spirit Shop
+ - [https://umd.spirit.bncollege.com](https://umd.spirit.bncollege.com)
+ - date_published: 2024-07-02T03:47:01.067374+00:00
+
+ ## Apparel, Gifts & Textbooks | University of Michigan - Flint Official Bookstore
+ - [https://umflint.bncollege.com](https://umflint.bncollege.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## Apparel, Gifts & Textbooks | Official Store of the University of North Carolina
  - [https://unc.bncollege.com](https://unc.bncollege.com)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -3996,44 +4036,4 @@
  ## Botakis - Intelligent Multichannel Agent
  - [https://botakis.com](https://botakis.com)
  - date_published: 2024-10-31T10:33:14.564963+00:00
-
- ## Botany Every Day
- - [http://www.botanyeveryday.com](http://www.botanyeveryday.com)
- - date_published: 2024-07-20T10:30:17.181317+00:00
-
- ## Botasys Configurator
- - [https://app.botasys.com](https://app.botasys.com)
- - date_published: 2023-01-16T21:21:54+00:00
-
- ## Advanced 6-axis Force Torque Sensors | Bota Systems
- - [https://botasys.com](https://botasys.com)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## BotB9-AI Chatbot Trained with your Business Data
- - [https://botb9.com](https://botb9.com)
- - date_published: 2024-10-27T20:42:39+00:00
-
- ## BotBarrier - People Love Us / Bots Hate Us
- - [https://www.botbarrier.com](https://www.botbarrier.com)
- - date_published: 2024-09-23T16:51:10+00:00
-
- ## Botcast AI
- - [https://chat.botcastai.com](https://chat.botcastai.com)
- - date_published: 2024-04-11T13:59:05+00:00
-
- ## Botcopy - Chatbot Conference
- - [https://widget.botcopy.com](https://widget.botcopy.com)
- - date_published: 2024-07-23T21:13:31.990811+00:00
-
- ## Botcopy • The UI of AI
- - [https://www.botcopy.com](https://www.botcopy.com)
- - date_published: 2024-10-17T15:34:18+00:00
-
- ## BotDistrikt - UX-Focused Chatbot Platform
- - [https://www.botdistrikt.com](https://www.botdistrikt.com)
- - date_published: 2022-11-02T06:41:37+00:00
-
- ## From idea to production, BotDojo provides tools for shipping AI Applications using Large Language Models.
- - [https://www.botdojo.com](https://www.botdojo.com)
- - date_published: 2024-06-23T10:54:40+00:00
 

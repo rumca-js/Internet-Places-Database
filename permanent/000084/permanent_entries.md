@@ -1,3 +1,43 @@
+ ## Crypto Banter Bitcoin & Crypto News Lives Broadcast
+ - [https://www.cryptobanter.com](https://www.cryptobanter.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Crypto Breaking News | Latest Crypto & Bitcoin News
+ - [https://www.cryptobreaking.com](https://www.cryptobreaking.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Crypto Briefing
+ - [https://cryptobriefing.com](https://cryptobriefing.com)
+ - date_published: 2024-06-26T08:29:24.288178+00:00
+
+ ## Crypto Bulls Club - Crypto News, Reviews, Guides and Updates
+ - [https://cryptobullsclub.com](https://cryptobullsclub.com)
+ - date_published: 2023-10-25T13:37:35.155055+00:00
+
+ ## Home
+ - [http://www.cryptocanucks.com](http://www.cryptocanucks.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## 9 Best Crypto & Bitcoin Casinos in 2024
+ - [https://cryptocasinos.com](https://cryptocasinos.com)
+ - date_published: 2024-06-19T22:05:28.905609+00:00
+
+ ## 50+ Best Crypto & Bitcoin Casino Sites [2024]
+ - [https://cryptocasinos360.com](https://cryptocasinos360.com)
+ - date_published: 2024-10-18T19:33:19.230026+00:00
+
+ ## Crypto Education For Women - CryptoChicks Academy
+ - [https://cryptochicksacademy.com](https://cryptochicksacademy.com)
+ - date_published: 2021-08-19T18:32:09+00:00
+
+ ## CryptoChicks Hatchery - Cryptocurrency and Blockchain Startup Incubator - CryptoChicks Hatchery
+ - [https://cryptochickshatchery.com](https://cryptochickshatchery.com)
+ - date_published: 2020-02-21T07:24:25+00:00
+
+ ## CryptoCompare Auth API for Developers: Interact with your cryptocompare account though our auth paths.
+ - [https://auth-api.cryptocompare.com](https://auth-api.cryptocompare.com)
+ - date_published: 2016-08-27T00:00:00+00:00
+
  ## CCData
  - [https://blog.cryptocompare.com](https://blog.cryptocompare.com)
  - date_published: 2024-01-24T00:00:00+00:00
@@ -2636,6 +2676,10 @@
  - [https://cursoreffects.com](https://cursoreffects.com)
  - date_published: 2024-09-14T23:34:35.957413+00:00
 
+ ## Cursorful - Create engaging screen recordings for free
+ - [https://cursorful.com](https://cursorful.com)
+ - date_published: 2024-12-18T11:35:21.092098+00:00
+
  ## Free Cursor Downloads - Cursors-4U.com
  - [http://www.cursors-4u.com](http://www.cursors-4u.com)
  - date_published: 2024-06-27T05:01:42.115580+00:00
@@ -3987,50 +4031,4 @@
  ## Email marketing made easy | Cyberimpact
  - [https://www.cyberimpact.com](https://www.cyberimpact.com)
  - date_published: 2020-01-08T17:14:32+00:00
-
- ## Cyber Insider | Reliable cybersecurity news and resources
- - [https://cyberinsider.com](https://cyberinsider.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Cyber Intelligence Magazine | Cyber News and Information
- - [https://cyberintelmag.com](https://cyberintelmag.com)
- - date_published: 2023-05-27T00:00:00+00:00
-
- ## Home - Cyber Intelligence 4U
- - [https://cyberintelu.com](https://cyberintelu.com)
- - date_published: 2024-09-18T22:57:54.332574+00:00
-
- ## CyberITHub | Inspiring the Next Gen
- - [https://cyberithub.com](https://cyberithub.com)
- - date_published: 2023-10-25T13:40:04.009553+00:00
-
- ## Cyber Journals: Multidisciplinary Journals in Science and Technology
- - [https://cyberjournals.com](https://cyberjournals.com)
- - date_published: 2012-07-12T14:58:13+00:00
-
- ## Cyber Kendra
- - [https://cyberkendra.com](https://cyberkendra.com)
- - date_published: 2024-05-11T09:09:37.452771+00:00
- - tags: ['cybersecurity', 'news', 'hacking']
-
- ## Hack Tools
- - [https://tools.cyberkendra.com](https://tools.cyberkendra.com)
- - date_published: 2024-07-01T11:27:52+00:00
-
- ## CyberKongz Genkai
- - [https://genkai.cyberkongz.com](https://genkai.cyberkongz.com)
- - date_published: 2024-08-06T16:27:22.527835+00:00
-
- ## Welcome to an Alternate Reality - CyberKongz
- - [https://www.cyberkongz.com](https://www.cyberkongz.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Homepage
- - [https://www.cyberleadersunite.com](https://www.cyberleadersunite.com)
- - date_published: 2024-08-08T23:24:32.032444+00:00
-
- ## Cyberleads | Build new channels
-for your agency
- - [https://cyberleads.com](https://cyberleads.com)
- - date_published: 2024-10-27T12:31:22.257580+00:00
 

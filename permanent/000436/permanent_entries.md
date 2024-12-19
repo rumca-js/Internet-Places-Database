@@ -1,3 +1,215 @@
+ ## 漢翔航空工業股份有限公司
+ - [http://www.aidc.com.tw](http://www.aidc.com.tw)
+ - date_published: 2024-07-09T21:50:34.130857+00:00
+
+ ## Airbnb | 度假屋、小木屋、海邊房源等
+ - [https://airbnb.com.tw](https://airbnb.com.tw)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Altair | Discover Continuously. Advance Infinitely - Only Forward.
+ - [https://www.altair.com.tw](https://www.altair.com.tw)
+ - date_published: 2024-10-15T22:27:54+00:00
+
+ ## 亞馬遜台灣 | 跨境電商網站 | Amazon 亞馬遜全球開店
+ - [https://gs.amazon.com.tw](https://gs.amazon.com.tw)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## 主頁 | Ambarella
+ - [https://www.ambarella.com.tw](https://www.ambarella.com.tw)
+ - date_published: 2024-09-14T09:54:46.796660+00:00
+
+ ## Home
+ - [https://ametek.com.tw](https://ametek.com.tw)
+ - date_published: 2024-06-15T10:44:11.823112+00:00
+
+ ## Audi Taiwan
+ - [http://www.audi.com.tw](http://www.audi.com.tw)
+ - date_published: 2024-07-19T20:24:15+00:00
+
+ ## Blue Dragon Art Company
+ - [http://www.bluedragonart.com.tw](http://www.bluedragonart.com.tw)
+ - date_published: 2024-06-17T16:53:58.153195+00:00
+
+ ## 國家地理雜誌｜大石文化官方商城
+ - [https://www.bmall.com.tw](https://www.bmall.com.tw)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Web3+｜最好懂的區塊鏈媒體
+ - [https://web3plus.bnext.com.tw](https://web3plus.bnext.com.tw)
+ - date_published: 2024-12-16T13:05:10.265850+00:00
+
+ ## 數位時代 BusinessNext
+ - [https://www.bnext.com.tw](https://www.bnext.com.tw)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Event Go活動平台 | 你學習新知的好夥伴
+ - [https://eventgo.bnextmedia.com.tw](https://eventgo.bnextmedia.com.tw)
+ - date_published: 2024-10-20T09:26:19.088764+00:00
+
+ ## 歡迎光臨博客來
+ - [http://www.books.com.tw](http://www.books.com.tw)
+ - date_published: 2024-06-30T03:49:29.046892+00:00
+
+ ## 博世家電：品質、可靠與精確的美好體驗。
+ - [https://www.bosch-home.com.tw](https://www.bosch-home.com.tw)
+ - date_published: 2024-06-16T21:35:17.259808+00:00
+
+ ## 臺灣銀行 Bank of Taiwan
+ - [https://www.bot.com.tw](https://www.bot.com.tw)
+ - date_published: 2024-10-19T22:30:50.135408+00:00
+
+ ## CAPCOM TAIWAN
+ - [https://capcom.com.tw](https://capcom.com.tw)
+ - date_published: 2024-05-09T14:42:21.961851+00:00
+
+ ## 『ROCKMAN X DIVE』官方網站
+ - [http://rxd.capcom.com.tw](http://rxd.capcom.com.tw)
+ - date_published: 2024-10-24T09:41:12.152878+00:00
+
+ ## 醫級好膚 | 舒特膚®
+ - [https://www.cetaphil.com.tw](https://www.cetaphil.com.tw)
+ - date_published: 2024-10-30T23:02:34.359432+00:00
+
+ ## CHALLENTECH INTERNATIONAL CORP.
+ - [http://www.challentech.com.tw](http://www.challentech.com.tw)
+ - date_published: 2024-10-19T03:55:06.400480+00:00
+
+ ## 中華電信 - 5G行動上網通話、HiNet光世代寬頻上網/市話、MOD影視娛樂及智慧生活應用 | 中華電信網路門市CHT.com.tw
+ - [https://www.cht.com.tw](https://www.cht.com.tw)
+ - date_published: 2024-07-07T10:16:07.952880+00:00
+
+ ## 城邦讀書花園網路書店
+ - [http://www.cite.com.tw](http://www.cite.com.tw)
+ - date_published: 2024-06-30T07:06:59.085507+00:00
+
+ ## Citi 台灣
+ - [https://www.citibank.com.tw](https://www.citibank.com.tw)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## CITIZEN 男錶 韋禮安 代言網站
+ - [https://ambassador.citizenwatch.com.tw](https://ambassador.citizenwatch.com.tw)
+ - date_published: 2024-06-27T09:01:14+00:00
+
+ ## 主頁 | CITIZEN WATCH
+ - [https://citizenwatch.com.tw](https://citizenwatch.com.tw)
+ - date_published: 2024-05-08T05:28:55.259101+00:00
+
+ ## CITIZEN 女錶 田馥甄 代言網站
+ - [https://lady.citizenwatch.com.tw](https://lady.citizenwatch.com.tw)
+ - date_published: 2024-02-05T03:13:50+00:00
+
+ ## 歡迎來到 CITROËN 臺灣網站
+ - [https://citroen.com.tw](https://citroen.com.tw)
+ - date_published: 2024-05-08T05:30:24.170665+00:00
+
+ ## 中央社新聞學院
+ - [https://academy.cna.com.tw](https://academy.cna.com.tw)
+ - date_published: 2024-05-12T07:10:24.181349+00:00
+
+ ## 中央社 CNA
+ - [https://cna.com.tw](https://cna.com.tw)
+ - date_published: 2024-05-12T07:07:51.107899+00:00
+
+ ## 好生活
+ - [https://howlife.cna.com.tw](https://howlife.cna.com.tw)
+ - date_published: 2024-07-16T20:57:42.276407+00:00
+
+ ## 403 - 禁止: 拒絕存取。
+ - [https://imgcdn.cna.com.tw](https://imgcdn.cna.com.tw)
+ - date_published: 2024-05-12T07:10:21.433600+00:00
+
+ ## 歡迎使用 CNA Web Mail
+ - [https://mail.cna.com.tw](https://mail.cna.com.tw)
+ - date_published: 2024-07-16T20:57:50.387655+00:00
+
+ ## 淨零碳排 | 中央社 CNA
+ - [https://netzero.cna.com.tw](https://netzero.cna.com.tw)
+ - date_published: 2024-07-16T20:57:44+00:00
+
+ ## 數位專題｜中央社 CNA
+ - [https://project.cna.com.tw](https://project.cna.com.tw)
+ - date_published: 2022-06-27T02:26:36+00:00
+
+ ## 中央社客戶網頁 CNA NEWS
+ - [http://service.cna.com.tw](http://service.cna.com.tw)
+ - date_published: 2024-07-16T20:57:58.639854+00:00
+
+ ## COMPUTEX (含InnoVEX) 2024參觀登錄
+ - [https://www.computexonline.com.tw](https://www.computexonline.com.tw)
+ - date_published: 2024-06-19T23:05:41.587392+00:00
+
+ ## 台北國際電腦展
+ - [https://www.computextaipei.com.tw](https://www.computextaipei.com.tw)
+ - date_published: 2024-06-19T23:39:07.087463+00:00
+
+ ## COMPUTEX Keynote & Forum 2024
+ - [https://www.computextaipei2024.com.tw](https://www.computextaipei2024.com.tw)
+ - date_published: 2024-10-31T12:03:07.192591+00:00
+
+ ## Condé Nast TAIWAN | 康泰納仕
+ - [https://www.condenast.com.tw](https://www.condenast.com.tw)
+ - date_published: 2024-04-19T03:34:48+00:00
+
+ ## 網頁設計公司 - 網站設計公司 - Cubik
+ - [https://cubik.com.tw](https://cubik.com.tw)
+ - date_published: 2023-02-22T00:00:00+00:00
+
+ ## DATOTEK
+ - [https://www.datos.com.tw](https://www.datos.com.tw)
+ - date_published: 2024-12-14T15:24:49.575076+00:00
+
+ ## 達文西數位科技-專注排名的網頁設計服務
+ - [https://www.da-vinci.com.tw](https://www.da-vinci.com.tw)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## DBS Bank | Taiwan
+ - [https://www.dbs.com.tw](https://www.dbs.com.tw)
+ - date_published: 2024-10-07T22:39:28.976938+00:00
+
+ ## DeviseTop響應式網頁設計，客製化量身訂做、專屬風格 - 禾太國際有限公司,勤美創意設計有限公司
+ - [http://www.devisetop.com.tw](http://www.devisetop.com.tw)
+ - date_published: 2024-07-14T10:35:28.507426+00:00
+
+ ## 大侑DIET-U官方網站｜你健康的好朋友
+ - [https://www.diet-u.com.tw](https://www.diet-u.com.tw)
+ - date_published: 2024-07-04T17:32:22.645811+00:00
+
+ ## Dell Technologies
+ - [https://www.digital-transformation.com.tw](https://www.digital-transformation.com.tw)
+ - date_published: 2024-12-14T16:57:24.078681+00:00
+
+ ## DIGITIMES-首頁
+ - [https://digitimes.com.tw](https://digitimes.com.tw)
+ - date_published: 2024-10-31T12:01:37.314160+00:00
+
+ ## DIGITIMES-首页
+ - [https://gb-www.digitimes.com.tw](https://gb-www.digitimes.com.tw)
+ - date_published: 2024-12-14T15:16:15.666118+00:00
+
+ ## DIGITIMES
+ - [https://genai.digitimes.com.tw](https://genai.digitimes.com.tw)
+ - date_published: 2024-12-14T15:16:08+00:00
+
+ ## 台灣迪士尼官方網站
+ - [https://disney.com.tw](https://disney.com.tw)
+ - date_published: 2024-06-16T02:13:54.799668+00:00
+
+ ## eBay全球銷售指南 - 首頁
+ - [https://www.ebay.com.tw](https://www.ebay.com.tw)
+ - date_published: 2024-05-01T08:15:29.101406+00:00
+
+ ## 專業學術英文編修、中翻英、論文編修、論文投稿協助丨Editage 意得輯
+ - [https://www.editage.com.tw](https://www.editage.com.tw)
+ - date_published: 2024-10-29T20:42:45.127641+00:00
+
+ ## 一元素科技股份有限公司 - 一元素科技股份有限公司
+ - [http://www.e-elements.com.tw](http://www.e-elements.com.tw)
+ - date_published: 2021-05-13T04:59:26+00:00
+
+ ## EF國際文教機構 | EF海外遊學留學 | EF台灣
+ - [https://www.ef.com.tw](https://www.ef.com.tw)
+ - date_published: 2024-05-01T00:00:00+00:00
+
  ## ELTA TECHNOLOGY
  - [https://www.elta.com.tw](https://www.elta.com.tw)
  - date_published: 2024-07-07T10:16:18.705430+00:00
@@ -3796,217 +4008,4 @@
  ## Знайомства - I.UA
  - [https://love.i.ua](https://love.i.ua)
  - date_published: 2024-08-07T23:15:01.733247+00:00
-
- ## Пошта - електронна пошта з доменами @i.ua, @ua.fm і @email.ua, створіть e-mail адресу
- - [https://mail.i.ua](https://mail.i.ua)
- - date_published: 2024-08-07T23:14:44.942950+00:00
-
- ## Карта Києва онлайн
- - [https://map.i.ua](https://map.i.ua)
- - date_published: 2024-08-07T23:15:06.553839+00:00
-
- ## Пошта - електронна пошта з доменами @i.ua, @ua.fm і @email.ua, створіть e-mail адресу
- - [https://mbox.i.ua](https://mbox.i.ua)
- - date_published: 2024-08-07T23:15:03.171533+00:00
-
- ## Музика онлайн 🎧 Слухати музику безкоштовно без реєстрацій
- - [https://music.i.ua](https://music.i.ua)
- - date_published: 2024-08-07T23:14:44.035224+00:00
-
- ## Народ - I.UA
- - [https://narod.i.ua](https://narod.i.ua)
- - date_published: 2024-08-07T23:15:22.539913+00:00
-
- ## Новини України та світу онлайн
- - [https://news.i.ua](https://news.i.ua)
- - date_published: 2024-08-07T23:14:46.365530+00:00
-
- ## Шпалери для робочого столу, wallpapers, ви можете скачати шпалери безкоштовно
- - [https://oboi.i.ua](https://oboi.i.ua)
- - date_published: 2024-08-07T23:14:39.719264+00:00
-
- ## Паспорт - I.UA
- - [https://org.i.ua](https://org.i.ua)
- - date_published: 2024-08-07T23:14:40.591967+00:00
-
- ## Питання і відповіді. Постав своє питання і отримай відповіді!
- - [https://otvet.i.ua](https://otvet.i.ua)
- - date_published: 2024-08-07T23:15:05.658776+00:00
-
- ## Паспорт - I.UA
- - [https://passport.i.ua](https://passport.i.ua)
- - date_published: 2024-08-07T23:15:17.357843+00:00
-
- ## Перекладач онлайн. Переклад: англійська, російська, українська і інші мови. Онлайн перекладач текстів
- - [https://perevod.i.ua](https://perevod.i.ua)
- - date_published: 2024-08-07T23:15:04.432184+00:00
-
- ## Фото - I.UA
- - [https://photo.i.ua](https://photo.i.ua)
- - date_published: 2024-08-07T23:14:47.777489+00:00
-
- ## Приколи - картинки, відео приколи, смішні історії та анекдоти
- - [https://prikol.i.ua](https://prikol.i.ua)
- - date_published: 2024-08-07T23:15:30.182239+00:00
-
- ## Радіо онлайн - слухай безкоштовно в хорошій якості
- - [https://radio.i.ua](https://radio.i.ua)
- - date_published: 2024-08-07T23:15:18.412150+00:00
-
- ## RSS - I.UA
- - [https://rss.i.ua](https://rss.i.ua)
- - date_published: 2024-08-07T23:14:54.068019+00:00
-
- ## I.UA — твоя пошта
- - [https://touch.i.ua](https://touch.i.ua)
- - date_published: 2024-08-07T23:15:28.129203+00:00
-
- ## Телепрограма. Програма телепередач. ТБ програма онлайн на сьогодні, тиждень - I.UA
- - [https://tv.i.ua](https://tv.i.ua)
- - date_published: 2024-08-07T23:14:50.354111+00:00
-
- ## Відео приколи, безкоштовне відео, у нас можна дивитися відео онлайн
- - [https://video.i.ua](https://video.i.ua)
- - date_published: 2024-08-07T23:14:31.869362+00:00
-
- ## Погода у Києві, прогноз погоди у Києві на тиждень
- - [https://weather.i.ua](https://weather.i.ua)
- - date_published: 2024-08-07T23:14:36.689227+00:00
-
- ## Авто Інформатор - Автомобільний сайт N1 в Україні, ✅Новини. ✅Статті. ✅Огляди. ✅Тест драйви, відгуки, автоспорт, ціни на бензин, автосалони, запчастини, страховка та весь спектр догляду за автомобілем.
- - [https://avto.informator.ua](https://avto.informator.ua)
- - date_published: 2024-05-02T10:43:32.491299+00:00
-
- ## Інформатор Буча, Ірпінь, Гостомель
- - [https://big.informator.ua](https://big.informator.ua)
- - date_published: 2024-05-02T10:43:39.922325+00:00
-
- ## Новости Украины сегодня: события, происшествия
- - [https://dengi.informator.ua](https://dengi.informator.ua)
- - date_published: 2024-05-02T10:43:35.284480+00:00
-
- ## Новини Дніпра сьогодні - Дізнайся останні новини прямо зараз | Інформатор Дніпро
- - [https://dp.informator.ua](https://dp.informator.ua)
- - date_published: 2024-05-02T10:43:31.342107+00:00
-
- ## Новости Украины сегодня: события, происшествия
- - [https://fin.informator.ua](https://fin.informator.ua)
- - date_published: 2024-05-02T10:43:19.884831+00:00
-
- ## Geek.Informator
- - [https://geek.informator.ua](https://geek.informator.ua)
- - date_published: 2024-05-02T10:43:42.164304+00:00
-
- ## Інформатор Івано-Франківськ
- - [https://if.informator.ua](https://if.informator.ua)
- - date_published: 2024-05-02T10:43:27.180804+00:00
-
- ## Останні новини від редакції сайту Інформатор: теми дня, фото, відео, події.
- - [https://informator.ua](https://informator.ua)
- - date_published: 2024-02-24T00:02:37.752919+00:00
-
- ## Інформатор Калуш
- - [https://kalush.informator.ua](https://kalush.informator.ua)
- - date_published: 2024-05-02T10:43:36.826662+00:00
-
- ## Новини Києва сьогодні: події, події, афіша Києва
- - [https://kiev.informator.ua](https://kiev.informator.ua)
- - date_published: 2024-05-02T10:43:24.001422+00:00
-
- ## Інформатор Коломия
- - [https://kl.informator.ua](https://kl.informator.ua)
- - date_published: 2024-05-02T10:43:43.647077+00:00
-
- ## Новини Кривого Рогу сьогодні: події, події
- - [https://kr.informator.ua](https://kr.informator.ua)
- - date_published: 2024-05-02T10:43:17.339560+00:00
-
- ## Легкі новини: Все про шоу-бізнес, стиль, моду, фільми | Інформатор
- - [https://lite.informator.ua](https://lite.informator.ua)
- - date_published: 2024-05-02T10:43:16.268230+00:00
-
- ## Новости Украины сегодня: события, происшествия
- - [https://money.informator.ua](https://money.informator.ua)
- - date_published: 2024-06-17T17:14:42.889117+00:00
-
- ## Головна
- - [https://nikopol.informator.ua](https://nikopol.informator.ua)
- - date_published: 2024-05-02T10:43:29.130182+00:00
-
- ## Інформатор Україна - Ваш інформаційний партнер, топ 1 медіа в Україні
- - [https://promo.informator.ua](https://promo.informator.ua)
- - date_published: 2024-10-17T06:25:07.569368+00:00
-
- ## Новини Переяслава сьогодні: події, життя міста
- - [https://ps.informator.ua](https://ps.informator.ua)
- - date_published: 2024-05-02T10:43:41.195254+00:00
-
- ## Новини спорту сьогодні
- - [https://sport.informator.ua](https://sport.informator.ua)
- - date_published: 2024-05-02T10:43:14.587553+00:00
-
- ## Останні новини від редакції сайту Інформатор: теми дня, фото, відео, події.
- - [https://tech.informator.ua](https://tech.informator.ua)
- - date_published: 2024-06-17T17:12:55.446919+00:00
-
- ## EMEA region - English
- - [https://www.ingredion.ua](https://www.ingredion.ua)
- - date_published: 2024-10-14T17:17:02+00:00
-
- ## Агенція digital-маркетингу Inweb | Експерти в SEO, PPC, SMM | Комплексні рішення для вашого бізнесу
- - [https://inweb.ua](https://inweb.ua)
- - date_published: 2024-06-30T09:27:28.865549+00:00
-
- ## Последние новости в сфере технологий, науки и кино на ITC.ua
- - [https://itc.ua](https://itc.ua)
- - date_published: 2024-09-25T16:16:34+00:00
-
- ## Головна
- - [https://ivona.ua](https://ivona.ua)
- - date_published: 1998-12-31T22:00:00+00:00
-
- ## Jam Factory Art Center – Арт Центр "Фабрика Повидла"
- - [https://jamfactory.ua](https://jamfactory.ua)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Software Engineer: agi, mobile, web, server — Joshua
- - [https://josh.ua](https://josh.ua)
- - date_published: 2024-05-31T16:59:11+00:00
-
- ## Kernel
- - [https://www.kernel.ua](https://www.kernel.ua)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## KitSoft - IT for government and business
- - [https://kitsoft.ua](https://kitsoft.ua)
- - date_published: 2024-10-19T23:13:20.687608+00:00
-
- ## Головна
- - [https://kolobok.ua](https://kolobok.ua)
- - date_published: 2016-12-31T22:00:00+00:00
-
- ## Konecranes
- - [https://ru.konecranes.ua](https://ru.konecranes.ua)
- - date_published: 2024-06-20T23:12:50.436034+00:00
-
- ## Konecranes
- - [https://ua.konecranes.ua](https://ua.konecranes.ua)
- - date_published: 2024-06-20T22:57:35.152138+00:00
-
- ## Cierpliwości...
- - [https://lviv.kontramarka.ua](https://lviv.kontramarka.ua)
- - date_published: 2024-07-01T08:03:06.900304+00:00
-
- ## Kyiv School of Economics
- - [http://kse.ua](http://kse.ua)
- - date_published: 2024-07-22T07:50:49+00:00
-
- ## Квертус — український виробник засобів РЕБ та РЕР
- - [https://kvertus.ua](https://kvertus.ua)
- - date_published: 2024-05-02T10:42:43.684699+00:00
-
- ## Онлайн-кінотеатр Київстар ТБ - дивитись онлайн фільми, канали, серіали в хорошій якості
- - [https://tv.kyivstar.ua](https://tv.kyivstar.ua)
- - date_published: 2024-10-31T14:27:25+00:00
- - tags: ['piracy']
 

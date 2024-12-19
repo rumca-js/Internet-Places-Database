@@ -1,3 +1,106 @@
+ ## Qxir
+ - [https://www.youtube.com/channel/UCGHDQtN_vzFYJaq_Fx1eikg](https://www.youtube.com/channel/UCGHDQtN_vzFYJaq_Fx1eikg)
+ - date_published: 2024-12-04T21:29:34+00:00
+
+ ## Project Veritas
+ - [https://www.youtube.com/channel/UCL9PlYkRD3Q-RZca6CCnPKw](https://www.youtube.com/channel/UCL9PlYkRD3Q-RZca6CCnPKw)
+ - date_published: 2024-12-04T21:29:40+00:00
+ - tags: ['the right wing', 'conservative']
+
+ ## Programmers are also human
+ - [https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w](https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w)
+ - date_published: 2024-12-04T21:29:55+00:00
+ - tags: ['comedy', 'programming', 'satire']
+
+ ## Prime Video
+ - [https://www.youtube.com/channel/UCQJWtTnAHhEG5w4uN0udnUQ](https://www.youtube.com/channel/UCQJWtTnAHhEG5w4uN0udnUQ)
+ - date_published: 2024-12-04T21:30:29+00:00
+ - tags: ['movies']
+
+ ## PrestonPlayz
+ - [https://www.youtube.com/channel/UCJZam2u1G0syq3kyqrCXrNw](https://www.youtube.com/channel/UCJZam2u1G0syq3kyqrCXrNw)
+ - date_published: 2024-12-04T21:30:40+00:00
+ - tags: ['minecraft']
+
+ ## Pitch Meeting
+ - [https://www.youtube.com/channel/UC9Kq-yEt1iYsbUzNOoIRK0g](https://www.youtube.com/channel/UC9Kq-yEt1iYsbUzNOoIRK0g)
+ - date_published: 2024-12-04T21:30:55+00:00
+ - tags: ['movies', 'comedy']
+
+ ## Salvatore Ganacci
+ - [https://www.youtube.com/channel/UCyseFvMP4mZVlU5iEEbAamA](https://www.youtube.com/channel/UCyseFvMP4mZVlU5iEEbAamA)
+ - date_published: 2024-12-04T21:31:38+00:00
+ - tags: ['music artist']
+
+ ## Ryan Long
+ - [https://www.youtube.com/channel/UCzKFvBRI6VT3jYJq6a820nA](https://www.youtube.com/channel/UCzKFvBRI6VT3jYJq6a820nA)
+ - date_published: 2024-12-04T21:32:10+00:00
+ - tags: ['comedy']
+
+ ## Russell Brand
+ - [https://www.youtube.com/channel/UCswH8ovgUp5Bdg-0_JTYFNw](https://www.youtube.com/channel/UCswH8ovgUp5Bdg-0_JTYFNw)
+ - date_published: 2024-12-04T21:32:34+00:00
+ - tags: ['the right wing', 'politics']
+
+ ## Ryan Reynolds
+ - [https://www.youtube.com/channel/UCA3-nIYWu4PTWkb6NwhEpzg](https://www.youtube.com/channel/UCA3-nIYWu4PTWkb6NwhEpzg)
+ - date_published: 2024-12-04T21:32:41+00:00
+ - tags: ['comedy']
+
+ ## Rotten Tomatoes Trailers
+ - [https://www.youtube.com/channel/UCi8e0iOVk1fEOogdfu4YgfA](https://www.youtube.com/channel/UCi8e0iOVk1fEOogdfu4YgfA)
+ - date_published: 2024-12-04T21:32:57+00:00
+ - tags: ['movies']
+
+ ## Roosevelt
+ - [https://www.youtube.com/channel/UCqqY6fzyLY3OmdjYRe2eJAg](https://www.youtube.com/channel/UCqqY6fzyLY3OmdjYRe2eJAg)
+ - date_published: 2024-12-04T21:33:45+00:00
+ - tags: ['music', 'music artist']
+
+ ## Rob Braxman Tech
+ - [https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw](https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw)
+ - date_published: 2024-12-04T21:33:50+00:00
+ - tags: ['tech', 'privacy']
+
+ ## Red Means Recording
+ - [https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ](https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ)
+ - date_published: 2024-12-04T21:34:05+00:00
+ - tags: ['music']
+
+ ## The Cherno
+ - [https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
+ - date_published: 2024-12-04T21:35:29+00:00
+ - tags: ['game development']
+
+ ## Techquickie
+ - [https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
+ - date_published: 2024-12-04T21:36:02+00:00
+ - tags: ['tech news']
+
+ ## Technology Connections
+ - [https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q)
+ - date_published: 2024-12-04T21:36:07+00:00
+
+ ## The B1M
+ - [https://www.youtube.com/channel/UC6n8I1UDTKP1IWjQMg6_TwA](https://www.youtube.com/channel/UC6n8I1UDTKP1IWjQMg6_TwA)
+ - date_published: 2024-12-04T21:36:27+00:00
+ - tags: ['engineering']
+
+ ## Techlore
+ - [https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg](https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg)
+ - date_published: 2024-12-04T21:37:01+00:00
+ - tags: ['privacy']
+
+ ## TechAltar
+ - [https://www.youtube.com/channel/UCtZO3K2p8mqFwiKWb9k7fXA](https://www.youtube.com/channel/UCtZO3K2p8mqFwiKWb9k7fXA)
+ - date_published: 2024-12-04T21:37:54+00:00
+ - tags: ['tech news']
+
+ ## Sydney Watson
+ - [https://www.youtube.com/channel/UCSFy-1JrpZf0tFlRZfo-Rvw](https://www.youtube.com/channel/UCSFy-1JrpZf0tFlRZfo-Rvw)
+ - date_published: 2024-12-04T21:38:36+00:00
+ - tags: ['the right wing', 'conservative']
+
  ## Abundantia
  - [https://www.youtube.com/channel/UC9lKBRxxsDIarUmNaPe0h0Q](https://www.youtube.com/channel/UC9lKBRxxsDIarUmNaPe0h0Q)
  - date_published: 2024-12-04T21:39:21+00:00
@@ -4091,88 +4194,4 @@
  ## Ravelin
  - [https://ravelin.zendesk.com](https://ravelin.zendesk.com)
  - date_published: 2016-07-05T00:00:00+00:00
-
- ## Raw Story
- - [https://rawstory.zendesk.com](https://rawstory.zendesk.com)
- - date_published: 2024-09-16T07:32:34.739735+00:00
-
- ## Brighteon.com
- - [https://realvideo.zendesk.com](https://realvideo.zendesk.com)
- - date_published: 2024-07-03T18:44:56.167141+00:00
-
- ## Rebellion Games Support
- - [https://rebeldev.zendesk.com](https://rebeldev.zendesk.com)
- - date_published: 2024-07-21T02:58:58.812981+00:00
-
- ## Rec Room Help Center
- - [https://recroom.zendesk.com](https://recroom.zendesk.com)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Recurly
- - [https://recurly.zendesk.com](https://recurly.zendesk.com)
- - date_published: 2024-09-18T10:16:22.087602+00:00
-
- ## Cierpliwości...
- - [https://reddit.zendesk.com](https://reddit.zendesk.com)
- - date_published: 2024-04-28T04:09:40.296244+00:00
-
- ## Support
- - [https://redgatesupport.zendesk.com](https://redgatesupport.zendesk.com)
- - date_published: 2014-05-02T00:00:00+00:00
-
- ## Culture Archives - Zendesk
- - [https://relate.zendesk.com](https://relate.zendesk.com)
- - date_published: 2022-12-16T11:49:18+00:00
-
- ## Render
- - [https://render.zendesk.com](https://render.zendesk.com)
- - date_published: 2024-08-08T16:56:02.906977+00:00
-
- ## Replit
- - [https://replit9268.zendesk.com](https://replit9268.zendesk.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Responsible Man
- - [https://responsibleman.zendesk.com](https://responsibleman.zendesk.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Revolut
- - [https://revolut.zendesk.com](https://revolut.zendesk.com)
- - date_published: 2024-08-07T03:23:25.545626+00:00
-
- ## Rev.com Help Center
- - [https://rev.zendesk.com](https://rev.zendesk.com)
- - date_published: 2024-08-07T03:50:51.259199+00:00
-
- ## Red Gate CORE Services
- - [https://rgcoreservices.zendesk.com](https://rgcoreservices.zendesk.com)
- - date_published: 2024-06-29T11:19:41.877546+00:00
-
- ## Rhino Store
- - [https://rhinostoresupport.zendesk.com](https://rhinostoresupport.zendesk.com)
- - date_published: 2024-08-07T11:39:28.021157+00:00
-
- ## Riot Games Support
- - [https://riotgames-landing.zendesk.com](https://riotgames-landing.zendesk.com)
- - date_published: 2024-08-07T02:38:56.365213+00:00
-
- ## League of Legends Support
- - [https://riotgames.zendesk.com](https://riotgames.zendesk.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Roblox Support
- - [https://roblox.zendesk.com](https://roblox.zendesk.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Rocketbook Help Center
- - [https://rocketbookhelp.zendesk.com](https://rocketbookhelp.zendesk.com)
- - date_published: 2018-03-26T00:00:00+00:00
-
- ## Roll20 Help Center
- - [https://roll20.zendesk.com](https://roll20.zendesk.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Sailthru
- - [https://sailthru.zendesk.com](https://sailthru.zendesk.com)
- - date_published: 2024-10-14T11:53:44.124090+00:00
 

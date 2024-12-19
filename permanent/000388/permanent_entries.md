@@ -1,3 +1,168 @@
+ ## Jacobo Nájera | Tecnólogo
+ - [https://www.jacobo.org](https://www.jacobo.org)
+ - date_published: 2024-12-12T08:51:28.289147+00:00
+
+ ## Homepage - Jacobs Foundation
+ - [https://jacobsfoundation.org](https://jacobsfoundation.org)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Jacobs Institute | Leading The Way In Vascular Innovation, Education, & Device Development
+ - [https://jacobsinstitute.org](https://jacobsinstitute.org)
+ - date_published: 2023-12-12T00:00:00+00:00
+
+ ## Jacob's Pillow Dance
+ - [https://www.jacobspillow.org](https://www.jacobspillow.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## JACoW
+ - [http://www.jacow.org](http://www.jacow.org)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Home - Jagah
+ - [https://jagah.org](https://jagah.org)
+ - date_published: 2024-07-14T23:18:46.683755+00:00
+
+ ## Domů | Jagello 2000
+ - [https://www.jagello.org](https://www.jagello.org)
+ - date_published: 2024-12-13T22:54:18+00:00
+
+ ## FrontPage - ICPC OB/OG の会
+ - [https://jag-icpc.org](https://jag-icpc.org)
+ - date_published: 2024-06-22T21:05:46.087230+00:00
+
+ ## Jailhouse Lawyers Handbook
+ - [http://jailhouselaw.org](http://jailhouselaw.org)
+ - date_published: 2021-09-29T19:15:41+00:00
+
+ ## Jaimie Alexander Web
+ - [http://jaimie-alexander.org](http://jaimie-alexander.org)
+ - date_published: 2024-09-04T02:48:34.618134+00:00
+
+ ## Welcome to JAINISM.ORG
+ - [http://www.jainism.org](http://www.jainism.org)
+ - date_published: 2005-12-09T03:57:48+00:00
+
+ ## Home - Jaipur Literature Festival
+ - [https://jaipurliteraturefestival.org](https://jaipurliteraturefestival.org)
+ - date_published: 2013-09-17T04:59:00+00:00
+
+ ## Journal of Artificial Intelligence Research
+ - [https://jair.org](https://jair.org)
+ - date_published: 2024-07-19T19:07:01.298411+00:00
+
+ ## JakartaOne Live | Jakarta EE Software | Cloud Native | The Eclipse Foundation
+ - [https://jakartaone.org](https://jakartaone.org)
+ - date_published: 2024-05-07T22:55:18.339046+00:00
+
+ ## Jake Donham
+ - [https://jaked.org](https://jaked.org)
+ - date_published: 2022-05-24T18:31:32+00:00
+
+ ## Blog of Julian Andres Klode
+ - [https://blog.jak-linux.org](https://blog.jak-linux.org)
+ - date_published: 2024-05-14T00:00:00+00:00
+ - tags: ['personal']
+
+ ## NPO The Japan Association for Language Teaching (JALT) | Learning to Teach, Teaching to Learn
+ - [http://hosted.jalt.org](http://hosted.jalt.org)
+ - date_published: 2024-09-02T14:27:34+00:00
+
+ ## NPO The Japan Association for Language Teaching (JALT) | Learning to Teach, Teaching to Learn
+ - [http://jalt.org](http://jalt.org)
+ - date_published: 2024-09-02T14:27:34+00:00
+
+ ## Publications of the Japan Association for Language Teaching | JALT Publications
+ - [http://jalt-publications.org](http://jalt-publications.org)
+ - date_published: 2024-09-02T16:31:20.734515+00:00
+
+ ## JALT Sendai
+ - [https://www.jaltsendai.org](https://www.jaltsendai.org)
+ - date_published: 2024-05-29T04:08:47.056434+00:00
+
+ ## HS Jamaica Gateway to the Sciences
+ - [https://www.jamaicagateway.org](https://www.jamaicagateway.org)
+ - date_published: 2024-08-19T19:18:31.640398+00:00
+
+ ## James Beard Foundation
+ - [https://jamesbeard.org](https://jamesbeard.org)
+ - date_published: 2024-05-12T05:01:31.048699+00:00
+
+ ## Międzynarodowy konkurs projektowania | Nagroda Jamesa Dysona
+ - [https://jamesdysonaward.org](https://jamesdysonaward.org)
+ - date_published: 2023-10-25T21:33:26.040445+00:00
+
+ ## James木屋
+ - [https://jamesland.org](https://jamesland.org)
+ - date_published: 2024-12-04T05:22:10+00:00
+
+ ## James Mead
+ - [http://jamesmead.org](http://jamesmead.org)
+ - date_published: 2022-11-01T00:00:00+00:00
+
+ ## File: README
+  
+    — Mocha 2.4.5
+ - [https://mocha.jamesmead.org](https://mocha.jamesmead.org)
+ - date_published: 2024-07-30T10:30:20+00:00
+
+ ## James Lawrence Powell
+ - [http://jamespowell.org](http://jamespowell.org)
+ - date_published: 2024-05-07T15:00:19.018980+00:00
+
+ ## Homepage
+ - [https://jamestown.org](https://jamestown.org)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## James Yu
+ - [https://www.jamesyu.org](https://www.jamesyu.org)
+ - date_published: 2022-11-06T20:40:48+00:00
+
+ ## Jamie Reid
+ - [http://www.jamiereid.org](http://www.jamiereid.org)
+ - date_published: 2024-12-13T04:12:07.228227+00:00
+
+ ## For fast and secure sites | Jamstack
+ - [https://jamstack.org](https://jamstack.org)
+ - date_published: 2024-04-29T03:11:08.998553+00:00
+
+ ## Welcome | Open Janastu
+ - [https://open.janastu.org](https://open.janastu.org)
+ - date_published: 2024-09-14T08:53:57.737456+00:00
+
+ ## Janelia Research Campus
+ - [https://www.janelia.org](https://www.janelia.org)
+ - date_published: 2024-06-20T19:24:49+00:00
+
+ ## Janet Programming Language
+ - [https://janet-lang.org](https://janet-lang.org)
+ - date_published: 2023-10-25T21:33:27.778151+00:00
+ - tags: ['janet', 'programming language']
+
+ ## Jakub T. Jankiewicz - Web Developer
+ - [https://jakub.jankiewicz.org](https://jakub.jankiewicz.org)
+ - date_published: 2024-04-03T12:49:33.390976+00:00
+ - tags: ['personal']
+
+ ## Homepage | Japanese American National Museum
+ - [https://janm.org](https://janm.org)
+ - date_published: 2024-08-06T19:36:19+00:00
+
+ ## Joint Army Navy NASA Air Force | Interagency Propulsion Committee
+ - [https://jannaf.org](https://jannaf.org)
+ - date_published: 2024-07-09T10:01:36.980511+00:00
+
+ ## JanusGraph
+ - [https://janusgraph.org](https://janusgraph.org)
+ - date_published: 2024-02-29T17:08:28+00:00
+
+ ## Janus Youth Programs
+ - [https://www.janusyouth.org](https://www.janusyouth.org)
+ - date_published: 2024-07-12T19:52:27.902407+00:00
+
+ ## Jan Vitek @ NEU
+ - [http://janvitek.org](http://janvitek.org)
+ - date_published: 2024-07-29T16:09:32+00:00
+
  ## Japanese Art Society of America – Japanese Art Society of America promotes the study and appreciation of Japanese art internationally.
  - [http://www.japaneseartsoc.org](http://www.japaneseartsoc.org)
  - date_published: 2024-09-04T10:54:25.306353+00:00
@@ -3900,167 +4065,4 @@ Resources
  ## KDE - Experience Freedom!
  - [https://files.kde.org](https://files.kde.org)
  - date_published: 2024-04-29T00:00:00+00:00
-
- ## KDE Discuss
- - [https://forum.kde.org](https://forum.kde.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## ghostwriter - No excuses. No distractions. Just write.
- - [https://ghostwriter.kde.org](https://ghostwriter.kde.org)
- - date_published: 2023-12-08T10:21:41+00:00
-
- ## Index of /
- - [https://go.kde.org](https://go.kde.org)
- - date_published: 2023-12-08T00:00:00+00:00
-
- ## KDE Localization - KDE Localization
- - [http://i18n.kde.org](http://i18n.kde.org)
- - date_published: 2024-07-09T12:19:08.897512+00:00
-
- ## Explore groups · GitLab
- - [https://invent.kde.org](https://invent.kde.org)
- - date_published: 2023-10-25T21:36:04.476762+00:00
-
- ## Donate and support KDE
- - [https://jointhegame.kde.org](https://jointhegame.kde.org)
- - date_published: 2024-05-04T14:31:18.947846+00:00
-
- ## Home - KDE Community
- - [https://kde.org](https://kde.org)
- - date_published: 2023-10-25T21:36:06.463462+00:00
- - tags: ['kde', 'open source', 'linux desktop environment', 'linux']
-
- ## kdesrc-build
- - [https://kdesrc-build.kde.org](https://kdesrc-build.kde.org)
- - date_published: 2024-05-07T14:57:46.329336+00:00
-
- ## Kid3 - Audio Tagger
- - [https://kid3.kde.org](https://kid3.kde.org)
- - date_published: 2024-09-21T00:00:00+00:00
-
- ## Kontact Suite - The Powerful PIM Solution
- - [https://kontact.kde.org](https://kontact.kde.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Konversation
- - [https://konversation.kde.org](https://konversation.kde.org)
- - date_published: 2024-02-23T08:57:52+00:00
-
- ## KStars - Desktop Planetarium
- - [https://kstars.kde.org](https://kstars.kde.org)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## KDE Localization - KDE Localization
- - [https://l10n.kde.org](https://l10n.kde.org)
- - date_published: 2024-06-30T02:17:27.304541+00:00
-
- ## LabPlot – Scientific plotting and data analysis
- - [https://labplot.kde.org](https://labplot.kde.org)
- - date_published: 2024-07-04T19:46:21.889479+00:00
-
- ## LaKademy | Latin America KDE Summit
- - [https://lakademy.kde.org](https://lakademy.kde.org)
- - date_published: 2023-12-08T09:35:38+00:00
-
- ## mail.kde.org Mailing Lists
- - [https://lists.kde.org](https://lists.kde.org)
- - date_published: 2024-05-08T09:06:09.797473+00:00
-
- ## KDE Mailing Lists - KDE Community
- - [https://mail.kde.org](https://mail.kde.org)
- - date_published: 2023-10-25T21:36:08.509574+00:00
-
- ## The KDE Manifesto
- - [https://manifesto.kde.org](https://manifesto.kde.org)
- - date_published: 2023-12-08T10:25:27+00:00
-
- ## Marble - find your way and explore the world
- - [https://marble.kde.org](https://marble.kde.org)
- - date_published: 2024-06-17T03:17:19.609137+00:00
- - tags: ['earth']
-
- ## BigBlueButton
- - [https://meet.kde.org](https://meet.kde.org)
- - date_published: 2024-05-02T11:41:50.424693+00:00
-
- ## KDE neon
- - [https://neon.kde.org](https://neon.kde.org)
- - date_published: 2024-05-04T14:31:22.178718+00:00
-
- ## Okular - The Universal Document Viewer
- - [https://okular.kde.org](https://okular.kde.org)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Home
- - [https://phabricator.kde.org](https://phabricator.kde.org)
- - date_published: 2024-05-04T14:31:23.109745+00:00
-
- ## Planet KDE
- - [https://planet.kde.org](https://planet.kde.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Explore groups · GitLab
- - [https://projects.kde.org](https://projects.kde.org)
- - date_published: 2024-05-08T09:30:31.753485+00:00
-
- ## Sign in - Matomo
- - [https://stats.kde.org](https://stats.kde.org)
- - date_published: 2024-06-28T18:29:56.502677+00:00
-
- ## Browse  Latest | https://store.kde.org/browse/
- - [https://store.kde.org](https://store.kde.org)
- - date_published: 2023-11-05T10:28:13.360219+00:00
-
- ## Welcome to KDE TechBase - KDE TechBase
- - [https://techbase.kde.org](https://techbase.kde.org)
- - date_published: 2024-06-21T23:53:17.766998+00:00
-
- ## A 27 year timeline of KDE events
- - [https://timeline.kde.org](https://timeline.kde.org)
- - date_published: 2024-03-14T03:09:32+00:00
-
- ## KDE UserBase Wiki
- - [https://userbase.kde.org](https://userbase.kde.org)
- - date_published: 2024-04-25T10:20:08+00:00
-
- ## Element
- - [https://webchat.kde.org](https://webchat.kde.org)
- - date_published: 2024-05-08T09:05:56.435200+00:00
-
- ## [KDE] Index of /
- - [http://websvn.kde.org](http://websvn.kde.org)
- - date_published: 2024-06-22T22:09:03.968565+00:00
-
- ## KDE Wikis
- - [http://wiki.kde.org](http://wiki.kde.org)
- - date_published: 2023-12-08T09:44:05+00:00
-
- ## Browse  Latest | https://store.kde.org/browse/
- - [http://kde-apps.org](http://kde-apps.org)
- - date_published: 2024-08-18T19:27:22.889568+00:00
-
- ## KDE ESPAÑA - Asociación cultural KDE España
- - [https://www.kde-espana.org](https://www.kde-espana.org)
- - date_published: 2024-07-07T03:35:51.746442+00:00
-
- ## Index of /
- - [https://static.kdenews.org](https://static.kdenews.org)
- - date_published: 2023-02-19T00:00:00+00:00
-
- ## Kdenlive Manual — Kdenlive Manual 24.05 documentation
- - [https://docs.kdenlive.org](https://docs.kdenlive.org)
- - date_published: 2024-06-04T16:09:19+00:00
-
- ## Kdenlive - Video Editing Freedom
- - [https://kdenlive.org](https://kdenlive.org)
- - date_published: 2024-03-09T00:00:00+00:00
- - tags: ['open source', 'video editor']
-
- ## KDevelop - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP
- - [https://kdevelop.org](https://kdevelop.org)
- - date_published: 2020-12-11T00:00:00+00:00
-
- ## Home - KDHX
- - [https://api.kdhx.org](https://api.kdhx.org)
- - date_published: 2024-07-15T12:12:09+00:00
 

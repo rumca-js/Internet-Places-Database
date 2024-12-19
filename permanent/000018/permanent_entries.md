@@ -1,3 +1,15 @@
+ ## Capterra Canada vous aide à trouver le bon logiciel pour votre entreprise
+ - [https://fr.capterra.ca](https://fr.capterra.ca)
+ - date_published: 2024-07-20T19:26:39.650905+00:00
+
+ ## Billetterie - Football 2024 - Carabins
+ - [http://carabinsfootball.ca](http://carabinsfootball.ca)
+ - date_published: 2024-08-06T17:05:13+00:00
+
+ ## Imagination Toward a Thriving Society | Cardus
+ - [https://www.cardus.ca](https://www.cardus.ca)
+ - date_published: 2024-07-05T00:00:00+00:00
+
  ## Dr. Carin Bondar - Biologist with a Twist
  - [https://carinbondar.ca](https://carinbondar.ca)
  - date_published: 2024-10-19T06:26:22.302932+00:00
@@ -4023,16 +4035,4 @@
  ## lolcat's website
  - [https://lolcat.ca](https://lolcat.ca)
  - date_published: 2024-10-27T12:11:52.621388+00:00
-
- ## Commercial Real Estate for Sale & Lease in Canada | LoopNet.ca
- - [https://loopnet.ca](https://loopnet.ca)
- - date_published: 2024-05-12T07:41:00.330334+00:00
-
- ## Lorimer
- - [http://www.lorimer.ca](http://www.lorimer.ca)
- - date_published: 2024-08-17T11:36:40+00:00
-
- ## L. Ron Hubbard - Scientology & Dianetics Founder
- - [https://www.lronhubbard.ca](https://www.lronhubbard.ca)
- - date_published: 2024-06-06T19:38:31.754675+00:00
 

@@ -1,3 +1,39 @@
+ ## Building brands with cultural impact | Base Design
+ - [https://www.basedesign.com](https://www.basedesign.com)
+ - date_published: 2024-06-25T21:16:28.688591+00:00
+
+ ## Based In - Co-working Space for creative entrepreneurs
+ - [https://basedin.com](https://basedin.com)
+ - date_published: 2024-06-17T04:05:53.947631+00:00
+
+ ## Based In
+ - [https://members.basedin.com](https://members.basedin.com)
+ - date_published: 2024-10-16T17:18:01.937202+00:00
+
+ ## based underground
+ - [https://basedunderground.com](https://basedunderground.com)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Fast, Collaborative, AI-Native Content Management — BaseHub
+ - [https://basehub.com](https://basehub.com)
+ - date_published: 2024-07-22T17:17:57.351272+00:00
+
+ ## The network service provider | Base IP
+ - [https://baseip.com](https://baseip.com)
+ - date_published: 2023-03-27T12:42:40+00:00
+
+ ## Sign up to Baselane
+ - [https://app.baselane.com](https://app.baselane.com)
+ - date_published: 2024-09-09T18:04:41+00:00
+
+ ## Free Landlord Software - Banking, Accounting & Rent Collection | Baselane
+ - [https://baselane.com](https://baselane.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Baselane
+ - [https://support.baselane.com](https://support.baselane.com)
+ - date_published: 2024-08-15T00:00:00+00:00
+
  ## The Baseline Scenario
  - [http://baselinescenario.com](http://baselinescenario.com)
  - date_published: 2024-06-20T03:46:39.520784+00:00
@@ -3982,40 +4018,4 @@
  ## Kind Commerce
  - [https://bekindcommerce.com](https://bekindcommerce.com)
  - date_published: 2024-04-30T05:48:14.549847+00:00
-
- ## PCLinuxOS - Daykonun mekanı
- - [http://www.bekozap.com](http://www.bekozap.com)
- - date_published: 2024-06-30T07:58:34.192137+00:00
-
- ## BEK Communications – Internet, Phone, TV, Cloud, Broadcasting
- - [https://www.bektel.com](https://www.bektel.com)
- - date_published: 2024-06-27T14:58:52+00:00
-
- ## Bekum Maschinenfabrik GmbH - Home
- - [https://www.bekum.com](https://www.bekum.com)
- - date_published: 2024-12-12T15:41:15.850438+00:00
-
- ## Belah Beauty
- - [https://belahbeauty.com](https://belahbeauty.com)
- - date_published: 2024-09-10T22:36:46.338715+00:00
-
- ## Car & Home Insurance Quotes | belairdirect
- - [https://www.belairdirect.com](https://www.belairdirect.com)
- - date_published: 2024-07-19T18:37:07+00:00
-
- ## SP Bel-Art | Labware | Glassware | Scientific Products
- - [http://www.belart.com](http://www.belart.com)
- - date_published: 2024-09-02T15:28:14.468804+00:00
-
- ## BELARUS DOCS
- - [https://www.belarusdocs.com](https://www.belarusdocs.com)
- - date_published: 2024-08-20T04:29:04.621946+00:00
-
- ## News | BELatina
- - [https://belatina.com](https://belatina.com)
- - date_published: 2024-07-08T20:20:51.583593+00:00
-
- ## Belay the C++ – A blog talking about (usually bad) practices in C++
- - [https://belaycpp.com](https://belaycpp.com)
- - date_published: 2023-10-25T12:56:44.895499+00:00
 

@@ -1,3 +1,163 @@
+ ## LCompilers
+ - [https://lcompilers.org](https://lcompilers.org)
+ - date_published: 2021-12-22T21:11:15+00:00
+
+ ## Workshops on Languages and Compilers for Parallel Computing (LCPC)
+ - [http://lcpcworkshop.org](http://lcpcworkshop.org)
+ - date_published: 2023-06-21T16:19:40+00:00
+
+ ## LCR-Rouge.org : Love Comparateur Rencontre
+ - [http://www.lcr-rouge.org](http://www.lcr-rouge.org)
+ - date_published: 2024-10-21T18:16:48.546777+00:00
+
+ ## Home
+ - [https://www.lcsb.org](https://www.lcsb.org)
+ - date_published: 2024-07-03T14:55:51.961875+00:00
+
+ ## LCV - Build Power for People and the Planet
+ - [https://www.lcv.org](https://www.lcv.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Leela Chess Zero
+ - [https://lczero.org](https://lczero.org)
+ - date_published: 2024-07-04T05:06:04+00:00
+
+ ## Remix Starter
+ - [https://www.ldatadao.org](https://www.ldatadao.org)
+ - date_published: 2024-09-14T07:49:08.238863+00:00
+
+ ## Linked Data Benchmark Council
+ - [http://ldbcouncil.org](http://ldbcouncil.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## LDH (Ligue des droits de l'Homme)
+ - [https://www.ldh-france.org](https://www.ldh-france.org)
+ - date_published: 2024-07-02T21:26:51.351199+00:00
+
+ ## BYU-Pathway Worldwide | BYU-Pathway | Apply Today
+ - [https://byupathway.lds.org](https://byupathway.lds.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Homepage - The Church of Jesus Christ of Latter-day Saints
+ - [http://lds.org](http://lds.org)
+ - date_published: 2024-07-20T21:13:50.806303+00:00
+
+ ## The Church of Jesus Christ of Latter-day Saints
+ - [https://edge.ldscdn.org](https://edge.ldscdn.org)
+ - date_published: 2024-05-28T19:15:51+00:00
+
+ ## PeopleGrove
+ - [http://www.ldsces.org](http://www.ldsces.org)
+ - date_published: 2024-08-11T11:23:03+00:00
+
+ ## Philanthropies | Donation Page
+ - [https://ldsp-pay.ldschurch.org](https://ldsp-pay.ldschurch.org)
+ - date_published: 2024-04-30T03:32:29.018562+00:00
+
+ ## Philanthropies
+ - [https://ldsphilanthropies.org](https://ldsphilanthropies.org)
+ - date_published: 2024-04-30T03:32:16.947662+00:00
+
+ ## Lead Academy: Online Courses - TEFL, BSL and Functional Skills
+ - [https://lead-academy.org](https://lead-academy.org)
+ - date_published: 2024-10-22T12:47:20.571079+00:00
+
+ ## Cierpliwości...
+ - [https://leadcounsel.org](https://leadcounsel.org)
+ - date_published: 2024-05-07T13:27:05.304269+00:00
+
+ ## Lead Elimination | We are working to reduce lead poisoning and improve the health, wellbeing, and potential of children worldwide.
+ - [https://leadelimination.org](https://leadelimination.org)
+ - date_published: 2024-06-18T13:18:12+00:00
+
+ ## LEA-DER.org | Law Enforcement Agencies – Development/Engineering/Research
+ - [https://www.lea-der.org](https://www.lea-der.org)
+ - date_published: 2024-07-02T22:01:39.241799+00:00
+
+ ## Leader in Me | Educational & Student Leadership Programs & Curriculum
+ - [https://www.leaderinme.org](https://www.leaderinme.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Leadership Development Lab
+ - [http://www.leadershipdevelopmentlab.org](http://www.leadershipdevelopmentlab.org)
+ - date_published: 2024-04-30T05:30:03.851098+00:00
+
+ ## Home - Leadership Foundations
+ - [https://www.leadershipfoundations.org](https://www.leadershipfoundations.org)
+ - date_published: 2024-07-08T16:54:28.818922+00:00
+
+ ## Home - Leadership Montgomery
+ - [https://leadershipmontgomerymd.org](https://leadershipmontgomerymd.org)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Lead Free CT ‒ A hub of lead Information for residents and homeowners
+ - [https://leadfreect.org](https://leadfreect.org)
+ - date_published: 2024-09-18T20:25:59.530788+00:00
+
+ ## LeadingAge PA
+ - [http://leadingagepa.org](http://leadingagepa.org)
+ - date_published: 2024-10-19T09:43:58.991632+00:00
+
+ ## Global Lead Pollution Map
+ - [https://leadpollution.org](https://leadpollution.org)
+ - date_published: 2024-05-22T18:27:16+00:00
+
+ ## LEADx: Scale and Sustain Leadership Development
+ - [https://leadx.org](https://leadx.org)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## LEADx Mobile App
+ - [https://mobile.leadx.org](https://mobile.leadx.org)
+ - date_published: 2024-05-08T09:34:20.884760+00:00
+
+ ## LEAF – [Lafayette Electronic Arts Festival]
+ - [https://leafcolorado.org](https://leafcolorado.org)
+ - date_published: 2024-06-21T17:26:36+00:00
+
+ ## The League of Entropy
+ - [https://leagueofentropy.org](https://leagueofentropy.org)
+ - date_published: 2024-07-10T01:54:08.583529+00:00
+
+ ## The League of Robot Runners
+ - [https://www.leagueofrobotrunners.org](https://www.leagueofrobotrunners.org)
+ - date_published: 2024-07-15T09:02:21+00:00
+
+ ## Leah Neukirchen - leah2
+ - [https://leahneukirchen.org](https://leahneukirchen.org)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Home
+ - [https://leakeyfoundation.org](https://leakeyfoundation.org)
+ - date_published: 2024-10-29T18:24:02.558156+00:00
+
+ ## Lea-Linux
+ - [https://lea-linux.org](https://lea-linux.org)
+ - date_published: 2024-05-06T14:20:18.353073+00:00
+
+ ## Lean Blog
+ - [http://www.leanblog.org](http://www.leanblog.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Lean Coffee | Start one in your city!
+ - [http://leancoffee.org](http://leancoffee.org)
+ - date_published: 2024-07-07T07:36:25.323493+00:00
+
+ ## LeanDojo: Theorem Proving in Lean Using LLMs
+ - [https://leandojo.org](https://leandojo.org)
+ - date_published: 2024-07-28T22:34:36+00:00
+
+ ## Focused Research Organization — Lean FRO
+ - [https://lean-fro.org](https://lean-fro.org)
+ - date_published: 2024-04-29T06:15:59.677196+00:00
+
+ ## Lean Impact
+ - [https://www.leanimpact.org](https://www.leanimpact.org)
+ - date_published: 2024-06-21T21:56:41.621009+00:00
+
+ ## Fostering Women’s Leadership & Workplace Inclusion | Lean In
+ - [https://cdn-static.leanin.org](https://cdn-static.leanin.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
  ## Fostering Women’s Leadership & Workplace Inclusion | Lean In
  - [https://leanin.org](https://leanin.org)
  - date_published: 2024-05-01T00:00:00+00:00
@@ -3874,166 +4034,4 @@ Intro
  ## L.O.V.E. Productions- Living the (r)evolution!
  - [http://www.loveproductions.org](http://www.loveproductions.org)
  - date_published: 2024-09-12T17:18:35.107640+00:00
-
- ## LoveTech
- - [http://lovetech.org](http://lovetech.org)
- - date_published: 2024-06-30T07:43:40.637818+00:00
-
- ## Parhaat kasinot kokemuksia – bonukset ja muut edut
- - [http://lovetotheworld.org](http://lovetotheworld.org)
- - date_published: 2024-06-07T14:04:28+00:00
-
- ## LoveYou2.org
- - [https://loveyou2.org](https://loveyou2.org)
- - date_published: 2024-05-07T16:56:36.470213+00:00
-
- ## LÖVR
- - [https://lovr.org](https://lovr.org)
- - date_published: 2024-10-18T00:35:14+00:00
-
- ## The Low Carbon Design Institute
- - [https://lowcarbondesigninstitute.org](https://lowcarbondesigninstitute.org)
- - date_published: 2024-06-26T22:28:58.160000+00:00
-
- ## Lowcountry Food Bank | Feed. Advocate. Empower.
- - [https://lowcountryfoodbank.org](https://lowcountryfoodbank.org)
- - date_published: 2024-06-21T04:12:03.202423+00:00
-
- ## Home 📚 Pollard Memorial Library
- - [https://lowelllibrary.org](https://lowelllibrary.org)
- - date_published: 2024-06-14T04:12:32.729564+00:00
-
- ## Lowimpact.org - sustainable living info, courses, products & services
- - [https://lowimpact.org](https://lowimpact.org)
- - date_published: 2024-06-12T12:47:16.042809+00:00
-
- ## Open-Source Silicon Designs | lowRISC
- - [https://lowrisc.org](https://lowrisc.org)
- - date_published: 2024-07-20T21:42:43.911818+00:00
-
- ## Interpreter | Lowy Institute
- - [http://www.lowyinterpreter.org](http://www.lowyinterpreter.org)
- - date_published: 2024-07-03T17:11:03+00:00
-
- ## Home | Libertarian Party
- - [http://lp.org](http://lp.org)
- - date_published: 2024-12-12T13:07:18.671847+00:00
-
- ## LPA District 10 – Little People of America, serving Arizona, Colorado, New Mexico, Utah, Wyoming, & El Paso, Texas
- - [https://lpadistrict10.org](https://lpadistrict10.org)
- - date_published: 2024-10-11T11:28:31.306434+00:00
-
- ## The Let's Play Archive
- - [https://lparchive.org](https://lparchive.org)
- - date_published: 2024-10-19T20:15:19.992979+00:00
-
- ## Linux-Presentation-Day [LPD]
- - [https://hubzilla.l-p-d.org](https://hubzilla.l-p-d.org)
- - date_published: 2024-09-14T08:53:19.539769+00:00
-
- ## Avulsos by Penz
- - [http://www.lpenz.org](http://www.lpenz.org)
- - date_published: 2023-07-30T00:00:00+00:00
-
- ## The Law and Political Economy Project
- - [https://lpeproject.org](https://lpeproject.org)
- - date_published: 2024-02-24T18:19:33.317225+00:00
-
- ## Homepage - Lucile Packard Foundation for Children's Health
- - [https://lpfch.org](https://lpfch.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## LPGPU.org | An EU-funded research project into low power GPU technology
- - [http://lpgpu.org](http://lpgpu.org)
- - date_published: 2024-09-04T07:06:13.584599+00:00
-
- ## Find a training partner | Linux Professional Institute
- - [https://find.lpi.org](https://find.lpi.org)
- - date_published: 2024-08-18T04:35:46.714750+00:00
-
- ## https://learning.lpi.org/en/
- - [https://learning.lpi.org](https://learning.lpi.org)
- - date_published: 2024-08-12T09:20:35+00:00
-
- ## Homepage
- - [https://lpi.org](https://lpi.org)
- - date_published: 2024-01-09T03:41:18.717606+00:00
- - tags: ['organisation', 'open source', 'linux']
-
- ## LPI Wiki
- - [https://wiki.lpi.org](https://wiki.lpi.org)
- - date_published: 2020-02-18T16:42:44+00:00
-
- ## Legal Resources, Law, Lawyers, Attorneys - Law and Policy Institutions Guide
- - [http://www.lpig.org](http://www.lpig.org)
- - date_published: 2020-04-04T17:23:02+00:00
-
- ## Louisville Public Media
- - [http://events.lpm.org](http://events.lpm.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Louisville Public Media
- - [https://lpm.org](https://lpm.org)
- - date_published: 2023-11-06T14:35:50.495843+00:00
-
- ## LPM Store
- - [https://shop.lpm.org](https://shop.lpm.org)
- - date_published: 2024-07-07T06:41:02.139504+00:00
-
- ## Libertarian Party of Texas
- - [http://lptexas.org](http://lptexas.org)
- - date_published: 2024-12-12T13:07:16.186368+00:00
-
- ## LPython
- - [https://dev.lpython.org](https://dev.lpython.org)
- - date_published: 2023-09-17T05:05:46+00:00
-
- ## https://lpython.org
- - [https://lpython.org](https://lpython.org)
- - date_published: 2023-10-25T21:39:41.946449+00:00
-
- ## Wildlife Experience in the Heart of Chicago | Lincoln Park Zoo
- - [https://www.lpzoo.org](https://www.lpzoo.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Lloyd's Register trusted advice in the maritime industry | LR
- - [https://www.lr.org](https://www.lr.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## LREC-Coling 2024 – The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation Lingotto Conference Centre – Torino (Italia) 20-25 May, 2024
- - [https://lrec-coling-2024.org](https://lrec-coling-2024.org)
- - date_published: 2024-07-10T05:44:35.911089+00:00
-
- ## LREC 2022  - LREC 2022
- - [https://lrec2022.lrec-conf.org](https://lrec2022.lrec-conf.org)
- - date_published: 2024-08-07T14:56:21.516374+00:00
-
- ## LREC-Coling 2024 – The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation Lingotto Conference Centre – Torino (Italia) 20-25 May, 2024
- - [https://lrec-coling-2024.lrec-conf.org](https://lrec-coling-2024.lrec-conf.org)
- - date_published: 2024-09-13T18:00:46.310712+00:00
-
- ## LREC Conferences
- - [http://www.lrec-conf.org](http://www.lrec-conf.org)
- - date_published: 2023-05-30T09:40:46+00:00
-
- ## The Long Riders Guild Academic Foundation
- - [https://lrgaf.org](https://lrgaf.org)
- - date_published: 2020-05-15T08:45:33+00:00
-
- ## LRJC
- - [https://www.lrjc.org](https://www.lrjc.org)
- - date_published: 2024-05-06T16:18:35.856992+00:00
-
- ## L. Ron Hubbard - Scientology & Dianetics Founder
- - [https://lronhubbard.org](https://lronhubbard.org)
- - date_published: 2024-06-06T19:38:05+00:00
- - tags: ['scientology']
-
- ## The Light Rail Transit Association | The Light Rail Transit Association
- - [http://www.lrta.org](http://www.lrta.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## LRUG | London Ruby User Group
- - [http://lrug.org](http://lrug.org)
- - date_published: 2024-07-22T20:21:23+00:00
 

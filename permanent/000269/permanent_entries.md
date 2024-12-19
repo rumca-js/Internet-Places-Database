@@ -1,3 +1,99 @@
+ ## Texas Oral History Association
+ - [https://toha.web.baylor.edu](https://toha.web.baylor.edu)
+ - date_published: 2022-04-01T15:45:00+00:00
+
+ ## Transfer Student Success
+ - [https://transfersuccess.web.baylor.edu](https://transfersuccess.web.baylor.edu)
+ - date_published: 2022-10-19T11:48:00+00:00
+
+ ## Teal Residential College
+ - [https://trc.web.baylor.edu](https://trc.web.baylor.edu)
+ - date_published: 2023-02-14T13:53:00+00:00
+
+ ## George W. Truett Theological Seminary
+ - [https://truettseminary.baylor.edu](https://truettseminary.baylor.edu)
+ - date_published: 2022-06-14T16:11:00+00:00
+
+ ## United Way
+ - [https://unitedway.web.baylor.edu](https://unitedway.web.baylor.edu)
+ - date_published: 2023-02-10T09:37:00+00:00
+
+ ## University Committees
+ - [https://universitycommittees.web.baylor.edu](https://universitycommittees.web.baylor.edu)
+ - date_published: 2022-12-20T14:53:00+00:00
+
+ ## University Scholars
+ - [https://unsc.honors.baylor.edu](https://unsc.honors.baylor.edu)
+ - date_published: 2023-04-19T10:22:00+00:00
+
+ ## University Writing Center
+ - [https://uwc.artsandsciences.baylor.edu](https://uwc.artsandsciences.baylor.edu)
+ - date_published: 2022-12-15T15:29:00+00:00
+
+ ## Veteran Educational and Transition Services
+ - [https://vets.web.baylor.edu](https://vets.web.baylor.edu)
+ - date_published: 2022-09-06T11:56:00+00:00
+
+ ## Volleyball Camp
+ - [https://volleyballcamp.web.baylor.edu](https://volleyballcamp.web.baylor.edu)
+ - date_published: 2023-01-20T14:22:00+00:00
+
+ ## Vice Provost for Undergraduate Education
+ - [https://vpue.web.baylor.edu](https://vpue.web.baylor.edu)
+ - date_published: 2022-05-25T13:20:00+00:00
+
+ ## Waco
+ - [https://waco.web.baylor.edu](https://waco.web.baylor.edu)
+ - date_published: 2022-02-09T08:25:00+00:00
+
+ ## Baylor in Washington
+ - [https://washington.web.baylor.edu](https://washington.web.baylor.edu)
+ - date_published: 2023-10-02T13:44:00+00:00
+
+ ## Welcome
+ - [https://welcome.web.baylor.edu](https://welcome.web.baylor.edu)
+ - date_published: 2022-12-19T12:49:00+00:00
+
+ ## Wellbeing
+ - [https://wellbeing.web.baylor.edu](https://wellbeing.web.baylor.edu)
+ - date_published: 2022-10-13T16:53:00+00:00
+
+ ## Home
+ - [https://wellness.web.baylor.edu](https://wellness.web.baylor.edu)
+ - date_published: 2023-06-12T08:40:00+00:00
+
+ ## BaylorProud
+ - [https://www2.baylor.edu](https://www2.baylor.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## School of Engineering and Computer Science
+ - [https://www.ecs.baylor.edu](https://www.ecs.baylor.edu)
+ - date_published: 2022-07-19T13:44:00+00:00
+
+ ## eScholarship@BC | More Reach For Your Research
+ - [https://dlib.bc.edu](https://dlib.bc.edu)
+ - date_published: 2024-08-18T17:26:07+00:00
+
+ ## Events Calendar
+ - [http://events.bc.edu](http://events.bc.edu)
+ - date_published: 2024-10-18T22:07:31.747191+00:00
+
+ ## Boston College Libraries Login
+ - [https://proxy.bc.edu](https://proxy.bc.edu)
+ - date_published: 2024-06-30T01:30:42.948911+00:00
+
+ ## Home - Boston College
+ - [http://www.bc.edu](http://www.bc.edu)
+ - date_published: 2024-06-17T07:39:13+00:00
+
+ ## Welcome to Baylor College of Medicine
+ - [https://bcmd8.bcm.edu](https://bcmd8.bcm.edu)
+ - date_published: 2024-07-19T21:12:50+00:00
+
+ ## Welcome to Baylor College of Medicine
+ - [https://bcm.edu](https://bcm.edu)
+ - date_published: 2024-04-30T03:17:08.143986+00:00
+
  ## Baylor College of Medicine Blog Network
  - [https://blogs.bcm.edu](https://blogs.bcm.edu)
  - date_published: 2023-12-10T11:15:31.259852+00:00
@@ -3921,100 +4017,4 @@
  ## Welcome!
  - [https://researchadministration.sites.caltech.edu](https://researchadministration.sites.caltech.edu)
  - date_published: 2024-07-22T06:23:18.573752+00:00
-
- ## Office of Research Policy
- - [https://researchcompliance.caltech.edu](https://researchcompliance.caltech.edu)
- - date_published: 2024-07-22T06:23:24.351342+00:00
-
- ## Office of Research Policy
- - [https://researchpolicy.caltech.edu](https://researchpolicy.caltech.edu)
- - date_published: 2024-09-27T10:14:53.570475+00:00
-
- ## RSI Home
- - [https://resnick.caltech.edu](https://resnick.caltech.edu)
- - date_published: 2024-04-30T03:41:31.130945+00:00
-
- ## RSI Home
- - [https://resnick.sites.caltech.edu](https://resnick.sites.caltech.edu)
- - date_published: 2024-07-15T02:35:14.713769+00:00
-
- ## Roman Space Telescope at IPAC
- - [https://roman.ipac.caltech.edu](https://roman.ipac.caltech.edu)
- - date_published: 2024-08-11T15:10:58.846409+00:00
-
- ## Rosen Center for Bioengineering at Caltech
- - [https://rosen.caltech.edu](https://rosen.caltech.edu)
- - date_published: 2024-06-07T09:56:00.640024+00:00
-
- ## rsrg@caltech
- - [http://rsrg.cms.caltech.edu](http://rsrg.cms.caltech.edu)
- - date_published: 2024-07-22T06:22:20.879717+00:00
-
- ## Fu Research Group
- - [https://rubyfu.caltech.edu](https://rubyfu.caltech.edu)
- - date_published: 2024-05-12T04:46:19.889298+00:00
-
- ## Fu Research Group
- - [https://rubyfu.sites.caltech.edu](https://rubyfu.sites.caltech.edu)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Center for Sensing to Intelligence
- - [https://s2i.caltech.edu](https://s2i.caltech.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Environmental Health and Safety Homepage
- - [https://safety.caltech.edu](https://safety.caltech.edu)
- - date_published: 2024-07-22T06:51:20.151382+00:00
-
- ## The SAMPEX Data Center
- - [https://sampex.srl.caltech.edu](https://sampex.srl.caltech.edu)
- - date_published: 2024-07-22T06:35:22.339080+00:00
-
- ## Southern California Earthquake Data Center at Caltech
- - [https://scedc.caltech.edu](https://scedc.caltech.edu)
- - date_published: 2024-05-07T20:30:20+00:00
-
- ## Caltech Science Exchange
- - [https://scienceexchange.caltech.edu](https://scienceexchange.caltech.edu)
- - date_published: 2024-04-30T03:35:17.177299+00:00
-
- ## Security Homepage
- - [https://security.caltech.edu](https://security.caltech.edu)
- - date_published: 2024-04-30T03:42:43.420460+00:00
-
- ## Caltech Seismological Laboratory
- - [https://seismolab.caltech.edu](https://seismolab.caltech.edu)
- - date_published: 2024-04-30T03:42:49.888746+00:00
-
- ## Southern California Earthquake Data Center at Caltech
- - [http://service.scedc.caltech.edu](http://service.scedc.caltech.edu)
- - date_published: 2024-02-28T19:47:22+00:00
-
- ## Student-Faculty Programs
- - [https://sfp.caltech.edu](https://sfp.caltech.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Student-Faculty Programs
- - [https://sfp.sites.caltech.edu](https://sfp.sites.caltech.edu)
- - date_published: 2024-07-20T22:46:06.807619+00:00
-
- ## Spitzer
- - [http://sirtf.caltech.edu](http://sirtf.caltech.edu)
- - date_published: 2024-09-07T23:14:48.294957+00:00
-
- ## Taking to www.astro.caltech.edu
- - [https://sites.astro.caltech.edu](https://sites.astro.caltech.edu)
- - date_published: 2023-10-25T18:49:21.036394+00:00
-
- ## Caltech Sites Home Page
- - [https://sites.caltech.edu](https://sites.caltech.edu)
- - date_published: 2024-06-16T08:15:46.633868+00:00
-
- ## Swartz Center for Theoretical Neurobiology
- - [http://sloan.caltech.edu](http://sloan.caltech.edu)
- - date_published: 2024-09-04T19:14:16.019894+00:00
-
- ## Software
- - [http://software.caltech.edu](http://software.caltech.edu)
- - date_published: 2024-08-19T21:21:21.544587+00:00
 

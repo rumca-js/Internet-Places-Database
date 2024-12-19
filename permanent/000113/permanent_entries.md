@@ -1,3 +1,39 @@
+ ## Home
+ - [http://gen42.com](http://gen42.com)
+ - date_published: 2024-07-12T16:56:47+00:00
+
+ ## Building the Builders | Dr. Gena Gorlin | Substack
+ - [https://builders.genagorlin.com](https://builders.genagorlin.com)
+ - date_published: 2024-05-12T06:31:40.313243+00:00
+
+ ## Gena Gorlin
+ - [https://genagorlin.com](https://genagorlin.com)
+ - date_published: 2024-07-16T17:42:50.584375+00:00
+
+ ## GAMES 2024
+ - [https://gen-aishow.com](https://gen-aishow.com)
+ - date_published: 2024-09-24T21:01:19.629272+00:00
+
+ ## Sapphire: The Essentials Suite Of Award-Winning VFX Plugins | Boris FX
+ - [http://genarts.com](http://genarts.com)
+ - date_published: 2024-06-13T17:57:24.717544+00:00
+
+ ## Award-Winning Tools For The Post-Production Industry | Boris FX
+ - [http://web.genarts.com](http://web.genarts.com)
+ - date_published: 2024-08-05T21:09:09.081456+00:00
+
+ ## Administrador de aplicaciones
+ - [https://admin.genbeta.com](https://admin.genbeta.com)
+ - date_published: 2024-06-22T22:46:32.937546+00:00
+
+ ## Genbeta - Software, internet y productividad
+ - [https://genbeta.com](https://genbeta.com)
+ - date_published: 2024-06-22T22:46:29.717485+00:00
+
+ ## Generation Black Magazine
+ - [https://genbmag.com](https://genbmag.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
  ## Home - Gen B USA Magazine
  - [https://www.genbusa.com](https://www.genbusa.com)
  - date_published: 2020-01-02T11:13:56+00:00
@@ -3998,41 +4034,4 @@ Homepage
  ## VNN Alerts
  - [https://alerts.getvnn.com](https://alerts.getvnn.com)
  - date_published: 2023-02-23T17:41:26+00:00
-
- ## Volume | One-Click Payment Platform
- - [https://www.getvolume.com](https://www.getvolume.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## VOZZI - Experience
- - [https://getvozzi.com](https://getvozzi.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## WACUP
- - [https://getwacup.com](https://getwacup.com)
- - date_published: 2024-05-17T06:53:24+00:00
- - tags: ['media player']
-
- ## GetWaitlist | Waitlist Software with Referral and Email Marketing
- - [https://getwaitlist.com](https://getwaitlist.com)
- - date_published: 2023-10-25T14:43:42.184167+00:00
-
- ## Warmly | Professional Networking in Zoom
- - [https://opps-widget.getwarmly.com](https://opps-widget.getwarmly.com)
- - date_published: 2022-09-30T00:00:00+00:00
-
- ## Weave - All-in-one communication platform for small business
- - [http://getweave.com](http://getweave.com)
- - date_published: 2024-09-21T23:34:10.059183+00:00
-
- ## Welly
- - [https://www.getwelly.com](https://www.getwelly.com)
- - date_published: 2024-08-06T03:30:35.869273+00:00
-
- ## Whelp - Customer Support Platform
- - [https://getwhelp.com](https://getwhelp.com)
- - date_published: 2024-12-15T11:55:51.691145+00:00
-
- ## Download the app
- - [https://getworldcoin.com](https://getworldcoin.com)
- - date_published: 2024-07-19T23:03:15.952793+00:00
 

@@ -1,3 +1,43 @@
+ ## Tak and the Power of Juju Wiki
+ - [https://tak.fandom.com](https://tak.fandom.com)
+ - date_published: 2024-06-17T07:47:20+00:00
+
+ ## Takt Op. Wiki
+ - [https://takt-op.fandom.com](https://takt-op.fandom.com)
+ - date_published: 2024-10-23T06:54:57+00:00
+
+ ## Arcadia Oaks-pedia
+ - [https://talesofarcadia.fandom.com](https://talesofarcadia.fandom.com)
+ - date_published: 2024-06-05T14:02:08.238145+00:00
+
+ ## Tales of Erin Wiki
+ - [https://talesoferin.fandom.com](https://talesoferin.fandom.com)
+ - date_published: 2024-05-02T14:49:33.811070+00:00
+
+ ## Talespedia
+ - [https://tales-of.fandom.com](https://tales-of.fandom.com)
+ - date_published: 2024-10-24T10:38:54+00:00
+
+ ## Tales of Link Wikia
+ - [https://tales-of-link.fandom.com](https://tales-of-link.fandom.com)
+ - date_published: 2024-10-24T10:38:50+00:00
+
+ ## TaleSpin Wiki
+ - [https://talespin.fandom.com](https://talespin.fandom.com)
+ - date_published: 2024-06-17T11:45:30+00:00
+
+ ## Talia in the Kitchen Wiki
+ - [https://taliainthekitchen.fandom.com](https://taliainthekitchen.fandom.com)
+ - date_published: 2024-06-17T18:33:52+00:00
+
+ ## Talking Tom & Friends Wiki
+ - [https://talkingfriends.fandom.com](https://talkingfriends.fandom.com)
+ - date_published: 2024-06-16T22:01:17+00:00
+
+ ## Tamagotchi Wiki
+ - [https://tamagotchi.fandom.com](https://tamagotchi.fandom.com)
+ - date_published: 2024-06-17T00:39:46+00:00
+
  ## Tamagotchi Fanon Wiki
  - [https://tamagotchifanon.fandom.com](https://tamagotchifanon.fandom.com)
  - date_published: 2024-10-24T23:08:07+00:00
@@ -3968,44 +4008,4 @@ e-mail, free web site, free web site hosting
  ## Plausible · Web analytics
  - [https://pa.fariszr.com](https://pa.fariszr.com)
  - date_published: 2024-05-04T05:41:17.405589+00:00
-
- ## Drew Curtis' FARK.com
- - [http://cgi.fark.com](http://cgi.fark.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Drew Curtis' FARK.com
- - [https://fark.com](https://fark.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Drew Curtis' FARK.com (Mobile)
- - [https://m.fark.com](https://m.fark.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Custom jewelry by award winning designers around the globe
- - [http://www.farlang.com](http://www.farlang.com)
- - date_published: 2024-10-19T06:05:23.657341+00:00
-
- ## Farlex - reference and learning tools
- - [http://www.farlex.com](http://www.farlex.com)
- - date_published: 2024-07-20T03:03:15.326765+00:00
-
- ## FARLIGHT GAMES
- - [https://www.farlightgames.com](https://www.farlightgames.com)
- - date_published: 2024-07-07T06:50:37.636211+00:00
-
- ## Farmacia online Igea - Cosmetici, Integratori, Diete e benessere
- - [http://www.farmaciaigea.com](http://www.farmaciaigea.com)
- - date_published: 2024-07-16T18:41:12.908840+00:00
-
- ## Programming FAR plugins - Encyclopedia for Developers
- - [https://api.farmanager.com](https://api.farmanager.com)
- - date_published: 2024-05-04T05:41:39.074410+00:00
-
- ## My View - MantisBT
- - [https://bugs.farmanager.com](https://bugs.farmanager.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## forum.farmanager.com - For English Speakers
- - [https://enforum.farmanager.com](https://enforum.farmanager.com)
- - date_published: 2024-04-25T00:00:00+00:00
 

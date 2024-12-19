@@ -1,3 +1,104 @@
+ ## :: e-PPID ITB ::
+ - [https://ppid.itb.ac.id](https://ppid.itb.ac.id)
+ - date_published: 2024-06-22T09:34:37.433404+00:00
+
+ ## ITB SDGs Network – Center of Sustainable Development Goals (SDGs) in Institut Teknologi Bandung
+ - [https://sdgsc.itb.ac.id](https://sdgsc.itb.ac.id)
+ - date_published: 2024-06-22T09:35:52.442798+00:00
+
+ ## IT Telkom Purwokerto - Bridging Technology for Humanity
+ - [https://ittelkom-pwt.ac.id](https://ittelkom-pwt.ac.id)
+ - date_published: 2024-06-30T07:42:41.983514+00:00
+
+ ## Beranda - Teknik Logistik
+ - [https://tekniklogistik.ittelkom-pwt.ac.id](https://tekniklogistik.ittelkom-pwt.ac.id)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Universitas Telkom | Perguruan Tinggi Swasta Terbaik
+ - [https://ittelkom-sby.ac.id](https://ittelkom-sby.ac.id)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Home
+ - [https://www.lspr.ac.id](https://www.lspr.ac.id)
+ - date_published: 2024-09-30T00:00:00+00:00
+
+ ## UMB Biro Karir
+ - [http://alumni.mercubuana.ac.id](http://alumni.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:06:44.592458+00:00
+
+ ## Fakultas Ilmu Komputer – Universitas Mercu Buana
+ - [https://fasilkom.mercubuana.ac.id](https://fasilkom.mercubuana.ac.id)
+ - date_published: 2024-06-16T15:22:23.998915+00:00
+
+ ## Fakultas Desain dan Seni Kreatif
+ - [http://fdsk.mercubuana.ac.id](http://fdsk.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:06:53.748559+00:00
+
+ ## Fakultas Ekonomi dan Bisnis – Universitas Mercu Buana
+ - [http://feb.mercubuana.ac.id](http://feb.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:07:13.898831+00:00
+
+ ## Fakultas Ilmu Komunikasi – Universitas Mercu Buana
+ - [http://fikom.mercubuana.ac.id](http://fikom.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:08:19.299893+00:00
+
+ ## Fakultas Psikologi – Universitas Mercu Buana
+ - [http://fpsi.mercubuana.ac.id](http://fpsi.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:07:51.139748+00:00
+
+ ## Fakultas Teknik – Universitas Mercu Buana – Universitas Mercu Buana
+ - [http://ft.mercubuana.ac.id](http://ft.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:06:57.320697+00:00
+
+ ## Beranda | Perpustakaan Universitas Mercu Buana
+ - [http://lib.mercubuana.ac.id](http://lib.mercubuana.ac.id)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## Beranda - Universitas Mercu Buana Pendaftaran Universitas Mercu Buana
+ - [http://pendaftaran.mercubuana.ac.id](http://pendaftaran.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:07:05.278085+00:00
+
+ ## Publikasi Universitas Mercu Buana
+ - [http://publikasi.mercubuana.ac.id](http://publikasi.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:07:21.852231+00:00
+
+ ## Pusat Penelitian – Universitas Mercu Buana
+ - [http://puslit.mercubuana.ac.id](http://puslit.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:08:30.729888+00:00
+
+ ## RADIO MERCU BUANA – Station for Creative Student
+ - [http://radio.mercubuana.ac.id](http://radio.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:07:08.102772+00:00
+
+ ## Welcome to UMB Repository - UMB Repository
+ - [https://repository.mercubuana.ac.id](https://repository.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:08:21.345807+00:00
+
+ ## Biro Administrasi dan Pengembangan SDM | Universitas Mercu Buana
+ - [http://sdm.mercubuana.ac.id](http://sdm.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:08:26.335650+00:00
+
+ ## SIM Akademik Universitas Mercubuana
+ - [https://sia.mercubuana.ac.id](https://sia.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:06:59.701815+00:00
+
+ ## Website Maintenance
+ - [https://site.mercubuana.ac.id](https://site.mercubuana.ac.id)
+ - date_published: 2023-03-29T06:08:49+00:00
+
+ ## Single Sign On Mercu Buana:
+		Users
+ - [https://sso.mercubuana.ac.id](https://sso.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:07:16.402323+00:00
+
+ ## Beranda
+ - [http://www.mercubuana.ac.id](http://www.mercubuana.ac.id)
+ - date_published: 2024-10-11T11:06:48.472153+00:00
+
+ ## FTI UMBY – Fakultas Teknologi Informasi (FTI) UMBY
+ - [https://fti.mercubuana-yogya.ac.id](https://fti.mercubuana-yogya.ac.id)
+ - date_published: 2024-10-14T17:14:22.823627+00:00
+
  ## Universitas Prasetiya Mulya
  - [https://www.prasetiyamulya.ac.id](https://www.prasetiyamulya.ac.id)
  - date_published: 2024-05-16T00:00:00+00:00
@@ -3902,104 +4003,4 @@
  ## Brain and Computation Lab, Hamilton Institute, National University of Ireland Maynooth
  - [http://www.bcl.hamilton.ie](http://www.bcl.hamilton.ie)
  - date_published: 2015-10-30T08:50:26+00:00
-
- ## haystack.ie | Ireland's farming marketplace
- - [https://www.haystack.ie](https://www.haystack.ie)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Higher Education Authority
- - [https://hea.ie](https://hea.ie)
- - date_published: 2024-07-14T13:34:17.404088+00:00
-
- ## ftp.heanet.ie
- - [https://ftp.heanet.ie](https://ftp.heanet.ie)
- - date_published: 2023-02-21T00:00:00+00:00
-
- ## HEAnet
- - [https://heanet.ie](https://heanet.ie)
- - date_published: 2024-07-08T19:42:26.476411+00:00
-
- ## Eraser – Secure Erase Files from Hard Drives
- - [https://eraser.heidi.ie](https://eraser.heidi.ie)
- - date_published: 2015-05-13T00:00:00+00:00
-
- ## HelloFresh Ireland: #1 Recipe Box Delivery Service
- - [https://www.hellofresh.ie](https://www.hellofresh.ie)
- - date_published: 2024-06-18T17:18:07.782352+00:00
-
- ## Home - Her.ie
- - [https://her.ie](https://her.ie)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Homepage - HerFamily
- - [https://www.herfamily.ie](https://www.herfamily.ie)
- - date_published: 2024-05-02T11:59:54.959274+00:00
-
- ## The Heritage Council
- - [https://heritagecouncil.ie](https://heritagecouncil.ie)
- - date_published: 2024-10-18T15:54:44.056944+00:00
-
- ## Homepage
- - [https://www.hilti.ie](https://www.hilti.ie)
- - date_published: 2024-06-20T07:26:47.303263+00:00
-
- ## Let's find your wedding team
- - [https://www.hitched.ie](https://www.hitched.ie)
- - date_published: 2024-07-13T19:44:35.229488+00:00
-
- ## The Home of Innovation - Home of Innovation
- - [https://www.homeofinnovation.ie](https://www.homeofinnovation.ie)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Home | Homesense
- - [https://www.homesense.ie](https://www.homesense.ie)
- - date_published: 2024-09-20T09:59:02+00:00
-
- ## Hometree
- - [https://www.hometree.ie](https://www.hometree.ie)
- - date_published: 2024-07-10T08:11:18.593047+00:00
-
- ## RxDB - JavaScript Database | RxDB - JavaScript Database
- - [https://hood.ie](https://hood.ie)
- - date_published: 2024-06-03T11:18:55.262628+00:00
-
- ## Small Business Web Hosting | Best Web Hosting | HostPapa
- - [https://www.hostpapa.ie](https://www.hostpapa.ie)
- - date_published: 2024-07-24T19:07:03+00:00
-
- ## Hotfrog - Get found online
- - [https://www.hotfrog.ie](https://www.hotfrog.ie)
- - date_published: 2024-06-29T16:52:05.013675+00:00
-
- ## Home
- - [https://www.hse.ie](https://www.hse.ie)
- - date_published: 2024-06-28T12:10:59.958397+00:00
-
- ## Hand tools for professional craftsmen | Hultafors Tools
- - [http://www.hultafors.ie](http://www.hultafors.ie)
- - date_published: 2024-07-01T08:45:06.763111+00:00
-
- ## Human Rights Ireland - Promoting Human Rights Within Ireland
- - [https://humanrights.ie](https://humanrights.ie)
- - date_published: 2024-10-18T20:56:09.794792+00:00
-
- ## IAB Ireland | IAB Ireland is a member of the global IAB network of online advertising trade associations. Affiliated to IAB US and IAB Europe, IAB Ireland shares the IAB purpose to PROVE, PROMOTE and PROTECT the online advertising industry.
- - [https://iabireland.ie](https://iabireland.ie)
- - date_published: 2024-08-18T10:52:39+00:00
-
- ## IAEMO.IE | Inter-Agency Emergency Management
- - [http://www.iaemo.ie](http://www.iaemo.ie)
- - date_published: 2024-06-20T21:30:13.466891+00:00
-
- ## Ibec - For Irish Business
- - [https://www.ibec.ie](https://www.ibec.ie)
- - date_published: 2024-08-05T23:26:35.075274+00:00
-
- ## Home – iCAN Irish Children's Arthritis Network
- - [https://icanireland.ie](https://icanireland.ie)
- - date_published: 2024-06-28T11:55:53.063967+00:00
-
- ## - Irish Council for Civil Liberties
- - [https://iccl.ie](https://iccl.ie)
- - date_published: 2023-10-25T19:28:50.484106+00:00
 

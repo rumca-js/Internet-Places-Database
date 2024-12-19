@@ -1,3 +1,19 @@
+ ## home | the digital diarist
+ - [https://thedigitaldiarist.ca](https://thedigitaldiarist.ca)
+ - date_published: 2024-07-02T19:06:27+00:00
+
+ ## The Gateway - The University of Alberta's official campus media source
+ - [http://thegatewayonline.ca](http://thegatewayonline.ca)
+ - date_published: 2024-07-20T15:44:20.566310+00:00
+
+ ## The GoldenHack
+ - [https://www.thegoldenhack.ca](https://www.thegoldenhack.ca)
+ - date_published: 2024-08-26T18:29:04+00:00
+
+ ## Hot Sauce Reviews, Recipes, and Pepper Growing Guides
+ - [https://thehotsauceguy.ca](https://thehotsauceguy.ca)
+ - date_published: 2024-06-24T00:00:00+00:00
+
  ## The Hub | More Signal. Less Noise.
  - [https://thehub.ca](https://thehub.ca)
  - date_published: 2023-10-25T12:12:13.121688+00:00
@@ -4001,20 +4017,4 @@
  ## Passport York Login
  - [https://apps5.sis.yorku.ca](https://apps5.sis.yorku.ca)
  - date_published: 2024-07-21T07:57:36.783442+00:00
-
- ## Passport York Login
- - [https://apps7.sis.yorku.ca](https://apps7.sis.yorku.ca)
- - date_published: 2024-07-21T07:57:30.153220+00:00
-
- ## IIS Windows Server
- - [https://as.students.yorku.ca](https://as.students.yorku.ca)
- - date_published: 2020-12-07T16:39:18+00:00
-
- ## atlas
- - [https://atlas.cafe.uit.yorku.ca](https://atlas.cafe.uit.yorku.ca)
- - date_published: 2018-11-14T19:13:13+00:00
-
- ## York Atlas - Phone and E-mail Directory
- - [https://atlas.yorku.ca](https://atlas.yorku.ca)
- - date_published: 2024-04-30T05:32:21.381565+00:00
 

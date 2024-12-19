@@ -1,3 +1,152 @@
+ ## Betamagic - Welcome!
+ - [https://betamagic.nl](https://betamagic.nl)
+ - date_published: 2024-01-16T11:00:24+00:00
+ - tags: ['newsreader']
+
+ ## Betatalks the podcast
+ - [https://podcast.betatalks.nl](https://podcast.betatalks.nl)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Homepage
+ - [https://betfans.nl](https://betfans.nl)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Uw Thuis Voor Beste Bethard Casino Bonussen
+ - [https://bethardcasinobonussen.nl](https://bethardcasinobonussen.nl)
+ - date_published: 2024-08-07T21:34:42.617288+00:00
+
+ ## Bettina Kast – Bettina is a skilled, enthusiastic, results-driven Principal UX Product Designer based in Amsterdam, The Netherlands. With over two decades experience in strategic design, product design, enterprise UX, enterprise AI, and data products, she brings a unique perspective and empathy to user-centric designs and innovations.
+ - [http://bettinakast.nl](http://bettinakast.nl)
+ - date_published: 2024-07-03T08:45:38.801211+00:00
+
+ ## Betty's Kitchen
+ - [https://bettyskitchen.nl](https://bettyskitchen.nl)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Beyond Sports
+ - [https://www.beyondsports.nl](https://www.beyondsports.nl)
+ - date_published: 2024-08-19T12:36:58.312387+00:00
+
+ ## svelte-cannon
+ - [https://svelte-cannon.bfanger.nl](https://svelte-cannon.bfanger.nl)
+ - date_published: 2024-06-23T06:15:36.933828+00:00
+
+ ## Bnetwerk | Bnetwerk
+ - [https://www.bibliotheeknetwerk.nl](https://www.bibliotheeknetwerk.nl)
+ - date_published: 2024-10-27T21:50:53.987450+00:00
+
+ ## BierbuikFM
+ - [https://bierbuikfm.nl](https://bierbuikfm.nl)
+ - date_published: 2024-06-13T21:27:30.460182+00:00
+
+ ## Big Brother Awards 2023
+ - [https://bigbrotherawards.nl](https://bigbrotherawards.nl)
+ - date_published: 2024-06-28T21:52:48.099068+00:00
+
+ ## Enterprise e-commerce, vereenvoudigd. | BigCommerce
+ - [https://www.bigcommerce.nl](https://www.bigcommerce.nl)
+ - date_published: 2024-07-08T12:40:32.577516+00:00
+
+ ## BigHole.nl
+ - [https://www.bighole.nl](https://www.bighole.nl)
+ - date_published: 2021-11-19T21:29:10+00:00
+
+ ## Binq Media | Home
+ - [https://www.binqmedia.nl](https://www.binqmedia.nl)
+ - date_published: 2018-05-22T14:01:03+00:00
+
+ ## Hét branchemedium voor de biologische sector
+ - [https://www.biojournaal.nl](https://www.biojournaal.nl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Datacenters, netwerk, managed hosting en cloud
+ - [http://www.bit.nl](http://www.bit.nl)
+ - date_published: 2024-06-22T10:15:49.752910+00:00
+
+ ## Bitdefender - Wereldwijd toonaangevend in cyberbeveiliging
+ - [https://www.bitdefender.nl](https://www.bitdefender.nl)
+ - date_published: 2024-07-20T02:26:36.974917+00:00
+
+ ## bitiba.nl | Goedkope online dierenwinkel in dierenbenodigheden
+ - [https://www.bitiba.nl](https://www.bitiba.nl)
+ - date_published: 2024-09-26T11:24:39.382718+00:00
+
+ ## Buy bitcoin (BTC), sell and store
+ - [https://bitonic.nl](https://bitonic.nl)
+ - date_published: 2024-12-12T13:42:07.307727+00:00
+
+ ## Bits&Chips
+ - [https://bits-chips.nl](https://bits-chips.nl)
+ - date_published: 2023-10-25T20:44:12.182832+00:00
+
+ ## Bits of Freedom: Voor jouw internetvrijheid
+ - [https://bitsoffreedom.nl](https://bitsoffreedom.nl)
+ - date_published: 2024-05-06T23:57:07.993995+00:00
+
+ ## Bits of Freedom: Donateurs
+ - [https://donateurs.bitsoffreedom.nl](https://donateurs.bitsoffreedom.nl)
+ - date_published: 2024-06-28T21:52:49.248345+00:00
+
+ ## Bits of Freedom Tech
+ - [https://tech.bitsoffreedom.nl](https://tech.bitsoffreedom.nl)
+ - date_published: 2024-02-15T11:03:38+00:00
+
+ ## Bjorn Franke - Het leukste dat je kunt worden is jezelf
+ - [https://bjornfranke.nl](https://bjornfranke.nl)
+ - date_published: 2024-01-05T01:05:09.979594+00:00
+
+ ## Bus of carpool? Ritten tegen lage prijzen. | BlaBlaCar
+ - [https://blablacar.nl](https://blablacar.nl)
+ - date_published: 2024-06-15T01:00:41.841857+00:00
+
+ ## BlaBlaCar
+ - [https://blog.blablacar.nl](https://blog.blablacar.nl)
+ - date_published: 2024-09-15T19:52:52.708367+00:00
+
+ ## Alles Over Blackjack - Tips, Trucs & Strategieën
+ - [https://blackjack-informatie.nl](https://blackjack-informatie.nl)
+ - date_published: 2023-07-26T09:09:07+00:00
+
+ ## Blimped
+ - [https://www.blimped.nl](https://www.blimped.nl)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Homepagina
+ - [https://www.blinkshop.nl](https://www.blinkshop.nl)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## bloempotfm.nl
+ - [http://www.bloempotfm.nl](http://www.bloempotfm.nl)
+ - date_published: 2024-08-30T20:48:30+00:00
+
+ ## Bloghelden
+ - [http://bloghelden.nl](http://bloghelden.nl)
+ - date_published: 2023-03-14T19:27:23+00:00
+
+ ## Electrospaces.net
+ - [http://electrospaces.blogspot.nl](http://electrospaces.blogspot.nl)
+ - date_published: 2024-06-16T17:38:45+00:00
+
+ ## europæus|law
+ - [https://europaeuslaw.blogspot.nl](https://europaeuslaw.blogspot.nl)
+ - date_published: 2024-05-02T09:57:16.635114+00:00
+
+ ## EUROPEAN COURTS
+ - [http://europeancourts.blogspot.nl](http://europeancourts.blogspot.nl)
+ - date_published: 2024-10-18T20:58:32.905017+00:00
+
+ ## Dr. Fu's Security Blog
+ - [http://fumalwareanalysis.blogspot.nl](http://fumalwareanalysis.blogspot.nl)
+ - date_published: 2024-07-14T08:35:00+00:00
+
+ ## The IPKat
+ - [https://ipkitten.blogspot.nl](https://ipkitten.blogspot.nl)
+ - date_published: 2024-10-18T19:15:25.997830+00:00
+
+ ## OmniFaces & JSF Fans
+ - [http://omnifaces-fans.blogspot.nl](http://omnifaces-fans.blogspot.nl)
+ - date_published: 2024-06-07T14:50:55+00:00
+
  ## Outsider  Environments Europe
  - [http://outsider-environments.blogspot.nl](http://outsider-environments.blogspot.nl)
  - date_published: 2024-10-16T14:04:21+00:00
@@ -3864,153 +4013,4 @@
  ## Jeroen Overschie
  - [https://jeroenoverschie.nl](https://jeroenoverschie.nl)
  - date_published: 2024-04-14T11:59:02+00:00
-
- ## Jerrel Arkes - Podcast over B2B marketing (voorheen Inbound4Cast)
- - [https://jerrelarkes.nl](https://jerrelarkes.nl)
- - date_published: 2024-07-02T19:56:45.282340+00:00
-
- ## Jesse Presse
- - [https://jessepresse.nl](https://jessepresse.nl)
- - date_published: 2024-07-15T06:22:23.153834+00:00
-
- ## NOS Jeugdjournaal
- - [https://jeugdjournaal.nl](https://jeugdjournaal.nl)
- - date_published: 2024-07-19T23:17:56.868101+00:00
-
- ## Home
- - [https://2022.jfall.nl](https://2022.jfall.nl)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Home - J-Fall
- - [https://2023.jfall.nl](https://2023.jfall.nl)
- - date_published: 2024-07-20T21:46:25.117463+00:00
-
- ## Home - J-Fall
- - [https://jfall.nl](https://jfall.nl)
- - date_published: 2024-07-20T21:46:16.290736+00:00
-
- ## Jimmy Nijs Art - Fantasy/Horror Illustrator
- - [http://www.jimmynijs-art.nl](http://www.jimmynijs-art.nl)
- - date_published: 2024-07-14T17:21:17.922863+00:00
-
- ## Hera Sans
- - [https://jimolijkan.nl](https://jimolijkan.nl)
- - date_published: 2024-08-01T12:57:50+00:00
-
- ## Jinglestudio.nl >> Voordelig en snel <<
- - [http://www.jinglestudio.nl](http://www.jinglestudio.nl)
- - date_published: 2024-02-16T09:35:25+00:00
-
- ## Home | JIVE intranet
- - [https://intranet.jive.nl](https://intranet.jive.nl)
- - date_published: 2024-07-14T20:38:11.696484+00:00
-
- ## JIVE
- - [https://jive.nl](https://jive.nl)
- - date_published: 2024-05-12T03:55:02.950882+00:00
-
- ## Vastgoedadviseurs & professionals | JLL Nederland
- - [https://www.jll.nl](https://www.jll.nl)
- - date_published: 2024-10-30T21:39:22.611336+00:00
-
- ## Jean Monnet Network on enforcement of EU law (EULEN) |
- - [https://jmn-eulen.nl](https://jmn-eulen.nl)
- - date_published: 2024-06-17T11:00:42.922187+00:00
-
- ## Joblift: all jobs on one platform
- - [https://joblift.nl](https://joblift.nl)
- - date_published: 2024-10-29T11:05:47.449508+00:00
-
- ## J O E R I    W O U D S T R A
- - [https://joeriwoudstra.nl](https://joeriwoudstra.nl)
- - date_published: 2015-12-17T10:12:09+00:00
-
- ## Joe's Flow | Freelance content creator
- - [https://www.joesflow.nl](https://www.joesflow.nl)
- - date_published: 2024-04-09T13:03:12+00:00
-
- ## Joe's Garage
- - [http://joesgarage.nl](http://joesgarage.nl)
- - date_published: 2024-06-23T13:48:54.035537+00:00
-
- ## John Noy
- - [https://johnnoy.nl](https://johnnoy.nl)
- - date_published: 2024-07-07T10:44:07.912022+00:00
-
- ## johnny ringo nederlandstalige muziek
- - [http://www.johnnyringo.nl](http://www.johnnyringo.nl)
- - date_published: 2024-09-13T19:00:32.356754+00:00
-
- ## Welkom
- - [https://johnspecialobjects.nl](https://johnspecialobjects.nl)
- - date_published: 2024-12-13T09:11:22.503927+00:00
-
- ## Home
- - [https://joogi.nl](https://joogi.nl)
- - date_published: 2024-10-08T00:00:00+00:00
-
- ## Studio Joost Grootens
- - [http://www.joostgrootens.nl](http://www.joostgrootens.nl)
- - date_published: 2024-07-13T14:41:38.320737+00:00
-
- ## Joost Rijneveld
- - [https://joostrijneveld.nl](https://joostrijneveld.nl)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Hi there! I'm Joran
- - [https://joranquinten.nl](https://joranquinten.nl)
- - date_published: 2024-05-10T06:24:24.952978+00:00
- - tags: ['personal']
-
- ## Jordihoven
- - [https://jordihoven.nl](https://jordihoven.nl)
- - date_published: 2024-05-11T10:17:15.145888+00:00
-
- ## Joseph Plateau | grafisch ontwerpers
- - [http://www.josephplateau.nl](http://www.josephplateau.nl)
- - date_published: 2024-07-07T09:48:18.034046+00:00
-
- ## Bestel foto's van het ANP | Jouw ANP Foto
- - [http://www.jouwanpfoto.nl](http://www.jouwanpfoto.nl)
- - date_published: 2024-12-14T17:29:10.016510+00:00
-
- ## Jouwpagina.nl | Hier vind je de allerbeste links
- - [https://jouwpagina.nl](https://jouwpagina.nl)
- - date_published: 2024-09-13T19:11:14.989897+00:00
-
- ## raventeamutrecht
- - [https://raventeamutrecht.jouwpagina.nl](https://raventeamutrecht.jouwpagina.nl)
- - date_published: 2024-06-13T21:27:23.823049+00:00
-
- ## Blijf Luid | Bits of Freedom
- - [https://www.jouwplatformrechten.nl](https://www.jouwplatformrechten.nl)
- - date_published: 2024-02-19T14:21:04+00:00
-
- ## Radio Drachten
- - [https://3daagsemarahton.jouwweb.nl](https://3daagsemarahton.jouwweb.nl)
- - date_published: 2024-09-13T18:53:33.566556+00:00
-
- ## Internetradio Bouzouky
- - [https://bouzoukyradio.jouwweb.nl](https://bouzoukyradio.jouwweb.nl)
- - date_published: 2024-06-13T21:26:21.937344+00:00
-
- ## caroline-radio
- - [https://carolineradio.jouwweb.nl](https://carolineradio.jouwweb.nl)
- - date_published: 2024-09-13T18:35:02.405863+00:00
-
- ## Chatregels | chatregels.jouwweb.nl
- - [http://chatregels.jouwweb.nl](http://chatregels.jouwweb.nl)
- - date_published: 2024-09-13T18:59:31.006233+00:00
-
- ## Dehitstationuutgrunn
- - [https://dehitsstationuutgrunn.jouwweb.nl](https://dehitsstationuutgrunn.jouwweb.nl)
- - date_published: 2024-09-13T19:24:32.933798+00:00
-
- ## radio-eltjadbo
- - [https://elt-jabo.jouwweb.nl](https://elt-jabo.jouwweb.nl)
- - date_published: 2024-06-13T21:26:26.006161+00:00
-
- ## Boeskoolstad Radio
- - [https://gratis-4080263.jouwweb.nl](https://gratis-4080263.jouwweb.nl)
- - date_published: 2024-06-13T21:26:28.996038+00:00
 

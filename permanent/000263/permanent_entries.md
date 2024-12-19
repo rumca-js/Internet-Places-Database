@@ -1,3 +1,90 @@
+ ## Top Level Design
+ - [https://toplevel.design](https://toplevel.design)
+ - date_published: 2024-06-03T06:11:53.064696+00:00
+
+ ## Trueform | Digital Experience Studio
+ - [https://www.trueform.design](https://www.trueform.design)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Work | twenty-six.design
+ - [http://www.twenty-six.design](http://www.twenty-six.design)
+ - date_published: 2024-05-15T15:28:42+00:00
+
+ ## Undertone.design | Academic graphic design
+ - [https://undertone.design](https://undertone.design)
+ - date_published: 2024-04-30T06:03:28.489976+00:00
+
+ ## Blank: Figma UI kit and Design system
+ - [https://useblank.design](https://useblank.design)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## USTUDIO Design | Award Winning Greeting Card Publisher
+ - [https://ustudio.design](https://ustudio.design)
+ - date_published: 2024-07-23T21:13:43.942842+00:00
+
+ ## Vev Design
+ - [https://a.vev.design](https://a.vev.design)
+ - date_published: 2018-07-28T14:10:51+00:00
+
+ ## VisualEyes - Optimize your UX via Attention Heatmaps and Clarity
+ - [https://www.visualeyes.design](https://www.visualeyes.design)
+ - date_published: 2024-06-29T15:34:23.637644+00:00
+
+ ## Vishal Krishna • Visual and UX Designer
+ - [https://vsk.design](https://vsk.design)
+ - date_published: 2024-07-24T02:30:18.464022+00:00
+
+ ## wahnsinn design
+ - [https://wahnsinn.design](https://wahnsinn.design)
+ - date_published: 2024-06-26T11:17:09+00:00
+
+ ## WeDesign
+ - [http://wechat.design](http://wechat.design)
+ - date_published: 2024-08-05T23:46:37.572880+00:00
+
+ ## Work – Werk 8
+ - [https://www.werk8.design](https://www.werk8.design)
+ - date_published: 2024-07-14T08:50:49.943363+00:00
+
+ ## Wise Design
+ - [https://wise.design](https://wise.design)
+ - date_published: 2023-10-25T18:34:32.784058+00:00
+
+ ## Студія «Зіна дизайн» - створення сайтів в Дніпрі
+ - [https://www.zina.design](https://www.zina.design)
+ - date_published: 2024-06-23T14:14:18.881195+00:00
+
+ ## 0dependencies!
+ - [https://0dependencies.dev](https://0dependencies.dev)
+ - date_published: 2024-09-05T00:10:55+00:00
+
+ ## Tech @ Cliqz
+ - [https://0x65.dev](https://0x65.dev)
+ - date_published: 2020-05-16T08:56:54+00:00
+ - tags: ['personal']
+
+ ## 0x7D0
+ - [https://0x7d0.dev](https://0x7d0.dev)
+ - date_published: 2024-01-20T00:00:00+00:00
+ - tags: ['personal', 'hacking']
+
+ ## 0x7D0
+ - [https://blog.0x7d0.dev](https://blog.0x7d0.dev)
+ - date_published: 2023-10-25T18:34:34.220775+00:00
+ - tags: ['personal', 'hacking']
+
+ ## 0x7f Inc.
+ - [https://0x7f.dev](https://0x7f.dev)
+ - date_published: 2023-10-25T18:34:34.827334+00:00
+
+ ## 0x7f Notes
+ - [https://notes.0x7f.dev](https://notes.0x7f.dev)
+ - date_published: 2024-08-19T04:22:25.180442+00:00
+
+ ## 0xCB - Tech, Keyboards and more
+ - [https://0xcb.dev](https://0xcb.dev)
+ - date_published: 2024-06-21T22:05:58.748190+00:00
+
  ## JJ
  - [https://0xjj.dev](https://0xjj.dev)
  - date_published: 2024-12-12T11:35:49.154449+00:00
@@ -1137,6 +1224,10 @@
  ## dot's pages
  - [https://dot.bearblog.dev](https://dot.bearblog.dev)
  - date_published: 2024-07-18T23:00:03.269339+00:00
+
+ ## Double Free Dev
+ - [https://doublefree.bearblog.dev](https://doublefree.bearblog.dev)
+ - date_published: 2024-12-18T11:28:57.570866+00:00
 
  ## damian's blog
  - [https://dx.bearblog.dev](https://dx.bearblog.dev)
@@ -3971,94 +4062,4 @@
  ## firenze.dev, la community di sviluppatori a firenze
  - [https://firenze.dev](https://firenze.dev)
  - date_published: 2024-06-22T14:02:38.803648+00:00
-
- ## Firezone
-     · Firezone
- - [https://app.firezone.dev](https://app.firezone.dev)
- - date_published: 2024-06-20T22:13:43.836597+00:00
-
- ## Oneleet | Trust Page
- - [https://trust.firezone.dev](https://trust.firezone.dev)
- - date_published: 2024-06-20T13:49:36+00:00
-
- ## Firezone: Zero trust access that scales
- - [https://www.firezone.dev](https://www.firezone.dev)
- - date_published: 2024-05-04T09:44:22.070487+00:00
-
- ## Reverse Image Search
- - DupeBot
- - [https://dupebot.firstbyte.dev](https://dupebot.firstbyte.dev)
- - date_published: 2024-07-02T20:17:57.389482+00:00
-
- ## The Hippocratic License: An Ethical License for Open Source
- - [https://firstdonoharm.dev](https://firstdonoharm.dev)
- - date_published: 2021-01-01T00:00:00+00:00
-
- ## Flashlight | Get your app Performance score
- - [https://flashlight.dev](https://flashlight.dev)
- - date_published: 2023-06-30T15:34:41+00:00
-
- ## Flawless - Durable Execution Engine
- - [https://flawless.dev](https://flawless.dev)
- - date_published: 2023-12-19T00:00:00+00:00
-
- ## Flecs
- - [https://flecs.dev](https://flecs.dev)
- - date_published: 2024-04-29T07:43:55.572472+00:00
-
- ## fleetwood.dev
- - [https://fleetwood.dev](https://fleetwood.dev)
- - date_published: 2024-11-18T00:28:57.121049+00:00
-
- ## Launch Your Ready-to-Use Marketplace in Just a Few Days
- - [https://fleexy.dev](https://fleexy.dev)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Flet – multi-platform apps in Python powered by Flutter
- - [https://flet.dev](https://flet.dev)
- - date_published: 2024-07-06T20:52:29+00:00
-
- ## Flightcontrol Jobs
- - [https://jobs.flightcontrol.dev](https://jobs.flightcontrol.dev)
- - date_published: 2023-10-25T18:38:01.725933+00:00
-
- ## Flightcontrol –  The kick-ass PaaS
- - [https://www.flightcontrol.dev](https://www.flightcontrol.dev)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## FlineDev
- - [https://www.fline.dev](https://www.fline.dev)
- - date_published: 2024-06-23T15:46:55.386842+00:00
-
- ## Just a placeholder
- - [https://fliphess.dev](https://fliphess.dev)
- - date_published: 2024-02-04T19:28:32+00:00
-
- ## Flipper Zero Links
- - [https://flipp.dev](https://flipp.dev)
- - date_published: 2023-07-20T09:47:26+00:00
-
- ## Flitter - Data Visualization Framework
- - [https://flitter.dev](https://flitter.dev)
- - date_published: 2024-07-07T02:58:43.167587+00:00
-
- ## The Flix Programming Language
- - [https://flix.dev](https://flix.dev)
- - date_published: 2023-11-26T04:54:16+00:00
-
- ## Florian Franke
- - [https://florianfranke.dev](https://florianfranke.dev)
- - date_published: 2024-04-05T16:59:00+00:00
-
- ## Florimond Manca
- - [https://florimond.dev](https://florimond.dev)
- - date_published: 2024-05-09T08:12:03.169885+00:00
-
- ## Posts
- - [https://flounder.dev](https://flounder.dev)
- - date_published: 2024-10-12T08:57:45.389523+00:00
-
- ## Flower: A Friendly Federated Learning Framework
- - [https://flower.dev](https://flower.dev)
- - date_published: 2023-11-16T20:06:53.497502+00:00
 

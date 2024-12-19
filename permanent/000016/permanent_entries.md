@@ -1,3 +1,15 @@
+ ## FAL - Fazenda Água Limpa - Início
+ - [http://fal.unb.br](http://fal.unb.br)
+ - date_published: 2024-07-20T11:06:19+00:00
+
+ ## UnB
+ - [http://international.unb.br](http://international.unb.br)
+ - date_published: 2024-07-20T11:05:43+00:00
+
+ ## INT - UnB - Início
+ - [http://int.unb.br](http://int.unb.br)
+ - date_published: 2024-07-20T11:07:19+00:00
+
  ## Marca UnB
  - [http://marca.unb.br](http://marca.unb.br)
  - date_published: 2024-07-20T11:20:33.905314+00:00
@@ -3998,16 +4010,4 @@
  ## Prof. Caetano
  - [http://www.caetano.eng.br](http://www.caetano.eng.br)
  - date_published: 2024-07-08T08:33:45.032131+00:00
-
- ## Eduardo Maçan - We stand here exposing ourselves. We are showroom dummies!
- - [https://eduardo.macan.eng.br](https://eduardo.macan.eng.br)
- - date_published: 2024-07-09T07:56:32.754284+00:00
-
- ## Thadeu Lima de Souza Cascardo
- - [https://cascardo.eti.br](https://cascardo.eti.br)
- - date_published: 2019-10-31T22:08:13+00:00
-
- ## Atividades Escolares e Jogos Educativos: Palavras Cruzadas, Caça Palavras, Sudoku, Jogo da Memória, Passatempos, Atividades para Imprimir, Labirinto, Jogo dos 7 Erros, Quebra Cabeça, Desenhos para Colorir, Folhas Para Aprender Desenhar, Quiz Interativo.
- - [https://www.sol.eti.br](https://www.sol.eti.br)
- - date_published: 2022-03-26T18:09:40+00:00
 

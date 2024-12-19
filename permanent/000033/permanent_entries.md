@@ -1,3 +1,39 @@
+ ## À propos de MacGeneration
+ - [https://ours.macg.co](https://ours.macg.co)
+ - date_published: 2023-12-20T08:48:46+00:00
+
+ ## MacGeneration Shop
+ - [https://shop.macg.co](https://shop.macg.co)
+ - date_published: 2024-06-20T04:44:44.625253+00:00
+
+ ## Mastodon de MacGeneration
+ - [https://social.macg.co](https://social.macg.co)
+ - date_published: 2024-06-20T04:44:31.651386+00:00
+
+ ## MacGeneration
+ - [https://www.macg.co](https://www.macg.co)
+ - date_published: 2024-05-04T07:55:26.129840+00:00
+
+ ## Craft
+ - [https://madebycraft.co](https://madebycraft.co)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Fast ad block for iPhone, iPad and Mac – Magic Lasso Adblock
+ - [https://www.magiclasso.co](https://www.magiclasso.co)
+ - date_published: 2023-10-25T12:19:24.874504+00:00
+
+ ## Magic Mind | The World's First Mental Performance Shot
+ - [https://magicmind.co](https://magicmind.co)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## MailDump - Find all email addresses on any domain in seconds
+ - [https://maildump.co](https://maildump.co)
+ - date_published: 2024-07-10T03:08:45.017217+00:00
+
+ ## Mailmouse: share an email address
+ - [https://mailmouse.co](https://mailmouse.co)
+ - date_published: 2024-04-29T05:56:49.221623+00:00
+
  ## MailReach
  - [https://app.mailreach.co](https://app.mailreach.co)
  - date_published: 2024-07-12T10:19:26+00:00
@@ -1038,10 +1074,6 @@
  ## Breathe new life into your stories
  - [https://notos.co](https://notos.co)
  - date_published: 2024-12-16T13:41:35.874531+00:00
-
- ## Breathe new life into your stories
- - [https://www.notos.co](https://www.notos.co)
- - date_published: 2024-12-16T13:41:34.625133+00:00
 
  ## Online Business Banking Solutions | Novo
  - [https://novo.co](https://novo.co)
@@ -3992,36 +4024,4 @@
  ## Speeko - AI Speech Coach for Public Speaking (Apple App of the Day)
  - [https://www.speeko.co](https://www.speeko.co)
  - date_published: 2024-06-19T19:39:46.450602+00:00
-
- ## Spext - Cut audio by trimming the auto generated transcript
- - [https://app.spext.co](https://app.spext.co)
- - date_published: 2024-08-20T10:26:07+00:00
-
- ## Free Google Meet & Zoom meeting recorder
- - [https://record.spext.co](https://record.spext.co)
- - date_published: 2024-10-18T08:12:21+00:00
-
- ## Spext
- - [https://spext.co](https://spext.co)
- - date_published: 2024-08-19T15:10:39+00:00
-
- ## Spin Padel - Club de padel en Bogotá y Colombia
- - [https://spinpadel.co](https://spinpadel.co)
- - date_published: 2024-02-02T22:21:39+00:00
-
- ## Doks
- - [https://doks.spiritix.co](https://doks.spiritix.co)
- - date_published: 2024-09-05T23:40:54.250022+00:00
-
- ## Spiritix
- - [https://spiritix.co](https://spiritix.co)
- - date_published: 2024-04-30T06:15:46.488107+00:00
-
- ## SpotAI Dashboard
- - [https://dashboard.spotai.co](https://dashboard.spotai.co)
- - date_published: 2024-10-12T22:32:50.025158+00:00
-
- ## SpotHopper (static.spotapps.co)
- - [https://static.spotapps.co](https://static.spotapps.co)
- - date_published: 2014-04-24T22:44:18+00:00
 

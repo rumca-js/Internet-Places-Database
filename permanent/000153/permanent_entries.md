@@ -1,3 +1,75 @@
+ ## Microsoft Forms - Free tool to create online surveys, forms, polls, and quizzes
+ - [https://forms.microsoft.com](https://forms.microsoft.com)
+ - date_published: 2024-08-11T17:42:03.018538+00:00
+
+ ## Artificial Intelligence Solutions | Microsoft AI
+ - [https://fuse.microsoft.com](https://fuse.microsoft.com)
+ - date_published: 2024-06-30T10:06:36.040571+00:00
+
+ ## Microsoft Learn: Build skills that open doors in your career
+ - [https://gallery.technet.microsoft.com](https://gallery.technet.microsoft.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## App badge tester
+ - [https://get.microsoft.com](https://get.microsoft.com)
+ - date_published: 2024-06-03T19:06:53+00:00
+
+ ## Microsoft – chmura, komputery, aplikacje i gry
+ - [https://go.microsoft.com](https://go.microsoft.com)
+ - date_published: 2024-04-28T02:26:37.044247+00:00
+
+ ## Microsoft Graph Dev Center | APIs and app development
+ - [https://graph.microsoft.com](https://graph.microsoft.com)
+ - date_published: 2024-05-07T09:12:40.653122+00:00
+
+ ## Microsoft Guided Tours
+ - [https://guidedtour.microsoft.com](https://guidedtour.microsoft.com)
+ - date_published: 2024-07-25T07:11:52+00:00
+
+ ## Microsoft Research Lab - Cambridge - Microsoft Research
+ - [https://hxd.research.microsoft.com](https://hxd.research.microsoft.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Join us November 18–22, 2024
+ - [https://ignite.microsoft.com](https://ignite.microsoft.com)
+ - date_published: 2024-05-04T06:46:32.533987+00:00
+
+ ## Branżowe rozwiązania chmurowe firmy Microsoft
+ - [https://info.microsoft.com](https://info.microsoft.com)
+ - date_published: 2024-06-22T09:19:41.364233+00:00
+
+ ## Microsoft Research – Emerging Technology, Computer, and Software Research
+ - [https://innovation.microsoft.com](https://innovation.microsoft.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Search Jobs | Microsoft Careers
+ - [https://jobs.careers.microsoft.com](https://jobs.careers.microsoft.com)
+ - date_published: 2023-10-25T11:31:38.386584+00:00
+
+ ## Search Jobs | Microsoft Careers
+ - [https://jobs.careersppe.microsoft.com](https://jobs.careersppe.microsoft.com)
+ - date_published: 2024-08-06T12:52:39+00:00
+
+ ## My Apps
+ - [https://launcher.myapps.microsoft.com](https://launcher.myapps.microsoft.com)
+ - date_published: 2024-05-31T23:02:26+00:00
+
+ ## Learning Lab
+ - [https://learninglab.about.ads.microsoft.com](https://learninglab.about.ads.microsoft.com)
+ - date_published: 2024-06-25T20:07:06+00:00
+
+ ## Microsoft Learn: Build skills that open doors in your career
+ - [https://learn.microsoft.com](https://learn.microsoft.com)
+ - date_published: 2023-10-25T11:30:34.619514+00:00
+
+ ## Sign in to your account
+ - [https://login.microsoft.com](https://login.microsoft.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Microsoft Loop - Think, plan and create together
+ - [https://loop.microsoft.com](https://loop.microsoft.com)
+ - date_published: 2024-10-07T00:00:00+00:00
+
  ## MCAPSStartforPartnersFY24 | SignIn
  - [https://mcapsstartforpartners.microsoft.com](https://mcapsstartforpartners.microsoft.com)
  - date_published: 2024-06-29T13:25:38.514134+00:00
@@ -3986,76 +4058,4 @@
  ## The Miracle Morning
  - [https://miraclemorning.com](https://miraclemorning.com)
  - date_published: 2024-05-31T00:00:00+00:00
-
- ## 奇绩创坛官网
- - [https://www.miracleplus.com](https://www.miracleplus.com)
- - date_published: 2024-05-20T06:26:04+00:00
-
- ## Miraculous Ladybug: Official Site for Episodes, Characters & News
- - [http://www.miraculousladybug.com](http://www.miraculousladybug.com)
- - date_published: 2024-10-23T10:18:14.045553+00:00
-
- ## Login - Miradore
- - [https://online.miradore.com](https://online.miradore.com)
- - date_published: 2024-06-20T11:45:51.941849+00:00
-
- ## Miradore MDM Software | Smarter Mobile Device Management
- - [https://www.miradore.com](https://www.miradore.com)
- - date_published: 2018-10-25T03:13:06+00:00
-
- ## 미래에셋증권 - 글로벌 투자 파트너
- - [https://securities.miraeasset.com](https://securities.miraeasset.com)
- - date_published: 2022-08-19T06:50:41+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.miragefloors.com](https://www.miragefloors.com)
- - date_published: 2024-05-02T09:52:45.143857+00:00
-
- ## Mirage JS • An API mocking library for frontend developers
- - [https://miragejs.com](https://miragejs.com)
- - date_published: 2024-05-06T13:16:17.006863+00:00
-
- ## Australia's 24/7 live news & media portal
- - [https://cdn1.miragenews.com](https://cdn1.miragenews.com)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## Australia's 24/7 live news & media portal
- - [https://www.miragenews.com](https://www.miragenews.com)
- - date_published: 2024-06-17T02:34:35+00:00
-
- ## みらい翻訳｜AI自動翻訳サービス・機械翻訳
- - [https://miraitranslate.com](https://miraitranslate.com)
- - date_published: 2024-06-19T20:54:56.850945+00:00
-
- ## みらい翻訳Plus｜仕事で使うあなたへ。日本発AI翻訳サービス
- - [https://plus.miraitranslate.com](https://plus.miraitranslate.com)
- - date_published: 2024-09-24T11:20:38+00:00
-
- ## mirak-athletics.com
- - [https://mirak-athletics.com](https://mirak-athletics.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Mirakl | Online Marketplace and Dropship Solution
- - [https://www.mirakl.com](https://www.mirakl.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home - Miramar Air Show
- - [http://www.miramarairshow.com](http://www.miramarairshow.com)
- - date_published: 2024-06-29T17:33:39+00:00
-
- ## Miranda Fricker
- - [https://www.mirandafricker.com](https://www.mirandafricker.com)
- - date_published: 2024-09-18T08:05:15.101030+00:00
-
- ## Kubernetes Training & Certification | Mirantis
- - [https://training.mirantis.com](https://training.mirantis.com)
- - date_published: 2024-12-02T13:39:19+00:00
-
- ## Enterprise On-Prem Cloud & Kubernetes Support | Mirantis
- - [https://www.mirantis.com](https://www.mirantis.com)
- - date_published: 2024-06-22T06:11:37.001818+00:00
-
- ## The Art of Miraval
- - [https://www.miraval.com](https://www.miraval.com)
- - date_published: 2024-07-03T06:33:48.142427+00:00
 

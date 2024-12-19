@@ -1,3 +1,39 @@
+ ## Oval Angle
+ - [https://ovalangle.bandcamp.com](https://ovalangle.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Gem Lingo (ovr now), by Overmono feat. Ruthven
+ - [http://overmono.bandcamp.com](http://overmono.bandcamp.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Overthrust
+ - [https://overthrust3.bandcamp.com](https://overthrust3.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Ozelot Records
+ - [https://ozelot-ltd.bandcamp.com](https://ozelot-ltd.bandcamp.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Pablo Color
+ - [https://pablocolor.bandcamp.com](https://pablocolor.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Pagan Records
+ - [https://paganrecords.bandcamp.com](https://paganrecords.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Lappi, by Painless Destiny
+ - [https://painlessdestiny.bandcamp.com](https://painlessdestiny.bandcamp.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Goodnight, Mr Bond..., by Paisley Bible
+ - [https://paisleybible.bandcamp.com](https://paisleybible.bandcamp.com)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Papercuts
+ - [https://papercutsmusic.bandcamp.com](https://papercutsmusic.bandcamp.com)
+ - date_published: 2024-07-19T20:27:05.049103+00:00
+
  ## PS2, by Parallax Scrolls
  - [https://parallaxscrolls.bandcamp.com](https://parallaxscrolls.bandcamp.com)
  - date_published: 2024-10-17T22:07:15.314641+00:00
@@ -3973,40 +4009,4 @@ rain or shine
  ## Fathom Analytics: A Better Google Analytics Alternative
  - [https://thirtythree-thirtynine.basedash.com](https://thirtythree-thirtynine.basedash.com)
  - date_published: 2024-06-26T20:41:24+00:00
-
- ## Building brands with cultural impact | Base Design
- - [https://www.basedesign.com](https://www.basedesign.com)
- - date_published: 2024-06-25T21:16:28.688591+00:00
-
- ## Based In - Co-working Space for creative entrepreneurs
- - [https://basedin.com](https://basedin.com)
- - date_published: 2024-06-17T04:05:53.947631+00:00
-
- ## Based In
- - [https://members.basedin.com](https://members.basedin.com)
- - date_published: 2024-10-16T17:18:01.937202+00:00
-
- ## based underground
- - [https://basedunderground.com](https://basedunderground.com)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Fast, Collaborative, AI-Native Content Management — BaseHub
- - [https://basehub.com](https://basehub.com)
- - date_published: 2024-07-22T17:17:57.351272+00:00
-
- ## The network service provider | Base IP
- - [https://baseip.com](https://baseip.com)
- - date_published: 2023-03-27T12:42:40+00:00
-
- ## Sign up to Baselane
- - [https://app.baselane.com](https://app.baselane.com)
- - date_published: 2024-09-09T18:04:41+00:00
-
- ## Free Landlord Software - Banking, Accounting & Rent Collection | Baselane
- - [https://baselane.com](https://baselane.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Baselane
- - [https://support.baselane.com](https://support.baselane.com)
- - date_published: 2024-08-15T00:00:00+00:00
 

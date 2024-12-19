@@ -1,3 +1,43 @@
+ ## The FAPE Page
+ - [http://www.fapepage.blogspot.com](http://www.fapepage.blogspot.com)
+ - date_published: 2024-03-23T18:51:24+00:00
+
+ ## PERGE MODO
+ - [http://www.farmboyz.blogspot.com](http://www.farmboyz.blogspot.com)
+ - date_published: 2024-09-21T23:37:39+00:00
+
+ ## Blogger
+ - [https://www.fathermanseekingpeace.blogspot.com](https://www.fathermanseekingpeace.blogspot.com)
+ - date_published: 2024-08-19T21:46:56.274929+00:00
+
+ ## dan's kitchen
+ - [http://www.favini.blogspot.com](http://www.favini.blogspot.com)
+ - date_published: 2024-06-10T17:58:13+00:00
+
+ ## Future and Cosmos
+ - [http://www.futureandcosmos.blogspot.com](http://www.futureandcosmos.blogspot.com)
+ - date_published: 2024-08-18T05:30:00+00:00
+
+ ## Gail Wendorf Studio
+ - [http://www.gailwendorf.blogspot.com](http://www.gailwendorf.blogspot.com)
+ - date_published: 2024-10-21T17:34:05.295995+00:00
+
+ ## POLYMER CLAY AND CHILDREN
+ - [http://www.gariesim.blogspot.com](http://www.gariesim.blogspot.com)
+ - date_published: 2024-08-05T07:17:37+00:00
+
+ ## geoExpressions
+ - [http://www.geoexpressions.blogspot.com](http://www.geoexpressions.blogspot.com)
+ - date_published: 2024-07-04T05:41:47+00:00
+
+ ## The Duchess of Devonshire's Gossip Guide to the 18th Century
+ - [http://www.georgianaduchessofdevonshire.blogspot.com](http://www.georgianaduchessofdevonshire.blogspot.com)
+ - date_published: 2024-09-08T07:20:15+00:00
+
+ ## Gilbert Submits
+ - [http://www.gilbertsubmits.blogspot.com](http://www.gilbertsubmits.blogspot.com)
+ - date_published: 2024-03-14T06:39:05+00:00
+
  ## Blogger
  - [http://www.godontrial.blogspot.com](http://www.godontrial.blogspot.com)
  - date_published: 2024-12-12T21:48:29.078993+00:00
@@ -4001,44 +4041,4 @@
  ## Stevens Institute of Technology Apparel & Spirit Store Gifts, Spirit Apparel & Gear, Basketball Gear & Cold Weather Accessories | Stevens Institute of Technology Apparel & Spirit Store Spirit Shop
  - [https://stevens.spirit.bncollege.com](https://stevens.spirit.bncollege.com)
  - date_published: 2024-07-01T20:36:38.348702+00:00
-
- ## Apparel, Gifts & Textbooks | The College of New Jersey Official Bookstore
- - [https://tcnj.bncollege.com](https://tcnj.bncollege.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Apparel, Gifts & Textbooks | University of Alabama at Birmingham Bookstore
- - [https://uab.bncollege.com](https://uab.bncollege.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Apparel, Gifts & Textbooks | University of Alaska Fairbanks
- - [https://uaf.bncollege.com](https://uaf.bncollege.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Apparel, Gifts & Textbooks | University of Arkansas at Little Rock Bookstore
- - [http://ualr.bncollege.com](http://ualr.bncollege.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Apparel, Gifts & Textbooks | University of Baltimore Official Bookstore
- - [http://ubalt.bncollege.com](http://ubalt.bncollege.com)
- - date_published: 2024-10-18T22:23:08.763255+00:00
-
- ## Apparel, Gifts & Textbooks | University of California Riverside Bookstore
- - [https://ucr.bncollege.com](https://ucr.bncollege.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## University of California - Riverside Apparel & Spirit Store Gifts, Spirit Apparel & Gear, Basketball Gear & Cold Weather Accessories | University of California - Riverside Apparel & Spirit Store Spirit Shop
- - [https://ucr.spirit.bncollege.com](https://ucr.spirit.bncollege.com)
- - date_published: 2024-07-01T23:36:49.867323+00:00
-
- ## Apparel, Gifts & Textbooks | University of Michigan - Dearborn Bookstore
- - [https://umd.bncollege.com](https://umd.bncollege.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## University of Michigan - Dearborn Apparel & Spirit Store Gifts, Spirit Apparel & Gear, Basketball Gear & Cold Weather Accessories | University of Michigan - Dearborn Apparel & Spirit Store Spirit Shop
- - [https://umd.spirit.bncollege.com](https://umd.spirit.bncollege.com)
- - date_published: 2024-07-02T03:47:01.067374+00:00
-
- ## Apparel, Gifts & Textbooks | University of Michigan - Flint Official Bookstore
- - [https://umflint.bncollege.com](https://umflint.bncollege.com)
- - date_published: 2024-06-28T00:00:00+00:00
 

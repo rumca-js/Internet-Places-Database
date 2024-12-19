@@ -1,3 +1,40 @@
+ ## Project Zero
+ - [https://googleprojectzero.blogspot.com](https://googleprojectzero.blogspot.com)
+ - date_published: 2023-10-25T09:08:43.856862+00:00
+ - tags: ['personal']
+
+ ## Official Google Reader Blog
+ - [https://googlereader.blogspot.com](https://googlereader.blogspot.com)
+ - date_published: 2024-04-07T18:21:19+00:00
+
+ ## Blog
+ - [https://googleresearch.blogspot.com](https://googleresearch.blogspot.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Google Scholar Blog
+ - [https://googlescholar.blogspot.com](https://googlescholar.blogspot.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Google Operating System
+ - [https://googlesystem.blogspot.com](https://googlesystem.blogspot.com)
+ - date_published: 2022-01-04T10:55:00+00:00
+
+ ## Google Talkabout
+ - [https://googletalk.blogspot.com](https://googletalk.blogspot.com)
+ - date_published: 2024-03-05T06:06:40+00:00
+
+ ## Google Testing Blog
+ - [https://googletesting.blogspot.com](https://googletesting.blogspot.com)
+ - date_published: 2024-05-04T08:30:49.966306+00:00
+
+ ## TV Ads Blog
+ - [https://google-tvads.blogspot.com](https://google-tvads.blogspot.com)
+ - date_published: 2024-02-07T04:32:39+00:00
+
+ ## Google Voice Blog
+ - [http://googlevoiceblog.blogspot.com](http://googlevoiceblog.blogspot.com)
+ - date_published: 2024-08-28T18:15:17+00:00
+
  ## Official Google Webmaster Central Blog
  - [https://googlewebmastercentral.blogspot.com](https://googlewebmastercentral.blogspot.com)
  - date_published: 2024-05-08T06:31:34.189772+00:00
@@ -3974,40 +4011,4 @@
  ## Rocwell Studios
  - [http://johnnyrocwell.blogspot.com](http://johnnyrocwell.blogspot.com)
  - date_published: 2024-07-03T03:21:13+00:00
-
- ## John Morris: Unmedicated
- - [http://johnpmorris.blogspot.com](http://johnpmorris.blogspot.com)
- - date_published: 2024-03-14T10:43:03+00:00
-
- ## Food &Health Skeptic
- - [http://john-ray.blogspot.com](http://john-ray.blogspot.com)
- - date_published: 2024-06-18T07:13:05+00:00
-
- ## John Lott's Website
- - [http://johnrlott.blogspot.com](http://johnrlott.blogspot.com)
- - date_published: 2024-06-24T02:22:44+00:00
-
- ## shelley scraps
- - [http://johnshelley.blogspot.com](http://johnshelley.blogspot.com)
- - date_published: 2024-08-17T03:39:25+00:00
-
- ## Tlogger T(ype Writer)log
- - [http://johnstowntypewriterconservatory.blogspot.com](http://johnstowntypewriterconservatory.blogspot.com)
- - date_published: 2024-03-08T16:34:26+00:00
-
- ## John's Toy Soldiers
- - [http://johnstoysoldiers.blogspot.com](http://johnstoysoldiers.blogspot.com)
- - date_published: 2024-07-20T07:08:39+00:00
-
- ## Pushing Limits
- - [http://johntsharp.blogspot.com](http://johntsharp.blogspot.com)
- - date_published: 2024-09-25T19:03:55+00:00
-
- ## John Winter
- - [https://johnwintersculpting.blogspot.com](https://johnwintersculpting.blogspot.com)
- - date_published: 2024-08-29T02:40:10+00:00
-
- ## John Wiswell on the Web
- - [https://johnwiswell.blogspot.com](https://johnwiswell.blogspot.com)
- - date_published: 2024-04-15T19:03:00+00:00
 

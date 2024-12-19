@@ -1,3 +1,15 @@
+ ## Eduardo Maçan - We stand here exposing ourselves. We are showroom dummies!
+ - [https://eduardo.macan.eng.br](https://eduardo.macan.eng.br)
+ - date_published: 2024-07-09T07:56:32.754284+00:00
+
+ ## Thadeu Lima de Souza Cascardo
+ - [https://cascardo.eti.br](https://cascardo.eti.br)
+ - date_published: 2019-10-31T22:08:13+00:00
+
+ ## Atividades Escolares e Jogos Educativos: Palavras Cruzadas, Caça Palavras, Sudoku, Jogo da Memória, Passatempos, Atividades para Imprimir, Labirinto, Jogo dos 7 Erros, Quebra Cabeça, Desenhos para Colorir, Folhas Para Aprender Desenhar, Quiz Interativo.
+ - [https://www.sol.eti.br](https://www.sol.eti.br)
+ - date_published: 2022-03-26T18:09:40+00:00
+
  ## GOV.BR
  - [https://gov.br](https://gov.br)
  - date_published: 2023-12-11T19:33:23.992575+00:00
@@ -4006,16 +4018,4 @@
  ## Find Software
  - [https://capterra.ca](https://capterra.ca)
  - date_published: 2024-06-13T06:42:11.073248+00:00
-
- ## Capterra Canada vous aide à trouver le bon logiciel pour votre entreprise
- - [https://fr.capterra.ca](https://fr.capterra.ca)
- - date_published: 2024-07-20T19:26:39.650905+00:00
-
- ## Billetterie - Football 2024 - Carabins
- - [http://carabinsfootball.ca](http://carabinsfootball.ca)
- - date_published: 2024-08-06T17:05:13+00:00
-
- ## Imagination Toward a Thriving Society | Cardus
- - [https://www.cardus.ca](https://www.cardus.ca)
- - date_published: 2024-07-05T00:00:00+00:00
 

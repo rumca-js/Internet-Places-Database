@@ -1,3 +1,266 @@
+ ## www.yatirimadestek.gov.tr | Devlet Destekleri ve Teşvikler
+ - [https://www.yatirimadestek.gov.tr](https://www.yatirimadestek.gov.tr)
+ - date_published: 2024-10-19T17:12:05.954518+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://acikerisim.yok.gov.tr](https://acikerisim.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:42.194624+00:00
+
+ ## YÜKSEKÖĞRETİM KURULU
+ - [https://akademik.yok.gov.tr](https://akademik.yok.gov.tr)
+ - date_published: 2024-05-02T10:26:50.302804+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://basin.yok.gov.tr](https://basin.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:30.727790+00:00
+
+ ## YÖK
+            
+            
+            AnaSayfa
+ - [https://burs.yok.gov.tr](https://burs.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://covid19.yok.gov.tr](https://covid19.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://denetleme.yok.gov.tr](https://denetleme.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:33.387809+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [http://denklik.yok.gov.tr](http://denklik.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:36.702038+00:00
+
+ ## YÖK
+            
+            
+            Engelli Öğrenci Komisyonu
+ - [https://engelsiz.yok.gov.tr](https://engelsiz.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:38.251467+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://farabi.yok.gov.tr](https://farabi.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:35.321329+00:00
+
+ ## Yükseköğretim Bilgi Yönetim Sistemi
+ - [https://istatistik.yok.gov.tr](https://istatistik.yok.gov.tr)
+ - date_published: 2024-06-17T15:27:25.004889+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://kadincalismalari.yok.gov.tr](https://kadincalismalari.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://mevlana.yok.gov.tr](https://mevlana.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:40.663301+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://odul.yok.gov.tr](https://odul.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK Okul Tanima Sistemi
+ - [https://okultanima.yok.gov.tr](https://okultanima.yok.gov.tr)
+ - date_published: 2024-06-17T15:10:42.985089+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://oyp.yok.gov.tr](https://oyp.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Ulusal Tez Merkezi | Anasayfa
+ - [https://tez.yok.gov.tr](https://tez.yok.gov.tr)
+ - date_published: 2024-05-02T10:25:55.267456+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://uluslararasi.yok.gov.tr](https://uluslararasi.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://vcforum.yok.gov.tr](https://vcforum.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:44.348192+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [http://www.yok.gov.tr](http://www.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Yükseköğretim Program Atlası
+ - [https://yokatlas.yok.gov.tr](https://yokatlas.yok.gov.tr)
+ - date_published: 2024-06-17T15:10:40.080702+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://yok.gov.tr](https://yok.gov.tr)
+ - date_published: 2024-10-19T12:51:22.813798+00:00
+
+ ## Yükseköğretim Bilgi Sistemi
+ - [https://yoksis.yok.gov.tr](https://yoksis.yok.gov.tr)
+ - date_published: 2024-05-02T10:25:40.424402+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://yuzikibinbursu.yok.gov.tr](https://yuzikibinbursu.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:31.903337+00:00
+
+ ## Yükseköğretim Kalite Kurulu - AKSİS
+ - [https://akreditasyon.yokak.gov.tr](https://akreditasyon.yokak.gov.tr)
+ - date_published: 2024-10-19T12:52:22.292989+00:00
+
+ ## Yükseköğretim Kalite Kurulu, Yüksek Öğretim Kalite Kurulu Web Sitesi, Higher Education Quality Council Web Site, Higher Education Quality Council of Turkey
+ - [https://yokak.gov.tr](https://yokak.gov.tr)
+ - date_published: 2024-06-17T15:10:50.544291+00:00
+
+ ## BEŞERÎ VE SOSYAL KALKINMA ARAŞTIRMALARI DESTEK PROGRAMI (BESKAP)
+ - [https://beskap.ytb.gov.tr](https://beskap.ytb.gov.tr)
+ - date_published: 2024-10-19T14:39:10.175604+00:00
+
+ ## Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
+ - [https://dkp.ytb.gov.tr](https://dkp.ytb.gov.tr)
+ - date_published: 2024-10-19T12:51:34.330616+00:00
+
+ ## Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
+ - [https://ytb.gov.tr](https://ytb.gov.tr)
+ - date_published: 2024-10-19T12:51:33.012081+00:00
+
+ ## www.make-it-in-germany.com/tr
+ - [https://www.make-it-in-germany.info.tr](https://www.make-it-in-germany.info.tr)
+ - date_published: 2024-07-13T17:32:28.641639+00:00
+
+ ## Open Information Technologies
+ - [https://open.info.tr](https://open.info.tr)
+ - date_published: 2024-04-25T09:03:53+00:00
+
+ ## Saat Kaç? - SaatKac.info.tr
+ - [https://saatkac.info.tr](https://saatkac.info.tr)
+ - date_published: 2024-05-06T15:13:40.882036+00:00
+
+ ## T.C. MİLLÎ EĞİTİM BAKANLIĞI KONYA / SELÇUKLU / Adil Karaağaç Mesleki ve Teknik Anadolu Lisesi
+ - [https://akatl.meb.k12.tr](https://akatl.meb.k12.tr)
+ - date_published: 2024-07-02T19:30:49.465501+00:00
+
+ ## Barkod's Basement
+ - [https://b4rkod.net.tr](https://b4rkod.net.tr)
+ - date_published: 2024-05-06T15:10:40.776166+00:00
+
+ ## Git repository browser
+ - [https://git.b4rkod.net.tr](https://git.b4rkod.net.tr)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Ana Sayfa - TRT Kariyer
+ - [https://kariyer.trt.net.tr](https://kariyer.trt.net.tr)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## TRT Kanalları ve Programları
+ - [https://www.trt.net.tr](https://www.trt.net.tr)
+ - date_published: 2024-12-12T12:34:49.657271+00:00
+
+ ## Adana Sanayi Odası
+ - [http://www.adaso.org.tr](http://www.adaso.org.tr)
+ - date_published: 2024-09-19T19:52:18.270182+00:00
+
+ ## AdımODTÜ
+ - [https://adimodtu.org.tr](https://adimodtu.org.tr)
+ - date_published: 2024-06-17T15:36:49.392829+00:00
+
+ ## Sivil Toplum Kuruluşu | AFCEA Türkiye
+ - [http://www.afcea.org.tr](http://www.afcea.org.tr)
+ - date_published: 2024-12-13T13:06:58.864578+00:00
+
+ ## AKUT Arama Kurtarma Derneği
+ - [https://www.akut.org.tr](https://www.akut.org.tr)
+ - date_published: 2024-09-09T23:12:18.561079+00:00
+
+ ## IIS 10.0 Detailed Error - 403.0 - ModSecurity Action
+ - [https://ankos.org.tr](https://ankos.org.tr)
+ - date_published: 2024-06-17T15:00:31.762450+00:00
+
+ ## ANKOS Üye Portalı – ELEKTRONİK BİLGİYE EKONOMİK ERİŞİM YOLU
+ - [http://uye.ankos.org.tr](http://uye.ankos.org.tr)
+ - date_published: 2024-10-19T12:10:30.139064+00:00
+
+ ## ASİL Derneği | Asil Yardımlaşma Derneği
+ - [https://asildernegi.org.tr](https://asildernegi.org.tr)
+ - date_published: 2024-07-09T11:38:15.493056+00:00
+
+ ## Ankara Sanayi Odası
+ - [https://www.aso.org.tr](https://www.aso.org.tr)
+ - date_published: 2024-09-19T19:58:44.278262+00:00
+
+ ## ANADOLU ÜNİVERSİTELER BİRLİĞİ - Anasayfa
+ - [https://aub.org.tr](https://aub.org.tr)
+ - date_published: 2024-06-17T16:05:30.186225+00:00
+
+ ## BEBKA
+ - [https://bebka.org.tr](https://bebka.org.tr)
+ - date_published: 2024-10-19T12:28:35.915161+00:00
+
+ ## Creative Commons Türkiye
+ - [http://creativecommons.org.tr](http://creativecommons.org.tr)
+ - date_published: 2024-07-08T20:19:30.269199+00:00
+
+ ## Çocuk Sağlığı ve Hastalıkları Dergisi
+ - [https://www.cshd.org.tr](https://www.cshd.org.tr)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Home
+ - [https://dergipark.org.tr](https://dergipark.org.tr)
+ - date_published: 2024-06-17T15:27:36.933827+00:00
+
+ ## Endüstri Gazetecileri Derneği | Gazeteciliğin yeni ve üreten alanı “endüstri gazeteciliği”, endüstriyi şimdi daha iyi anlıyor ve anlatıyoruz.
+ - [http://www.endustrigazetecileridernegi.org.tr](http://www.endustrigazetecileridernegi.org.tr)
+ - date_published: 2024-09-19T19:54:18.499960+00:00
+
+ ## Erişim Sağlayıcıları Birliği | ESB
+ - [https://www.esb.org.tr](https://www.esb.org.tr)
+ - date_published: 2024-10-19T12:09:33.955166+00:00
+
+ ## ESKİŞEHİR SANAYİ ODASI Eskişehir Sanayi Odası - ESO
+ - [https://www.eso.org.tr](https://www.eso.org.tr)
+ - date_published: 2024-09-19T19:57:05.286522+00:00
+
  ## FEDEK
  - [http://fedek.org.tr](http://fedek.org.tr)
  - date_published: 2024-10-18T22:11:11.736588+00:00
@@ -3814,216 +4077,4 @@
  ## Home - eRMA
  - [https://erma.advantech.com.tw](https://erma.advantech.com.tw)
  - date_published: 2024-09-05T21:53:37.350949+00:00
-
- ## 漢翔航空工業股份有限公司
- - [http://www.aidc.com.tw](http://www.aidc.com.tw)
- - date_published: 2024-07-09T21:50:34.130857+00:00
-
- ## Airbnb | 度假屋、小木屋、海邊房源等
- - [https://airbnb.com.tw](https://airbnb.com.tw)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Altair | Discover Continuously. Advance Infinitely - Only Forward.
- - [https://www.altair.com.tw](https://www.altair.com.tw)
- - date_published: 2024-10-15T22:27:54+00:00
-
- ## 亞馬遜台灣 | 跨境電商網站 | Amazon 亞馬遜全球開店
- - [https://gs.amazon.com.tw](https://gs.amazon.com.tw)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## 主頁 | Ambarella
- - [https://www.ambarella.com.tw](https://www.ambarella.com.tw)
- - date_published: 2024-09-14T09:54:46.796660+00:00
-
- ## Home
- - [https://ametek.com.tw](https://ametek.com.tw)
- - date_published: 2024-06-15T10:44:11.823112+00:00
-
- ## Audi Taiwan
- - [http://www.audi.com.tw](http://www.audi.com.tw)
- - date_published: 2024-07-19T20:24:15+00:00
-
- ## Blue Dragon Art Company
- - [http://www.bluedragonart.com.tw](http://www.bluedragonart.com.tw)
- - date_published: 2024-06-17T16:53:58.153195+00:00
-
- ## 國家地理雜誌｜大石文化官方商城
- - [https://www.bmall.com.tw](https://www.bmall.com.tw)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Web3+｜最好懂的區塊鏈媒體
- - [https://web3plus.bnext.com.tw](https://web3plus.bnext.com.tw)
- - date_published: 2024-12-16T13:05:10.265850+00:00
-
- ## 數位時代 BusinessNext
- - [https://www.bnext.com.tw](https://www.bnext.com.tw)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Event Go活動平台 | 你學習新知的好夥伴
- - [https://eventgo.bnextmedia.com.tw](https://eventgo.bnextmedia.com.tw)
- - date_published: 2024-10-20T09:26:19.088764+00:00
-
- ## 歡迎光臨博客來
- - [http://www.books.com.tw](http://www.books.com.tw)
- - date_published: 2024-06-30T03:49:29.046892+00:00
-
- ## 博世家電：品質、可靠與精確的美好體驗。
- - [https://www.bosch-home.com.tw](https://www.bosch-home.com.tw)
- - date_published: 2024-06-16T21:35:17.259808+00:00
-
- ## 臺灣銀行 Bank of Taiwan
- - [https://www.bot.com.tw](https://www.bot.com.tw)
- - date_published: 2024-10-19T22:30:50.135408+00:00
-
- ## CAPCOM TAIWAN
- - [https://capcom.com.tw](https://capcom.com.tw)
- - date_published: 2024-05-09T14:42:21.961851+00:00
-
- ## 『ROCKMAN X DIVE』官方網站
- - [http://rxd.capcom.com.tw](http://rxd.capcom.com.tw)
- - date_published: 2024-10-24T09:41:12.152878+00:00
-
- ## 醫級好膚 | 舒特膚®
- - [https://www.cetaphil.com.tw](https://www.cetaphil.com.tw)
- - date_published: 2024-10-30T23:02:34.359432+00:00
-
- ## CHALLENTECH INTERNATIONAL CORP.
- - [http://www.challentech.com.tw](http://www.challentech.com.tw)
- - date_published: 2024-10-19T03:55:06.400480+00:00
-
- ## 中華電信 - 5G行動上網通話、HiNet光世代寬頻上網/市話、MOD影視娛樂及智慧生活應用 | 中華電信網路門市CHT.com.tw
- - [https://www.cht.com.tw](https://www.cht.com.tw)
- - date_published: 2024-07-07T10:16:07.952880+00:00
-
- ## 城邦讀書花園網路書店
- - [http://www.cite.com.tw](http://www.cite.com.tw)
- - date_published: 2024-06-30T07:06:59.085507+00:00
-
- ## Citi 台灣
- - [https://www.citibank.com.tw](https://www.citibank.com.tw)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## CITIZEN 男錶 韋禮安 代言網站
- - [https://ambassador.citizenwatch.com.tw](https://ambassador.citizenwatch.com.tw)
- - date_published: 2024-06-27T09:01:14+00:00
-
- ## 主頁 | CITIZEN WATCH
- - [https://citizenwatch.com.tw](https://citizenwatch.com.tw)
- - date_published: 2024-05-08T05:28:55.259101+00:00
-
- ## CITIZEN 女錶 田馥甄 代言網站
- - [https://lady.citizenwatch.com.tw](https://lady.citizenwatch.com.tw)
- - date_published: 2024-02-05T03:13:50+00:00
-
- ## 歡迎來到 CITROËN 臺灣網站
- - [https://citroen.com.tw](https://citroen.com.tw)
- - date_published: 2024-05-08T05:30:24.170665+00:00
-
- ## 中央社新聞學院
- - [https://academy.cna.com.tw](https://academy.cna.com.tw)
- - date_published: 2024-05-12T07:10:24.181349+00:00
-
- ## 中央社 CNA
- - [https://cna.com.tw](https://cna.com.tw)
- - date_published: 2024-05-12T07:07:51.107899+00:00
-
- ## 好生活
- - [https://howlife.cna.com.tw](https://howlife.cna.com.tw)
- - date_published: 2024-07-16T20:57:42.276407+00:00
-
- ## 403 - 禁止: 拒絕存取。
- - [https://imgcdn.cna.com.tw](https://imgcdn.cna.com.tw)
- - date_published: 2024-05-12T07:10:21.433600+00:00
-
- ## 歡迎使用 CNA Web Mail
- - [https://mail.cna.com.tw](https://mail.cna.com.tw)
- - date_published: 2024-07-16T20:57:50.387655+00:00
-
- ## 淨零碳排 | 中央社 CNA
- - [https://netzero.cna.com.tw](https://netzero.cna.com.tw)
- - date_published: 2024-07-16T20:57:44+00:00
-
- ## 數位專題｜中央社 CNA
- - [https://project.cna.com.tw](https://project.cna.com.tw)
- - date_published: 2022-06-27T02:26:36+00:00
-
- ## 中央社客戶網頁 CNA NEWS
- - [http://service.cna.com.tw](http://service.cna.com.tw)
- - date_published: 2024-07-16T20:57:58.639854+00:00
-
- ## COMPUTEX (含InnoVEX) 2024參觀登錄
- - [https://www.computexonline.com.tw](https://www.computexonline.com.tw)
- - date_published: 2024-06-19T23:05:41.587392+00:00
-
- ## 台北國際電腦展
- - [https://www.computextaipei.com.tw](https://www.computextaipei.com.tw)
- - date_published: 2024-06-19T23:39:07.087463+00:00
-
- ## COMPUTEX Keynote & Forum 2024
- - [https://www.computextaipei2024.com.tw](https://www.computextaipei2024.com.tw)
- - date_published: 2024-10-31T12:03:07.192591+00:00
-
- ## Condé Nast TAIWAN | 康泰納仕
- - [https://www.condenast.com.tw](https://www.condenast.com.tw)
- - date_published: 2024-04-19T03:34:48+00:00
-
- ## 網頁設計公司 - 網站設計公司 - Cubik
- - [https://cubik.com.tw](https://cubik.com.tw)
- - date_published: 2023-02-22T00:00:00+00:00
-
- ## DATOTEK
- - [https://www.datos.com.tw](https://www.datos.com.tw)
- - date_published: 2024-12-14T15:24:49.575076+00:00
-
- ## 達文西數位科技-專注排名的網頁設計服務
- - [https://www.da-vinci.com.tw](https://www.da-vinci.com.tw)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## DBS Bank | Taiwan
- - [https://www.dbs.com.tw](https://www.dbs.com.tw)
- - date_published: 2024-10-07T22:39:28.976938+00:00
-
- ## DeviseTop響應式網頁設計，客製化量身訂做、專屬風格 - 禾太國際有限公司,勤美創意設計有限公司
- - [http://www.devisetop.com.tw](http://www.devisetop.com.tw)
- - date_published: 2024-07-14T10:35:28.507426+00:00
-
- ## 大侑DIET-U官方網站｜你健康的好朋友
- - [https://www.diet-u.com.tw](https://www.diet-u.com.tw)
- - date_published: 2024-07-04T17:32:22.645811+00:00
-
- ## Dell Technologies
- - [https://www.digital-transformation.com.tw](https://www.digital-transformation.com.tw)
- - date_published: 2024-12-14T16:57:24.078681+00:00
-
- ## DIGITIMES-首頁
- - [https://digitimes.com.tw](https://digitimes.com.tw)
- - date_published: 2024-10-31T12:01:37.314160+00:00
-
- ## DIGITIMES-首页
- - [https://gb-www.digitimes.com.tw](https://gb-www.digitimes.com.tw)
- - date_published: 2024-12-14T15:16:15.666118+00:00
-
- ## DIGITIMES
- - [https://genai.digitimes.com.tw](https://genai.digitimes.com.tw)
- - date_published: 2024-12-14T15:16:08+00:00
-
- ## 台灣迪士尼官方網站
- - [https://disney.com.tw](https://disney.com.tw)
- - date_published: 2024-06-16T02:13:54.799668+00:00
-
- ## eBay全球銷售指南 - 首頁
- - [https://www.ebay.com.tw](https://www.ebay.com.tw)
- - date_published: 2024-05-01T08:15:29.101406+00:00
-
- ## 專業學術英文編修、中翻英、論文編修、論文投稿協助丨Editage 意得輯
- - [https://www.editage.com.tw](https://www.editage.com.tw)
- - date_published: 2024-10-29T20:42:45.127641+00:00
-
- ## 一元素科技股份有限公司 - 一元素科技股份有限公司
- - [http://www.e-elements.com.tw](http://www.e-elements.com.tw)
- - date_published: 2021-05-13T04:59:26+00:00
-
- ## EF國際文教機構 | EF海外遊學留學 | EF台灣
- - [https://www.ef.com.tw](https://www.ef.com.tw)
- - date_published: 2024-05-01T00:00:00+00:00
 

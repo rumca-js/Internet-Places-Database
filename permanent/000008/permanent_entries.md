@@ -1,3 +1,15 @@
+ ## Dashboard - Wiki der Universität Wien
+ - [http://intra.univie.ac.at](http://intra.univie.ac.at)
+ - date_published: 2024-10-14T23:57:58.306094+00:00
+
+ ## Jobs@Universität Wien
+ - [http://jobs.univie.ac.at](http://jobs.univie.ac.at)
+ - date_published: 2024-10-14T23:56:56.959120+00:00
+
+ ## Veranstaltungskalender - Veranstaltungskalender
+ - [http://kalender.univie.ac.at](http://kalender.univie.ac.at)
+ - date_published: 2024-10-14T23:57:48.103603+00:00
+
  ## Faculty of Life Sciences
  - [https://lifesciences.univie.ac.at](https://lifesciences.univie.ac.at)
  - date_published: 2024-10-10T00:00:00+00:00
@@ -4000,16 +4012,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Home | Philharmonie der Universität Wien
  - [http://www.unichor-wien.at](http://www.unichor-wien.at)
  - date_published: 2024-10-14T23:59:15.266153+00:00
-
- ## GAMS: Geisteswissenschaftliches Asset Management System
- - [https://gams.uni-graz.at](https://gams.uni-graz.at)
- - date_published: 2024-06-29T10:14:15.281283+00:00
-
- ## Universität Graz
- - [http://www.uni-graz.at](http://www.uni-graz.at)
- - date_published: 2024-07-02T06:04:24.451833+00:00
-
- ## Karriere-Beratung und Events für Studierende
- - [http://www.uniport.at](http://www.uniport.at)
- - date_published: 2024-10-14T23:56:48.595846+00:00
 

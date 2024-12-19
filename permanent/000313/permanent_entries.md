@@ -1,3 +1,111 @@
+ ## Fazal Majid's low-intensity blog · Fazal Majid's low-intensity blog
+ - [https://majid.info](https://majid.info)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## AGEMAME
+ - [https://agemame.mameworld.info](https://agemame.mameworld.info)
+ - date_published: 2024-06-14T15:50:55.549573+00:00
+
+ ## AJG's Mameography
+ - [https://ajg.mameworld.info](https://ajg.mameworld.info)
+ - date_published: 2024-06-14T15:51:26.353992+00:00
+
+ ## arcadeenvy.mameworld.info
+ - [https://arcadeenvy.mameworld.info](https://arcadeenvy.mameworld.info)
+ - date_published: 2024-06-14T15:50:05.916102+00:00
+
+ ## The ARCADE Place - ARCADE
+ - [https://arcade.mameworld.info](https://arcade.mameworld.info)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Hanaho ArcadePC
+ - [https://arcadepc.mameworld.info](https://arcadepc.mameworld.info)
+ - date_published: 2024-06-14T15:49:53.250867+00:00
+
+ ## ArcadEPIC Multi-emulator Front End
+ - [https://arcadepic.mameworld.info](https://arcadepic.mameworld.info)
+ - date_published: 2024-06-14T15:48:29.330397+00:00
+
+ ## :: Mame UI [Ash-Build] - Last update 2016/04/29 - Since 2004 O_o ::
+ - [https://ashura.mameworld.info](https://ashura.mameworld.info)
+ - date_published: 2024-06-14T15:50:42.323957+00:00
+
+ ## Discrete Logistics
+ - [https://discrete.mameworld.info](https://discrete.mameworld.info)
+ - date_published: 2024-06-14T15:49:42.239304+00:00
+
+ ## Home - DOS, Windows 32 & 64 bit MAME Arcade Cabinet Configurations
+ - [https://dosmame.mameworld.info](https://dosmame.mameworld.info)
+ - date_published: 2024-06-14T15:50:24.516968+00:00
+
+ ## The Dutch Mame Page, MAME maar dan in 't Nederlands !
+ - [https://dutchmamepage.mameworld.info](https://dutchmamepage.mameworld.info)
+ - date_published: 2024-06-14T15:49:52.102832+00:00
+
+ ## EasyEmu : MAME Guide
+ - [https://easyemu.mameworld.info](https://easyemu.mameworld.info)
+ - date_published: 2024-06-14T15:51:35.662409+00:00
+
+ ## Easy MAMECab
+ - [https://easymamecab.mameworld.info](https://easymamecab.mameworld.info)
+ - date_published: 2024-06-14T15:52:24.004475+00:00
+
+ ## EasyMame
+ - [https://easymame.mameworld.info](https://easymame.mameworld.info)
+ - date_published: 2024-06-14T15:50:27.786103+00:00
+
+ ## Easy Run FrontEnds :: New page under construction
+ - [https://easyrun.mameworld.info](https://easyrun.mameworld.info)
+ - date_published: 2024-06-14T15:48:51.181494+00:00
+
+ ## Emu Loader: Multiple Systems Frontend
+ - [https://emuloader.mameworld.info](https://emuloader.mameworld.info)
+ - date_published: 2024-06-14T15:49:00.405399+00:00
+
+ ## Unofficial Highscore.dat
+ - [https://highscore.mameworld.info](https://highscore.mameworld.info)
+ - date_published: 2024-06-14T15:50:22.325751+00:00
+
+ ## HispaMAME Frontend
+ - [https://hispamame.mameworld.info](https://hispamame.mameworld.info)
+ - date_published: 2024-06-14T15:49:54.436644+00:00
+
+ ## HitF12!
+ - [https://hitf12.mameworld.info](https://hitf12.mameworld.info)
+ - date_published: 2024-06-14T15:52:31.806755+00:00
+
+ ## HotRod - Unofficial support
+ - [https://hotrod.mameworld.info](https://hotrod.mameworld.info)
+ - date_published: 2024-06-14T15:50:17.762987+00:00
+
+ ## MAMEICONS's BACK !
+ - [https://icons.mameworld.info](https://icons.mameworld.info)
+ - date_published: 2024-06-14T15:53:11.947758+00:00
+
+ ## MAME for iPAQ Pocket PC
+ - [https://imame.mameworld.info](https://imame.mameworld.info)
+ - date_published: 2024-06-14T15:53:15.301846+00:00
+
+ ## FrontEnd XMAME
+ - [https://lanzamame.mameworld.info](https://lanzamame.mameworld.info)
+ - date_published: 2024-06-14T15:51:04.961897+00:00
+
+ ## MadeInMAME32 home page
+ - [https://madeinmame.mameworld.info](https://madeinmame.mameworld.info)
+ - date_published: 2024-06-14T15:49:04.962060+00:00
+
+ ## MameCat32
+ - [https://mamecat32.mameworld.info](https://mamecat32.mameworld.info)
+ - date_published: 2024-06-14T15:48:49.091917+00:00
+
+ ## MameCE3 by Techmaster
+ - [https://mamece3.mameworld.info](https://mamece3.mameworld.info)
+ - date_published: 2024-06-14T15:48:01.620224+00:00
+
+ ## MAME Classic
+ - [https://mameclassic.mameworld.info](https://mameclassic.mameworld.info)
+ - date_published: 2024-06-14T15:48:44.439325+00:00
+
  ## M.A.M.E. F.E. Official Web Site
  - [https://mamefe.mameworld.info](https://mamefe.mameworld.info)
  - date_published: 2024-06-14T15:51:39.453387+00:00
@@ -3937,112 +4045,4 @@
  ## Webmink In Draft
  - [https://the.webm.ink](https://the.webm.ink)
  - date_published: 2023-10-27T11:57:18.334378+00:00
-
- ## Minkiverse Overview | Heart of the Minkiverse
- - [https://webm.ink](https://webm.ink)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## 若非 - 人间生活实录
- - [https://wildfire.ink](https://wildfire.ink)
- - date_published: 2023-09-07T01:44:00+00:00
-
- ## Home
- - [https://robert.winter.ink](https://robert.winter.ink)
- - date_published: 2024-06-18T00:54:33+00:00
-
- ## Winter Ink
- - [https://social.winter.ink](https://social.winter.ink)
- - date_published: 2024-10-22T02:14:05.387808+00:00
-
- ## Wonderlink | Dein Link in Bio 100% DSGVO konform
- - [https://wonderl.ink](https://wonderl.ink)
- - date_published: 2024-12-10T17:24:45.303540+00:00
-
- ## Logos Network State
- - [https://afaik.institute](https://afaik.institute)
- - date_published: 2024-08-05T11:26:51+00:00
-
- ## africa-blockchain-institute
- - [https://africablockchain.institute](https://africablockchain.institute)
- - date_published: 2024-04-12T18:41:55+00:00
-
- ## Home | Calm Tech Institute - Harmonious Design Principles
- - [https://calmtech.institute](https://calmtech.institute)
- - date_published: 2024-06-15T04:15:04.886449+00:00
-
- ## CARI | the Consumer Aesthetics Research Institute
- - [https://cari.institute](https://cari.institute)
- - date_published: 2024-09-14T22:48:17.311153+00:00
-
- ## The Cobb Institute
- - [https://cobb.institute](https://cobb.institute)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## PR, Marketing, and Branding With Impact — CCI
- - [https://culturalcurrents.institute](https://culturalcurrents.institute)
- - date_published: 2023-10-04T00:00:00+00:00
-
- ## Cybercat Institute
- - [https://cybercat.institute](https://cybercat.institute)
- - date_published: 2024-05-31T09:51:05+00:00
-
- ## Folklore
- - [https://folklore.institute](https://folklore.institute)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Future Cities Research Institute
- - [https://futurecities.institute](https://futurecities.institute)
- - date_published: 2024-09-23T13:55:28.696166+00:00
-
- ## Gallery Institute
- - [http://gallery.institute](http://gallery.institute)
- - date_published: 2024-10-29T14:29:38.884814+00:00
-
- ## One Terabyte of Kilobyte Age | Digging through the Geocities Torrent
- - [https://blog.geocities.institute](https://blog.geocities.institute)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Webmaster Summer collection
- - [http://webmastersummer.geocities.institute](http://webmastersummer.geocities.institute)
- - date_published: 2020-07-08T14:27:45+00:00
-
- ## Institute for Foundations of Machine Learning
- - [https://ifml.institute](https://ifml.institute)
- - date_published: 2024-07-02T12:03:07.250428+00:00
-
- ## Home • IMSI
- - [https://www.imsi.institute](https://www.imsi.institute)
- - date_published: 2024-07-15T02:57:45.064520+00:00
-
- ## Invisible Institute
- - [https://invisible.institute](https://invisible.institute)
- - date_published: 2024-05-09T06:47:16.229371+00:00
-
- ## Living Wage Institute
- - [https://livingwage.institute](https://livingwage.institute)
- - date_published: 2024-05-07T19:34:08.103110+00:00
-
- ## Homepage
- - [https://manhattan.institute](https://manhattan.institute)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## The Math3ma Institute - Esteeming the Voice of Christ in the Sciences
- - [https://math3ma.institute](https://math3ma.institute)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Nautilus Institute
- - [https://nautilus.institute](https://nautilus.institute)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## def con quals data dump
- - [https://quals.2024.nautilus.institute](https://quals.2024.nautilus.institute)
- - date_published: 2024-05-24T01:36:41+00:00
-
- ## Instituto New Economy – Clear thinking for the digital future.
- - [https://neweconomy.institute](https://neweconomy.institute)
- - date_published: 2024-09-25T13:06:51.661698+00:00
-
- ## AI • Objectives • Institute
- - [https://ai.objectives.institute](https://ai.objectives.institute)
- - date_published: 2024-04-12T00:00:00+00:00
 

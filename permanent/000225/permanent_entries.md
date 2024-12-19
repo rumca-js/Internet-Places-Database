@@ -1,3 +1,79 @@
+ ## ProfessorBainbridge.com
+ - [http://professorbainbridge.typepad.com](http://professorbainbridge.typepad.com)
+ - date_published: 2024-07-13T10:08:14.304420+00:00
+
+ ## New APPS: Art, Politics, Philosophy, Science
+ - [http://proteviblog.typepad.com](http://proteviblog.typepad.com)
+ - date_published: 2024-06-30T04:29:36.107676+00:00
+
+ ## pullquote
+ - [http://pullquote.typepad.com](http://pullquote.typepad.com)
+ - date_published: 2024-07-02T06:32:12.549873+00:00
+
+ ## Ramage
+ - [http://ramage.typepad.com](http://ramage.typepad.com)
+ - date_published: 2024-06-30T07:23:13.743489+00:00
+
+ ## Random Jottings
+ - [http://randomjottings.typepad.com](http://randomjottings.typepad.com)
+ - date_published: 2024-09-17T17:30:29.743842+00:00
+
+ ## Rantingprofs
+ - [http://rantingprofs.typepad.com](http://rantingprofs.typepad.com)
+ - date_published: 2024-06-20T03:17:44.156627+00:00
+
+ ## Close Range
+ - [http://rationalhunter.typepad.com](http://rationalhunter.typepad.com)
+ - date_published: 2024-07-02T09:03:38.744922+00:00
+
+ ## real/diaBlog - because real estate needs to change
+ - [http://realdiablog.typepad.com](http://realdiablog.typepad.com)
+ - date_published: 2024-06-27T08:45:05.223957+00:00
+
+ ## Red State Rebels
+ - [http://redstaterebels.typepad.com](http://redstaterebels.typepad.com)
+ - date_published: 2024-06-28T21:25:10.114535+00:00
+
+ ## Remapping
+ - [http://remapping.typepad.com](http://remapping.typepad.com)
+ - date_published: 2024-07-02T06:24:18.633229+00:00
+
+ ## Law of the Bad Premise
+ - [http://rethinkit.typepad.com](http://rethinkit.typepad.com)
+ - date_published: 2024-06-27T09:13:28.891676+00:00
+
+ ## Tony Hatfield's Retired Ramblings
+ - [http://retiredrambler.typepad.com](http://retiredrambler.typepad.com)
+ - date_published: 2024-06-18T11:08:21.282161+00:00
+
+ ## The Revit Clinic
+ - [http://revitclinic.typepad.com](http://revitclinic.typepad.com)
+ - date_published: 2024-08-08T18:02:56.398297+00:00
+
+ ## The Right Coast
+ - [http://rightcoast.typepad.com](http://rightcoast.typepad.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## rodcorp
+ - [http://rodcorp.typepad.com](http://rodcorp.typepad.com)
+ - date_published: 2024-09-14T22:54:43.925167+00:00
+
+ ## Ross Mayfield's Weblog
+ - [http://ross.typepad.com](http://ross.typepad.com)
+ - date_published: 2024-07-13T10:53:46.004487+00:00
+
+ ## Russell Davies
+ - [http://russelldavies.typepad.com](http://russelldavies.typepad.com)
+ - date_published: 2024-09-14T22:44:04.745141+00:00
+
+ ## Freespace
+ - [http://sandefur.typepad.com](http://sandefur.typepad.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Sandhill Trek
+ - [http://sandhill.typepad.com](http://sandhill.typepad.com)
+ - date_published: 2024-07-13T10:56:59.309911+00:00
+
  ## Saying yes...
  - [http://sayingyes.typepad.com](http://sayingyes.typepad.com)
  - date_published: 2024-06-19T16:56:41.307144+00:00
@@ -3975,80 +4051,4 @@ Welcome
  ## Notre Dame Athletics | The Fighting Irish
  - [https://und.com](https://und.com)
  - date_published: 2024-06-27T00:00:00+00:00
-
- ## Undead Assault - New Endless Runner Game
- - [https://www.undeadassault.com](https://www.undeadassault.com)
- - date_published: 2024-10-27T02:51:43.340649+00:00
-
- ## Undead Labs
- - [https://undeadlabs.com](https://undeadlabs.com)
- - date_published: 2024-07-18T04:50:21.002073+00:00
-
- ## Achieve Energy Security With Solar
- - [https://academy.undecidedmf.com](https://academy.undecidedmf.com)
- - date_published: 2024-09-09T22:53:21.215004+00:00
-
- ## Undecided - Renewable Energy and Sustainable Technology
- - [http://link.undecidedmf.com](http://link.undecidedmf.com)
- - date_published: 2024-04-30T21:00:08.228895+00:00
-
- ## Undecided - Renewable Energy and Sustainable Technology
- - [https://undecidedmf.com](https://undecidedmf.com)
- - date_published: 2024-04-30T21:00:09.772554+00:00
-
- ## Trailer - Undefeated Challenge
- - [https://undefeatedchallenge.com](https://undefeatedchallenge.com)
- - date_published: 2024-07-02T05:23:48+00:00
-
- ## Undefined Value
- - [http://undefinedvalue.com](http://undefinedvalue.com)
- - date_published: 2023-04-08T00:00:00+00:00
-
- ## Under Armour - Account and Privacy Center
- - [https://account.underarmour.com](https://account.underarmour.com)
- - date_published: 2024-05-07T06:48:31+00:00
-
- ## Under Armour® Official Store | FREE Shipping Available
- - [https://underarmour.com](https://underarmour.com)
- - date_published: 2024-09-04T17:22:55.282440+00:00
-
- ## Landing - underbau
- - [https://underbau.com](https://underbau.com)
- - date_published: 2023-11-13T00:00:00+00:00
-
- ## Underbelly L.A.
- - [https://www.underbellyla.com](https://www.underbellyla.com)
- - date_published: 2024-10-20T12:56:30.652174+00:00
-
- ## Underbit Technologies, Inc.
- - [http://www.underbit.com](http://www.underbit.com)
- - date_published: 2024-06-20T20:59:02.746529+00:00
-
- ## Macify.com | Simplify. Personify. Amplify. Your business!
- - [http://underbyteco.com](http://underbyteco.com)
- - date_published: 2024-07-20T14:20:25.064796+00:00
-
- ## under_Camel
- - [http://undercamel.com](http://undercamel.com)
- - date_published: 2024-09-14T23:26:10.689299+00:00
-
- ## Under Consideration
- - [http://under-consideration.com](http://under-consideration.com)
- - date_published: 2020-03-19T18:40:36+00:00
-
- ## UnderConsideration LLC
- - [http://underconsideration.com](http://underconsideration.com)
- - date_published: 2024-07-11T02:02:53+00:00
-
- ## UNDERCOVER ONLINE STORE │ アンダーカバー公式オンラインストア
- - [https://undercoverism.com](https://undercoverism.com)
- - date_published: 2024-04-30T07:18:26.031812+00:00
-
- ## Attention Required! | Cloudflare
- - [https://api.underdogfantasy.com](https://api.underdogfantasy.com)
- - date_published: 2024-05-09T04:34:12.421192+00:00
-
- ## Underdog Fantasy: Pick'em and Season-long Fantasy for NFL, NBA & more
- - [https://play.underdogfantasy.com](https://play.underdogfantasy.com)
- - date_published: 2020-01-01T00:00:00+00:00
 

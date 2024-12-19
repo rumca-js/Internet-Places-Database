@@ -1,3 +1,35 @@
+ ## Adobe XD Platform - Home
+ - [http://www.adobexdplatform.com](http://www.adobexdplatform.com)
+ - date_published: 2020-10-16T14:12:10+00:00
+
+ ## adobo Magazine
+ - [https://adobomagazine.com](https://adobomagazine.com)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## adobo Kariton – Coming Soon
+ - [https://shop.adobomagazine.com](https://shop.adobomagazine.com)
+ - date_published: 2024-06-15T12:55:03.621424+00:00
+
+ ## Adserver without limits - Gemius AdOcean
+ - [https://adocean-global.com](https://adocean-global.com)
+ - date_published: 2024-05-11T10:03:40.842004+00:00
+
+ ## Adocean Demo Page
+ - [https://demo.adocean-global.com](https://demo.adocean-global.com)
+ - date_published: 2024-07-14T07:38:48.438108+00:00
+
+ ## AdOcean
+ - [https://int.adocean-global.com](https://int.adocean-global.com)
+ - date_published: 2024-07-09T19:27:44+00:00
+
+ ## AdonisJS - A fully featured web framework for Node.js
+ - [https://adonisjs.com](https://adonisjs.com)
+ - date_published: 2024-05-04T13:00:17.006970+00:00
+
+ ## Introduction
+ - [https://docs.adonisjs.com](https://docs.adonisjs.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## AdonisJS Packages
  - [https://packages.adonisjs.com](https://packages.adonisjs.com)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -3988,38 +4020,4 @@
  ## Alfred's Notes
  - [https://notes.ahhfred.com](https://notes.ahhfred.com)
  - date_published: 2024-05-01T03:11:59.781958+00:00
-
- ## A History of Frogs
- - [https://a-history-of-frogs.com](https://a-history-of-frogs.com)
- - date_published: 2024-07-07T05:52:52.082077+00:00
-
- ## UC San Diego Alumni & AHI
- - [https://calsad.ahitravel.com](https://calsad.ahitravel.com)
- - date_published: 2024-10-14T20:57:27.761512+00:00
-
- ## Home | AHLA
- - [https://www.ahla.com](https://www.ahla.com)
- - date_published: 2024-07-12T19:55:13.692158+00:00
-
- ## Ahmad Abugosh – I put the "Gosh" in Abugosh.
- - [https://ahmadabugosh.com](https://ahmadabugosh.com)
- - date_published: 2023-12-09T14:59:26.542632+00:00
- - tags: ['personal']
-
- ## Ahmad Awais
- - [https://ahmadawais.com](https://ahmadawais.com)
- - date_published: 2024-06-20T04:50:47.777661+00:00
-
- ## Log In ‹ Courses by Ahmad Awais — WordPress
- - [https://courses.ahmadawais.com](https://courses.ahmadawais.com)
- - date_published: 2024-06-20T04:50:43.940450+00:00
-
- ## Ahmad Haghighi -
-        احمد حقیقی
- - [https://ahmadhaghighi.com](https://ahmadhaghighi.com)
- - date_published: 2023-07-17T18:04:03+00:00
-
- ## Ahmed Chrediy
- - [https://ahmedchrediy.com](https://ahmedchrediy.com)
- - date_published: 2024-07-04T01:59:39.874633+00:00
 

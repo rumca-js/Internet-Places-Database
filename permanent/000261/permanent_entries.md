@@ -1,3 +1,87 @@
+ ## Yisares – Interdisciplinary Autumn Research School – Situating Soft Authoritarianism Between Geopolitical Complexities and Everyday Practices (2022)
+ - [https://yisares.uni-bremen.de](https://yisares.uni-bremen.de)
+ - date_published: 2024-07-04T13:44:44.771504+00:00
+
+ ## Mit Ihrer Spende Kindern weltweit helfen. UNICEF - für jedes Kind
+ - [https://live-prod.unicef.de](https://live-prod.unicef.de)
+ - date_published: 2024-09-30T10:36:57.661802+00:00
+
+ ## Home - TU Dortmund, Informatik 2
+ - [http://ls2-www.cs.uni-dortmund.de](http://ls2-www.cs.uni-dortmund.de)
+ - date_published: 2024-06-30T08:56:35.730608+00:00
+
+ ## Die erste deutsche Universität des 21. Jahrhunderts
+ - [https://www.uni-due.de](https://www.uni-due.de)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## MEINSTPAULI
+ - [https://fcsp.unidy.de](https://fcsp.unidy.de)
+ - date_published: 2024-09-25T19:08:42.625697+00:00
+
+ ## Startseite
+ - [https://www.uni-erfurt.de](https://www.uni-erfurt.de)
+ - date_published: 2024-07-17T08:05:41+00:00
+
+ ## Login - FAUbox
+ - [https://faubox.rrze.uni-erlangen.de](https://faubox.rrze.uni-erlangen.de)
+ - date_published: 2024-09-21T23:02:45.778866+00:00
+
+ ## Chair of Visual Computing
+ - [https://lgdv.cms.rrze.uni-erlangen.de](https://lgdv.cms.rrze.uni-erlangen.de)
+ - date_published: 2024-02-17T00:00:00+00:00
+
+ ## UnivIS der Friedrich-Alexander-Universität Erlangen-Nürnberg
+ - [https://univis.uni-erlangen.de](https://univis.uni-erlangen.de)
+ - date_published: 2024-07-09T13:16:18.111021+00:00
+
+ ## Computational Corpus Linguistics
+ - [http://www.linguistik.uni-erlangen.de](http://www.linguistik.uni-erlangen.de)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Wir bewegen Wissen
+ - [http://www.uni-erlangen.de](http://www.uni-erlangen.de)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Startseite - Europa-Universität Flensburg (EUF)
+ - [https://www.uni-flensburg.de](https://www.uni-flensburg.de)
+ - date_published: 2024-09-30T13:01:21.896770+00:00
+
+ ## Algorithms and Complexity - Welcome
+ - [https://algo.cs.uni-frankfurt.de](https://algo.cs.uni-frankfurt.de)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## PPDP | LOPSTR | WFLP 2018
+ - [http://ppdp-lopstr-18.cs.uni-frankfurt.de](http://ppdp-lopstr-18.cs.uni-frankfurt.de)
+ - date_published: 2019-04-02T14:37:09+00:00
+
+ ## Digitale Sammlungen
+ - [http://sammlungen.ub.uni-frankfurt.de](http://sammlungen.ub.uni-frankfurt.de)
+ - date_published: 2024-12-10T18:01:13.051471+00:00
+
+ ## TITUS: INDEX
+ - [http://titus.uni-frankfurt.de](http://titus.uni-frankfurt.de)
+ - date_published: 2017-07-17T07:37:55+00:00
+
+ ## Goethe-Universität — Welcome to Goethe University Frankfurt
+ - [https://uni-frankfurt.de](https://uni-frankfurt.de)
+ - date_published: 2024-07-24T04:22:36.141670+00:00
+
+ ## Big Data Lab
+ - [http://www.bigdata.uni-frankfurt.de](http://www.bigdata.uni-frankfurt.de)
+ - date_published: 2024-07-14T23:31:18.050095+00:00
+
+ ## Willkommen — Professur für Algorithmen und Datenstrukturen
+ - [https://ad.informatik.uni-freiburg.de](https://ad.informatik.uni-freiburg.de)
+ - date_published: 2024-08-19T20:44:51.758681+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.ub.uni-freiburg.de](https://analytics.ub.uni-freiburg.de)
+ - date_published: 2024-07-24T06:21:36.984122+00:00
+
+ ## BIOIII
+ - [https://bio3.biologie.uni-freiburg.de](https://bio3.biologie.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:12.219042+00:00
+
  ## Weiterleitung
  - [https://campus.uni-freiburg.de](https://campus.uni-freiburg.de)
  - date_published: 2024-07-24T06:21:11.656517+00:00
@@ -3973,88 +4057,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## UK Vita Coco
  - [https://vitacoco.de](https://vitacoco.de)
  - date_published: 2024-05-07T10:55:38.869714+00:00
-
- ## Technologien für ein gesundes Zuhause | Vitalhelden.de
- - [https://vitalhelden.de](https://vitalhelden.de)
- - date_published: 2024-10-24T11:28:42+00:00
-
- ## Offizieller Vitamix Shop Deutschland
- - [https://vitamix-deutschland.de](https://vitamix-deutschland.de)
- - date_published: 2022-09-12T00:00:00+00:00
-
- ## Erich Schuberts Homepage
- - [https://vitavonni.de](https://vitavonni.de)
- - date_published: 2024-03-26T12:01:27+00:00
-
- ## releases
- - [https://vitikoschell.de](https://vitikoschell.de)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## vitrado.de
- - [https://app.vitrado.de](https://app.vitrado.de)
- - date_published: 2024-06-25T21:16:40.803913+00:00
-
- ## vitrado.de
- - [https://vitrado.de](https://vitrado.de)
- - date_published: 2024-05-06T17:44:42.699461+00:00
-
- ## Home - Vitrex GmbH
- - [https://vitrex-shop.de](https://vitrex-shop.de)
- - date_published: 2024-07-20T20:59:30.623968+00:00
-
- ## VIVALINE Media Production – Online Agentur Halle (Saale)
- - [https://vivaline.de](https://vivaline.de)
- - date_published: 2023-12-11T19:05:56.531832+00:00
-
- ## Home
- - [https://hauptstadtpflege.vivantes.de](https://hauptstadtpflege.vivantes.de)
- - date_published: 2024-12-10T18:23:00.622831+00:00
-
- ## Vivantes Hospiz : Vivantes Hospiz
- - [https://hospiz.vivantes.de](https://hospiz.vivantes.de)
- - date_published: 2024-12-10T18:22:58.836710+00:00
-
- ## Karriere bei Vivantes
- - [https://karriere.vivantes.de](https://karriere.vivantes.de)
- - date_published: 2024-12-10T18:23:06.059536+00:00
-
- ## Vivantes MVZ : Vivantes MVZ
- - [https://mvz.vivantes.de](https://mvz.vivantes.de)
- - date_published: 2024-12-10T18:23:04.254461+00:00
-
- ## Prostatazentrum Berlin
- - [https://prostatazentrum.vivantes.de](https://prostatazentrum.vivantes.de)
- - date_published: 2024-12-10T18:23:03.000753+00:00
-
- ## Vivantes Reha : Vivantes Rehabilitation in Berlin-Schöneberg
- - [https://reha.vivantes.de](https://reha.vivantes.de)
- - date_published: 2024-12-10T18:23:17.022811+00:00
-
- ## Krankenhäuser in Berlin
- - [https://vivantes.de](https://vivantes.de)
- - date_published: 2024-09-25T19:02:49.852680+00:00
-
- ## 75 Jahre VKU: 75 Jahre VKU
- - [https://75jahre.vku.de](https://75jahre.vku.de)
- - date_published: 2024-12-10T18:23:40.374287+00:00
-
- ## Verband kommunaler Unternehmen e.V. (VKU): VKU
- - [https://vku.de](https://vku.de)
- - date_published: 2024-07-08T13:28:31.418745+00:00
-
- ## Konferenzraum in Berlin
- - [https://vku-forum.de](https://vku-forum.de)
- - date_published: 2024-12-10T18:24:02.748131+00:00
-
- ## DE — Home
- - [https://ims.vmt-gmbh.de](https://ims.vmt-gmbh.de)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Precast - Tunnelling
- - [https://sds.vmt-gmbh.de](https://sds.vmt-gmbh.de)
- - date_published: 2024-05-27T02:04:28+00:00
-
- ## VMT GmbH DE | Gesellschaft für Vermessungstechnik
- - [https://vmt-gmbh.de](https://vmt-gmbh.de)
- - date_published: 2024-05-22T02:37:45.991186+00:00
 

@@ -1,3 +1,191 @@
+ ## Página Inicial | Medialivre Boost Solutions
+ - [https://www.medialivreboostsolutions.pt](https://www.medialivreboostsolutions.pt)
+ - date_published: 2024-07-12T20:30:51.437146+00:00
+
+ ## Medicare | Plano de Saúde eleito Escolha do Consumidor
+ - [https://medicare.pt](https://medicare.pt)
+ - date_published: 2024-09-09T20:11:09.965918+00:00
+
+ ## Encontros | encontre solteiros no site de encontros Meetic
+ - [https://www.meetic.pt](https://www.meetic.pt)
+ - date_published: 2024-09-04T11:50:08.432388+00:00
+
+ ## MEO Blueticket | Bilhetes para espetáculos e eventos
+ - [https://blueticket.meo.pt](https://blueticket.meo.pt)
+ - date_published: 2024-06-10T06:58:01.236907+00:00
+
+ ## ID MEO
+ - [https://cliente.meo.pt](https://cliente.meo.pt)
+ - date_published: 2024-09-05T15:40:57.591151+00:00
+
+ ## MEO - Broadband, TV, 5G Mobile, Phones, Electricity and Health Care
+ - [https://en.meo.pt](https://en.meo.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Telemóveis e Smartphones - iPhone, Samsung, Xiaomi - Loja Online | MEO
+ - [https://loja.meo.pt](https://loja.meo.pt)
+ - date_published: 2024-09-05T15:40:52.291679+00:00
+
+ ## MEO - 5G, TV, Net, Telefone, Telemóveis, Eletricidade e Saúde
+ - [https://meo.pt](https://meo.pt)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Meteorologia marítima - Previsões marítimas gratuitas para 15 dias - METEO CONSULT MARINE
+ - [https://maritima.meteoconsult.pt](https://maritima.meteoconsult.pt)
+ - date_published: 2024-06-21T09:01:00.203431+00:00
+
+ ## Meteorologia França - Previsões METEOROLOGIA DETALHADAS para 15 dias - METEO CONSULT
+ - [https://pro.meteoconsult.pt](https://pro.meteoconsult.pt)
+ - date_published: 2024-05-08T00:38:10.903322+00:00
+
+ ## Meteorologia e Proteção Civil
+ - [https://www.meteoestrela.pt](https://www.meteoestrela.pt)
+ - date_published: 2017-09-14T17:27:24+00:00
+
+ ## Seguros de Vida e Acidentes Pessoais - Metlife
+ - [https://www.metlife.pt](https://www.metlife.pt)
+ - date_published: 2024-07-19T16:50:27+00:00
+
+ ## Ministros Voluntários de Scientology : Cursos Gratuitos
+ - [http://www.ministrosvoluntarios.pt](http://www.ministrosvoluntarios.pt)
+ - date_published: 2024-09-04T17:51:12.524979+00:00
+
+ ## ULS da Lezíria - Unidade Local de Saúde da Lezíria
+ - [https://www.hds.min-saude.pt](https://www.hds.min-saude.pt)
+ - date_published: 2024-09-05T15:27:32.408880+00:00
+
+ ## Peças auto - Venda online — MISTER-AUTO
+ - [https://www.mister-auto.pt](https://www.mister-auto.pt)
+ - date_published: 2024-10-31T02:36:56.419776+00:00
+
+ ## MJJ Auto – Venda de Automoveis
+ - [https://mjjauto.pt](https://mjjauto.pt)
+ - date_published: 2024-09-05T15:05:47.262437+00:00
+
+ ## Mobpro
+ - [https://mobpro.pt](https://mobpro.pt)
+ - date_published: 2024-06-25T18:50:25.902337+00:00
+
+ ## MOCHE - Net móvel 5G, gigas, chamadas, SMS e roupa streetwear
+ - [https://moche.pt](https://moche.pt)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Moxie - Your OutSystems Partner
+ - [https://www.moxie.pt](https://www.moxie.pt)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Mulheres à Obra - Comunidade de Empreendedorismo Feminino
+ - [https://www.mulheresaobra.pt](https://www.mulheresaobra.pt)
+ - date_published: 2024-06-19T18:25:55.961958+00:00
+
+ ## Assinatura Multipublicações
+ - [https://assinaturas.multipublicacoes.pt](https://assinaturas.multipublicacoes.pt)
+ - date_published: 2024-09-05T14:57:41.620799+00:00
+
+ ## Assinatura Multipublicações
+ - [http://multipublicacoes.pt](http://multipublicacoes.pt)
+ - date_published: 2024-09-05T15:19:03.274451+00:00
+
+ ## Página inicial
+ - [http://www.museudearteantiga.pt](http://www.museudearteantiga.pt)
+ - date_published: 2024-07-04T15:15:44.266103+00:00
+
+ ## Museu de Lisboa
+ - [https://acervo.museudelisboa.pt](https://acervo.museudelisboa.pt)
+ - date_published: 2024-10-20T06:38:02.149078+00:00
+
+ ## Museu do Aljube
+ - [https://www.museudoaljube.pt](https://www.museudoaljube.pt)
+ - date_published: 2024-05-04T13:34:48.830766+00:00
+
+ ## Mycorp®
+ - [http://www.mycorp.pt](http://www.mycorp.pt)
+ - date_published: 2022-06-22T11:13:47+00:00
+
+ ## Website da Fundação para um Mundo Sem Drogas: Factos sobre Drogas e Toxicodependência de Adultos e Adolescentes, Livros Informativos sobre as Drogas, Educação
+ - [http://www.naoasdrogas.pt](http://www.naoasdrogas.pt)
+ - date_published: 2024-09-04T17:51:28.903269+00:00
+
+ ## Narconon | Reabilitação de Toxicodependentes | Educação Sobre as Drogas
+ - [https://www.narconon.pt](https://www.narconon.pt)
+ - date_published: 2024-09-04T18:08:48.119588+00:00
+
+ ## National Geographic Portugal - Site Oficial - Ciência, natureza, história e viagens
+ - [https://www.nationalgeographic.pt](https://www.nationalgeographic.pt)
+ - date_published: 2024-10-14T22:48:30+00:00
+
+ ## Página Inicial | Media Trends
+ - [https://mediatrends.negocios.pt](https://mediatrends.negocios.pt)
+ - date_published: 2024-07-12T20:30:57.336857+00:00
+
+ ## Nestlé Portugal
+ - [https://empresa.nestle.pt](https://empresa.nestle.pt)
+ - date_published: 2024-09-14T19:39:58+00:00
+
+ ## New Era Publications International ApS
+ - [https://newerapublications.pt](https://newerapublications.pt)
+ - date_published: 2024-06-06T19:42:34.080259+00:00
+
+ ## Capas - Jornal 'Nascer do Sol' e 'i'
+ - [https://capas.newsplex.pt](https://capas.newsplex.pt)
+ - date_published: 2024-07-12T20:31:16.736295+00:00
+
+ ## Newsplex
+ - [https://encartes.newsplex.pt](https://encartes.newsplex.pt)
+ - date_published: 2024-04-25T16:47:24+00:00
+
+ ## Nickelodeon Portugal
+ - [https://www.nickelodeon.pt](https://www.nickelodeon.pt)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Site oficial da Nintendo Ibérica
+ - [https://www.nintendo.pt](https://www.nintendo.pt)
+ - date_published: 2024-05-06T15:46:50.860153+00:00
+
+ ## NiTfm: a primeira rádio de lifestyle de Portugal
+ - [https://www.nitfm.pt](https://www.nitfm.pt)
+ - date_published: 2024-09-05T14:57:04.472530+00:00
+
+ ## bem-vindo - Nmotor
+ - [https://nmotor.pt](https://nmotor.pt)
+ - date_published: 2024-07-16T17:37:02+00:00
+
+ ## Noesis |  Helping Your Business Grow Faster
+ - [https://www.noesis.pt](https://www.noesis.pt)
+ - date_published: 2024-10-14T15:36:03.784297+00:00
+
+ ## NORTFILMES – VIDEO
+ - [https://www.nortfilmes.pt](https://www.nortfilmes.pt)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## notEqual Consulting - We lead innovation for digital products
+ - [https://notequal.pt](https://notequal.pt)
+ - date_published: 2024-10-14T15:36:21.812487+00:00
+
+ ## Home - Notícias de Águeda
+ - [https://www.noticiasdeagueda.pt](https://www.noticiasdeagueda.pt)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Home - Notícias de Anadia
+ - [https://noticiasdeanadia.pt](https://noticiasdeanadia.pt)
+ - date_published: 2024-09-05T15:17:32+00:00
+
+ ## Homepage
+ - [http://noticiasdosorraia.pt](http://noticiasdosorraia.pt)
+ - date_published: 2019-06-27T16:04:27+00:00
+
+ ## Novo Atalho -  O caminho mais económico para as suas compras em tecnologia.
+ - [https://www.novoatalho.pt](https://www.novoatalho.pt)
+ - date_published: 2024-07-13T13:39:47.403974+00:00
+
+ ## Particulares - Juntos fazemos o futuro | novobanco
+ - [https://www.novobanco.pt](https://www.novobanco.pt)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## N-TV
+ - [http://www.n-tv.pt](http://www.n-tv.pt)
+ - date_published: 2024-06-25T18:51:56.812183+00:00
+
  ## Golden Eagle – Smart Living in Nature
  - [https://goldeneagle.nxsoft.pt](https://goldeneagle.nxsoft.pt)
  - date_published: 2024-06-25T16:32:25.133225+00:00
@@ -3845,192 +4033,4 @@
  ## Website Oficial adidas România | Echipamente sportive
  - [https://www.adidas.ro](https://www.adidas.ro)
  - date_published: 2024-12-11T02:41:18.389560+00:00
-
- ## ADZ-Online - Startseite
- - [https://adz.ro](https://adz.ro)
- - date_published: 2024-07-12T03:32:28.882636+00:00
-
- ## AFFICIO - Coming Soon Page
- - [https://www.afficio.ro](https://www.afficio.ro)
- - date_published: 2022-09-08T15:28:45+00:00
-
- ## Agrobiznes.ro | Agricultură fără frontiere
- - [https://agrobiznes.ro](https://agrobiznes.ro)
- - date_published: 2024-10-31T08:11:48+00:00
-
- ## Agronetto România – platformă on line pentru vânzarea de utilaje agricole și piese de schimb
- - [https://agronetto.ro](https://agronetto.ro)
- - date_published: 2024-08-11T15:40:54.450021+00:00
-
- ## Monitorizare GPS auto - Suport 24/24 - SAS Fleet Tracking
- - [https://www.alarma.ro](https://www.alarma.ro)
- - date_published: 2024-09-20T12:33:35+00:00
-
- ## alexand.ro
- - [https://alexand.ro](https://alexand.ro)
- - date_published: 2020-10-13T08:47:19+00:00
-
- ## Alexandru Mărășteanu - Inginer Software
- - [http://alexei.ro](http://alexei.ro)
- - date_published: 2024-07-16T17:01:25.970975+00:00
-
- ## Home - Site oficial Alfa Romeo
- - [https://www.alfaromeo.ro](https://www.alfaromeo.ro)
- - date_published: 2024-06-18T13:22:38+00:00
-
- ## Alvaro
- - [https://alva.ro](https://alva.ro)
- - date_published: 2023-12-20T20:48:38+00:00
-
- ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
- - [https://anpc.ro](https://anpc.ro)
- - date_published: 2024-05-07T10:11:22.137888+00:00
-
- ## Despre noi
- - [https://reclamatiisal.anpc.ro](https://reclamatiisal.anpc.ro)
- - date_published: 2024-06-29T09:05:39.663508+00:00
-
- ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
- - [https://sesizari1.anpc.ro](https://sesizari1.anpc.ro)
- - date_published: 2024-06-29T09:05:46.014996+00:00
-
- ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
- - [https://sesizari.anpc.ro](https://sesizari.anpc.ro)
- - date_published: 2024-06-29T09:05:42.700173+00:00
-
- ## A.N.S.V.S.A.
- - [http://www.ansvsa.ro](http://www.ansvsa.ro)
- - date_published: 2024-07-13T17:43:50.793510+00:00
-
- ## Protecţia consumatorilor - APC
- - [http://www.apc-romania.ro](http://www.apc-romania.ro)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Asociația pentru Tehnologie și Internet | Susținem o lume digitală liberă prin promovarea vieții private, libertății de exprimare și a tehnologiilor deschise pe Internet.
- - [https://apti.ro](https://apti.ro)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Supravegherea spațiului public românesc
- - [https://cctv.apti.ro](https://cctv.apti.ro)
- - date_published: 2023-07-29T12:48:55+00:00
-
- ## AQUA Carpatica
- - [https://aquacarpatica.ro](https://aquacarpatica.ro)
- - date_published: 2024-12-11T21:05:51.997290+00:00
-
- ## Home
- - [https://www.arnia.ro](https://www.arnia.ro)
- - date_published: 2024-07-10T08:52:46+00:00
-
- ## Societatea Culturală Aromână
- - [http://www.aromanii.ro](http://www.aromanii.ro)
- - date_published: 2013-05-30T23:26:31+00:00
-
- ## ARTmania – where art & entertainment meet
- - [https://artmania.ro](https://artmania.ro)
- - date_published: 2024-10-29T09:08:40.809845+00:00
-
- ## ARTmania Festival – Transylvania – Sibiu
- - [https://www.artmaniafestival.ro](https://www.artmaniafestival.ro)
- - date_published: 2024-06-19T14:56:10.589833+00:00
-
- ## Antena Sport
- - [https://as.ro](https://as.ro)
- - date_published: 2024-07-12T15:22:46+00:00
-
- ## Acasa - Academia de Studii Economice Bucuresti
- - [https://ase.ro](https://ase.ro)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Skills of the Future
- - [https://exed.fabiz.ase.ro](https://exed.fabiz.ase.ro)
- - date_published: 2024-09-24T20:53:19.612544+00:00
-
- ## Home
- - [https://www.fabiz.ase.ro](https://www.fabiz.ase.ro)
- - date_published: 2024-06-16T04:06:22.529341+00:00
-
- ## Asociația P.A.T.R.U.
- - [http://asociatiapatru.ro](http://asociatiapatru.ro)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Audi România » Aflați detaliile despre modelele disponibile și ofertele aferente
- - [http://www.audi.ro](http://www.audi.ro)
- - date_published: 2024-07-19T22:43:50.556517+00:00
-
- ## Știri auto, teste auto, mașini noi, teste comparative, accesorii auto
- - [https://www.auto-bild.ro](https://www.auto-bild.ro)
- - date_published: 2024-07-24T21:32:06.909545+00:00
-
- ## Programul de afiliere autoDNA
- - [https://afilio.autodna.ro](https://afilio.autodna.ro)
- - date_published: 2024-07-13T19:19:44.847509+00:00
-
- ## Faceți cunoștință cu serviciul autoDNA
- - [https://autodna.ro](https://autodna.ro)
- - date_published: 2024-05-11T08:19:31.032065+00:00
-
- ## Centrul de ajutor autoDNA
- - [https://support.autodna.ro](https://support.autodna.ro)
- - date_published: 2024-07-13T19:19:16.865188+00:00
-
- ## carmarket
- - [https://carmarket.autoitalia.ro](https://carmarket.autoitalia.ro)
- - date_published: 2024-10-28T20:41:20.038743+00:00
-
- ## Piese si accesorii originale
- - [https://moparstore.autoitalia.ro](https://moparstore.autoitalia.ro)
- - date_published: 2024-10-28T21:30:57.387717+00:00
-
- ## Creare magazin online - Avanticart.ro
- - [https://www.avanticart.ro](https://www.avanticart.ro)
- - date_published: 2024-09-19T15:00:16.215224+00:00
-
- ## Explicăm legislația pentru milioane de români, în fiecare lună
- - [https://avocatnet.ro](https://avocatnet.ro)
- - date_published: 2024-09-19T15:00:01.403453+00:00
-
- ## Awesome Projects
- - [https://www.awesomeprojects.ro](https://www.awesomeprojects.ro)
- - date_published: 2024-06-16T14:56:45.293655+00:00
-
- ## AYG - Homepage - AYG
- - [http://ayg.ro](http://ayg.ro)
- - date_published: 2024-09-19T14:44:25.549603+00:00
-
- ## Bacania Veche - Bacania Veche este o poveste despre gusturi nealterate, de la tara, despre arome autentice si mancare sanatoasa. Descopera pravalia si bistro Bacania Veche.
- - [https://bacaniaveche.ro](https://bacaniaveche.ro)
- - date_published: 2024-07-14T14:47:49.498396+00:00
-
- ## Blogul BT | Banca Transilvania
- - [https://blog.bancatransilvania.ro](https://blog.bancatransilvania.ro)
- - date_published: 2024-09-16T03:05:04.838500+00:00
-
- ## BT Cariere
- - [https://cariere.bancatransilvania.ro](https://cariere.bancatransilvania.ro)
- - date_published: 2024-07-03T14:02:57+00:00
-
- ## Campanii CSR - BT Comunitate | Banca Transilvania
- - [https://comunitate.bancatransilvania.ro](https://comunitate.bancatransilvania.ro)
- - date_published: 2024-09-16T03:05:23.652572+00:00
-
- ## Banca Transilvania. Bank for Entrepreneurs
- - [https://en.bancatransilvania.ro](https://en.bancatransilvania.ro)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## BT GO | Aplicația ta de business
- - [https://go.bancatransilvania.ro](https://go.bancatransilvania.ro)
- - date_published: 2024-09-16T03:05:01.249802+00:00
-
- ## Banca Transilvania. Bank vállalkozóknak
- - [https://hu.bancatransilvania.ro](https://hu.bancatransilvania.ro)
- - date_published: 2024-09-16T03:05:21.194811+00:00
-
- ## Întreb BT | Banca Transilvania
- - [https://intreb.bancatransilvania.ro](https://intreb.bancatransilvania.ro)
- - date_published: 2024-09-16T03:04:33.807808+00:00
-
- ## Banca Transilvania. Banca per gli imprenditori
- - [https://it.bancatransilvania.ro](https://it.bancatransilvania.ro)
- - date_published: 2024-09-16T03:04:59.678925+00:00
 

@@ -1,3 +1,43 @@
+ ## Build an unbiased fintech future
+ - [https://iwd.devpost.com](https://iwd.devpost.com)
+ - date_published: 2024-05-10T05:01:04.106177+00:00
+
+ ## Jelbi-Hackathon der BVG
+ - [https://jelbi-hackathon.devpost.com](https://jelbi-hackathon.devpost.com)
+ - date_published: 2024-07-08T17:35:01.623867+00:00
+
+ ## Kyiv Tech Summit
+ - [https://kyiv-tech-summit.devpost.com](https://kyiv-tech-summit.devpost.com)
+ - date_published: 2024-06-22T13:33:55.067830+00:00
+
+ ## LA Hacks 2020
+ - [https://la-hacks-2020.devpost.com](https://la-hacks-2020.devpost.com)
+ - date_published: 2024-05-04T15:30:50.267506+00:00
+
+ ## NanoString Spatial Omics Hackathon
+ - [https://nanostring.devpost.com](https://nanostring.devpost.com)
+ - date_published: 2024-05-10T05:00:31.624831+00:00
+
+ ## Pygames
+ - [https://pygames.devpost.com](https://pygames.devpost.com)
+ - date_published: 2024-07-11T11:11:29.840272+00:00
+
+ ## TF 2.2 Challenge: Building AI Responsibly
+ - [https://responsible-ai.devpost.com](https://responsible-ai.devpost.com)
+ - date_published: 2024-05-04T15:31:06.016655+00:00
+
+ ## CORTX & Filecoin Integration Challenge 2022
+ - [https://seagate-cortx-hackathon2022.devpost.com](https://seagate-cortx-hackathon2022.devpost.com)
+ - date_published: 2024-06-22T13:33:53.077088+00:00
+
+ ## Devpost - The home for hackathons
+ - [https://secure.devpost.com](https://secure.devpost.com)
+ - date_published: 2024-06-22T10:18:03.836777+00:00
+
+ ## TerribleHack the 6ix
+ - [https://terriblehack6.devpost.com](https://terriblehack6.devpost.com)
+ - date_published: 2024-08-19T19:20:36.418275+00:00
+
  ## TerribleHack X
  - [https://terriblehack-x.devpost.com](https://terriblehack-x.devpost.com)
  - date_published: 2024-08-19T19:20:34.580709+00:00
@@ -4004,44 +4044,4 @@ A blog about programming, distributed systems and others
  ## DiscoverRUIDOSO.com | Travel Information for Ruidoso, New Mexico
  - [https://discoverruidoso.com](https://discoverruidoso.com)
  - date_published: 2024-10-28T03:27:33.958135+00:00
-
- ## Discover Sandwich
- - [https://discoversandwich.com](https://discoversandwich.com)
- - date_published: 2024-05-10T06:42:25.544586+00:00
-
- ## Discover the Best Software development components & Reviews | DiscoverSdk
- - [http://discoversdk.com](http://discoversdk.com)
- - date_published: 2024-06-03T06:29:07.810483+00:00
-
- ## South Carolina Tourism Official Site | South Carolina Vacations
- - [https://discoversouthcarolina.com](https://discoversouthcarolina.com)
- - date_published: 2024-06-17T11:23:01+00:00
-
- ## Discover South Kensington - Discover South Kensington
- - [https://discoversouthken.com](https://discoversouthken.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Student Loans with Great Rates | Discover
- - [https://www.discoverstudentloans.com](https://www.discoverstudentloans.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Travel Adventure & Lifestyle Blog About the Philippines | Discover The Philippines
- - [https://discoverthephilippines.com](https://discoverthephilippines.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Discover the U.P.
- - [https://www.discovertheup.com](https://www.discovertheup.com)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## Tombstone AZ Information ⋆ Discover Tombstone Arizona
- - [https://discovertombstone.com](https://discovertombstone.com)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## MPEmbed
- - [https://discoverukr.com](https://discoverukr.com)
- - date_published: 2024-10-18T06:56:36.814363+00:00
-
- ## DiscoverWatamu
- - [https://www.discoverwatamu.com](https://www.discoverwatamu.com)
- - date_published: 2024-10-20T01:16:02.722380+00:00
 

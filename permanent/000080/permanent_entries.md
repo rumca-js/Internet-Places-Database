@@ -1,3 +1,43 @@
+ ## Trouvez un freelance disponible
+ - [http://www.codeur.com](http://www.codeur.com)
+ - date_published: 2024-09-15T20:00:11.578767+00:00
+
+ ## Textual: IRC for macOS
+ - [https://www.codeux.com](https://www.codeux.com)
+ - date_published: 2024-07-17T22:16:55.955370+00:00
+
+ ## Codewars - Achieve mastery through coding practice and developer mentorship
+ - [https://codewars.com](https://codewars.com)
+ - date_published: 2024-04-30T07:12:40.861122+00:00
+
+ ## Codewars API Reference
+ - [https://dev.codewars.com](https://dev.codewars.com)
+ - date_published: 2021-04-09T19:11:57+00:00
+
+ ## Codewars | The Codewars Docs
+ - [https://docs.codewars.com](https://docs.codewars.com)
+ - date_published: 2024-07-21T04:22:35.913348+00:00
+
+ ## Fathom Analytics: A Better Google Analytics Alternative
+ - [https://sparkling-two.codewars.com](https://sparkling-two.codewars.com)
+ - date_published: 2024-07-19T20:00:08+00:00
+
+ ## Windows Software on Mac, Linux, and ChromeOS with CrossOver | CodeWeavers
+ - [https://codeweavers.com](https://codeweavers.com)
+ - date_published: 2023-10-25T13:28:37.655699+00:00
+
+ ## Index of /
+ - [https://media.codeweavers.com](https://media.codeweavers.com)
+ - date_published: 2021-01-06T00:00:00+00:00
+
+ ## CodeWeavers Knowledge Base
+ - [https://support.codeweavers.com](https://support.codeweavers.com)
+ - date_published: 2024-05-08T05:49:48.791251+00:00
+
+ ## codewenda.com
+ - [http://codewenda.com](http://codewenda.com)
+ - date_published: 2024-06-30T07:07:15.442363+00:00
+
  ## Code With Antonio
  - [https://codewithantonio.com](https://codewithantonio.com)
  - date_published: 2024-04-29T07:32:31.093345+00:00
@@ -4004,45 +4044,4 @@ Colyvan's Homepage
  ## A whole new world
  - [http://www.commitstrip.com](http://www.commitstrip.com)
  - date_published: 2024-07-18T00:00:00+00:00
-
- ## Charity Fundraising & Payment Services - Charity Experts
- - [https://www.committedgiving.com](https://www.committedgiving.com)
- - date_published: 2021-11-19T10:57:01+00:00
-
- ## Dribbble Comment Generator – Generate your own completely random comment
- - [https://commments.com](https://commments.com)
- - date_published: 2024-09-14T23:28:02.639039+00:00
-
- ## Home | Commnatural: Communicate for Change | Science Communication & Organizational Change Research & Consulting
- - [https://www.commnatural.com](https://www.commnatural.com)
- - date_published: 2024-10-19T10:21:40.061138+00:00
-
- ## COMMODEXPLORER – La radio des ordinateurs des années 80-90
- - [https://commodexplorer.com](https://commodexplorer.com)
- - date_published: 2024-02-15T22:15:06.222705+00:00
- - tags: ['demoscene']
-
- ## Commodities-API | Free Oil, Coffee, Wheat & Commodities Rates JSON API
- - [https://commodities-api.com](https://commodities-api.com)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Commodities API Knowledge Base
- - [http://help.commodities-api.com](http://help.commodities-api.com)
- - date_published: 2024-07-20T04:11:37.827463+00:00
-
- ## Commodity Context | Rory Johnston | Substack
- - [https://commoditycontext.com](https://commoditycontext.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## CommodityHQ.com
- - [https://commodityhq.com](https://commodityhq.com)
- - date_published: 2024-12-14T16:13:21.124291+00:00
-
- ## Commodore CDTV
- - [https://commodorecdtv.com](https://commodorecdtv.com)
- - date_published: 2024-05-22T13:21:43+00:00
-
- ## Commodore Computer Club – USA - Vancouver, WA – Portland, OR – PDX Commodore Users Group
- - [https://www.commodorecomputerclub.com](https://www.commodorecomputerclub.com)
- - date_published: 2024-07-20T20:57:33.276916+00:00
 

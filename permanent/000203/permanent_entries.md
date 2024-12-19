@@ -1,3 +1,96 @@
+ ## Mindful Musings | Apurva Chitnis | Substack
+ - [https://apuchitnis.substack.com](https://apuchitnis.substack.com)
+ - date_published: 2023-10-25T09:42:32.956411+00:00
+ - tags: ['substack']
+
+ ## Google Ads y Facebook Ads desde cero | Arantxa y Guille | Substack
+ - [https://arantxayguille.substack.com](https://arantxayguille.substack.com)
+ - date_published: 2024-05-13T06:53:10.986443+00:00
+
+ ## Cabinet of Wonders | Samuel Arbesman | Substack
+ - [https://arbesman.substack.com](https://arbesman.substack.com)
+ - date_published: 2023-10-25T09:42:37.648122+00:00
+ - tags: ['substack']
+
+ ## Transmissions from the floor | Drew Schorno | Substack
+ - [https://arcove.substack.com](https://arcove.substack.com)
+ - date_published: 2023-10-25T09:42:40.395493+00:00
+ - tags: ['substack']
+
+ ## Arible Blog | Simdi | Substack
+ - [https://arible.substack.com](https://arible.substack.com)
+ - date_published: 2024-10-30T11:01:04.261925+00:00
+
+ ## A Diletante | Ariela K. | Substack
+ - [https://arielak.substack.com](https://arielak.substack.com)
+ - date_published: 2024-05-04T07:18:19.260037+00:00
+
+ ## Helwani Nose | Ariel Helwani | Substack
+ - [https://arielhelwani.substack.com](https://arielhelwani.substack.com)
+ - date_published: 2024-08-18T06:01:58.185306+00:00
+
+ ## LLMs for Engineers | Arjun Bansal | Substack
+ - [https://arjunbansal.substack.com](https://arjunbansal.substack.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Armageddon Prose | Ben Bartee | Substack
+ - [https://armageddonprose.substack.com](https://armageddonprose.substack.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Consumer & Culture | Hugo Amsellem | Substack
+ - [https://armthecreators.substack.com](https://armthecreators.substack.com)
+ - date_published: 2024-05-06T15:17:47.278096+00:00
+
+ ## In My Tribe | Arnold Kling | Substack
+ - [https://arnoldkling.substack.com](https://arnoldkling.substack.com)
+ - date_published: 2023-10-25T09:42:46.788508+00:00
+ - tags: ['substack']
+
+ ## Arpitrage | Arpit Gupta | Substack
+ - [https://arpitrage.substack.com](https://arpitrage.substack.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Arraybolt's Archives | Aaron Rainbolt | Substack
+ - [https://arraybolt3.substack.com](https://arraybolt3.substack.com)
+ - date_published: 2024-09-21T22:54:41.134128+00:00
+
+ ## Arrivals and Departures | Reena Kapoor | Substack
+ - [https://arrivalsanddepartures.substack.com](https://arrivalsanddepartures.substack.com)
+ - date_published: 2024-05-04T13:42:13.080202+00:00
+
+ ## Not all doom | Arthur Snell | Substack
+ - [https://arthursnell.substack.com](https://arthursnell.substack.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## The EU AI Act Newsletter | Risto Uuk | Substack
+ - [https://artificialintelligenceact.substack.com](https://artificialintelligenceact.substack.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Artificial Intelligence Made Simple | Devansh | Substack
+ - [https://artificialintelligencemadesimple.substack.com](https://artificialintelligencemadesimple.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## The Last Great Mystery | Arye | Substack
+ - [https://arye.substack.com](https://arye.substack.com)
+ - date_published: 2024-07-04T09:39:59.797023+00:00
+
+ ## Practical Self Reliance | Ashley Adamant | Substack
+ - [https://ashleyadamant.substack.com](https://ashleyadamant.substack.com)
+ - date_published: 2024-05-07T09:13:46.536610+00:00
+
+ ## Ashwin Gopalsamy | Substack
+ - [https://ashwingopalsamy.substack.com](https://ashwingopalsamy.substack.com)
+ - date_published: 2024-11-14T07:05:36.269686+00:00
+
+ ## The Asianometry Newsletter | Jon Y | Substack
+ - [https://asianometry.substack.com](https://asianometry.substack.com)
+ - date_published: 2023-10-25T09:42:50.856135+00:00
+ - tags: ['substack']
+
+ ## Asimov’s Addendum  | Substack
+ - [https://asimovaddendum.substack.com](https://asimovaddendum.substack.com)
+ - date_published: 2024-10-31T22:39:48.117233+00:00
+
  ## Askwho Casts AI | Substack
  - [https://askwhocastsai.substack.com](https://askwhocastsai.substack.com)
  - date_published: 2024-01-22T00:00:00+00:00
@@ -4005,92 +4098,4 @@
  ## Your News Biz | James Breiner | Substack
  - [https://jamesbreiner.substack.com](https://jamesbreiner.substack.com)
  - date_published: 2024-04-04T00:00:00+00:00
-
- ## james.claims | James Heathers | Substack
- - [https://jamesclaims.substack.com](https://jamesclaims.substack.com)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## Chapter 23 by James Garside | Substack
- - [https://jamesgarside.substack.com](https://jamesgarside.substack.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Clusterfuck Nation | James Howard Kunstler | Substack
- - [https://jameshowardkunstler.substack.com](https://jameshowardkunstler.substack.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## kind words for big feelings | James Kerti | Substack
- - [https://jameskerti.substack.com](https://jameskerti.substack.com)
- - date_published: 2024-05-10T06:26:34.375892+00:00
-
- ## The Turbulent World with James M. Dorsey | Substack
- - [https://jamesmdorsey.substack.com](https://jamesmdorsey.substack.com)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## James Roguski | Substack
- - [https://jamesroguski.substack.com](https://jamesroguski.substack.com)
- - date_published: 2024-05-08T06:44:28.045304+00:00
-
- ## The Jamestown Foundation | Substack
- - [https://jamestown.substack.com](https://jamestown.substack.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Contemplative Catalyst | Jamie Bristow | Substack
- - [https://jamiebristow.substack.com](https://jamiebristow.substack.com)
- - date_published: 2024-09-12T16:16:44.468830+00:00
-
- ## Regular Order by Jamie Dupree | Substack
- - [https://jamiedupree.substack.com](https://jamiedupree.substack.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Jamie’s Substack | Jamie Lopez | Substack
- - [https://jamielopez.substack.com](https://jamielopez.substack.com)
- - date_published: 2024-10-17T13:21:35.952840+00:00
-
- ## Jamie Reed | Substack
- - [https://jamiereed.substack.com](https://jamiereed.substack.com)
- - date_published: 2024-12-12T06:54:05.424774+00:00
-
- ## Janahan Newsletter | Janahan Sivaraman | Substack
- - [https://janahan.substack.com](https://janahan.substack.com)
- - date_published: 2024-08-11T17:50:06.474812+00:00
-
- ## Janarthanan’s Substack | Substack
- - [https://janasundar.substack.com](https://janasundar.substack.com)
- - date_published: 2024-07-14T08:05:21.231597+00:00
-
- ## From Montana to Portugal | Janelle Holden | Substack
- - [https://janelleholden.substack.com](https://janelleholden.substack.com)
- - date_published: 2024-08-18T07:30:15.076769+00:00
-
- ## Japanomics | Julian Smith | Substack
- - [https://japanomics.substack.com](https://japanomics.substack.com)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## Japan Optimist | Jesper Koll | Substack
- - [https://japanoptimist.substack.com](https://japanoptimist.substack.com)
- - date_published: 2024-05-04T10:00:12.185799+00:00
-
- ## jasonbock’s Substack | Jason Bock | Substack
- - [https://jasonbock.substack.com](https://jasonbock.substack.com)
- - date_published: 2024-01-10T03:58:01.479440+00:00
-
- ## Culture & Curiosities | Jason Colavito | Substack
- - [https://jasoncolavito.substack.com](https://jasoncolavito.substack.com)
- - date_published: 2024-07-13T03:56:13.803346+00:00
-
- ## Crime & Psychology | Jason Frowley PhD | Substack
- - [https://jasonfrowley.substack.com](https://jasonfrowley.substack.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Seeking Rents | Jason Garcia | Substack
- - [https://jasongarcia.substack.com](https://jasongarcia.substack.com)
- - date_published: 2024-05-02T12:56:53.565467+00:00
-
- ## Not A Paleontologist | Jason Klamm | Substack
- - [https://jasonklamm.substack.com](https://jasonklamm.substack.com)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Jason Pargin’s Newsletter | jasonpargin | Substack
- - [https://jasonpargin.substack.com](https://jasonpargin.substack.com)
- - date_published: 2024-03-16T03:36:41.460320+00:00
 

@@ -1,3 +1,59 @@
+ ## Juice Shop | 100% RAW Organic Cold-Pressed Juices Cleanses & Elixirs
+ - [https://juiceshop.com](https://juiceshop.com)
+ - date_published: 2024-05-06T16:27:34.953555+00:00
+
+ ## JuiceSSH - Free SSH client for Android
+ - [https://juicessh.com](https://juicessh.com)
+ - date_published: 2024-06-17T16:10:29.460288+00:00
+
+ ## Juicy Beast – Indie game studio based in Montreal
+ - [https://juicybeast.com](https://juicybeast.com)
+ - date_published: 2023-10-25T15:32:55.182232+00:00
+
+ ## Juicy Crumb Systems – Welcome to the Juicy Crumb Systems homepage!
+ - [https://juicycrumb.com](https://juicycrumb.com)
+ - date_published: 2024-05-06T14:34:49.528037+00:00
+
+ ## Facebook
+ - [http://juicyfruit.com](http://juicyfruit.com)
+ - date_published: 2024-07-08T19:36:26.619335+00:00
+
+ ## Prime Plant-Based Meats
+ - [https://www.juicymarbles.com](https://www.juicymarbles.com)
+ - date_published: 2024-06-23T11:48:52.308298+00:00
+
+ ## Juicy Studio: No artificial additives
+ - [http://juicystudio.com](http://juicystudio.com)
+ - date_published: 2024-09-09T16:23:35.340532+00:00
+
+ ## Pomodoro Timer that looks like a kitchen timer
+ - [https://juicytimer.com](https://juicytimer.com)
+ - date_published: 2024-05-21T18:12:09+00:00
+
+ ## Jui-Hsien Wang
+ - [http://juiwang.com](http://juiwang.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## The Open Operator Collection
+ - [https://jujucharms.com](https://jujucharms.com)
+ - date_published: 2024-06-23T01:32:08.651042+00:00
+
+ ## 芥見下々『呪術廻戦』展
+ - [https://jujutsuten.com](https://jujutsuten.com)
+ - date_published: 2020-02-19T12:05:37+00:00
+
+ ## Custom Stickers, Postcards, Business Cards & More | Jukebox
+ - [https://www.jukeboxprint.com](https://www.jukeboxprint.com)
+ - date_published: 2024-12-15T06:11:32.472511+00:00
+
+ ## Jukebox Zeros
+ - [http://www.jukeboxzeros.com](http://www.jukeboxzeros.com)
+ - date_published: 2021-06-07T22:04:19+00:00
+
+ ## Juke Joint Festival
+ - [http://www.jukejointfestival.com](http://www.jukejointfestival.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
  ## Julbo
  - [https://www.julbo.com](https://www.julbo.com)
  - date_published: 2024-07-13T02:55:32.783693+00:00
@@ -1748,6 +1804,10 @@
  ## jva studios
  - [https://jvastudios.com](https://jvastudios.com)
  - date_published: 2024-09-14T23:57:38.381349+00:00
+
+ ## Home - JV Codes
+ - [https://jvcodes.com](https://jvcodes.com)
+ - date_published: 2024-12-18T11:29:00.460458+00:00
 
  ## Юрий Ветров об интерфейсах
  - [http://jvetrau.com](http://jvetrau.com)
@@ -3975,64 +4035,4 @@ Paradox Audios
  ## Karlstack | Christopher Brunet | Substack
  - [https://karlstack.com](https://karlstack.com)
  - date_published: 2023-12-10T16:12:53.069326+00:00
-
- ## Karl Steyaert
- - [https://karlsteyaert.com](https://karlsteyaert.com)
- - date_published: 2024-06-12T12:41:25.454593+00:00
-
- ## Karl Sutt · Programing, business, self-development
- - [https://karlsutt.com](https://karlsutt.com)
- - date_published: 2023-10-25T15:34:49.967790+00:00
-
- ## Karl Whelan | Economist, University College Dublin
- - [https://karlwhelan.com](https://karlwhelan.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Karma3Labs
- - [https://karma3labs.com](https://karma3labs.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## KarmaCheck | Comprehensive and Fast Background Checks
- - [https://karmacheck.com](https://karmacheck.com)
- - date_published: 2024-05-12T05:23:24.876659+00:00
-
- ## Karmaka, The Card Game
- - [http://www.karmaka-game.com](http://www.karmaka-game.com)
- - date_published: 2024-10-17T22:15:31.105923+00:00
-
- ## Karmesh Yadav
- - [https://karmeshyadav.com](https://karmeshyadav.com)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Karmic Secuirty
- - [https://karmicsecurity.com](https://karmicsecurity.com)
- - date_published: 2024-02-04T03:59:10+00:00
-
- ## Quality Luxury Vinyl Flooring Tiles & Planks | Karndean LVT Floors
- - [https://www.karndean.com](https://www.karndean.com)
- - date_published: 2024-05-02T09:52:44.089340+00:00
-
- ## Resilient luxury vinyl flooring | Karndean Commercial
- - [https://www.karndeancommercial.com](https://www.karndeancommercial.com)
- - date_published: 2024-10-18T06:32:52.762225+00:00
-
- ## Karn | Friendly Neighborhood Developer
- - [https://karngyan.com](https://karngyan.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Karol Banach
- - [https://www.karolbanach.com](https://www.karolbanach.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Karolina Bielawska
- - [http://karolinabielawska.com](http://karolinabielawska.com)
- - date_published: 2024-07-20T17:55:20.164509+00:00
-
- ## Blank Website copy
- - [https://karolinahyunwilting.com](https://karolinahyunwilting.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Karolis Kosas
- - [https://karoliskosas.com](https://karoliskosas.com)
- - date_published: 2024-06-30T06:57:13.576215+00:00
 

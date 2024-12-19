@@ -1,3 +1,43 @@
+ ## #OCTABBER
+ - [http://octabberresistance.blogspot.com](http://octabberresistance.blogspot.com)
+ - date_published: 2024-10-21T15:03:18.303155+00:00
+
+ ## Blogger
+ - [http://odatat.blogspot.com](http://odatat.blogspot.com)
+ - date_published: 2024-06-27T09:57:40.129467+00:00
+
+ ## Blogio Oddio || The Oddio Overplay Blog
+ - [http://oddiooverplay.blogspot.com](http://oddiooverplay.blogspot.com)
+ - date_published: 2024-10-21T05:04:49.609966+00:00
+
+ ## OD&DITIES
+ - [http://odditiesmagazine.blogspot.com](http://odditiesmagazine.blogspot.com)
+ - date_published: 2024-07-13T06:31:23+00:00
+
+ ## Oddleg's Enterprises
+ - [http://oddlegsenterprises.blogspot.com](http://oddlegsenterprises.blogspot.com)
+ - date_published: 2024-10-24T08:28:43+00:00
+
+ ## Ode to Black Dougal
+ - [http://ode2bd.blogspot.com](http://ode2bd.blogspot.com)
+ - date_published: 2024-07-04T06:05:01+00:00
+
+ ## An Ode to Commies
+ - [http://ode2commies.blogspot.com](http://ode2commies.blogspot.com)
+ - date_published: 2024-07-03T02:12:51+00:00
+
+ ## Blogger
+ - [http://odesimundasdoneochiqueiro.blogspot.com](http://odesimundasdoneochiqueiro.blogspot.com)
+ - date_published: 2024-07-12T21:00:41.872741+00:00
+
+ ## Odie Bracy
+ - [http://odiebracy.blogspot.com](http://odiebracy.blogspot.com)
+ - date_published: 2024-10-10T16:45:57+00:00
+
+ ## Odrook's Lore
+ - [http://odrook.blogspot.com](http://odrook.blogspot.com)
+ - date_published: 2024-07-03T03:33:52+00:00
+
  ## Salman Rashid
  - [https://odysseuslahori.blogspot.com](https://odysseuslahori.blogspot.com)
  - date_published: 2024-08-10T11:36:37+00:00
@@ -3972,44 +4012,4 @@
  ## Raspberry Pi Music Synthesis
  - [https://raspberrypisynthesizer.blogspot.com](https://raspberrypisynthesizer.blogspot.com)
  - date_published: 2024-03-14T02:53:26+00:00
-
- ## Raspberry Pi Python Adventures
- - [http://raspberry-python.blogspot.com](http://raspberry-python.blogspot.com)
- - date_published: 2024-06-20T04:44:30+00:00
-
- ## raspodie: vita e pensieri di rasputin
- - [http://raspodie.blogspot.com](http://raspodie.blogspot.com)
- - date_published: 2024-09-01T22:54:36+00:00
-
- ## Rassilon's Matrix
- - [http://rassilonsmatrix.blogspot.com](http://rassilonsmatrix.blogspot.com)
- - date_published: 2024-08-12T10:29:34+00:00
-
- ## Rassles
- - [http://rassles.blogspot.com](http://rassles.blogspot.com)
- - date_published: 2024-03-13T17:49:31+00:00
-
- ## Rastî
- - [http://rastibini.blogspot.com](http://rastibini.blogspot.com)
- - date_published: 2024-05-24T09:33:59+00:00
-
- ## RATBOY69
- - [http://ratb0y69.blogspot.com](http://ratb0y69.blogspot.com)
- - date_published: 2024-12-10T10:45:43+00:00
-
- ## RatBoy - an online little magazine
- - [http://ratboyxx.blogspot.com](http://ratboyxx.blogspot.com)
- - date_published: 2024-09-05T19:21:00+00:00
-
- ## Rate Your Students
- - [http://rateyourstudents.blogspot.com](http://rateyourstudents.blogspot.com)
- - date_published: 2024-07-01T10:49:25+00:00
-
- ## Rather Gamey
- - [https://rathergamey.blogspot.com](https://rathergamey.blogspot.com)
- - date_published: 2023-04-26T00:00:00+00:00
-
- ## Rathstar's Ramblings
- - [http://rathstarramblings.blogspot.com](http://rathstarramblings.blogspot.com)
- - date_published: 2024-06-11T03:07:07+00:00
 

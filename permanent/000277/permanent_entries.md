@@ -1,3 +1,99 @@
+ ## Blackboard Learn
+ - [http://blackboard.princeton.edu](http://blackboard.princeton.edu)
+ - date_published: 2004-08-10T22:33:00+00:00
+
+ ## Home - Princeton University WordPress Service
+ - [https://blogs.princeton.edu](https://blogs.princeton.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Brazil LAB
+ - [https://brazillab.princeton.edu](https://brazillab.princeton.edu)
+ - date_published: 2024-07-01T04:52:01+00:00
+
+ ## Bridging Divides Initiative
+ - [https://bridgingdivides.princeton.edu](https://bridgingdivides.princeton.edu)
+ - date_published: 2024-06-16T05:06:30+00:00
+
+ ## Search Opportunities
+ - [https://careers.princeton.edu](https://careers.princeton.edu)
+ - date_published: 2024-05-07T20:00:19.564402+00:00
+
+ ## Your Cart
+ - [https://cart.press.princeton.edu](https://cart.press.princeton.edu)
+ - date_published: 2024-05-07T19:54:37.253591+00:00
+
+ ## Princeton University Library Catalog
+ - [https://catalog.princeton.edu](https://catalog.princeton.edu)
+ - date_published: 2024-07-01T17:24:20.329285+00:00
+
+ ## The Center for Digital Humanities at Princeton
+ - [https://cdh.princeton.edu](https://cdh.princeton.edu)
+ - date_published: 2024-05-04T15:58:48.185465+00:00
+
+ ## Civil and Environmental Engineering
+ - [https://cee.princeton.edu](https://cee.princeton.edu)
+ - date_published: 2024-05-07T20:00:37.643279+00:00
+
+ ## Strategic Partnerships & Engagement
+ - [https://cefr.princeton.edu](https://cefr.princeton.edu)
+ - date_published: 2024-07-21T14:18:27+00:00
+
+ ## Home | Math
+ - [https://cgi.math.princeton.edu](https://cgi.math.princeton.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## ChucK: A Strongly-Timed Music Programming Language
+ - [https://chuck.cs.princeton.edu](https://chuck.cs.princeton.edu)
+ - date_published: 2024-10-20T09:06:51.970149+00:00
+
+ ## Home - Center for Information Technology Policy
+ - [https://citp.princeton.edu](https://citp.princeton.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Climate Futures Initiative
+ - [https://climatefutures.princeton.edu](https://climatefutures.princeton.edu)
+ - date_published: 2024-07-01T17:00:18.751368+00:00
+
+ ## Carbon Mitigation Initiative
+ - [http://cmi.princeton.edu](http://cmi.princeton.edu)
+ - date_published: 2024-07-01T17:00:13.778452+00:00
+
+ ## Computational Cognitive Science Lab - Home
+ - [https://cocosci.princeton.edu](https://cocosci.princeton.edu)
+ - date_published: 2020-07-21T18:22:32+00:00
+
+ ## Office of Communications
+ - [https://communications.princeton.edu](https://communications.princeton.edu)
+ - date_published: 2024-07-01T12:10:06+00:00
+
+ ## Office of Community and Regional Affairs
+ - [https://community.princeton.edu](https://community.princeton.edu)
+ - date_published: 2024-07-01T04:31:00+00:00
+
+ ## Comparative Literature
+ - [https://complit.princeton.edu](https://complit.princeton.edu)
+ - date_published: 2024-06-21T08:03:24+00:00
+
+ ## CompudocWiki
+ - [https://compudoc.princeton.edu](https://compudoc.princeton.edu)
+ - date_published: 2023-09-30T03:51:58+00:00
+
+ ## Plasma Control Group
+ - [https://control.princeton.edu](https://control.princeton.edu)
+ - date_published: 2024-11-08T11:29:56.584955+00:00
+
+ ## Princeton COVID Resources
+ - [https://covid.princeton.edu](https://covid.princeton.edu)
+ - date_published: 2024-07-08T08:30:53+00:00
+
+ ## Center for Policy Research on Energy and the Environment (C-PREE)
+ - [https://cpree.princeton.edu](https://cpree.princeton.edu)
+ - date_published: 2024-05-07T20:00:35.800226+00:00
+
+ ## CS Guide Table of Contents | Department of Computer Science Computing Guide
+ - [https://csguide.cs.princeton.edu](https://csguide.cs.princeton.edu)
+ - date_published: 2024-05-07T20:00:13.785533+00:00
+
  ## Computer Science Department at Princeton University
  - [https://cs.princeton.edu](https://cs.princeton.edu)
  - date_published: 2023-10-25T18:56:59.790460+00:00
@@ -3912,100 +4008,4 @@
  ## Home - Two-step Login - Two-step Login
  - [https://twostep.rutgers.edu](https://twostep.rutgers.edu)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## Homepage | University Ethics and Compliance | Rutgers University
- - [https://uec.rutgers.edu](https://uec.rutgers.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Rutgers University Human Resources Home | uhr.rutgers.edu
- - [https://uhr.rutgers.edu](https://uhr.rutgers.edu)
- - date_published: 2024-05-07T20:09:55.148092+00:00
-
- ## Office of Urban Extension and Engagement
- - [https://urbanextension.rutgers.edu](https://urbanextension.rutgers.edu)
- - date_published: 2024-03-22T19:57:13+00:00
-
- ## Welcome to the Rutgers–Camden Office of Military & Veterans Affairs | Office of Military & Veterans Affairs
- - [https://veterans.camden.rutgers.edu](https://veterans.camden.rutgers.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home | Office of Veteran and Military Programs and Services
- - [https://veterans.rutgers.edu](https://veterans.rutgers.edu)
- - date_published: 2024-07-01T10:51:54+00:00
-
- ## WebReg | Home Page
- - [http://webreg.rutgers.edu](http://webreg.rutgers.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Legacy ACS Services | Enterprise Application Services
- - [https://www.acs.rutgers.edu](https://www.acs.rutgers.edu)
- - date_published: 2022-04-18T00:00:00+00:00
-
- ## Home
- - [http://www.cs.rutgers.edu](http://www.cs.rutgers.edu)
- - date_published: 2024-06-22T08:37:32+00:00
-
- ## SAS Honors Program
- - [http://www.sashonors.rutgers.edu](http://www.sashonors.rutgers.edu)
- - date_published: 2024-07-01T18:45:24+00:00
-
- ## Enterprise infrastructure services - Information Technology
- - [http://www.td.rutgers.edu](http://www.td.rutgers.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Under construction
- - [https://www.ugadmissions.rutgers.edu](https://www.ugadmissions.rutgers.edu)
- - date_published: 2024-07-14T23:44:03.692756+00:00
-
- ## Sabancı University myWeb Service
- - [https://myweb.sabanciuniv.edu](https://myweb.sabanciuniv.edu)
- - date_published: 2024-06-17T11:10:49.001145+00:00
-
- ## Ana sayfa | Sabancı Üniversitesi
- - [http://www.sabanciuniv.edu](http://www.sabanciuniv.edu)
- - date_published: 2024-07-07T22:06:06+00:00
-
- ## Home - SAE New Zealand
- - [https://auckland.sae.edu](https://auckland.sae.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## SAE - the leading global specialist in creative media education
- - [https://belgrade.sae.edu](https://belgrade.sae.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## SAE Institute Canada - Find the right audio education for you here.
- - [https://canada.sae.edu](https://canada.sae.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## SAE México | Instituto Especializado | Medios Creativos Digitales
- - [https://colombia.sae.edu](https://colombia.sae.edu)
- - date_published: 2022-03-02T14:09:43+00:00
-
- ## SAE - the leading global specialist in creative media education
- - [https://dubai.sae.edu](https://dubai.sae.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## SAE Indonesia - Perguruan Tinggi & Pelatihan Media Kreatif
- - [https://indonesia.sae.edu](https://indonesia.sae.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## SAE - the leading global specialist in creative media education
- - [https://jordan.sae.edu](https://jordan.sae.edu)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## SAE México | Instituto Especializado | Medios Creativos Digitales
- - [https://mexico.sae.edu](https://mexico.sae.edu)
- - date_published: 2022-03-02T14:09:43+00:00
-
- ## SAE Institute USA - Audio, Film, Entertainment Business Education
- - [https://usa.sae.edu](https://usa.sae.edu)
- - date_published: 2024-07-12T21:28:02.446621+00:00
-
- ## SAE Institute - Choose your region
- - [https://www.sae.edu](https://www.sae.edu)
- - date_published: 2024-06-03T08:47:58+00:00
-
- ## Russell Sage College | Find Your Future at Russell Sage College
- - [https://www.sage.edu](https://www.sage.edu)
- - date_published: 2024-10-08T00:00:00+00:00
 

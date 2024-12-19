@@ -1,3 +1,99 @@
+ ## Homepage | University Ethics and Compliance | Rutgers University
+ - [https://uec.rutgers.edu](https://uec.rutgers.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Rutgers University Human Resources Home | uhr.rutgers.edu
+ - [https://uhr.rutgers.edu](https://uhr.rutgers.edu)
+ - date_published: 2024-05-07T20:09:55.148092+00:00
+
+ ## Office of Urban Extension and Engagement
+ - [https://urbanextension.rutgers.edu](https://urbanextension.rutgers.edu)
+ - date_published: 2024-03-22T19:57:13+00:00
+
+ ## Welcome to the Rutgers–Camden Office of Military & Veterans Affairs | Office of Military & Veterans Affairs
+ - [https://veterans.camden.rutgers.edu](https://veterans.camden.rutgers.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | Office of Veteran and Military Programs and Services
+ - [https://veterans.rutgers.edu](https://veterans.rutgers.edu)
+ - date_published: 2024-07-01T10:51:54+00:00
+
+ ## WebReg | Home Page
+ - [http://webreg.rutgers.edu](http://webreg.rutgers.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Legacy ACS Services | Enterprise Application Services
+ - [https://www.acs.rutgers.edu](https://www.acs.rutgers.edu)
+ - date_published: 2022-04-18T00:00:00+00:00
+
+ ## Home
+ - [http://www.cs.rutgers.edu](http://www.cs.rutgers.edu)
+ - date_published: 2024-06-22T08:37:32+00:00
+
+ ## SAS Honors Program
+ - [http://www.sashonors.rutgers.edu](http://www.sashonors.rutgers.edu)
+ - date_published: 2024-07-01T18:45:24+00:00
+
+ ## Enterprise infrastructure services - Information Technology
+ - [http://www.td.rutgers.edu](http://www.td.rutgers.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Under construction
+ - [https://www.ugadmissions.rutgers.edu](https://www.ugadmissions.rutgers.edu)
+ - date_published: 2024-07-14T23:44:03.692756+00:00
+
+ ## Sabancı University myWeb Service
+ - [https://myweb.sabanciuniv.edu](https://myweb.sabanciuniv.edu)
+ - date_published: 2024-06-17T11:10:49.001145+00:00
+
+ ## Ana sayfa | Sabancı Üniversitesi
+ - [http://www.sabanciuniv.edu](http://www.sabanciuniv.edu)
+ - date_published: 2024-07-07T22:06:06+00:00
+
+ ## Home - SAE New Zealand
+ - [https://auckland.sae.edu](https://auckland.sae.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## SAE - the leading global specialist in creative media education
+ - [https://belgrade.sae.edu](https://belgrade.sae.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## SAE Institute Canada - Find the right audio education for you here.
+ - [https://canada.sae.edu](https://canada.sae.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## SAE México | Instituto Especializado | Medios Creativos Digitales
+ - [https://colombia.sae.edu](https://colombia.sae.edu)
+ - date_published: 2022-03-02T14:09:43+00:00
+
+ ## SAE - the leading global specialist in creative media education
+ - [https://dubai.sae.edu](https://dubai.sae.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## SAE Indonesia - Perguruan Tinggi & Pelatihan Media Kreatif
+ - [https://indonesia.sae.edu](https://indonesia.sae.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## SAE - the leading global specialist in creative media education
+ - [https://jordan.sae.edu](https://jordan.sae.edu)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## SAE México | Instituto Especializado | Medios Creativos Digitales
+ - [https://mexico.sae.edu](https://mexico.sae.edu)
+ - date_published: 2022-03-02T14:09:43+00:00
+
+ ## SAE Institute USA - Audio, Film, Entertainment Business Education
+ - [https://usa.sae.edu](https://usa.sae.edu)
+ - date_published: 2024-07-12T21:28:02.446621+00:00
+
+ ## SAE Institute - Choose your region
+ - [https://www.sae.edu](https://www.sae.edu)
+ - date_published: 2024-06-03T08:47:58+00:00
+
+ ## Russell Sage College | Find Your Future at Russell Sage College
+ - [https://www.sage.edu](https://www.sage.edu)
+ - date_published: 2024-10-08T00:00:00+00:00
+
  ## Universidad del Sagrado Corazón | En Sagrado tenemos un lugar para ti.
  - [http://www.sagrado.edu](http://www.sagrado.edu)
  - date_published: 2024-07-04T09:42:16.459440+00:00
@@ -3917,100 +4013,4 @@
  ## Texas A&M University-San Antonio
  - [https://www.tamusa.edu](https://www.tamusa.edu)
  - date_published: 2024-06-27T18:06:58+00:00
-
- ## Texas A&M Texarkana | Texas A&M Texarkana
- - [https://tamut.edu](https://tamut.edu)
- - date_published: 2024-07-02T02:29:31+00:00
-
- ## Home - Tarleton State University
- - [https://www.tarleton.edu](https://www.tarleton.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Taylor University | Taylor University
- - [http://www.taylor.edu](http://www.taylor.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Tennessee Board of Regents
- - [http://tbr.edu](http://tbr.edu)
- - date_published: 2024-07-01T15:48:23.941208+00:00
-
- ## 50 in 50 Campaign
- - [https://50days.tcnj.edu](https://50days.tcnj.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Academic Affairs
- - [https://academicaffairs.tcnj.edu](https://academicaffairs.tcnj.edu)
- - date_published: 2024-07-13T14:43:18+00:00
-
- ## Academics | The College of New Jersey
- - [https://academics.tcnj.edu](https://academics.tcnj.edu)
- - date_published: 2024-07-12T16:40:06+00:00
-
- ## The College of New Jersey | Undergraduate Admissions
- - [https://admissions.tcnj.edu](https://admissions.tcnj.edu)
- - date_published: 2024-07-12T16:43:25+00:00
-
- ## The College of New Jersey | Division of College Advancement
- - [https://advancement.tcnj.edu](https://advancement.tcnj.edu)
- - date_published: 2024-07-13T03:15:13+00:00
-
- ## Alumni Engagement
- - [https://alumni.tcnj.edu](https://alumni.tcnj.edu)
- - date_published: 2024-07-12T17:42:02+00:00
-
- ## School of the Arts and Communication | TCNJ
- - [https://artscomm.tcnj.edu](https://artscomm.tcnj.edu)
- - date_published: 2024-07-12T17:37:25+00:00
-
- ## TCNJ | Brand
- - [https://brand.tcnj.edu](https://brand.tcnj.edu)
- - date_published: 2024-07-14T12:05:35+00:00
-
- ## Brower Student Center | Student Life
- - [https://bsc.tcnj.edu](https://bsc.tcnj.edu)
- - date_published: 2024-07-12T15:25:47+00:00
-
- ## School of Business | TCNJ
- - [https://business.tcnj.edu](https://business.tcnj.edu)
- - date_published: 2024-07-12T18:22:58+00:00
-
- ## Campus Life
- - [https://campuslife.tcnj.edu](https://campuslife.tcnj.edu)
- - date_published: 2024-07-12T15:55:52+00:00
-
- ## Campus Police
- - [https://campuspolice.tcnj.edu](https://campuspolice.tcnj.edu)
- - date_published: 2024-07-12T17:38:06+00:00
-
- ## Careers @ TCNJ
- - [https://careers.tcnj.edu](https://careers.tcnj.edu)
- - date_published: 2024-07-12T17:31:08+00:00
-
- ## The Career Center | Your future is our mission
- - [https://career.tcnj.edu](https://career.tcnj.edu)
- - date_published: 2024-07-12T16:47:53+00:00
-
- ## Education Abroad and International Student Services | Arlotto Family Center for Global Engagement
- - [https://cge.tcnj.edu](https://cge.tcnj.edu)
- - date_published: 2024-07-12T17:41:58+00:00
-
- ## The College Core | The College of New Jersey
- - [https://collegecore.tcnj.edu](https://collegecore.tcnj.edu)
- - date_published: 2024-07-12T17:37:21+00:00
-
- ## The College of New Jersey | Undergraduate Admissions
- - [https://connect.tcnj.edu](https://connect.tcnj.edu)
- - date_published: 2024-07-12T16:43:25+00:00
-
- ## TCNJ | Division of Inclusive Excellence
- - [https://diversity.tcnj.edu](https://diversity.tcnj.edu)
- - date_published: 2024-07-13T16:09:06+00:00
-
- ## The College of New Jersey | School of Education
- - [https://education.tcnj.edu](https://education.tcnj.edu)
- - date_published: 2024-07-13T17:42:02+00:00
-
- ## The College of New Jersey | School of Engineering
- - [https://engineering.tcnj.edu](https://engineering.tcnj.edu)
- - date_published: 2024-07-12T15:12:40+00:00
 

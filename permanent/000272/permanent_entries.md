@@ -1,3 +1,99 @@
+ ## Florida State University
+ - [https://webmail.fsu.edu](https://webmail.fsu.edu)
+ - date_published: 2024-04-30T04:16:31.602816+00:00
+
+ ## Test
+ - [https://webservices.its.fsu.edu](https://webservices.its.fsu.edu)
+ - date_published: 2024-07-20T22:28:47.371813+00:00
+
+ ## Writing Resources
+ - [https://wr.english.fsu.edu](https://wr.english.fsu.edu)
+ - date_published: 2024-07-14T18:47:58+00:00
+
+ ## CEFA | Center for Economic Forecasting and Analysis
+ - [http://www.cefa.fsu.edu](http://www.cefa.fsu.edu)
+ - date_published: 2024-07-14T18:25:05+00:00
+
+ ## FAMU-FSU
+ - [https://www.eng.famu.fsu.edu](https://www.eng.famu.fsu.edu)
+ - date_published: 2024-07-19T19:41:35+00:00
+
+ ## Facilities
+ - [https://www.facilities.fsu.edu](https://www.facilities.fsu.edu)
+ - date_published: 2024-07-22T04:02:48.183407+00:00
+
+ ## FREAC - Florida Resources and Environmental Analysis Center
+ - [http://www.freac.fsu.edu](http://www.freac.fsu.edu)
+ - date_published: 2022-05-12T18:41:58+00:00
+
+ ## The Florida State University High Energy Physics Group
+ - [http://www.hep.fsu.edu](http://www.hep.fsu.edu)
+ - date_published: 2024-06-22T09:00:51.510924+00:00
+
+ ## Seminole 100
+ - [https://www.seminole100.fsu.edu](https://www.seminole100.fsu.edu)
+ - date_published: 2024-08-11T11:25:06.326116+00:00
+
+ ## Sustainable Campus
+ - [http://www.sustainablecampus.fsu.edu](http://www.sustainablecampus.fsu.edu)
+ - date_published: 2024-07-18T18:15:43+00:00
+
+ ## Titans Return: COVID-19 Recovery | California State University, Fullerton
+ - [http://coronavirus.fullerton.edu](http://coronavirus.fullerton.edu)
+ - date_published: 2024-07-22T03:53:42.073040+00:00
+
+ - [https://escatter11.fullerton.edu](https://escatter11.fullerton.edu)
+ - date_published: 2016-04-25T04:44:24+00:00
+ - tags: ['math']
+
+ ## California State University, Fullerton
+ - [https://fullerton.edu](https://fullerton.edu)
+ - date_published: 2024-07-22T03:53:47.579855+00:00
+
+ ## College of Humanities and Social Sciences - College of Humanities and Social Sciences | CSUF
+ - [http://hss.fullerton.edu](http://hss.fullerton.edu)
+ - date_published: 2024-07-22T03:53:45.062146+00:00
+
+ ## CSUF Psychology Department Research and Teaching Materials
+ - [https://psych.fullerton.edu](https://psych.fullerton.edu)
+ - date_published: 2022-08-31T19:03:55+00:00
+
+ ## Department of Psychology - Department of Psychology | CSUF
+ - [https://psychology.fullerton.edu](https://psychology.fullerton.edu)
+ - date_published: 2024-04-30T04:16:47.286500+00:00
+
+ ## Cierpliwości...
+ - [https://www.fullsail.edu](https://www.fullsail.edu)
+ - date_published: 2024-06-30T01:29:45.339767+00:00
+
+ ## Gallaudet University Press
+ - [https://gupress.gallaudet.edu](https://gupress.gallaudet.edu)
+ - date_published: 2024-10-29T03:02:45+00:00
+
+ ## Home | Gannon University
+ - [http://www.gannon.edu](http://www.gannon.edu)
+ - date_published: 2024-06-28T14:31:15.872176+00:00
+
+ ## Home | Office of Academic Effectiveness
+ - [https://academiceffectiveness.gatech.edu](https://academiceffectiveness.gatech.edu)
+ - date_published: 2024-07-18T12:53:02+00:00
+
+ ## Improving Administrative Services | Administrative Excellence
+ - [https://adminx.gatech.edu](https://adminx.gatech.edu)
+ - date_published: 2024-10-11T21:33:31+00:00
+
+ ## Welcome! | Undergraduate Admission
+ - [https://admission.gatech.edu](https://admission.gatech.edu)
+ - date_published: 2024-04-30T04:19:34.744531+00:00
+
+ ## Homepage | Advising & Transition
+ - [https://advising.gatech.edu](https://advising.gatech.edu)
+ - date_published: 2024-06-13T15:15:15+00:00
+
+ ## Administration and Finance | Georgia Institute of Technology
+ - [https://af.gatech.edu](https://af.gatech.edu)
+ - date_published: 2024-06-14T21:39:27+00:00
+
  ## Harnessing the Power of AI | AI at Georgia Tech
  - [https://ai.gatech.edu](https://ai.gatech.edu)
  - date_published: 2024-07-22T03:45:43.409433+00:00
@@ -3910,100 +4006,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## Countway Library
  - [https://countway.harvard.edu](https://countway.harvard.edu)
  - date_published: 2024-08-11T05:21:18.289188+00:00
-
- ## The Committee On Course Registration
- - [https://courseregistration.fas.harvard.edu](https://courseregistration.fas.harvard.edu)
- - date_published: 2024-06-30T11:21:21+00:00
-
- ## CRCS | Center for Research on Computation and Society
- - [https://crcs.seas.harvard.edu](https://crcs.seas.harvard.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## CS50
- - [https://cs50.harvard.edu](https://cs50.harvard.edu)
- - date_published: 2024-06-21T15:31:32+00:00
-
- ## Harvard Computer Science :: Harvard CS Concentration
- - [https://csadvising.seas.harvard.edu](https://csadvising.seas.harvard.edu)
- - date_published: 2024-04-30T04:47:06.184694+00:00
-
- ## Cushman Lab – Template for a project, lab, dept. etc.
- - [https://cushmanlab.fas.harvard.edu](https://cushmanlab.fas.harvard.edu)
- - date_published: 2024-06-22T07:48:09+00:00
-
- ## Chandra X-Ray Center
- - [http://cxc.harvard.edu](http://cxc.harvard.edu)
- - date_published: 2024-07-22T07:03:53.742825+00:00
-
- ## Berkman Klein Center
- - [https://cyber.harvard.edu](https://cyber.harvard.edu)
- - date_published: 2024-03-11T20:54:03.223117+00:00
-
- ## Berkman Klein Center
- - [https://cyber.law.harvard.edu](https://cyber.law.harvard.edu)
- - date_published: 2024-04-29T02:42:10.432644+00:00
-
- ## Home | Digital Data Design Institute at Harvard
- - [https://d3.harvard.edu](https://d3.harvard.edu)
- - date_published: 2023-10-25T18:51:42.107342+00:00
-
- ## Mapping Past Societies
- - [https://darmc.harvard.edu](https://darmc.harvard.edu)
- - date_published: 2024-05-06T16:59:19.797543+00:00
-
- ## DASH Home
- - [https://dash.harvard.edu](https://dash.harvard.edu)
- - date_published: 2024-05-12T04:28:16.700308+00:00
-
- ## Marcus Institute Data Archive
- - [https://data.hsl.harvard.edu](https://data.hsl.harvard.edu)
- - date_published: 2024-09-12T20:26:20.457027+00:00
-
- ## Home
- - [https://datascience.harvard.edu](https://datascience.harvard.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Harvard Dataverse
- - [https://dataverse.harvard.edu](https://dataverse.harvard.edu)
- - date_published: 2024-05-11T09:34:04.005381+00:00
-
- ## Center on the Developing Child at Harvard University
- - [https://developingchild.harvard.edu](https://developingchild.harvard.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Harvard Medical School Division of Medical Sciences
- - [http://dms.hms.harvard.edu](http://dms.hms.harvard.edu)
- - date_published: 2024-10-19T04:50:33.274644+00:00
-
- ## HarvardSites | HarvardSites Drupal User Guide
- - [https://drupal.harvardsites.harvard.edu](https://drupal.harvardsites.harvard.edu)
- - date_published: 2024-07-21T23:19:22.821083+00:00
-
- ## Harvard College Dean of Students Office
- - [https://dso.college.harvard.edu](https://dso.college.harvard.edu)
- - date_published: 2024-09-04T20:09:17+00:00
-
- ## Data Science Services
- - [https://dss.iq.harvard.edu](https://dss.iq.harvard.edu)
- - date_published: 2024-07-14T14:36:27+00:00
-
- ## Home - Early Design Education
- - [https://earlydesigneducation.gsd.harvard.edu](https://earlydesigneducation.gsd.harvard.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Executive and Continuing Professional Education
- - [https://ecpe.sph.harvard.edu](https://ecpe.sph.harvard.edu)
- - date_published: 2024-04-30T04:47:28.591010+00:00
-
- ## Computer Science | Harvard John A. Paulson School of Engineering and Applied Sciences
- - [https://eecs.harvard.edu](https://eecs.harvard.edu)
- - date_published: 2023-10-25T18:52:07.507044+00:00
-
- ## Home
- - [https://embeddedethics.seas.harvard.edu](https://embeddedethics.seas.harvard.edu)
- - date_published: 2024-06-15T12:19:24+00:00
-
- ## Epicenter
- - [http://epicenter.wcfia.harvard.edu](http://epicenter.wcfia.harvard.edu)
- - date_published: 2024-06-06T00:00:00+00:00
 

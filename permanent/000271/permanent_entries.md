@@ -1,3 +1,98 @@
+ ## Welcome | global Collections
+ - [http://gcollections.crl.edu](http://gcollections.crl.edu)
+ - date_published: 2024-09-13T20:00:20+00:00
+
+ ## ICON - International Coalition on Newspapers
+ - [http://icon.crl.edu](http://icon.crl.edu)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## LIBLICENSE
+ - [http://liblicense.crl.edu](http://liblicense.crl.edu)
+ - date_published: 2024-09-13T20:00:13.524378+00:00
+
+ ## PAPR - Print Archive and Preservation Registry
+ - [http://papr.crl.edu](http://papr.crl.edu)
+ - date_published: 2024-09-13T20:00:24.754549+00:00
+
+ ## Two Colleges. One Vision.
+ - [https://csbsju.edu](https://csbsju.edu)
+ - date_published: 2024-11-21T07:37:53+00:00
+
+ ## Cold Spring Harbor Laboratory | Cold Spring Harbor Laboratory
+ - [https://cshl.edu](https://cshl.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Current Exchange
+ - [https://currentexchange.cshl.edu](https://currentexchange.cshl.edu)
+ - date_published: 2024-07-22T17:36:05.477144+00:00
+
+ ## CSHL DNA Learning Center
+ - [https://dnalc.cshl.edu](https://dnalc.cshl.edu)
+ - date_published: 2024-04-30T04:00:53.330803+00:00
+
+ ## Donate to CSHL
+ - [https://give.cshl.edu](https://give.cshl.edu)
+ - date_published: 2024-04-30T04:00:55.301180+00:00
+
+ ## Library | Cold Spring Harbor Laboratory
+ - [http://library.cshl.edu](http://library.cshl.edu)
+ - date_published: 2024-10-29T18:44:14.718208+00:00
+
+ ## Cold Spring Harbor Laboratory - Scientific Meetings & Courses Program
+ - [https://meetings.cshl.edu](https://meetings.cshl.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## CSHL Leading Strand
+ - [http://theleadingstrand.cshl.edu](http://theleadingstrand.cshl.edu)
+ - date_published: 2024-07-22T17:36:12.054990+00:00
+
+ ## College of Southern Nevada - Modern Campus Catalog™
+ - [https://catalog.csn.edu](https://catalog.csn.edu)
+ - date_published: 2024-10-27T21:19:04.703241+00:00
+
+ ## CSN
+ - [https://www.csn.edu](https://www.csn.edu)
+ - date_published: 2022-03-03T17:59:22+00:00
+
+ ## Home | California State University, Bakersfield
+ - [https://csub.edu](https://csub.edu)
+ - date_published: 2024-08-18T10:38:33.468290+00:00
+
+ - [https://www2.csudh.edu](https://www2.csudh.edu)
+ - date_published: 2024-01-09T02:58:55.600628+00:00
+
+ ## CSU East Bay - Modern Campus Catalog™
+ - [https://catalog.csueastbay.edu](https://catalog.csueastbay.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## California State University, East Bay
+ - [https://www.csueastbay.edu](https://www.csueastbay.edu)
+ - date_published: 2024-07-01T23:49:35.346206+00:00
+
+ ## Fresno State Directory
+ - [https://directory.csufresno.edu](https://directory.csufresno.edu)
+ - date_published: 2024-09-15T11:08:06.101427+00:00
+
+ ## Home
+ - [https://csuglobal.edu](https://csuglobal.edu)
+ - date_published: 2024-07-21T16:09:01+00:00
+
+ ## Homepage
+ - [https://www.csulb.edu](https://www.csulb.edu)
+ - date_published: 2024-09-06T21:35:54+00:00
+
+ ## California State University Monterey Bay - Acalog ACMS™
+ - [https://catalog.csumb.edu](https://catalog.csumb.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | California State University Monterey Bay
+ - [https://csumb.edu](https://csumb.edu)
+ - date_published: 2024-07-01T23:49:41.315322+00:00
+
+ ## Online Master of Business Administration Degree | CSUMB
+ - [https://mba.csumb.edu](https://mba.csumb.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
  ## CSUN University Library Digital Collection
  - [https://digital-collections.csun.edu](https://digital-collections.csun.edu)
  - date_published: 2024-08-19T05:02:39+00:00
@@ -3904,100 +3999,4 @@
  ## Home page (used as placeholder)
  - [https://vpfa.fsu.edu](https://vpfa.fsu.edu)
  - date_published: 2024-07-14T18:12:28+00:00
-
- ## Florida State University
- - [https://webmail.fsu.edu](https://webmail.fsu.edu)
- - date_published: 2024-04-30T04:16:31.602816+00:00
-
- ## Test
- - [https://webservices.its.fsu.edu](https://webservices.its.fsu.edu)
- - date_published: 2024-07-20T22:28:47.371813+00:00
-
- ## Writing Resources
- - [https://wr.english.fsu.edu](https://wr.english.fsu.edu)
- - date_published: 2024-07-14T18:47:58+00:00
-
- ## CEFA | Center for Economic Forecasting and Analysis
- - [http://www.cefa.fsu.edu](http://www.cefa.fsu.edu)
- - date_published: 2024-07-14T18:25:05+00:00
-
- ## FAMU-FSU
- - [https://www.eng.famu.fsu.edu](https://www.eng.famu.fsu.edu)
- - date_published: 2024-07-19T19:41:35+00:00
-
- ## Facilities
- - [https://www.facilities.fsu.edu](https://www.facilities.fsu.edu)
- - date_published: 2024-07-22T04:02:48.183407+00:00
-
- ## FREAC - Florida Resources and Environmental Analysis Center
- - [http://www.freac.fsu.edu](http://www.freac.fsu.edu)
- - date_published: 2022-05-12T18:41:58+00:00
-
- ## The Florida State University High Energy Physics Group
- - [http://www.hep.fsu.edu](http://www.hep.fsu.edu)
- - date_published: 2024-06-22T09:00:51.510924+00:00
-
- ## Seminole 100
- - [https://www.seminole100.fsu.edu](https://www.seminole100.fsu.edu)
- - date_published: 2024-08-11T11:25:06.326116+00:00
-
- ## Sustainable Campus
- - [http://www.sustainablecampus.fsu.edu](http://www.sustainablecampus.fsu.edu)
- - date_published: 2024-07-18T18:15:43+00:00
-
- ## Titans Return: COVID-19 Recovery | California State University, Fullerton
- - [http://coronavirus.fullerton.edu](http://coronavirus.fullerton.edu)
- - date_published: 2024-07-22T03:53:42.073040+00:00
-
- - [https://escatter11.fullerton.edu](https://escatter11.fullerton.edu)
- - date_published: 2016-04-25T04:44:24+00:00
- - tags: ['math']
-
- ## California State University, Fullerton
- - [https://fullerton.edu](https://fullerton.edu)
- - date_published: 2024-07-22T03:53:47.579855+00:00
-
- ## College of Humanities and Social Sciences - College of Humanities and Social Sciences | CSUF
- - [http://hss.fullerton.edu](http://hss.fullerton.edu)
- - date_published: 2024-07-22T03:53:45.062146+00:00
-
- ## CSUF Psychology Department Research and Teaching Materials
- - [https://psych.fullerton.edu](https://psych.fullerton.edu)
- - date_published: 2022-08-31T19:03:55+00:00
-
- ## Department of Psychology - Department of Psychology | CSUF
- - [https://psychology.fullerton.edu](https://psychology.fullerton.edu)
- - date_published: 2024-04-30T04:16:47.286500+00:00
-
- ## Cierpliwości...
- - [https://www.fullsail.edu](https://www.fullsail.edu)
- - date_published: 2024-06-30T01:29:45.339767+00:00
-
- ## Gallaudet University Press
- - [https://gupress.gallaudet.edu](https://gupress.gallaudet.edu)
- - date_published: 2024-10-29T03:02:45+00:00
-
- ## Home | Gannon University
- - [http://www.gannon.edu](http://www.gannon.edu)
- - date_published: 2024-06-28T14:31:15.872176+00:00
-
- ## Home | Office of Academic Effectiveness
- - [https://academiceffectiveness.gatech.edu](https://academiceffectiveness.gatech.edu)
- - date_published: 2024-07-18T12:53:02+00:00
-
- ## Improving Administrative Services | Administrative Excellence
- - [https://adminx.gatech.edu](https://adminx.gatech.edu)
- - date_published: 2024-10-11T21:33:31+00:00
-
- ## Welcome! | Undergraduate Admission
- - [https://admission.gatech.edu](https://admission.gatech.edu)
- - date_published: 2024-04-30T04:19:34.744531+00:00
-
- ## Homepage | Advising & Transition
- - [https://advising.gatech.edu](https://advising.gatech.edu)
- - date_published: 2024-06-13T15:15:15+00:00
-
- ## Administration and Finance | Georgia Institute of Technology
- - [https://af.gatech.edu](https://af.gatech.edu)
- - date_published: 2024-06-14T21:39:27+00:00
 

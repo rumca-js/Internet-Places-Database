@@ -1,3 +1,155 @@
+ ## Thundering Herd
+ - [http://blog.pearce.org.nz](http://blog.pearce.org.nz)
+ - date_published: 2023-04-08T00:00:00+00:00
+
+ ## The Physics Room
+ - [https://physicsroom.org.nz](https://physicsroom.org.nz)
+ - date_published: 2024-07-13T16:16:00.753479+00:00
+
+ ## Powerswitch: Compare and find cheap energy plans
+ - [https://www.powerswitch.org.nz](https://www.powerswitch.org.nz)
+ - date_published: 2024-10-28T08:39:38.426513+00:00
+
+ ## https://www.privacy.org.nz
+ - [https://privacy.org.nz](https://privacy.org.nz)
+ - date_published: 2024-01-09T03:38:02.730564+00:00
+
+ ## Home | QEII National Trust
+ - [https://qeiinationaltrust.org.nz](https://qeiinationaltrust.org.nz)
+ - date_published: 2024-10-29T19:12:23.472919+00:00
+
+ ## Royal Astronomical Society of New Zealand
+ - [https://rasnz.org.nz](https://rasnz.org.nz)
+ - date_published: 2024-09-16T06:21:56.597365+00:00
+
+ ## Repair Network Aotearoa
+ - [https://repairnetworkaotearoa.org.nz](https://repairnetworkaotearoa.org.nz)
+ - date_published: 2024-05-29T20:28:15.667518+00:00
+
+ ## New Zealand Republic
+ - [http://www.republic.org.nz](http://www.republic.org.nz)
+ - date_published: 2024-10-29T19:38:24.164931+00:00
+
+ ## Smart on Crime
+ - [http://blog.rethinking.org.nz](http://blog.rethinking.org.nz)
+ - date_published: 2024-12-14T14:01:26+00:00
+
+ ## New Zealand Rheumatology Association
+ - [https://www.rheumatology.org.nz](https://www.rheumatology.org.nz)
+ - date_published: 2024-06-28T12:04:00.628983+00:00
+
+ ## Ernest Rutherford - Scientist Supreme
+ - [http://www.rutherford.org.nz](http://www.rutherford.org.nz)
+ - date_published: 2024-02-24T22:42:25+00:00
+
+ ## Seafriends home page
+ - [http://www.seafriends.org.nz](http://www.seafriends.org.nz)
+ - date_published: 2018-10-01T09:27:11+00:00
+
+ ## Future website of splice.org.nz
+ - [http://www.splice.org.nz](http://www.splice.org.nz)
+ - date_published: 2024-07-04T06:19:29.422021+00:00
+
+ ## Starship
+ - [https://starship.org.nz](https://starship.org.nz)
+ - date_published: 2024-07-19T23:16:46.276567+00:00
+
+ ## Stats Chat
+ - [https://www.statschat.org.nz](https://www.statschat.org.nz)
+ - date_published: 2024-10-31T22:43:41.509664+00:00
+
+ ## Hato Hone St John | Here for Life
+ - [https://www.stjohn.org.nz](https://www.stjohn.org.nz)
+ - date_published: 2024-08-18T21:20:15.795315+00:00
+
+ ## takahē - Bringing literature and art from Aotearoa New Zealand to the world.
+ - [https://takahe.org.nz](https://takahe.org.nz)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Welcome to the Divisional Websites of Freemasons New Zealand
+ - [http://www.themasons.org.nz](http://www.themasons.org.nz)
+ - date_published: 2023-01-29T00:47:16+00:00
+
+ ## The Standard
+ - [https://thestandard.org.nz](https://thestandard.org.nz)
+ - date_published: 2024-10-31T22:40:30+00:00
+
+ ## Non-Religious Moral Code of Ethics & Common Decency - 21 Ways to be Happy - The Way To Happiness
+ - [http://www.thewaytohappiness.org.nz](http://www.thewaytohappiness.org.nz)
+ - date_published: 2024-09-04T17:54:11.460356+00:00
+
+ ## Manaaki Tāngata | Victim Support
+ - [http://www.victimsupport.org.nz](http://www.victimsupport.org.nz)
+ - date_published: 2024-10-25T01:36:41+00:00
+
+ ## Scientology Volunteer Ministers: Humanitarian Organization & Aid, Disaster Response
+ - [http://www.volunteerministers.org.nz](http://www.volunteerministers.org.nz)
+ - date_published: 2024-09-04T17:54:05.471217+00:00
+
+ ## WasteNet Southland
+ - [https://www.wastenet.org.nz](https://www.wastenet.org.nz)
+ - date_published: 2024-02-08T17:46:48.890625+00:00
+
+ ## Home - Webstock
+ - [https://webstock.org.nz](https://webstock.org.nz)
+ - date_published: 2024-05-11T10:54:26.727367+00:00
+
+ ## Women's Refuge - Gift a Safe Night
+ - [https://www.womensrefuge.org.nz](https://www.womensrefuge.org.nz)
+ - date_published: 2024-10-20T11:44:32.811636+00:00
+
+ ## Send a WWF Wildlife eCard
+ - [https://wwf.org.nz](https://wwf.org.nz)
+ - date_published: 2024-05-07T23:58:32.194496+00:00
+
+ ## What Are Human Rights? Defined • Youth for Human Rights Campaign
+ - [http://www.youthforhumanrights.org.nz](http://www.youthforhumanrights.org.nz)
+ - date_published: 2024-09-04T17:54:03.840995+00:00
+
+ ## Ombudsman New Zealand
+ - [https://www.ombudsman.parliament.nz](https://www.ombudsman.parliament.nz)
+ - date_published: 2024-10-29T18:45:24+00:00
+
+ ## New Zealand Parliament home page - New Zealand Parliament
+ - [https://www.parliament.nz](https://www.parliament.nz)
+ - date_published: 2024-10-28T08:36:45.103977+00:00
+
+ ## Browne School of Art | Auckland, NZ
+ - [https://www.browne.school.nz](https://www.browne.school.nz)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Homepage - Scots College
+ - [http://www.scotscollege.school.nz](http://www.scotscollege.school.nz)
+ - date_published: 2024-09-05T17:24:41.898398+00:00
+
+ ## Home – St Mark's School
+ - [http://www.st-marks.school.nz](http://www.st-marks.school.nz)
+ - date_published: 2024-09-05T02:33:51+00:00
+
+ ## Home - Altcoin Observer
+ - [https://altcoin.observer](https://altcoin.observer)
+ - date_published: 2024-07-29T14:01:43+00:00
+
+ ## AskHistorians Archive Observer
+ - [https://archive.observer](https://archive.observer)
+ - date_published: 2023-07-23T18:04:45+00:00
+
+ ## corru.observer
+ - [https://corru.observer](https://corru.observer)
+ - date_published: 2024-06-23T18:33:11.915513+00:00
+
+ ## Ian's blog | entropy.observer
+ - [https://blog.entropy.observer](https://blog.entropy.observer)
+ - date_published: 2023-10-25T20:51:56.441202+00:00
+
+ ## The World's Largest Exploit & Vulnerability Database
+ - [https://exploit.observer](https://exploit.observer)
+ - date_published: 2024-04-30T05:57:32.690426+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://akkoma.fediverse.observer](https://akkoma.fediverse.observer)
+ - date_published: 2024-07-18T05:38:29.648190+00:00
+
  ## Fediverse Observer | GraphiQL API
  - [https://api.fediverse.observer](https://api.fediverse.observer)
  - date_published: 2024-07-18T05:38:19.113861+00:00
@@ -3899,158 +4051,4 @@ I post about Tech, Privacy, Games...
  ## American Association of Teachers of German | AATG
  - [https://www.aatg.org](https://www.aatg.org)
  - date_published: 2024-07-01T14:32:17.092181+00:00
-
- ## AAUP
- - [http://aaup.org](http://aaup.org)
- - date_published: 2024-07-02T09:24:26+00:00
-
- ## Aave Grants DAO
- - [https://aavegrants.org](https://aavegrants.org)
- - date_published: 2024-06-16T03:48:14.535750+00:00
-
- ## Home | aavso
- - [https://aavso.org](https://aavso.org)
- - date_published: 2024-05-07T15:17:08.145943+00:00
-
- ## AVSpec Recent
- - [https://app.aavso.org](https://app.aavso.org)
- - date_published: 2024-08-06T18:25:31.906379+00:00
-
- ## Home | aavso
- - [https://auth.aavso.org](https://auth.aavso.org)
- - date_published: 2024-06-30T00:01:09+00:00
-
- ## American Birding Association - American Birding Association
- - [https://www.aba.org](https://www.aba.org)
- - date_published: 2024-06-21T12:55:00.430060+00:00
-
- ## Antiquarian Booksellers' Association of America | Antiquarian & Rare Books | ABAA
- - [http://abaa.org](http://abaa.org)
- - date_published: 2024-07-12T18:44:48.457091+00:00
-
- ## Welcome
-                -
-			Association for Behavior Analysis International
- - [https://www.abainternational.org](https://www.abainternational.org)
- - date_published: 2024-09-04T05:19:17.021106+00:00
-
- ## Bienvenue sur le site de la Fondation Abalone - Fondation Abalone
- - [https://abalone-fondation.org](https://abalone-fondation.org)
- - date_published: 2024-08-18T06:35:58.846789+00:00
-
- ## ABAN – ABAN
- - [https://abanangels.org](https://abanangels.org)
- - date_published: 2024-09-25T10:12:23.184732+00:00
-
- ## Abandoned America
- - [https://abandonedamerica.org](https://abandonedamerica.org)
- - date_published: 2024-10-22T03:16:40.849177+00:00
-
- ## Abandonware France, le site retrogaming dÃ©diÃ© Ã  la sauvegarde du patrimoine vidÃ©o ludique PC.
- - [https://www.abandonware-france.org](https://www.abandonware-france.org)
- - date_published: 2024-07-10T02:41:00.978525+00:00
-
- ## Le site des anciennes revues informatiques -  www.abandonware-magazines.org
- - [http://www.abandonware-magazines.org](http://www.abandonware-magazines.org)
- - date_published: 2024-07-11T12:07:25.900326+00:00
-
- ## ABBABET APP DOWNLOAD LIVE BETTING CRICKET AND CASINO GAMES APK LOGIN BD
- - [https://abbabet-bd.org](https://abbabet-bd.org)
- - date_published: 2024-09-06T13:43:57.530891+00:00
-
- ## Abbeville Institute – Explore the Southern Tradition
- - [http://abbevilleinstitute.org](http://abbevilleinstitute.org)
- - date_published: 2024-06-27T06:57:39.495187+00:00
-
- ## Abbey Vocations
- - [https://abbeyvocations.org](https://abbeyvocations.org)
- - date_published: 2024-12-15T18:48:12.765287+00:00
-
- ## HostGator Website Startup Guide
- - [https://abbysarmy.org](https://abbysarmy.org)
- - date_published: 2020-11-19T23:24:54+00:00
-
- ## Ability Building Community
- - [https://abcinc.org](https://abcinc.org)
- - date_published: 2024-08-18T02:25:49.232551+00:00
-
- ## Bothalia, African Biodiversity & Conservation
- - [http://www.abcjournal.org](http://www.abcjournal.org)
- - date_published: 2024-10-29T18:52:01.273777+00:00
-
- ## Armed Bear Common Lisp (ABCL) - ANSI Common Lisp on the Java Virtual Machine
- - [https://abcl.org](https://abcl.org)
- - date_published: 2024-05-08T12:14:45.105211+00:00
-
- ## ABC Science Collaborative - ABC Science Collaborative
- - [https://abcsciencecollaborative.org](https://abcsciencecollaborative.org)
- - date_published: 2023-07-25T00:00:00+00:00
-
- ## Home | The American Board Of Certification
- - [https://www.abcworld.org](https://www.abcworld.org)
- - date_published: 2024-06-29T14:12:28+00:00
-
- ## University of Aberdeen Development Trust SCIO
- - [https://abdnalumni.org](https://abdnalumni.org)
- - date_published: 2024-06-17T17:24:25.354099+00:00
-
- ## abelard public education website
- - [https://abelard.org](https://abelard.org)
- - date_published: 2023-10-25T20:53:20.409245+00:00
-
- ## Abenezer Belachew / Software Developer
- - [https://abenezer.org](https://abenezer.org)
- - date_published: 2024-11-20T18:40:22.727657+00:00
-
- ## Home
- - [https://aberdeenunipress.org](https://aberdeenunipress.org)
- - date_published: 2024-10-19T11:07:06.504625+00:00
-
- ## Home - ABET
- - [https://abet.org](https://abet.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## AMS
- - [https://amsapp.abet.org](https://amsapp.abet.org)
- - date_published: 2024-08-12T08:47:57+00:00
-
- ## IIS Windows Server
- - [https://amspub.abet.org](https://amspub.abet.org)
- - date_published: 2023-03-07T21:04:57+00:00
-
- ## ABET Assessment Workshops - ABET Assessment Resources
- - [https://assessment.abet.org](https://assessment.abet.org)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## Home | ABET | Education & Resources
- - [https://cred.abet.org](https://cred.abet.org)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## 2023 ABET Impact Report
- - [https://impactreport.abet.org](https://impactreport.abet.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Homepage - ABET Bridge
- - [https://www.abetbridge.org](https://www.abetbridge.org)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Internet Security Research Group
- - [https://abetterinternet.org](https://abetterinternet.org)
- - date_published: 2024-05-08T10:04:45.635051+00:00
-
- ## Asian Bureau of Finance and Economic Research | ABFER
- - [https://abfer.org](https://abfer.org)
- - date_published: 2024-02-24T09:58:34.794824+00:00
-
- ## Army Benevolent Fund Shop
- - [https://abfshop.org](https://abfshop.org)
- - date_published: 2024-10-21T15:49:23.895106+00:00
-
- ## Law@ABI | ABI Law
- - [https://law.abi.org](https://law.abi.org)
- - date_published: 2024-08-18T07:40:24+00:00
-
- ## Home - The Ability Experience
- - [https://abilityexperience.org](https://abilityexperience.org)
- - date_published: 2024-05-02T00:00:00+00:00
 

@@ -1,3 +1,43 @@
+ ## CloudatCost
+ - [https://cloudatcost.com](https://cloudatcost.com)
+ - date_published: 2024-05-01T06:14:06.790862+00:00
+
+ ## Home - Cloud At Cost
+ - [https://members.cloudatcost.com](https://members.cloudatcost.com)
+ - date_published: 2021-10-27T00:00:00+00:00
+
+ ## CloudBees
+ - [https://app.cloudbees.com](https://app.cloudbees.com)
+ - date_published: 2024-02-14T15:28:54+00:00
+
+ ## Enterprise Software Delivery Platform | CloudBees
+ - [https://cloudbees.com](https://cloudbees.com)
+ - date_published: 2024-06-23T14:19:46.483971+00:00
+
+ ## CloudBees Documentation
+ - [https://docs.cloudbees.com](https://docs.cloudbees.com)
+ - date_published: 2024-05-01T07:25:26.271496+00:00
+
+ ## Welcome to nginx!
+ - [https://pages.cloudbees.com](https://pages.cloudbees.com)
+ - date_published: 2024-02-14T16:03:00+00:00
+
+ ## Welcome to nginx!
+ - [https://previous.cloudbees.com](https://previous.cloudbees.com)
+ - date_published: 2024-02-14T16:03:00+00:00
+
+ ## CloudBees University
+ - [https://standard.cbu.cloudbees.com](https://standard.cbu.cloudbees.com)
+ - date_published: 2024-10-12T14:55:43.373254+00:00
+
+ ## training
+ - [https://training.docs.cloudbees.com](https://training.docs.cloudbees.com)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## CloudBees University
+ - [https://university.cloudbees.com](https://university.cloudbees.com)
+ - date_published: 2024-06-16T17:27:20.724650+00:00
+
  ## Campingplatz Software - Cloud Camping
  - [https://www.cloud-camping.com](https://www.cloud-camping.com)
  - date_published: 2024-07-24T04:57:21.852762+00:00
@@ -1454,6 +1494,7 @@
  ## Cmacked - Cracked Mac Apps & Games
  - [https://cmacked.com](https://cmacked.com)
  - date_published: 2024-11-14T08:36:02.789281+00:00
+ - tags: ['unsafe', 'piracy']
 
  ## ▶️ CMA Comunicación - Agencia de Marketing Digital en Granada
  - [https://www.cmacomunicacion.com](https://www.cmacomunicacion.com)
@@ -3997,44 +4038,4 @@
  ## Codeulator
  - [https://codeulator.com](https://codeulator.com)
  - date_published: 2024-06-19T21:08:19.042930+00:00
-
- ## Trouvez un freelance disponible
- - [http://www.codeur.com](http://www.codeur.com)
- - date_published: 2024-09-15T20:00:11.578767+00:00
-
- ## Textual: IRC for macOS
- - [https://www.codeux.com](https://www.codeux.com)
- - date_published: 2024-07-17T22:16:55.955370+00:00
-
- ## Codewars - Achieve mastery through coding practice and developer mentorship
- - [https://codewars.com](https://codewars.com)
- - date_published: 2024-04-30T07:12:40.861122+00:00
-
- ## Codewars API Reference
- - [https://dev.codewars.com](https://dev.codewars.com)
- - date_published: 2021-04-09T19:11:57+00:00
-
- ## Codewars | The Codewars Docs
- - [https://docs.codewars.com](https://docs.codewars.com)
- - date_published: 2024-07-21T04:22:35.913348+00:00
-
- ## Fathom Analytics: A Better Google Analytics Alternative
- - [https://sparkling-two.codewars.com](https://sparkling-two.codewars.com)
- - date_published: 2024-07-19T20:00:08+00:00
-
- ## Windows Software on Mac, Linux, and ChromeOS with CrossOver | CodeWeavers
- - [https://codeweavers.com](https://codeweavers.com)
- - date_published: 2023-10-25T13:28:37.655699+00:00
-
- ## Index of /
- - [https://media.codeweavers.com](https://media.codeweavers.com)
- - date_published: 2021-01-06T00:00:00+00:00
-
- ## CodeWeavers Knowledge Base
- - [https://support.codeweavers.com](https://support.codeweavers.com)
- - date_published: 2024-05-08T05:49:48.791251+00:00
-
- ## codewenda.com
- - [http://codewenda.com](http://codewenda.com)
- - date_published: 2024-06-30T07:07:15.442363+00:00
 

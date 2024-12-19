@@ -1,3 +1,79 @@
+ ## ANZ LitLovers LitBlog
+ - [https://anzlitlovers.wordpress.com](https://anzlitlovers.wordpress.com)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Musings of a Mathematical Mom
+ - [https://aofradkin.wordpress.com](https://aofradkin.wordpress.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 💺 Blog
+ - [https://apachelog.wordpress.com](https://apachelog.wordpress.com)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## a pacific island
+ - [https://apacificisland.wordpress.com](https://apacificisland.wordpress.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Aparna58's Blog
+ - [https://aparna58.wordpress.com](https://aparna58.wordpress.com)
+ - date_published: 2024-07-10T03:06:38.922704+00:00
+
+ ## apergos' open musings
+ - [https://apergos.wordpress.com](https://apergos.wordpress.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## A Personal Anthology
+ - [https://apersonalanthology.wordpress.com](https://apersonalanthology.wordpress.com)
+ - date_published: 2024-06-30T05:49:14+00:00
+
+ ## Symmetry factor
+ - [http://apetrov.wordpress.com](http://apetrov.wordpress.com)
+ - date_published: 2024-07-16T17:26:31.514870+00:00
+
+ ## The A-Philosopher's Chair
+ - [https://aphilosopherchair.wordpress.com](https://aphilosopherchair.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## surf.bird.scribble.
+ - [http://aphriza.wordpress.com](http://aphriza.wordpress.com)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## A PILLAR OF SOCIETY
+ - [http://apillarofsociety.wordpress.com](http://apillarofsociety.wordpress.com)
+ - date_published: 2024-07-17T10:44:28.501136+00:00
+
+ ## Database of Press Releases related to Africa - APO-Source
+ - [https://appablog.wordpress.com](https://appablog.wordpress.com)
+ - date_published: 2024-10-29T16:06:35.321378+00:00
+
+ ## Apparently Autistic
+ - [http://apparentlyautistic.wordpress.com](http://apparentlyautistic.wordpress.com)
+ - date_published: 2024-09-03T23:02:33.547631+00:00
+
+ ## WordPress.com Apps
+ - [https://apps.wordpress.com](https://apps.wordpress.com)
+ - date_published: 2024-05-07T15:45:29.000012+00:00
+
+ ## Seni Rupa Kontemporer Indonesia
+ - [https://apridinoto.wordpress.com](https://apridinoto.wordpress.com)
+ - date_published: 2024-02-08T22:06:38.200137+00:00
+
+ ## Diane Crist
+ - [https://aprildianeblog.wordpress.com](https://aprildianeblog.wordpress.com)
+ - date_published: 2024-05-12T06:25:02.923870+00:00
+
+ ## Arty Farty
+ - [http://arabellaproffer.wordpress.com](http://arabellaproffer.wordpress.com)
+ - date_published: 2024-06-28T14:30:07.470575+00:00
+
+ ## Arabizi-  اللغة العربية
+ - [https://arabizi.wordpress.com](https://arabizi.wordpress.com)
+ - date_published: 2024-07-02T10:18:14.984984+00:00
+
+ ## Arcan
+ - [https://arcanfe.wordpress.com](https://arcanfe.wordpress.com)
+ - date_published: 2024-08-19T10:38:09.948588+00:00
+
  ## Alana Cattapan
  - [https://arcattapan.wordpress.com](https://arcattapan.wordpress.com)
  - date_published: 2024-09-02T13:05:44.776000+00:00
@@ -1691,6 +1767,10 @@
  ## Intermittencies of the Mind
  - [https://bulbynorman.wordpress.com](https://bulbynorman.wordpress.com)
  - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Bumbershoot Software
+ - [https://bumbershootsoft.wordpress.com](https://bumbershootsoft.wordpress.com)
+ - date_published: 2024-12-18T11:33:18.201054+00:00
 
  ## Site Title
  - [http://bunk21.wordpress.com](http://bunk21.wordpress.com)
@@ -3930,84 +4010,4 @@
  - [https://devwithahammer.wordpress.com](https://devwithahammer.wordpress.com)
  - date_published: 2024-02-24T13:25:25.944622+00:00
  - tags: ['personal']
-
- ## d-fens GmbH
- - [https://dfch.wordpress.com](https://dfch.wordpress.com)
- - date_published: 2024-09-18T18:08:37.592189+00:00
-
- ## Private Site
- - [https://dfspspirit.wordpress.com](https://dfspspirit.wordpress.com)
- - date_published: 2024-08-18T15:21:06.034976+00:00
-
- ## Dhamma pages
- - [http://dhammapages.wordpress.com](http://dhammapages.wordpress.com)
- - date_published: 2024-06-30T10:07:17.235267+00:00
-
- ## Dhananjay Kumar
- - [https://dhananjay25.wordpress.com](https://dhananjay25.wordpress.com)
- - date_published: 2024-09-18T17:59:22+00:00
-
- ## Diagnosed As An Adult
- - [http://diagnosedasanadult.wordpress.com](http://diagnosedasanadult.wordpress.com)
- - date_published: 2024-09-03T22:49:32.263493+00:00
-
- ## A Dialogue on Infinity
- - [http://dialinf.wordpress.com](http://dialinf.wordpress.com)
- - date_published: 2024-06-30T08:22:34.353695+00:00
-
- ## The Diamond Cutter
- - [http://diamondcutter.wordpress.com](http://diamondcutter.wordpress.com)
- - date_published: 2024-10-19T07:02:23.136246+00:00
-
- ## Take Away the Takeaway
- - [http://dianasenechal.wordpress.com](http://dianasenechal.wordpress.com)
- - date_published: 2024-06-30T11:06:57.789594+00:00
-
- ## (no title)
- - [https://dianedooley.wordpress.com](https://dianedooley.wordpress.com)
- - date_published: 2024-07-04T14:04:11.268373+00:00
-
- ## Diary of an Eccentric
- - [https://diaryofaneccentric.wordpress.com](https://diaryofaneccentric.wordpress.com)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## Diary of Self
- - [http://diaryofself.wordpress.com](http://diaryofself.wordpress.com)
- - date_published: 2024-09-03T23:06:17.636634+00:00
-
- ## diatextures
- - [http://diatextures.wordpress.com](http://diatextures.wordpress.com)
- - date_published: 2024-08-06T05:39:55.174867+00:00
-
- ## didactics
- - [https://didacticsblog.wordpress.com](https://didacticsblog.wordpress.com)
- - date_published: 2023-12-31T21:20:54.582250+00:00
-
- ## Did you know?
- - [https://didyouknowbg8.wordpress.com](https://didyouknowbg8.wordpress.com)
- - date_published: 2024-05-04T08:34:12.429640+00:00
-
- ## Diego Minero
- - [https://diegominero.wordpress.com](https://diegominero.wordpress.com)
- - date_published: 2024-07-19T19:33:09.098756+00:00
-
- ## Die Schreibmaschinisten
- - [https://dieschreibmaschinisten.wordpress.com](https://dieschreibmaschinisten.wordpress.com)
- - date_published: 2024-07-18T17:10:54.065506+00:00
-
- ## Die Uncast
- - [https://dieuncast.wordpress.com](https://dieuncast.wordpress.com)
- - date_published: 2024-07-15T09:47:20.749080+00:00
-
- ## Diffusive Architectures
- - [http://diffusive.wordpress.com](http://diffusive.wordpress.com)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## Digging in the Clay
- - [http://diggingintheclay.wordpress.com](http://diggingintheclay.wordpress.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Craig Jamieson
- - [https://digiguru.wordpress.com](https://digiguru.wordpress.com)
- - date_published: 2024-05-08T06:48:39.351745+00:00
 

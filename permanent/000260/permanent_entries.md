@@ -1,3 +1,87 @@
+ ## Städel Museum
+ - [https://www.staedelmuseum.de](https://www.staedelmuseum.de)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Home / Städelverein
+ - [https://staedelverein.de](https://staedelverein.de)
+ - date_published: 2024-06-20T08:57:13.238625+00:00
+
+ ## Deutscher Städtetag – die Stimme der Städte
+ - [https://www.staedtetag.de](https://www.staedtetag.de)
+ - date_published: 2024-07-24T03:32:18.355329+00:00
+
+ ## »
+ - [https://staff-uni-marburg.de](https://staff-uni-marburg.de)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Schauspiel, Tanz, Gesang, Spaß mit Gleichgesinnten, Lernen fürs Leben bei Stagecoach
+ - [http://www.stagecoach.de](http://www.stagecoach.de)
+ - date_published: 2024-10-21T07:57:43.312742+00:00
+
+ ## StakeNow.fi — Your Stake, rewarded.
+ - [https://stakenow.de](https://stakenow.de)
+ - date_published: 2024-02-12T10:22:00+00:00
+
+ ## TeleTrusT "Stand der Technik"
+ - [https://www.stand-der-technik-security.de](https://www.stand-der-technik-security.de)
+ - date_published: 2024-09-28T23:26:51.553934+00:00
+
+ ## Standortmanagement Thüringen | Standorte mit Blick für das Ganze
+ - [https://www.standortmanagement-thueringen.de](https://www.standortmanagement-thueringen.de)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## MVV Energiecockpit
+ - [http://www.standortreporting.de](http://www.standortreporting.de)
+ - date_published: 2024-07-17T08:02:10.272227+00:00
+
+ ## Standort Service Plus: Standort Service Plus
+ - [https://www.standort-service-plus.de](https://www.standort-service-plus.de)
+ - date_published: 2024-12-10T18:23:50.682930+00:00
+
+ ## Stapeltor
+ - [https://stapeltor.de](https://stapeltor.de)
+ - date_published: 2024-10-29T14:24:31.423470+00:00
+
+ ## Staples Deutschland
+ - [http://www.staples.de](http://www.staples.de)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Lasst uns unsere Demokratie stärken! - Starke Demokratie e. V.
+ - [http://www.starkedemokratie.de](http://www.starkedemokratie.de)
+ - date_published: 2024-09-12T16:10:27.824259+00:00
+
+ ## STARLIGHT EXPRESS - Das rasanteste Musical im Universum - STARLIGHT EXPRESS - Live in Bochum
+ - [http://www.starlight-express.de](http://www.starlight-express.de)
+ - date_published: 2024-10-25T10:45:48.584752+00:00
+
+ ## StarOpenSource Fly
+ - [https://fly.staropensource.de](https://fly.staropensource.de)
+ - date_published: 2024-07-10T07:55:41.137324+00:00
+
+ ## The StarOpenSource Project
+ - [https://git.staropensource.de](https://git.staropensource.de)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Piped
+ - [https://piped.staropensource.de](https://piped.staropensource.de)
+ - date_published: 2024-07-03T12:17:32+00:00
+
+ ## StarOpenSource
+ - [https://staropensource.de](https://staropensource.de)
+ - date_published: 2024-05-09T08:03:57.010841+00:00
+
+ ## Werde Handball-Manager*in in der stärksten Liga der Welt. - START7 - Der Handball Fantasy Manager
+ - [https://start7.de](https://start7.de)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Willkommen bei Wüstenrot | Wüstenrot
+ - [https://www.start-bsk.de](https://www.start-bsk.de)
+ - date_published: 2024-09-27T09:30:07.746495+00:00
+
+ ## Home
+ - [https://www.startmunich.de](https://www.startmunich.de)
+ - date_published: 2024-09-22T00:00:00+00:00
+
  ## Startnext - Mutige gestalten die Zukunft
  - [https://startnext.de](https://startnext.de)
  - date_published: 2024-10-18T23:30:22.653916+00:00
@@ -3926,88 +4010,4 @@
  ## Startseite - Universität Bremen
  - [https://www.uni-bremen.de](https://www.uni-bremen.de)
  - date_published: 2024-06-11T00:00:00+00:00
-
- ## Yisares – Interdisciplinary Autumn Research School – Situating Soft Authoritarianism Between Geopolitical Complexities and Everyday Practices (2022)
- - [https://yisares.uni-bremen.de](https://yisares.uni-bremen.de)
- - date_published: 2024-07-04T13:44:44.771504+00:00
-
- ## Mit Ihrer Spende Kindern weltweit helfen. UNICEF - für jedes Kind
- - [https://live-prod.unicef.de](https://live-prod.unicef.de)
- - date_published: 2024-09-30T10:36:57.661802+00:00
-
- ## Home - TU Dortmund, Informatik 2
- - [http://ls2-www.cs.uni-dortmund.de](http://ls2-www.cs.uni-dortmund.de)
- - date_published: 2024-06-30T08:56:35.730608+00:00
-
- ## Die erste deutsche Universität des 21. Jahrhunderts
- - [https://www.uni-due.de](https://www.uni-due.de)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## MEINSTPAULI
- - [https://fcsp.unidy.de](https://fcsp.unidy.de)
- - date_published: 2024-09-25T19:08:42.625697+00:00
-
- ## Startseite
- - [https://www.uni-erfurt.de](https://www.uni-erfurt.de)
- - date_published: 2024-07-17T08:05:41+00:00
-
- ## Login - FAUbox
- - [https://faubox.rrze.uni-erlangen.de](https://faubox.rrze.uni-erlangen.de)
- - date_published: 2024-09-21T23:02:45.778866+00:00
-
- ## Chair of Visual Computing
- - [https://lgdv.cms.rrze.uni-erlangen.de](https://lgdv.cms.rrze.uni-erlangen.de)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## UnivIS der Friedrich-Alexander-Universität Erlangen-Nürnberg
- - [https://univis.uni-erlangen.de](https://univis.uni-erlangen.de)
- - date_published: 2024-07-09T13:16:18.111021+00:00
-
- ## Computational Corpus Linguistics
- - [http://www.linguistik.uni-erlangen.de](http://www.linguistik.uni-erlangen.de)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Wir bewegen Wissen
- - [http://www.uni-erlangen.de](http://www.uni-erlangen.de)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Startseite - Europa-Universität Flensburg (EUF)
- - [https://www.uni-flensburg.de](https://www.uni-flensburg.de)
- - date_published: 2024-09-30T13:01:21.896770+00:00
-
- ## Algorithms and Complexity - Welcome
- - [https://algo.cs.uni-frankfurt.de](https://algo.cs.uni-frankfurt.de)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## PPDP | LOPSTR | WFLP 2018
- - [http://ppdp-lopstr-18.cs.uni-frankfurt.de](http://ppdp-lopstr-18.cs.uni-frankfurt.de)
- - date_published: 2019-04-02T14:37:09+00:00
-
- ## Digitale Sammlungen
- - [http://sammlungen.ub.uni-frankfurt.de](http://sammlungen.ub.uni-frankfurt.de)
- - date_published: 2024-12-10T18:01:13.051471+00:00
-
- ## TITUS: INDEX
- - [http://titus.uni-frankfurt.de](http://titus.uni-frankfurt.de)
- - date_published: 2017-07-17T07:37:55+00:00
-
- ## Goethe-Universität — Welcome to Goethe University Frankfurt
- - [https://uni-frankfurt.de](https://uni-frankfurt.de)
- - date_published: 2024-07-24T04:22:36.141670+00:00
-
- ## Big Data Lab
- - [http://www.bigdata.uni-frankfurt.de](http://www.bigdata.uni-frankfurt.de)
- - date_published: 2024-07-14T23:31:18.050095+00:00
-
- ## Willkommen — Professur für Algorithmen und Datenstrukturen
- - [https://ad.informatik.uni-freiburg.de](https://ad.informatik.uni-freiburg.de)
- - date_published: 2024-08-19T20:44:51.758681+00:00
-
- ## Sign in - Matomo
- - [https://analytics.ub.uni-freiburg.de](https://analytics.ub.uni-freiburg.de)
- - date_published: 2024-07-24T06:21:36.984122+00:00
-
- ## BIOIII
- - [https://bio3.biologie.uni-freiburg.de](https://bio3.biologie.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:12.219042+00:00
 

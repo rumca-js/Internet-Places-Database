@@ -1,3 +1,191 @@
+ ## 封面 - Wt/gan - Wikimedia Incubator
+ - [https://gan.wiktionary.org](https://gan.wiktionary.org)
+ - date_published: 2024-06-28T02:45:54+00:00
+
+ ## Vicífhoclóir
+ - [https://ga.wiktionary.org](https://ga.wiktionary.org)
+ - date_published: 2024-06-01T05:00:08+00:00
+
+ ## Wiktionary
+ - [https://gd.m.wiktionary.org](https://gd.m.wiktionary.org)
+ - date_published: 2024-09-04T03:29:17+00:00
+
+ ## Wiktionary
+ - [https://gd.wiktionary.org](https://gd.wiktionary.org)
+ - date_published: 2024-05-31T01:46:13+00:00
+
+ ## Wiktionary
+ - [https://gl.m.wiktionary.org](https://gl.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:10+00:00
+
+ ## Wiktionary
+ - [https://gl.wiktionary.org](https://gl.wiktionary.org)
+ - date_published: 2024-06-11T12:31:10+00:00
+
+ ## Wiktionary
+ - [https://gn.m.wiktionary.org](https://gn.m.wiktionary.org)
+ - date_published: 2024-09-04T03:02:13+00:00
+
+ ## Wiktionary
+ - [https://gn.wiktionary.org](https://gn.wiktionary.org)
+ - date_published: 2024-06-11T08:21:33+00:00
+
+ ## Wiktionary - मुक्त शब्दकोश
+ - [https://gom.m.wiktionary.org](https://gom.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:10+00:00
+
+ ## Wiktionary - मुक्त शब्दकोश
+ - [https://gom.wiktionary.org](https://gom.wiktionary.org)
+ - date_published: 2024-06-11T12:31:10+00:00
+
+ ## Wikikamus
+ - [https://gor.m.wiktionary.org](https://gor.m.wiktionary.org)
+ - date_published: 2024-09-03T14:00:09+00:00
+
+ ## Wikikamus
+ - [https://gor.wiktionary.org](https://gor.wiktionary.org)
+ - date_published: 2024-06-01T01:44:35+00:00
+
+ ## Wt/got - Wikimedia Incubator
+ - [https://got.wiktionary.org](https://got.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Ghanaian Pidgin Wiktionary - Wikimedia Incubator
+ - [https://gpe.wiktionary.org](https://gpe.wiktionary.org)
+ - date_published: 2024-07-12T03:21:04.984581+00:00
+
+ ## વિકિકોશ
+ - [https://gu.m.wiktionary.org](https://gu.m.wiktionary.org)
+ - date_published: 2024-09-12T03:05:52+00:00
+
+ ## Frafra Wiktionary - Wikimedia Incubator
+ - [https://gur.wiktionary.org](https://gur.wiktionary.org)
+ - date_published: 2024-07-12T03:03:23.273618+00:00
+
+ ## વિકિકોશ
+ - [https://gu.wiktionary.org](https://gu.wiktionary.org)
+ - date_published: 2024-06-15T06:12:30+00:00
+
+ ## Wiktionary
+ - [https://guw.m.wiktionary.org](https://guw.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:11+00:00
+
+ ## Wiktionary
+ - [https://guw.wiktionary.org](https://guw.wiktionary.org)
+ - date_published: 2024-06-11T12:31:11+00:00
+
+ ## Wiktionary
+ - [https://gv.m.wiktionary.org](https://gv.m.wiktionary.org)
+ - date_published: 2024-09-04T03:38:37+00:00
+
+ ## Wiktionary
+ - [https://gv.wiktionary.org](https://gv.wiktionary.org)
+ - date_published: 2024-06-01T04:39:24+00:00
+
+ ## Wiktionary
+ - [https://ha.m.wiktionary.org](https://ha.m.wiktionary.org)
+ - date_published: 2024-09-04T03:13:59+00:00
+
+ ## Wiktionary
+ - [https://ha.wiktionary.org](https://ha.wiktionary.org)
+ - date_published: 2024-06-01T03:14:29+00:00
+
+ ## Papa Kinohi - Wt/haw - Wikimedia Incubator
+ - [https://haw.wiktionary.org](https://haw.wiktionary.org)
+ - date_published: 2024-06-01T12:24:48+00:00
+
+ ## ויקימילון
+ - [https://he.m.wiktionary.org](https://he.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:11+00:00
+
+ ## ויקימילון
+ - [http://he.wiktionary.org](http://he.wiktionary.org)
+ - date_published: 2024-06-11T12:31:11+00:00
+
+ ## Sabdkosh
+ - [https://hif.m.wiktionary.org](https://hif.m.wiktionary.org)
+ - date_published: 2024-09-03T14:02:27+00:00
+
+ ## Sabdkosh
+ - [https://hif.wiktionary.org](https://hif.wiktionary.org)
+ - date_published: 2024-05-31T20:19:26+00:00
+
+ ## विक्षनरी
+ - [https://hi.m.wiktionary.org](https://hi.m.wiktionary.org)
+ - date_published: 2024-09-04T02:56:14+00:00
+
+ ## विक्षनरी
+ - [https://hi.wiktionary.org](https://hi.wiktionary.org)
+ - date_published: 2024-06-01T02:38:11+00:00
+
+ ## Wiktionary
+ - [https://hr.m.wiktionary.org](https://hr.m.wiktionary.org)
+ - date_published: 2024-09-03T04:15:21+00:00
+
+ ## Wiktionary
+ - [https://hr.wiktionary.org](https://hr.wiktionary.org)
+ - date_published: 2024-05-31T18:36:19+00:00
+
+ ## Wikisłownik
+ - [https://hsb.m.wiktionary.org](https://hsb.m.wiktionary.org)
+ - date_published: 2024-09-04T03:39:40+00:00
+
+ ## Wikisłownik
+ - [https://hsb.wiktionary.org](https://hsb.wiktionary.org)
+ - date_published: 2024-06-01T12:27:35+00:00
+
+ ## Wt/ht - Wikimedia Incubator
+ - [https://ht.wiktionary.org](https://ht.wiktionary.org)
+ - date_published: 2024-07-09T09:56:24+00:00
+
+ ## Wikiszótár
+ - [https://hu.m.wiktionary.org](https://hu.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:43+00:00
+
+ ## Wikiszótár
+ - [https://hu.wiktionary.org](https://hu.wiktionary.org)
+ - date_published: 2024-06-11T12:31:20+00:00
+
+ ## Վիքիբառարան
+ - [https://hy.m.wiktionary.org](https://hy.m.wiktionary.org)
+ - date_published: 2024-09-03T13:23:54+00:00
+
+ ## Վիքիբառարան
+ - [https://hy.wiktionary.org](https://hy.wiktionary.org)
+ - date_published: 2024-05-31T17:49:59+00:00
+
+ ## Western Armenian Wiktionary - Wikimedia Incubator
+ - [https://hyw.wiktionary.org](https://hyw.wiktionary.org)
+ - date_published: 2024-07-12T04:17:26.525687+00:00
+
+ ## Wiktionario
+ - [https://ia.m.wiktionary.org](https://ia.m.wiktionary.org)
+ - date_published: 2024-09-04T02:56:03+00:00
+
+ ## Wiktionario
+ - [https://ia.wiktionary.org](https://ia.wiktionary.org)
+ - date_published: 2024-05-31T14:27:29+00:00
+
+ ## Wikikamus
+ - [https://id.m.wiktionary.org](https://id.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:43+00:00
+
+ ## Wikikamus
+ - [https://id.wiktionary.org](https://id.wiktionary.org)
+ - date_published: 2024-06-11T12:31:41+00:00
+
+ ## Wiktionary
+ - [https://ie.m.wiktionary.org](https://ie.m.wiktionary.org)
+ - date_published: 2024-09-04T03:39:47+00:00
+
+ ## Wiktionary
+ - [https://ie.wiktionary.org](https://ie.wiktionary.org)
+ - date_published: 2024-06-01T07:34:15+00:00
+
+ ## Ogbá ogbolo - Wt/igl - Wikimedia Incubator
+ - [https://igl.wiktionary.org](https://igl.wiktionary.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
  ## Wiktionary
  - [https://ig.m.wiktionary.org](https://ig.m.wiktionary.org)
  - date_published: 2024-09-03T15:34:49+00:00
@@ -3825,193 +4013,4 @@
  ## Officially Woz | A Free Exchange of Information
  - [http://woz.org](http://woz.org)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## WordPress Packagist: Manage your plugins and themes with Composer
- - [https://wpackagist.org](https://wpackagist.org)
- - date_published: 2024-06-23T03:50:44.928836+00:00
-
- ## CWPA | Home Page
- - [https://wpacouncil.org](https://wpacouncil.org)
- - date_published: 2024-06-21T20:36:44.424263+00:00
-
- ## Our Community is open to all who use WordPress. Beginner or Expert - join us! - WP Africa
- - [https://wpafrica.org](https://wpafrica.org)
- - date_published: 2024-05-12T05:42:50.778963+00:00
-
- ## Redirecting…
- - [http://v2.wp-api.org](http://v2.wp-api.org)
- - date_published: 2019-03-14T14:42:09+00:00
-
- ## WPATH World Professional Association for Transgender Health
- - [https://www.wpath.org](https://www.wpath.org)
- - date_published: 2024-06-30T01:12:42.610332+00:00
-
- ## WP Attorney
- - [http://wpattorney.org](http://wpattorney.org)
- - date_published: 2024-07-04T18:00:40.954620+00:00
-
- ## WP BOX
- - [https://wp-box.org](https://wp-box.org)
- - date_published: 2024-10-14T13:10:12+00:00
-
- ## Green Haven is a one-stop shop for the garden and vegetable garden
- - [https://wpcafe.org](https://wpcafe.org)
- - date_published: 2023-06-29T16:30:23+00:00
-
- ## WP-CLI | WP-CLI
- - [http://wp-cli.org](http://wp-cli.org)
- - date_published: 2024-04-15T13:51:11+00:00
-
- ## WPE
- - [https://wpewebkit.org](https://wpewebkit.org)
- - date_published: 2024-05-30T20:17:36+00:00
-
- ## Bejelentkezés ‹ Nyílt Web Alapítvány — WordPress
- - [http://dokumentacio.wphu.org](http://dokumentacio.wphu.org)
- - date_published: 2024-06-23T09:15:05.881582+00:00
-
- ## WPKN 89.5 Community Radio - WPKN.ORG
- - [http://www.wpkn.org](http://www.wpkn.org)
- - date_published: 2024-10-28T10:35:58+00:00
-
- ## Home
- - [https://wpln.org](https://wpln.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## WPML - The WordPress Multilingual Plugin
- - [https://cdn.wpml.org](https://cdn.wpml.org)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Homepage
- - [https://ptc.wpml.org](https://ptc.wpml.org)
- - date_published: 2024-10-21T19:50:29.294505+00:00
-
- ## WPML - The WordPress Multilingual Plugin
- - [https://wpml.org](https://wpml.org)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## WPMU DEV - Your All-in-One WordPress Platform
- - [https://premium.wpmudev.org](https://premium.wpmudev.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Wisconsin Public Radio
- - [https://wpr.org](https://wpr.org)
- - date_published: 2023-11-25T18:29:48.496756+00:00
-
- ## Winter Park Sidewalk Art Festival
- - [https://wpsaf.org](https://wpsaf.org)
- - date_published: 2024-02-08T17:42:21.876866+00:00
-
- ## World Poker Tour Foundation
- - [https://www.wptfoundation.org](https://www.wptfoundation.org)
- - date_published: 2024-07-08T15:38:18.118429+00:00
-
- ## WQXR | New York's Classical Music Radio Station
- - [https://www.wqxr.org](https://www.wqxr.org)
- - date_published: 2024-06-20T11:42:21.595405+00:00
-
- ## opengraph.wqzhao.org
- - [https://opengraph.wqzhao.org](https://opengraph.wqzhao.org)
- - date_published: 2024-02-06T10:10:02+00:00
-
- ## Wuqiong Zhao's Homepage
- - [https://wqzhao.org](https://wqzhao.org)
- - date_published: 2024-07-08T10:33:28.724104+00:00
-
- ## Home - WRAP Compliance
- - [https://wrapcompliance.org](https://wrapcompliance.org)
- - date_published: 2024-10-20T04:46:35.568730+00:00
-
- ## Album 88 – Left on the Dial, Right on the Music
- - [https://wras.org](https://wras.org)
- - date_published: 2024-07-22T02:27:25.644551+00:00
-
- ## Wreaths Across America
- - [https://donate.wreathsacrossamerica.org](https://donate.wreathsacrossamerica.org)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Learn about Wreaths Across America's Mission to Remember, Honor and Teach
- - [https://wreathsacrossamerica.org](https://wreathsacrossamerica.org)
- - date_published: 2024-07-12T21:29:05.088888+00:00
-
- ## WREK Atlanta
- - [http://www.wrek.org](http://www.wrek.org)
- - date_published: 2024-07-22T03:38:33.292077+00:00
-
- ## Wrestles with God – fighting God, loving God?
- - [http://www.wrestleswithgod.org](http://www.wrestleswithgod.org)
- - date_published: 2024-08-18T22:52:15.711651+00:00
-
- ## Store – Fortis Institute
- - [https://shop.wretched.org](https://shop.wretched.org)
- - date_published: 2024-10-11T12:08:33.717946+00:00
-
- ## Home - Washington Research Foundation
- - [https://www.wrfseattle.org](https://www.wrfseattle.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## WRI Africa | Making Big Ideas Happen | WRI Africa
- - [https://africa.wri.org](https://africa.wri.org)
- - date_published: 2024-09-12T14:59:54+00:00
-
- ## WRI Brasil | Realizando Grandes Ideias | WRI Brasil
- - [https://brasil.wri.org](https://brasil.wri.org)
- - date_published: 2024-09-12T14:58:52+00:00
-
- ## Instituto de Recursos Mundiales (WRI) | Convirtiendo las Grandes Ideas en Realidades
- - [https://es.wri.org](https://es.wri.org)
- - date_published: 2024-09-12T14:55:51+00:00
-
- ## World Resources Institute | Making Big Ideas Happen
- - [https://giving.wri.org](https://giving.wri.org)
- - date_published: 2024-09-12T14:51:26+00:00
-
- ## WRI Indonesia | Making Big Ideas Happen | WRI Indonesia
- - [https://id.wri.org](https://id.wri.org)
- - date_published: 2024-09-12T15:00:32+00:00
-
- ## World Resources Institute | Making Big Ideas Happen
- - [https://research.wri.org](https://research.wri.org)
- - date_published: 2024-09-12T14:51:26+00:00
-
- ## World Resources Institute | Making Big Ideas Happen
- - [https://wri.org](https://wri.org)
- - date_published: 2024-06-12T12:16:39.537561+00:00
-
- ## Home Page for the Wright Brothers Aeroplane Company and wright-brothers.org
- - [http://wright-brothers.org](http://wright-brothers.org)
- - date_published: 2014-12-10T05:06:44+00:00
-
- ## WRI INDIA
- - [https://wri-india.org](https://wri-india.org)
- - date_published: 2024-09-12T14:59:58+00:00
-
- ## WRI Ross Center for Sustainable Cities
- - [https://wrirosscities.org](https://wrirosscities.org)
- - date_published: 2024-12-11T21:53:20+00:00
-
- ## Write.as
- - [https://video.writeas.org](https://video.writeas.org)
- - date_published: 2024-05-14T03:31:57.000456+00:00
-
- ## WriteFreely
- - [https://blog.writefreely.org](https://blog.writefreely.org)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## WriteFreely
- - [https://writefreely.org](https://writefreely.org)
- - date_published: 2023-10-25T22:22:17.991561+00:00
- - tags: ['writing', 'blogs', 'self-host']
-
- ## Write Free Software
- - [https://discourse.writefreesoftware.org](https://discourse.writefreesoftware.org)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Write Free Software
- - [https://writefreesoftware.org](https://writefreesoftware.org)
- - date_published: 2023-10-25T22:22:24.018433+00:00
-
- ## Home - WriteHive
- - [https://www.writehive.org](https://www.writehive.org)
- - date_published: 2024-05-01T00:00:00+00:00
 

@@ -1,3 +1,99 @@
+ ## Sierra-Cedar, Inc.
+ - [https://students.kctcs.edu](https://students.kctcs.edu)
+ - date_published: 2024-01-25T09:10:46+00:00
+
+ ## Home | KCTCS
+ - [https://systemoffice.kctcs.edu](https://systemoffice.kctcs.edu)
+ - date_published: 2024-05-07T19:15:50.564347+00:00
+
+ ## Home
+ - [https://webassets.kctcs.edu](https://webassets.kctcs.edu)
+ - date_published: 2024-05-07T19:15:46.206590+00:00
+
+ ## Kentucky Community and Technical College System
+ - [https://welcome.kctcs.edu](https://welcome.kctcs.edu)
+ - date_published: 2017-01-10T15:33:01+00:00
+
+ ## Home | WKCTC
+ - [http://westkentucky.kctcs.edu](http://westkentucky.kctcs.edu)
+ - date_published: 2024-07-01T11:07:53.509700+00:00
+
+ ## Home | Kean University
+ - [http://kean.edu](http://kean.edu)
+ - date_published: 2024-07-04T08:50:01+00:00
+
+ ## Events Calendar - Kennesaw State University
+ - [https://calendar.kennesaw.edu](https://calendar.kennesaw.edu)
+ - date_published: 2024-07-02T01:46:55.524703+00:00
+
+ ## Home
+ - [https://research.kennesaw.edu](https://research.kennesaw.edu)
+ - date_published: 2024-06-19T18:09:40.523975+00:00
+
+ ## Kennesaw State University in Georgia
+ - [https://www.kennesaw.edu](https://www.kennesaw.edu)
+ - date_published: 2024-10-30T04:37:52.543178+00:00
+
+ ## Admissions | Kent State University
+ - [https://apply.kent.edu](https://apply.kent.edu)
+ - date_published: 2024-06-30T15:28:33+00:00
+
+ ## University Libraries | Kent State University Libraries
+ - [https://apps.library.kent.edu](https://apps.library.kent.edu)
+ - date_published: 2024-07-01T11:10:03+00:00
+
+ ## Kent State University Catalog 2023-2024 < Kent State University
+ - [https://catalog.kent.edu](https://catalog.kent.edu)
+ - date_published: 2024-05-07T19:16:26.366327+00:00
+
+ ## Cleveland Urban Design Collaborative
+ - [https://cudc.kent.edu](https://cudc.kent.edu)
+ - date_published: 2024-05-07T19:16:31.408465+00:00
+
+ ## Kent State University CustomViewbook
+ - [https://customviewbook.kent.edu](https://customviewbook.kent.edu)
+ - date_published: 2024-05-07T19:16:21.978004+00:00
+
+ ## Daily Kent Stater Digital Archive
+ - [https://dks.library.kent.edu](https://dks.library.kent.edu)
+ - date_published: 2024-08-19T16:24:05+00:00
+
+ ## FlashLine
+ - [https://flashline.kent.edu](https://flashline.kent.edu)
+ - date_published: 2024-07-01T11:08:51.280649+00:00
+
+ ## KentLINK - Library Catalog of Kent State University - Basic Search
+ - [http://kentlink.kent.edu](http://kentlink.kent.edu)
+ - date_published: 2010-06-09T00:00:00+00:00
+
+ ## LibGuides
+ - [https://libguides.library.kent.edu](https://libguides.library.kent.edu)
+ - date_published: 2024-07-01T11:11:10.080932+00:00
+
+ ## University Libraries | Kent State University Libraries
+ - [https://library.kent.edu](https://library.kent.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## FlashLine
+ - [https://login.kent.edu](https://login.kent.edu)
+ - date_published: 2024-05-07T19:16:28.271381+00:00
+
+ ## Home | Open Access Kent State (OAKS)
+ - [https://oaks.kent.edu](https://oaks.kent.edu)
+ - date_published: 2024-07-01T11:11:14.626053+00:00
+
+ ## Digital Collections · Kent State University Libraries. Special Collections and Archives
+ - [https://omeka.library.kent.edu](https://omeka.library.kent.edu)
+ - date_published: 2024-07-01T11:11:17.268212+00:00
+
+ ## Online Degrees & Programs | Kent State University - Online Degrees & Programs | Kent State University
+ - [https://onlinedegrees.kent.edu](https://onlinedegrees.kent.edu)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://proxy.library.kent.edu](https://proxy.library.kent.edu)
+ - date_published: 2024-07-01T11:11:19.416968+00:00
+
  ## Information Technology | Kent State University
  - [https://support.kent.edu](https://support.kent.edu)
  - date_published: 2024-07-01T03:56:43+00:00
@@ -3905,101 +4001,4 @@
  ## The Massachusetts Institute of Technology (MIT)
  - [https://now.mit.edu](https://now.mit.edu)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## The Neuro-Symbolic Concept Learner
- - [http://nscl.csail.mit.edu](http://nscl.csail.mit.edu)
- - date_published: 2020-10-20T01:08:33+00:00
-
- ## Neural Scene De-rendering
- - [http://nsd.csail.mit.edu](http://nsd.csail.mit.edu)
- - date_published: 2019-07-19T23:44:43+00:00
-
- ## Neural-Symbolic VQA
- - [http://nsvqa.csail.mit.edu](http://nsvqa.csail.mit.edu)
- - date_published: 2019-07-19T23:48:41+00:00
-
- ## Nuts and Bolts of New Ventures
- - [http://nutsandbolts.mit.edu](http://nutsandbolts.mit.edu)
- - date_published: 2024-06-20T04:07:56.248377+00:00
-
- ## MIT OpenCourseWare | Free Online Course Materials
- - [https://ocw.mit.edu](https://ocw.mit.edu)
- - date_published: 2023-10-25T18:54:28.607293+00:00
-
- ## Office of Graduate Education
- - [https://odge.mit.edu](https://odge.mit.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## MIT Open Learning brings Online Learning to MIT and the world
- - [https://odl.mit.edu](https://odl.mit.edu)
- - date_published: 2024-05-07T19:34:55.639610+00:00
-
- ## Open Encylopedia of Cognitive Science
- - [https://oecs.mit.edu](https://oecs.mit.edu)
- - date_published: 2024-07-01T15:24:47.628564+00:00
-
- ## Office of Graduate Education
- - [https://oge.mit.edu](https://oge.mit.edu)
- - date_published: 2024-07-01T01:46:18.166906+00:00
-
- ## Computational Perception & Cognition
- - [http://olivalab.mit.edu](http://olivalab.mit.edu)
- - date_published: 2023-11-22T02:32:35+00:00
-
- ## Open Access
- - [https://openaccesseks.mitpress.mit.edu](https://openaccesseks.mitpress.mit.edu)
- - date_published: 2024-01-21T00:00:00+00:00
-
- ## Home - MIT Open Documentary Lab
- - [http://opendoclab.mit.edu](http://opendoclab.mit.edu)
- - date_published: 2024-06-22T11:01:17.418273+00:00
-
- ## MIT Open Learning brings Online Learning to MIT and the world
- - [https://openlearning-dev.mit.edu](https://openlearning-dev.mit.edu)
- - date_published: 2024-07-14T15:23:47.259305+00:00
-
- ## Welcome! | Open Learning
- - [https://openlearning-intranet.mit.edu](https://openlearning-intranet.mit.edu)
- - date_published: 2024-05-11T11:37:20.490684+00:00
-
- ## MIT Open Learning Library | Open Learning
- - [https://openlearninglibrary.mit.edu](https://openlearninglibrary.mit.edu)
- - date_published: 2024-03-26T19:30:53.109672+00:00
- - tags: ['digital library', 'internet archive']
-
- ## MIT Open Learning brings Online Learning to MIT and the world
- - [https://openlearning.mit.edu](https://openlearning.mit.edu)
- - date_published: 2024-05-07T19:33:36.409985+00:00
-
- ## Operations Research Center
- - [https://orc.mit.edu](https://orc.mit.edu)
- - date_published: 2024-08-08T02:57:04+00:00
-
- ## [oof]
- - [https://outofframe.mit.edu](https://outofframe.mit.edu)
- - date_published: 2024-05-07T19:33:12.360151+00:00
-
- ## MIT Office of the Vice Chancellor | Advancing academic innovation at MIT
- - [https://ovc.mit.edu](https://ovc.mit.edu)
- - date_published: 2024-07-01T15:00:25.967783+00:00
-
- ## Perspective Plane Program Induction from a Single Image
- - [http://p3i.csail.mit.edu](http://p3i.csail.mit.edu)
- - date_published: 2020-10-20T01:05:28+00:00
-
- ## Paint by Word
- - [http://paintbyword.csail.mit.edu](http://paintbyword.csail.mit.edu)
- - date_published: 2023-03-29T20:46:13+00:00
-
- ## parts.mit.edu is no more
- - [http://parts.mit.edu](http://parts.mit.edu)
- - date_published: 2015-10-23T15:09:25+00:00
-
- ## Homepage
- - [http://pazoulay.scripts.mit.edu](http://pazoulay.scripts.mit.edu)
- - date_published: 2024-10-31T07:58:49.244343+00:00
-
- ## The Art and Science of PCB Design
- - [https://pcb.mit.edu](https://pcb.mit.edu)
- - date_published: 2023-12-30T01:59:09+00:00
 

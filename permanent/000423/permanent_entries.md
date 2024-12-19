@@ -1,3 +1,191 @@
+ ## ADZ-Online - Startseite
+ - [https://adz.ro](https://adz.ro)
+ - date_published: 2024-07-12T03:32:28.882636+00:00
+
+ ## AFFICIO - Coming Soon Page
+ - [https://www.afficio.ro](https://www.afficio.ro)
+ - date_published: 2022-09-08T15:28:45+00:00
+
+ ## Agrobiznes.ro | Agricultură fără frontiere
+ - [https://agrobiznes.ro](https://agrobiznes.ro)
+ - date_published: 2024-10-31T08:11:48+00:00
+
+ ## Agronetto România – platformă on line pentru vânzarea de utilaje agricole și piese de schimb
+ - [https://agronetto.ro](https://agronetto.ro)
+ - date_published: 2024-08-11T15:40:54.450021+00:00
+
+ ## Monitorizare GPS auto - Suport 24/24 - SAS Fleet Tracking
+ - [https://www.alarma.ro](https://www.alarma.ro)
+ - date_published: 2024-09-20T12:33:35+00:00
+
+ ## alexand.ro
+ - [https://alexand.ro](https://alexand.ro)
+ - date_published: 2020-10-13T08:47:19+00:00
+
+ ## Alexandru Mărășteanu - Inginer Software
+ - [http://alexei.ro](http://alexei.ro)
+ - date_published: 2024-07-16T17:01:25.970975+00:00
+
+ ## Home - Site oficial Alfa Romeo
+ - [https://www.alfaromeo.ro](https://www.alfaromeo.ro)
+ - date_published: 2024-06-18T13:22:38+00:00
+
+ ## Alvaro
+ - [https://alva.ro](https://alva.ro)
+ - date_published: 2023-12-20T20:48:38+00:00
+
+ ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
+ - [https://anpc.ro](https://anpc.ro)
+ - date_published: 2024-05-07T10:11:22.137888+00:00
+
+ ## Despre noi
+ - [https://reclamatiisal.anpc.ro](https://reclamatiisal.anpc.ro)
+ - date_published: 2024-06-29T09:05:39.663508+00:00
+
+ ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
+ - [https://sesizari1.anpc.ro](https://sesizari1.anpc.ro)
+ - date_published: 2024-06-29T09:05:46.014996+00:00
+
+ ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
+ - [https://sesizari.anpc.ro](https://sesizari.anpc.ro)
+ - date_published: 2024-06-29T09:05:42.700173+00:00
+
+ ## A.N.S.V.S.A.
+ - [http://www.ansvsa.ro](http://www.ansvsa.ro)
+ - date_published: 2024-07-13T17:43:50.793510+00:00
+
+ ## Protecţia consumatorilor - APC
+ - [http://www.apc-romania.ro](http://www.apc-romania.ro)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Asociația pentru Tehnologie și Internet | Susținem o lume digitală liberă prin promovarea vieții private, libertății de exprimare și a tehnologiilor deschise pe Internet.
+ - [https://apti.ro](https://apti.ro)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Supravegherea spațiului public românesc
+ - [https://cctv.apti.ro](https://cctv.apti.ro)
+ - date_published: 2023-07-29T12:48:55+00:00
+
+ ## AQUA Carpatica
+ - [https://aquacarpatica.ro](https://aquacarpatica.ro)
+ - date_published: 2024-12-11T21:05:51.997290+00:00
+
+ ## Home
+ - [https://www.arnia.ro](https://www.arnia.ro)
+ - date_published: 2024-07-10T08:52:46+00:00
+
+ ## Societatea Culturală Aromână
+ - [http://www.aromanii.ro](http://www.aromanii.ro)
+ - date_published: 2013-05-30T23:26:31+00:00
+
+ ## ARTmania – where art & entertainment meet
+ - [https://artmania.ro](https://artmania.ro)
+ - date_published: 2024-10-29T09:08:40.809845+00:00
+
+ ## ARTmania Festival – Transylvania – Sibiu
+ - [https://www.artmaniafestival.ro](https://www.artmaniafestival.ro)
+ - date_published: 2024-06-19T14:56:10.589833+00:00
+
+ ## Antena Sport
+ - [https://as.ro](https://as.ro)
+ - date_published: 2024-07-12T15:22:46+00:00
+
+ ## Acasa - Academia de Studii Economice Bucuresti
+ - [https://ase.ro](https://ase.ro)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Skills of the Future
+ - [https://exed.fabiz.ase.ro](https://exed.fabiz.ase.ro)
+ - date_published: 2024-09-24T20:53:19.612544+00:00
+
+ ## Home
+ - [https://www.fabiz.ase.ro](https://www.fabiz.ase.ro)
+ - date_published: 2024-06-16T04:06:22.529341+00:00
+
+ ## Asociația P.A.T.R.U.
+ - [http://asociatiapatru.ro](http://asociatiapatru.ro)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Audi România » Aflați detaliile despre modelele disponibile și ofertele aferente
+ - [http://www.audi.ro](http://www.audi.ro)
+ - date_published: 2024-07-19T22:43:50.556517+00:00
+
+ ## Știri auto, teste auto, mașini noi, teste comparative, accesorii auto
+ - [https://www.auto-bild.ro](https://www.auto-bild.ro)
+ - date_published: 2024-07-24T21:32:06.909545+00:00
+
+ ## Programul de afiliere autoDNA
+ - [https://afilio.autodna.ro](https://afilio.autodna.ro)
+ - date_published: 2024-07-13T19:19:44.847509+00:00
+
+ ## Faceți cunoștință cu serviciul autoDNA
+ - [https://autodna.ro](https://autodna.ro)
+ - date_published: 2024-05-11T08:19:31.032065+00:00
+
+ ## Centrul de ajutor autoDNA
+ - [https://support.autodna.ro](https://support.autodna.ro)
+ - date_published: 2024-07-13T19:19:16.865188+00:00
+
+ ## carmarket
+ - [https://carmarket.autoitalia.ro](https://carmarket.autoitalia.ro)
+ - date_published: 2024-10-28T20:41:20.038743+00:00
+
+ ## Piese si accesorii originale
+ - [https://moparstore.autoitalia.ro](https://moparstore.autoitalia.ro)
+ - date_published: 2024-10-28T21:30:57.387717+00:00
+
+ ## Creare magazin online - Avanticart.ro
+ - [https://www.avanticart.ro](https://www.avanticart.ro)
+ - date_published: 2024-09-19T15:00:16.215224+00:00
+
+ ## Explicăm legislația pentru milioane de români, în fiecare lună
+ - [https://avocatnet.ro](https://avocatnet.ro)
+ - date_published: 2024-09-19T15:00:01.403453+00:00
+
+ ## Awesome Projects
+ - [https://www.awesomeprojects.ro](https://www.awesomeprojects.ro)
+ - date_published: 2024-06-16T14:56:45.293655+00:00
+
+ ## AYG - Homepage - AYG
+ - [http://ayg.ro](http://ayg.ro)
+ - date_published: 2024-09-19T14:44:25.549603+00:00
+
+ ## Bacania Veche - Bacania Veche este o poveste despre gusturi nealterate, de la tara, despre arome autentice si mancare sanatoasa. Descopera pravalia si bistro Bacania Veche.
+ - [https://bacaniaveche.ro](https://bacaniaveche.ro)
+ - date_published: 2024-07-14T14:47:49.498396+00:00
+
+ ## Blogul BT | Banca Transilvania
+ - [https://blog.bancatransilvania.ro](https://blog.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:05:04.838500+00:00
+
+ ## BT Cariere
+ - [https://cariere.bancatransilvania.ro](https://cariere.bancatransilvania.ro)
+ - date_published: 2024-07-03T14:02:57+00:00
+
+ ## Campanii CSR - BT Comunitate | Banca Transilvania
+ - [https://comunitate.bancatransilvania.ro](https://comunitate.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:05:23.652572+00:00
+
+ ## Banca Transilvania. Bank for Entrepreneurs
+ - [https://en.bancatransilvania.ro](https://en.bancatransilvania.ro)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## BT GO | Aplicația ta de business
+ - [https://go.bancatransilvania.ro](https://go.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:05:01.249802+00:00
+
+ ## Banca Transilvania. Bank vállalkozóknak
+ - [https://hu.bancatransilvania.ro](https://hu.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:05:21.194811+00:00
+
+ ## Întreb BT | Banca Transilvania
+ - [https://intreb.bancatransilvania.ro](https://intreb.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:04:33.807808+00:00
+
+ ## Banca Transilvania. Banca per gli imprenditori
+ - [https://it.bancatransilvania.ro](https://it.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:04:59.678925+00:00
+
  ## Banca Transilvania. Банк для підприємців
  - [https://ukr.bancatransilvania.ro](https://ukr.bancatransilvania.ro)
  - date_published: 2024-09-16T03:04:25.941209+00:00
@@ -994,6 +1182,11 @@
  ## Metropolitan Life
  - [https://www.metropolitanlife.ro](https://www.metropolitanlife.ro)
  - date_published: 2024-07-19T16:45:06+00:00
+
+ ## Software Architecture
+ - [https://software.mihvoi.ro](https://software.mihvoi.ro)
+ - date_published: 2024-12-18T15:51:00.311124+00:00
+ - tags: ['personal']
 
  ## Minus Zero
  - [https://minus-ze.ro](https://minus-ze.ro)
@@ -3830,200 +4023,4 @@ A slim and mobile-friendly IIIF document viewer
  ## Altair | Discover Continuously. Advance Infinitely - Only Forward.
  - [https://www.altairengineering.ru](https://www.altairengineering.ru)
  - date_published: 2024-12-11T07:30:34.664964+00:00
-
- ## Астрономия для школьников
- - [http://astro.altspu.ru](http://astro.altspu.ru)
- - date_published: 2024-08-18T18:28:00.458009+00:00
-
- ## Amber — Low-code платформа для автоматизации бизнеса
- - [https://amber-soft.ru](https://amber-soft.ru)
- - date_published: 2024-06-21T14:54:11.410544+00:00
-
- ## Home — AMDmi3.core
- - [https://amdmi3.ru](https://amdmi3.ru)
- - date_published: 2024-07-24T12:35:04+00:00
-
- ## Index of /
- - [https://mirror.amdmi3.ru](https://mirror.amdmi3.ru)
- - date_published: 2024-04-30T02:34:49.952033+00:00
-
- ## libSDL2pp: libSDL2pp
- - [https://sdl2pp.amdmi3.ru](https://sdl2pp.amdmi3.ru)
- - date_published: 2023-12-11T16:00:30+00:00
-
- ## Заметки Андрея Гейна
- - [https://andgein.ru](https://andgein.ru)
- - date_published: 2023-10-25T09:24:32.093894+00:00
- - tags: ['personal']
-
- ## Animaker: создание анимированных видео в облаке бесплатно
- - [https://animaker.ru](https://animaker.ru)
- - date_published: 2023-10-16T15:30:57+00:00
-
- ## cloud anime encoding
- - [https://animepahe.ru](https://animepahe.ru)
- - date_published: 2024-11-14T19:30:20+00:00
- - tags: ['piracy', 'anime']
-
- ## WMS система управления складом Logistics Vision Suite
- - [https://www.ant-tech.ru](https://www.ant-tech.ru)
- - date_published: 2024-06-21T14:56:08.093460+00:00
-
- ## ВНЖ в Греции при покупке недвижимости в 2022 | Residence-Greece
- - [https://anyresidence.ru](https://anyresidence.ru)
- - date_published: 2024-10-31T00:47:49.397821+00:00
-
- ## Промышленная маркировка, герметизация, защита | АО «Формат СТ»
- - [https://aofst.ru](https://aofst.ru)
- - date_published: 2024-08-12T21:00:00+00:00
-
- ## Одноклассники API
- - [https://apiok.ru](https://apiok.ru)
- - date_published: 2024-07-08T08:48:06.059755+00:00
-
- ## Аплана. Центр Разработки
- - [http://www.aplanadc.ru](http://www.aplanadc.ru)
- - date_published: 2024-06-21T14:56:09.630920+00:00
-
- ## App2Top.ru: сайт для разработчиков, издателей и маркетологов игр
- - [https://app2top.ru](https://app2top.ru)
- - date_published: 2024-05-04T07:20:17.222422+00:00
-
- ## Сайт «Аквариума»
- - [https://www.aquarium.ru](https://www.aquarium.ru)
- - date_published: 2024-08-06T20:02:55.274597+00:00
-
- ## Покердом (Pokerdom) - Официальный сайт онлайн казино ᐈ Покердом зеркало, Вход
- - [https://arcanumclub.ru](https://arcanumclub.ru)
- - date_published: 2024-06-01T16:17:08.269657+00:00
- - tags: ['casino', 'gambling']
-
- ## Arcanum Reborn: Riverrise
- - [https://arcreborn.ru](https://arcreborn.ru)
- - date_published: 2024-06-01T16:16:50.332645+00:00
-
- ## Студия Артемия Лебедева | Долго. Дорого. Охуенно
- - [http://www.artlebedev.ru](http://www.artlebedev.ru)
- - date_published: 2024-07-10T10:51:13.112306+00:00
-
- ## Фирма "АС" — Разработчик ПО и Системный интегратор
- - [http://asntl.ru](http://asntl.ru)
- - date_published: 2024-06-21T14:54:53.535782+00:00
-
- ## Radio Admin
- - [http://astraom.ru](http://astraom.ru)
- - date_published: 2024-08-06T15:52:13+00:00
-
- ## Astrum Entertainment
- - [https://astrum-entertainment.ru](https://astrum-entertainment.ru)
- - date_published: 2024-10-25T10:46:41.138693+00:00
-
- ## Мужская одежда и аксессуары для активного отдыха<
- - [https://atlasformen.ru](https://atlasformen.ru)
- - date_published: 2024-05-29T10:08:43.564768+00:00
-
- ## АТОН – технологичный брокер для состоятельных инвесторов
- - [https://www.aton.ru](https://www.aton.ru)
- - date_published: 2024-06-24T11:18:35.902814+00:00
-
- ## Аврора — первая российская мобильная операционная система
- - [https://auroraos.ru](https://auroraos.ru)
- - date_published: 2024-06-06T09:44:14+00:00
- - tags: ['mobile', 'aurora', 'operating system']
-
- ## Главная страница | Портал разработчиков ОС Аврора
- - [https://developer.auroraos.ru](https://developer.auroraos.ru)
- - date_published: 2024-09-13T17:51:41.300306+00:00
-
- ## Партнерская программа autoDNA
- - [https://afilio.autodna.ru](https://afilio.autodna.ru)
- - date_published: 2024-07-13T19:25:10.149615+00:00
-
- ## Знакомство с сервисом autoDNA
- - [https://autodna.ru](https://autodna.ru)
- - date_published: 2024-07-13T19:19:09.715871+00:00
-
- ## Справочный центр autoDNA
- - [https://support.autodna.ru](https://support.autodna.ru)
- - date_published: 2024-07-13T19:19:15.501817+00:00
-
- ## Автоновости на Autonews.ru: всё о машинах и авторынке
- - [https://www.autonews.ru](https://www.autonews.ru)
- - date_published: 2024-07-04T10:12:17.982108+00:00
-
- ## Avast | Скачайте Free Antivirus и VPN | Бесплатно и просто
- - [https://www.avast.ru](https://www.avast.ru)
- - date_published: 2024-09-03T19:11:03+00:00
-
- ## AVComfort: салон и интернет магазин Hi-Fi, High-End техники. Домашние кинотеатры, LP проигрыватели, Ламповые усилители, Акустические системы
- - [https://www.avcomfort.ru](https://www.avcomfort.ru)
- - date_published: 2024-07-20T11:30:57.713395+00:00
-
- ## Дешевые авиабилеты- все самые сочные предложения: распродажа авиабилетов по всему миру!
- - [http://aviabiletydeshevo.ru](http://aviabiletydeshevo.ru)
- - date_published: 2024-10-19T10:56:52.475050+00:00
-
- ## Поиск дешёвых авиабилетов
- - [https://www.aviasales.ru](https://www.aviasales.ru)
- - date_published: 2024-07-08T09:48:27.739899+00:00
-
- ## АО «ОДК-Авиадвигатель»
- - [http://www.avid.ru](http://www.avid.ru)
- - date_published: 2024-07-09T22:04:49.593246+00:00
-
- ## Форум Винского
- - [http://forum.awd.ru](http://forum.awd.ru)
- - date_published: 2024-06-21T14:56:38.534209+00:00
-
- ## AXMA Story Maker JS – Платформа для разработки игр на JavaScript
- - [https://axmajs.ru](https://axmajs.ru)
- - date_published: 2023-11-03T00:00:00+00:00
-
- ## AXMA Story Maker JS Онлайн. Платформа для разработки приключенческих игр (визуальных новелл, текстовых игр, квестов и интерактивных историй)
- - [https://online.axmajs.ru](https://online.axmajs.ru)
- - date_published: 2024-07-01T08:32:55.248074+00:00
-
- ## Azimut7
- - [https://azimut7.ru](https://azimut7.ru)
- - date_published: 2024-03-14T16:14:27+00:00
-
- ## Амурский зоологический журнал
- - [https://azjournal.ru](https://azjournal.ru)
- - date_published: 2024-07-09T21:16:41.599245+00:00
-
- ## Сайт расходящихся тропок // Balancer.Ru
- - [http://www.balancer.ru](http://www.balancer.ru)
- - date_published: 2024-07-07T04:04:16+00:00
-
- ## Банк 131
- - [https://widget.bank131.ru](https://widget.bank131.ru)
- - date_published: 2024-08-29T12:24:44+00:00
-
- ## Добро пожаловать на сайт BASFРешения для сельского хозяйства
- - [https://www.agro.basf.ru](https://www.agro.basf.ru)
- - date_published: 2024-10-31T04:18:41+00:00
-
- ## Главная - Фитнес пульс
- - [http://basketballjersey.ru](http://basketballjersey.ru)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Battle Teams 2 — бесплатный онлайн-шутер с разнообразным контентом.
- - [https://battleteams2.ru](https://battleteams2.ru)
- - date_published: 2024-10-25T10:46:37.167204+00:00
-
- ## The Symbol - модный женский журнал
- - [http://bazaar.ru](http://bazaar.ru)
- - date_published: 2024-06-25T18:52:55.257359+00:00
-
- ## билайн — официальный сайт оператора сотовой связи
- - [https://moskva.beeline.ru](https://moskva.beeline.ru)
- - date_published: 2024-06-21T14:37:27.493844+00:00
-
- ## Belconsole.ru
- - [https://belconsole.ru](https://belconsole.ru)
- - date_published: 2024-10-17T07:03:46.038474+00:00
-
- ## Привет!
- - [https://bespoyasov.ru](https://bespoyasov.ru)
- - date_published: 2024-07-03T13:40:38+00:00
 

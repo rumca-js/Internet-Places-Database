@@ -1,3 +1,103 @@
+ ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://press.safe.global](https://press.safe.global)
+ - date_published: 2024-09-20T22:13:32+00:00
+
+ ## Ethereum Smart Accounts
+ - [https://safe.global](https://safe.global)
+ - date_published: 2024-06-13T11:33:30+00:00
+
+ ## Sign Protocol
+ - [https://app.sign.global](https://app.sign.global)
+ - date_published: 2024-08-19T03:16:12+00:00
+
+ ## Introduction | Sign Protocol
+ - [https://docs.sign.global](https://docs.sign.global)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Sign Protocol
+ - [https://sign.global](https://sign.global)
+ - date_published: 2024-06-12T06:04:55+00:00
+
+ ## Sign Protocol
+ - [https://testnet-scan.sign.global](https://testnet-scan.sign.global)
+ - date_published: 2024-08-27T02:24:00+00:00
+
+ ## Home
+ - [https://www.sjesjesuits.global](https://www.sjesjesuits.global)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## Homepage - Sofico
+ - [https://sofico.global](https://sofico.global)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## SoundOn
+ - [https://www.soundon.global](https://www.soundon.global)
+ - date_published: 2024-09-14T07:57:44.744158+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://spacewatch.global](https://spacewatch.global)
+ - date_published: 2024-06-18T17:38:16.097784+00:00
+
+ ## Spread the Word: Inclusion
+ - [https://www.spreadtheword.global](https://www.spreadtheword.global)
+ - date_published: 2024-09-19T22:03:02.543153+00:00
+
+ ## SPRK.global | Real Impact | Get Involved | Berlin
+ - [https://sprk.global](https://sprk.global)
+ - date_published: 2021-11-17T15:18:32+00:00
+
+ ## Stripe | Financial Infrastructure to Grow Your Revenue
+ - [https://go.stripe.global](https://go.stripe.global)
+ - date_published: 2024-10-28T06:34:14.347855+00:00
+
+ ## TNGlobal
+ - [https://technode.global](https://technode.global)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Temperature.Global
+ - [https://temperature.global](https://temperature.global)
+ - date_published: 2024-06-15T09:04:54.598711+00:00
+
+ ## The Taskforce on Nature-related Financial Disclosures
+ - [https://tnfd.global](https://tnfd.global)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## TNM Marco Polo
+ - [http://marcopoloapp.tnm.global](http://marcopoloapp.tnm.global)
+ - date_published: 2024-08-13T07:54:20+00:00
+
+ ## Home | TNM Membership
+ - [https://membership-promo.tnm.global](https://membership-promo.tnm.global)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## TNM Group - Membership
+ - [https://membership.tnm.global](https://membership.tnm.global)
+ - date_published: 2024-08-16T08:46:38+00:00
+
+ ## Trendly - Trendly
+ - [https://trendly.global](https://trendly.global)
+ - date_published: 2024-10-28T07:13:04.932284+00:00
+
+ ## Homepage | Toyota Research Institute
+ - [https://tri.global](https://tri.global)
+ - date_published: 2023-10-25T19:17:16.769072+00:00
+
+ ## UNIO Enterprise GmbH | Home
+ - [https://www.unio.global](https://www.unio.global)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Utopian - Aiming for perfection
+ - [https://utopian.global](https://utopian.global)
+ - date_published: 2024-12-12T06:22:07+00:00
+
+ ## Home | utu Tax Free
+ - [https://utu.global](https://utu.global)
+ - date_published: 2024-09-25T08:51:05+00:00
+
+ ## VMT - Driving progress in tunnel projects
+ - [https://vmt.global](https://vmt.global)
+ - date_published: 2024-12-10T08:27:28+00:00
+
  ## Voice - Include - Innovate - Influence
  - [https://voice.global](https://voice.global)
  - date_published: 2024-09-25T12:55:54+00:00
@@ -3917,104 +4017,4 @@ Medicine- Healthcare Practitioner Licensing and Regulation
  ## Florida Department of Health in Bradford
  - [https://bradford.floridahealth.gov](https://bradford.floridahealth.gov)
  - date_published: 2024-05-08T02:50:31.483877+00:00
-
- ## Florida Department of Health in Brevard
- - [https://brevard.floridahealth.gov](https://brevard.floridahealth.gov)
- - date_published: 2024-05-08T02:49:15.945107+00:00
-
- ## Florida Department of Health in Broward
- - [https://broward.floridahealth.gov](https://broward.floridahealth.gov)
- - date_published: 2024-05-08T02:48:48.965608+00:00
-
- ## Florida Department of Health in Calhoun
- - [https://calhoun.floridahealth.gov](https://calhoun.floridahealth.gov)
- - date_published: 2024-05-08T02:49:31.701751+00:00
-
- ## Florida Department of Health in Charlotte
- - [https://charlotte.floridahealth.gov](https://charlotte.floridahealth.gov)
- - date_published: 2024-05-08T02:49:36.072980+00:00
-
- ## Florida Department of Health in Citrus
- - [https://citrus.floridahealth.gov](https://citrus.floridahealth.gov)
- - date_published: 2024-05-08T02:49:55.658136+00:00
-
- ## Florida Department of Health in Clay
- - [https://clay.floridahealth.gov](https://clay.floridahealth.gov)
- - date_published: 2024-05-08T02:48:46.493895+00:00
-
- ## Florida Department of Health in Collier
- - [https://collier.floridahealth.gov](https://collier.floridahealth.gov)
- - date_published: 2024-05-08T02:49:25.812015+00:00
-
- ## Florida Department of Health in Columbia
- - [https://columbia.floridahealth.gov](https://columbia.floridahealth.gov)
- - date_published: 2024-05-08T02:50:10.152307+00:00
-
- ## Florida Department of Health in Desoto
- - [https://desoto.floridahealth.gov](https://desoto.floridahealth.gov)
- - date_published: 2024-05-08T02:48:15.906721+00:00
-
- ## Florida Department of Health in Dixie
- - [https://dixie.floridahealth.gov](https://dixie.floridahealth.gov)
- - date_published: 2024-05-08T02:50:38.726428+00:00
-
- ## Florida Department of Health in Duval
- - [https://duval.floridahealth.gov](https://duval.floridahealth.gov)
- - date_published: 2024-05-08T02:49:58.240167+00:00
-
- ## Florida Department of Health in Escambia
- - [https://escambia.floridahealth.gov](https://escambia.floridahealth.gov)
- - date_published: 2024-05-08T02:50:12.168072+00:00
-
- ## Florida Department of Health in Flagler
- - [https://flagler.floridahealth.gov](https://flagler.floridahealth.gov)
- - date_published: 2024-05-08T02:49:45.361877+00:00
-
- ## Florida Department of Health
- - [https://floridahealth.gov](https://floridahealth.gov)
- - date_published: 2023-10-25T19:21:43.397423+00:00
-
- ## Florida Department of Health in Franklin
- - [https://franklin.floridahealth.gov](https://franklin.floridahealth.gov)
- - date_published: 2024-05-08T02:50:14.560811+00:00
-
- ## Florida Department of Health in Gadsden
- - [https://gadsden.floridahealth.gov](https://gadsden.floridahealth.gov)
- - date_published: 2024-05-08T02:48:20.619149+00:00
-
- ## Florida Department of Health in Gilchrist
- - [https://gilchrist.floridahealth.gov](https://gilchrist.floridahealth.gov)
- - date_published: 2024-05-08T02:50:04.735553+00:00
-
- ## Florida Department of Health in Glades
- - [https://glades.floridahealth.gov](https://glades.floridahealth.gov)
- - date_published: 2024-05-08T02:50:43.075054+00:00
-
- ## Florida Department of Health in Gulf
- - [https://gulf.floridahealth.gov](https://gulf.floridahealth.gov)
- - date_published: 2024-05-08T02:47:47.666958+00:00
-
- ## Florida Department of Health in Hamilton
- - [https://hamilton.floridahealth.gov](https://hamilton.floridahealth.gov)
- - date_published: 2024-05-08T02:49:42.884375+00:00
-
- ## Florida Department of Health in Hardee
- - [https://hardee.floridahealth.gov](https://hardee.floridahealth.gov)
- - date_published: 2024-05-08T02:49:49.550370+00:00
-
- ## Florida Department of Health in Hendry
- - [https://hendry.floridahealth.gov](https://hendry.floridahealth.gov)
- - date_published: 2024-05-08T02:48:30.104891+00:00
-
- ## Florida Department of Health in Hernando
- - [https://hernando.floridahealth.gov](https://hernando.floridahealth.gov)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Florida Department of Health in Highlands
- - [https://highlands.floridahealth.gov](https://highlands.floridahealth.gov)
- - date_published: 2024-05-08T02:49:51.480804+00:00
-
- ## Florida Department of Health in Hillsborough
- - [https://hillsborough.floridahealth.gov](https://hillsborough.floridahealth.gov)
- - date_published: 2024-05-08T02:48:02.986884+00:00
 

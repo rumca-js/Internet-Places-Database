@@ -1,3 +1,99 @@
+ ## The Committee On Course Registration
+ - [https://courseregistration.fas.harvard.edu](https://courseregistration.fas.harvard.edu)
+ - date_published: 2024-06-30T11:21:21+00:00
+
+ ## CRCS | Center for Research on Computation and Society
+ - [https://crcs.seas.harvard.edu](https://crcs.seas.harvard.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## CS50
+ - [https://cs50.harvard.edu](https://cs50.harvard.edu)
+ - date_published: 2024-06-21T15:31:32+00:00
+
+ ## Harvard Computer Science :: Harvard CS Concentration
+ - [https://csadvising.seas.harvard.edu](https://csadvising.seas.harvard.edu)
+ - date_published: 2024-04-30T04:47:06.184694+00:00
+
+ ## Cushman Lab – Template for a project, lab, dept. etc.
+ - [https://cushmanlab.fas.harvard.edu](https://cushmanlab.fas.harvard.edu)
+ - date_published: 2024-06-22T07:48:09+00:00
+
+ ## Chandra X-Ray Center
+ - [http://cxc.harvard.edu](http://cxc.harvard.edu)
+ - date_published: 2024-07-22T07:03:53.742825+00:00
+
+ ## Berkman Klein Center
+ - [https://cyber.harvard.edu](https://cyber.harvard.edu)
+ - date_published: 2024-03-11T20:54:03.223117+00:00
+
+ ## Berkman Klein Center
+ - [https://cyber.law.harvard.edu](https://cyber.law.harvard.edu)
+ - date_published: 2024-04-29T02:42:10.432644+00:00
+
+ ## Home | Digital Data Design Institute at Harvard
+ - [https://d3.harvard.edu](https://d3.harvard.edu)
+ - date_published: 2023-10-25T18:51:42.107342+00:00
+
+ ## Mapping Past Societies
+ - [https://darmc.harvard.edu](https://darmc.harvard.edu)
+ - date_published: 2024-05-06T16:59:19.797543+00:00
+
+ ## DASH Home
+ - [https://dash.harvard.edu](https://dash.harvard.edu)
+ - date_published: 2024-05-12T04:28:16.700308+00:00
+
+ ## Marcus Institute Data Archive
+ - [https://data.hsl.harvard.edu](https://data.hsl.harvard.edu)
+ - date_published: 2024-09-12T20:26:20.457027+00:00
+
+ ## Home
+ - [https://datascience.harvard.edu](https://datascience.harvard.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Harvard Dataverse
+ - [https://dataverse.harvard.edu](https://dataverse.harvard.edu)
+ - date_published: 2024-05-11T09:34:04.005381+00:00
+
+ ## Center on the Developing Child at Harvard University
+ - [https://developingchild.harvard.edu](https://developingchild.harvard.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Harvard Medical School Division of Medical Sciences
+ - [http://dms.hms.harvard.edu](http://dms.hms.harvard.edu)
+ - date_published: 2024-10-19T04:50:33.274644+00:00
+
+ ## HarvardSites | HarvardSites Drupal User Guide
+ - [https://drupal.harvardsites.harvard.edu](https://drupal.harvardsites.harvard.edu)
+ - date_published: 2024-07-21T23:19:22.821083+00:00
+
+ ## Harvard College Dean of Students Office
+ - [https://dso.college.harvard.edu](https://dso.college.harvard.edu)
+ - date_published: 2024-09-04T20:09:17+00:00
+
+ ## Data Science Services
+ - [https://dss.iq.harvard.edu](https://dss.iq.harvard.edu)
+ - date_published: 2024-07-14T14:36:27+00:00
+
+ ## Home - Early Design Education
+ - [https://earlydesigneducation.gsd.harvard.edu](https://earlydesigneducation.gsd.harvard.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Executive and Continuing Professional Education
+ - [https://ecpe.sph.harvard.edu](https://ecpe.sph.harvard.edu)
+ - date_published: 2024-04-30T04:47:28.591010+00:00
+
+ ## Computer Science | Harvard John A. Paulson School of Engineering and Applied Sciences
+ - [https://eecs.harvard.edu](https://eecs.harvard.edu)
+ - date_published: 2023-10-25T18:52:07.507044+00:00
+
+ ## Home
+ - [https://embeddedethics.seas.harvard.edu](https://embeddedethics.seas.harvard.edu)
+ - date_published: 2024-06-15T12:19:24+00:00
+
+ ## Epicenter
+ - [http://epicenter.wcfia.harvard.edu](http://epicenter.wcfia.harvard.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
  ## Edmond & Lily Safra Center for Ethics
  - [https://ethics.harvard.edu](https://ethics.harvard.edu)
  - date_published: 2024-06-15T13:00:55+00:00
@@ -3915,100 +4011,4 @@ Data Services
  ## Home | SKCTC
  - [https://southeast.kctcs.edu](https://southeast.kctcs.edu)
  - date_published: 2024-02-08T16:51:39.792081+00:00
-
- ## Sierra-Cedar, Inc.
- - [https://students.kctcs.edu](https://students.kctcs.edu)
- - date_published: 2024-01-25T09:10:46+00:00
-
- ## Home | KCTCS
- - [https://systemoffice.kctcs.edu](https://systemoffice.kctcs.edu)
- - date_published: 2024-05-07T19:15:50.564347+00:00
-
- ## Home
- - [https://webassets.kctcs.edu](https://webassets.kctcs.edu)
- - date_published: 2024-05-07T19:15:46.206590+00:00
-
- ## Kentucky Community and Technical College System
- - [https://welcome.kctcs.edu](https://welcome.kctcs.edu)
- - date_published: 2017-01-10T15:33:01+00:00
-
- ## Home | WKCTC
- - [http://westkentucky.kctcs.edu](http://westkentucky.kctcs.edu)
- - date_published: 2024-07-01T11:07:53.509700+00:00
-
- ## Home | Kean University
- - [http://kean.edu](http://kean.edu)
- - date_published: 2024-07-04T08:50:01+00:00
-
- ## Events Calendar - Kennesaw State University
- - [https://calendar.kennesaw.edu](https://calendar.kennesaw.edu)
- - date_published: 2024-07-02T01:46:55.524703+00:00
-
- ## Home
- - [https://research.kennesaw.edu](https://research.kennesaw.edu)
- - date_published: 2024-06-19T18:09:40.523975+00:00
-
- ## Kennesaw State University in Georgia
- - [https://www.kennesaw.edu](https://www.kennesaw.edu)
- - date_published: 2024-10-30T04:37:52.543178+00:00
-
- ## Admissions | Kent State University
- - [https://apply.kent.edu](https://apply.kent.edu)
- - date_published: 2024-06-30T15:28:33+00:00
-
- ## University Libraries | Kent State University Libraries
- - [https://apps.library.kent.edu](https://apps.library.kent.edu)
- - date_published: 2024-07-01T11:10:03+00:00
-
- ## Kent State University Catalog 2023-2024 < Kent State University
- - [https://catalog.kent.edu](https://catalog.kent.edu)
- - date_published: 2024-05-07T19:16:26.366327+00:00
-
- ## Cleveland Urban Design Collaborative
- - [https://cudc.kent.edu](https://cudc.kent.edu)
- - date_published: 2024-05-07T19:16:31.408465+00:00
-
- ## Kent State University CustomViewbook
- - [https://customviewbook.kent.edu](https://customviewbook.kent.edu)
- - date_published: 2024-05-07T19:16:21.978004+00:00
-
- ## Daily Kent Stater Digital Archive
- - [https://dks.library.kent.edu](https://dks.library.kent.edu)
- - date_published: 2024-08-19T16:24:05+00:00
-
- ## FlashLine
- - [https://flashline.kent.edu](https://flashline.kent.edu)
- - date_published: 2024-07-01T11:08:51.280649+00:00
-
- ## KentLINK - Library Catalog of Kent State University - Basic Search
- - [http://kentlink.kent.edu](http://kentlink.kent.edu)
- - date_published: 2010-06-09T00:00:00+00:00
-
- ## LibGuides
- - [https://libguides.library.kent.edu](https://libguides.library.kent.edu)
- - date_published: 2024-07-01T11:11:10.080932+00:00
-
- ## University Libraries | Kent State University Libraries
- - [https://library.kent.edu](https://library.kent.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## FlashLine
- - [https://login.kent.edu](https://login.kent.edu)
- - date_published: 2024-05-07T19:16:28.271381+00:00
-
- ## Home | Open Access Kent State (OAKS)
- - [https://oaks.kent.edu](https://oaks.kent.edu)
- - date_published: 2024-07-01T11:11:14.626053+00:00
-
- ## Digital Collections · Kent State University Libraries. Special Collections and Archives
- - [https://omeka.library.kent.edu](https://omeka.library.kent.edu)
- - date_published: 2024-07-01T11:11:17.268212+00:00
-
- ## Online Degrees & Programs | Kent State University - Online Degrees & Programs | Kent State University
- - [https://onlinedegrees.kent.edu](https://onlinedegrees.kent.edu)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Shibboleth Authentication Request
- - [https://proxy.library.kent.edu](https://proxy.library.kent.edu)
- - date_published: 2024-07-01T11:11:19.416968+00:00
 

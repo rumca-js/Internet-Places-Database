@@ -1,3 +1,159 @@
+ ## Jämför lån & låna pengar med rätt kreditkoll 2024
+ - [https://www.kreditkoll.nu](https://www.kreditkoll.nu)
+ - date_published: 2024-09-19T20:31:21.152741+00:00
+
+ ## Blog posts
+ - [https://krompaco.nu](https://krompaco.nu)
+ - date_published: 2024-05-09T08:14:35.995874+00:00
+
+ ## Kuriren, Norrbottens-Kuriren
+ - [https://kuriren.nu](https://kuriren.nu)
+ - date_published: 2024-06-29T04:22:41.951192+00:00
+
+ ## kyouNU
+ - [https://kyou.nu](https://kyou.nu)
+ - date_published: 2024-07-10T11:34:45.403304+00:00
+
+ ## lhs
+ - [https://lhs.nu](https://lhs.nu)
+ - date_published: 2024-05-25T08:00:04.408571+00:00
+
+ ## library.nu
+ - [http://library.nu](http://library.nu)
+ - date_published: 2024-06-30T02:59:40.007803+00:00
+
+ ## Life is great - Quote of the Day
+ - [https://www.lifeisgreat.nu](https://www.lifeisgreat.nu)
+ - date_published: 2024-07-02T21:30:25.438088+00:00
+
+ ## L I G H T N I N G . n u       ~ R E B I R T H ~
+ - [http://lightning.nu](http://lightning.nu)
+ - date_published: 2024-07-12T16:40:45.340769+00:00
+
+ ## Lume
+ - [https://lume.nu](https://lume.nu)
+ - date_published: 2024-05-22T08:36:58+00:00
+
+ ## Startsida - Lymfominfo
+ - [https://lymfom.nu](https://lymfom.nu)
+ - date_published: 2024-05-08T09:48:05.714461+00:00
+
+ ## Manu Cornet's website
+ - [https://ma.nu](https://ma.nu)
+ - date_published: 2023-10-25T20:48:57.839136+00:00
+
+ ## manu-static
+ - [https://static.ma.nu](https://static.ma.nu)
+ - date_published: 2024-05-09T04:17:59+00:00
+
+ ## Start
+ - [https://malarna.nu](https://malarna.nu)
+ - date_published: 2023-11-10T14:03:58.337435+00:00
+
+ ## Marginalia Downloads
+ - [https://downloads.marginalia.nu](https://downloads.marginalia.nu)
+ - date_published: 2023-10-25T08:29:33.050968+00:00
+
+ ## Encyclopedia
+ - [https://encyclopedia.marginalia.nu](https://encyclopedia.marginalia.nu)
+ - date_published: 2024-06-20T21:32:46.030670+00:00
+
+ ## Marginalia Similar Website Finder
+ - [https://explore2.marginalia.nu](https://explore2.marginalia.nu)
+ - date_published: 2023-12-03T08:39:07+00:00
+ - tags: ['seo', 'algorithms']
+
+ ## Website Explorer - http://bmannconsulting.com/
+ - [https://explore.marginalia.nu](https://explore.marginalia.nu)
+ - date_published: 2024-06-20T21:32:46.556229+00:00
+
+ ## GitHub - MarginaliaSearch/MarginaliaSearch: Internet search engine for text-oriented websites. Indexing the small, old and weird web.
+ - [https://git.marginalia.nu](https://git.marginalia.nu)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## www.marginalia.nu
+ - [https://marginalia.nu](https://marginalia.nu)
+ - date_published: 2024-04-17T00:00:00+00:00
+ - tags: ['search engine']
+
+ ## www.marginalia.nu @
+marginalia.nu
+ - [https://memex.marginalia.nu](https://memex.marginalia.nu)
+ - date_published: 2023-10-25T20:48:59.430464+00:00
+
+ ## Marginalia Search
+ - [https://search.marginalia.nu](https://search.marginalia.nu)
+ - date_published: 2023-10-25T13:51:19.392203+00:00
+ - tags: ['search engine', 'personal sites source']
+
+ ## Welcome to nginx!
+ - [https://status.marginalia.nu](https://status.marginalia.nu)
+ - date_published: 2022-10-19T08:02:20+00:00
+
+ ## Mastodon.nu
+ - [https://mastodon.nu](https://mastodon.nu)
+ - date_published: 2024-07-11T23:02:52.705611+00:00
+
+ ## MustHaveMenus - Sorry!
+ - [https://mhme.nu](https://mhme.nu)
+ - date_published: 2024-09-06T13:39:45.337359+00:00
+
+ ## [ HOSTSFILE.MINE.NU ] [ HOSTS FILE PROJECT ]
+ - [https://hostsfile.mine.nu](https://hostsfile.mine.nu)
+ - date_published: 2018-02-14T19:14:36+00:00
+
+ ## Titus the Fox
+ - [http://ttf.mine.nu](http://ttf.mine.nu)
+ - date_published: 2024-07-11T11:16:10.965569+00:00
+
+ ## ::: EPHEMERAL ::: fanlisting collective directory
+ - [http://dir.minty.nu](http://dir.minty.nu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## " the book lives on " » the KINDLE fanlisting
+ - [https://kindle.minty.nu](https://kindle.minty.nu)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## « meow hosting :3 » the fanlisting for LEPRD.SPACE
+ - [https://leprd.minty.nu](https://leprd.minty.nu)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Delicately Soothing :: The Pastel Colours Fanlisting
+ - [https://pastels.minty.nu](https://pastels.minty.nu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## scented // sunflowers (ver.2)
+ - [https://scented.minty.nu](https://scented.minty.nu)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Mirai | MIRAI – Connecting Swedish och Japanese universities
+ - [https://www.mirai.nu](https://www.mirai.nu)
+ - date_published: 2024-06-24T03:02:52.457564+00:00
+
+ ## Mode & design
+ - [http://www.modebewust.nu](http://www.modebewust.nu)
+ - date_published: 2024-07-13T14:31:31.549526+00:00
+
+ ## Moxie – Allt från inredning till mode och skönhet
+ - [http://moxie.nu](http://moxie.nu)
+ - date_published: 2024-07-16T04:29:05+00:00
+
+ ## Ace of Spades HQ
+ - [http://ace.mu.nu](http://ace.mu.nu)
+ - date_published: 2024-06-20T02:56:48.722841+00:00
+
+ ## annika's journal
+ - [http://annika.mu.nu](http://annika.mu.nu)
+ - date_published: 2010-12-16T06:21:39+00:00
+
+ ## Blogmeister USA
+ - [http://blogmeisterusa.mu.nu](http://blogmeisterusa.mu.nu)
+ - date_published: 2024-06-27T09:30:34.961214+00:00
+
+ ## MOVABLE TYPE :: Personal Publishing System
+ - [http://blog.mu.nu](http://blog.mu.nu)
+ - date_published: 2024-06-20T02:22:58.327266+00:00
+
  ## Confederate Yankee
  - [http://confederateyankee.mu.nu](http://confederateyankee.mu.nu)
  - date_published: 2024-06-27T06:40:54.819840+00:00
@@ -3875,156 +4031,4 @@
  ## Oxfam Aotearoa
  - [https://www.oxfam.org.nz](https://www.oxfam.org.nz)
  - date_published: 2024-07-08T13:54:14.260663+00:00
-
- ## Thundering Herd
- - [http://blog.pearce.org.nz](http://blog.pearce.org.nz)
- - date_published: 2023-04-08T00:00:00+00:00
-
- ## The Physics Room
- - [https://physicsroom.org.nz](https://physicsroom.org.nz)
- - date_published: 2024-07-13T16:16:00.753479+00:00
-
- ## Powerswitch: Compare and find cheap energy plans
- - [https://www.powerswitch.org.nz](https://www.powerswitch.org.nz)
- - date_published: 2024-10-28T08:39:38.426513+00:00
-
- ## https://www.privacy.org.nz
- - [https://privacy.org.nz](https://privacy.org.nz)
- - date_published: 2024-01-09T03:38:02.730564+00:00
-
- ## Home | QEII National Trust
- - [https://qeiinationaltrust.org.nz](https://qeiinationaltrust.org.nz)
- - date_published: 2024-10-29T19:12:23.472919+00:00
-
- ## Royal Astronomical Society of New Zealand
- - [https://rasnz.org.nz](https://rasnz.org.nz)
- - date_published: 2024-09-16T06:21:56.597365+00:00
-
- ## Repair Network Aotearoa
- - [https://repairnetworkaotearoa.org.nz](https://repairnetworkaotearoa.org.nz)
- - date_published: 2024-05-29T20:28:15.667518+00:00
-
- ## New Zealand Republic
- - [http://www.republic.org.nz](http://www.republic.org.nz)
- - date_published: 2024-10-29T19:38:24.164931+00:00
-
- ## Smart on Crime
- - [http://blog.rethinking.org.nz](http://blog.rethinking.org.nz)
- - date_published: 2024-12-14T14:01:26+00:00
-
- ## New Zealand Rheumatology Association
- - [https://www.rheumatology.org.nz](https://www.rheumatology.org.nz)
- - date_published: 2024-06-28T12:04:00.628983+00:00
-
- ## Ernest Rutherford - Scientist Supreme
- - [http://www.rutherford.org.nz](http://www.rutherford.org.nz)
- - date_published: 2024-02-24T22:42:25+00:00
-
- ## Seafriends home page
- - [http://www.seafriends.org.nz](http://www.seafriends.org.nz)
- - date_published: 2018-10-01T09:27:11+00:00
-
- ## Future website of splice.org.nz
- - [http://www.splice.org.nz](http://www.splice.org.nz)
- - date_published: 2024-07-04T06:19:29.422021+00:00
-
- ## Starship
- - [https://starship.org.nz](https://starship.org.nz)
- - date_published: 2024-07-19T23:16:46.276567+00:00
-
- ## Stats Chat
- - [https://www.statschat.org.nz](https://www.statschat.org.nz)
- - date_published: 2024-10-31T22:43:41.509664+00:00
-
- ## Hato Hone St John | Here for Life
- - [https://www.stjohn.org.nz](https://www.stjohn.org.nz)
- - date_published: 2024-08-18T21:20:15.795315+00:00
-
- ## takahē - Bringing literature and art from Aotearoa New Zealand to the world.
- - [https://takahe.org.nz](https://takahe.org.nz)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Welcome to the Divisional Websites of Freemasons New Zealand
- - [http://www.themasons.org.nz](http://www.themasons.org.nz)
- - date_published: 2023-01-29T00:47:16+00:00
-
- ## The Standard
- - [https://thestandard.org.nz](https://thestandard.org.nz)
- - date_published: 2024-10-31T22:40:30+00:00
-
- ## Non-Religious Moral Code of Ethics & Common Decency - 21 Ways to be Happy - The Way To Happiness
- - [http://www.thewaytohappiness.org.nz](http://www.thewaytohappiness.org.nz)
- - date_published: 2024-09-04T17:54:11.460356+00:00
-
- ## Manaaki Tāngata | Victim Support
- - [http://www.victimsupport.org.nz](http://www.victimsupport.org.nz)
- - date_published: 2024-10-25T01:36:41+00:00
-
- ## Scientology Volunteer Ministers: Humanitarian Organization & Aid, Disaster Response
- - [http://www.volunteerministers.org.nz](http://www.volunteerministers.org.nz)
- - date_published: 2024-09-04T17:54:05.471217+00:00
-
- ## WasteNet Southland
- - [https://www.wastenet.org.nz](https://www.wastenet.org.nz)
- - date_published: 2024-02-08T17:46:48.890625+00:00
-
- ## Home - Webstock
- - [https://webstock.org.nz](https://webstock.org.nz)
- - date_published: 2024-05-11T10:54:26.727367+00:00
-
- ## Women's Refuge - Gift a Safe Night
- - [https://www.womensrefuge.org.nz](https://www.womensrefuge.org.nz)
- - date_published: 2024-10-20T11:44:32.811636+00:00
-
- ## Send a WWF Wildlife eCard
- - [https://wwf.org.nz](https://wwf.org.nz)
- - date_published: 2024-05-07T23:58:32.194496+00:00
-
- ## What Are Human Rights? Defined • Youth for Human Rights Campaign
- - [http://www.youthforhumanrights.org.nz](http://www.youthforhumanrights.org.nz)
- - date_published: 2024-09-04T17:54:03.840995+00:00
-
- ## Ombudsman New Zealand
- - [https://www.ombudsman.parliament.nz](https://www.ombudsman.parliament.nz)
- - date_published: 2024-10-29T18:45:24+00:00
-
- ## New Zealand Parliament home page - New Zealand Parliament
- - [https://www.parliament.nz](https://www.parliament.nz)
- - date_published: 2024-10-28T08:36:45.103977+00:00
-
- ## Browne School of Art | Auckland, NZ
- - [https://www.browne.school.nz](https://www.browne.school.nz)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Homepage - Scots College
- - [http://www.scotscollege.school.nz](http://www.scotscollege.school.nz)
- - date_published: 2024-09-05T17:24:41.898398+00:00
-
- ## Home – St Mark's School
- - [http://www.st-marks.school.nz](http://www.st-marks.school.nz)
- - date_published: 2024-09-05T02:33:51+00:00
-
- ## Home - Altcoin Observer
- - [https://altcoin.observer](https://altcoin.observer)
- - date_published: 2024-07-29T14:01:43+00:00
-
- ## AskHistorians Archive Observer
- - [https://archive.observer](https://archive.observer)
- - date_published: 2023-07-23T18:04:45+00:00
-
- ## corru.observer
- - [https://corru.observer](https://corru.observer)
- - date_published: 2024-06-23T18:33:11.915513+00:00
-
- ## Ian's blog | entropy.observer
- - [https://blog.entropy.observer](https://blog.entropy.observer)
- - date_published: 2023-10-25T20:51:56.441202+00:00
-
- ## The World's Largest Exploit & Vulnerability Database
- - [https://exploit.observer](https://exploit.observer)
- - date_published: 2024-04-30T05:57:32.690426+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://akkoma.fediverse.observer](https://akkoma.fediverse.observer)
- - date_published: 2024-07-18T05:38:29.648190+00:00
 

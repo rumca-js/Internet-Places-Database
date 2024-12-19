@@ -1,3 +1,89 @@
+ ## Popdose
+ - [http://popdose.com](http://popdose.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Popdust
+ - [https://popdust.com](https://popdust.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## The Popehat Report
+ - [https://popehat.com](https://popehat.com)
+ - date_published: 2024-01-27T00:00:00+00:00
+
+ ## Pope Kim
+ - [http://www.popekim.com](http://www.popekim.com)
+ - date_published: 2019-10-26T22:26:45+00:00
+
+ ## popey.com - a geek through and through
+ - [https://popey.com](https://popey.com)
+ - date_published: 2023-10-25T08:47:37.216100+00:00
+ - tags: ['personal']
+
+ ## Tranquil Escapes: Luxury Resort & Hotel Haven
+ - [https://popeyesbeachresort.com](https://popeyesbeachresort.com)
+ - date_published: 2024-12-13T03:33:00.773348+00:00
+
+ ## Einoriene & Qedmeliyev Company
+ - [https://pophiphop.com](https://pophiphop.com)
+ - date_published: 2024-06-12T18:55:01+00:00
+
+ ## Takipçi Satın Al - %100 Türk, Gerçek ve Ucuz Takipçi | PopiGram
+ - [https://popigram.com](https://popigram.com)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Poplar Ridge Farm | Organic CSA | Charlotte, NC
+ - [http://www.poplarridgefarmnc.com](http://www.poplarridgefarmnc.com)
+ - date_published: 2024-05-04T14:20:10.871680+00:00
+
+ ## Home, PopMatters
+ - [https://popmatters.com](https://popmatters.com)
+ - date_published: 2024-05-07T14:44:51.794404+00:00
+
+ ## Uros Popovic
+ - [https://popovicu.com](https://popovicu.com)
+ - date_published: 2023-10-25T08:58:16.378232+00:00
+ - tags: ['personal']
+
+ ## Poppendieck.LLC
+ - [http://www.poppendieck.com](http://www.poppendieck.com)
+ - date_published: 2022-07-13T05:27:21+00:00
+
+ ## POP POP RETN
+ - [https://poppopretn.com](https://poppopretn.com)
+ - date_published: 2023-08-16T00:00:00+00:00
+
+ ## Poppy Images
+ - [https://www.poppyimages.com](https://www.poppyimages.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Poppylist Shop
+ - [https://shop.poppylist.com](https://shop.poppylist.com)
+ - date_published: 2024-10-30T11:57:28.375878+00:00
+
+ ## Poppylist — Your baby registry, simplified.
+ - [https://www.poppylist.com](https://www.poppylist.com)
+ - date_published: 2024-06-19T19:27:30.745710+00:00
+
+ ## Poppy O'Possum
+ - [http://www.poppy-opossum.com](http://www.poppy-opossum.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## The Official Poppy Playtime Store
+ - [https://poppyplaytime.com](https://poppyplaytime.com)
+ - date_published: 2024-10-25T17:33:28.464196+00:00
+
+ ## The Official Poppy Playtime Store
+ - [http://store.poppyplaytime.com](http://store.poppyplaytime.com)
+ - date_published: 2024-10-25T17:33:30.984608+00:00
+
+ ## PoppySphere
+ - [https://poppysphere.com](https://poppysphere.com)
+ - date_published: 2024-06-19T01:35:34.822688+00:00
+
+ ## Poppytalk archive
+ - [http://archive.poppytalk.com](http://archive.poppytalk.com)
+ - date_published: 2022-12-03T00:49:00+00:00
+
  ## Poppy Tooker
  - [http://www.poppytooker.com](http://www.poppytooker.com)
  - date_published: 2024-07-04T04:53:53.424926+00:00
@@ -3939,88 +4025,4 @@
  ## Joel on Software
  - [https://149366100.v2.pressablecdn.com](https://149366100.v2.pressablecdn.com)
  - date_published: 2024-03-12T00:00:00+00:00
-
- ## On my Om
- - [https://149366103.v2.pressablecdn.com](https://149366103.v2.pressablecdn.com)
- - date_published: 2024-04-30T06:58:05.658405+00:00
-
- ## John Battelle's Search Blog Thoughts on the intersection of tech, business, and society.
- - [https://149367118.v2.pressablecdn.com](https://149367118.v2.pressablecdn.com)
- - date_published: 2024-06-15T18:53:58+00:00
-
- ## Bartending License Help: Simple, Practical Bartending License Guides
- - [https://149374258.v2.pressablecdn.com](https://149374258.v2.pressablecdn.com)
- - date_published: 2021-01-05T16:47:58+00:00
-
- ## Stratechery by Ben Thompson
- - [https://149384716.v2.pressablecdn.com](https://149384716.v2.pressablecdn.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Home Page - AAP
- - [https://149389299.v2.pressablecdn.com](https://149389299.v2.pressablecdn.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Dixie WordPress Theme – A Powerful Podcasting Theme
- - [https://149392490.v2.pressablecdn.com](https://149392490.v2.pressablecdn.com)
- - date_published: 2024-10-14T14:28:16+00:00
-
- ## Naval
- - [https://149396263.v2.pressablecdn.com](https://149396263.v2.pressablecdn.com)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## Schneier on Security
- - [https://149400697.v2.pressablecdn.com](https://149400697.v2.pressablecdn.com)
- - date_published: 2024-05-12T06:59:14.707738+00:00
-
- ## smitten kitchen
- - [https://149401384.v2.pressablecdn.com](https://149401384.v2.pressablecdn.com)
- - date_published: 2024-06-29T10:04:09+00:00
-
- ## Tucows Domains.
- - [https://149402028.v2.pressablecdn.com](https://149402028.v2.pressablecdn.com)
- - date_published: 2024-06-19T17:08:27+00:00
-
- ## Letters of Note
- - [https://149406270.v2.pressablecdn.com](https://149406270.v2.pressablecdn.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Home
- - [https://149422846.v2.pressablecdn.com](https://149422846.v2.pressablecdn.com)
- - date_published: 2024-06-24T06:04:11.038121+00:00
-
- ## Six Colors
- - [https://149426355.v2.pressablecdn.com](https://149426355.v2.pressablecdn.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Hover Blog
- - [https://149434221.v2.pressablecdn.com](https://149434221.v2.pressablecdn.com)
- - date_published: 2024-07-04T02:24:58+00:00
-
- ## Inedo
- - [https://149449379.v2.pressablecdn.com](https://149449379.v2.pressablecdn.com)
- - date_published: 2024-07-10T01:50:14+00:00
-
- ## monkbent.net – A personal blog by Ben Thompson
- - [https://149449380.v2.pressablecdn.com](https://149449380.v2.pressablecdn.com)
- - date_published: 2024-06-26T14:11:07+00:00
-
- ## Home
- - [https://149455152.v2.pressablecdn.com](https://149455152.v2.pressablecdn.com)
- - date_published: 2024-06-30T09:38:09.592091+00:00
-
- ## FHWW
- - [https://149462372.v2.pressablecdn.com](https://149462372.v2.pressablecdn.com)
- - date_published: 2024-06-23T12:25:43+00:00
-
- ## Enom - Reseller Platform for Domains, Email, and SSL
- - [https://149463845.v2.pressablecdn.com](https://149463845.v2.pressablecdn.com)
- - date_published: 2024-06-16T15:20:21+00:00
-
- ## Hi, I'm David Perell.
- - [https://149483024.v2.pressablecdn.com](https://149483024.v2.pressablecdn.com)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Enom - Reseller Platform for Domains, Email, and SSL
- - [https://149489093.v2.pressablecdn.com](https://149489093.v2.pressablecdn.com)
- - date_published: 2024-10-11T10:54:19.001913+00:00
 

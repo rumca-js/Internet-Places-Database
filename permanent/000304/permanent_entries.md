@@ -1,3 +1,103 @@
+ ## ArcGIS Web Application
+ - [https://geomine.osmre.gov](https://geomine.osmre.gov)
+ - date_published: 2021-10-22T21:33:28+00:00
+
+ ## OSM
+ - [https://sscr.osmre.gov](https://sscr.osmre.gov)
+ - date_published: 2024-10-15T07:21:35.316777+00:00
+
+ ## Home | Office of Surface Mining Reclamation and Enforcement
+ - [https://www.osmre.gov](https://www.osmre.gov)
+ - date_published: 2024-06-14T21:20:00+00:00
+
+ ## Home | U.S. DOE Office of Science (SC)
+ - [https://science.osti.gov](https://science.osti.gov)
+ - date_published: 2011-02-08T09:19:00+00:00
+
+ ## Milestone Documents
+ - [https://www.ourdocuments.gov](https://www.ourdocuments.gov)
+ - date_published: 2021-04-09T16:12:47+00:00
+
+ ## Welcome to the Office of the Inspector General | Office of the Inspector General
+ - [https://cpboig.oversight.gov](https://cpboig.oversight.gov)
+ - date_published: 2024-07-03T00:18:53+00:00
+
+ ## Home | Nuclear Regulatory Commission Defense Nuclear Facilities Safety Board OIG
+ - [https://nrcoig.oversight.gov](https://nrcoig.oversight.gov)
+ - date_published: 2024-08-09T15:31:55+00:00
+
+ ## Oversight.gov | All Federal Inspector General Reports In One Place
+ - [https://oversight.gov](https://oversight.gov)
+ - date_published: 2024-07-03T13:35:03.543065+00:00
+
+ ## Pandemic Oversight - Home | Pandemic Oversight
+ - [https://pandemic.oversight.gov](https://pandemic.oversight.gov)
+ - date_published: 2024-05-08T02:59:45.567726+00:00
+
+ ## Home | U.S. Department of Agriculture OIG
+ - [https://usdaoig.oversight.gov](https://usdaoig.oversight.gov)
+ - date_published: 2024-06-16T22:20:58+00:00
+
+ ## PA Dept. of Agriculture
+ - [https://agriculture.pa.gov](https://agriculture.pa.gov)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Employment
+ - [https://employment.pa.gov](https://employment.pa.gov)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Home - PAyback
+ - [https://payback.pa.gov](https://payback.pa.gov)
+ - date_published: 2024-09-18T20:35:59.153685+00:00
+
+ ## PennWATCH
+ - [http://pennwatch.pa.gov](http://pennwatch.pa.gov)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Council on the Arts | Commonwealth of Pennsylvania
+ - [https://www.arts.pa.gov](https://www.arts.pa.gov)
+ - date_published: 2024-12-15T19:02:28+00:00
+
+ ## DCNR Homepage
+ - [https://www.dcnr.pa.gov](https://www.dcnr.pa.gov)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Home | Department of General Services
+ - [http://www.dgs.pa.gov](http://www.dgs.pa.gov)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Home
+ - [https://www.dmva.pa.gov](https://www.dmva.pa.gov)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Pennsylvania Department of Health programs, services and health information
+ - [https://www.health.pa.gov](https://www.health.pa.gov)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Home | Commonwealth of Pennsylvania
+ - [https://www.pa.gov](https://www.pa.gov)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Sure Portal Home Page
+ - [https://www.pavoterservices.pa.gov](https://www.pavoterservices.pa.gov)
+ - date_published: 2024-09-16T18:21:51.876814+00:00
+
+ ## Game Commission
+ - [https://www.pgc.pa.gov](https://www.pgc.pa.gov)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Official Website of the Center for Rural Pennsylvania
+ - [https://www.rural.pa.gov](https://www.rural.pa.gov)
+ - date_published: 2024-06-29T14:51:49.211398+00:00
+
+ ## Pennsylvania Department of the Auditor General
+ - [http://www.paauditor.gov](http://www.paauditor.gov)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Public Access to Court Electronic Records | PACER: Federal Court Records
+ - [http://www.pacer.gov](http://www.pacer.gov)
+ - date_published: 2024-04-14T00:00:00+00:00
+
  ## Pandemic Oversight - Home | Pandemic Oversight
  - [https://pandemicoversight.gov](https://pandemicoversight.gov)
  - date_published: 2024-07-03T14:11:32+00:00
@@ -3903,104 +4003,4 @@
  ## Home | Virginia Department of Transportation
  - [https://www.vdot.virginia.gov](https://www.vdot.virginia.gov)
  - date_published: 2024-07-11T14:14:09+00:00
-
- ## Home
- - [https://www.virginia.gov](https://www.virginia.gov)
- - date_published: 2024-07-02T13:35:10+00:00
-
- ## Home | U.S. Capitol - Visitor Center
- - [https://www.visitthecapitol.gov](https://www.visitthecapitol.gov)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Editorials on Voice of America
- - [https://editorials.voa.gov](https://editorials.voa.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## We're sorry - something went wrong. 403
- - [https://search.vote.gov](https://search.vote.gov)
- - date_published: 2024-07-03T13:10:34.294778+00:00
-
- ## Check Voter Registration Deadlines and Laws in Your State
- - [https://vote.gov](https://vote.gov)
- - date_published: 2024-05-08T02:44:56.249857+00:00
-
- ## Clay County BEC
- - [https://voteclaycountymo.gov](https://voteclaycountymo.gov)
- - date_published: 2024-04-03T05:36:00+00:00
-
- ## Welcome to VoteTexas.gov
- - [https://votetexas.gov](https://votetexas.gov)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Home | WA.gov
- - [http://access.wa.gov](http://access.wa.gov)
- - date_published: 2024-08-19T03:34:55.018460+00:00
-
- ## Washington State Department of Agriculture
- - [https://agr.wa.gov](https://agr.wa.gov)
- - date_published: 2024-06-15T17:44:47.613599+00:00
-
- ## Washington State | Office of the Attorney General
- - [https://atg.wa.gov](https://atg.wa.gov)
- - date_published: 2023-10-25T19:27:08.100270+00:00
-
- ## My Site - /
- - [https://cms.agr.wa.gov](https://cms.agr.wa.gov)
- - date_published: 2024-09-18T20:23:20.986558+00:00
-
- ## Home - Washington State Department of Ecology
- - [https://ecology.wa.gov](https://ecology.wa.gov)
- - date_published: 2024-06-26T23:19:58.790857+00:00
-
- ## ESDWAGOV - Home
- - [https://esd.wa.gov](https://esd.wa.gov)
- - date_published: 2024-06-15T18:35:21.896535+00:00
-
- ## Fiscal Notes Public Search
- - [https://fnspublic.ofm.wa.gov](https://fnspublic.ofm.wa.gov)
- - date_published: 2024-06-28T22:37:05.676801+00:00
-
- ## Home | Governor Jay Inslee
- - [https://governor.wa.gov](https://governor.wa.gov)
- - date_published: 2024-06-28T01:38:46+00:00
-
- ## Legislature Home
- - [https://leg.wa.gov](https://leg.wa.gov)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Home - Washington State's Paid Family and Medical Leave
- - [https://paidleave.wa.gov](https://paidleave.wa.gov)
- - date_published: 2024-09-18T22:14:34.571869+00:00
-
- ## April 23, 2024 Special Election Results
- - [https://results.vote.wa.gov](https://results.vote.wa.gov)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Washington State Ferries Vehicle Reservations System (WSF VRS)
- - [https://secureapps.wsdot.wa.gov](https://secureapps.wsdot.wa.gov)
- - date_published: 2024-06-28T12:56:13.872465+00:00
-
- ## Home - Washington Senate Democrats
- - [https://senatedemocrats.wa.gov](https://senatedemocrats.wa.gov)
- - date_published: 2023-10-25T19:27:05.211655+00:00
-
- ## Home | Office of the Washington State Treasurer
- - [https://tre.wa.gov](https://tre.wa.gov)
- - date_published: 2024-07-10T09:29:46.368442+00:00
-
- ## Vaccinate WA: COVID-19 Vaccine Availability
- - [http://vaccinelocator.doh.wa.gov](http://vaccinelocator.doh.wa.gov)
- - date_published: 2023-12-07T04:39:23+00:00
-
- ## Home | WA.gov
- - [http://wa.gov](http://wa.gov)
- - date_published: 2024-06-18T09:31:27.831306+00:00
-
- ## Washington Department of Fish and Wildlife
- - [https://wdfw.wa.gov](https://wdfw.wa.gov)
- - date_published: 2024-06-15T03:32:44+00:00
-
- ## Washington State Department of Transportation
- - [https://wsdot.wa.gov](https://wsdot.wa.gov)
- - date_published: 2024-05-06T22:48:28.762977+00:00
 

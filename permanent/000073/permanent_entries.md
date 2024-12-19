@@ -1,3 +1,44 @@
+ ## Calendar Customs | A guide to British Calendar Customs and local traditions
+ - [http://calendarcustoms.com](http://calendarcustoms.com)
+ - date_published: 2024-08-08T03:28:10.606868+00:00
+
+ ## CalendarHome.com
+ - [http://calendarhome.com](http://calendarhome.com)
+ - date_published: 2024-06-27T09:28:50+00:00
+
+ ## Calendario de Aguas Abiertas 2024 ~ Todas las Travesías a Nado en España
+ - [https://calendarioaguasabiertas.com](https://calendarioaguasabiertas.com)
+ - date_published: 2024-05-06T12:49:33.191018+00:00
+
+ ## Todas las travesías 2024, en Gráficas |
+  Calendario Aguas Abiertas
+ - [https://graficas.calendarioaguasabiertas.com](https://graficas.calendarioaguasabiertas.com)
+ - date_published: 2024-06-22T22:21:48.095057+00:00
+
+ ## Mapa de Travesías: Calendario de Aguas Abiertas 2024
+ - [https://mapa.calendarioaguasabiertas.com](https://mapa.calendarioaguasabiertas.com)
+ - date_published: 2024-06-22T22:21:46.958407+00:00
+
+ ## CalendarWiz | Shared calendars for businesses, communities, and organizations.
+ - [http://www.calendarwiz.com](http://www.calendarwiz.com)
+ - date_published: 2024-10-20T07:04:52.526038+00:00
+
+ ## Free Online Appointment Scheduling Software | Calendly
+ - [https://calendly.com](https://calendly.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Let's make meetings better together | Calendly Careers
+ - [https://careers.calendly.com](https://careers.calendly.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Calendly Community | Community
+ - [https://community.calendly.com](https://community.calendly.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Calendly Developer
+ - [https://developer.calendly.com](https://developer.calendly.com)
+ - date_published: 2024-06-27T19:56:29+00:00
+
  ## Help Center
  - [https://help.calendly.com](https://help.calendly.com)
  - date_published: 2024-09-09T22:17:19.335096+00:00
@@ -3988,44 +4029,4 @@
  ## Home | Car Design News
  - [http://cardesignnews.com](http://cardesignnews.com)
  - date_published: 2024-09-14T00:00:00+00:00
-
- ## CardFlight: Payment acceptance solutions for small businesses
- - [https://cardflight.com](https://cardflight.com)
- - date_published: 2024-12-11T16:24:53+00:00
-
- ## Kopp's Frozen Custard - Gift Cards
- - [https://kopps.cardfoundry.com](https://kopps.cardfoundry.com)
- - date_published: 2024-09-17T21:20:14.775780+00:00
-
- ## Card Gamer - Card Game News & Reviews
- - [https://cardgamer.com](https://cardgamer.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Cardhouse Unsure Disconnected Disassociated Flailing Systems.
- - [http://www.cardhouse.com](http://www.cardhouse.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## a Pittsburgh Panthers community
- - [https://www.cardiachill.com](https://www.cardiachill.com)
- - date_published: 2024-06-29T01:43:13.612126+00:00
-
- ## Home - Cardi Gallery
- - [https://cardigallery.com](https://cardigallery.com)
- - date_published: 2024-07-04T01:52:52.002767+00:00
-
- ## Cardina | Support automation that's actually intelligent
- - [https://cardina.com](https://cardina.com)
- - date_published: 2024-08-24T00:02:27+00:00
-
- ## Attention Required! | Cloudflare
- - [https://centinelapi.cardinalcommerce.com](https://centinelapi.cardinalcommerce.com)
- - date_published: 2024-05-01T05:27:41.562967+00:00
-
- ## Attention Required! | Cloudflare
- - [https://centinelapistag.cardinalcommerce.com](https://centinelapistag.cardinalcommerce.com)
- - date_published: 2024-09-27T08:03:24.685317+00:00
-
- ## Attention Required! | Cloudflare
- - [https://geostag.cardinalcommerce.com](https://geostag.cardinalcommerce.com)
- - date_published: 2024-09-27T08:06:08.580295+00:00
 

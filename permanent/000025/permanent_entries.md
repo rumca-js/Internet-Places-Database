@@ -1,3 +1,27 @@
+ ## Revolt - Find Your Community
+ - [https://revolt.chat](https://revolt.chat)
+ - date_published: 2023-10-25T12:15:05.032357+00:00
+
+ ## Revolt Support
+ - [https://support.revolt.chat](https://support.revolt.chat)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Weblate
+ - [https://translate.revolt.chat](https://translate.revolt.chat)
+ - date_published: 2024-09-05T23:40:52.442842+00:00
+
+ ## Rival
+ - [https://us.rival.chat](https://us.rival.chat)
+ - date_published: 2024-07-09T20:48:49+00:00
+
+ ## Rocket.Chat Cloud
+ - [https://cloud.rocket.chat](https://cloud.rocket.chat)
+ - date_published: 2024-07-17T22:55:25.991464+00:00
+
+ ## Rocket.Chat: Kommunikationsplattform, der Sie voll und ganz vertrauen können
+ - [https://de.rocket.chat](https://de.rocket.chat)
+ - date_published: 2024-05-13T00:00:00+00:00
+
  ## Rocket.Chat Developer | Rocket.Chat Developer
  - [https://developer.rocket.chat](https://developer.rocket.chat)
  - date_published: 2024-04-18T00:00:00+00:00
@@ -294,6 +318,10 @@
  ## BICICI – La Banque en toute Confiance
  - [https://www.bicici.ci](https://www.bicici.ci)
  - date_published: 2024-09-11T18:11:00.584034+00:00
+
+ ## Paul Blasucci's Weblog
+ - [https://paul.blasuc.ci](https://paul.blasuc.ci)
+ - date_published: 2024-12-14T09:34:30+00:00
 
  ## buc.ci
  - [https://buc.ci](https://buc.ci)
@@ -3981,32 +4009,4 @@
  ## Prefect Cloud
  - [https://app.prefect.cloud](https://app.prefect.cloud)
  - date_published: 2024-06-16T20:07:22.762880+00:00
-
- ## Data Bunker Login
- - [https://protected.privacybunker.cloud](https://protected.privacybunker.cloud)
- - date_published: 2024-06-25T22:44:30.179795+00:00
-
- ## Veterinary Software | PIMS | Provet Cloud
- - [https://www.provet.cloud](https://www.provet.cloud)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Strona główna - Proxi.cloud
- - [https://proxi.cloud](https://proxi.cloud)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## commit.pup.cloud
- - [https://commit.pup.cloud](https://commit.pup.cloud)
- - date_published: 2024-07-08T08:48:23.983656+00:00
-
- ## Genesys Cloud
- - [https://apps.cac1.pure.cloud](https://apps.cac1.pure.cloud)
- - date_published: 2023-11-06T16:26:07+00:00
-
- ## Genesys Cloud
- - [https://apps.euw2.pure.cloud](https://apps.euw2.pure.cloud)
- - date_published: 2023-11-06T16:26:07+00:00
-
- ## Genesys Cloud
- - [https://apps.usw2.pure.cloud](https://apps.usw2.pure.cloud)
- - date_published: 2023-11-06T16:26:07+00:00
 

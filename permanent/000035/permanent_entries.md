@@ -1,3 +1,35 @@
+ ## OneGate
+ - [https://auladigital.javerianacali.edu.co](https://auladigital.javerianacali.edu.co)
+ - date_published: 2024-06-12T11:02:02.548800+00:00
+
+ ## Consultoría | Pontificia Universidad Javeriana, Cali
+ - [https://consultoria.javerianacali.edu.co](https://consultoria.javerianacali.edu.co)
+ - date_published: 2024-06-12T11:02:24.778922+00:00
+
+ ## Inicio
+ - [https://cultural.javerianacali.edu.co](https://cultural.javerianacali.edu.co)
+ - date_published: 2019-12-19T13:50:00+00:00
+
+ ## Inicio de sesión - ujaveriana
+ - [https://educacioncontinua.javerianacali.edu.co](https://educacioncontinua.javerianacali.edu.co)
+ - date_published: 2024-09-11T16:57:31.162135+00:00
+
+ ## Inicio
+ - [https://emisora.javerianacali.edu.co](https://emisora.javerianacali.edu.co)
+ - date_published: 2024-06-12T11:02:07.339589+00:00
+
+ ## Home | Eventos Javeriana Cali
+ - [https://eventos.javerianacali.edu.co](https://eventos.javerianacali.edu.co)
+ - date_published: 2024-06-12T11:02:04.564915+00:00
+
+ ## Sign in to your account
+ - [https://forja.javerianacali.edu.co](https://forja.javerianacali.edu.co)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Inicio
+ - [https://javerianacali.edu.co](https://javerianacali.edu.co)
+ - date_published: 2019-12-19T13:50:00+00:00
+
  ## Página de inicio del servicio de asistencia :: Pontificia Universidad Javeriana, Cali
  - [https://mesadeservicio.javerianacali.edu.co](https://mesadeservicio.javerianacali.edu.co)
  - date_published: 2024-12-09T19:09:30.765749+00:00
@@ -4035,36 +4067,4 @@
  ## Alta Consejería De Paz, Víctimas Y Reconciliación | Secretaría General - Alcaldía Mayor de Bogotá
  - [https://victimasbogota.gov.co](https://victimasbogota.gov.co)
  - date_published: 2024-06-11T23:18:22.351328+00:00
-
- ## Inicio | Ventanilla única de comercio exterior
- - [https://vuce.gov.co](https://vuce.gov.co)
- - date_published: 2024-06-12T02:57:22.506320+00:00
-
- ## Formalización empresas | Ventanilla Única Empresarial - VUE
- - [https://vue.gov.co](https://vue.gov.co)
- - date_published: 2024-06-12T02:51:26.392699+00:00
-
- ## Gov.co - CDN
- - [https://cdn.www.gov.co](https://cdn.www.gov.co)
- - date_published: 2023-12-22T02:06:04+00:00
-
- ## Más de 78.000 trámites del Gobierno de Colombia | GOV.CO
- - [https://www.gov.co](https://www.gov.co)
- - date_published: 2023-12-22T05:00:41+00:00
-
- ## Yo Aprendo Turismo
- - [https://www.yoaprendoturismo.gov.co](https://www.yoaprendoturismo.gov.co)
- - date_published: 2024-06-11T23:05:40.402305+00:00
-
- ## Inicio | Comando General de las Fuerzas Militares de Colombia
- - [https://www.cgfm.mil.co](https://www.cgfm.mil.co)
- - date_published: 2024-09-10T08:35:43+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.ejercito.mil.co](https://www.ejercito.mil.co)
- - date_published: 2024-09-10T11:19:15.783223+00:00
-
- ## inicio | Fuerza Aérea Colombiana
- - [https://www.fac.mil.co](https://www.fac.mil.co)
- - date_published: 2024-09-10T11:19:33.636971+00:00
 

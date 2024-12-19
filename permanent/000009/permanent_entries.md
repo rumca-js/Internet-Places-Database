@@ -1,3 +1,15 @@
+ ## GAMS: Geisteswissenschaftliches Asset Management System
+ - [https://gams.uni-graz.at](https://gams.uni-graz.at)
+ - date_published: 2024-06-29T10:14:15.281283+00:00
+
+ ## Universität Graz
+ - [http://www.uni-graz.at](http://www.uni-graz.at)
+ - date_published: 2024-07-02T06:04:24.451833+00:00
+
+ ## Karriere-Beratung und Events für Studierende
+ - [http://www.uniport.at](http://www.uniport.at)
+ - date_published: 2024-10-14T23:56:48.595846+00:00
+
  ## Department of Computer Science | Universität Salzburg
  - [https://cs.uni-salzburg.at](https://cs.uni-salzburg.at)
  - date_published: 2024-08-19T17:55:52.709732+00:00
@@ -4005,16 +4017,4 @@
  ## Farm Machinery & Equipment - Irrigation, Pumps & Tractors - farmmachinerysales.com.au
  - [https://www.farmmachinerysales.com.au](https://www.farmmachinerysales.com.au)
  - date_published: 2024-09-26T17:30:47.408798+00:00
-
- ## Agricultural & rural farm news | Farm Online | ACT
- - [https://www.farmonline.com.au](https://www.farmonline.com.au)
- - date_published: 2024-07-09T20:52:46+00:00
-
- ## Weather - Australia 7 day forecasts and weather radar - FarmOnline Weather - www.farmonlineweather.com.au
- - [https://www.farmonlineweather.com.au](https://www.farmonlineweather.com.au)
- - date_published: 2024-07-09T20:52:42.717317+00:00
-
- ## Agricultural & rural farm news | Farm Weekly | WA
- - [https://www.farmweekly.com.au](https://www.farmweekly.com.au)
- - date_published: 2024-07-09T20:52:57+00:00
 

@@ -1,3 +1,43 @@
+ ## Raspberry Pi Python Adventures
+ - [http://raspberry-python.blogspot.com](http://raspberry-python.blogspot.com)
+ - date_published: 2024-06-20T04:44:30+00:00
+
+ ## raspodie: vita e pensieri di rasputin
+ - [http://raspodie.blogspot.com](http://raspodie.blogspot.com)
+ - date_published: 2024-09-01T22:54:36+00:00
+
+ ## Rassilon's Matrix
+ - [http://rassilonsmatrix.blogspot.com](http://rassilonsmatrix.blogspot.com)
+ - date_published: 2024-08-12T10:29:34+00:00
+
+ ## Rassles
+ - [http://rassles.blogspot.com](http://rassles.blogspot.com)
+ - date_published: 2024-03-13T17:49:31+00:00
+
+ ## Rastî
+ - [http://rastibini.blogspot.com](http://rastibini.blogspot.com)
+ - date_published: 2024-05-24T09:33:59+00:00
+
+ ## RATBOY69
+ - [http://ratb0y69.blogspot.com](http://ratb0y69.blogspot.com)
+ - date_published: 2024-12-10T10:45:43+00:00
+
+ ## RatBoy - an online little magazine
+ - [http://ratboyxx.blogspot.com](http://ratboyxx.blogspot.com)
+ - date_published: 2024-09-05T19:21:00+00:00
+
+ ## Rate Your Students
+ - [http://rateyourstudents.blogspot.com](http://rateyourstudents.blogspot.com)
+ - date_published: 2024-07-01T10:49:25+00:00
+
+ ## Rather Gamey
+ - [https://rathergamey.blogspot.com](https://rathergamey.blogspot.com)
+ - date_published: 2023-04-26T00:00:00+00:00
+
+ ## Rathstar's Ramblings
+ - [http://rathstarramblings.blogspot.com](http://rathstarramblings.blogspot.com)
+ - date_published: 2024-06-11T03:07:07+00:00
+
  ## Rath-Torhan Craftworld
  - [http://rath-torhan.blogspot.com](http://rath-torhan.blogspot.com)
  - date_published: 2024-10-20T04:58:54+00:00
@@ -3970,44 +4010,4 @@
  ## Spazio Sacro
  - [https://spaziosacroaltaredibrigida.blogspot.com](https://spaziosacroaltaredibrigida.blogspot.com)
  - date_published: 2024-07-04T06:34:03+00:00
-
- ## Speaking is Overrated
- - [http://speakingisoverrated.blogspot.com](http://speakingisoverrated.blogspot.com)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## speaking of ashes
- - [http://speakingofashes.blogspot.com](http://speakingofashes.blogspot.com)
- - date_published: 2024-03-07T21:26:55+00:00
-
- ## Spear of Russ
- - [http://spearofruss.blogspot.com](http://spearofruss.blogspot.com)
- - date_published: 2024-08-28T05:01:36+00:00
-
- ## PHEKKWITZ AHOY!!!!!!!!!
- - [http://specificgravy.blogspot.com](http://specificgravy.blogspot.com)
- - date_published: 2024-10-21T16:25:50.480313+00:00
-
- ## Specimen Years
- - [http://specimenyears.blogspot.com](http://specimenyears.blogspot.com)
- - date_published: 2024-03-06T08:35:25+00:00
-
- ## Spectral Holes. A blog on cognitive radio
- - [http://spectralholes.blogspot.com](http://spectralholes.blogspot.com)
- - date_published: 2024-02-08T13:48:53+00:00
-
- ## Spectroscope
- - [https://spectroscope.blogspot.com](https://spectroscope.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## Michael Spector's Blog
- - [http://spektom.blogspot.com](http://spektom.blogspot.com)
- - date_published: 2024-05-24T09:35:06+00:00
-
- ## Spell Card!
- - [http://spellcard.blogspot.com](http://spellcard.blogspot.com)
- - date_published: 2024-07-08T08:08:57+00:00
-
- ## Spellscape Miniatures
- - [http://spellscape.blogspot.com](http://spellscape.blogspot.com)
- - date_published: 2024-07-03T02:02:03+00:00
 

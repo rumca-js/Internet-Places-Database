@@ -1,3 +1,87 @@
+ ## TALIA BECK
+ - [http://taliabeck.com](http://taliabeck.com)
+ - date_published: 2024-08-07T16:22:40.798941+00:00
+
+ ## City, University of London | City, University of London
+ - [https://city.rl.talis.com](https://city.rl.talis.com)
+ - date_published: 2024-06-17T17:48:13.104252+00:00
+
+ ## Home
+ - [https://talis.com](https://talis.com)
+ - date_published: 2024-07-07T19:31:11+00:00
+
+ ## University of Alberta | University of Alberta
+ - [https://ualberta.rl.ca.talis.com](https://ualberta.rl.ca.talis.com)
+ - date_published: 2024-07-21T09:08:47.456498+00:00
+
+ ## Welcome to Talisman Island
+ - [https://talismanisland.com](https://talismanisland.com)
+ - date_published: 2024-07-02T11:35:25.502134+00:00
+
+ ## Talk Android - Google Android News, Guides, and Reviews
+ - [https://talkandroid.com](https://talkandroid.com)
+ - date_published: 2023-12-12T15:43:09+00:00
+
+ ## Talk Anywhere
+ - [https://talkanywhere.com](https://talkanywhere.com)
+ - date_published: 2024-09-18T21:18:33.297683+00:00
+
+ ## Talkative CDN
+ - [https://talkative-cdn.com](https://talkative-cdn.com)
+ - date_published: 2021-11-08T17:39:50+00:00
+
+ ## TalkCarswell - Talk with me, we discuss
+ - [https://talkcarswell.com](https://talkcarswell.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## TalkChess.com - Index page
+ - [https://talkchess.com](https://talkchess.com)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## TalkDeath
+ - [https://talkdeath.com](https://talkdeath.com)
+ - date_published: 2024-05-07T15:19:15.314204+00:00
+
+ ## Talkdesk Academy
+ - [https://academy.talkdesk.com](https://academy.talkdesk.com)
+ - date_published: 2024-10-31T12:33:02.829720+00:00
+
+ ## Cloud Contact Center Platform | CCaaS | AI-Powered
+ - [https://cms.talkdesk.com](https://cms.talkdesk.com)
+ - date_published: 2024-10-31T12:32:55.103571+00:00
+
+ ## Talkdesk Engineering
+ - [https://engineering.talkdesk.com](https://engineering.talkdesk.com)
+ - date_published: 2024-10-31T12:32:48.164370+00:00
+
+ ## Talkdesk Status
+ - [https://status.talkdesk.com](https://status.talkdesk.com)
+ - date_published: 2024-10-31T12:32:11.315738+00:00
+
+ ## Cloud Contact Center Platform | CCaaS | AI-Powered
+ - [https://talkdesk.com](https://talkdesk.com)
+ - date_published: 2024-10-31T12:32:52.146733+00:00
+
+ ## CTI Client
+ - [https://cti-client.talkdeskapp.com](https://cti-client.talkdeskapp.com)
+ - date_published: 2024-06-16T13:17:35.573215+00:00
+
+ ## Vite + React + TS
+ - [https://qa-cdn-talkdesk.talkdeskdev.com](https://qa-cdn-talkdesk.talkdeskdev.com)
+ - date_published: 2023-10-23T13:25:01+00:00
+
+ ## TALKERS magazine - The Bible of Talk Radio and the New Talk Media
+ - [https://talkers.com](https://talkers.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## TV on the Radio | TV on the Radio
+ - [https://ahekw.talkfrom.com](https://ahekw.talkfrom.com)
+ - date_published: 2024-06-23T01:37:27.891624+00:00
+
+ ## ForteLabs.co
+ - [https://cjjuw.talkfrom.com](https://cjjuw.talkfrom.com)
+ - date_published: 2024-06-23T01:37:21.410962+00:00
+
  ## Support
  - [https://kofhf.talkfrom.com](https://kofhf.talkfrom.com)
  - date_published: 2024-06-23T01:37:24.645381+00:00
@@ -371,10 +455,6 @@
  - [https://travelclub.tallink.com](https://travelclub.tallink.com)
  - date_published: 2024-10-14T11:34:24.378661+00:00
 
- ## The nicest way to travel across the Baltic Sea - Tallink Silja Line
- - [https://www.tallink.com](https://www.tallink.com)
- - date_published: 2024-06-16T20:35:42.155155+00:00
-
  ## Rõõmusta lähedasi, kingi elamusi!
  - [https://shop.tallinkhotels.com](https://shop.tallinkhotels.com)
  - date_published: 2024-12-16T15:49:27.193234+00:00
@@ -564,10 +644,6 @@
  ## Built to Converge Commerce - TAM Intelliware - Learn More Today!
  - [https://tamintelliware.com](https://tamintelliware.com)
  - date_published: 2024-12-16T16:53:39.987324+00:00
-
- ## Built to Converge Commerce - TAM Intelliware - Learn More Today!
- - [https://www.tamintelliware.com](https://www.tamintelliware.com)
- - date_published: 2024-12-16T16:53:34.399945+00:00
 
  ## Tami Oladipo
  - [https://tamioladipo.com](https://tamioladipo.com)
@@ -852,10 +928,6 @@
  - [https://tourism.tanger.com](https://tourism.tanger.com)
  - date_published: 2024-08-07T18:24:58.093708+00:00
 
- ## Tanger
- - [https://www.tanger.com](https://www.tanger.com)
- - date_published: 2024-08-07T18:24:26.030402+00:00
-
  ## Berita Terkini Hari Ini - TangerangNews.com
  - [https://tangerangnews.com](https://tangerangnews.com)
  - date_published: 2024-10-20T08:44:16.942275+00:00
@@ -1125,7 +1197,7 @@
  - date_published: 2024-07-01T07:38:28.087008+00:00
 
  ## 店铺浏览-淘宝网
- - [http://jiangchen918.taobao.com](http://jiangchen918.taobao.com)
+ - [https://jiangchen918.taobao.com](https://jiangchen918.taobao.com)
  - date_published: 2024-06-27T05:31:03.499672+00:00
 
  ## 聚划算PC
@@ -1163,6 +1235,7 @@
  ## 淘宝网 - 淘！我喜欢
  - [https://scportal.taobao.com](https://scportal.taobao.com)
  - date_published: 2024-07-08T16:58:24.731368+00:00
+ - date_dead_since: 2024-12-18T11:44:14.447316+00:00
 
  ## 首页-XiaoJ工作室-淘宝网
  - [https://shop101626238.world.taobao.com](https://shop101626238.world.taobao.com)
@@ -1235,6 +1308,7 @@
  ## 淘宝搜索
  - [https://s.taobao.com](https://s.taobao.com)
  - date_published: 2024-07-09T10:37:04.660129+00:00
+ - date_dead_since: 2024-12-18T12:04:42.201800+00:00
 
  ## taobao | 淘寶
  - [https://taobao.com](https://taobao.com)
@@ -1254,7 +1328,7 @@
  - date_published: 2024-05-09T04:47:32.089168+00:00
 
  ## 淘豆网 - 壹个拥有海量的学习资料_考试资料题库_在线文档下载平台 - TaoDocs.com
- - [https://www.taodocs.com](https://www.taodocs.com)
+ - [https://taodocs.com](https://taodocs.com)
  - date_published: 2024-10-25T11:23:56+00:00
 
  ## Home
@@ -1295,11 +1369,11 @@
  - date_published: 2024-12-12T18:52:36+00:00
 
  ## Homepage
- - [https://www.taotesting.com](https://www.taotesting.com)
+ - [https://taotesting.com](https://taotesting.com)
  - date_published: 2024-04-16T00:00:00+00:00
 
  ## 桃源新闻网_桃源新闻_主流媒体,党政门户
- - [https://www.taoyuanxian.com](https://www.taoyuanxian.com)
+ - [https://taoyuanxian.com](https://taoyuanxian.com)
  - date_published: 2024-10-21T06:34:51.048654+00:00
 
  ## Tao Zenchi
@@ -1307,7 +1381,7 @@
  - date_published: 2024-06-05T10:01:42+00:00
 
  ## Institutional | TAP Air Portugal
- - [https://www.tapairportugal.com](https://www.tapairportugal.com)
+ - [https://tapairportugal.com](https://tapairportugal.com)
  - date_published: 2024-09-05T15:00:52.573910+00:00
 
  ## Hi, I'm Tapan Desai
@@ -1317,9 +1391,10 @@
  ## Home | Spotlight
  - [http://tapastic.com](http://tapastic.com)
  - date_published: 2024-04-30T00:00:00+00:00
+ - date_dead_since: 2024-12-18T12:18:07.966829+00:00
 
  ## Tapatalk - Free Forum Hosting, Free Forum Mobile App.
- - [https://www.tapatalk.com](https://www.tapatalk.com)
+ - [https://tapatalk.com](https://tapatalk.com)
  - date_published: 2024-05-01T07:46:36.375575+00:00
 
  ## Tapbots
@@ -1327,7 +1402,7 @@
  - date_published: 2023-10-25T17:23:10.980589+00:00
 
  ## The air transport of cargo that best suits you | TAP Air Cargo
- - [https://www.tapcargo.com](https://www.tapcargo.com)
+ - [https://tapcargo.com](https://tapcargo.com)
  - date_published: 2023-11-23T00:00:00+00:00
 
  ## TAP - Ecommerce y soluciones digitales desde 1997
@@ -1335,11 +1410,11 @@
  - date_published: 2024-09-11T01:25:51.329586+00:00
 
  ## O programa para empresas – Poupe em viagens
- - [https://www.tapcorporate.com](https://www.tapcorporate.com)
+ - [https://tapcorporate.com](https://tapcorporate.com)
  - date_published: 2024-09-05T14:59:31.923871+00:00
 
  ## Ayvu
- - [https://www.tapeayvu.com](https://www.tapeayvu.com)
+ - [https://tapeayvu.com](https://tapeayvu.com)
  - date_published: 2023-03-14T11:09:00+00:00
 
  ## Taperssection.com - Index
@@ -1347,7 +1422,7 @@
  - date_published: 2024-08-19T16:35:14+00:00
 
  ## Tapestry
- - [https://www.tapestry.com](https://www.tapestry.com)
+ - [https://tapestry.com](https://tapestry.com)
  - date_published: 2024-09-04T17:20:46.480384+00:00
 
  ## Akiflow affiliate program | Affiliate signup | Akiflowpartners
@@ -1363,7 +1438,7 @@
  - date_published: 2024-12-15T17:08:03.181432+00:00
 
  ## Home - landing page
- - [https://www.tapintoyourbeer.com](https://www.tapintoyourbeer.com)
+ - [https://tapintoyourbeer.com](https://tapintoyourbeer.com)
  - date_published: 2024-10-18T02:02:27.276960+00:00
 
  ## Taplio
@@ -1373,6 +1448,7 @@
  ## Taplio | Help Center
  - [https://support.taplio.com](https://support.taplio.com)
  - date_published: 2024-08-19T04:49:35.271108+00:00
+ - date_dead_since: 2024-12-18T12:23:18.959744+00:00
 
  ## Grow Your Personal Brand On LinkedIn
  - [https://taplio.com](https://taplio.com)
@@ -1412,7 +1488,7 @@
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## Tapreason
- - [https://www.tapreason.com](https://www.tapreason.com)
+ - [https://tapreason.com](https://tapreason.com)
  - date_published: 2024-08-20T04:28:08.314480+00:00
 
  ## Order Online
@@ -1426,6 +1502,7 @@
  ## Taproot Wizards
  - [https://taprootwizards.com](https://taprootwizards.com)
  - date_published: 2024-06-29T14:07:53.116354+00:00
+ - date_dead_since: 2024-12-18T12:24:31.468773+00:00
 
  ## Software Pricing Advisory Services | Pricing Strategy Consultant
  - [https://taprun.com](https://taprun.com)
@@ -1446,11 +1523,11 @@
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Taptap Digital - Intelligence for Marketing
- - [https://www.taptapdigital.com](https://www.taptapdigital.com)
+ - [https://taptapdigital.com](https://taptapdigital.com)
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## Automatically generate transcript, translation and subtitles | Taption
- - [https://www.taption.com](https://www.taption.com)
+ - [https://taption.com](https://taption.com)
  - date_published: 2024-06-17T10:39:57+00:00
 
  ## Digital Trust
@@ -1462,7 +1539,7 @@
  - date_published: 2024-04-22T15:02:21+00:00
 
  ## Coming Soon
- - [http://taqueriaslahacienda.com](http://taqueriaslahacienda.com)
+ - [https://taqueriaslahacienda.com](https://taqueriaslahacienda.com)
  - date_published: 2017-06-30T06:54:49+00:00
 
  ## Tara Barot | life coach - Creating your dream life without hustling
@@ -1470,7 +1547,7 @@
  - date_published: 2023-10-19T00:00:00+00:00
 
  ## Tara Brach - Meditation, Psychologist, Author, Teacher
- - [https://www.tarabrach.com](https://www.tarabrach.com)
+ - [https://tarabrach.com](https://tarabrach.com)
  - date_published: 2024-07-04T00:00:00+00:00
 
  ## Tech-Based Recreation: Gaming, VR, and New-Age Digital Fun
@@ -1495,7 +1572,7 @@
  - tags: ['quentin tarantino']
 
  ## Home - Tara Relays
- - [https://www.tararelays.com](https://www.tararelays.com)
+ - [https://tararelays.com](https://tararelays.com)
  - date_published: 2024-06-17T01:58:25.163783+00:00
 
  ## Tara Sinn
@@ -1503,7 +1580,7 @@
  - date_published: 2024-03-19T23:41:55+00:00
 
  ## NameBright - Domain Expired
- - [http://www.tarasue4u.com](http://www.tarasue4u.com)
+ - [https://tarasue4u.com](https://tarasue4u.com)
  - date_published: 2024-07-13T10:28:39.392359+00:00
 
  ## Tardy Critic
@@ -1515,7 +1592,7 @@
  - date_published: 2022-07-15T04:10:23+00:00
 
  ## Targa Telematics ® - Piattaforma IoT e Soluzioni per Automotive
- - [https://www.targatelematics.com](https://www.targatelematics.com)
+ - [https://targatelematics.com](https://targatelematics.com)
  - date_published: 2024-01-29T00:00:00+00:00
 
  ## Targem Gems Home Page
@@ -1551,7 +1628,7 @@
  - date_published: 2024-07-03T01:51:43.092706+00:00
 
  ## Targeted Oncology - Immunotherapy, Biomarkers, and Cancer Pathways
- - [https://www.targetedonc.com](https://www.targetedonc.com)
+ - [https://targetedonc.com](https://targetedonc.com)
  - date_published: 2024-07-15T03:38:01.985749+00:00
 
  ## Buy Website Traffic - High Quality - Targeted Visitors
@@ -1559,7 +1636,7 @@
  - date_published: 2024-06-23T08:13:51+00:00
 
  ## Buy Website Traffic - High Quality & Real | Targeted Web Traffic
- - [https://www.targetedwebtraffic.com](https://www.targetedwebtraffic.com)
+ - [https://targetedwebtraffic.com](https://targetedwebtraffic.com)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Contact Lenses & Prescription Eyewear from $79
@@ -1571,7 +1648,7 @@
  - date_published: 2024-10-16T17:36:53.034721+00:00
 
  ## New IBM Support Portal | Apptio — an IBM company
- - [http://helpdesk.targetprocess.com](http://helpdesk.targetprocess.com)
+ - [https://helpdesk.targetprocess.com](https://helpdesk.targetprocess.com)
  - date_published: 2024-09-09T11:56:11+00:00
 
  ## Apptio Targetprocess - Apptio
@@ -1603,7 +1680,7 @@
  - date_published: 2024-05-06T17:42:20.671524+00:00
 
  ## a North Carolina Tar Heels community
- - [https://www.tarheelblog.com](https://www.tarheelblog.com)
+ - [https://tarheelblog.com](https://tarheelblog.com)
  - date_published: 2024-06-29T02:00:19.381939+00:00
 
  ## Tarides
@@ -1639,19 +1716,19 @@
  - date_published: 2024-07-24T04:48:06.330545+00:00
 
  ## Taro Modelmaker - Resin plinths and accessories for wargaming
- - [https://www.taromodelmaker.com](https://www.taromodelmaker.com)
+ - [https://taromodelmaker.com](https://taromodelmaker.com)
  - date_published: 2024-10-26T19:42:30.732451+00:00
 
  ## Taron Avagyan
  - [https://taronavagyan.com](https://taronavagyan.com)
- - date_published: 2024-04-29T07:41:06.073734+00:00
+ - date_published: 2024-04-21T19:32:13+00:00
 
  ## Get Your Tarot Reading at Tarot-explained.com ?⭐?
  - [https://www.tarot-explained.com](https://www.tarot-explained.com)
  - date_published: 2024-12-09T10:54:46+00:00
 
  ## Jamestown Tarp Skunks - Home of Jamestown, NY Baseball
- - [http://www.tarpskunks.com](http://www.tarpskunks.com)
+ - [http://tarpskunks.com](http://tarpskunks.com)
  - date_published: 2024-03-20T00:00:00+00:00
 
  ## HOME
@@ -1659,7 +1736,7 @@
  - date_published: 2024-03-20T00:00:00+00:00
 
  ## Tarreo | Videojuegos, Actualidad, Anime y Más
- - [https://www.tarreo.com](https://www.tarreo.com)
+ - [https://tarreo.com](https://tarreo.com)
  - date_published: 2024-10-20T21:41:08.428968+00:00
 
  ## https://mail.tarsnap.com
@@ -1679,11 +1756,11 @@
  - date_published: 2024-02-02T00:00:00+00:00
 
  ## Tartan Designer - Tartan Maker - Tartan Background pattern generator
- - [http://www.tartanmaker.com](http://www.tartanmaker.com)
+ - [https://tartanmaker.com](https://tartanmaker.com)
  - date_published: 2024-07-04T14:59:17.260376+00:00
 
  ## Home
- - [http://tartaruspress.com](http://tartaruspress.com)
+ - [https://tartaruspress.com](https://tartaruspress.com)
  - date_published: 2024-06-13T11:12:45+00:00
 
  ## Tartine
@@ -1691,7 +1768,7 @@
  - date_published: 2024-06-22T18:51:37.202374+00:00
 
  ## Made out of meat
- - [https://www.tartley.com](https://www.tartley.com)
+ - [https://tartley.com](https://tartley.com)
  - date_published: 2023-09-27T10:01:00+00:00
 
  ## #tarugo22
@@ -1707,7 +1784,7 @@
  - date_published: 2024-10-31T18:45:21.790644+00:00
 
  ## Taryn Southern | Home
- - [https://www.tarynsouthern.com](https://www.tarynsouthern.com)
+ - [https://tarynsouthern.com](https://tarynsouthern.com)
  - date_published: 2024-02-28T00:00:00+00:00
 
  ## Official Website of Tarzan
@@ -1720,7 +1797,7 @@
  - date_published: 2023-12-01T15:48:19.939176+00:00
 
  ## TASER Self-Defense: Trusted Less-Lethal Weapons
- - [https://www.taser.com](https://www.taser.com)
+ - [https://taser.com](https://taser.com)
  - date_published: 2024-06-29T07:19:33.715768+00:00
 
  ## Plausible · Web analytics
@@ -1773,11 +1850,11 @@
  - date_published: 2023-01-23T03:39:42+00:00
 
  ## TaskPaper – Plain text to-do lists for Mac
- - [https://www.taskpaper.com](https://www.taskpaper.com)
+ - [https://taskpaper.com](https://taskpaper.com)
  - date_published: 2024-04-04T16:47:22+00:00
 
  ## Taskrabbit: Same Day Handyman, Moving & Mounting Services
- - [https://www.taskrabbit.com](https://www.taskrabbit.com)
+ - [https://taskrabbit.com](https://taskrabbit.com)
  - date_published: 2024-01-03T00:00:00+00:00
 
  ## TaskTXT
@@ -1785,7 +1862,7 @@
  - date_published: 2023-10-25T17:23:22.574495+00:00
 
  ## task unrelated .com by rafaël rozendaal, 2017
- - [https://www.taskunrelated.com](https://www.taskunrelated.com)
+ - [https://taskunrelated.com](https://taskunrelated.com)
  - date_published: 2024-09-14T18:20:22+00:00
 
  ## TaskValve
@@ -1805,7 +1882,7 @@
  - date_published: 2023-10-25T17:23:29.550111+00:00
 
  ## Tailored Solutions
- - [http://www.tasolglobal.com](http://www.tasolglobal.com)
+ - [https://tasolglobal.com](https://tasolglobal.com)
  - date_published: 2024-07-09T10:33:42.002930+00:00
 
  ## TASS Russian News Agency
@@ -1822,7 +1899,7 @@
  - date_published: 2023-10-25T17:23:31.495484+00:00
 
  ## Opening - Website Under Construction Template
- - [http://www.tassmeem.com](http://www.tassmeem.com)
+ - [https://tassmeem.com](https://tassmeem.com)
  - date_published: 2022-01-18T13:25:50+00:00
 
  ## TASS photo: photos and videos for social media, publishers and projects
@@ -1846,7 +1923,7 @@
  - date_published: 2024-11-12T17:11:35.837488+00:00
 
  ## A Taste of Edmonds
- - [http://tasteedmonds.com](http://tasteedmonds.com)
+ - [https://tasteedmonds.com](https://tasteedmonds.com)
  - date_published: 2024-07-09T15:14:22.595690+00:00
 
  ## ANGPAOHOKI | Situs Slot Depo 10K dan Deposit Dana 10rb Tanpa Potongan Terpercaya
@@ -1866,11 +1943,11 @@
  - date_published: 2024-10-12T22:24:11.453352+00:00
 
  ## Tastemade — Recipes, Lifestyle Shows, Streaming, and More | Tastemade
- - [http://www.tastemade.com](http://www.tastemade.com)
+ - [https://tastemade.com](https://tastemade.com)
  - date_published: 2024-06-16T19:19:57.452381+00:00
 
  ## Taste of Cinema - Movie Reviews and Classic Movie Lists
- - [http://www.tasteofcinema.com](http://www.tasteofcinema.com)
+ - [https://tasteofcinema.com](https://tasteofcinema.com)
  - date_published: 2024-08-19T22:06:04.303175+00:00
 
  ## Taste of Country
@@ -1878,7 +1955,7 @@
  - date_published: 2024-05-06T20:30:38.133826+00:00
 
  ## Taste of Country Store
- - [http://www.tasteofcountrystore.com](http://www.tasteofcountrystore.com)
+ - [https://tasteofcountrystore.com](https://tasteofcountrystore.com)
  - date_published: 2024-06-27T02:32:14.307986+00:00
 
  ## Site Not Available
@@ -1886,7 +1963,7 @@
  - date_published: 2024-06-21T18:31:32.430953+00:00
 
  ## Taste of Italy - Yadkinville, NC - 946 S State St - Hours, Menu, Order
- - [https://www.tasteofitalyyadkinville.com](https://www.tasteofitalyyadkinville.com)
+ - [https://tasteofitalyyadkinville.com](https://tasteofitalyyadkinville.com)
  - date_published: 2024-09-06T00:00:00+00:00
 
  ## [EDUKASI JUDI ONLINE ] Slot Online, Taruhan Bola, Casino Online, Poker Online dan Tebak Angka Togel
@@ -1894,12 +1971,13 @@
  - date_published: 2024-12-09T03:33:18+00:00
 
  ## Taste of Tennis
- - [https://www.tasteoftennis.com](https://www.tasteoftennis.com)
+ - [https://tasteoftennis.com](https://tasteoftennis.com)
  - date_published: 2024-07-13T13:16:46.383100+00:00
 
  ## Taste Salud Help Center
  - [https://help.tastesalud.com](https://help.tastesalud.com)
  - date_published: 2024-07-22T09:38:15.471979+00:00
+ - date_dead_since: 2024-12-18T13:06:32.808860+00:00
 
  ## Aguas Frescas With A Boost
  - [https://tastesalud.com](https://tastesalud.com)
@@ -1914,7 +1992,7 @@
  - date_published: 2019-09-16T13:09:21+00:00
 
  ## Taste of St. Louis - Taste the Memories
- - [https://www.tastestl.com](https://www.tastestl.com)
+ - [https://tastestl.com](https://tastestl.com)
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## Quick WordPress Testing & Staging Sites – TasteWP
@@ -1922,7 +2000,7 @@
  - date_published: 2024-07-11T22:39:31.040475+00:00
 
  ## Home - The Tasting Panel
- - [http://www.tastingpanelmag.com](http://www.tastingpanelmag.com)
+ - [https://tastingpanelmag.com](https://tastingpanelmag.com)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Tasting Table | Food, Restaurants, Reviews, Recipes, Cooking Tips
@@ -1930,11 +2008,11 @@
  - date_published: 2024-04-29T04:43:56.779801+00:00
 
  ## tastylive: A Financial Network for Options & Futures Trading
- - [https://www.tastylive.com](https://www.tastylive.com)
+ - [https://tastylive.com](https://tastylive.com)
  - date_published: 2024-05-30T00:00:00+00:00
 
  ## Discovering, Saving and Winning! | Tasty Rewards
- - [https://www.tastyrewards.com](https://www.tastyrewards.com)
+ - [https://tastyrewards.com](https://tastyrewards.com)
  - date_published: 2024-08-06T22:31:18+00:00
 
  ## The Tata group. Leadership with Trust.
@@ -1956,13 +2034,15 @@
  ## Attention Required! | Cloudflare
  - [https://luxury.tatacliq.com](https://luxury.tatacliq.com)
  - date_published: 2024-07-15T05:01:34.858856+00:00
+ - date_dead_since: 2024-12-18T13:10:15.924958+00:00
 
  ## Attention Required! | Cloudflare
  - [https://tatacliq.com](https://tatacliq.com)
  - date_published: 2024-04-28T04:22:07.824548+00:00
+ - date_dead_since: 2024-12-18T13:11:01.751323+00:00
 
  ## Tata Consumer Products
- - [https://www.tataconsumer.com](https://www.tataconsumer.com)
+ - [https://tataconsumer.com](https://tataconsumer.com)
  - date_published: 2024-07-14T05:44:05+00:00
 
  ## Tata Motors Cars - Sedans, Hatchbacks, SUVs | Tata Motors Limited
@@ -1974,7 +2054,7 @@
  - date_published: 1040-01-21T00:00:00+00:00
 
  ## Largest Power & Energy Company in India | Tata Power
- - [https://www.tatapower.com](https://www.tatapower.com)
+ - [https://tatapower.com](https://tatapower.com)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## Tata Steel Chess Tournament
@@ -1982,11 +2062,11 @@
  - date_published: 2024-01-28T00:00:00+00:00
 
  ## Tate Carson
- - [https://www.tatecarson.com](https://www.tatecarson.com)
+ - [https://tatecarson.com](https://tatecarson.com)
  - date_published: 2024-08-08T03:08:45.215040+00:00
 
  ## Tate Images
- - [https://www.tate-images.com](https://www.tate-images.com)
+ - [https://tate-images.com](https://tate-images.com)
  - date_published: 2024-05-02T12:39:59.841327+00:00
 
  ## Smart email built for speed - Tatem
@@ -1998,7 +2078,7 @@
  - date_published: 2024-06-27T12:49:59.074719+00:00
 
  ## Tatiana Tommasi
- - [http://www.tatianatommasi.com](http://www.tatianatommasi.com)
+ - [http://tatianatommasi.com](http://tatianatommasi.com)
  - date_published: 2024-02-13T17:10:24+00:00
 
  ## Tatler Address Book - The Best of Everything
@@ -2008,22 +2088,24 @@
  ## Tatler Store
  - [https://store.tatler.com](https://store.tatler.com)
  - date_published: 2024-06-18T07:10:27.744330+00:00
+ - date_dead_since: 2024-12-18T13:12:14.139588+00:00
 
  ## Tatler - The original social media
- - [https://www.tatler.com](https://www.tatler.com)
+ - [https://tatler.com](https://tatler.com)
  - date_published: 2024-05-02T11:52:53.527095+00:00
 
  ## Tatler Asia
- - [https://www.tatlerasia.com](https://www.tatlerasia.com)
+ - [https://tatlerasia.com](https://tatlerasia.com)
  - date_published: 2024-09-24T11:21:07.520099+00:00
 
  ## Tatool Web
- - [http://www.tatool-web.com](http://www.tatool-web.com)
+ - [https://tatool-web.com](https://tatool-web.com)
  - date_published: 1980-01-01T00:00:01+00:00
 
  ## TATRCK
  - [https://tatrck.com](https://tatrck.com)
  - date_published: 2024-06-20T22:09:50.848091+00:00
+ - date_dead_since: 2024-12-18T13:12:25.488450+00:00
 
  ## tatring.com
  - [https://tatring.com](https://tatring.com)
@@ -2078,6 +2160,7 @@
  - [http://tatyanadiamantine.com](http://tatyanadiamantine.com)
  - date_published: 2023-11-29T17:08:07.618968+00:00
  - tags: ['personal']
+ - date_dead_since: 2024-12-18T13:13:25.001613+00:00
 
  ## Tauba Auerbach
  - [https://taubaauerbach.com](https://taubaauerbach.com)
@@ -2092,7 +2175,7 @@
  - date_published: 2024-05-17T02:55:26.365120+00:00
 
  ## Internet and e-mail policy and practice
- - [http://weblog.taugh.com](http://weblog.taugh.com)
+ - [https://weblog.taugh.com](https://weblog.taugh.com)
  - date_published: 2024-07-20T04:54:31.942973+00:00
 
  ## Working Capital Management Solutions | Taulia
@@ -3964,76 +4047,4 @@
  ## Home | TeamSpeak
  - [https://teamspeak.com](https://teamspeak.com)
  - date_published: 2024-03-18T11:05:40+00:00
-
- ## Find a host | TeamSpeak
- - [http://hosting.teamspeakusa.com](http://hosting.teamspeakusa.com)
- - date_published: 2024-03-18T11:05:40+00:00
-
- ## TeamSpeakUSA
- - [https://sales.teamspeakusa.com](https://sales.teamspeakusa.com)
- - date_published: 2024-06-16T15:50:24.284353+00:00
-
- ## SEC Coverage
- - [https://www.teamspeedkills.com](https://www.teamspeedkills.com)
- - date_published: 2024-06-29T01:46:21.813917+00:00
-
- ## Teamster Privilege Credit Card from Capital One
- - [https://www.teamstercardnow.com](https://www.teamstercardnow.com)
- - date_published: 2024-08-05T23:48:02+00:00
-
- ## Teamsters VIP+
- - [https://teamstersvip.com](https://teamstersvip.com)
- - date_published: 2024-08-11T05:10:59.783567+00:00
-
- ## TeamsterWear.com
- - [https://teamsterwear.com](https://teamsterwear.com)
- - date_published: 2024-08-11T05:11:01.215232+00:00
-
- ## Software Gestionali per Aziende e Professionisti | TeamSystem
- - [https://teamsystem.com](https://teamsystem.com)
- - date_published: 2024-08-11T09:12:17.870434+00:00
-
- ## Teamtailor
- - [https://app.na.teamtailor.com](https://app.na.teamtailor.com)
- - date_published: 2024-05-06T20:27:41.525347+00:00
-
- ## Teamtailor
- - [https://app.teamtailor.com](https://app.teamtailor.com)
- - date_published: 2024-06-15T19:31:29.633541+00:00
-
- ## Browse careers at CAST AI - CAST AI
- - [https://castai.teamtailor.com](https://castai.teamtailor.com)
- - date_published: 2024-08-19T11:16:18+00:00
-
- ## Join the team - Digital Voices
- - [https://digitalvoices-1653410641.teamtailor.com](https://digitalvoices-1653410641.teamtailor.com)
- - date_published: 2024-08-15T07:49:33+00:00
-
- ## Welcome future Doodler! - Doodle
- - [https://doodle.teamtailor.com](https://doodle.teamtailor.com)
- - date_published: 2024-10-12T10:21:19.413397+00:00
-
- ## Careers - Epidemic Sound
- - [https://epidemic-sound.teamtailor.com](https://epidemic-sound.teamtailor.com)
- - date_published: 2024-05-02T09:36:16.860144+00:00
-
- ## Careers - Gumtree & Motors
- - [https://gumtreemotors.teamtailor.com](https://gumtreemotors.teamtailor.com)
- - date_published: 2024-06-17T17:08:17+00:00
-
- ## A unique career - Highsoft
- - [https://highsoft.teamtailor.com](https://highsoft.teamtailor.com)
- - date_published: 2024-06-18T10:23:17+00:00
-
- ## Careers at Le Wagon - Le Wagon
- - [https://lewagon.teamtailor.com](https://lewagon.teamtailor.com)
- - date_published: 2024-05-10T04:32:17.562633+00:00
-
- ## Join us at Loopia Group - the leading European web hosting provider  - Loopia Group
- - [https://loopia.teamtailor.com](https://loopia.teamtailor.com)
- - date_published: 2024-05-30T12:24:38+00:00
-
- ## A unique career - MDPI Canada
- - [https://mdpicanada.teamtailor.com](https://mdpicanada.teamtailor.com)
- - date_published: 2024-06-14T07:15:29+00:00
 

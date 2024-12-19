@@ -1,3 +1,87 @@
+ ## John Savard's Home Page
+ - [http://quadibloc.com](http://quadibloc.com)
+ - date_published: 2021-05-02T20:32:09+00:00
+
+ ## Homepage | Quadient
+ - [https://careers.quadient.com](https://careers.quadient.com)
+ - date_published: 2024-12-14T00:54:03.343777+00:00
+
+ ## Welcome | Quadient
+ - [https://www.quadient.com](https://www.quadient.com)
+ - date_published: 2024-06-23T12:16:44.920981+00:00
+
+ ## QD
+ - [https://quadigi.com](https://quadigi.com)
+ - date_published: 2024-06-22T09:36:50.287317+00:00
+
+ ## QuadLayers - WordPress Themes & Plugins
+ - [https://quadlayers.com](https://quadlayers.com)
+ - date_published: 2024-08-08T19:56:46+00:00
+
+ ## QuadMeUp
+ - [https://quadmeup.com](https://quadmeup.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Zip Shopify
+ - [https://shopify.quadpay.com](https://shopify.quadpay.com)
+ - date_published: 2023-04-04T06:52:55+00:00
+
+ ## Quadra - Leader of Chemicals & Ingredients Distribution Services
+ - [https://quadragroup.com](https://quadragroup.com)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## Quadra - Leader of Chemicals & Ingredients Distribution Services
+ - [http://www.quadraingredients.com](http://www.quadraingredients.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Quadrant Security | MXDR | Cybersecurity Advisory | 24/7/365 SOC
+ - [https://www.quadrantsec.com](https://www.quadrantsec.com)
+ - date_published: 2024-10-22T21:57:49.230757+00:00
+
+ ## Quadrata
+ - [https://quadrata.com](https://quadrata.com)
+ - date_published: 2024-07-04T16:20:22.383926+00:00
+
+ ## Quadratic
+ - [https://app.quadratichq.com](https://app.quadratichq.com)
+ - date_published: 2024-05-07T09:56:29.318035+00:00
+
+ ## Join Quadratic - Build the next-generation spreadsheet
+ - [https://careers.quadratichq.com](https://careers.quadratichq.com)
+ - date_published: 2024-05-07T09:56:26.422821+00:00
+
+ ## Getting started | Quadratic Docs
+ - [https://docs.quadratichq.com](https://docs.quadratichq.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Quadratic - The data spreadsheet with AI, Python, and SQL
+ - [https://quadratichq.com](https://quadratichq.com)
+ - date_published: 2023-10-25T16:43:35.955263+00:00
+
+ ## Quadratic Status
+ - [https://status.quadratichq.com](https://status.quadratichq.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Trust Center
+ - [https://trust.quadratichq.com](https://trust.quadratichq.com)
+ - date_published: 2024-06-28T22:47:31.256544+00:00
+
+ ## Quadratic - Technical spreadsheet with Python, SQL, and AI.
+ - [https://quadratic-website-7tkq0ccpm.vercel.quadratic-preview.com](https://quadratic-website-7tkq0ccpm.vercel.quadratic-preview.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Quadratic - Technical spreadsheet with Python, SQL, and AI.
+ - [https://quadratic-website-8qlq8j0r9.vercel.quadratic-preview.com](https://quadratic-website-8qlq8j0r9.vercel.quadratic-preview.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## QuadReal Property Group
+ - [https://www.quadreal.com](https://www.quadreal.com)
+ - date_published: 2024-12-12T15:20:57.041122+00:00
+
+ ## Data visualization & presentation tool | Quadrigram
+ - [http://www.quadrigram.com](http://www.quadrigram.com)
+ - date_published: 2019-11-13T08:00:57+00:00
+
  ## Quake® Champions Official Website | Home
  - [https://quake.com](https://quake.com)
  - date_published: 2024-07-07T16:49:11+00:00
@@ -3966,88 +4050,4 @@
  ## DDoSサービス：クラウドセキュリティ製品＆ソリューション | ラドウェア
  - [https://jp.radware.com](https://jp.radware.com)
  - date_published: 2024-07-09T07:18:02.430759+00:00
-
- ## DDoS 서비스: 클라우드 보안 제품 및 솔루션 | 라드웨어
- - [https://kr.radware.com](https://kr.radware.com)
- - date_published: 2024-07-09T07:18:09.194867+00:00
-
- ## Live Cyber Attack Threat Map | Radware
- - [https://livethreatmap.radware.com](https://livethreatmap.radware.com)
- - date_published: 2024-05-07T13:04:58+00:00
-
- ## Radware - Sign In
- - [https://login.radware.com](https://login.radware.com)
- - date_published: 2024-07-09T07:18:12.892192+00:00
-
- ## SSOLogin
- - [https://portals.radware.com](https://portals.radware.com)
- - date_published: 2024-07-09T07:18:10.982498+00:00
-
- ## DDoS Services: Cloud Security Products and Solutions | Radware
- - [https://radware.com](https://radware.com)
- - date_published: 2024-05-09T04:03:07.275988+00:00
-
- ## Support Home Page
- - [https://support.radware.com](https://support.radware.com)
- - date_published: 2024-07-09T07:18:23.616248+00:00
-
- ## Cloud Services
- - [https://portal.radwarecloud.com](https://portal.radwarecloud.com)
- - date_published: 2024-07-09T07:18:19.900262+00:00
-
- ## Radwaste Summit 2024 - ExchangeMonitor
- - [https://www.radwastesummit.com](https://www.radwastesummit.com)
- - date_published: 2024-06-29T04:49:30.683518+00:00
-
- ## eCommerce & Web Developers based in Portsmouth | Radweb
- - [https://radweb.com](https://radweb.com)
- - date_published: 2024-09-03T23:18:12.829518+00:00
-
- ## Index of /
- - [https://dl.radxa.com](https://dl.radxa.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Radxa Docs
- - [https://docs.radxa.com](https://docs.radxa.com)
- - date_published: 2024-06-29T05:01:07+00:00
-
- ## Radxa Community
- - [https://forum.radxa.com](https://forum.radxa.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Radxa
- - [https://radxa.com](https://radxa.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Radxa Wiki
- - [https://wiki.radxa.com](https://wiki.radxa.com)
- - date_published: 2022-11-24T03:48:07+00:00
-
- ## Rady School of Management, UC San Diego
- - [https://radynetwork.com](https://radynetwork.com)
- - date_published: 2024-07-02T01:39:50.520245+00:00
-
- ## Radyo Bilkent | İçinden Gelen Sesi Dinle!
- - [https://radyobilkent.com](https://radyobilkent.com)
- - date_published: 2024-06-15T13:03:16.657769+00:00
-
- ## Free Blazor Components | 90+ UI controls by Radzen
- - [https://blazor.radzen.com](https://blazor.radzen.com)
- - date_published: 2024-09-18T17:05:06.872598+00:00
-
- ## Raelize - Embedded Device Security Services Consultancy Testing Research Training
- - [https://raelize.com](https://raelize.com)
- - date_published: 2024-02-10T03:35:07.257757+00:00
-
- ## Simplifying global receivables and expenses | Raenest
- - [https://www.raenest.com](https://www.raenest.com)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Collision Repair Tools- Reliable Automotive Equipment
- - [https://www.raeservice.com](https://www.raeservice.com)
- - date_published: 2024-07-09T21:19:20.348381+00:00
-
- ## index
- - [https://raeslittleblueguys.com](https://raeslittleblueguys.com)
- - date_published: 2018-04-23T05:07:33+00:00
 

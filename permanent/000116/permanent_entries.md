@@ -1,3 +1,47 @@
+ ## GolfDigest.com: Golf Instruction, Equipment, Courses, Travel, News
+ - [https://golfdigest.com](https://golfdigest.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Golf Digest Media Kit 2024
+ - [http://mediakit.golfdigest.com](http://mediakit.golfdigest.com)
+ - date_published: 2024-06-26T22:59:38+00:00
+
+ ## Golf Distillery | Golf Tips & Golf Swing Advice | Fully Illustrated Guides
+ - [https://www.golfdistillery.com](https://www.golfdistillery.com)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## SCNS - Golf Energy Bar
+ - [https://www.golfenergybar.com](https://www.golfenergybar.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## GolfForever
+ - [https://golfforever.com](https://golfforever.com)
+ - date_published: 2024-09-09T13:57:13.595433+00:00
+
+ ## Top Barcelona Golf Courses - Enjoy Golf Girona at Home
+ - [https://golfgironabarcelona.com](https://golfgironabarcelona.com)
+ - date_published: 2024-08-07T21:31:39.525853+00:00
+
+ ## Clubnet System
+ - [https://clubnet.golfgraffix.com](https://clubnet.golfgraffix.com)
+ - date_published: 2024-06-16T01:23:19.329428+00:00
+
+ ## Golfgraffix | 3D Golf Design
+ - [https://golfgraffix.com](https://golfgraffix.com)
+ - date_published: 2022-03-31T09:17:36+00:00
+
+ ## Book Golf Holidays & Golf Breaks today with GHD
+ - [https://www.golfholidaysdirect.com](https://www.golfholidaysdirect.com)
+ - date_published: 2024-07-07T09:06:44+00:00
+
+ ## Golf in Portugal - Find Courses, Book Tee Times Online, and Save on Green Fees
+ - [https://golfinportugal.com](https://golfinportugal.com)
+ - date_published: 2024-06-18T07:29:13+00:00
+
+ ## GOLF le FLEUR*
+ - [https://golflefleur.com](https://golflefleur.com)
+ - date_published: 2024-06-23T13:07:40.376580+00:00
+
  ## Golf Maintenance | Consulting | Project Management |
  - [https://www.golfmaintenance.com](https://www.golfmaintenance.com)
  - date_published: 2024-06-01T00:00:00+00:00
@@ -4003,48 +4047,4 @@ Homebrew Video Game Depot
  ## GPR for Archaeology | Collecting, processing and interpreting ground-penetrating radar (GPR)
  - [https://www.gpr-archaeology.com](https://www.gpr-archaeology.com)
  - date_published: 2024-06-17T10:29:26.537895+00:00
-
- ## GPS Chile | Soluciones para gestión de flota
- - [https://gpschile.com](https://gpschile.com)
- - date_published: 2024-10-29T11:08:13.645006+00:00
-
- ## GPS News - 24/7 Coverage Of GPS Applications and Technology
- - [https://gpsdaily.com](https://gpsdaily.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## GPS Data Team
- - [https://www.gps-data-team.com](https://www.gps-data-team.com)
- - date_published: 2024-12-13T20:53:34.277532+00:00
-
- ## GPS Heatmaps
- - [http://www.gpsheatmaps.com](http://www.gpsheatmaps.com)
- - date_published: 2019-05-05T17:21:08+00:00
-
- ## GPS Log Drive
- - [https://gpslogdrive.com](https://gpslogdrive.com)
- - date_published: 2023-10-25T14:50:06.826203+00:00
-
- ## GPSrChive
- - [https://www.gpsrchive.com](https://www.gpsrchive.com)
- - date_published: 2023-03-04T14:35:05+00:00
-
- ## Gamesplanet: Game keys for Steam, Origin, Ubisoft Connect, GOG and more
- - [https://gpstatic.com](https://gpstatic.com)
- - date_published: 2024-06-16T17:20:07.946116+00:00
-
- ## GPS Visualizer
- - [https://www.gpsvisualizer.com](https://www.gpsvisualizer.com)
- - date_published: 2024-08-11T07:58:51.219155+00:00
-
- ## GPS World - The Business and Technology of Global Navigation and Positioning
- - [https://gpsworld.com](https://gpsworld.com)
- - date_published: 2024-05-22T02:38:28.875998+00:00
-
- ## GPS World Buyers Guide
- - [https://gpsworldbuyersguide.com](https://gpsworldbuyersguide.com)
- - date_published: 2024-07-20T18:34:43.244822+00:00
-
- ## Download Speech-To-Text Ai-Based Desktop Application
- - [https://gpt4office.com](https://gpt4office.com)
- - date_published: 2024-10-30T07:22:50.174540+00:00
 

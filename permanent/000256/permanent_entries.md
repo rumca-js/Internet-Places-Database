@@ -1,3 +1,87 @@
+ ## GONICUS - Pioneers of Open Source
+ - [https://www.gonicus.de](https://www.gonicus.de)
+ - date_published: 2024-07-10T08:09:59+00:00
+
+ ## asx-frontend-autopush.corp.google.de - Google Single Sign On: Sign into corp
+ - [https://asx-frontend-autopush.corp.google.de](https://asx-frontend-autopush.corp.google.de)
+ - date_published: 2024-06-22T22:35:49.781417+00:00
+
+ ## Google Books
+ - [https://books.google.de](https://books.google.de)
+ - date_published: 2024-05-07T15:33:22.698320+00:00
+
+ ## Programmable Search Engine by Google
+ - [https://cse.google.de](https://cse.google.de)
+ - date_published: 2024-06-14T08:08:00+00:00
+
+ ## Google
+ - [https://google.de](https://google.de)
+ - date_published: 2024-06-18T12:08:29.171268+00:00
+
+ ## Grafika Google
+ - [https://images.google.de](https://images.google.de)
+ - date_published: 2024-07-20T07:37:46.554744+00:00
+
+ ## Google Scholar
+ - [https://scholar.google.de](https://scholar.google.de)
+ - date_published: 2024-04-29T06:20:30.427484+00:00
+
+ ## Bevor Sie fortfahren
+ - [https://translate.google.de](https://translate.google.de)
+ - date_published: 2024-08-17T23:18:41.430843+00:00
+
+ ## Gorilla Sun
+ - [https://gorillasun.de](https://gorillasun.de)
+ - date_published: 2023-10-25T18:30:51.098785+00:00
+
+ ## TEO WEB
+ - [https://web.goteo.de](https://web.goteo.de)
+ - date_published: 2024-08-06T16:26:10+00:00
+
+ ## Gotisch-Projekte
+ - [http://www.gotica.de](http://www.gotica.de)
+ - date_published: 2002-05-02T00:00:00+00:00
+
+ ## GoTo: Software für Geschäftskommunikation und IT-Support
+ - [https://www.goto.de](https://www.goto.de)
+ - date_published: 2024-06-19T05:12:20.969878+00:00
+
+ ## GovData - Das Datenportal für Deutschland
+ - [https://www.govdata.de](https://www.govdata.de)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Startseite
+ - [https://governikus.de](https://governikus.de)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Beglaubigung OpenPGP-Schlüssel
+ - [https://pgp.governikus.de](https://pgp.governikus.de)
+ - date_published: 2023-10-25T18:30:54.264820+00:00
+
+ ## Herzlich Willkommen... - Governikus Portal
+ - [https://portal.governikus.de](https://portal.governikus.de)
+ - date_published: 2024-08-11T04:24:39.304629+00:00
+
+ ## Parallels Confixx
+ - [http://www.webcounter.goweb.de](http://www.webcounter.goweb.de)
+ - date_published: 2024-08-18T06:28:36.290748+00:00
+
+ ## Aktuelle Kurse und Charts zu Börsen, Aktien, Fonds, ETFs ... - GOYAX
+ - [http://www.goyax.de](http://www.goyax.de)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## GPS-Handbuch.de | Ausführliche Anleitungen für Garmin GPS-Geräte
+ - [https://www.gps-handbuch.de](https://www.gps-handbuch.de)
+ - date_published: 2021-09-28T12:59:28+00:00
+
+ ## GPS Radler ✓ Der Blog über GPS Navigation am Fahrrad
+ - [https://gpsradler.de](https://gpsradler.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## ChatGPT Deutsch - Kostenlos und mit GPT-4o mini OpenAI
+ - [https://gptdeutsch.de](https://gptdeutsch.de)
+ - date_published: 2024-10-22T18:24:32.754982+00:00
+
  ## GQ: Mode, Kultur und Stil
  - [https://labelfinder.gq-magazin.de](https://labelfinder.gq-magazin.de)
  - date_published: 2024-06-15T21:06:11.559039+00:00
@@ -3930,88 +4014,4 @@
  ## kajomi | Erfolgreiche Newsletter – einfach versenden
  - [https://kajomi.de](https://kajomi.de)
  - date_published: 2021-05-18T07:26:52+00:00
-
- ## Kakadu - Der Kinderpodcast
- - [https://www.kakadu.de](https://www.kakadu.de)
- - date_published: 2024-10-19T19:45:52.456268+00:00
-
- ## kallex.de jetzt kaufen!
- - [http://www.kallex.de](http://www.kallex.de)
- - date_published: 2024-07-02T23:30:48.648349+00:00
-
- ## Kalli-Fotokunst  Bilder
- - [http://www.kalli-fotokunst.de](http://www.kalli-fotokunst.de)
- - date_published: 2024-07-24T05:28:35.935233+00:00
-
- ## Jochen Kalmbach's Blog | Infos about Windows development and dotNET Framework
- - [http://blog.kalmbach-software.de](http://blog.kalmbach-software.de)
- - date_published: 2024-09-18T14:22:49.553774+00:00
-
- ## apt-get a life
- - [https://david.kalnischkies.de](https://david.kalnischkies.de)
- - date_published: 2024-02-29T13:18:00+00:00
-
- ## J U L I U S _ K A M M E R L
- - [http://kammerl.de](http://kammerl.de)
- - date_published: 2021-07-04T00:06:39+00:00
-
- ## Sign in - insights.kamner.de
- - [https://insights.kamner.de](https://insights.kamner.de)
- - date_published: 2024-08-18T03:21:41.619712+00:00
-
- ## -Startseite - Kampnagel
- - [https://kampnagel.de](https://kampnagel.de)
- - date_published: 2024-07-13T16:12:36.911481+00:00
-
- ## start
- - [http://www.kantine-kn.de](http://www.kantine-kn.de)
- - date_published: 2024-12-11T17:57:15.733474+00:00
-
- ## Jonas Breyer – Rechtsanwaltskanzlei Wiesbaden
- - [https://kanzlei-breyer.de](https://kanzlei-breyer.de)
- - date_published: 2024-05-07T23:53:42.720500+00:00
-
- ## Kanzlei Neulinger: Kanzlei | Steuerberatung | Rechtsberatung
- - [https://kanzlei-neulinger.de](https://kanzlei-neulinger.de)
- - date_published: 2024-12-12T16:55:51+00:00
-
- ## KANZLSPERGER GmbH – medical care products
- - [https://www.kanzlsperger.de](https://www.kanzlsperger.de)
- - date_published: 2024-07-24T03:41:57.173331+00:00
-
- ## Kapi Hospital
- - [http://www.kapihospital.de](http://www.kapihospital.de)
- - date_published: 2024-12-10T22:10:15.764015+00:00
-
- ## Kapilands
- - [http://www.kapiland.de](http://www.kapiland.de)
- - date_published: 2024-12-10T22:10:08.518507+00:00
-
- ## Kapi Regnum - Wirtschaftssimulation im Mittelalter! (Browserspiel)
- - [http://www.kapi-regnum.de](http://www.kapi-regnum.de)
- - date_published: 2024-12-10T22:10:02.633126+00:00
-
- ## Karla Schmidt - Offizielle Webseite
- - [http://www.karla-schmidt.de](http://www.karla-schmidt.de)
- - date_published: 2024-10-21T17:32:28.425739+00:00
-
- ## Karl-Luis Vossbeck
- - [http://karlluisvossbeck.de](http://karlluisvossbeck.de)
- - date_published: 2024-07-13T16:03:14.794461+00:00
-
- ## Karl-May-Wiki
- - [https://www.karl-may-wiki.de](https://www.karl-may-wiki.de)
- - date_published: 2024-01-17T14:19:38+00:00
-
- ## Geoportal Karlsruhe
- - [https://geoportal.karlsruhe.de](https://geoportal.karlsruhe.de)
- - date_published: 2024-10-31T04:58:50.663625+00:00
-
- ## technika | Karlsruher Technik-Initiative
- - [https://karlsruher-technik-initiative.de](https://karlsruher-technik-initiative.de)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Jobs – Karriere.de
- - [https://jobs.karriere.de](https://jobs.karriere.de)
- - date_published: 2024-06-18T14:11:05+00:00
 

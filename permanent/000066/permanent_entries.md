@@ -1,3 +1,43 @@
+ ## Speaking is Overrated
+ - [http://speakingisoverrated.blogspot.com](http://speakingisoverrated.blogspot.com)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## speaking of ashes
+ - [http://speakingofashes.blogspot.com](http://speakingofashes.blogspot.com)
+ - date_published: 2024-03-07T21:26:55+00:00
+
+ ## Spear of Russ
+ - [http://spearofruss.blogspot.com](http://spearofruss.blogspot.com)
+ - date_published: 2024-08-28T05:01:36+00:00
+
+ ## PHEKKWITZ AHOY!!!!!!!!!
+ - [http://specificgravy.blogspot.com](http://specificgravy.blogspot.com)
+ - date_published: 2024-10-21T16:25:50.480313+00:00
+
+ ## Specimen Years
+ - [http://specimenyears.blogspot.com](http://specimenyears.blogspot.com)
+ - date_published: 2024-03-06T08:35:25+00:00
+
+ ## Spectral Holes. A blog on cognitive radio
+ - [http://spectralholes.blogspot.com](http://spectralholes.blogspot.com)
+ - date_published: 2024-02-08T13:48:53+00:00
+
+ ## Spectroscope
+ - [https://spectroscope.blogspot.com](https://spectroscope.blogspot.com)
+ - date_published: 2004-02-26T00:00:00+00:00
+
+ ## Michael Spector's Blog
+ - [http://spektom.blogspot.com](http://spektom.blogspot.com)
+ - date_published: 2024-05-24T09:35:06+00:00
+
+ ## Spell Card!
+ - [http://spellcard.blogspot.com](http://spellcard.blogspot.com)
+ - date_published: 2024-07-08T08:08:57+00:00
+
+ ## Spellscape Miniatures
+ - [http://spellscape.blogspot.com](http://spellscape.blogspot.com)
+ - date_published: 2024-07-03T02:02:03+00:00
+
  ## A Mindful Mumble
  - [https://spencerblogssometimes.blogspot.com](https://spencerblogssometimes.blogspot.com)
  - date_published: 2024-03-13T03:00:18+00:00
@@ -3971,44 +4011,4 @@
  ## Tobi's Paint Pot
  - [http://tobispaintpot.blogspot.com](http://tobispaintpot.blogspot.com)
  - date_published: 2024-07-20T03:31:00+00:00
-
- ## Toc de somatent!
- - [http://tocdesomatent.blogspot.com](http://tocdesomatent.blogspot.com)
- - date_published: 2024-07-02T06:23:14+00:00
-
- ## Today in Mesopotamia
- - [http://todayinmesopotamia.blogspot.com](http://todayinmesopotamia.blogspot.com)
- - date_published: 2024-06-20T17:50:13+00:00
-
- ## Today's Inspiration
- - [http://todaysinspiration.blogspot.com](http://todaysinspiration.blogspot.com)
- - date_published: 2024-07-14T07:04:56+00:00
-
- ## Todd Cummings Family
- - [http://toddcummingsfamily.blogspot.com](http://toddcummingsfamily.blogspot.com)
- - date_published: 2024-03-19T12:02:04+00:00
-
- ## To Discover Ice
- - [https://todiscoverice.blogspot.com](https://todiscoverice.blogspot.com)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## To far away worlds
- - [https://tofarawayworlds.blogspot.com](https://tofarawayworlds.blogspot.com)
- - date_published: 2023-11-16T06:40:53+00:00
-
- ## The TOF Spot
- - [https://tofspot.blogspot.com](https://tofspot.blogspot.com)
- - date_published: 2023-10-25T13:06:25.038835+00:00
-
- ## THE TOFU HUT
- - [http://tofuhut.blogspot.com](http://tofuhut.blogspot.com)
- - date_published: 2010-08-22T00:00:00+00:00
-
- ## Togelius
- - [https://togelius.blogspot.com](https://togelius.blogspot.com)
- - date_published: 2006-07-11T00:00:00+00:00
-
- ## Blogger
- - [http://tokyo-girl.blogspot.com](http://tokyo-girl.blogspot.com)
- - date_published: 2024-12-12T19:30:41.181196+00:00
 

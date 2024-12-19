@@ -1,3 +1,166 @@
+ ## KDE Discuss
+ - [https://forum.kde.org](https://forum.kde.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## ghostwriter - No excuses. No distractions. Just write.
+ - [https://ghostwriter.kde.org](https://ghostwriter.kde.org)
+ - date_published: 2023-12-08T10:21:41+00:00
+
+ ## Index of /
+ - [https://go.kde.org](https://go.kde.org)
+ - date_published: 2023-12-08T00:00:00+00:00
+
+ ## KDE Localization - KDE Localization
+ - [http://i18n.kde.org](http://i18n.kde.org)
+ - date_published: 2024-07-09T12:19:08.897512+00:00
+
+ ## Explore groups · GitLab
+ - [https://invent.kde.org](https://invent.kde.org)
+ - date_published: 2023-10-25T21:36:04.476762+00:00
+
+ ## Donate and support KDE
+ - [https://jointhegame.kde.org](https://jointhegame.kde.org)
+ - date_published: 2024-05-04T14:31:18.947846+00:00
+
+ ## Home - KDE Community
+ - [https://kde.org](https://kde.org)
+ - date_published: 2023-10-25T21:36:06.463462+00:00
+ - tags: ['kde', 'open source', 'linux desktop environment', 'linux']
+
+ ## kdesrc-build
+ - [https://kdesrc-build.kde.org](https://kdesrc-build.kde.org)
+ - date_published: 2024-05-07T14:57:46.329336+00:00
+
+ ## Kid3 - Audio Tagger
+ - [https://kid3.kde.org](https://kid3.kde.org)
+ - date_published: 2024-09-21T00:00:00+00:00
+
+ ## Kontact Suite - The Powerful PIM Solution
+ - [https://kontact.kde.org](https://kontact.kde.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Konversation
+ - [https://konversation.kde.org](https://konversation.kde.org)
+ - date_published: 2024-02-23T08:57:52+00:00
+
+ ## KStars - Desktop Planetarium
+ - [https://kstars.kde.org](https://kstars.kde.org)
+ - date_published: 2024-08-03T00:00:00+00:00
+
+ ## KDE Localization - KDE Localization
+ - [https://l10n.kde.org](https://l10n.kde.org)
+ - date_published: 2024-06-30T02:17:27.304541+00:00
+
+ ## LabPlot – Scientific plotting and data analysis
+ - [https://labplot.kde.org](https://labplot.kde.org)
+ - date_published: 2024-07-04T19:46:21.889479+00:00
+
+ ## LaKademy | Latin America KDE Summit
+ - [https://lakademy.kde.org](https://lakademy.kde.org)
+ - date_published: 2023-12-08T09:35:38+00:00
+
+ ## mail.kde.org Mailing Lists
+ - [https://lists.kde.org](https://lists.kde.org)
+ - date_published: 2024-05-08T09:06:09.797473+00:00
+
+ ## KDE Mailing Lists - KDE Community
+ - [https://mail.kde.org](https://mail.kde.org)
+ - date_published: 2023-10-25T21:36:08.509574+00:00
+
+ ## The KDE Manifesto
+ - [https://manifesto.kde.org](https://manifesto.kde.org)
+ - date_published: 2023-12-08T10:25:27+00:00
+
+ ## Marble - find your way and explore the world
+ - [https://marble.kde.org](https://marble.kde.org)
+ - date_published: 2024-06-17T03:17:19.609137+00:00
+ - tags: ['earth']
+
+ ## BigBlueButton
+ - [https://meet.kde.org](https://meet.kde.org)
+ - date_published: 2024-05-02T11:41:50.424693+00:00
+
+ ## KDE neon
+ - [https://neon.kde.org](https://neon.kde.org)
+ - date_published: 2024-05-04T14:31:22.178718+00:00
+
+ ## Okular - The Universal Document Viewer
+ - [https://okular.kde.org](https://okular.kde.org)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home
+ - [https://phabricator.kde.org](https://phabricator.kde.org)
+ - date_published: 2024-05-04T14:31:23.109745+00:00
+
+ ## Planet KDE
+ - [https://planet.kde.org](https://planet.kde.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Explore groups · GitLab
+ - [https://projects.kde.org](https://projects.kde.org)
+ - date_published: 2024-05-08T09:30:31.753485+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.kde.org](https://stats.kde.org)
+ - date_published: 2024-06-28T18:29:56.502677+00:00
+
+ ## Browse  Latest | https://store.kde.org/browse/
+ - [https://store.kde.org](https://store.kde.org)
+ - date_published: 2023-11-05T10:28:13.360219+00:00
+
+ ## Welcome to KDE TechBase - KDE TechBase
+ - [https://techbase.kde.org](https://techbase.kde.org)
+ - date_published: 2024-06-21T23:53:17.766998+00:00
+
+ ## A 27 year timeline of KDE events
+ - [https://timeline.kde.org](https://timeline.kde.org)
+ - date_published: 2024-03-14T03:09:32+00:00
+
+ ## KDE UserBase Wiki
+ - [https://userbase.kde.org](https://userbase.kde.org)
+ - date_published: 2024-04-25T10:20:08+00:00
+
+ ## Element
+ - [https://webchat.kde.org](https://webchat.kde.org)
+ - date_published: 2024-05-08T09:05:56.435200+00:00
+
+ ## [KDE] Index of /
+ - [http://websvn.kde.org](http://websvn.kde.org)
+ - date_published: 2024-06-22T22:09:03.968565+00:00
+
+ ## KDE Wikis
+ - [http://wiki.kde.org](http://wiki.kde.org)
+ - date_published: 2023-12-08T09:44:05+00:00
+
+ ## Browse  Latest | https://store.kde.org/browse/
+ - [http://kde-apps.org](http://kde-apps.org)
+ - date_published: 2024-08-18T19:27:22.889568+00:00
+
+ ## KDE ESPAÑA - Asociación cultural KDE España
+ - [https://www.kde-espana.org](https://www.kde-espana.org)
+ - date_published: 2024-07-07T03:35:51.746442+00:00
+
+ ## Index of /
+ - [https://static.kdenews.org](https://static.kdenews.org)
+ - date_published: 2023-02-19T00:00:00+00:00
+
+ ## Kdenlive Manual — Kdenlive Manual 24.05 documentation
+ - [https://docs.kdenlive.org](https://docs.kdenlive.org)
+ - date_published: 2024-06-04T16:09:19+00:00
+
+ ## Kdenlive - Video Editing Freedom
+ - [https://kdenlive.org](https://kdenlive.org)
+ - date_published: 2024-03-09T00:00:00+00:00
+ - tags: ['open source', 'video editor']
+
+ ## KDevelop - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP
+ - [https://kdevelop.org](https://kdevelop.org)
+ - date_published: 2020-12-11T00:00:00+00:00
+
+ ## Home - KDHX
+ - [https://api.kdhx.org](https://api.kdhx.org)
+ - date_published: 2024-07-15T12:12:09+00:00
+
  ## Arts Interview
  - [http://artsinterview.kdhx.org](http://artsinterview.kdhx.org)
  - date_published: 2024-07-15T12:12:12.750960+00:00
@@ -3880,164 +4043,4 @@ Hosted by Panix.com.
  ## The Lutheran Church—Missouri Synod
  - [https://www.lcms.org](https://www.lcms.org)
  - date_published: 2024-08-11T23:14:16.685288+00:00
-
- ## LCompilers
- - [https://lcompilers.org](https://lcompilers.org)
- - date_published: 2021-12-22T21:11:15+00:00
-
- ## Workshops on Languages and Compilers for Parallel Computing (LCPC)
- - [http://lcpcworkshop.org](http://lcpcworkshop.org)
- - date_published: 2023-06-21T16:19:40+00:00
-
- ## LCR-Rouge.org : Love Comparateur Rencontre
- - [http://www.lcr-rouge.org](http://www.lcr-rouge.org)
- - date_published: 2024-10-21T18:16:48.546777+00:00
-
- ## Home
- - [https://www.lcsb.org](https://www.lcsb.org)
- - date_published: 2024-07-03T14:55:51.961875+00:00
-
- ## LCV - Build Power for People and the Planet
- - [https://www.lcv.org](https://www.lcv.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Leela Chess Zero
- - [https://lczero.org](https://lczero.org)
- - date_published: 2024-07-04T05:06:04+00:00
-
- ## Remix Starter
- - [https://www.ldatadao.org](https://www.ldatadao.org)
- - date_published: 2024-09-14T07:49:08.238863+00:00
-
- ## Linked Data Benchmark Council
- - [http://ldbcouncil.org](http://ldbcouncil.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## LDH (Ligue des droits de l'Homme)
- - [https://www.ldh-france.org](https://www.ldh-france.org)
- - date_published: 2024-07-02T21:26:51.351199+00:00
-
- ## BYU-Pathway Worldwide | BYU-Pathway | Apply Today
- - [https://byupathway.lds.org](https://byupathway.lds.org)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Homepage - The Church of Jesus Christ of Latter-day Saints
- - [http://lds.org](http://lds.org)
- - date_published: 2024-07-20T21:13:50.806303+00:00
-
- ## The Church of Jesus Christ of Latter-day Saints
- - [https://edge.ldscdn.org](https://edge.ldscdn.org)
- - date_published: 2024-05-28T19:15:51+00:00
-
- ## PeopleGrove
- - [http://www.ldsces.org](http://www.ldsces.org)
- - date_published: 2024-08-11T11:23:03+00:00
-
- ## Philanthropies | Donation Page
- - [https://ldsp-pay.ldschurch.org](https://ldsp-pay.ldschurch.org)
- - date_published: 2024-04-30T03:32:29.018562+00:00
-
- ## Philanthropies
- - [https://ldsphilanthropies.org](https://ldsphilanthropies.org)
- - date_published: 2024-04-30T03:32:16.947662+00:00
-
- ## Lead Academy: Online Courses - TEFL, BSL and Functional Skills
- - [https://lead-academy.org](https://lead-academy.org)
- - date_published: 2024-10-22T12:47:20.571079+00:00
-
- ## Cierpliwości...
- - [https://leadcounsel.org](https://leadcounsel.org)
- - date_published: 2024-05-07T13:27:05.304269+00:00
-
- ## Lead Elimination | We are working to reduce lead poisoning and improve the health, wellbeing, and potential of children worldwide.
- - [https://leadelimination.org](https://leadelimination.org)
- - date_published: 2024-06-18T13:18:12+00:00
-
- ## LEA-DER.org | Law Enforcement Agencies – Development/Engineering/Research
- - [https://www.lea-der.org](https://www.lea-der.org)
- - date_published: 2024-07-02T22:01:39.241799+00:00
-
- ## Leader in Me | Educational & Student Leadership Programs & Curriculum
- - [https://www.leaderinme.org](https://www.leaderinme.org)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Leadership Development Lab
- - [http://www.leadershipdevelopmentlab.org](http://www.leadershipdevelopmentlab.org)
- - date_published: 2024-04-30T05:30:03.851098+00:00
-
- ## Home - Leadership Foundations
- - [https://www.leadershipfoundations.org](https://www.leadershipfoundations.org)
- - date_published: 2024-07-08T16:54:28.818922+00:00
-
- ## Home - Leadership Montgomery
- - [https://leadershipmontgomerymd.org](https://leadershipmontgomerymd.org)
- - date_published: 2024-10-03T00:00:00+00:00
-
- ## Lead Free CT ‒ A hub of lead Information for residents and homeowners
- - [https://leadfreect.org](https://leadfreect.org)
- - date_published: 2024-09-18T20:25:59.530788+00:00
-
- ## LeadingAge PA
- - [http://leadingagepa.org](http://leadingagepa.org)
- - date_published: 2024-10-19T09:43:58.991632+00:00
-
- ## Global Lead Pollution Map
- - [https://leadpollution.org](https://leadpollution.org)
- - date_published: 2024-05-22T18:27:16+00:00
-
- ## LEADx: Scale and Sustain Leadership Development
- - [https://leadx.org](https://leadx.org)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## LEADx Mobile App
- - [https://mobile.leadx.org](https://mobile.leadx.org)
- - date_published: 2024-05-08T09:34:20.884760+00:00
-
- ## LEAF – [Lafayette Electronic Arts Festival]
- - [https://leafcolorado.org](https://leafcolorado.org)
- - date_published: 2024-06-21T17:26:36+00:00
-
- ## The League of Entropy
- - [https://leagueofentropy.org](https://leagueofentropy.org)
- - date_published: 2024-07-10T01:54:08.583529+00:00
-
- ## The League of Robot Runners
- - [https://www.leagueofrobotrunners.org](https://www.leagueofrobotrunners.org)
- - date_published: 2024-07-15T09:02:21+00:00
-
- ## Leah Neukirchen - leah2
- - [https://leahneukirchen.org](https://leahneukirchen.org)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Home
- - [https://leakeyfoundation.org](https://leakeyfoundation.org)
- - date_published: 2024-10-29T18:24:02.558156+00:00
-
- ## Lea-Linux
- - [https://lea-linux.org](https://lea-linux.org)
- - date_published: 2024-05-06T14:20:18.353073+00:00
-
- ## Lean Blog
- - [http://www.leanblog.org](http://www.leanblog.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Lean Coffee | Start one in your city!
- - [http://leancoffee.org](http://leancoffee.org)
- - date_published: 2024-07-07T07:36:25.323493+00:00
-
- ## LeanDojo: Theorem Proving in Lean Using LLMs
- - [https://leandojo.org](https://leandojo.org)
- - date_published: 2024-07-28T22:34:36+00:00
-
- ## Focused Research Organization — Lean FRO
- - [https://lean-fro.org](https://lean-fro.org)
- - date_published: 2024-04-29T06:15:59.677196+00:00
-
- ## Lean Impact
- - [https://www.leanimpact.org](https://www.leanimpact.org)
- - date_published: 2024-06-21T21:56:41.621009+00:00
-
- ## Fostering Women’s Leadership & Workplace Inclusion | Lean In
- - [https://cdn-static.leanin.org](https://cdn-static.leanin.org)
- - date_published: 2024-06-05T00:00:00+00:00
 

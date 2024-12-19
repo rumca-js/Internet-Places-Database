@@ -1,3 +1,19 @@
+ ## Passport York Login
+ - [https://apps7.sis.yorku.ca](https://apps7.sis.yorku.ca)
+ - date_published: 2024-07-21T07:57:30.153220+00:00
+
+ ## IIS Windows Server
+ - [https://as.students.yorku.ca](https://as.students.yorku.ca)
+ - date_published: 2020-12-07T16:39:18+00:00
+
+ ## atlas
+ - [https://atlas.cafe.uit.yorku.ca](https://atlas.cafe.uit.yorku.ca)
+ - date_published: 2018-11-14T19:13:13+00:00
+
+ ## York Atlas - Phone and E-mail Directory
+ - [https://atlas.yorku.ca](https://atlas.yorku.ca)
+ - date_published: 2024-04-30T05:32:21.381565+00:00
+
  ## Topology Atlas
  - [http://at.yorku.ca](http://at.yorku.ca)
  - date_published: 2020-12-23T20:50:16+00:00
@@ -752,6 +768,10 @@
  - [https://cgodin.qc.ca](https://cgodin.qc.ca)
  - date_published: 2024-06-17T00:00:00+00:00
 
+ ## Un hôpital au service des patients
+ - [https://www.chumontreal.qc.ca](https://www.chumontreal.qc.ca)
+ - date_published: 2024-12-17T20:11:38+00:00
+
  ## Collège de Maisonneuve|Cégep à Montréal
  - [https://cmaisonneuve.qc.ca](https://cmaisonneuve.qc.ca)
  - date_published: 2023-03-21T00:00:00+00:00
@@ -1144,6 +1164,10 @@
  ## ordinary.cafe
  - [https://ordinary.cafe](https://ordinary.cafe)
  - date_published: 2024-06-19T23:48:48.047436+00:00
+
+ ## Ouroboros Café
+ - [https://ouroboros.cafe](https://ouroboros.cafe)
+ - date_published: 2024-12-10T17:14:40+00:00
 
  ## Home
  - [https://owen.cafe](https://owen.cafe)
@@ -3999,28 +4023,4 @@
  ## imgus.cc | 免費圖片上傳服務
  - [https://imgus.cc](https://imgus.cc)
  - date_published: 2024-12-03T07:37:05.196978+00:00
-
- ## IMPERATIVE • App Development
- - [https://www.imperative.cc](https://www.imperative.cc)
- - date_published: 2024-09-02T16:32:53.211116+00:00
-
- ## Indystry.cc – Open Source Machines
- - [https://indystry.cc](https://indystry.cc)
- - date_published: 2024-05-08T04:06:51.243288+00:00
-
- ## Wordcraft Home Page
- - [http://wordcraft.infopop.cc](http://wordcraft.infopop.cc)
- - date_published: 2019-05-21T17:20:28+00:00
-
- ## Linkbio - Instabio | Link in bio | As many links as you want on your Instagram or TikTok profile
- - [https://instabio.cc](https://instabio.cc)
- - date_published: 2024-10-30T11:45:21.101959+00:00
-
- ## InterServer Live Chat
- - [https://chat.is.cc](https://chat.is.cc)
- - date_published: 2024-05-22T02:48:25.983861+00:00
-
- ## ITEAD STUDIO OFFICIAL
- - [https://itead.cc](https://itead.cc)
- - date_published: 2024-05-01T02:45:12.519947+00:00
 

@@ -1,3 +1,99 @@
+ ## Texas A&M Texarkana | Texas A&M Texarkana
+ - [https://tamut.edu](https://tamut.edu)
+ - date_published: 2024-07-02T02:29:31+00:00
+
+ ## Home - Tarleton State University
+ - [https://www.tarleton.edu](https://www.tarleton.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Taylor University | Taylor University
+ - [http://www.taylor.edu](http://www.taylor.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Tennessee Board of Regents
+ - [http://tbr.edu](http://tbr.edu)
+ - date_published: 2024-07-01T15:48:23.941208+00:00
+
+ ## 50 in 50 Campaign
+ - [https://50days.tcnj.edu](https://50days.tcnj.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Academic Affairs
+ - [https://academicaffairs.tcnj.edu](https://academicaffairs.tcnj.edu)
+ - date_published: 2024-07-13T14:43:18+00:00
+
+ ## Academics | The College of New Jersey
+ - [https://academics.tcnj.edu](https://academics.tcnj.edu)
+ - date_published: 2024-07-12T16:40:06+00:00
+
+ ## The College of New Jersey | Undergraduate Admissions
+ - [https://admissions.tcnj.edu](https://admissions.tcnj.edu)
+ - date_published: 2024-07-12T16:43:25+00:00
+
+ ## The College of New Jersey | Division of College Advancement
+ - [https://advancement.tcnj.edu](https://advancement.tcnj.edu)
+ - date_published: 2024-07-13T03:15:13+00:00
+
+ ## Alumni Engagement
+ - [https://alumni.tcnj.edu](https://alumni.tcnj.edu)
+ - date_published: 2024-07-12T17:42:02+00:00
+
+ ## School of the Arts and Communication | TCNJ
+ - [https://artscomm.tcnj.edu](https://artscomm.tcnj.edu)
+ - date_published: 2024-07-12T17:37:25+00:00
+
+ ## TCNJ | Brand
+ - [https://brand.tcnj.edu](https://brand.tcnj.edu)
+ - date_published: 2024-07-14T12:05:35+00:00
+
+ ## Brower Student Center | Student Life
+ - [https://bsc.tcnj.edu](https://bsc.tcnj.edu)
+ - date_published: 2024-07-12T15:25:47+00:00
+
+ ## School of Business | TCNJ
+ - [https://business.tcnj.edu](https://business.tcnj.edu)
+ - date_published: 2024-07-12T18:22:58+00:00
+
+ ## Campus Life
+ - [https://campuslife.tcnj.edu](https://campuslife.tcnj.edu)
+ - date_published: 2024-07-12T15:55:52+00:00
+
+ ## Campus Police
+ - [https://campuspolice.tcnj.edu](https://campuspolice.tcnj.edu)
+ - date_published: 2024-07-12T17:38:06+00:00
+
+ ## Careers @ TCNJ
+ - [https://careers.tcnj.edu](https://careers.tcnj.edu)
+ - date_published: 2024-07-12T17:31:08+00:00
+
+ ## The Career Center | Your future is our mission
+ - [https://career.tcnj.edu](https://career.tcnj.edu)
+ - date_published: 2024-07-12T16:47:53+00:00
+
+ ## Education Abroad and International Student Services | Arlotto Family Center for Global Engagement
+ - [https://cge.tcnj.edu](https://cge.tcnj.edu)
+ - date_published: 2024-07-12T17:41:58+00:00
+
+ ## The College Core | The College of New Jersey
+ - [https://collegecore.tcnj.edu](https://collegecore.tcnj.edu)
+ - date_published: 2024-07-12T17:37:21+00:00
+
+ ## The College of New Jersey | Undergraduate Admissions
+ - [https://connect.tcnj.edu](https://connect.tcnj.edu)
+ - date_published: 2024-07-12T16:43:25+00:00
+
+ ## TCNJ | Division of Inclusive Excellence
+ - [https://diversity.tcnj.edu](https://diversity.tcnj.edu)
+ - date_published: 2024-07-13T16:09:06+00:00
+
+ ## The College of New Jersey | School of Education
+ - [https://education.tcnj.edu](https://education.tcnj.edu)
+ - date_published: 2024-07-13T17:42:02+00:00
+
+ ## The College of New Jersey | School of Engineering
+ - [https://engineering.tcnj.edu](https://engineering.tcnj.edu)
+ - date_published: 2024-07-12T15:12:40+00:00
+
  ## Support TCNJ
  - [https://give.tcnj.edu](https://give.tcnj.edu)
  - date_published: 2024-07-12T14:39:04+00:00
@@ -1727,6 +1823,10 @@
  ## Serving Arkansas and Beyond
  - [https://application.uark.edu](https://application.uark.edu)
  - date_published: 2024-07-08T14:52:58.962497+00:00
+
+ ## homepage 2022
+ - [https://arkansasresearch.uark.edu](https://arkansasresearch.uark.edu)
+ - date_published: 2024-12-18T10:51:32+00:00
 
  ## Campus Calendar
  - [https://calendars.uark.edu](https://calendars.uark.edu)
@@ -3925,104 +4025,4 @@
  ## ACO Center @ UCI – Algorithms, Combinatorics and Optimization
  - [https://acoi.ics.uci.edu](https://acoi.ics.uci.edu)
  - date_published: 2024-07-01T22:46:33.211388+00:00
-
- ## User account | UC Irvine Claire Trevor School of the Arts | Administration
- - [https://admin.arts.uci.edu](https://admin.arts.uci.edu)
- - date_published: 2024-07-09T22:45:16.997918+00:00
-
- ## This area is password protected [401]
- - [http://admin.education.uci.edu](http://admin.education.uci.edu)
- - date_published: 2024-07-09T22:36:27.722469+00:00
-
- ## UCI Office of Undergraduate Admissions
- - [http://admissions.uci.edu](http://admissions.uci.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## UCI School of Education Student Advising
- - [http://advise.education.uci.edu](http://advise.education.uci.edu)
- - date_published: 2024-07-09T22:36:21.222679+00:00
-
- ## Home | UCI Office of Academic Integrity & Student Conduct | UCI
- - [https://aisc.uci.edu](https://aisc.uci.edu)
- - date_published: 2024-07-01T22:55:24.909722+00:00
-
- ## Home
- - [https://alp.uci.edu](https://alp.uci.edu)
- - date_published: 2024-07-09T22:09:59+00:00
-
- ## engage.alumni.uci.edu – UCI Alumni Association
- - [http://alumni.uci.edu](http://alumni.uci.edu)
- - date_published: 2024-07-01T22:49:01.739895+00:00
-
- ## 401 No VPN
- - [http://analytics.eng.uci.edu](http://analytics.eng.uci.edu)
- - date_published: 2024-07-09T22:35:22.120007+00:00
-
- ## PeopleGrove
- - [https://antnet.uci.edu](https://antnet.uci.edu)
- - date_published: 2024-07-01T22:55:33+00:00
-
- ## Applying to UCI - UCI Graduate Division
- - [https://apply.grad.uci.edu](https://apply.grad.uci.edu)
- - date_published: 2021-08-12T20:58:52+00:00
-
- ## Home // SCPA Apps // UCI
- - [https://apps.communications.uci.edu](https://apps.communications.uci.edu)
- - date_published: 2024-07-09T22:31:48.525526+00:00
-
- ## UCI Machine Learning Repository
- - [https://archive.ics.uci.edu](https://archive.ics.uci.edu)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Department of Art | Claire Trevor School of the Arts
- - [https://art.arts.uci.edu](https://art.arts.uci.edu)
- - date_published: 2024-07-09T22:45:50.497623+00:00
-
- ## Beall Center for Art + Technology
- - [https://beallcenter.uci.edu](https://beallcenter.uci.edu)
- - date_published: 2024-07-09T22:45:42.640752+00:00
-
- ## UCI BioSci - Mind | Body | World. Life Interconnected.
- - [https://bio.uci.edu](https://bio.uci.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Home // Brand // UCI
- - [https://brand.uci.edu](https://brand.uci.edu)
- - date_published: 2024-05-09T06:49:44.603622+00:00
-
- ## Home - Brilliant Future: The Campaign for UCI
- - [https://brilliantfuture.uci.edu](https://brilliantfuture.uci.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## UCI CalTeach
- - [http://calteach.uci.edu](http://calteach.uci.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## UC Irvine
- - [https://campusgroups.uci.edu](https://campusgroups.uci.edu)
- - date_published: 2024-07-01T22:49:54.172325+00:00
-
- ## UCInetID Secure Web Login - Loading Session Information
- - [https://canvas.eee.uci.edu](https://canvas.eee.uci.edu)
- - date_published: 2024-07-09T22:31:40.984809+00:00
-
- ## Cardiovascular Innovation and Research Center – UCI – CIRC
- - [http://cardiovascular.eng.uci.edu](http://cardiovascular.eng.uci.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## UCI CARE | Campus Assault Resources and Education
- - [https://care.uci.edu](https://care.uci.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## UC IRVINE CASE PROGRAM
- - [http://case.education.uci.edu](http://case.education.uci.edu)
- - date_published: 2024-07-09T22:36:22.882677+00:00
-
- ## University of California, Irvine General Catalogue < University of California Irvine
- - [https://catalogue.uci.edu](https://catalogue.uci.edu)
- - date_published: 2023-09-20T13:38:38+00:00
-
- ## CERES | Connecting the EdTech Research EcoSystem
- - [https://ceres.uci.edu](https://ceres.uci.edu)
- - date_published: 2024-07-01T22:53:32+00:00
 
