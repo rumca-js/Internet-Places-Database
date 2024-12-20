@@ -1,3 +1,112 @@
+ ## Tarzana and Tarzana Ranch, California
+ - [https://tarzana.ca](https://tarzana.ca)
+ - date_published: 2019-01-24T20:47:24+00:00
+
+ ## Tasos Stamadianos
+ - [https://tasos.ca](https://tasos.ca)
+ - date_published: 2024-07-23T23:39:58.947796+00:00
+
+ ## Tau Games
+ - [https://taugames.ca](https://taugames.ca)
+ - date_published: 2023-10-04T18:07:10+00:00
+
+ ## Victoria Free-Net Association
+ - [http://victoria.tc.ca](http://victoria.tc.ca)
+ - date_published: 2015-09-10T08:14:51+00:00
+
+ ## TeleCommunities Canada - TéléCommunautés Canada
+ - [http://www.tc.ca](http://www.tc.ca)
+ - date_published: 2024-07-01T15:32:03.005239+00:00
+
+ ## TCAE
+ - [https://tcae.ca](https://tcae.ca)
+ - date_published: 2024-09-24T21:30:46.624355+00:00
+
+ ## TEACH ENGLISH IN JAPAN – A Webcomic by Jeffrey Ellis and Jonathon Dalton
+ - [http://www.teachenglishinjapan.ca](http://www.teachenglishinjapan.ca)
+ - date_published: 2024-08-19T06:13:02.658901+00:00
+
+ ## Achieve English Fluency and Confidence with Expert Coaching
+ - [https://teachersean.ca](https://teachersean.ca)
+ - date_published: 2024-10-30T18:28:02.689266+00:00
+
+ ## Safe Technical Systems. Everywhere | Technical Safety BC
+ - [https://www.technicalsafetybc.ca](https://www.technicalsafetybc.ca)
+ - date_published: 2024-12-18T11:31:31.730510+00:00
+
+ ## Telefilm Canada | Partner of choice
+ - [https://telefilm.ca](https://telefilm.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Université TÉLUQ
+ - [https://www.teluq.ca](https://www.teluq.ca)
+ - date_published: 2024-12-12T17:22:43.123070+00:00
+
+ ## Hassle-free returns
+ - [https://returns.tentree.ca](https://returns.tentree.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Sustainable Clothing by tentree® | Shop Organic + Plant Trees
+ - [https://tentree.ca](https://tentree.ca)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## article_acceuil
+ - [https://terrabelladesign.ca](https://terrabelladesign.ca)
+ - date_published: 2024-09-10T11:07:43+00:00
+
+ ## Free Driving Test Practice | Driver's License 2024 Canada - Tests.ca
+ - [https://tests.ca](https://tests.ca)
+ - date_published: 2024-09-02T06:38:40+00:00
+
+ ## HomePage - TFO Canada
+ - [https://tfocanada.ca](https://tfocanada.ca)
+ - date_published: 2024-12-09T16:04:17.930475+00:00
+
+ ## ThatGeoGuy - Home
+ - [https://www.thatgeoguy.ca](https://www.thatgeoguy.ca)
+ - date_published: 2024-06-19T21:58:24+00:00
+
+ ## The Big Story Podcast
+ - [https://thebigstorypodcast.ca](https://thebigstorypodcast.ca)
+ - date_published: 2024-02-24T18:20:54.908441+00:00
+
+ ## The Bridgehead | From the front lines of the culture wars.
+ - [https://thebridgehead.ca](https://thebridgehead.ca)
+ - date_published: 2023-10-25T12:07:41.693718+00:00
+
+ ## Home | The Canadian Encyclopedia
+ - [https://www.thecanadianencyclopedia.ca](https://www.thecanadianencyclopedia.ca)
+ - date_published: 2024-09-12T18:46:53.675499+00:00
+
+ ## thecanadianpressnews.ca
+ - [https://thecanadianpressnews.ca](https://thecanadianpressnews.ca)
+ - date_published: 2023-11-08T21:50:08.227809+00:00
+ - tags: ['canada news']
+
+ ## Craigdarroch Castle | Visit Canada's Castle | Victoria BC
+ - [https://thecastle.ca](https://thecastle.ca)
+ - date_published: 2024-09-05T16:02:02.804217+00:00
+
+ ## Welcome to Centre for Digital Media
+ - [http://thecdm.ca](http://thecdm.ca)
+ - date_published: 2024-07-19T22:10:13+00:00
+
+ ## Canadian Marketing Association
+ - [https://thecma.ca](https://thecma.ca)
+ - date_published: 2024-09-16T03:08:23.475159+00:00
+
+ ## My Tickets | ShowClix
+ - [https://wemtickets.thecomicstrip.ca](https://wemtickets.thecomicstrip.ca)
+ - date_published: 2024-08-11T06:51:41.530442+00:00
+
+ ## The Curve - Unique Glassware and stickers
+ - [http://www.thecurve.ca](http://www.thecurve.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## the deep dive | Providing stock analysis for investors of the Canadian junior markets
+ - [https://thedeepdive.ca](https://thedeepdive.ca)
+ - date_published: 2023-10-25T12:07:49.884004+00:00
+
  ## home | the digital diarist
  - [https://thedigitaldiarist.ca](https://thedigitaldiarist.ca)
  - date_published: 2024-07-02T19:06:27+00:00
@@ -3909,112 +4018,4 @@
  ## Mount Royal Write Club
  - [https://writeclub.ca](https://writeclub.ca)
  - date_published: 2024-03-09T00:00:00+00:00
-
- ## WWF Canada
- - [https://fundraisers.wwf.ca](https://fundraisers.wwf.ca)
- - date_published: 2024-07-03T02:40:23.052281+00:00
-
- ## Home - World Wildlife Fund Canada
- - [https://legacy.wwf.ca](https://legacy.wwf.ca)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## re:grow | WWF-Canada
- - [https://regrow.wwf.ca](https://regrow.wwf.ca)
- - date_published: 2024-07-03T02:40:24.763204+00:00
-
- ## Symbolically Adopt a Species
- - [https://shop.wwf.ca](https://shop.wwf.ca)
- - date_published: 2024-07-03T02:40:51.213652+00:00
-
- ## WWF Living Planet Technology Hub – Where technology meets nature
- - [https://techhub.wwf.ca](https://techhub.wwf.ca)
- - date_published: 2019-08-30T00:00:00+00:00
-
- ## World Wildlife Fund Canada | WWF.ca
- - [https://wwf.ca](https://wwf.ca)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Waterloo Wellington Science and Engineering Fair – WWSEF
- - [https://wwsef.ca](https://wwsef.ca)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## X92.9 - Calgary's Alternative
- - [https://www.x929.ca](https://www.x929.ca)
- - date_published: 2024-06-27T12:52:54+00:00
-
- ## Shop Xerox Canada - Buy Printers, All-in-One Printers, Supplies
- - [https://www.shop.xerox.ca](https://www.shop.xerox.ca)
- - date_published: 2024-06-27T16:17:03.661085+00:00
-
- ## Multifunction laser printers, business services and printer supplies - Xerox Canada
- - [https://www.xerox.ca](https://www.xerox.ca)
- - date_published: 2024-06-27T16:16:07.477881+00:00
-
- ## Yahoo is part of the Yahoo family of brands
- - [https://yahoo.ca](https://yahoo.ca)
- - date_published: 2024-07-11T12:26:40.439534+00:00
-
- ## Home Page - Yellow Cedar
- - [https://www.yellowcedar.ca](https://www.yellowcedar.ca)
- - date_published: 2024-06-16T21:38:39.004375+00:00
-
- ## Yelp
- - [https://fr.m.yelp.ca](https://fr.m.yelp.ca)
- - date_published: 2024-07-01T06:59:39.407708+00:00
-
- ## Yelp
- - [https://fr.yelp.ca](https://fr.yelp.ca)
- - date_published: 2024-07-01T06:59:34.892880+00:00
-
- ## Yelp
- - [https://m.yelp.ca](https://m.yelp.ca)
- - date_published: 2024-07-20T21:57:04.302924+00:00
-
- ## Yelp
- - [https://yelp.ca](https://yelp.ca)
- - date_published: 2024-07-20T21:56:59.176223+00:00
-
- ## YETI Canada: Drinkware, Coolers, Bags and More
- - [https://www.yeti.ca](https://www.yeti.ca)
- - date_published: 2024-09-17T23:36:55.258478+00:00
-
- ## YHM Designs • Travel Home Decor, Apparel & Accessories • Buy Online
- - [https://www.yhmdesigns.ca](https://www.yhmdesigns.ca)
- - date_published: 2024-12-04T10:43:58.601864+00:00
-
- ## Home
- - [https://www.ylaw.ca](https://www.ylaw.ca)
- - date_published: 2024-10-29T04:18:35.269296+00:00
-
- ## Yogastudios in Canada, Canada
- - [http://www.yogastudios.ca](http://www.yogastudios.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## BOOZHOO, SHE:KON, TANSI, TUNNGASUGIT, WACHAY, GREETINGS | Centre for Indigenous Student Services
- - [https://aboriginal.info.yorku.ca](https://aboriginal.info.yorku.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Student Accessibility Services | Division of Students | York University
- - [https://accessibility.students.yorku.ca](https://accessibility.students.yorku.ca)
- - date_published: 2024-04-30T05:32:31.061365+00:00
-
- ## ACMAPS
- - [https://acmaps.info.yorku.ca](https://acmaps.info.yorku.ca)
- - date_published: 2024-07-21T07:20:17+00:00
-
- ## Advanced Disaster, Emergency and Rapid Response Simulation (ADERSIM)
- - [https://adersim.info.yorku.ca](https://adersim.info.yorku.ca)
- - date_published: 2024-05-09T05:23:02.624437+00:00
-
- ## Student Advising at York | Division of Students | York University
- - [https://advising.students.yorku.ca](https://advising.students.yorku.ca)
- - date_published: 2024-07-21T07:57:09.049490+00:00
-
- ## Welcome to the Alternate Exam/Test Scheduling Website | Alternate Exam/Test Scheduling | York University
- - [https://altexams.students.yorku.ca](https://altexams.students.yorku.ca)
- - date_published: 2024-07-21T07:57:13.910511+00:00
-
- ## Passport York Login
- - [https://apps5.sis.yorku.ca](https://apps5.sis.yorku.ca)
- - date_published: 2024-07-21T07:57:36.783442+00:00
 

@@ -1,3 +1,43 @@
+ ## Welcome to CS - CS
+ - [http://eprints-dev5.cs.univie.ac.at](http://eprints-dev5.cs.univie.ac.at)
+ - date_published: 2024-07-08T16:13:22.188078+00:00
+
+ ## Mission Statement
+ - [http://ethikkommission.univie.ac.at](http://ethikkommission.univie.ac.at)
+ - date_published: 2024-10-14T23:57:46.170899+00:00
+
+ ## Veranstaltungsmanagement
+ - [http://event.univie.ac.at](http://event.univie.ac.at)
+ - date_published: 2024-10-14T23:57:37.543050+00:00
+
+ ## Forschungsservice
+ - [http://forschungsservice.univie.ac.at](http://forschungsservice.univie.ac.at)
+ - date_published: 2024-10-14T23:57:28.723581+00:00
+
+ ## Bereit für eine Entdeckungsreise?
+ - [http://fuehrungen.univie.ac.at](http://fuehrungen.univie.ac.at)
+ - date_published: 2024-10-14T23:58:49.251845+00:00
+
+ ## 650 plus | Geschichte der Universität Wien
+ - [http://geschichte.univie.ac.at](http://geschichte.univie.ac.at)
+ - date_published: 2024-10-14T21:42:19+00:00
+
+ ## Grüne Schule
+ - [http://grueneschule.univie.ac.at](http://grueneschule.univie.ac.at)
+ - date_published: 2024-10-14T23:59:48.962274+00:00
+
+ ## Webseiten
+ - [https://homepage.univie.ac.at](https://homepage.univie.ac.at)
+ - date_published: 2024-04-30T07:47:14.236254+00:00
+
+ ## Societal Impact Plattform
+ - [https://impact-sowi.univie.ac.at](https://impact-sowi.univie.ac.at)
+ - date_published: 2024-10-14T23:56:45.421836+00:00
+
+ ## Home
+ - [http://international.univie.ac.at](http://international.univie.ac.at)
+ - date_published: 2024-10-14T23:58:58.453747+00:00
+
  ## Dashboard - Wiki der Universität Wien
  - [http://intra.univie.ac.at](http://intra.univie.ac.at)
  - date_published: 2024-10-14T23:57:58.306094+00:00
@@ -3316,7 +3356,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-10-14T23:57:11+00:00
 
  ## PVT Austria - Ihr Sonnenkraftwerk aus einer Hand
- - [https://www.pvtechnologies.at](https://www.pvtechnologies.at)
+ - [https://pvtechnologies.at](https://pvtechnologies.at)
  - date_published: 2024-10-21T06:57:43+00:00
 
  ## PwC Österreich
@@ -3972,44 +4012,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Bibliothek der TU Graz - TU Graz
  - [https://ub.tugraz.at](https://ub.tugraz.at)
  - date_published: 2024-08-11T12:07:20.473615+00:00
-
- ## IAIK – Institute of Applied Information Processing and Communications | TU Graz
- - [https://www.iaik.tugraz.at](https://www.iaik.tugraz.at)
- - date_published: 2024-07-02T18:35:05+00:00
-
- ## SPSC @ TU Graz
- - [https://www.spsc.tugraz.at](https://www.spsc.tugraz.at)
- - date_published: 2024-06-20T14:09:07+00:00
-
- ## Webserver für Studierende der TU Graz
- - [https://www.student.tugraz.at](https://www.student.tugraz.at)
- - date_published: 2014-12-15T12:47:55+00:00
-
- ## Tupalo.com - Telefon, Karte, Bewertungen von Restaurants, Cafés, Friseursalons, Geschäften
- - [https://www.tupalo.at](https://www.tupalo.at)
- - date_published: 2024-06-29T19:12:19.756242+00:00
-
- ## TÜV AUSTRIA Akademie | Kurse Sicherheit, Technik, Umwelt, Qualität, Führung
- - [https://www.tuv-akademie.at](https://www.tuv-akademie.at)
- - date_published: 2024-07-14T10:08:09.409840+00:00
-
- ## reposiTUm: Home
- - [https://repositum.tuwien.at](https://repositum.tuwien.at)
- - date_published: 2024-06-28T12:40:43.824903+00:00
-
- ## Technische Universität Wien, TUW | TU Wien
- - [https://tuwien.at](https://tuwien.at)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Domain Default page
- - [https://tweb.at](https://tweb.at)
- - date_published: 2022-01-27T13:25:37+00:00
-
- ## Umweltbundesamt
- - [http://www.umweltbundesamt.at](http://www.umweltbundesamt.at)
- - date_published: 2024-09-13T16:21:56.455680+00:00
-
- ## Home | Philharmonie der Universität Wien
- - [http://www.unichor-wien.at](http://www.unichor-wien.at)
- - date_published: 2024-10-14T23:59:15.266153+00:00
 

@@ -1,3 +1,31 @@
+ ## Detenga los ciberataques avanzados con Vectra AI
+ - [https://es.vectra.ai](https://es.vectra.ai)
+ - date_published: 2024-10-30T09:44:03+00:00
+
+ ## Arrêter les cyberattaques avancées avec Vectra AI
+ - [https://fr.vectra.ai](https://fr.vectra.ai)
+ - date_published: 2024-10-30T09:44:03+00:00
+
+ ## Fermare i cyberattacchi avanzati con Vectra AI
+ - [https://it.vectra.ai](https://it.vectra.ai)
+ - date_published: 2024-10-30T09:44:03+00:00
+
+ ## Vectra AIで高度なサイバー攻撃を阻止する
+ - [https://ja.vectra.ai](https://ja.vectra.ai)
+ - date_published: 2024-10-30T09:44:03+00:00
+
+ ## Trust Center | Powered by Drata
+ - [https://trust.vectra.ai](https://trust.vectra.ai)
+ - date_published: 2024-10-30T12:43:41.274501+00:00
+
+ ## Gelişmiş Siber Saldırıları Durdurun Vectra AI
+ - [https://tr.vectra.ai](https://tr.vectra.ai)
+ - date_published: 2024-10-30T09:44:03+00:00
+
+ ## Stop Advanced Cyberattacks with Vectra AI
+ - [https://vectra.ai](https://vectra.ai)
+ - date_published: 2024-10-30T09:44:03+00:00
+
  ## Home - Vee
  - [https://vee.ai](https://vee.ai)
  - date_published: 2024-10-29T22:58:48+00:00
@@ -228,7 +256,7 @@ Creative Solutions
  - date_published: 2024-12-03T17:41:55.448169+00:00
 
  ## Vogent
- - [https://www.vogent.ai](https://www.vogent.ai)
+ - [https://vogent.ai](https://vogent.ai)
  - date_published: 2024-10-16T04:09:03+00:00
 
  ## Voice AI
@@ -368,7 +396,7 @@ Creative Solutions
  - date_published: 2024-06-19T19:50:34.740656+00:00
 
  ## Warmest.ai - Your ChatGPT Email Assistant.
- - [https://www.warmest.ai](https://www.warmest.ai)
+ - [https://warmest.ai](https://warmest.ai)
  - date_published: 2024-10-17T15:31:03+00:00
 
  ## Warmly Resource Library
@@ -528,7 +556,7 @@ Creative Solutions
  - date_published: 2024-09-02T10:08:21.168312+00:00
 
  ## Let AI handle your customer support
- - [https://www.webwhiz.ai](https://www.webwhiz.ai)
+ - [https://webwhiz.ai](https://webwhiz.ai)
  - date_published: 2024-09-17T11:23:47+00:00
 
  ## Webyn | Conversion Rate Optimization as a Service
@@ -3988,32 +4016,4 @@ Creative Solutions
  ## Fanbase | Next-Gen Social Media
  - [https://fanbase.app](https://fanbase.app)
  - date_published: 2024-07-14T09:21:17.533991+00:00
-
- ## Fantastical
- - [https://fantastical.app](https://fantastical.app)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## farmOS Field Kit
- - [https://farmos.app](https://farmos.app)
- - date_published: 2024-06-03T11:19:01.917475+00:00
-
- ## Instagram Downloader - Download Instagram Video, Photos, IGTV & Reels
- - [https://fastdl.app](https://fastdl.app)
- - date_published: 2024-10-30T11:32:26.668301+00:00
-
- ## Feedback - Comflowy
- - [https://comflowy.featurebase.app](https://comflowy.featurebase.app)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## User Feedback Tool
- - [https://featurebase.app](https://featurebase.app)
- - date_published: 2024-07-10T05:36:04.521417+00:00
-
- ## Feedback - Keep Design
- - [https://keepdesign.featurebase.app](https://keepdesign.featurebase.app)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Roadmap - NextUI
- - [https://nextuioss.featurebase.app](https://nextuioss.featurebase.app)
- - date_published: 2024-03-01T00:00:00+00:00
 

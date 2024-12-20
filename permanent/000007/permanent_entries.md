@@ -1,3 +1,43 @@
+ ## Tabloid: The Clickbait Headline Programming Language (2021)
+ - [https://tabloid.vercel.app](https://tabloid.vercel.app)
+ - date_published: 2024-07-15T00:12:59+00:00
+
+ ## TAIT | Event Production & Experiences
+ - [https://tait-staging.vercel.app](https://tait-staging.vercel.app)
+ - date_published: 2024-12-16T13:10:22.636068+00:00
+
+ ## TaxGPT
+ - [https://tax-gpt-theta.vercel.app](https://tax-gpt-theta.vercel.app)
+ - date_published: 2024-04-30T02:13:51.969387+00:00
+
+ ## tdquang
+ - [https://tdquang.vercel.app](https://tdquang.vercel.app)
+ - date_published: 2024-07-08T22:23:39.878885+00:00
+
+ ## TextToVideo | Create videos from text
+ - [https://text-to-video.vercel.app](https://text-to-video.vercel.app)
+ - date_published: 2024-09-13T20:26:07.469770+00:00
+
+ ## React App
+ - [https://thetahacks2022.vercel.app](https://thetahacks2022.vercel.app)
+ - date_published: 2024-07-19T20:46:02.308048+00:00
+
+ ## App
+ - [https://thin-backend-todo-app.vercel.app](https://thin-backend-todo-app.vercel.app)
+ - date_published: 2024-09-20T15:43:15.810954+00:00
+
+ ## ThoughtSpot | The AI-Powered Analytics Platform
+ - [https://thoughtspot-git-algolia-thoughtspot-site.vercel.app](https://thoughtspot-git-algolia-thoughtspot-site.vercel.app)
+ - date_published: 2024-10-14T10:59:00.553244+00:00
+
+ ## Search & AI-Driven Analytics | ThoughtSpot
+ - [https://thoughtspot-git-test2-thoughtspot-site.vercel.app](https://thoughtspot-git-test2-thoughtspot-site.vercel.app)
+ - date_published: 2024-10-14T10:57:09.363412+00:00
+
+ ## 太微中文教程 — 中文社区共建的TiddlyWiki教程，体验从入门到知识管理大师之路
+ - [https://tiddly-wiki-chinese-tutorial.vercel.app](https://tiddly-wiki-chinese-tutorial.vercel.app)
+ - date_published: 2024-09-06T20:05:32.087994+00:00
+
  ## TizenTube | Ad-free experience on your Samsung TV.
  - [https://tizentube.vercel.app](https://tizentube.vercel.app)
  - date_published: 2024-11-09T11:53:23+00:00
@@ -1699,7 +1739,7 @@
  - date_published: 2024-10-28T22:48:56+00:00
 
  ## Productos y consejos para el cuidado del cabello | Pantene
- - [https://www.pantene.com.ar](https://www.pantene.com.ar)
+ - [https://pantene.com.ar](https://pantene.com.ar)
  - date_published: 2024-10-17T11:14:32+00:00
 
  ## partido interdimensional pirata
@@ -3339,7 +3379,7 @@
  - date_published: 2024-08-18T11:02:05.688577+00:00
 
  ## Circular City
- - [https://www.circularcity.asia](https://www.circularcity.asia)
+ - [https://circularcity.asia](https://circularcity.asia)
  - date_published: 2024-10-22T17:02:34+00:00
 
  ## Cision - Global Cloud-Based Communications and PR Solutions Leader
@@ -3996,44 +4036,4 @@ October 2024 in Singapore
  ## Entrepreneurship
  - [http://entrepreneurship.univie.ac.at](http://entrepreneurship.univie.ac.at)
  - date_published: 2024-10-14T23:58:23.974047+00:00
-
- ## Welcome to CS - CS
- - [http://eprints-dev5.cs.univie.ac.at](http://eprints-dev5.cs.univie.ac.at)
- - date_published: 2024-07-08T16:13:22.188078+00:00
-
- ## Mission Statement
- - [http://ethikkommission.univie.ac.at](http://ethikkommission.univie.ac.at)
- - date_published: 2024-10-14T23:57:46.170899+00:00
-
- ## Veranstaltungsmanagement
- - [http://event.univie.ac.at](http://event.univie.ac.at)
- - date_published: 2024-10-14T23:57:37.543050+00:00
-
- ## Forschungsservice
- - [http://forschungsservice.univie.ac.at](http://forschungsservice.univie.ac.at)
- - date_published: 2024-10-14T23:57:28.723581+00:00
-
- ## Bereit für eine Entdeckungsreise?
- - [http://fuehrungen.univie.ac.at](http://fuehrungen.univie.ac.at)
- - date_published: 2024-10-14T23:58:49.251845+00:00
-
- ## 650 plus | Geschichte der Universität Wien
- - [http://geschichte.univie.ac.at](http://geschichte.univie.ac.at)
- - date_published: 2024-10-14T21:42:19+00:00
-
- ## Grüne Schule
- - [http://grueneschule.univie.ac.at](http://grueneschule.univie.ac.at)
- - date_published: 2024-10-14T23:59:48.962274+00:00
-
- ## Webseiten
- - [https://homepage.univie.ac.at](https://homepage.univie.ac.at)
- - date_published: 2024-04-30T07:47:14.236254+00:00
-
- ## Societal Impact Plattform
- - [https://impact-sowi.univie.ac.at](https://impact-sowi.univie.ac.at)
- - date_published: 2024-10-14T23:56:45.421836+00:00
-
- ## Home
- - [http://international.univie.ac.at](http://international.univie.ac.at)
- - date_published: 2024-10-14T23:58:58.453747+00:00
 

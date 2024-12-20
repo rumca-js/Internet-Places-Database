@@ -1,3 +1,7 @@
+ ## Calligrapher.ai: Realistic computer-generated handwriting
+ - [https://calligrapher.ai](https://calligrapher.ai)
+ - date_published: 2023-10-25T11:36:44.320352+00:00
+
  ## Candy.AI: Create Your AI Girlfriend & Start Chatting
  - [https://candy.ai](https://candy.ai)
  - date_published: 2024-06-14T08:51:37.223431+00:00
@@ -40,7 +44,7 @@
  - date_published: 2024-07-24T02:33:47.796589+00:00
 
  ## captionit - Instagram Caption Generator
- - [https://www.captionit.ai](https://www.captionit.ai)
+ - [https://captionit.ai](https://captionit.ai)
  - date_published: 2024-10-17T15:31:43+00:00
 
  ## Captions | Your AI-powered creative studio
@@ -590,7 +594,7 @@ Welcome
  - date_published: 2024-06-14T09:26:41.770225+00:00
 
  ## CodeConvert AI - Convert code with a click of a button
- - [http://codeconvert.ai](http://codeconvert.ai)
+ - [https://codeconvert.ai](https://codeconvert.ai)
  - date_published: 2024-09-20T13:06:54+00:00
 
  ## CodeFlash
@@ -1780,7 +1784,7 @@ Welcome
 
  ## Doctrina AI | Application
  - [https://app.doctrina.ai](https://app.doctrina.ai)
- - date_published: 2024-09-14T11:05:56+00:00
+ - date_published: 2024-09-14T11:04:53+00:00
 
  ## Doctrina | AI Education Suite
  - [https://www.doctrina.ai](https://www.doctrina.ai)
@@ -3810,7 +3814,7 @@ Welcome
  - date_published: 2024-04-28T05:59:38.445143+00:00
 
  ## HereAfter AI — Interactive Memory App — Try Free
- - [https://www.hereafter.ai](https://www.hereafter.ai)
+ - [https://hereafter.ai](https://hereafter.ai)
  - date_published: 2024-10-22T15:56:43+00:00
 
  ## Homepage - hermann.ai
@@ -3864,6 +3868,7 @@ Welcome
  ## Family AI » Ollie
  - [https://heyollie.ai](https://heyollie.ai)
  - date_published: 2024-10-07T22:26:33+00:00
+ - date_dead_since: 2024-12-19T08:07:02.264971+00:00
 
  ## HeyScience - your personal AI assistant
  - [https://www.heyscience.ai](https://www.heyscience.ai)
@@ -4012,8 +4017,4 @@ Welcome
  ## Humata: AI for your files
  - [https://humata.ai](https://humata.ai)
  - date_published: 2024-10-30T19:38:55.941842+00:00
-
- ## AI Humanizer - Humanize AI - AI Detector Bypass | Humbot
- - [https://humbot.ai](https://humbot.ai)
- - date_published: 2024-06-19T19:41:47.142990+00:00
 

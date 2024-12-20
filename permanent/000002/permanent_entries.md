@@ -1,3 +1,7 @@
+ ## AI Humanizer - Humanize AI - AI Detector Bypass | Humbot
+ - [https://humbot.ai](https://humbot.ai)
+ - date_published: 2024-06-19T19:41:47.142990+00:00
+
  ## Home · Hume AI
  - [https://beta.hume.ai](https://beta.hume.ai)
  - date_published: 2024-07-11T14:23:08.852363+00:00
@@ -817,6 +821,10 @@
  - [https://kabam.ai](https://kabam.ai)
  - date_published: 2024-12-15T15:27:56.611974+00:00
 
+ ## Home - Performance Programmatic | Kaden
+ - [https://kaden.ai](https://kaden.ai)
+ - date_published: 2024-12-19T13:06:26.481980+00:00
+
  ## Question answering service - Kagi.ai
  - [https://kagi.ai](https://kagi.ai)
  - date_published: 2021-02-27T00:33:11+00:00
@@ -1219,6 +1227,10 @@
  - [https://lamini.ai](https://lamini.ai)
  - date_published: 2023-10-25T11:39:44.613248+00:00
 
+ ## Lancey | AI copilot for product teams
+ - [https://www.lancey.ai](https://www.lancey.ai)
+ - date_published: 2024-12-12T19:07:26+00:00
+
  ## Homepage
  - [https://landing.ai](https://landing.ai)
  - date_published: 2024-06-14T00:00:00+00:00
@@ -1391,6 +1403,10 @@
  - [https://lemonaid.ai](https://lemonaid.ai)
  - date_published: 2024-10-21T13:19:16+00:00
 
+ ## Lemonaide AI — The #1 AI Melody Generator Powered By Industry Producers
+ - [https://www.lemonaide.ai](https://www.lemonaide.ai)
+ - date_published: 2024-12-03T14:15:56+00:00
+
  ## Leonardo Ai | Sign up
  - [https://affiliates.leonardo.ai](https://affiliates.leonardo.ai)
  - date_published: 2024-09-05T12:54:51.432816+00:00
@@ -1496,6 +1512,10 @@
  - [https://lifearchitect.ai](https://lifearchitect.ai)
  - date_published: 2023-10-25T08:41:31.295096+00:00
  - tags: ['personal']
+
+ ## LifeCoachDaily - #1 AI Life Coach
+ - [https://www.lifecoachdaily.ai](https://www.lifecoachdaily.ai)
+ - date_published: 2024-12-19T11:15:50.331172+00:00
 
  ## Lightning AI
  - [https://lightning.ai](https://lightning.ai)
@@ -1785,6 +1805,10 @@
  ## Lumino | Global Cloud for AI Training
  - [https://www.luminolabs.ai](https://www.luminolabs.ai)
  - date_published: 2024-09-07T00:00:00+00:00
+
+ ## Lummi — Free AI Stock Images, Illustrations & 3D
+ - [https://www.lummi.ai](https://www.lummi.ai)
+ - date_published: 2024-12-19T14:59:18.756008+00:00
 
  ## Lumona
  - [https://lumona.ai](https://lumona.ai)
@@ -2531,6 +2555,10 @@
  ## muse.ai | Next-gen video hosting with the most advanced in-video search
  - [https://muse.ai](https://muse.ai)
  - date_published: 2024-06-28T23:41:55.062267+00:00
+
+ ## Musho.ai
+ - [https://www.musho.ai](https://www.musho.ai)
+ - date_published: 2024-12-19T14:58:54.545118+00:00
 
  ## AI Audio Models to Power Your Music Business
  - [https://music.ai](https://music.ai)
@@ -3993,32 +4021,4 @@
  ## podcast.ai
  - [https://podcast.ai](https://podcast.ai)
  - date_published: 2023-10-25T11:41:30.853722+00:00
-
- ## Podcastle Help Guides
- - [https://help.podcastle.ai](https://help.podcastle.ai)
- - date_published: 2024-10-30T16:43:48.807975+00:00
-
- ## Podcastle: All-in-One Podcast Software
- - [https://podcastle.ai](https://podcastle.ai)
- - date_published: 2024-06-19T20:10:37.323074+00:00
-
- ## Podcast Marketing AI
- - [https://podcastmarketing.ai](https://podcastmarketing.ai)
- - date_published: 2024-06-19T19:05:11.386894+00:00
-
- ## PodEngine.ai
- - [https://www.podengine.ai](https://www.podengine.ai)
- - date_published: 2024-09-14T22:56:26.465933+00:00
-
- ## Podfy.ai - AI-powered Video Repurposing
- - [https://www.podfy.ai](https://www.podfy.ai)
- - date_published: 2024-11-29T21:07:43+00:00
-
- ## Podial: Generate podcasts to learn anything
- - [https://podial.ai](https://podial.ai)
- - date_published: 2024-10-16T18:20:38.673639+00:00
-
- ## Podcast transcripts, sponsors, and audience data - Podscribe
- - [https://app.podscribe.ai](https://app.podscribe.ai)
- - date_published: 2024-06-13T13:45:33+00:00
 

@@ -1,3 +1,31 @@
+ ## Podcastle Help Guides
+ - [https://help.podcastle.ai](https://help.podcastle.ai)
+ - date_published: 2024-10-30T16:43:48.807975+00:00
+
+ ## Podcastle: All-in-One Podcast Software
+ - [https://podcastle.ai](https://podcastle.ai)
+ - date_published: 2024-06-19T20:10:37.323074+00:00
+
+ ## Podcast Marketing AI
+ - [https://podcastmarketing.ai](https://podcastmarketing.ai)
+ - date_published: 2024-06-19T19:05:11.386894+00:00
+
+ ## PodEngine.ai
+ - [https://www.podengine.ai](https://www.podengine.ai)
+ - date_published: 2024-09-14T22:56:26.465933+00:00
+
+ ## Podfy.ai - AI-powered Video Repurposing
+ - [https://www.podfy.ai](https://www.podfy.ai)
+ - date_published: 2024-11-29T21:07:43+00:00
+
+ ## Podial: Generate podcasts to learn anything
+ - [https://podial.ai](https://podial.ai)
+ - date_published: 2024-10-16T18:20:38.673639+00:00
+
+ ## Podcast transcripts, sponsors, and audience data - Podscribe
+ - [https://app.podscribe.ai](https://app.podscribe.ai)
+ - date_published: 2024-06-13T13:45:33+00:00
+
  ## Podcast Transcripts - PodText
  - [https://podtext.ai](https://podtext.ai)
  - date_published: 2023-10-25T11:41:33.465633+00:00
@@ -2127,7 +2155,7 @@
  - date_published: 2024-05-08T10:31:30.007146+00:00
 
  ## SOME1 - An AI Workforce company
- - [https://www.some1.ai](https://www.some1.ai)
+ - [https://some1.ai](https://some1.ai)
  - date_published: 2024-10-21T14:33:29+00:00
 
  ## Show HN: Sonauto – a more controllable AI music creator
@@ -2585,6 +2613,7 @@
  ## Suada - Uncensored LLM for AI Characters
  - [https://suada.ai](https://suada.ai)
  - date_published: 2024-10-01T23:44:29+00:00
+ - date_dead_since: 2024-12-19T07:33:41.582402+00:00
 
  ## SubstrateAI | Artificial intelligence for the people.
  - [https://substrate.ai](https://substrate.ai)
@@ -3005,7 +3034,7 @@
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## TEXT2SQL.AI - Generate SQL queries with AI - Try for free
- - [http://text2sql.ai](http://text2sql.ai)
+ - [https://text2sql.ai](https://text2sql.ai)
  - date_published: 2024-10-17T17:37:07+00:00
 
  ## Texta.ai Write marketing copy in Seconds
@@ -3993,33 +4022,5 @@
 
  ## Stoppen Sie fortgeschrittene Cyberangriffe mit Vectra AI
  - [https://de.vectra.ai](https://de.vectra.ai)
- - date_published: 2024-10-30T09:44:03+00:00
-
- ## Detenga los ciberataques avanzados con Vectra AI
- - [https://es.vectra.ai](https://es.vectra.ai)
- - date_published: 2024-10-30T09:44:03+00:00
-
- ## Arrêter les cyberattaques avancées avec Vectra AI
- - [https://fr.vectra.ai](https://fr.vectra.ai)
- - date_published: 2024-10-30T09:44:03+00:00
-
- ## Fermare i cyberattacchi avanzati con Vectra AI
- - [https://it.vectra.ai](https://it.vectra.ai)
- - date_published: 2024-10-30T09:44:03+00:00
-
- ## Vectra AIで高度なサイバー攻撃を阻止する
- - [https://ja.vectra.ai](https://ja.vectra.ai)
- - date_published: 2024-10-30T09:44:03+00:00
-
- ## Trust Center | Powered by Drata
- - [https://trust.vectra.ai](https://trust.vectra.ai)
- - date_published: 2024-10-30T12:43:41.274501+00:00
-
- ## Gelişmiş Siber Saldırıları Durdurun Vectra AI
- - [https://tr.vectra.ai](https://tr.vectra.ai)
- - date_published: 2024-10-30T09:44:03+00:00
-
- ## Stop Advanced Cyberattacks with Vectra AI
- - [https://vectra.ai](https://vectra.ai)
  - date_published: 2024-10-30T09:44:03+00:00
 

@@ -1,3 +1,83 @@
+ ## Universidade Federal de São Carlos — Universidade Federal de Sao Carlos
+ - [http://www.ufscar.br](http://www.ufscar.br)
+ - date_published: 2024-07-22T08:54:08.061213+00:00
+
+ ## Página Inicial
+ - [https://ufsm.br](https://ufsm.br)
+ - date_published: 2024-10-30T20:18:52.948734+00:00
+
+ ## UFSMPublica
+ - [http://ufsmpublica.ufsm.br](http://ufsmpublica.ufsm.br)
+ - date_published: 2024-12-15T13:34:37.425352+00:00
+
+ ## Eventos UFU | Portal de Eventos da Universidade Federal de Uberlândia
+ - [https://eventos.ufu.br](https://eventos.ufu.br)
+ - date_published: 2024-05-10T06:57:17.711249+00:00
+
+ ## Bibliotecas
+ - [http://www.bibliotecas.ufu.br](http://www.bibliotecas.ufu.br)
+ - date_published: 2024-07-13T02:25:56.738430+00:00
+
+ ## Início | Comunica UFU
+ - [http://www.comunica.ufu.br](http://www.comunica.ufu.br)
+ - date_published: 2024-07-13T02:25:51.710302+00:00
+
+ ## Relações Internacionais e Interinstitucionais
+ - [http://www.dri.ufu.br](http://www.dri.ufu.br)
+ - date_published: 2024-07-13T02:25:27.966417+00:00
+
+ ## EDUFU - Editora da Universidade Federal de Uberlândia | Universidade Federal de Uberlândia
+ - [http://www.edufu.ufu.br](http://www.edufu.ufu.br)
+ - date_published: 2024-07-13T02:25:39.885123+00:00
+
+ ## Restaurante Universitário
+ - [http://www.ru.ufu.br](http://www.ru.ufu.br)
+ - date_published: 2016-05-27T00:02:45+00:00
+
+ ## UFU | Universidade Federal de Uberlândia
+ - [http://www.ufu.br](http://www.ufu.br)
+ - date_published: 2024-07-13T02:25:31+00:00
+
+ ## Aprender 3
+ - [https://aprender3.unb.br](https://aprender3.unb.br)
+ - date_published: 2024-07-20T11:14:31+00:00
+
+ ## ACE | Arquivo Central
+ - [http://arquivocentral.unb.br](http://arquivocentral.unb.br)
+ - date_published: 2024-07-20T11:05:52+00:00
+
+ ## AvaliaçãoUnB - Início
+ - [http://avaliacao.unb.br](http://avaliacao.unb.br)
+ - date_published: 2024-07-20T11:14:57.316488+00:00
+
+ ## UnB - Boas Vindas - Início
+ - [http://boasvindas.unb.br](http://boasvindas.unb.br)
+ - date_published: 2024-07-20T11:06:13+00:00
+
+ ## DASU/DAC - Início
+ - [http://dasu.unb.br](http://dasu.unb.br)
+ - date_published: 2024-07-20T11:06:06+00:00
+
+ ## DDS - Início
+ - [http://dds.dac.unb.br](http://dds.dac.unb.br)
+ - date_published: 2024-07-20T11:16:00+00:00
+
+ ## Diretoria de Organizações Comunitárias Cultura e Arte - Início
+ - [http://docca.unb.br](http://docca.unb.br)
+ - date_published: 2024-07-20T11:19:08+00:00
+
+ ## Editora Universidade de Brasília - Editora UnB
+ - [http://editora.unb.br](http://editora.unb.br)
+ - date_published: 2024-07-20T11:20:42.457719+00:00
+
+ ## Coordenação de Esporte e Lazer - CEL - Início
+ - [http://esporte.unb.br](http://esporte.unb.br)
+ - date_published: 2024-07-20T11:20:05+00:00
+
+ ## Estude na UnB - Graduação - Início
+ - [http://estudenaunb.unb.br](http://estudenaunb.unb.br)
+ - date_published: 2024-07-20T11:07:23+00:00
+
  ## FAL - Fazenda Água Limpa - Início
  - [http://fal.unb.br](http://fal.unb.br)
  - date_published: 2024-07-20T11:06:19+00:00
@@ -2294,7 +2374,7 @@
  - date_published: 2024-08-11T19:52:42.186592+00:00
 
  ## Metamucil: A superfibra que melhora a sua saúde | Metamucil BR
- - [https://www.metamucil.com.br](https://www.metamucil.com.br)
+ - [https://metamucil.com.br](https://metamucil.com.br)
  - date_published: 2024-09-17T11:23:44+00:00
 
  ## Seguros de vida e planos odontológicos | MetLife
@@ -2380,6 +2460,10 @@
  ## Editora Moderna :: Literatura
  - [https://www.modernaliteratura.com.br](https://www.modernaliteratura.com.br)
  - date_published: 2024-09-12T22:40:30.955901+00:00
+
+ ## Money Report
+ - [https://www.moneyreport.com.br](https://www.moneyreport.com.br)
+ - date_published: 2024-12-19T10:46:03.768863+00:00
 
  ## Moura Dubeux
  - [https://www.mouradubeux.com.br](https://www.mouradubeux.com.br)
@@ -3484,7 +3568,7 @@
  - date_published: 2024-07-14T12:16:55.050046+00:00
 
  ## Apoie alunos a produzirem com qualidade e originalidade | Turnitin
- - [https://www.turnitin.com.br](https://www.turnitin.com.br)
+ - [https://turnitin.com.br](https://turnitin.com.br)
  - date_published: 2024-09-23T15:53:48+00:00
 
  ## O portal de Belo Horizonte
@@ -3926,88 +4010,4 @@
  ## Blogue do Puro Osso
  - [https://puro-osso.dev.br](https://puro-osso.dev.br)
  - date_published: 2024-03-30T00:00:00+00:00
-
- ## Sistemas IFCE Paracuru
- - [http://webserver.paracuru.ifce.edu.br](http://webserver.paracuru.ifce.edu.br)
- - date_published: 2019-09-15T17:44:15+00:00
-
- ## Portal IFNMG - Início
- - [https://ifnmg.edu.br](https://ifnmg.edu.br)
- - date_published: 2024-07-13T18:13:13+00:00
-
- ## Authentication - GLPI
- - [https://suporte.feliz.ifrs.edu.br](https://suporte.feliz.ifrs.edu.br)
- - date_published: 2024-06-16T15:29:11.962485+00:00
-
- ## Home — IF SUDESTE MG
- - [https://www.ifsudestemg.edu.br](https://www.ifsudestemg.edu.br)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Inteli - Educação Inovadora em Tecnologia
- - [https://inteli.edu.br](https://inteli.edu.br)
- - date_published: 2024-09-21T00:00:00+00:00
-
- ## Linux Mirror UFAM
- - [https://mirror.ufam.edu.br](https://mirror.ufam.edu.br)
- - date_published: 2021-09-05T16:24:43+00:00
-
- ## UFPel
- - [https://portal.ufpel.edu.br](https://portal.ufpel.edu.br)
- - date_published: 2024-07-13T07:23:27.330229+00:00
-
- ## UFPel
- - [http://www.ufpel.edu.br](http://www.ufpel.edu.br)
- - date_published: 2024-10-30T20:33:37.334739+00:00
-
- ## Egressos-UFPI
- - [https://egressos.ufpi.edu.br](https://egressos.ufpi.edu.br)
- - date_published: 2024-12-15T12:16:25.479584+00:00
-
- ## radiouniversitaria967
- - [https://fmuniversitaria967.ufpi.edu.br](https://fmuniversitaria967.ufpi.edu.br)
- - date_published: 2024-12-15T12:16:39.230313+00:00
-
- ## UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri
- - [http://www.ufvjm.edu.br](http://www.ufvjm.edu.br)
- - date_published: 2024-07-13T18:13:21+00:00
-
- ## Faculdade em São Paulo: veja os cursos presenciais | UNICID
- - [https://www.unicid.edu.br](https://www.unicid.edu.br)
- - date_published: 2024-10-28T23:34:13.540293+00:00
-
- ## Unifeob EAD
- - [https://inscricaoead.unifeob.edu.br](https://inscricaoead.unifeob.edu.br)
- - date_published: 2024-10-11T11:39:17.371257+00:00
-
- ## Pós-Graduação On-line - UNIFEOB
- - [https://landing.unifeob.edu.br](https://landing.unifeob.edu.br)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Login
- - [https://novaintranet.unifeob.edu.br](https://novaintranet.unifeob.edu.br)
- - date_published: 2024-10-11T11:38:48.394746+00:00
-
- ## UNIFEOB - Centro Universitário Fundação de Ensino Octávio Bastos
- - [https://unifeob.edu.br](https://unifeob.edu.br)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Vestibular Unifeob – Graduação
- - [https://vestibular.unifeob.edu.br](https://vestibular.unifeob.edu.br)
- - date_published: 2024-10-11T11:42:19.427802+00:00
-
- ## Simbia - UNIFEOB
- - [https://www.simbia.unifeob.edu.br](https://www.simbia.unifeob.edu.br)
- - date_published: 2024-10-11T11:40:06.393559+00:00
-
- ## Home
- - [https://madp.unijui.edu.br](https://madp.unijui.edu.br)
- - date_published: 2024-10-11T12:20:16.895528+00:00
-
- ## Prof
- - [http://bioserver.cpgei.ct.utfpr.edu.br](http://bioserver.cpgei.ct.utfpr.edu.br)
- - date_published: 2020-04-26T20:42:06+00:00
-
- ## Prof. Caetano
- - [http://www.caetano.eng.br](http://www.caetano.eng.br)
- - date_published: 2024-07-08T08:33:45.032131+00:00
 

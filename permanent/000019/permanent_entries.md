@@ -1,3 +1,103 @@
+ ## Lighting in Canada, Canada
+ - [http://www.lighting.ca](http://www.lighting.ca)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Canadian Light Source
+ - [https://www.lightsource.ca](https://www.lightsource.ca)
+ - date_published: 2024-07-13T16:47:43.692294+00:00
+
+ ## Chalet Kamanik
+ - [http://lilipad.ca](http://lilipad.ca)
+ - date_published: 2022-10-01T19:40:29+00:00
+
+ ## Lima Charlie | Web development studio | Located in Montréal.
+ - [https://limacharlie.ca](https://limacharlie.ca)
+ - date_published: 2024-06-15T02:49:04.062134+00:00
+
+ ## Limbic Noodle
+ - [http://limbicnoodle.ca](http://limbicnoodle.ca)
+ - date_published: 2024-09-02T06:01:13+00:00
+
+ ## Top 5 Top 5 Toronto Limos for 2020 | Limos.ca Plumbers and Plumbing Contractors for 2020 | Limos.ca
+ - [http://www.limos.ca](http://www.limos.ca)
+ - date_published: 2024-06-29T17:35:25.508397+00:00
+
+ ## Liquid I.V. - Fueling Life's Adventures
+ - [https://www.liquid-iv.ca](https://www.liquid-iv.ca)
+ - date_published: 2024-08-05T19:45:59.114223+00:00
+
+ ## Private cooking classes and summer camps for kids and teens
+ - [https://littlecooksclub.ca](https://littlecooksclub.ca)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Little Things Matter
+ - [http://littlethingsmatter.ca](http://littlethingsmatter.ca)
+ - date_published: 2024-04-16T06:08:34+00:00
+
+ ## LiveCA - Canadian Online Accountant
+ - [https://www.liveca.ca](https://www.liveca.ca)
+ - date_published: 2024-11-21T19:08:32+00:00
+
+ ## livier.ca
+ - [http://www.livier.ca](http://www.livier.ca)
+ - date_published: 2022-01-03T16:11:55+00:00
+
+ ## Toronto Lobbyist Registry Database: lobbyist_registry
+ - [https://lobbyingintoronto.ca](https://lobbyingintoronto.ca)
+ - date_published: 2024-09-04T04:38:08.048079+00:00
+
+ ## Loblaw Companies Ltd. | Live Life Well®
+ - [https://loblaw.ca](https://loblaw.ca)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Local Green Fees- Canada's definitive green fee directory
+ - [https://www.localgreenfees.ca](https://www.localgreenfees.ca)
+ - date_published: 2024-07-12T17:59:30.132263+00:00
+
+ ## Local Integrative Health Clinic in East Vancouver, BC
+ - [https://localhealthclinic.ca](https://localhealthclinic.ca)
+ - date_published: 2024-06-12T19:25:19+00:00
+
+ ## LocalWork.ca | Employer Services
+ - [https://employers.localwork.ca](https://employers.localwork.ca)
+ - date_published: 2024-06-26T22:36:30.872374+00:00
+
+ ## LocalWork.ca | jobs
+ - [https://www.localwork.ca](https://www.localwork.ca)
+ - date_published: 2024-05-06T20:01:58.481788+00:00
+
+ ## East Vancouver Yoga Studio | Local Yoga Studio | Yoga + more
+ - [https://localyogastudio.ca](https://localyogastudio.ca)
+ - date_published: 2024-09-18T18:42:59+00:00
+
+ ## Charcoal — Web framework and content management system
+ - [https://charcoal.locomotive.ca](https://charcoal.locomotive.ca)
+ - date_published: 2024-10-29T13:28:47.013333+00:00
+
+ ## Explore with Locomotive
+ - [https://explore.locomotive.ca](https://explore.locomotive.ca)
+ - date_published: 2024-10-29T13:28:49.094871+00:00
+
+ ## Locomotive | Montreal web agency
+ - [https://locomotive.ca](https://locomotive.ca)
+ - date_published: 2024-06-19T16:15:15.418837+00:00
+
+ ## Locomotive Dynasty - 2018 to 2023
+ - [https://six.locomotive.ca](https://six.locomotive.ca)
+ - date_published: 2024-09-12T14:58:24+00:00
+
+ ## Locomotive Store®
+ - [https://store.locomotive.ca](https://store.locomotive.ca)
+ - date_published: 2024-10-29T13:28:34.002408+00:00
+
+ ## lolcat's git serber
+ - [https://git.lolcat.ca](https://git.lolcat.ca)
+ - date_published: 2024-10-20T22:39:45.354239+00:00
+
+ ## lolcat's website
+ - [https://lolcat.ca](https://lolcat.ca)
+ - date_published: 2024-10-27T12:11:52.621388+00:00
+
  ## Commercial Real Estate for Sale & Lease in Canada | LoopNet.ca
  - [https://loopnet.ca](https://loopnet.ca)
  - date_published: 2024-05-12T07:41:00.330334+00:00
@@ -494,7 +594,7 @@
  - date_published: 2024-06-22T22:54:54+00:00
 
  ## Metamucil Fibre Supplements | Metamucil
- - [https://www.metamucil.ca](https://www.metamucil.ca)
+ - [https://metamucil.ca](https://metamucil.ca)
  - date_published: 2024-09-12T09:32:00+00:00
 
  ## Video Call SDK and Screen Sharing API | Metered
@@ -560,6 +660,10 @@
  ## TMR Home Page
  - [https://miramichireader.ca](https://miramichireader.ca)
  - date_published: 2024-04-26T23:50:54+00:00
+
+ ## mises.ca
+ - [https://www.mises.ca](https://www.mises.ca)
+ - date_published: 2024-12-19T10:46:09.977045+00:00
 
  ## Mitul Shah
  - [https://mitul.ca](https://mitul.ca)
@@ -1124,7 +1228,7 @@
  - date_published: 2024-02-08T00:00:00+00:00
 
  ## Cision: Contact Cision in Canada
- - [http://account.newswire.ca](http://account.newswire.ca)
+ - [https://account.newswire.ca](https://account.newswire.ca)
  - date_published: 2024-10-16T19:02:41+00:00
 
  ## Press Release Distribution Service | Newswire
@@ -1690,6 +1794,10 @@
  - date_published: 2024-10-19T17:40:44.913867+00:00
 
  ## Baby Care, Diapers & Parenting Information | Pampers CA
+ - [https://pampers.ca](https://pampers.ca)
+ - date_published: 2024-12-19T09:50:36+00:00
+
+ ## Baby Care, Diapers & Parenting Information | Pampers CA
  - [https://www.pampers.ca](https://www.pampers.ca)
  - date_published: 2024-10-28T22:56:14+00:00
 
@@ -1702,7 +1810,7 @@
  - date_published: 2024-12-15T16:07:56.502001+00:00
 
  ## Hair Products For All Hair Types. | Pantene
- - [https://www.pantene.ca](https://www.pantene.ca)
+ - [https://pantene.ca](https://pantene.ca)
  - date_published: 2024-09-13T14:35:40+00:00
 
  ## the Papertrail Handmade Paper & Book Arts
@@ -3927,113 +4035,4 @@
  ## Tapestry Hall
  - [https://www.tapestryhall.ca](https://www.tapestryhall.ca)
  - date_published: 2024-12-16T10:55:39+00:00
-
- ## Tarzana and Tarzana Ranch, California
- - [https://tarzana.ca](https://tarzana.ca)
- - date_published: 2019-01-24T20:47:24+00:00
-
- ## Tasos Stamadianos
- - [https://tasos.ca](https://tasos.ca)
- - date_published: 2024-07-23T23:39:58.947796+00:00
-
- ## Tau Games
- - [https://taugames.ca](https://taugames.ca)
- - date_published: 2023-10-04T18:07:10+00:00
-
- ## Victoria Free-Net Association
- - [http://victoria.tc.ca](http://victoria.tc.ca)
- - date_published: 2015-09-10T08:14:51+00:00
-
- ## TeleCommunities Canada - TéléCommunautés Canada
- - [http://www.tc.ca](http://www.tc.ca)
- - date_published: 2024-07-01T15:32:03.005239+00:00
-
- ## TCAE
- - [https://tcae.ca](https://tcae.ca)
- - date_published: 2024-09-24T21:30:46.624355+00:00
-
- ## TEACH ENGLISH IN JAPAN – A Webcomic by Jeffrey Ellis and Jonathon Dalton
- - [http://www.teachenglishinjapan.ca](http://www.teachenglishinjapan.ca)
- - date_published: 2024-08-19T06:13:02.658901+00:00
-
- ## Achieve English Fluency and Confidence with Expert Coaching
- - [https://teachersean.ca](https://teachersean.ca)
- - date_published: 2024-10-30T18:28:02.689266+00:00
-
- ## Safe Technical Systems. Everywhere | Technical Safety BC
- - [https://www.technicalsafetybc.ca](https://www.technicalsafetybc.ca)
- - date_published: 2024-12-18T11:31:31.730510+00:00
-
- ## Telefilm Canada | Partner of choice
- - [https://telefilm.ca](https://telefilm.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Université TÉLUQ
- - [https://www.teluq.ca](https://www.teluq.ca)
- - date_published: 2024-12-12T17:22:43.123070+00:00
-
- ## Hassle-free returns
- - [https://returns.tentree.ca](https://returns.tentree.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Sustainable Clothing by tentree® | Shop Organic + Plant Trees
- - [https://tentree.ca](https://tentree.ca)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## article_acceuil
- - [https://terrabelladesign.ca](https://terrabelladesign.ca)
- - date_published: 2024-09-10T11:07:43+00:00
-
- ## Free Driving Test Practice | Driver's License 2024 Canada - Tests.ca
- - [https://tests.ca](https://tests.ca)
- - date_published: 2024-09-02T06:38:40+00:00
-
- ## HomePage - TFO Canada
- - [https://tfocanada.ca](https://tfocanada.ca)
- - date_published: 2024-12-09T16:04:17.930475+00:00
-
- ## ThatGeoGuy - Home
- - [https://www.thatgeoguy.ca](https://www.thatgeoguy.ca)
- - date_published: 2024-06-19T21:58:24+00:00
-
- ## The Big Story Podcast
- - [https://thebigstorypodcast.ca](https://thebigstorypodcast.ca)
- - date_published: 2024-02-24T18:20:54.908441+00:00
-
- ## The Bridgehead | From the front lines of the culture wars.
- - [https://thebridgehead.ca](https://thebridgehead.ca)
- - date_published: 2023-10-25T12:07:41.693718+00:00
-
- ## Home | The Canadian Encyclopedia
- - [https://www.thecanadianencyclopedia.ca](https://www.thecanadianencyclopedia.ca)
- - date_published: 2024-09-12T18:46:53.675499+00:00
-
- ## thecanadianpressnews.ca
- - [https://thecanadianpressnews.ca](https://thecanadianpressnews.ca)
- - date_published: 2023-11-08T21:50:08.227809+00:00
- - tags: ['canada news']
-
- ## Craigdarroch Castle | Visit Canada's Castle | Victoria BC
- - [https://thecastle.ca](https://thecastle.ca)
- - date_published: 2024-09-05T16:02:02.804217+00:00
-
- ## Welcome to Centre for Digital Media
- - [http://thecdm.ca](http://thecdm.ca)
- - date_published: 2024-07-19T22:10:13+00:00
-
- ## Canadian Marketing Association
- - [https://thecma.ca](https://thecma.ca)
- - date_published: 2024-09-16T03:08:23.475159+00:00
-
- ## My Tickets | ShowClix
- - [https://wemtickets.thecomicstrip.ca](https://wemtickets.thecomicstrip.ca)
- - date_published: 2024-08-11T06:51:41.530442+00:00
-
- ## The Curve - Unique Glassware and stickers
- - [http://www.thecurve.ca](http://www.thecurve.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## the deep dive | Providing stock analysis for investors of the Canadian junior markets
- - [https://thedeepdive.ca](https://thedeepdive.ca)
- - date_published: 2023-10-25T12:07:49.884004+00:00
 

@@ -1,3 +1,119 @@
+ ## AmigaOS Merchandising
+ - [https://amigaos.myspreadshop.ch](https://amigaos.myspreadshop.ch)
+ - date_published: 2024-07-20T13:16:25.609215+00:00
+
+ ## Mautic Community Swag Shop | Spreadshop
+ - [https://mautic-community-swag-shop.myspreadshop.ch](https://mautic-community-swag-shop.myspreadshop.ch)
+ - date_published: 2024-07-18T15:08:01.392543+00:00
+
+ ## Linux Foundation Europe Swag Store | Spreadshop
+ - [https://shop-linuxfoundation.myspreadshop.ch](https://shop-linuxfoundation.myspreadshop.ch)
+ - date_published: 2024-07-03T00:00:48.680413+00:00
+
+ ## MyTio
+ - [https://mytio.ch](https://mytio.ch)
+ - date_published: 2024-07-15T12:25:29.987375+00:00
+
+ ## University of Michigan
+ - [http://myumi.ch](http://myumi.ch)
+ - date_published: 2024-06-16T09:04:25.327128+00:00
+
+ ## MZ Type — OTR Grotesk
+ - [https://mztype.ch](https://mztype.ch)
+ - date_published: 2023-04-25T22:19:44+00:00
+
+ ## MzType
+ - [https://shop.mztype.ch](https://shop.mztype.ch)
+ - date_published: 2024-12-12T20:20:30.781296+00:00
+
+ ## nanoSPACE AG
+ - [https://www.nanospace.ch](https://www.nanospace.ch)
+ - date_published: 2021-12-28T14:18:45+00:00
+
+ ## natsha
+ - [https://natsha.ch](https://natsha.ch)
+ - date_published: 2024-06-22T15:06:17.462902+00:00
+
+ ## Naturgefahrenportal des Bundes
+ - [http://www.naturgefahren.ch](http://www.naturgefahren.ch)
+ - date_published: 2024-10-22T08:59:34.546209+00:00
+
+ ## Home - NCCR Robotics
+ - [https://nccr-robotics.ch](https://nccr-robotics.ch)
+ - date_published: 2024-10-28T07:11:26.928167+00:00
+
+ ## The Mathematics of Physics NCCR – SwissMAP
+ - [https://www.nccr-swissmap.ch](https://www.nccr-swissmap.ch)
+ - date_published: 2024-08-11T07:13:55.151740+00:00
+
+ ## Career | Neho
+ - [https://careers.neho.ch](https://careers.neho.ch)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Real estate agency - Neho - Sell without commission - Fixed price from CHF 12'000.-
+ - [https://neho.ch](https://neho.ch)
+ - date_published: 2024-06-14T15:28:35.660957+00:00
+
+ ## Welcome in the heart of the 4 Vallées | Nendaz Switzerland
+ - [https://nendaz.ch](https://nendaz.ch)
+ - date_published: 2024-06-13T07:52:21+00:00
+
+ ## Home
+ - [https://www.nendazveysonnaz.ch](https://www.nendazveysonnaz.ch)
+ - date_published: 2024-09-15T00:04:16.710200+00:00
+
+ ## nerdpol.ch*
+ - [https://nerdpol.ch](https://nerdpol.ch)
+ - date_published: 2024-07-10T07:29:01.689919+00:00
+
+ ## Bienvenue sur Christian Jelk | Christian Jelk
+ - [http://neserapas.ch](http://neserapas.ch)
+ - date_published: 2024-07-13T15:11:27.817879+00:00
+
+ ## Home Nestlé Schweiz
+ - [http://www.nestle.ch](http://www.nestle.ch)
+ - date_published: 2024-07-04T03:16:01+00:00
+
+ ## Net Apps Sendy
+ - [https://sendy.net-apps.ch](https://sendy.net-apps.ch)
+ - date_published: 2024-04-30T06:03:36.638884+00:00
+
+ ## NetGame Convention
+ - [https://netgame.ch](https://netgame.ch)
+ - date_published: 2024-05-07T09:56:30.540664+00:00
+
+ ## netinfluence
+ - [https://www.netinfluence.ch](https://www.netinfluence.ch)
+ - date_published: 2024-07-21T06:28:08.935841+00:00
+
+ ## Netzpodcast - Digitale Gesellschaft
+ - [https://netzpodcast.ch](https://netzpodcast.ch)
+ - date_published: 2024-07-24T16:25:20.797084+00:00
+
+ ## Netzpolitischer Abend - Digitale Gesellschaft
+ - [https://netzpolitischer-abend.ch](https://netzpolitischer-abend.ch)
+ - date_published: 2024-04-29T05:58:19.219174+00:00
+
+ ## Ville de Neuchâtel
+ - [https://www.neuchatelville.ch](https://www.neuchatelville.ch)
+ - date_published: 2024-10-17T22:13:13.386525+00:00
+
+ ## Votre co-pilote web & marketing | Nexoka
+ - [https://nexoka.ch](https://nexoka.ch)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Internet Domains
+ - [https://www.nic.ch](https://www.nic.ch)
+ - date_published: 2024-07-18T14:50:55.012658+00:00
+
+ ## Nick.de: Offizielle deutsche Nickelodeon Startseite
+ - [http://www.nick.ch](http://www.nick.ch)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Nicolas Friedli - consultant web à Neuchâtel
+ - [https://nicolasfriedli.ch](https://nicolasfriedli.ch)
+ - date_published: 2024-05-09T08:21:51.559468+00:00
+
  ## ARCHIVES · Les trésors du NIFFF à l’aune de sa 20ème édition !
  - [https://archives.nifff.ch](https://archives.nifff.ch)
  - date_published: 2024-10-17T22:13:31.177717+00:00
@@ -509,6 +625,10 @@
  ## Photoforum
  - [https://www.photoforumpasquart.ch](https://www.photoforumpasquart.ch)
  - date_published: 2024-09-14T09:27:44.046830+00:00
+
+ ## photomedia
+ - [https://photomedia.ch](https://photomedia.ch)
+ - date_published: 2024-12-19T17:14:14.469644+00:00
 
  ## Home
  - [https://photomundo.ch](https://photomundo.ch)
@@ -2426,7 +2546,7 @@
  - date_published: 2024-06-10T07:08:58.646216+00:00
 
  ## Tunnel Glarus
- - [http://tunnel-glarus.ch](http://tunnel-glarus.ch)
+ - [https://tunnel-glarus.ch](https://tunnel-glarus.ch)
  - date_published: 2024-10-15T14:56:45+00:00
 
  ## annunci di lavoro ticino
@@ -3896,126 +4016,4 @@ Fakultät | Universität Basel
  ## ᐈ The best WordPress plugin for WhatsApp
  - [https://join.chat](https://join.chat)
  - date_published: 2024-06-27T00:00:00+00:00
-
- ## Jupi - AI Roleplay & Fantasy Chat
- - [https://www.jupi.chat](https://www.jupi.chat)
- - date_published: 2024-09-02T10:09:12.288312+00:00
-
- ## Kaya - Free your thoughts with a personal AI.
- - [https://kaya.chat](https://kaya.chat)
- - date_published: 2024-10-12T19:13:43+00:00
-
- ## KIRUPA 🍊 | Substack
- - [https://www.kirupa.chat](https://www.kirupa.chat)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Chat now
- - [https://direct.lc.chat](https://direct.lc.chat)
- - date_published: 2024-06-09T20:51:38.442211+00:00
-
- ## Method not found
- - [https://lc.chat](https://lc.chat)
- - date_published: 2024-07-07T09:58:27.104530+00:00
-
- ## Lei.Chat()
- - [https://lei.chat](https://lei.chat)
- - date_published: 2023-09-27T20:57:45+00:00
-
- ## Libera Chat
- - [https://libera.chat](https://libera.chat)
- - date_published: 2023-10-25T08:32:43.884000+00:00
- - tags: ['social platform', 'open source']
-
- ## Kiwi IRC
- - [https://web.libera.chat](https://web.libera.chat)
- - date_published: 2024-03-17T19:26:18.447690+00:00
-
- ## Linux.Chat – The best place to chat about Linux® related topics!
- - [https://linux.chat](https://linux.chat)
- - date_published: 2024-08-11T08:17:41+00:00
-
- ## WhatsApp Multiagente, Instagram Web, LiveChat y Chatbots - LiveConnect
- - [https://liveconnect.chat](https://liveconnect.chat)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## MagicBuddy - Best ChatGPT Bot for Telegram | AI-Powered Assistant - MagicBuddy
- - [https://magicbuddy.chat](https://magicbuddy.chat)
- - date_published: 2024-08-07T19:18:31.254720+00:00
-
- ## Measure Chat
- - [https://masto.measure.chat](https://masto.measure.chat)
- - date_published: 2024-10-29T21:45:55.819089+00:00
-
- ## #measure chat
- - [https://www.measure.chat](https://www.measure.chat)
- - date_published: 2020-10-27T00:00:00+00:00
-
- ## MSAgent Chat
- - [https://msagent.chat](https://msagent.chat)
- - date_published: 2024-10-22T12:49:54.482807+00:00
-
- ## MSIG Chat
- - [https://msig.chat](https://msig.chat)
- - date_published: 2024-04-02T19:32:20+00:00
-
- ## Join the NEAR Discord Server!
- - [http://near.chat](http://near.chat)
- - date_published: 2024-07-12T23:26:41+00:00
-
- ## NetDev Community Chat
- - [https://netdev.chat](https://netdev.chat)
- - date_published: 2023-07-07T12:31:57+00:00
-
- ## Olympia | AI-Powered Consultants
- - [https://app.olympia.chat](https://app.olympia.chat)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Olympia | Better Than ChatGPT
- - [https://olympia.chat](https://olympia.chat)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## OpenHive.Chat
- - [https://openhive.chat](https://openhive.chat)
- - date_published: 2024-07-21T02:18:21.162221+00:00
-
- ## Orbital
- - [https://orbital.chat](https://orbital.chat)
- - date_published: 2023-01-03T10:13:58+00:00
-
- ## Paint by Text
- - [https://paintbytext.chat](https://paintbytext.chat)
- - date_published: 2024-06-19T20:12:18.361157+00:00
-
- ## DNS points to prohibited IP | partyline.chat | Cloudflare
- - [https://partyline.chat](https://partyline.chat)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## PillowTalks | AI Chatbot Companion
- - [https://www.pillowtalks.chat](https://www.pillowtalks.chat)
- - date_published: 2023-05-13T17:43:17+00:00
-
- ## Lysxia - Lysxia's blog
- - [https://blog.poisson.chat](https://blog.poisson.chat)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Prismia
- - [https://prismia.chat](https://prismia.chat)
- - date_published: 2021-12-22T17:33:02+00:00
-
- ## Awesome ChatGPT Prompts
- - [https://prompts.chat](https://prompts.chat)
- - date_published: 2022-12-19T00:00:00+00:00
- - tags: ['artificial intelligence', 'chatgpt']
-
- ## Show HN: I made an app to use local AI as daily driver
- - [https://recurse.chat](https://recurse.chat)
- - date_published: 2024-02-28T00:40:00+00:00
-
- ## Revolt
- - [https://app.revolt.chat](https://app.revolt.chat)
- - date_published: 2024-04-30T06:15:35.261847+00:00
-
- ## Introduction | Revolt
- - [https://developers.revolt.chat](https://developers.revolt.chat)
- - date_published: 2024-04-30T06:15:35.952816+00:00
 

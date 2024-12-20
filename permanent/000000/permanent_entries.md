@@ -1968,6 +1968,7 @@
  ## CherryPick Agency
  - [https://cherrypick.agency](https://cherrypick.agency)
  - date_published: 2024-10-21T11:12:10+00:00
+ - date_dead_since: 2024-12-19T11:14:41.928180+00:00
 
  ## Home
  - [http://dad.agency](http://dad.agency)
@@ -2316,6 +2317,10 @@
  ## 1PX.AI
  - [https://1px.ai](https://1px.ai)
  - date_published: 2024-07-05T10:46:02+00:00
+
+ ## [24]7.ai Home
+ - [https://www.247.ai](https://www.247.ai)
+ - date_published: 2024-12-19T13:09:50.676719+00:00
 
  ## 2short.ai - AI short clip generator
  - [https://2short.ai](https://2short.ai)
@@ -3092,7 +3097,7 @@
  - date_published: 2024-06-26T09:04:29.337739+00:00
 
  ## Clair - The AI Clinical Reference Tool for Clinicians
- - [https://www.askclair.ai](https://www.askclair.ai)
+ - [https://askclair.ai](https://askclair.ai)
  - date_published: 2024-10-16T13:08:44+00:00
 
  ## Analytics made simpler using AI
@@ -3470,7 +3475,7 @@
  - date_published: 2024-04-09T00:00:00+00:00
 
  ## AI Story Generator | Bedtimestory.ai
- - [https://www.bedtimestory.ai](https://www.bedtimestory.ai)
+ - [https://bedtimestory.ai](https://bedtimestory.ai)
  - date_published: 2024-10-12T02:17:59+00:00
 
  ## BeeBee AI - AI Earnings call analysis tool
@@ -3838,7 +3843,7 @@
  - date_published: 2024-10-30T06:55:30.470256+00:00
 
  ## Brancher.ai
- - [https://www.brancher.ai](https://www.brancher.ai)
+ - [https://brancher.ai](https://brancher.ai)
  - date_published: 2024-10-04T21:55:43+00:00
 
  ## Empower Your Brand with AI Technology ~ Brandmate
@@ -3858,7 +3863,7 @@
  - date_published: 2024-07-10T11:15:45.132110+00:00
 
  ## Brask: AI Video and Audio Localization. Creating Digital Doubles for Global Markets
- - [https://www.brask.ai](https://www.brask.ai)
+ - [https://brask.ai](https://brask.ai)
  - date_published: 2024-10-17T15:34:17+00:00
 
  ## brawl.ai | Brawl Artifical Intelligence
@@ -4013,8 +4018,4 @@
  ## Call Annie
  - [https://callannie.ai](https://callannie.ai)
  - date_published: 2024-10-27T05:29:15+00:00
-
- ## Calligrapher.ai: Realistic computer-generated handwriting
- - [https://calligrapher.ai](https://calligrapher.ai)
- - date_published: 2023-10-25T11:36:44.320352+00:00
 

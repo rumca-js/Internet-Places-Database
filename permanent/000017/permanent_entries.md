@@ -1,3 +1,87 @@
+ ## Sistemas IFCE Paracuru
+ - [http://webserver.paracuru.ifce.edu.br](http://webserver.paracuru.ifce.edu.br)
+ - date_published: 2019-09-15T17:44:15+00:00
+
+ ## Portal IFNMG - Início
+ - [https://ifnmg.edu.br](https://ifnmg.edu.br)
+ - date_published: 2024-07-13T18:13:13+00:00
+
+ ## Authentication - GLPI
+ - [https://suporte.feliz.ifrs.edu.br](https://suporte.feliz.ifrs.edu.br)
+ - date_published: 2024-06-16T15:29:11.962485+00:00
+
+ ## Home — IF SUDESTE MG
+ - [https://www.ifsudestemg.edu.br](https://www.ifsudestemg.edu.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Inteli - Educação Inovadora em Tecnologia
+ - [https://inteli.edu.br](https://inteli.edu.br)
+ - date_published: 2024-09-21T00:00:00+00:00
+
+ ## Linux Mirror UFAM
+ - [https://mirror.ufam.edu.br](https://mirror.ufam.edu.br)
+ - date_published: 2021-09-05T16:24:43+00:00
+
+ ## UFPel
+ - [https://portal.ufpel.edu.br](https://portal.ufpel.edu.br)
+ - date_published: 2024-07-13T07:23:27.330229+00:00
+
+ ## UFPel
+ - [http://www.ufpel.edu.br](http://www.ufpel.edu.br)
+ - date_published: 2024-10-30T20:33:37.334739+00:00
+
+ ## Egressos-UFPI
+ - [https://egressos.ufpi.edu.br](https://egressos.ufpi.edu.br)
+ - date_published: 2024-12-15T12:16:25.479584+00:00
+
+ ## radiouniversitaria967
+ - [https://fmuniversitaria967.ufpi.edu.br](https://fmuniversitaria967.ufpi.edu.br)
+ - date_published: 2024-12-15T12:16:39.230313+00:00
+
+ ## UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri
+ - [http://www.ufvjm.edu.br](http://www.ufvjm.edu.br)
+ - date_published: 2024-07-13T18:13:21+00:00
+
+ ## Faculdade em São Paulo: veja os cursos presenciais | UNICID
+ - [https://www.unicid.edu.br](https://www.unicid.edu.br)
+ - date_published: 2024-10-28T23:34:13.540293+00:00
+
+ ## Unifeob EAD
+ - [https://inscricaoead.unifeob.edu.br](https://inscricaoead.unifeob.edu.br)
+ - date_published: 2024-10-11T11:39:17.371257+00:00
+
+ ## Pós-Graduação On-line - UNIFEOB
+ - [https://landing.unifeob.edu.br](https://landing.unifeob.edu.br)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Login
+ - [https://novaintranet.unifeob.edu.br](https://novaintranet.unifeob.edu.br)
+ - date_published: 2024-10-11T11:38:48.394746+00:00
+
+ ## UNIFEOB - Centro Universitário Fundação de Ensino Octávio Bastos
+ - [https://unifeob.edu.br](https://unifeob.edu.br)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Vestibular Unifeob – Graduação
+ - [https://vestibular.unifeob.edu.br](https://vestibular.unifeob.edu.br)
+ - date_published: 2024-10-11T11:42:19.427802+00:00
+
+ ## Simbia - UNIFEOB
+ - [https://www.simbia.unifeob.edu.br](https://www.simbia.unifeob.edu.br)
+ - date_published: 2024-10-11T11:40:06.393559+00:00
+
+ ## Home
+ - [https://madp.unijui.edu.br](https://madp.unijui.edu.br)
+ - date_published: 2024-10-11T12:20:16.895528+00:00
+
+ ## Prof
+ - [http://bioserver.cpgei.ct.utfpr.edu.br](http://bioserver.cpgei.ct.utfpr.edu.br)
+ - date_published: 2020-04-26T20:42:06+00:00
+
+ ## Prof. Caetano
+ - [http://www.caetano.eng.br](http://www.caetano.eng.br)
+ - date_published: 2024-07-08T08:33:45.032131+00:00
+
  ## Eduardo Maçan - We stand here exposing ourselves. We are showroom dummies!
  - [https://eduardo.macan.eng.br](https://eduardo.macan.eng.br)
  - date_published: 2024-07-09T07:56:32.754284+00:00
@@ -587,6 +671,10 @@
  ## Mercy For Animals – Maior Organização do Mundo em Promoção do Veganismo e Defesa dos Direitos dos Animais Explorados para Consumo
  - [https://mercyforanimals.org.br](https://mercyforanimals.org.br)
  - date_published: 2024-05-10T06:58:15.910935+00:00
+
+ ## Mises Brasil
+ - [https://www.mises.org.br](https://www.mises.org.br)
+ - date_published: 2024-12-19T10:43:07.283852+00:00
 
  ## Informação sobre Drogas Ilegais e Abuso de Álcool — Mundo sem Drogas
  - [https://www.mundosemdrogas.org.br](https://www.mundosemdrogas.org.br)
@@ -2927,6 +3015,10 @@
  - [http://www.baskets.ca](http://www.baskets.ca)
  - date_published: 2024-06-03T00:00:00+00:00
 
+ ## Cabela's Canada
+ - [https://www.basspro.ca](https://www.basspro.ca)
+ - date_published: 2024-12-19T18:49:03.218487+00:00
+
  ## Top 5 Top 5 Toronto Bathrooms for 2020 | Bathrooms.ca Plumbers and Plumbing Contractors for 2020 | Bathrooms.ca
  - [http://www.bathrooms.ca](http://www.bathrooms.ca)
  - date_published: 2024-06-29T17:36:05.545202+00:00
@@ -3365,7 +3457,7 @@
  - date_published: 2024-07-01T08:55:57+00:00
 
  ## Pupienus Maximus - The Food Pr0n Obsessed Emperor of Portland
- - [http://liveleftcookright.blogspot.ca](http://liveleftcookright.blogspot.ca)
+ - [https://liveleftcookright.blogspot.ca](https://liveleftcookright.blogspot.ca)
  - date_published: 2024-09-12T06:08:31+00:00
 
  ## Lizok's Bookshelf
@@ -3449,7 +3541,7 @@
  - date_published: 2024-12-01T11:38:29+00:00
 
  ## Sentient Developments Podcast
- - [http://podcastsentdev.blogspot.ca](http://podcastsentdev.blogspot.ca)
+ - [https://podcastsentdev.blogspot.ca](https://podcastsentdev.blogspot.ca)
  - date_published: 2024-10-07T03:39:27+00:00
 
  ## *Reflective Disequilibrium*
@@ -3642,7 +3734,7 @@
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Quicker Picker Upper Paper Towels and Paper Napkins | Bounty
- - [http://bountytowels.ca](http://bountytowels.ca)
+ - [https://bountytowels.ca](https://bountytowels.ca)
  - date_published: 2024-10-14T07:05:22+00:00
 
  ## Boutique Moi | Mode féminine
@@ -3926,96 +4018,4 @@
  ## Transport Canada / Transports Canada
  - [https://tc.canada.ca](https://tc.canada.ca)
  - date_published: 2024-01-31T13:48:29+00:00
-
- ## Canada.ca
- - [https://www1.canada.ca](https://www1.canada.ca)
- - date_published: 2024-10-27T21:06:57+00:00
-
- ## Canada Blockchain Consortium
- - [https://www.canadablockchain.ca](https://www.canadablockchain.ca)
- - date_published: 2024-06-16T02:52:13+00:00
-
- ## Canada Council for the Arts
- - [https://canadacouncil.ca](https://canadacouncil.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Mailing and shipping for Personal and Business
- - [https://www.canadapost.ca](https://www.canadapost.ca)
- - date_published: 2024-07-21T09:56:51.630913+00:00
-
- ## Mailing and shipping for Personal and Business
- - [https://www.canadapost-postescanada.ca](https://www.canadapost-postescanada.ca)
- - date_published: 2024-10-23T04:47:08.708351+00:00
-
- ## Canadian Parliamentary Historical Resources
- - [http://parl.canadiana.ca](http://parl.canadiana.ca)
- - date_published: 2024-07-10T05:30:25.698289+00:00
-
- ## 🥇Best Casinos in Canada - Top Rated Casinos in [year] 🥇
- - [https://www.canadiancasinos.ca](https://www.canadiancasinos.ca)
- - date_published: 2024-07-17T04:34:35.227255+00:00
-
- ## Canadian Geographic Magazine
- - [https://canadiangeographic.ca](https://canadiangeographic.ca)
- - date_published: 2024-07-21T08:13:24+00:00
-
- ## Attention Required! | Cloudflare
- - [https://corp.canadiantire.ca](https://corp.canadiantire.ca)
- - date_published: 2024-06-19T09:55:41.264802+00:00
-
- ## Shop Canada’s Top Department Store Online & at 500+ Locations
- - [https://www.canadiantire.ca](https://www.canadiantire.ca)
- - date_published: 2024-06-23T04:07:29+00:00
-
- ## The Canadian Toy Association
- - [https://canadiantoyassociation.ca](https://canadiantoyassociation.ca)
- - date_published: 2024-12-12T09:27:14.047672+00:00
-
- ## Canadian Typography Archives
- - [https://www.canadiantypography.ca](https://www.canadiantypography.ca)
- - date_published: 2024-09-05T11:28:25.852197+00:00
-
- ## Canadian Youth STEM Conference
- - [https://www.canadianyouthstem.ca](https://www.canadianyouthstem.ca)
- - date_published: 2024-08-09T03:53:58.821324+00:00
-
- ## CanCred Factory
- - [https://factory.cancred.ca](https://factory.cancred.ca)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## National Canadian Film Day
- - [https://canfilmday.ca](https://canfilmday.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## CanGames – Friendly Mayhem Since 1977
- - [http://www.cangames.ca](http://www.cangames.ca)
- - date_published: 2024-12-13T03:16:24.500483+00:00
-
- ## Canadian Legal Information Institute | CanLII
- - [https://canlii.ca](https://canlii.ca)
- - date_published: 2024-10-22T21:50:36.074935+00:00
-
- ## #1 Online Casino Guide in Canada - Best Gaming Experience!
- - [http://jam.canoe.ca](http://jam.canoe.ca)
- - date_published: 2024-10-31T23:04:24.202858+00:00
-
- ## #1 Online Casino Guide in Canada - Best Gaming Experience!
- - [http://www.canoe.ca](http://www.canoe.ca)
- - date_published: 2024-12-15T20:36:51.765601+00:00
-
- ## CanSpace - Canada's Best Web Hosting and Domain Name Provider
- - [https://www.canspace.ca](https://www.canspace.ca)
- - date_published: 2024-07-14T08:03:00.352877+00:00
-
- ## CAPIC - ACCPI
- - [https://www.capic.ca](https://www.capic.ca)
- - date_published: 2024-09-28T21:36:37.703238+00:00
-
- ## London Ontario Web Design & Web Hosting - Capitol Technologies
- - [http://captech.ca](http://captech.ca)
- - date_published: 2017-04-11T21:14:10+00:00
-
- ## Find Software
- - [https://capterra.ca](https://capterra.ca)
- - date_published: 2024-06-13T06:42:11.073248+00:00
 

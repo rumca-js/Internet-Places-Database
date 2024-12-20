@@ -1,3 +1,31 @@
+ ## Fantastical
+ - [https://fantastical.app](https://fantastical.app)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## farmOS Field Kit
+ - [https://farmos.app](https://farmos.app)
+ - date_published: 2024-06-03T11:19:01.917475+00:00
+
+ ## Instagram Downloader - Download Instagram Video, Photos, IGTV & Reels
+ - [https://fastdl.app](https://fastdl.app)
+ - date_published: 2024-10-30T11:32:26.668301+00:00
+
+ ## Feedback - Comflowy
+ - [https://comflowy.featurebase.app](https://comflowy.featurebase.app)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## User Feedback Tool
+ - [https://featurebase.app](https://featurebase.app)
+ - date_published: 2024-07-10T05:36:04.521417+00:00
+
+ ## Feedback - Keep Design
+ - [https://keepdesign.featurebase.app](https://keepdesign.featurebase.app)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Roadmap - NextUI
+ - [https://nextuioss.featurebase.app](https://nextuioss.featurebase.app)
+ - date_published: 2024-03-01T00:00:00+00:00
+
  ## Feedback - Swift Mail
  - [https://swiftmail.featurebase.app](https://swiftmail.featurebase.app)
  - date_published: 2024-07-05T00:00:00+00:00
@@ -1169,7 +1197,7 @@
  - date_published: 2024-06-23T10:45:42.345002+00:00
 
  ## LazyNotes AI Note Taker for iPhone.
- - [https://www.lazynotes.app](https://www.lazynotes.app)
+ - [https://lazynotes.app](https://lazynotes.app)
  - date_published: 2024-10-22T13:51:39+00:00
 
  ## Leap Dashboard
@@ -3625,6 +3653,10 @@
  - [https://onepanel.app](https://onepanel.app)
  - date_published: 2024-06-19T19:34:09.215822+00:00
 
+ ## OneQuery.app - Never Write Another Scraper
+ - [https://onequery.app](https://onequery.app)
+ - date_published: 2024-12-18T23:54:58+00:00
+
  ## one sec | distracting apps made less appealing – scientifically
  - [https://one-sec.app](https://one-sec.app)
  - date_published: 2024-07-18T08:01:20+00:00
@@ -3945,6 +3977,10 @@
  - [https://beta.docs.pieces.app](https://beta.docs.pieces.app)
  - date_published: 2024-11-26T06:31:46.598883+00:00
 
+ ## Home
+ - [https://code.pieces.app](https://code.pieces.app)
+ - date_published: 2024-11-11T15:29:13+00:00
+
  ## Docs | Pieces for Developers
  - [https://docs.pieces.app](https://docs.pieces.app)
  - date_published: 2024-10-22T20:45:01+00:00
@@ -4004,40 +4040,4 @@
  ## Pizi - Descriptions produit en automatique
  - [https://api.pizi.app](https://api.pizi.app)
  - date_published: 2024-12-15T06:09:22.890082+00:00
-
- ## Pizi - Descriptions produit en automatique
- - [https://csv.pizi.app](https://csv.pizi.app)
- - date_published: 2024-12-15T06:09:21.672725+00:00
-
- ## Pizi : Créez vos Fiches Produits avec des Photos en 45 sec
- - [https://pizi.app](https://pizi.app)
- - date_published: 2024-10-30T15:23:52.871404+00:00
-
- ## Package Trends: Compare Packagist, PyPI, Hex, npm & WordPress package downloads
- - [https://pkgtrends.app](https://pkgtrends.app)
- - date_published: 2024-10-28T23:32:00.077960+00:00
-
- ## Automations for on-brand creatives
- - [https://placid.app](https://placid.app)
- - date_published: 2024-06-16T12:21:35+00:00
-
- ## React Electronic Program Guide, Schedule, Timeline and Events
- - [https://planby.app](https://planby.app)
- - date_published: 2024-06-23T11:28:36.706924+00:00
-
- ## Home - Planka
- - [https://planka.app](https://planka.app)
- - date_published: 2024-06-19T22:29:35.195532+00:00
-
- ## Welcome to Plasmic | Learn Plasmic
- - [https://docs.plasmic.app](https://docs.plasmic.app)
- - date_published: 2024-04-29T02:16:38.896049+00:00
-
- ## Plasmic Community
- - [https://forum.plasmic.app](https://forum.plasmic.app)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Error
- - [https://img.plasmic.app](https://img.plasmic.app)
- - date_published: 2024-04-29T02:16:32.298700+00:00
 

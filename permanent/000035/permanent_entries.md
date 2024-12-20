@@ -1,3 +1,184 @@
+ ## Yash Bharat - नए ज़माने की नयी खबरे
+ - [https://yashbharat.com.co](https://yashbharat.com.co)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.com.co](https://www2.zoetis.com.co)
+ - date_published: 2024-06-27T09:52:42+00:00
+
+ ## Inicio | Zoológico de Cali
+ - [https://www.zoologicodecali.com.co](https://www.zoologicodecali.com.co)
+ - date_published: 2024-12-09T19:15:47.251688+00:00
+
+ ## Fundación Universitaria del Área Andina - Colombia | Sitio web oficial
+ - [https://areandina.edu.co](https://areandina.edu.co)
+ - date_published: 2024-09-10T10:11:33.933919+00:00
+
+ ## Mooc Areandina
+ - [https://mooc.areandina.edu.co](https://mooc.areandina.edu.co)
+ - date_published: 2023-11-02T15:43:58+00:00
+
+ ## Arroba Medellín | Ciudadela Universitaria Digital
+ - [https://arrobamedellin.edu.co](https://arrobamedellin.edu.co)
+ - date_published: 2024-06-12T11:28:30.310738+00:00
+
+ ## Bienvenido al campus virtual
+ - [https://campus.arrobamedellin.edu.co](https://campus.arrobamedellin.edu.co)
+ - date_published: 2024-09-12T13:26:39.252191+00:00
+
+ ## Campus Virtual: Entrar al sitio
+ - [https://campusvirtual.edu.co](https://campusvirtual.edu.co)
+ - date_published: 2024-06-12T02:29:44.422518+00:00
+
+ ## Home
+ - [http://www.centrodeestudiosaeronauticos.edu.co](http://www.centrodeestudiosaeronauticos.edu.co)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Biblioteca Digital - CESA
+ - [https://repository.cesa.edu.co](https://repository.cesa.edu.co)
+ - date_published: 2024-09-11T16:52:11.376121+00:00
+
+ ## CESA | Colegio de Estudios Superiores de Administración
+ - [https://www.cesa.edu.co](https://www.cesa.edu.co)
+ - date_published: 2024-12-09T18:28:11.741551+00:00
+
+ ## Inicio - Confederación Interamericana de Educación Católica - CIEC
+ - [https://ciec.edu.co](https://ciec.edu.co)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Clínica Universidad de La Sabana
+ - [https://www.clinicaunisabana.edu.co](https://www.clinicaunisabana.edu.co)
+ - date_published: 2024-12-10T03:02:48.333910+00:00
+
+ ## Centro Colombo Americano Bogotá | Programas de Inglés
+ - [https://colombobogota.edu.co](https://colombobogota.edu.co)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Colegio Santa María
+ - [https://csm.edu.co](https://csm.edu.co)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Editorial EAFIT
+ - [https://editorial.eafit.edu.co](https://editorial.eafit.edu.co)
+ - date_published: 2024-09-12T13:26:25.471360+00:00
+
+ ## Inspira Crea Transforma
+             - EAFIT - Universidad EAFIT
+ - [https://www.eafit.edu.co](https://www.eafit.edu.co)
+ - date_published: 2024-12-09T18:30:14+00:00
+
+ ## Matrículas 2024
+ - [https://educacionbogota.edu.co](https://educacionbogota.edu.co)
+ - date_published: 2024-03-21T16:01:41+00:00
+
+ ## Inicio | Portal Matrículas Secretaría de Educación del Distrito
+ - [https://matricula.educacionbogota.edu.co](https://matricula.educacionbogota.edu.co)
+ - date_published: 2024-05-26T23:12:28+00:00
+
+ ## OBSERVATORIO DE ACCESO Y PERMANENCIA | Otro sitio realizado con WordPress
+ - [https://oape.educacionbogota.edu.co](https://oape.educacionbogota.edu.co)
+ - date_published: 2024-12-09T18:31:56.806081+00:00
+
+ ## Educación - Fundación Santa Fe de Bogotá | Crecer profesionalmente tiene su ciencia
+ - [https://fsfb.edu.co](https://fsfb.edu.co)
+ - date_published: 2024-09-10T20:51:01+00:00
+
+ ## | FUCS
+ - [https://fucsalud.edu.co](https://fucsalud.edu.co)
+ - date_published: 2024-09-13T14:56:30+00:00
+
+ ## Bienvenido a la Fundación Universitaria María Cano
+ - [https://www.fumc.edu.co](https://www.fumc.edu.co)
+ - date_published: 2024-12-09T16:06:43.059578+00:00
+
+ ## Universidad Icesi Cali, estudia en una de las mejores universidades de Colombia
+ - [https://icesi.edu.co](https://icesi.edu.co)
+ - date_published: 2024-09-10T23:56:53+00:00
+
+ ## GlassFish Server 3.1.2 - Server Running
+ - [https://certificados.icfes.edu.co](https://certificados.icfes.edu.co)
+ - date_published: 2013-05-27T19:52:48+00:00
+
+ ## GlassFish Server 3.1.2 - Server Running
+ - [https://citacion.icfes.edu.co](https://citacion.icfes.edu.co)
+ - date_published: 2016-04-12T19:22:54+00:00
+
+ ## GlassFish Server 3.1.2 - Server Running
+ - [https://prisma.icfes.edu.co](https://prisma.icfes.edu.co)
+ - date_published: 2012-07-13T01:10:59+00:00
+
+ ## Home
+ - [http://www.inalde.edu.co](http://www.inalde.edu.co)
+ - date_published: 2024-12-10T03:02:53.677497+00:00
+
+ ## Instituto Caldas | Instituto Caldas Unab
+ - [https://www.institutocaldas.edu.co](https://www.institutocaldas.edu.co)
+ - date_published: 2024-12-05T17:23:55+00:00
+
+ ## ispaeducacion.edu.co
+ - [https://ispaeducacion.edu.co](https://ispaeducacion.edu.co)
+ - date_published: 2024-09-11T01:46:32.802078+00:00
+
+ ## ITM – Institución Universitaria – Reacreditada en Alta Calidad
+ - [http://www.itm.edu.co](http://www.itm.edu.co)
+ - date_published: 2024-12-10T12:21:10.991585+00:00
+
+ ## Intranet Javeriana
+ - [https://acceso.javeriana.edu.co](https://acceso.javeriana.edu.co)
+ - date_published: 2020-04-24T16:27:49+00:00
+
+ ## Campus virtual Javeriana
+ - [https://campusvirtual.javeriana.edu.co](https://campusvirtual.javeriana.edu.co)
+ - date_published: 2024-05-24T02:43:50+00:00
+
+ ## MAX - Mis Aplicaciones Javerianas
+ - [https://cs.javeriana.edu.co](https://cs.javeriana.edu.co)
+ - date_published: 2024-05-24T03:38:30+00:00
+
+ ## Encuestador Pontificia Universidad Javeriana
+ - [https://encuestas.javeriana.edu.co](https://encuestas.javeriana.edu.co)
+ - date_published: 2024-09-11T16:54:29.612652+00:00
+
+ ## Facultad de Filosofía - Pontificia Universidad Javeriana
+ - [https://filosofia.javeriana.edu.co](https://filosofia.javeriana.edu.co)
+ - date_published: 2024-06-12T03:19:40.738082+00:00
+
+ ## MAX - Mis Aplicaciones Javerianas
+ - [https://fn.javeriana.edu.co](https://fn.javeriana.edu.co)
+ - date_published: 2024-05-24T03:38:30+00:00
+
+ ## Intranet Pontificia Universidad Javeriana
+ - [https://intranet.javeriana.edu.co](https://intranet.javeriana.edu.co)
+ - date_published: 2024-05-24T03:24:32+00:00
+
+ ## Portal Pontificia Universidad Javeriana
+ - [https://javeriana.edu.co](https://javeriana.edu.co)
+ - date_published: 2024-06-11T23:46:32.301772+00:00
+
+ ## Pontificia Universidad Javeriana
+ - [https://perfilesycapacidades.javeriana.edu.co](https://perfilesycapacidades.javeriana.edu.co)
+ - date_published: 2024-06-12T03:19:10.357420+00:00
+
+ ## Repositorio Institucional - Pontificia Universidad Javeriana
+ - [https://repository.javeriana.edu.co](https://repository.javeriana.edu.co)
+ - date_published: 2024-09-11T16:52:06.446352+00:00
+
+ ## MAX - Mis Aplicaciones Javerianas
+ - [https://rh.javeriana.edu.co](https://rh.javeriana.edu.co)
+ - date_published: 2024-05-24T03:38:30+00:00
+
+ ## Autoservicio de Proveedores || PUJ
+ - [https://servicios.javeriana.edu.co](https://servicios.javeriana.edu.co)
+ - date_published: 2024-06-12T11:02:17.705081+00:00
+
+ ## Facultad de Teología - Pontificia Universidad Javeriana
+ - [https://teologia.javeriana.edu.co](https://teologia.javeriana.edu.co)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Tienda Online Oficial Universidad Javeriana | Tienda Javeriana
+ - [https://tienda.javeriana.edu.co](https://tienda.javeriana.edu.co)
+ - date_published: 2024-06-12T03:20:22.351200+00:00
+
  ## OneGate
  - [https://auladigital.javerianacali.edu.co](https://auladigital.javerianacali.edu.co)
  - date_published: 2024-06-12T11:02:02.548800+00:00
@@ -3887,184 +4068,4 @@
  ## SIPI-INICIO
  - [http://sipi.sic.gov.co](http://sipi.sic.gov.co)
  - date_published: 2024-09-10T10:58:38.067508+00:00
-
- ## INICIO - Sical
- - [https://sical.gov.co](https://sical.gov.co)
- - date_published: 2024-06-12T02:57:27.665971+00:00
-
- ## :::: SINIC ::::
- - [https://www.sinic.gov.co](https://www.sinic.gov.co)
- - date_published: 2024-06-12T02:49:22.187557+00:00
-
- ## Page has moved
- - [https://portal.sisben.gov.co](https://portal.sisben.gov.co)
- - date_published: 2022-08-17T23:43:29+00:00
-
- ## Page has moved
- - [https://www.sisben.gov.co](https://www.sisben.gov.co)
- - date_published: 2022-08-17T23:43:29+00:00
-
- ## Inicio - SuperSubsidio
- - [https://www.ssf.gov.co](https://www.ssf.gov.co)
- - date_published: 2024-09-10T21:32:00.345059+00:00
-
- ## SubaLab | Cocreando la Suba del futuro.
- - [https://subalab.gov.co](https://subalab.gov.co)
- - date_published: 2024-06-12T10:48:23.909083+00:00
-
- ## Subred Centro Oriente
- - [http://www.subredcentrooriente.gov.co](http://www.subredcentrooriente.gov.co)
- - date_published: 2024-07-22T18:23:19.222837+00:00
-
- ## Subred Sur Occidente E.S.E
- - [https://www.subredsuroccidente.gov.co](https://www.subredsuroccidente.gov.co)
- - date_published: 2023-10-23T14:18:08+00:00
-
- ## SUCOP - Inicio
- - [https://sucop.gov.co](https://sucop.gov.co)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## SUIN-Juriscol MinJusticia
- - [https://www.suin-juriscol.gov.co](https://www.suin-juriscol.gov.co)
- - date_published: 2024-11-29T16:10:11+00:00
-
- ## Superintendencia Financiera de Colombia
- - [https://www.superfinanciera.gov.co](https://www.superfinanciera.gov.co)
- - date_published: 2024-06-12T13:24:51.176487+00:00
-
- ## Inicio - Superintendencia de Notariado y Registro
- - [https://www.supernotariado.gov.co](https://www.supernotariado.gov.co)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Supersalud | Superintendencia Nacional de Salud
- - [https://www.supersalud.gov.co](https://www.supersalud.gov.co)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Iniciar sesión | Intranet Superservicios
- - [https://intranet.superservicios.gov.co](https://intranet.superservicios.gov.co)
- - date_published: 2024-06-12T03:01:04.545245+00:00
-
- ## | Superintendencia Servicios Públicos Domiciliarios
- - [https://superservicios.gov.co](https://superservicios.gov.co)
- - date_published: 2024-06-11T23:35:45.801599+00:00
-
- ## Supersociedades
- - [https://biblioteca.supersociedades.gov.co](https://biblioteca.supersociedades.gov.co)
- - date_published: 2024-09-10T15:04:13.671671+00:00
-
- ## Expediente Digital
- - [https://expediente.supersociedades.gov.co](https://expediente.supersociedades.gov.co)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Página de Inicio - Inicio
- - [https://servicios.supersociedades.gov.co](https://servicios.supersociedades.gov.co)
- - date_published: 2024-09-10T15:04:26.031924+00:00
-
- ## SIIS
- - [https://siis.ia.supersociedades.gov.co](https://siis.ia.supersociedades.gov.co)
- - date_published: 2024-08-15T22:55:43+00:00
-
- ## Página de Inicio - Inicio
- - [https://supersociedades.gov.co](https://supersociedades.gov.co)
- - date_published: 2024-06-12T02:51:21.456240+00:00
-
- ## SIRFIN :: Supersociedades
- - [https://superwas.supersociedades.gov.co](https://superwas.supersociedades.gov.co)
- - date_published: 2024-09-10T15:04:03.065174+00:00
-
- ## Motor de Búsqueda Tesauro – Superintendencia de Sociedades
- - [https://tesauro.supersociedades.gov.co](https://tesauro.supersociedades.gov.co)
- - date_published: 2024-09-05T22:47:14+00:00
-
- ## INICIO - Superintendencia de Transporte
- - [https://www.supertransporte.gov.co](https://www.supertransporte.gov.co)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Superintendencia de Vigilancia y Seguridad Privada
- - [https://www.supervigilancia.gov.co](https://www.supervigilancia.gov.co)
- - date_published: 2024-09-10T15:08:45.598346+00:00
-
- ## Talento No Palanca
- - [https://talentonopalanca.gov.co](https://talentonopalanca.gov.co)
- - date_published: 2023-09-26T15:04:55+00:00
-
- ## | Teatro El Ensueño
- - [https://teatroelensueno.gov.co](https://teatroelensueno.gov.co)
- - date_published: 2024-06-12T01:19:03.148492+00:00
-
- ## Inicio - Telecafé
- - [https://www.telecafe.gov.co](https://www.telecafe.gov.co)
- - date_published: 2022-12-19T02:27:31+00:00
-
- ## Terminal de Transporte Bogotá
- - [https://www.terminaldetransporte.gov.co](https://www.terminaldetransporte.gov.co)
- - date_published: 2024-12-10T12:23:09.219997+00:00
-
- ## Inicio | TLC
- - [https://www.tlc.gov.co](https://www.tlc.gov.co)
- - date_published: 2024-06-12T02:57:19.626711+00:00
-
- ## TransMilenio
- - [https://www.transmilenio.gov.co](https://www.transmilenio.gov.co)
- - date_published: 2024-12-10T12:23:42.345791+00:00
-
- ## Unidad Administrativa Especial de Servicios Públicos -UAESP- | La UAESP garantiza la prestación de servicios públicos de aseo, alumbrado y servicios funerarios en equipamientos de Bogotá
- - [http://www.uaesp.gov.co](http://www.uaesp.gov.co)
- - date_published: 2024-07-21T02:17:15+00:00
-
- ## SNARIV
- - [https://snariv.unidadvictimas.gov.co](https://snariv.unidadvictimas.gov.co)
- - date_published: 2024-09-10T15:10:39.360782+00:00
-
- ## Outlook
- - [https://correo.unp.gov.co](https://correo.unp.gov.co)
- - date_published: 2024-09-10T14:55:56.638246+00:00
-
- ## Inicio
- - [https://www.unp.gov.co](https://www.unp.gov.co)
- - date_published: 2024-06-12T02:50:58.720632+00:00
-
- ## SIPRA
- - [https://sipra.upra.gov.co](https://sipra.upra.gov.co)
- - date_published: 2024-05-01T04:18:36+00:00
-
- ## Pages - Inicio
- - [https://upra.gov.co](https://upra.gov.co)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Inicio | Urna de Cristal
- - [https://urnadecristal.gov.co](https://urnadecristal.gov.co)
- - date_published: 2024-06-12T03:11:48.851284+00:00
-
- ## Unidad de Restitución de Tierras - URT
- - [https://www.urt.gov.co](https://www.urt.gov.co)
- - date_published: 2024-09-10T14:56:55.848264+00:00
-
- ## Inicio | Compromisos Veeduria
- - [https://colibri.veeduriadistrital.gov.co](https://colibri.veeduriadistrital.gov.co)
- - date_published: 2024-06-11T23:00:37.071977+00:00
-
- ## Tablero de Control Ciudadano
- - [http://tablerocontrolciudadano.veeduriadistrital.gov.co](http://tablerocontrolciudadano.veeduriadistrital.gov.co)
- - date_published: 2023-04-11T00:49:57+00:00
-
- ## VEEDURIA DISTRITAL
- - [https://veeduriadistrital.gov.co](https://veeduriadistrital.gov.co)
- - date_published: 2024-06-11T23:06:28.063622+00:00
-
- ## Viajeros del Pentagrama
- - [http://www.viajerosdelpentagrama.gov.co](http://www.viajerosdelpentagrama.gov.co)
- - date_published: 2024-09-10T14:35:00.155666+00:00
-
- ## Vicepresidencia de la República
- - [https://www.vicepresidencia.gov.co](https://www.vicepresidencia.gov.co)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Observatorio Distrital de Víctimas
- - [https://observatorio.victimasbogota.gov.co](https://observatorio.victimasbogota.gov.co)
- - date_published: 2024-06-11T23:04:18.088723+00:00
-
- ## Alta Consejería De Paz, Víctimas Y Reconciliación | Secretaría General - Alcaldía Mayor de Bogotá
- - [https://victimasbogota.gov.co](https://victimasbogota.gov.co)
- - date_published: 2024-06-11T23:18:22.351328+00:00
 
