@@ -1,3 +1,27 @@
+ ## Fakultät für Chemie
+ - [https://chemie.univie.ac.at](https://chemie.univie.ac.at)
+ - date_published: 2024-10-14T23:57:13.664358+00:00
+
+ ## Citizen Science an der Universität Wien
+ - [http://citizenscience.univie.ac.at](http://citizenscience.univie.ac.at)
+ - date_published: 2024-10-14T23:58:07.860828+00:00
+
+ ## Digitalisierung
+ - [http://digital.univie.ac.at](http://digital.univie.ac.at)
+ - date_published: 2024-10-14T23:57:21.499651+00:00
+
+ ## Doktorat
+ - [http://doktorat.univie.ac.at](http://doktorat.univie.ac.at)
+ - date_published: 2024-10-14T23:59:41.532440+00:00
+
+ ## Datenschutzbeauftragte*r (DSBA) der Universität Wien
+ - [https://dsba.univie.ac.at](https://dsba.univie.ac.at)
+ - date_published: 2024-07-21T01:58:44.344610+00:00
+
+ ## Entrepreneurship
+ - [http://entrepreneurship.univie.ac.at](http://entrepreneurship.univie.ac.at)
+ - date_published: 2024-10-14T23:58:23.974047+00:00
+
  ## Welcome to CS - CS
  - [http://eprints-dev5.cs.univie.ac.at](http://eprints-dev5.cs.univie.ac.at)
  - date_published: 2024-07-08T16:13:22.188078+00:00
@@ -2367,6 +2391,10 @@
  - [https://www.linak.at](https://www.linak.at)
  - date_published: 2024-12-10T23:45:14.491940+00:00
 
+ ## Lindt & Sprüngli Österreich - Die Welt der Schokolade
+ - [https://www.lindt.at](https://www.lindt.at)
+ - date_published: 2024-12-20T16:59:14.395715+00:00
+
  ## Sign in · GitLab
  - [https://git.linux-kernel.at](https://git.linux-kernel.at)
  - date_published: 2024-07-23T21:44:33.160560+00:00
@@ -3984,32 +4012,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Repository
  - [https://repository.tugraz.at](https://repository.tugraz.at)
  - date_published: 2024-09-16T03:53:03.042327+00:00
-
- ## RSS | ZID | TU Graz
- - [https://rss.tugraz.at](https://rss.tugraz.at)
- - date_published: 2024-02-29T08:15:45+00:00
-
- ## SEMS 2018 | October 1st, 2018 – Lisbon, Portugal
- - [http://sems2018.ist.tugraz.at](http://sems2018.ist.tugraz.at)
- - date_published: 2024-07-17T05:44:04.705825+00:00
-
- ## Startseite | TC Main
- - [https://tc.tugraz.at](https://tc.tugraz.at)
- - date_published: 2024-08-11T12:07:22+00:00
-
- ## TU4U: Willkommen bei TU4U!
- - [https://tu4u.tugraz.at](https://tu4u.tugraz.at)
- - date_published: 2024-08-11T12:07:23.669874+00:00
-
- ## Graz University of Technology - TUbe
- - [https://tube.tugraz.at](https://tube.tugraz.at)
- - date_published: 2024-07-13T09:03:07.221212+00:00
-
- ## TU Graz
- - [https://tugraz.at](https://tugraz.at)
- - date_published: 2024-02-28T22:18:07.361042+00:00
-
- ## Bibliothek der TU Graz - TU Graz
- - [https://ub.tugraz.at](https://ub.tugraz.at)
- - date_published: 2024-08-11T12:07:20.473615+00:00
 

@@ -1,3 +1,15 @@
+ ## Find the perfect pitch deck designer
+ - [https://www.pitchdeckexperts.app](https://www.pitchdeckexperts.app)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## ‎Pixel Pals Widget Pet Game
+ - [https://pixelpals.app](https://pixelpals.app)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## Pizi - Descriptions produit en automatique
+ - [https://api.pizi.app](https://api.pizi.app)
+ - date_published: 2024-12-15T06:09:22.890082+00:00
+
  ## Pizi - Descriptions produit en automatique
  - [https://csv.pizi.app](https://csv.pizi.app)
  - date_published: 2024-12-15T06:09:21.672725+00:00
@@ -4010,16 +4022,4 @@
  ## Home | Swing Music
  - [https://swingmusic.vercel.app](https://swingmusic.vercel.app)
  - date_published: 2024-06-19T22:10:07.685199+00:00
-
- ## React Hooks for Data Fetching – SWR
- - [https://swr.vercel.app](https://swr.vercel.app)
- - date_published: 2023-10-25T11:51:01.722399+00:00
-
- ## Syofyan Zuhad - Back-End Developer
- - [https://syofyan-profile.vercel.app](https://syofyan-profile.vercel.app)
- - date_published: 2024-05-11T10:21:09.398595+00:00
-
- ## Tabloid: the clickbait headline programming language
- - [https://tabloid-thesephist.vercel.app](https://tabloid-thesephist.vercel.app)
- - date_published: 2023-10-25T11:51:03.259656+00:00
 

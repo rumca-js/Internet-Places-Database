@@ -1,3 +1,15 @@
+ ## React Hooks for Data Fetching – SWR
+ - [https://swr.vercel.app](https://swr.vercel.app)
+ - date_published: 2023-10-25T11:51:01.722399+00:00
+
+ ## Syofyan Zuhad - Back-End Developer
+ - [https://syofyan-profile.vercel.app](https://syofyan-profile.vercel.app)
+ - date_published: 2024-05-11T10:21:09.398595+00:00
+
+ ## Tabloid: the clickbait headline programming language
+ - [https://tabloid-thesephist.vercel.app](https://tabloid-thesephist.vercel.app)
+ - date_published: 2023-10-25T11:51:03.259656+00:00
+
  ## Tabloid: The Clickbait Headline Programming Language (2021)
  - [https://tabloid.vercel.app](https://tabloid.vercel.app)
  - date_published: 2024-07-15T00:12:59+00:00
@@ -1810,6 +1822,10 @@
  - [https://www.psafinance.com.ar](https://www.psafinance.com.ar)
  - date_published: 2024-05-24T23:14:24+00:00
 
+ ## Mafalda sitio oficial de Joaquín Salvador Lavado (Quino)
+ - [http://www.quino.com.ar](http://www.quino.com.ar)
+ - date_published: 2024-12-20T10:40:50.386066+00:00
+
  ## RadioTV AN24 – Despertando Conciencias
  - [https://www.radioan24.com.ar](https://www.radioan24.com.ar)
  - date_published: 2024-08-06T00:00:00+00:00
@@ -2809,6 +2825,10 @@
  - [https://app.owlai.art](https://app.owlai.art)
  - date_published: 2024-06-14T08:55:01.621965+00:00
 
+ ## P55.ART
+ - [https://p55.art](https://p55.art)
+ - date_published: 2024-12-20T09:01:51.170977+00:00
+
  ## Get Panels
  - [https://get.panels.art](https://get.panels.art)
  - date_published: 2024-11-20T21:37:18+00:00
@@ -3542,6 +3562,10 @@ October 2024 in Singapore
  - [https://kyuko.asia](https://kyuko.asia)
  - date_published: 2024-05-08T03:52:02.697420+00:00
 
+ ## Live Nation News
+ - [https://news.livenation.asia](https://news.livenation.asia)
+ - date_published: 2024-12-20T17:03:29+00:00
+
  ## Master of Orion - legendary space strategy game, sci-fi strategy bestseller
  - [http://masteroforion.asia](http://masteroforion.asia)
  - date_published: 2024-10-27T00:00:09+00:00
@@ -4012,28 +4036,4 @@ October 2024 in Singapore
  ## CeMESS | Centre for Microbiology and Environmental Systems Science
  - [https://cemess.univie.ac.at](https://cemess.univie.ac.at)
  - date_published: 2024-09-26T00:00:00+00:00
-
- ## Fakultät für Chemie
- - [https://chemie.univie.ac.at](https://chemie.univie.ac.at)
- - date_published: 2024-10-14T23:57:13.664358+00:00
-
- ## Citizen Science an der Universität Wien
- - [http://citizenscience.univie.ac.at](http://citizenscience.univie.ac.at)
- - date_published: 2024-10-14T23:58:07.860828+00:00
-
- ## Digitalisierung
- - [http://digital.univie.ac.at](http://digital.univie.ac.at)
- - date_published: 2024-10-14T23:57:21.499651+00:00
-
- ## Doktorat
- - [http://doktorat.univie.ac.at](http://doktorat.univie.ac.at)
- - date_published: 2024-10-14T23:59:41.532440+00:00
-
- ## Datenschutzbeauftragte*r (DSBA) der Universität Wien
- - [https://dsba.univie.ac.at](https://dsba.univie.ac.at)
- - date_published: 2024-07-21T01:58:44.344610+00:00
-
- ## Entrepreneurship
- - [http://entrepreneurship.univie.ac.at](http://entrepreneurship.univie.ac.at)
- - date_published: 2024-10-14T23:58:23.974047+00:00
 

@@ -2364,6 +2364,10 @@ Creative Solutions
  - [https://www.landrover.co.ao](https://www.landrover.co.ao)
  - date_published: 2024-02-12T00:00:00+00:00
 
+ ## Novo Jornal | Notícias de Angola e do Mundo, Opinião e Multimédia
+ - [https://novojornal.co.ao](https://novojornal.co.ao)
+ - date_published: 2024-12-20T08:23:16+00:00
+
  ## home - Ram Angola
  - [https://www.ram.co.ao](https://www.ram.co.ao)
  - date_published: 2016-03-10T00:00:00+00:00
@@ -4012,8 +4016,4 @@ Creative Solutions
  ## Home - Individuals - FaithForward
  - [https://faithforward.app](https://faithforward.app)
  - date_published: 2024-10-28T01:58:10+00:00
-
- ## Fanbase | Next-Gen Social Media
- - [https://fanbase.app](https://fanbase.app)
- - date_published: 2024-07-14T09:21:17.533991+00:00
 
