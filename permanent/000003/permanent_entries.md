@@ -1,3 +1,31 @@
+ ## Pleasures.ai | Realistic NSFW AI Image Generator
+ - [https://www.pleasures.ai](https://www.pleasures.ai)
+ - date_published: 2024-09-14T08:00:02.286043+00:00
+
+ ## PlotNotes - Home
+ - [https://plotnotes.ai](https://plotnotes.ai)
+ - date_published: 2023-10-25T11:41:29.584225+00:00
+
+ ## Make More Deals
+ - [https://plotzy.ai](https://plotzy.ai)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Plugger.ai - plug ai into your app
+ - [https://platform.plugger.ai](https://platform.plugger.ai)
+ - date_published: 2024-10-24T12:32:00+00:00
+
+ ## Plugger - Automate your design work with AI and increase your growth!
+ - [https://www.plugger.ai](https://www.plugger.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Driver Assist and Autonomous Driving Technologies and Solutions | Plus
+ - [https://plus.ai](https://plus.ai)
+ - date_published: 2024-07-12T07:18:47.395895+00:00
+
+ ## podcast.ai
+ - [https://podcast.ai](https://podcast.ai)
+ - date_published: 2023-10-25T11:41:30.853722+00:00
+
  ## Podcastle Help Guides
  - [https://help.podcastle.ai](https://help.podcastle.ai)
  - date_published: 2024-10-30T16:43:48.807975+00:00
@@ -297,6 +325,10 @@
  ## The #1 Professional AI Headshot Generator - ProPhotos
  - [https://prophotos.ai](https://prophotos.ai)
  - date_published: 2024-06-19T20:50:11.430704+00:00
+
+ ## Propic | real estate ai
+ - [https://www.propic.ai](https://www.propic.ai)
+ - date_published: 2024-12-21T08:16:17.975048+00:00
 
  ## Custom Domain by Bitly
  - [https://bitly.protocol.ai](https://bitly.protocol.ai)
@@ -3104,6 +3136,10 @@
  - date_published: 2024-04-26T04:00:00+00:00
  - tags: ['artificial intelligence', 'machine learning', 'performance test']
 
+ ## COLING-2025-Regulations-Challenge
+ - [https://coling2025regulations.thefin.ai](https://coling2025regulations.thefin.ai)
+ - date_published: 2024-12-21T22:20:54.479755+00:00
+
  ## theGist | Unified AI Workspace to supercharge your enterprise
  - [https://www.thegist.ai](https://www.thegist.ai)
  - date_published: 2024-06-19T19:37:53.324330+00:00
@@ -3914,6 +3950,10 @@
  - [https://vaisu.ai](https://vaisu.ai)
  - date_published: 2024-05-04T12:17:41.781403+00:00
 
+ ## Valkyrie AI - Homepage
+ - [https://valkyrie.ai](https://valkyrie.ai)
+ - date_published: 2024-12-21T13:44:30.448656+00:00
+
  ## Vanna.AI - Personalized AI SQL Agent
  - [https://vanna.ai](https://vanna.ai)
  - date_published: 2024-06-17T18:36:03+00:00
@@ -3983,44 +4023,4 @@
  ## Converti file PNG, JPG in vettori SVG online - Vectorizer.AI
  - [https://it.vectorizer.ai](https://it.vectorizer.ai)
  - date_published: 2024-10-30T21:36:56.092306+00:00
-
- ## PNG や JPG ファイルをオンラインで SVG ベクターに変換 - Vectorizer.AI
- - [https://ja.vectorizer.ai](https://ja.vectorizer.ai)
- - date_published: 2024-10-30T21:37:11.524732+00:00
-
- ## 온라인에서 PNG, JPG 파일을 SVG 벡터로 변환 - Vectorizer.AI
- - [https://ko.vectorizer.ai](https://ko.vectorizer.ai)
- - date_published: 2024-10-30T21:36:58.487441+00:00
-
- ## Konwertuj pliki PNG, JPG na wektory SVG online - Vectorizer.AI
- - [https://pl.vectorizer.ai](https://pl.vectorizer.ai)
- - date_published: 2024-10-30T21:37:07.027190+00:00
-
- ## Conversão on-line de arquivos PNG e JPG para vetores SVG - Vectorizer.AI
- - [https://pt.vectorizer.ai](https://pt.vectorizer.ai)
- - date_published: 2024-10-30T21:36:51.173619+00:00
-
- ## Конвертируйте файлы PNG, JPG в векторы SVG онлайн - Vectorizer.AI
- - [https://ru.vectorizer.ai](https://ru.vectorizer.ai)
- - date_published: 2024-10-30T21:37:09.210179+00:00
-
- ## แปลงไฟล์ PNG, JPG เป็นเวกเตอร์ SVG ออนไลน์ - Vectorizer.AI
- - [https://th.vectorizer.ai](https://th.vectorizer.ai)
- - date_published: 2024-10-30T21:37:18.670575+00:00
-
- ## PNG, JPEG dosyalarını çevrimiçi olarak SVG vektörlerine çevirin - Vectorizer.AI
- - [https://tr.vectorizer.ai](https://tr.vectorizer.ai)
- - date_published: 2024-10-30T21:37:20.889107+00:00
-
- ## Convert PNG, JPG files to SVG vectors online - Vectorizer.AI
- - [https://vectorizer.ai](https://vectorizer.ai)
- - date_published: 2024-06-19T21:22:34.702162+00:00
-
- ## Chuyển đổi các tệp PNG, JPG thành các vector SVG trực tuyến. - Vectorizer.AI
- - [https://vi.vectorizer.ai](https://vi.vectorizer.ai)
- - date_published: 2024-10-30T21:37:16.089081+00:00
-
- ## Stoppen Sie fortgeschrittene Cyberangriffe mit Vectra AI
- - [https://de.vectra.ai](https://de.vectra.ai)
- - date_published: 2024-10-30T09:44:03+00:00
 

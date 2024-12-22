@@ -254,6 +254,10 @@
  - [https://digital-research.academy](https://digital-research.academy)
  - date_published: 2024-07-30T15:15:26+00:00
 
+ ## Duck Alignment Academy
+ - [https://duckalignment.academy](https://duckalignment.academy)
+ - date_published: 2024-12-21T19:52:52.599793+00:00
+
  ## Home | epicenter.academy
  - [https://epicenter.academy](https://epicenter.academy)
  - date_published: 2024-05-02T13:40:25.608544+00:00
@@ -1172,6 +1176,10 @@
  - [https://www.thrive.ae](https://www.thrive.ae)
  - date_published: 2024-06-29T19:12:36.817678+00:00
 
+ ## Home - Ticketmaster AE
+ - [https://business.ticketmaster.ae](https://business.ticketmaster.ae)
+ - date_published: 2024-01-18T15:08:54+00:00
+
  ## Falcon LLM
  - [https://falconllm.tii.ae](https://falconllm.tii.ae)
  - date_published: 2023-10-25T11:36:14.302367+00:00
@@ -1786,6 +1794,10 @@
  - [https://umg.africa](https://umg.africa)
  - date_published: 2024-07-17T11:10:06.845556+00:00
 
+ ## WoMin | African Women Activists | Nonprofit Organisation
+ - [https://womin.africa](https://womin.africa)
+ - date_published: 2020-05-28T12:38:57+00:00
+
  ## Envoyer de l'argent en Guinée au meilleur taux avec YMO
  - [https://ymo.africa](https://ymo.africa)
  - date_published: 2024-12-15T10:10:14.000379+00:00
@@ -2137,6 +2149,10 @@
  ## Digital Marketing for Home Services - LMH Agency
  - [https://lmh.agency](https://lmh.agency)
  - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Luminus: Marketing Agency | Branding, Websites, Creative Campaigns | Buffalo, NY
+ - [https://luminus.agency](https://luminus.agency)
+ - date_published: 2024-12-21T14:57:52+00:00
 
  ## eCommerce Web Development & Consulting Agency
  - [https://www.magecloud.agency](https://www.magecloud.agency)
@@ -2634,6 +2650,10 @@
  ## AI Copywriter: aicopywriter.ai
  - [https://aicopywriter.ai](https://aicopywriter.ai)
  - date_published: 2024-06-27T10:51:45.712630+00:00
+
+ ## Next.js
+ - [https://j.aicu.ai](https://j.aicu.ai)
+ - date_published: 2024-12-21T10:51:02.169630+00:00
 
  ## Aidbase - AI-Powered support for your SaaS startup
  - [https://aidbase.ai](https://aidbase.ai)
@@ -3998,24 +4018,4 @@
  ## Investor Relations | C3.ai, Inc.
  - [https://ir.c3.ai](https://ir.c3.ai)
  - date_published: 2024-07-12T07:53:53+00:00
-
- ## Home - C3 DTI
- - [https://c3dti.ai](https://c3dti.ai)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Cabina.AI - Free AI platform: generate content, text, images online | One chat for all your AI needs - CabinaAI
- - [https://cabina.ai](https://cabina.ai)
- - date_published: 2024-09-13T20:29:10.261459+00:00
-
- ## Caffe2
- - [https://caffe2.ai](https://caffe2.ai)
- - date_published: 2019-05-30T18:44:09+00:00
-
- ## Caktus AI | Homework Helper
- - [https://caktus.ai](https://caktus.ai)
- - date_published: 2024-06-14T08:55:23.631145+00:00
-
- ## Call Annie
- - [https://callannie.ai](https://callannie.ai)
- - date_published: 2024-10-27T05:29:15+00:00
 

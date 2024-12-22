@@ -1,3 +1,23 @@
+ ## Home - C3 DTI
+ - [https://c3dti.ai](https://c3dti.ai)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Cabina.AI - Free AI platform: generate content, text, images online | One chat for all your AI needs - CabinaAI
+ - [https://cabina.ai](https://cabina.ai)
+ - date_published: 2024-09-13T20:29:10.261459+00:00
+
+ ## Caffe2
+ - [https://caffe2.ai](https://caffe2.ai)
+ - date_published: 2019-05-30T18:44:09+00:00
+
+ ## Caktus AI | Homework Helper
+ - [https://caktus.ai](https://caktus.ai)
+ - date_published: 2024-06-14T08:55:23.631145+00:00
+
+ ## Call Annie
+ - [https://callannie.ai](https://callannie.ai)
+ - date_published: 2024-10-27T05:29:15+00:00
+
  ## Calligrapher.ai: Realistic computer-generated handwriting
  - [https://calligrapher.ai](https://calligrapher.ai)
  - date_published: 2023-10-25T11:36:44.320352+00:00
@@ -2887,6 +2907,10 @@ Welcome
  - [https://solve-widget.forethought.ai](https://solve-widget.forethought.ai)
  - date_published: 2024-06-16T08:34:56.231319+00:00
 
+ ## Online Community and Learning for Associations and Professional Networks | Forj
+ - [https://www.forj.ai](https://www.forj.ai)
+ - date_published: 2024-12-17T15:45:29+00:00
+
  ## Conceptual Boundaries Workshop: Feb. 10-12 in Austin, TX
  - [https://formalizingboundaries.ai](https://formalizingboundaries.ai)
  - date_published: 2024-07-04T06:10:24.237186+00:00
@@ -3993,28 +4017,4 @@ Welcome
  ## HTML Email Templates AI - Create Stunning, Responsive Email Templates Instantly
  - [https://www.htmlemailtemplates.ai](https://www.htmlemailtemplates.ai)
  - date_published: 2024-09-13T20:28:52.077550+00:00
-
- ## Center for Human-Compatible Artificial Intelligence – Center for Human-Compatible AI is building exceptional AI for humanity
- - [https://humancompatible.ai](https://humancompatible.ai)
- - date_published: 2024-05-08T09:51:55.550980+00:00
-
- ## Humanize AI Text | #1 Free AI Humanizer & AI-to-Human Converter
- - [https://humanizeaitext.ai](https://humanizeaitext.ai)
- - date_published: 2024-10-30T20:47:10.425623+00:00
-
- ## Human or Not
- - [https://app.humanornot.ai](https://app.humanornot.ai)
- - date_published: 2024-06-10T22:22:27+00:00
-
- ## Human or Not? // A Social Turing Game
- - [https://www.humanornot.ai](https://www.humanornot.ai)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## Humans.ai
- - [https://humans.ai](https://humans.ai)
- - date_published: 2024-09-24T01:22:02.109784+00:00
-
- ## Humata: AI for your files
- - [https://humata.ai](https://humata.ai)
- - date_published: 2024-10-30T19:38:55.941842+00:00
 

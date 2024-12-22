@@ -1,3 +1,27 @@
+ ## Center for Human-Compatible Artificial Intelligence – Center for Human-Compatible AI is building exceptional AI for humanity
+ - [https://humancompatible.ai](https://humancompatible.ai)
+ - date_published: 2024-05-08T09:51:55.550980+00:00
+
+ ## Humanize AI Text | #1 Free AI Humanizer & AI-to-Human Converter
+ - [https://humanizeaitext.ai](https://humanizeaitext.ai)
+ - date_published: 2024-10-30T20:47:10.425623+00:00
+
+ ## Human or Not
+ - [https://app.humanornot.ai](https://app.humanornot.ai)
+ - date_published: 2024-06-10T22:22:27+00:00
+
+ ## Human or Not? // A Social Turing Game
+ - [https://www.humanornot.ai](https://www.humanornot.ai)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## Humans.ai
+ - [https://humans.ai](https://humans.ai)
+ - date_published: 2024-09-24T01:22:02.109784+00:00
+
+ ## Humata: AI for your files
+ - [https://humata.ai](https://humata.ai)
+ - date_published: 2024-10-30T19:38:55.941842+00:00
+
  ## AI Humanizer - Humanize AI - AI Detector Bypass | Humbot
  - [https://humbot.ai](https://humbot.ai)
  - date_published: 2024-06-19T19:41:47.142990+00:00
@@ -1168,6 +1192,10 @@
  ## AI Platform - Improve my ML Model Performance, Predictive & Graph Based Machine Learning For Marketing, Personalization, Platform, Pipelines, Fashion Retailers, B2C & Ecommerce, Natural Language Processing, PYG & MLOPS - Kumo
  - [https://kumo.ai](https://kumo.ai)
  - date_published: 2024-08-11T09:11:04.187056+00:00
+
+ ## KUNGFU.AI | Accelerate AI
+ - [https://www.kungfu.ai](https://www.kungfu.ai)
+ - date_published: 2024-12-20T19:03:06+00:00
 
  ## Cierpliwości...
  - [https://kupid.ai](https://kupid.ai)
@@ -3993,32 +4021,4 @@
  ## Playlist Genius AI
  - [https://www.playlistgenius.ai](https://www.playlistgenius.ai)
  - date_published: 2024-10-30T12:21:56.243336+00:00
-
- ## Pleasures.ai | Realistic NSFW AI Image Generator
- - [https://www.pleasures.ai](https://www.pleasures.ai)
- - date_published: 2024-09-14T08:00:02.286043+00:00
-
- ## PlotNotes - Home
- - [https://plotnotes.ai](https://plotnotes.ai)
- - date_published: 2023-10-25T11:41:29.584225+00:00
-
- ## Make More Deals
- - [https://plotzy.ai](https://plotzy.ai)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## Plugger.ai - plug ai into your app
- - [https://platform.plugger.ai](https://platform.plugger.ai)
- - date_published: 2024-10-24T12:32:00+00:00
-
- ## Plugger - Automate your design work with AI and increase your growth!
- - [https://www.plugger.ai](https://www.plugger.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Driver Assist and Autonomous Driving Technologies and Solutions | Plus
- - [https://plus.ai](https://plus.ai)
- - date_published: 2024-07-12T07:18:47.395895+00:00
-
- ## podcast.ai
- - [https://podcast.ai](https://podcast.ai)
- - date_published: 2023-10-25T11:41:30.853722+00:00
 

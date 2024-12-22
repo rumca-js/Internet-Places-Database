@@ -1,3 +1,68 @@
+ ## Institute of Theoretical Physics
+ - [http://www.itp.tuwien.ac.at](http://www.itp.tuwien.ac.at)
+ - date_published: 2023-11-13T21:46:16+00:00
+
+ ## TU.it Information Technology Solutions. ZID | TU.it
+ - [https://www.it.tuwien.ac.at](https://www.it.tuwien.ac.at)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## KBS
+ - [http://www.kr.tuwien.ac.at](http://www.kr.tuwien.ac.at)
+ - date_published: 2024-08-18T18:44:54.474381+00:00
+
+ ## Telecommunications
+ - [https://www.nt.tuwien.ac.at](https://www.nt.tuwien.ac.at)
+ - date_published: 2024-08-07T13:15:30.109273+00:00
+
+ ## Home | 
+      Computational Logic | University of Innsbruck
+ - [http://cl-informatik.uibk.ac.at](http://cl-informatik.uibk.ac.at)
+ - date_published: 2024-04-29T06:19:16.986431+00:00
+
+ ## Home – Security and Privacy Lab – University of Innsbruck
+ - [https://informationsecurity.uibk.ac.at](https://informationsecurity.uibk.ac.at)
+ - date_published: 2024-07-08T11:25:19+00:00
+
+ ## GEPHRAS - Homepage
+ - [https://romanistik-gephras.uibk.ac.at](https://romanistik-gephras.uibk.ac.at)
+ - date_published: 2024-07-12T05:19:05.511861+00:00
+
+ ## Smart Water City
+ - [https://umwelttechnik-swc.uibk.ac.at](https://umwelttechnik-swc.uibk.ac.at)
+ - date_published: 2024-09-13T16:19:27.152923+00:00
+
+ ## University of Innsbruck – Universität Innsbruck
+ - [https://www.uibk.ac.at](https://www.uibk.ac.at)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## ITEC Homepage – Department of Information Technology @AAU
+ - [http://www-itec.uni-klu.ac.at](http://www-itec.uni-klu.ac.at)
+ - date_published: 2024-09-14T08:46:38.794033+00:00
+
+ ## Weblogin
+ - [https://backend.univie.ac.at](https://backend.univie.ac.at)
+ - date_published: 2024-07-21T01:58:49.875546+00:00
+
+ ## Universität Wien Barrierefrei
+ - [http://barrierefrei.univie.ac.at](http://barrierefrei.univie.ac.at)
+ - date_published: 2024-10-14T23:58:34.104637+00:00
+
+ ## Universitätsbibliothek Wien
+ - [http://bibliothek.univie.ac.at](http://bibliothek.univie.ac.at)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Der univie Blog - Blog der Universität Wien
+ - [https://blog.univie.ac.at](https://blog.univie.ac.at)
+ - date_published: 2024-10-14T23:59:51.425974+00:00
+
+ ## Campus der Universität Wien
+ - [http://campus.univie.ac.at](http://campus.univie.ac.at)
+ - date_published: 2024-10-14T23:58:35.237769+00:00
+
+ ## CeMESS | Centre for Microbiology and Environmental Systems Science
+ - [https://cemess.univie.ac.at](https://cemess.univie.ac.at)
+ - date_published: 2024-09-26T00:00:00+00:00
+
  ## Fakultät für Chemie
  - [https://chemie.univie.ac.at](https://chemie.univie.ac.at)
  - date_published: 2024-10-14T23:57:13.664358+00:00
@@ -237,6 +302,10 @@
  ## A1 digital.campus
  - [https://a1digitalcampus.at](https://a1digitalcampus.at)
  - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home - AI Austria
+ - [https://www.aaig.at](https://www.aaig.at)
+ - date_published: 2024-12-19T06:55:16+00:00
 
  ## Universität Klagenfurt
  - [https://www.aau.at](https://www.aau.at)
@@ -3925,6 +3994,14 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - [https://www.theviennareview.at](https://www.theviennareview.at)
  - date_published: 2024-09-02T00:00:00+00:00
 
+ ## Homepage - Ticketmaster Blog Österreich
+ - [https://blog.ticketmaster.at](https://blog.ticketmaster.at)
+ - date_published: 2024-12-21T07:24:52.882428+00:00
+
+ ## Home - Ticketmaster AT
+ - [https://business.ticketmaster.at](https://business.ticketmaster.at)
+ - date_published: 2024-01-18T15:08:54+00:00
+
  ## Tiny Dogs
  - [https://www.tinydogs.at](https://www.tinydogs.at)
  - date_published: 2024-06-23T19:03:35.785098+00:00
@@ -3936,80 +4013,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## tkp.at – Der Blog für Science & Politik
  - [https://tkp.at](https://tkp.at)
  - date_published: 2024-07-12T00:00:00+00:00
-
- ## Topothek Portal – Das lokale Online-Archiv
- - [http://www.topothek.at](http://www.topothek.at)
- - date_published: 2024-09-13T16:21:25.539333+00:00
-
- ## Microsoft Azure App Service - Welcome
- - [https://localform.toyota.at](https://localform.toyota.at)
- - date_published: 2019-05-29T15:21:58+00:00
-
- ## Toyota Austria - Aktuelle Informationen
- - [https://www.toyota.at](https://www.toyota.at)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Toyota Neu und Gebrauchtwagen Suche
- - [https://www.toyota-fahrzeugboerse.at](https://www.toyota-fahrzeugboerse.at)
- - date_published: 2024-10-16T15:57:20.615567+00:00
-
- ## Fußball-Transfers, Gerüchte, Marktwerte und News
- - [https://www.transfermarkt.at](https://www.transfermarkt.at)
- - date_published: 2024-07-24T06:30:12.603701+00:00
-
- ## TransWrite - Erika Krammer-Riedl
- - [http://transwrite.at](http://transwrite.at)
- - date_published: 2022-09-01T12:28:44+00:00
-
- ## Travelcircus – Premium Städtereisen und Wellnesshotel Angebote
- - [https://www.travelcircus.at](https://www.travelcircus.at)
- - date_published: 2024-09-18T02:31:27.663112+00:00
-
- ## Tripadvisor: über eine Milliarde Bewertungen und Beiträge zu Hotels, Sehenswürdigkeiten, Restaurants und mehr
- - [https://www.tripadvisor.at](https://www.tripadvisor.at)
- - date_published: 2024-06-23T09:26:51.561521+00:00
-
- ## tripleC: Communication, Capitalism & Critique. Open Access Journal for a Global Sustainable Information Society
- - [https://www.triple-c.at](https://www.triple-c.at)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## trivago.at - Compare hotel prices worldwide
- - [https://www.trivago.at](https://www.trivago.at)
- - date_published: 2024-09-04T11:20:04.579541+00:00
-
- ## Online-Shopping mit Trusted Shops | Jetzt alle Produkte kennenlernen
- - [https://www.trustedshops.at](https://www.trustedshops.at)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## TTG Tourismus Technologie GmbH
- - [http://www.ttg.at](http://www.ttg.at)
- - date_published: 2024-09-13T16:19:06.512521+00:00
-
- ## TUalumni - Das Alumni Service der TU Wien
- - [https://www.tualumni.at](https://www.tualumni.at)
- - date_published: 2024-08-06T18:29:32.339382+00:00
-
- ## alumniTUGraz 1887
- - [http://alumni.tugraz.at](http://alumni.tugraz.at)
- - date_published: 2024-07-13T09:04:24.936813+00:00
-
- ## The ECRYPT Hash Function Website
- - [https://ehash.iaik.tugraz.at](https://ehash.iaik.tugraz.at)
- - date_published: 2024-06-17T04:48:53.692602+00:00
-
- ## Geschichte der TU Graz
- - [http://history.tugraz.at](http://history.tugraz.at)
- - date_published: 2024-07-13T09:04:02.733091+00:00
-
- ## MIBLA - Home
- - [http://mibla.tugraz.at](http://mibla.tugraz.at)
- - date_published: 2024-08-11T12:07:16.648757+00:00
-
- ## Loading
- - [https://online.tugraz.at](https://online.tugraz.at)
- - date_published: 2024-07-29T13:17:15+00:00
-
- ## Repository
- - [https://repository.tugraz.at](https://repository.tugraz.at)
- - date_published: 2024-09-16T03:53:03.042327+00:00
 

@@ -1,3 +1,43 @@
+ ## PNG や JPG ファイルをオンラインで SVG ベクターに変換 - Vectorizer.AI
+ - [https://ja.vectorizer.ai](https://ja.vectorizer.ai)
+ - date_published: 2024-10-30T21:37:11.524732+00:00
+
+ ## 온라인에서 PNG, JPG 파일을 SVG 벡터로 변환 - Vectorizer.AI
+ - [https://ko.vectorizer.ai](https://ko.vectorizer.ai)
+ - date_published: 2024-10-30T21:36:58.487441+00:00
+
+ ## Konwertuj pliki PNG, JPG na wektory SVG online - Vectorizer.AI
+ - [https://pl.vectorizer.ai](https://pl.vectorizer.ai)
+ - date_published: 2024-10-30T21:37:07.027190+00:00
+
+ ## Conversão on-line de arquivos PNG e JPG para vetores SVG - Vectorizer.AI
+ - [https://pt.vectorizer.ai](https://pt.vectorizer.ai)
+ - date_published: 2024-10-30T21:36:51.173619+00:00
+
+ ## Конвертируйте файлы PNG, JPG в векторы SVG онлайн - Vectorizer.AI
+ - [https://ru.vectorizer.ai](https://ru.vectorizer.ai)
+ - date_published: 2024-10-30T21:37:09.210179+00:00
+
+ ## แปลงไฟล์ PNG, JPG เป็นเวกเตอร์ SVG ออนไลน์ - Vectorizer.AI
+ - [https://th.vectorizer.ai](https://th.vectorizer.ai)
+ - date_published: 2024-10-30T21:37:18.670575+00:00
+
+ ## PNG, JPEG dosyalarını çevrimiçi olarak SVG vektörlerine çevirin - Vectorizer.AI
+ - [https://tr.vectorizer.ai](https://tr.vectorizer.ai)
+ - date_published: 2024-10-30T21:37:20.889107+00:00
+
+ ## Convert PNG, JPG files to SVG vectors online - Vectorizer.AI
+ - [https://vectorizer.ai](https://vectorizer.ai)
+ - date_published: 2024-06-19T21:22:34.702162+00:00
+
+ ## Chuyển đổi các tệp PNG, JPG thành các vector SVG trực tuyến. - Vectorizer.AI
+ - [https://vi.vectorizer.ai](https://vi.vectorizer.ai)
+ - date_published: 2024-10-30T21:37:16.089081+00:00
+
+ ## Stoppen Sie fortgeschrittene Cyberangriffe mit Vectra AI
+ - [https://de.vectra.ai](https://de.vectra.ai)
+ - date_published: 2024-10-30T09:44:03+00:00
+
  ## Detenga los ciberataques avanzados con Vectra AI
  - [https://es.vectra.ai](https://es.vectra.ai)
  - date_published: 2024-10-30T09:44:03+00:00
@@ -2679,6 +2719,10 @@ Creative Solutions
  - [https://help.awtomatic.app](https://help.awtomatic.app)
  - date_published: 2024-04-25T00:00:00+00:00
 
+ ## Axel Go - Secure File Sharing, Document Management & Cloud Storage
+ - [https://www.axelgo.app](https://www.axelgo.app)
+ - date_published: 2019-12-05T12:24:05+00:00
+
  ## Youtube Summarizer - Summarize any YouTube Video
  - [http://yt.azen.app](http://yt.azen.app)
  - date_published: 2024-06-14T08:57:18.044415+00:00
@@ -3972,48 +4016,4 @@ Creative Solutions
  ## Extra Debit Card® - Build Credit Without a Credit Card
  - [https://extra.app](https://extra.app)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## Extrapolate - Transform your face with Artificial Intelligence
- - [https://extrapolate.app](https://extrapolate.app)
- - date_published: 2024-06-19T20:42:17.614830+00:00
-
- ## Extrapolate - Transform your face with Artificial Intelligence
- - [https://ref.extrapolate.app](https://ref.extrapolate.app)
- - date_published: 2024-10-30T18:05:29.519128+00:00
-
- ## EZ Fulfill
- - [https://shopify.ezfulfill.app](https://shopify.ezfulfill.app)
- - date_published: 2024-05-12T05:43:44.241062+00:00
-
- ## Join the F3D Discord Server!
- - [https://discord.f3d.app](https://discord.f3d.app)
- - date_published: 2024-08-16T20:07:53+00:00
-
- ## Home | F3D
- - [https://f3d.app](https://f3d.app)
- - date_published: 2023-10-25T11:46:25.386150+00:00
-
- ## Fable
- - [https://create.fable.app](https://create.fable.app)
- - date_published: 2024-07-15T07:08:17.058859+00:00
-
- ## Fable — The collaborative creative studio
- - [https://fable.app](https://fable.app)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Fable Status
- - [https://status.fable.app](https://status.fable.app)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## FabPic | Capture & Beautify Screenshots
- - [https://www.fabpic.app](https://www.fabpic.app)
- - date_published: 2024-10-22T19:22:52.529678+00:00
-
- ## Facework
- - [https://facework.app](https://facework.app)
- - date_published: 2024-08-19T17:11:13.194243+00:00
-
- ## Home - Individuals - FaithForward
- - [https://faithforward.app](https://faithforward.app)
- - date_published: 2024-10-28T01:58:10+00:00
 
