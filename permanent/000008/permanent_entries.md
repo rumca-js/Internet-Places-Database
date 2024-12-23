@@ -1,3 +1,99 @@
+ ## VICAV - Vienna Corpus of Arabic Varieties
+ - [https://vicav.acdh.oeaw.ac.at](https://vicav.acdh.oeaw.ac.at)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Österreichische Akademie der Wissenschaften
+ - [https://www.oeaw.ac.at](https://www.oeaw.ac.at)
+ - date_published: 2024-06-16T22:24:07.269549+00:00
+
+ ## ÖNB/AKON Ansichtskarten Online
+ - [https://akon.onb.ac.at](https://akon.onb.ac.at)
+ - date_published: 2024-07-13T11:27:27.881236+00:00
+
+ ## Misc
+ - [http://data.onb.ac.at](http://data.onb.ac.at)
+ - date_published: 2020-01-09T17:01:09+00:00
+
+ ## Österreichische Nationalbibliothek - Startseite
+ - [http://digital.onb.ac.at](http://digital.onb.ac.at)
+ - date_published: 2024-09-06T21:30:28.306955+00:00
+
+ ## Home - Paris Lodron Universität Salzburg
+ - [https://www.plus.ac.at](https://www.plus.ac.at)
+ - date_published: 2024-10-18T21:08:57.186063+00:00
+
+ ## Wissenschaft und Kunst
+ - [https://w-k.sbg.ac.at](https://w-k.sbg.ac.at)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Sigmund Freud PrivatUniversität
+ - [https://www.sfu.ac.at](https://www.sfu.ac.at)
+ - date_published: 2024-10-22T11:32:29.000105+00:00
+
+ ## TU Austria: TU Austria
+ - [https://www.tuaustria.ac.at](https://www.tuaustria.ac.at)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## GROW 2019 – The 9th Workshop on Graph Classes, Optimization, and Width Parameters  TU Wien, Vienna, September 23-26, 2019
+ - [https://grow2019.ac.tuwien.ac.at](https://grow2019.ac.tuwien.ac.at)
+ - date_published: 2024-08-11T22:07:05.719640+00:00
+
+ ## Weiterleitung
+ - [http://igw.tuwien.ac.at](http://igw.tuwien.ac.at)
+ - date_published: 2022-09-05T15:04:03+00:00
+
+ ## TU Wien Informatics
+ - [https://informatics.tuwien.ac.at](https://informatics.tuwien.ac.at)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Jobs Overview
+ - [https://jobs.tuwien.ac.at](https://jobs.tuwien.ac.at)
+ - date_published: 2024-08-06T18:29:26.762036+00:00
+
+ ## TU Wien Login
+ - [https://login.tuwien.ac.at](https://login.tuwien.ac.at)
+ - date_published: 2024-08-06T18:29:35.448223+00:00
+
+ ## Machine Learning 2023 Obergurgl
+ - [https://ml23-obergurgl.conf.tuwien.ac.at](https://ml23-obergurgl.conf.tuwien.ac.at)
+ - date_published: 2024-07-01T05:48:04.373081+00:00
+
+ ## Machine Learning 2024 Obergurgl
+ - [https://ml24-obergurgl.conf.tuwien.ac.at](https://ml24-obergurgl.conf.tuwien.ac.at)
+ - date_published: 2024-07-01T05:47:11.949510+00:00
+
+ ## NGSolve User Meeting 2024
+ - [https://ngsolve2024.conf.tuwien.ac.at](https://ngsolve2024.conf.tuwien.ac.at)
+ - date_published: 2024-10-16T05:54:11.444306+00:00
+
+ ## TU Wien Research Data
+ - [https://researchdata.tuwien.ac.at](https://researchdata.tuwien.ac.at)
+ - date_published: 2024-09-16T03:52:54.645066+00:00
+
+ ## TISS - Homepage | TU Wien
+ - [https://tiss.tuwien.ac.at](https://tiss.tuwien.ac.at)
+ - date_published: 2024-08-06T18:29:33.834677+00:00
+
+ ## Technische Universität Wien, TUW | TU Wien
+ - [https://tuwien.ac.at](https://tuwien.ac.at)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Research Unit of Computer Graphics | TU Wien – Research Unit of Computer Graphics
+ - [https://www.cg.tuwien.ac.at](https://www.cg.tuwien.ac.at)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Compilers and Languages
+ - [https://www.complang.tuwien.ac.at](https://www.complang.tuwien.ac.at)
+ - date_published: 2022-08-25T14:41:10+00:00
+
+ ## Research Unit Software Engineering
+ - [http://www.ifs.tuwien.ac.at](http://www.ifs.tuwien.ac.at)
+ - date_published: 2024-07-08T01:59:48+00:00
+
+ ## TU Wien Informatics
+ - [http://www.informatik.tuwien.ac.at](http://www.informatik.tuwien.ac.at)
+ - date_published: 2024-06-10T00:00:00+00:00
+
  ## Institute of Theoretical Physics
  - [http://www.itp.tuwien.ac.at](http://www.itp.tuwien.ac.at)
  - date_published: 2023-11-13T21:46:16+00:00
@@ -2231,6 +2327,10 @@
  - [https://karriere.at](https://karriere.at)
  - date_published: 2024-06-22T23:47:43.357422+00:00
 
+ ## kescherGit
+ - [https://git.kescher.at](https://git.kescher.at)
+ - date_published: 2024-12-22T08:14:23.818025+00:00
+
  ## Under construction
  - [https://kescher.at](https://kescher.at)
  - date_published: 2024-05-14T17:56:44+00:00
@@ -3912,105 +4012,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Superprof - der Ort, um Wissen zu teilen
  - [https://superprof.at](https://superprof.at)
  - date_published: 2024-06-15T01:28:05.503134+00:00
-
- ## Home | SYSSEC
- - [https://www.syssec.at](https://www.syssec.at)
- - date_published: 2024-09-13T19:54:46.158571+00:00
-
- ## Home
- - [https://tabakfabrik-linz.at](https://tabakfabrik-linz.at)
- - date_published: 2024-10-22T09:02:05.211020+00:00
-
- ## tag eins Magazin
- - [https://tageins.at](https://tageins.at)
- - date_published: 2024-05-11T07:11:01.023990+00:00
-
- ## Takeover • Übernahmekommission
- - [https://www.takeover.at](https://www.takeover.at)
- - date_published: 2024-10-16T14:59:31.960275+00:00
-
- ## tarife.at - Handytarife & Internet Tarife Vergleich
- - [https://www.tarife.at](https://www.tarife.at)
- - date_published: 2024-07-09T07:53:20.806906+00:00
-
- ## Startseite
- - [http://www.team122.at](http://www.team122.at)
- - date_published: 2024-09-13T16:19:04.482376+00:00
-
- ## Online Druckerei für Teamoutfits - Kleidung bedrucken | TeamShirts
- - [https://www.teamshirts.at](https://www.teamshirts.at)
- - date_published: 2024-10-21T09:04:05.251084+00:00
-
- ## Technisches Museum Wien
- - [https://www.technischesmuseum.at](https://www.technischesmuseum.at)
- - date_published: 2024-07-01T05:48:18.889689+00:00
-
- ## Technologieplauscherl - Technologie- und Software-Meetup in Linz
- - [https://technologieplauscherl.at](https://technologieplauscherl.at)
- - date_published: 2024-06-19T15:10:30+00:00
-
- ## Startseite - Techno-Z
- - [http://www.techno-z.at](http://www.techno-z.at)
- - date_published: 2024-06-12T13:46:59+00:00
-
- ## Homepage - Techsearch
- - [https://www.techsearch.at](https://www.techsearch.at)
- - date_published: 2024-07-14T10:08:15.856864+00:00
-
- ## Jobs für Techniker – techtalents.at
- - [https://www.techtalents.at](https://www.techtalents.at)
- - date_published: 2024-06-16T08:46:36.025634+00:00
-
- ## Teilchen.at
- - [http://sos.teilchen.at](http://sos.teilchen.at)
- - date_published: 2021-02-28T06:27:23+00:00
-
- ## theaterimpark.wien - theaterimpark.wien
- - [https://theaterimpark.at](https://theaterimpark.at)
- - date_published: 2024-06-17T08:37:43.370268+00:00
-
- ## Theatermuseum
- - [https://theatermuseum.at](https://theatermuseum.at)
- - date_published: 2024-05-28T03:08:50.287991+00:00
-
- ## Walk of Fame | Online Intervention im Theatermuseum 2023
- - [https://walkoffame.theatermuseum.at](https://walkoffame.theatermuseum.at)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## The Local Austria - News and practical guides in English
- - [https://www.thelocal.at](https://www.thelocal.at)
- - date_published: 2024-05-06T15:16:47.742184+00:00
-
- ## Homepage
- - [https://www.thenorthface.at](https://www.thenorthface.at)
- - date_published: 2024-07-12T07:36:25.275314+00:00
-
- ## Max Slater
- - [https://thenumb.at](https://thenumb.at)
- - date_published: 2023-10-25T09:01:05.992187+00:00
- - tags: ['personal']
-
- ## The Vienna Review | Theatre, Music, Arts, Film
- - [https://www.theviennareview.at](https://www.theviennareview.at)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Homepage - Ticketmaster Blog Österreich
- - [https://blog.ticketmaster.at](https://blog.ticketmaster.at)
- - date_published: 2024-12-21T07:24:52.882428+00:00
-
- ## Home - Ticketmaster AT
- - [https://business.ticketmaster.at](https://business.ticketmaster.at)
- - date_published: 2024-01-18T15:08:54+00:00
-
- ## Tiny Dogs
- - [https://www.tinydogs.at](https://www.tinydogs.at)
- - date_published: 2024-06-23T19:03:35.785098+00:00
-
- ## Nachrichten aus deiner Region | Tips.at
- - [https://www.tips.at](https://www.tips.at)
- - date_published: 2024-07-13T11:29:34.197718+00:00
-
- ## tkp.at – Der Blog für Science & Politik
- - [https://tkp.at](https://tkp.at)
- - date_published: 2024-07-12T00:00:00+00:00
 

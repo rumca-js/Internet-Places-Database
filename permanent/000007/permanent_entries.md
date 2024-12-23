@@ -1,3 +1,71 @@
+ ## Developmental Interpretability
+ - [https://slt-summit.vercel.app](https://slt-summit.vercel.app)
+ - date_published: 2024-07-07T07:16:39.482772+00:00
+
+ ## Smart Layer
+ - [https://smart-layer-2b4ezg7hb-smart-token-labs.vercel.app](https://smart-layer-2b4ezg7hb-smart-token-labs.vercel.app)
+ - date_published: 2024-09-21T23:52:50.967978+00:00
+
+ ## QuestLog
+ - [https://smart-listapp.vercel.app](https://smart-listapp.vercel.app)
+ - date_published: 2024-12-01T22:56:34+00:00
+
+ ## SolidStart - Firebase
+ - [https://solid-start-firebase.vercel.app](https://solid-start-firebase.vercel.app)
+ - date_published: 2024-07-08T15:49:58.641754+00:00
+
+ ## SOUNDRAW API Inquiry
+ - [https://soundraw-api-inquiry.vercel.app](https://soundraw-api-inquiry.vercel.app)
+ - date_published: 2024-06-22T16:56:05.103124+00:00
+
+ ## Maps that show time instead of space
+ - [https://spacetime-maps.vercel.app](https://spacetime-maps.vercel.app)
+ - date_published: 2024-03-24T16:32:33+00:00
+
+ ## Spencer Pope
+ - [https://spenpo-next-r8gd3fyhp-spope851.vercel.app](https://spenpo-next-r8gd3fyhp-spope851.vercel.app)
+ - date_published: 2024-05-12T05:24:54.899651+00:00
+
+ ## Spirals
+ - [https://spirals.vercel.app](https://spirals.vercel.app)
+ - date_published: 2023-10-25T11:50:52.349082+00:00
+
+ ## spots/explorer
+ - [https://spots-blond.vercel.app](https://spots-blond.vercel.app)
+ - date_published: 2024-12-12T04:31:43.444967+00:00
+
+ ## Spydea Astro
+ - [https://spydea-astro.vercel.app](https://spydea-astro.vercel.app)
+ - date_published: 2024-06-21T23:48:58.745344+00:00
+
+ ## Spydea | Sass Theme
+ - [https://spydea-nextjs.vercel.app](https://spydea-nextjs.vercel.app)
+ - date_published: 2024-06-21T23:48:40.221775+00:00
+
+ ## SoNiC's Portfolio
+ - [https://ss-portfolio.vercel.app](https://ss-portfolio.vercel.app)
+ - date_published: 2024-07-14T03:21:33.326901+00:00
+
+ ## Your Mindful Browser | Stack
+ - [https://stackbrowser.vercel.app](https://stackbrowser.vercel.app)
+ - date_published: 2024-09-30T12:40:16.500353+00:00
+
+ ## Star Trek | Official Site
+ - [https://star-trek-dot-com.vercel.app](https://star-trek-dot-com.vercel.app)
+ - date_published: 2024-08-06T19:53:24.451045+00:00
+
+ ## Introduction – react-tweet
+ - [https://static-tweet.vercel.app](https://static-tweet.vercel.app)
+ - date_published: 2024-05-06T13:41:30.247552+00:00
+
+ ## Show HN: A football/soccer pass visualizer made with Three.js
+ - [https://statsbomb-3d-viz.vercel.app](https://statsbomb-3d-viz.vercel.app)
+ - date_published: 2024-07-28T20:45:17+00:00
+
+ ## Zoo Store
+ - [https://store-md18wp3n6-kittycad.vercel.app](https://store-md18wp3n6-kittycad.vercel.app)
+ - date_published: 2024-07-22T10:35:06.863734+00:00
+
  ## @storybook/core-server - Storybook
  - [https://storybook-play.vercel.app](https://storybook-play.vercel.app)
  - date_published: 2024-07-19T19:01:36.002686+00:00
@@ -688,6 +756,10 @@
  ## Pro Organiser
  - [https://pro-organisers.web.app](https://pro-organisers.web.app)
  - date_published: 2022-05-18T14:51:38+00:00
+
+ ## Rocky Jaiswal
+ - [https://rockyj-blogs.web.app](https://rockyj-blogs.web.app)
+ - date_published: 2024-12-22T18:18:46+00:00
 
  ## Skaffold
  - [https://skaffold-v1.web.app](https://skaffold-v1.web.app)
@@ -1561,6 +1633,14 @@
  ## JLL
  - [https://www.jll.com.ar](https://www.jll.com.ar)
  - date_published: 2024-10-30T21:40:57.825936+00:00
+
+ ## Busca vuelos, hoteles y autos de alquiler | KAYAK
+ - [https://www.kayak.com.ar](https://www.kayak.com.ar)
+ - date_published: 2024-12-22T15:20:25.388417+00:00
+
+ ## Inicio | Kellogg's® Explora y conoce todo sobre nosotros
+ - [https://www.kelloggs.com.ar](https://www.kelloggs.com.ar)
+ - date_published: 2024-12-22T05:27:35+00:00
 
  ## Somos la empresa líder del mercado asegurador argentino
  - [https://www.lacaja.com.ar](https://www.lacaja.com.ar)
@@ -2550,6 +2630,10 @@
  ## EthBlock.art
  - [https://ethblock.art](https://ethblock.art)
  - date_published: 2024-06-16T03:35:51.367269+00:00
+
+ ## Ethersent
+ - [https://ethersent.art](https://ethersent.art)
+ - date_published: 2024-11-22T09:38:22+00:00
 
  ## EXPANDED.ART | ART OF OUR TIME
  - [https://www.expanded.art](https://www.expanded.art)
@@ -3646,6 +3730,14 @@ October 2024 in Singapore
  - [https://napawine.asia](https://napawine.asia)
  - date_published: 2024-07-16T07:33:39+00:00
 
+ ## OpenTechSummit Thailand
+ - [https://thai.opentechsummit.asia](https://thai.opentechsummit.asia)
+ - date_published: 2020-01-15T17:28:18+00:00
+
+ ## OpenTechSummit Vietnam
+ - [https://vn.opentechsummit.asia](https://vn.opentechsummit.asia)
+ - date_published: 2020-01-15T17:26:36+00:00
+
  ## Gabriele de Seta
  - [http://paranom.asia](http://paranom.asia)
  - date_published: 2024-09-06T21:37:11.300094+00:00
@@ -3678,6 +3770,10 @@ October 2024 in Singapore
  ## SASEC Home
  - [http://sasec.asia](http://sasec.asia)
  - date_published: 2024-07-16T22:50:26.352817+00:00
+
+ ## FOSSASIA
+ - [https://sciencehack.asia](https://sciencehack.asia)
+ - date_published: 2018-09-23T09:18:59+00:00
 
  ## SecurityBrief Asia - Technology news for CISOs & cybersecurity decision-makers
  - [https://securitybrief.asia](https://securitybrief.asia)
@@ -3939,100 +4035,4 @@ October 2024 in Singapore
  ## Startseite | Verlag der ÖAW
  - [https://verlag.oeaw.ac.at](https://verlag.oeaw.ac.at)
  - date_published: 2024-10-14T23:54:27.649297+00:00
-
- ## VICAV - Vienna Corpus of Arabic Varieties
- - [https://vicav.acdh.oeaw.ac.at](https://vicav.acdh.oeaw.ac.at)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Österreichische Akademie der Wissenschaften
- - [https://www.oeaw.ac.at](https://www.oeaw.ac.at)
- - date_published: 2024-06-16T22:24:07.269549+00:00
-
- ## ÖNB/AKON Ansichtskarten Online
- - [https://akon.onb.ac.at](https://akon.onb.ac.at)
- - date_published: 2024-07-13T11:27:27.881236+00:00
-
- ## Misc
- - [http://data.onb.ac.at](http://data.onb.ac.at)
- - date_published: 2020-01-09T17:01:09+00:00
-
- ## Österreichische Nationalbibliothek - Startseite
- - [http://digital.onb.ac.at](http://digital.onb.ac.at)
- - date_published: 2024-09-06T21:30:28.306955+00:00
-
- ## Home - Paris Lodron Universität Salzburg
- - [https://www.plus.ac.at](https://www.plus.ac.at)
- - date_published: 2024-10-18T21:08:57.186063+00:00
-
- ## Wissenschaft und Kunst
- - [https://w-k.sbg.ac.at](https://w-k.sbg.ac.at)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Sigmund Freud PrivatUniversität
- - [https://www.sfu.ac.at](https://www.sfu.ac.at)
- - date_published: 2024-10-22T11:32:29.000105+00:00
-
- ## TU Austria: TU Austria
- - [https://www.tuaustria.ac.at](https://www.tuaustria.ac.at)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## GROW 2019 – The 9th Workshop on Graph Classes, Optimization, and Width Parameters  TU Wien, Vienna, September 23-26, 2019
- - [https://grow2019.ac.tuwien.ac.at](https://grow2019.ac.tuwien.ac.at)
- - date_published: 2024-08-11T22:07:05.719640+00:00
-
- ## Weiterleitung
- - [http://igw.tuwien.ac.at](http://igw.tuwien.ac.at)
- - date_published: 2022-09-05T15:04:03+00:00
-
- ## TU Wien Informatics
- - [https://informatics.tuwien.ac.at](https://informatics.tuwien.ac.at)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Jobs Overview
- - [https://jobs.tuwien.ac.at](https://jobs.tuwien.ac.at)
- - date_published: 2024-08-06T18:29:26.762036+00:00
-
- ## TU Wien Login
- - [https://login.tuwien.ac.at](https://login.tuwien.ac.at)
- - date_published: 2024-08-06T18:29:35.448223+00:00
-
- ## Machine Learning 2023 Obergurgl
- - [https://ml23-obergurgl.conf.tuwien.ac.at](https://ml23-obergurgl.conf.tuwien.ac.at)
- - date_published: 2024-07-01T05:48:04.373081+00:00
-
- ## Machine Learning 2024 Obergurgl
- - [https://ml24-obergurgl.conf.tuwien.ac.at](https://ml24-obergurgl.conf.tuwien.ac.at)
- - date_published: 2024-07-01T05:47:11.949510+00:00
-
- ## NGSolve User Meeting 2024
- - [https://ngsolve2024.conf.tuwien.ac.at](https://ngsolve2024.conf.tuwien.ac.at)
- - date_published: 2024-10-16T05:54:11.444306+00:00
-
- ## TU Wien Research Data
- - [https://researchdata.tuwien.ac.at](https://researchdata.tuwien.ac.at)
- - date_published: 2024-09-16T03:52:54.645066+00:00
-
- ## TISS - Homepage | TU Wien
- - [https://tiss.tuwien.ac.at](https://tiss.tuwien.ac.at)
- - date_published: 2024-08-06T18:29:33.834677+00:00
-
- ## Technische Universität Wien, TUW | TU Wien
- - [https://tuwien.ac.at](https://tuwien.ac.at)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Research Unit of Computer Graphics | TU Wien – Research Unit of Computer Graphics
- - [https://www.cg.tuwien.ac.at](https://www.cg.tuwien.ac.at)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Compilers and Languages
- - [https://www.complang.tuwien.ac.at](https://www.complang.tuwien.ac.at)
- - date_published: 2022-08-25T14:41:10+00:00
-
- ## Research Unit Software Engineering
- - [http://www.ifs.tuwien.ac.at](http://www.ifs.tuwien.ac.at)
- - date_published: 2024-07-08T01:59:48+00:00
-
- ## TU Wien Informatics
- - [http://www.informatik.tuwien.ac.at](http://www.informatik.tuwien.ac.at)
- - date_published: 2024-06-10T00:00:00+00:00
 

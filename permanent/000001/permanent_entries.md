@@ -1,3 +1,15 @@
+ ## C3 AI - Enterprise AI
+ - [https://c3.ai](https://c3.ai)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## C3.ai Developer Portal | C3.ai Developer Portal
+ - [https://developer.c3.ai](https://developer.c3.ai)
+ - date_published: 2024-07-12T08:17:18.848522+00:00
+
+ ## Investor Relations | C3.ai, Inc.
+ - [https://ir.c3.ai](https://ir.c3.ai)
+ - date_published: 2024-07-12T07:53:53+00:00
+
  ## Home - C3 DTI
  - [https://c3dti.ai](https://c3dti.ai)
  - date_published: 2024-03-01T00:00:00+00:00
@@ -4005,16 +4017,4 @@ Welcome
  ## Help Center
  - [https://helpcenter.hourone.ai](https://helpcenter.hourone.ai)
  - date_published: 2024-10-25T08:18:44+00:00
-
- ## Gen AI Video: Creating Content Workflows for Enterprise Growth - Hour One
- - [https://hourone.ai](https://hourone.ai)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Howdy
- - [https://blog.howdy.ai](https://blog.howdy.ai)
- - date_published: 2024-05-02T12:44:32.505561+00:00
-
- ## HTML Email Templates AI - Create Stunning, Responsive Email Templates Instantly
- - [https://www.htmlemailtemplates.ai](https://www.htmlemailtemplates.ai)
- - date_published: 2024-09-13T20:28:52.077550+00:00
 

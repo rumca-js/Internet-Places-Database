@@ -1,3 +1,195 @@
+ ## Error: Active domain connection for this domain not found
+ - [https://betonit.blog](https://betonit.blog)
+ - date_published: 2024-06-21T23:20:34.165070+00:00
+
+ ## bezpieczny.blog
+ - [https://bezpieczny.blog](https://bezpieczny.blog)
+ - date_published: 2024-09-02T14:19:25.630031+00:00
+
+ ## Binary Solo
+ - [https://binarysolo.blog](https://binarysolo.blog)
+ - date_published: 2024-09-04T16:09:41+00:00
+
+ ## Tom — There are several blogs on the internet but you're look...
+ - [https://biologicalspeculation.blog](https://biologicalspeculation.blog)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Brian Birtles’ Blog
+ - [https://birtles.blog](https://birtles.blog)
+ - date_published: 2024-01-07T12:52:11.923527+00:00
+
+ ## home
+ - [https://bitbyte.blog](https://bitbyte.blog)
+ - date_published: 2024-05-11T10:09:46.508324+00:00
+
+ ## Bix (Not) Blog
+ - [https://bix.blog](https://bix.blog)
+ - date_published: 2024-05-07T23:27:01.715538+00:00
+
+ ## Blacknight Blog
+ - [https://blacknight.blog](https://blacknight.blog)
+ - date_published: 2024-06-13T13:39:41+00:00
+
+ ## Renga in Blue
+ - [https://bluerenga.blog](https://bluerenga.blog)
+ - date_published: 2024-07-10T02:39:57.563148+00:00
+
+ ## Bobiko.Blog
+ - [https://bobiko.blog](https://bobiko.blog)
+ - date_published: 2024-08-06T10:15:17+00:00
+
+ ## Bogenwald
+ - [https://bogenwald.blog](https://bogenwald.blog)
+ - date_published: 2024-10-26T17:53:03.030324+00:00
+
+ ## The Bondi Blog
+ - [https://bondi.blog](https://bondi.blog)
+ - date_published: 2024-06-11T15:05:12+00:00
+
+ ## Book Confidential - Libri, storie e maestri
+ - [https://bookconfidential.blog](https://bookconfidential.blog)
+ - date_published: 2023-12-30T05:22:55.385833+00:00
+ - tags: ['personal']
+
+ ## Bookstooge's Reviews on the Road
+ - [http://bookstooge.blog](http://bookstooge.blog)
+ - date_published: 2024-09-17T17:48:31.181401+00:00
+
+ ## totally normal girl
+ - [https://borschtwife.blog](https://borschtwife.blog)
+ - date_published: 2024-06-27T02:49:48.707293+00:00
+
+ ## The Botanist in the Kitchen
+ - [https://botanistinthekitchen.blog](https://botanistinthekitchen.blog)
+ - date_published: 2024-10-19T04:39:41.562379+00:00
+
+ ## The Bottom Line
+ - [http://bottomline.blog](http://bottomline.blog)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Bring Back Blogs! January 2023
+ - [https://bringback.blog](https://bringback.blog)
+ - date_published: 2023-01-20T18:42:44+00:00
+
+ ## Juan Silva
+ - [https://bufalojuan.blog](https://bufalojuan.blog)
+ - date_published: 2024-05-10T06:24:41.677866+00:00
+
+ ## Bunyip & ayotochtli
+ - [https://bunyipandayotochtli.blog](https://bunyipandayotochtli.blog)
+ - date_published: 2024-07-04T13:31:35.311481+00:00
+
+ ## Vince on all things Kings of War
+ - [https://kingsofwarvince.business.blog](https://kingsofwarvince.business.blog)
+ - date_published: 2024-10-26T18:12:25.002383+00:00
+
+ ## Bzogramming | Charles Rosenbauer | Substack
+ - [https://bzolang.blog](https://bzolang.blog)
+ - date_published: 2024-02-25T15:34:12.585460+00:00
+
+ ## Candost's Blog
+ - [https://candost.blog](https://candost.blog)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Mediations with Candost | Candost Dagdeviren | Substack
+ - [https://mediations.candost.blog](https://mediations.candost.blog)
+ - date_published: 2024-02-26T09:03:53.111236+00:00
+
+ ## Canion dot Blog
+ - [https://canion.blog](https://canion.blog)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Hi, I'm Caroline.
+ - [https://caroline.blog](https://caroline.blog)
+ - date_published: 2024-06-18T06:31:41+00:00
+
+ ## C A T C H L I G H T
+ - [https://catchlight.blog](https://catchlight.blog)
+ - date_published: 2024-05-01T03:14:26.436327+00:00
+
+ ## Accidentally in Code
+ - [https://cate.blog](https://cate.blog)
+ - date_published: 2024-12-11T21:32:43+00:00
+
+ ## Roots to Branches
+ - [https://cbaca.blog](https://cbaca.blog)
+ - date_published: 2024-07-17T17:13:15+00:00
+
+ ## Cello's Blog
+ - [https://www.cellos.blog](https://www.cellos.blog)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Chai's Blog
+ - [https://chait.blog](https://chait.blog)
+ - date_published: 2023-11-29T15:43:41.852196+00:00
+ - tags: ['personal']
+
+ ## Splitting Headache
+ - [https://chapra.blog](https://chapra.blog)
+ - date_published: 2024-10-31T22:50:47.572593+00:00
+
+ ## Chris Lakin | Substack
+ - [https://chrislakin.blog](https://chrislakin.blog)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Climatism
+ - [https://climatism.blog](https://climatism.blog)
+ - date_published: 2024-06-15T09:13:40.449575+00:00
+
+ ## cmart's blog
+ - [https://cmart.blog](https://cmart.blog)
+ - date_published: 2023-10-25T09:01:40.133698+00:00
+ - tags: ['personal']
+
+ ## Code The Web — Web development explained for normal people
+ - [https://codetheweb.blog](https://codetheweb.blog)
+ - date_published: 2024-08-08T15:08:12.106438+00:00
+
+ ## The Code With Love Web Development Blog | Tech and Software Engineering
+ - [https://codewithlove.blog](https://codewithlove.blog)
+ - date_published: 2022-12-30T00:00:00+00:00
+
+ ## codingkaiser.blog
+ - [http://codingkaiser.blog](http://codingkaiser.blog)
+ - date_published: 2023-10-25T11:29:52.059875+00:00
+
+ ## codingkaiser.blog
+ - [http://ww11.codingkaiser.blog](http://ww11.codingkaiser.blog)
+ - date_published: 2024-08-19T12:35:49.205954+00:00
+
+ ## From a technical expert to a leader ☕️🛫
+ - [https://coffeejourneys.blog](https://coffeejourneys.blog)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Cole's Blog
+ - [https://coleb.blog](https://coleb.blog)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Colin Walker — Home
+ - [https://colinwalker.blog](https://colinwalker.blog)
+ - date_published: 2023-11-20T07:44:38.276818+00:00
+ - tags: ['personal']
+
+ ## Colonizing Animals
+ - [https://colonizinganimals.blog](https://colonizinganimals.blog)
+ - date_published: 2024-10-29T18:23:25.588254+00:00
+
+ ## Comparing Notes
+ - [https://comparingnotes.blog](https://comparingnotes.blog)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Koin50 : Situs Bandar Favorite 4D 3D 2D Terpercaya Full Pasti Lunas
+ - [https://compiled.blog](https://compiled.blog)
+ - date_published: 2024-06-20T06:01:33.623231+00:00
+
+ ## (no title)
+ - [https://components4developers.blog](https://components4developers.blog)
+ - date_published: 2024-10-16T10:51:34.493556+00:00
+
+ ## ML and robotics notes | Tutorials and implementations of machine learning and robotics algorithms.
+ - [https://comsci.blog](https://comsci.blog)
+ - date_published: 2023-09-19T13:33:35+00:00
+
  ## connectedcircuits
  - [https://connectedcircuits.blog](https://connectedcircuits.blog)
  - date_published: 2024-05-01T03:56:17.981018+00:00
@@ -866,6 +1058,10 @@
  - [https://johnpublic.mataroa.blog](https://johnpublic.mataroa.blog)
  - date_published: 2023-10-25T12:00:42.570358+00:00
 
+ ## larsblog
+ - [https://lars.mataroa.blog](https://lars.mataroa.blog)
+ - date_published: 2024-09-06T00:00:00+00:00
+
  ## Ludicity
  - [https://ludic.mataroa.blog](https://ludic.mataroa.blog)
  - date_published: 2023-10-25T12:00:43.846678+00:00
@@ -1333,6 +1529,10 @@
  ## Open Notes
  - [https://opennotes.blog](https://opennotes.blog)
  - date_published: 2024-07-06T16:43:55+00:00
+
+ ## OSINT Team
+ - [https://osintteam.blog](https://osintteam.blog)
+ - date_published: 2024-12-22T13:05:30.255251+00:00
 
  ## Outside the Asylum
  - [https://outsidetheasylum.blog](https://outsidetheasylum.blog)
@@ -2241,6 +2441,10 @@
  - [https://jon.bo](https://jon.bo)
  - date_published: 2024-06-23T18:48:07.072750+00:00
 
+ ## Busca vuelos, hoteles y autos de alquiler | KAYAK
+ - [https://www.kayak.bo](https://www.kayak.bo)
+ - date_published: 2024-12-22T15:20:38.730023+00:00
+
  ## Attention Required! | Cloudflare
  - [https://1win.com.bo](https://1win.com.bo)
  - date_published: 2024-09-10T11:51:29.703528+00:00
@@ -2320,6 +2524,10 @@
  ## Inicio
  - [https://www.adecine.gob.bo](https://www.adecine.gob.bo)
  - date_published: 2024-09-10T14:53:38.421244+00:00
+
+ ## MEFP | MEFP
+ - [https://www.economiayfinanzas.gob.bo](https://www.economiayfinanzas.gob.bo)
+ - date_published: 2024-12-22T05:14:15.748662+00:00
 
  ## Noticias de conservación ambiental en Bolivia
  - [https://wwf.org.bo](https://wwf.org.bo)
@@ -2878,6 +3086,10 @@
  - [http://www.ser.puc-rio.br](http://www.ser.puc-rio.br)
  - date_published: 2024-07-07T06:43:24+00:00
 
+ ## Graduação, Pós e MBA na PUCRS Online
+ - [https://online.pucrs.br](https://online.pucrs.br)
+ - date_published: 2024-12-22T04:42:29+00:00
+
  ## Portal da PUCRS
  - [https://www.pucrs.br](https://www.pucrs.br)
  - date_published: 2024-09-12T00:00:00+00:00
@@ -3262,6 +3474,10 @@ Educação
  ## Gondwana | Review of the Geological Map of Gondwana - IGCP-628 - Revisão do Mapa geológico do Gondwana
  - [http://www.gondwana.geologia.ufrj.br](http://www.gondwana.geologia.ufrj.br)
  - date_published: 2021-07-08T14:46:14+00:00
+
+ ## Faculdade de Letras - Institucional
+ - [http://www.letras.ufrj.br](http://www.letras.ufrj.br)
+ - date_published: 2024-12-22T11:57:08+00:00
 
  ## Rádio UFRJ - Emissora educativa e multiplataforma
  - [https://www.radio.ufrj.br](https://www.radio.ufrj.br)
@@ -3738,6 +3954,10 @@ Educação
  - [https://staging.alice.com.br](https://staging.alice.com.br)
  - date_published: 2024-10-26T15:29:08+00:00
 
+ ## Home
+ - [https://www.allanramos.com.br](https://www.allanramos.com.br)
+ - date_published: 2024-11-15T18:05:30+00:00
+
  ## Home - Allog
  - [https://www.allog.com.br](https://www.allog.com.br)
  - date_published: 2024-05-15T00:00:00+00:00
@@ -3854,220 +4074,4 @@ Educação
  - [http://assembly.com.br](http://assembly.com.br)
  - date_published: 2024-02-18T21:56:54+00:00
  - tags: ['programming ide', 'assembly']
-
- ## Cartola
- - [https://assinecartola.com.br](https://assinecartola.com.br)
- - date_published: 2024-10-28T12:33:47.096835+00:00
-
- ## Assine Clube - Central de Assinaturas da Editora CARAS
- - [https://assineclube.com.br](https://assineclube.com.br)
- - date_published: 2024-07-11T17:33:03.896749+00:00
-
- ## Assine Coquetel
- - [https://assinecoquetel.com.br](https://assinecoquetel.com.br)
- - date_published: 2024-05-10T07:03:26.697586+00:00
-
- ## Home | Assine Culturama
- - [https://www.assineculturama.com.br](https://www.assineculturama.com.br)
- - date_published: 2022-01-13T00:00:00+00:00
-
- ## Ateliê do Crochê - Blog de Crochê
- - [https://ateliedocroche.com.br](https://ateliedocroche.com.br)
- - date_published: 2024-12-20T09:18:15.724332+00:00
-
- ## ATR-PRINCIPAL - A Terra é Redonda
- - [https://aterraeredonda.com.br](https://aterraeredonda.com.br)
- - date_published: 2024-12-19T15:48:10+00:00
-
- ## ATOMIC PC - Consultoria e Suporte Técnico em Informática
- - [https://www.atomicpc.com.br](https://www.atomicpc.com.br)
- - date_published: 2024-07-20T13:17:36.291031+00:00
-
- ## Sistema para Gestão de Marketing Multinível – O ATOMMN é a mais poderosa ferramenta para gestão do canal de Marketing Multinível. Com quinze anos de mercado, somos líderes em tecnologia para o setor.
- - [https://www.atommn.com.br](https://www.atommn.com.br)
- - date_published: 2024-07-20T09:39:55.280199+00:00
-
- ## Audi Brasil
- - [https://www.audi.com.br](https://www.audi.com.br)
- - date_published: 2024-07-19T20:28:40+00:00
-
- ## Help Center Desktop
- - [https://ajuda.audible.com.br](https://ajuda.audible.com.br)
- - date_published: 2023-09-03T14:55:35+00:00
-
- ## Audible | Audible.com.br
- - [https://audible.com.br](https://audible.com.br)
- - date_published: 2024-05-27T07:40:04.946488+00:00
-
- ## Auto Compara
- - [https://www.autocompara.com.br](https://www.autocompara.com.br)
- - date_published: 2024-06-16T09:16:26.235790+00:00
-
- ## Autonomia Literária
- - [https://autonomialiteraria.com.br](https://autonomialiteraria.com.br)
- - date_published: 2024-12-20T09:12:17.631396+00:00
-
- ## Aventuras na História
- - [https://aventurasnahistoria.com.br](https://aventurasnahistoria.com.br)
- - date_published: 2024-07-11T17:32:57.271178+00:00
-
- ## Aviator Aposta | Jogo do Aviãozinho Com Dinheiro Real
- - [https://aposta.aviators.com.br](https://aposta.aviators.com.br)
- - date_published: 2024-10-30T14:17:20+00:00
-
- ## Aviator Aposta | Jogo do Aviãozinho Com Dinheiro Real
- - [https://aviators.com.br](https://aviators.com.br)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Awari
- - [https://app.awari.com.br](https://app.awari.com.br)
- - date_published: 2024-07-04T13:04:25+00:00
-
- ## Awari - Cursos Online com Mentoria
- - [https://awari.com.br](https://awari.com.br)
- - date_published: 2024-05-10T06:47:10.475964+00:00
-
- ## Ayn Rand Space
- - [http://www.aynrand.com.br](http://www.aynrand.com.br)
- - date_published: 2024-12-12T23:37:50.655727+00:00
-
- ## GOODTOGEL - Daftar Situs Toto Togel Terpercaya dan Situs Togel #1 Terbesar di Asia
- - [https://azpop.com.br](https://azpop.com.br)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## B2B Stack - O maior portal brasileiro de busca e avaliação de software
- - [https://www.b2bstack.com.br](https://www.b2bstack.com.br)
- - date_published: 2024-07-13T16:34:48.976168+00:00
-
- ## B2Mamy -  A maior comunidade de mães do Brasil
- - [https://b2mamy.com.br](https://b2mamy.com.br)
- - date_published: 2024-10-30T05:37:03.939734+00:00
-
- ## B2Mamy Academy
- - [https://www.b2mamyacademy.com.br](https://www.b2mamyacademy.com.br)
- - date_published: 2024-10-30T05:36:59.412893+00:00
-
- ## Baffa-2 Homebrew Microcomputer
- - [https://baffa-2.baffasoft.com.br](https://baffa-2.baffasoft.com.br)
- - date_published: 2023-11-23T03:00:00+00:00
-
- ## Baffa-6502 Homebrew Microcomputer
- - [https://baffa-6502.baffasoft.com.br](https://baffa-6502.baffasoft.com.br)
- - date_published: 2024-07-03T21:32:03.524712+00:00
-
- ## Request Rejected
- - [https://www.banco24horas.com.br](https://www.banco24horas.com.br)
- - date_published: 2024-06-16T17:37:38.054120+00:00
-
- ## Stellantis Financiamentos
- - [https://www.bancopsa.com.br](https://www.bancopsa.com.br)
- - date_published: 2024-08-18T11:07:22.100062+00:00
-
- ## BCB São Paulo
- - [https://www.barconventsaopaulo.com.br](https://www.barconventsaopaulo.com.br)
- - date_published: 2024-06-22T15:52:57+00:00
-
- ## BARE International: Serviços de Cliente Oculto, Auditoria e Pesquisa de Satisfação
- - [https://www.bareinternational.com.br](https://www.bareinternational.com.br)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Atendimento
- - [https://aapj.bb.com.br](https://aapj.bb.com.br)
- - date_published: 2021-12-14T22:06:04+00:00
-
- ## [bb.com.br]
- - [http://www.bb.com.br](http://www.bb.com.br)
- - date_published: 2024-05-09T21:43:28+00:00
-
- ## Blog - Beleza Natural | Bonito é ser você
- - [https://blog.belezanatural.com.br](https://blog.belezanatural.com.br)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Beleza Natural
- - [https://www.belezanatural.com.br](https://www.belezanatural.com.br)
- - date_published: 2024-05-10T06:56:38.618004+00:00
-
- ## BEM ESCRITO | revisão de texto | Daise Ribeiro P. Carpes
- - [http://bemescrito.com.br](http://bemescrito.com.br)
- - date_published: 2024-07-03T23:18:19.455457+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.benvisavale.com.br](https://www.benvisavale.com.br)
- - date_published: 2024-06-16T09:16:12.438402+00:00
-
- ## gamescom latam 2024 | Companies
- - [https://event.bigfestival.com.br](https://event.bigfestival.com.br)
- - date_published: 2024-06-26T21:55:47.261806+00:00
-
- ## Attention Required! | Cloudflare
- - [https://biglinux.com.br](https://biglinux.com.br)
- - date_published: 2024-07-20T12:52:44.192507+00:00
-
- ## Home - Bitcoin Block - Central de Notícias Blockchain
- - [https://bitcoinblock.com.br](https://bitcoinblock.com.br)
- - date_published: 2024-06-16T05:04:38.494605+00:00
-
- ## Ripio Trade
- - [https://bitcointrade.com.br](https://bitcointrade.com.br)
- - date_published: 2024-05-01T07:26:56.364071+00:00
-
- ## Bitdefender - Líder global em software de segurança cibernética
- - [https://www.bitdefender.com.br](https://www.bitdefender.com.br)
- - date_published: 2024-07-20T02:26:42.206941+00:00
-
- ## Tecnologia da informação - White Papers Técnicos - Webcasts/Informação - Bitpipe.com.br
- - [https://www.bitpipe.com.br](https://www.bitpipe.com.br)
- - date_published: 2024-09-09T20:03:11.236907+00:00
-
- ## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
- - [https://bitrix24.com.br](https://bitrix24.com.br)
- - date_published: 2024-05-12T03:57:46.635766+00:00
-
- ## Viaje com a BlaBlaCar - Caronas de confiança | BlaBlaCar
- - [https://blablacar.com.br](https://blablacar.com.br)
- - date_published: 2024-06-15T01:01:10.607205+00:00
-
- ## A vida é uma viagem - BlaBlaCar
- - [https://blog.blablacar.com.br](https://blog.blablacar.com.br)
- - date_published: 2024-09-15T19:56:02.657657+00:00
-
- ## Sala de Imprensa - BlaBlaCar
- - [https://newsroom.blablacar.com.br](https://newsroom.blablacar.com.br)
- - date_published: 2024-01-04T05:26:48+00:00
-
- ## Home
- - [https://blocknews.com.br](https://blocknews.com.br)
- - date_published: 2024-09-25T13:23:43+00:00
-
- ## Blocos Online
- - [https://blocosonline.com.br](https://blocosonline.com.br)
- - date_published: 2024-05-10T06:16:12.131479+00:00
-
- ## Blog da Boitempo
- - [https://blogdaboitempo.com.br](https://blogdaboitempo.com.br)
- - date_published: 2024-12-20T09:12:06.024867+00:00
-
- ## Strangely Alive
- - [http://ajwellman.blogspot.com.br](http://ajwellman.blogspot.com.br)
- - date_published: 2024-11-06T02:56:58+00:00
-
- ## Battlefront Brasil
- - [http://battlefrontbrasil.blogspot.com.br](http://battlefrontbrasil.blogspot.com.br)
- - date_published: 2024-09-08T02:21:33+00:00
-
- ## Blogger
- - [http://danieladelias.blogspot.com.br](http://danieladelias.blogspot.com.br)
- - date_published: 2024-07-12T21:04:42.798842+00:00
-
- ## Galera Record
- - [https://galerarecord.blogspot.com.br](https://galerarecord.blogspot.com.br)
- - date_published: 2024-05-10T06:57:46.657878+00:00
-
- ## Blog  – Google Research
- - [http://googleresearch.blogspot.com.br](http://googleresearch.blogspot.com.br)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## The Insecurity Analyst
- - [http://insecurityanalyst.blogspot.com.br](http://insecurityanalyst.blogspot.com.br)
- - date_published: 2024-10-05T11:25:01+00:00
 

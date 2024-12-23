@@ -1,3 +1,15 @@
+ ## Gen AI Video: Creating Content Workflows for Enterprise Growth - Hour One
+ - [https://hourone.ai](https://hourone.ai)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Howdy
+ - [https://blog.howdy.ai](https://blog.howdy.ai)
+ - date_published: 2024-05-02T12:44:32.505561+00:00
+
+ ## HTML Email Templates AI - Create Stunning, Responsive Email Templates Instantly
+ - [https://www.htmlemailtemplates.ai](https://www.htmlemailtemplates.ai)
+ - date_published: 2024-09-13T20:28:52.077550+00:00
+
  ## Center for Human-Compatible Artificial Intelligence – Center for Human-Compatible AI is building exceptional AI for humanity
  - [https://humancompatible.ai](https://humancompatible.ai)
  - date_published: 2024-05-08T09:51:55.550980+00:00
@@ -760,6 +772,10 @@
  ## Jina AI Status
  - [https://status.jina.ai](https://status.jina.ai)
  - date_published: 2024-07-09T00:00:00+00:00
+
+ ## JINDA888 เว็บตรง สล็อต888 คาสิโน แจกเครดิตฟรี ฝากถอนไม่มีขั้นต่ำ
+ - [https://www.jinda888.ai](https://www.jinda888.ai)
+ - date_published: 2024-12-22T10:59:46+00:00
 
  ## /
  - [https://mirror.jingk.ai](https://mirror.jingk.ai)
@@ -3572,6 +3588,10 @@
  - [https://pdf.ai](https://pdf.ai)
  - date_published: 2024-06-19T19:35:49.500635+00:00
 
+ ## PDFTranslate.ai | Translate PDF for Free | PDF Translator Online
+ - [https://pdftranslate.ai](https://pdftranslate.ai)
+ - date_published: 2024-12-22T13:23:34.595547+00:00
+
  ## Peak - Game-changing AI is here.
  - [https://www.peak.ai](https://www.peak.ai)
  - date_published: 2024-06-10T00:00:00+00:00
@@ -4001,24 +4021,4 @@
  ## PlayAI
  - [https://play.ai](https://play.ai)
  - date_published: 2024-08-06T05:41:38.629250+00:00
-
- ## Player Two
- - [https://app.playertwo.ai](https://app.playertwo.ai)
- - date_published: 2024-06-14T04:25:15+00:00
-
- ## PlayFi Era Block Explorer
- - [https://albireo-explorer.playfi.ai](https://albireo-explorer.playfi.ai)
- - date_published: 2024-05-27T15:38:05+00:00
-
- ## PlayFi Bridge | Transfer funds between zkSync and Ethereum
- - [https://portal.playfi.ai](https://portal.playfi.ai)
- - date_published: 2024-08-07T14:06:18+00:00
-
- ## PlayFi - Build on the world's most popular games
- - [https://www.playfi.ai](https://www.playfi.ai)
- - date_published: 2024-09-20T00:00:00+00:00
-
- ## Playlist Genius AI
- - [https://www.playlistgenius.ai](https://www.playlistgenius.ai)
- - date_published: 2024-10-30T12:21:56.243336+00:00
 

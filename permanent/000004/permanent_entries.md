@@ -1,3 +1,31 @@
+ ## Home - Vector Institute for Artificial Intelligence
+ - [https://vectorinstitute.ai](https://vectorinstitute.ai)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Konvertieren Sie PNG- und JPG-Dateien in SVG-Vektoren online - Vectorizer.AI
+ - [https://de.vectorizer.ai](https://de.vectorizer.ai)
+ - date_published: 2024-10-30T21:37:02.654451+00:00
+
+ ## Convierta archivos PNG, JP a vectores SVG en línea - Vectorizer.AI
+ - [https://es.vectorizer.ai](https://es.vectorizer.ai)
+ - date_published: 2024-10-30T21:37:00.711118+00:00
+
+ ## Convertissez vos fichiers PNG et JPG en vecteurs SVG en ligne - Vectorizer.AI
+ - [https://fr.vectorizer.ai](https://fr.vectorizer.ai)
+ - date_published: 2024-10-30T21:37:04.859299+00:00
+
+ ## PNG, JPG फ़ाइल्स को ऑनलाइन SVG वैक्टर्स में बदलें - Vectorizer.AI
+ - [https://hi.vectorizer.ai](https://hi.vectorizer.ai)
+ - date_published: 2024-10-30T21:36:53.799689+00:00
+
+ ## Konversikan file PNG, JPG ke vektor SVG secara online - Vectorizer.AI
+ - [https://id.vectorizer.ai](https://id.vectorizer.ai)
+ - date_published: 2024-10-30T21:37:13.954257+00:00
+
+ ## Converti file PNG, JPG in vettori SVG online - Vectorizer.AI
+ - [https://it.vectorizer.ai](https://it.vectorizer.ai)
+ - date_published: 2024-10-30T21:36:56.092306+00:00
+
  ## PNG や JPG ファイルをオンラインで SVG ベクターに変換 - Vectorizer.AI
  - [https://ja.vectorizer.ai](https://ja.vectorizer.ai)
  - date_published: 2024-10-30T21:37:11.524732+00:00
@@ -1511,6 +1539,10 @@ Creative Solutions
  - [https://realestate.al](https://realestate.al)
  - date_published: 2024-02-08T22:20:07.666981+00:00
 
+ ## Kreu | RTSH TV
+ - [https://tv.rtsh.al](https://tv.rtsh.al)
+ - date_published: 2024-12-22T22:09:41.272023+00:00
+
  ## Samal Shrikant
  - [https://sam.al](https://sam.al)
  - date_published: 2024-07-13T04:16:41.420656+00:00
@@ -1752,6 +1784,10 @@ Creative Solutions
  ## w.ll.am - portfolio
  - [http://w.ll.am](http://w.ll.am)
  - date_published: 2021-02-08T14:48:18+00:00
+
+ ## lundimatin | #456
+ - [https://lundi.am](https://lundi.am)
+ - date_published: 2024-12-22T05:44:30.304465+00:00
 
  ## Mayday: The AI-Assisted Calendar
  - [https://mayday.am](https://mayday.am)
@@ -3046,6 +3082,10 @@ Creative Solutions
  - [https://idrica.canaletico.app](https://idrica.canaletico.app)
  - date_published: 2024-07-24T16:52:46+00:00
 
+ ## Login to CannaBuzz
+ - [https://www.cannabuzz.app](https://www.cannabuzz.app)
+ - date_published: 2024-12-22T07:53:55.740346+00:00
+
  ## capitalyse-website-nuxtjs
  - [https://capitalyse.app](https://capitalyse.app)
  - date_published: 2024-04-25T08:13:45.023998+00:00
@@ -3976,44 +4016,4 @@ Creative Solutions
  ## Estimaker
  - [https://estimaker.app](https://estimaker.app)
  - date_published: 2024-05-08T09:59:09.340703+00:00
-
- ## Events in Amsterdam
- - [https://eventsin.app](https://eventsin.app)
- - date_published: 2024-05-12T05:40:39.529976+00:00
-
- ## Everbloom - Invest in creators
- - [https://everbloom.app](https://everbloom.app)
- - date_published: 2024-09-25T10:38:39.838486+00:00
-
- ## everyday
- - [https://everyday.app](https://everyday.app)
- - date_published: 2024-01-10T16:58:42+00:00
-
- ## Every Door
- - [https://every-door.app](https://every-door.app)
- - date_published: 2023-10-18T10:07:15+00:00
-
- ## Evidence Cloud
- - [https://evidence.app](https://evidence.app)
- - date_published: 2024-08-02T19:58:59+00:00
-
- ## EvolveAi | Providing affordable expert coaching
- - [https://www.evolveai.app](https://www.evolveai.app)
- - date_published: 2024-06-19T19:53:54.591476+00:00
-
- ## Evy.app
- - [https://evy.app](https://evy.app)
- - date_published: 2024-09-02T09:48:02.845148+00:00
-
- ## exosphere
- - [https://jetstream2.exosphere.app](https://jetstream2.exosphere.app)
- - date_published: 2024-08-07T16:22:03+00:00
-
- ## explanations.app
- - [https://explanations.app](https://explanations.app)
- - date_published: 2024-03-27T10:11:03.132303+00:00
-
- ## Extra Debit Card® - Build Credit Without a Credit Card
- - [https://extra.app](https://extra.app)
- - date_published: 2024-06-26T00:00:00+00:00
 

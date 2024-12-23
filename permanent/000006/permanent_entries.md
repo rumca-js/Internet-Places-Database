@@ -1,3 +1,57 @@
+ ## PhotoPrism+: Demo
+ - [https://demo.photoprism.app](https://demo.photoprism.app)
+ - date_published: 2024-06-19T22:10:46.696536+00:00
+
+ ## PhotoPrism
+ - [https://docs-de.photoprism.app](https://docs-de.photoprism.app)
+ - date_published: 2024-07-26T14:06:24+00:00
+
+ ## PhotoPrism - Features
+ - [https://docs.photoprism.app](https://docs.photoprism.app)
+ - date_published: 2024-04-20T15:04:18.703361+00:00
+ - tags: ['image library', 'self-host']
+
+ ## PhotoPrism: Browse Your Life in Pictures
+ - [https://link.photoprism.app](https://link.photoprism.app)
+ - date_published: 2024-05-12T04:58:29.441276+00:00
+
+ ## PhotoPrism: Browse Your Life in Pictures
+ - [https://photoprism.app](https://photoprism.app)
+ - date_published: 2024-05-12T04:58:19.907236+00:00
+ - tags: ['photo storage', 'open source', 'self-host', 'image hosting']
+
+ ## PhotoPrism Translations
+ - [https://translate.photoprism.app](https://translate.photoprism.app)
+ - date_published: 2024-05-12T04:58:33.196347+00:00
+
+ ## PhotoPrism+: Demo
+ - [https://try.photoprism.app](https://try.photoprism.app)
+ - date_published: 2024-05-12T04:58:30.971299+00:00
+
+ ## PhotoPrism: Browse Your Life in Pictures
+ - [https://web.photoprism.app](https://web.photoprism.app)
+ - date_published: 2024-05-12T04:58:31.882933+00:00
+
+ ## Phrasing: To Fluency & Beyond!
+ - [https://phrasing.app](https://phrasing.app)
+ - date_published: 2024-01-29T16:56:42.292979+00:00
+
+ ## PhyDemo | Open-source Physics Demos & Apps
+ - [https://phydemo.app](https://phydemo.app)
+ - date_published: 2023-09-18T02:33:21+00:00
+
+ ## Pickwick | Find your next favorite series
+ - [https://pickwick.app](https://pickwick.app)
+ - date_published: 2024-04-30T02:48:03.200792+00:00
+
+ ## Careers
+ - [https://jobs.picnic.app](https://jobs.picnic.app)
+ - date_published: 2024-07-02T23:34:26.758088+00:00
+
+ ## Picnic | Supermarkt op wielen | Online boodschappen bestellen | Gratis bezorgd
+ - [https://picnic.app](https://picnic.app)
+ - date_published: 2024-04-05T00:00:00+00:00
+
  ## Pieces for JetBrains Plugin: Enhance Your Development Workflow
  - [https://beta.docs.pieces.app](https://beta.docs.pieces.app)
  - date_published: 2024-11-26T06:31:46.598883+00:00
@@ -261,6 +315,10 @@
  ## JupyterHub
  - [https://pretzelai.app](https://pretzelai.app)
  - date_published: 2024-07-02T16:11:56.764072+00:00
+
+ ## Automated link previews for your site — PreviewLinks
+ - [https://previewify.app](https://previewify.app)
+ - date_published: 2024-12-22T17:58:37.011196+00:00
 
  ## Principle
  - [https://principle.app](https://principle.app)
@@ -746,6 +804,10 @@
  ## PostHog
  - [https://magicproxy-dnfo3dcduq-ew.a.run.app](https://magicproxy-dnfo3dcduq-ew.a.run.app)
  - date_published: 2023-07-07T00:00:00+00:00
+
+ ## FoolControl: Phear the penguin
+ - [https://wp-cloud-run-4xx42k3twa-ez.a.run.app](https://wp-cloud-run-4xx42k3twa-ez.a.run.app)
+ - date_published: 2024-12-22T03:23:43.576372+00:00
 
  ## The rundown tool for show planning
  - [https://rundownstudio.app](https://rundownstudio.app)
@@ -3267,6 +3329,10 @@
  - [https://mapframe.vercel.app](https://mapframe.vercel.app)
  - date_published: 2024-06-20T15:37:48.502063+00:00
 
+ ## Marcin Parda
+ - [https://marcinparda.vercel.app](https://marcinparda.vercel.app)
+ - date_published: 2024-12-22T19:54:00+00:00
+
  ## Show HN: I made a tool to clean and convert any webpage to Markdown
  - [https://markdowndown.vercel.app](https://markdowndown.vercel.app)
  - date_published: 2024-04-14T19:03:58+00:00
@@ -3423,6 +3489,10 @@
  ## Next Beats | Your Ultimate Music Experience
  - [https://nextbeats.vercel.app](https://nextbeats.vercel.app)
  - date_published: 2024-12-09T19:10:25.173018+00:00
+
+ ## ka2 | Next.js Sample Website
+ - [https://nextjs-blog-gray.vercel.app](https://nextjs-blog-gray.vercel.app)
+ - date_published: 2024-12-22T19:52:40.123709+00:00
 
  ## Devansh Bajaj
  - [https://nextjs-devanshblog.vercel.app](https://nextjs-devanshblog.vercel.app)
@@ -3954,72 +4024,4 @@
  ## Welcome to Smart Layer Network
  - [https://sln-doc.vercel.app](https://sln-doc.vercel.app)
  - date_published: 2024-09-21T23:52:52.177494+00:00
-
- ## Developmental Interpretability
- - [https://slt-summit.vercel.app](https://slt-summit.vercel.app)
- - date_published: 2024-07-07T07:16:39.482772+00:00
-
- ## Smart Layer
- - [https://smart-layer-2b4ezg7hb-smart-token-labs.vercel.app](https://smart-layer-2b4ezg7hb-smart-token-labs.vercel.app)
- - date_published: 2024-09-21T23:52:50.967978+00:00
-
- ## QuestLog
- - [https://smart-listapp.vercel.app](https://smart-listapp.vercel.app)
- - date_published: 2024-12-01T22:56:34+00:00
-
- ## SolidStart - Firebase
- - [https://solid-start-firebase.vercel.app](https://solid-start-firebase.vercel.app)
- - date_published: 2024-07-08T15:49:58.641754+00:00
-
- ## SOUNDRAW API Inquiry
- - [https://soundraw-api-inquiry.vercel.app](https://soundraw-api-inquiry.vercel.app)
- - date_published: 2024-06-22T16:56:05.103124+00:00
-
- ## Maps that show time instead of space
- - [https://spacetime-maps.vercel.app](https://spacetime-maps.vercel.app)
- - date_published: 2024-03-24T16:32:33+00:00
-
- ## Spencer Pope
- - [https://spenpo-next-r8gd3fyhp-spope851.vercel.app](https://spenpo-next-r8gd3fyhp-spope851.vercel.app)
- - date_published: 2024-05-12T05:24:54.899651+00:00
-
- ## Spirals
- - [https://spirals.vercel.app](https://spirals.vercel.app)
- - date_published: 2023-10-25T11:50:52.349082+00:00
-
- ## spots/explorer
- - [https://spots-blond.vercel.app](https://spots-blond.vercel.app)
- - date_published: 2024-12-12T04:31:43.444967+00:00
-
- ## Spydea Astro
- - [https://spydea-astro.vercel.app](https://spydea-astro.vercel.app)
- - date_published: 2024-06-21T23:48:58.745344+00:00
-
- ## Spydea | Sass Theme
- - [https://spydea-nextjs.vercel.app](https://spydea-nextjs.vercel.app)
- - date_published: 2024-06-21T23:48:40.221775+00:00
-
- ## SoNiC's Portfolio
- - [https://ss-portfolio.vercel.app](https://ss-portfolio.vercel.app)
- - date_published: 2024-07-14T03:21:33.326901+00:00
-
- ## Your Mindful Browser | Stack
- - [https://stackbrowser.vercel.app](https://stackbrowser.vercel.app)
- - date_published: 2024-09-30T12:40:16.500353+00:00
-
- ## Star Trek | Official Site
- - [https://star-trek-dot-com.vercel.app](https://star-trek-dot-com.vercel.app)
- - date_published: 2024-08-06T19:53:24.451045+00:00
-
- ## Introduction – react-tweet
- - [https://static-tweet.vercel.app](https://static-tweet.vercel.app)
- - date_published: 2024-05-06T13:41:30.247552+00:00
-
- ## Show HN: A football/soccer pass visualizer made with Three.js
- - [https://statsbomb-3d-viz.vercel.app](https://statsbomb-3d-viz.vercel.app)
- - date_published: 2024-07-28T20:45:17+00:00
-
- ## Zoo Store
- - [https://store-md18wp3n6-kittycad.vercel.app](https://store-md18wp3n6-kittycad.vercel.app)
- - date_published: 2024-07-22T10:35:06.863734+00:00
 

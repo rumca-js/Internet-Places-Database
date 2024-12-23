@@ -391,6 +391,10 @@
  - [https://thesign.academy](https://thesign.academy)
  - date_published: 2024-06-29T04:21:49+00:00
 
+ ## Translunar Academy
+ - [https://translunar.academy](https://translunar.academy)
+ - date_published: 2024-12-22T08:50:08.524946+00:00
+
  ## WebGL Academy
  - [http://webgl.academy](http://webgl.academy)
  - date_published: 2022-05-20T21:30:41+00:00
@@ -919,6 +923,10 @@
  ## Home - JYK
  - [https://jyk.ae](https://jyk.ae)
  - date_published: 2024-10-23T06:18:06.691927+00:00
+
+ ## Search Flights, Hotels & Car Hire | KAYAK
+ - [https://www.kayak.ae](https://www.kayak.ae)
+ - date_published: 2024-12-22T15:19:48.310334+00:00
 
  ## Konecranes
  - [https://www.konecranes.ae](https://www.konecranes.ae)
@@ -1821,6 +1829,10 @@
  ## Welcome to CellAgri
  - [https://www.cell.ag](https://www.cell.ag)
  - date_published: 2024-05-08T00:00:00+00:00
+
+ ## 'Blog - Chirag Mehta : chir.ag
+ - [https://chir.ag](https://chir.ag)
+ - date_published: 2024-12-23T00:37:01.987725+00:00
 
  ## Datenschutz - Mit Praxisnähe, Professionalität und Leidenschaft › DATATREE
  - [https://cdn.datatree.ag](https://cdn.datatree.ag)
@@ -4006,16 +4018,4 @@
  ## C10N Labs
  - [https://www.c10n.ai](https://www.c10n.ai)
  - date_published: 2024-06-16T04:51:55.693195+00:00
-
- ## C3 AI - Enterprise AI
- - [https://c3.ai](https://c3.ai)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## C3.ai Developer Portal | C3.ai Developer Portal
- - [https://developer.c3.ai](https://developer.c3.ai)
- - date_published: 2024-07-12T08:17:18.848522+00:00
-
- ## Investor Relations | C3.ai, Inc.
- - [https://ir.c3.ai](https://ir.c3.ai)
- - date_published: 2024-07-12T07:53:53+00:00
 

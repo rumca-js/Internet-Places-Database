@@ -1,3 +1,23 @@
+ ## Player Two
+ - [https://app.playertwo.ai](https://app.playertwo.ai)
+ - date_published: 2024-06-14T04:25:15+00:00
+
+ ## PlayFi Era Block Explorer
+ - [https://albireo-explorer.playfi.ai](https://albireo-explorer.playfi.ai)
+ - date_published: 2024-05-27T15:38:05+00:00
+
+ ## PlayFi Bridge | Transfer funds between zkSync and Ethereum
+ - [https://portal.playfi.ai](https://portal.playfi.ai)
+ - date_published: 2024-08-07T14:06:18+00:00
+
+ ## PlayFi - Build on the world's most popular games
+ - [https://www.playfi.ai](https://www.playfi.ai)
+ - date_published: 2024-09-20T00:00:00+00:00
+
+ ## Playlist Genius AI
+ - [https://www.playlistgenius.ai](https://www.playlistgenius.ai)
+ - date_published: 2024-10-30T12:21:56.243336+00:00
+
  ## Pleasures.ai | Realistic NSFW AI Image Generator
  - [https://www.pleasures.ai](https://www.pleasures.ai)
  - date_published: 2024-09-14T08:00:02.286043+00:00
@@ -2821,6 +2841,10 @@
  - [https://surveyswan.ai](https://surveyswan.ai)
  - date_published: 2024-06-14T09:26:53.022872+00:00
 
+ ## SUSI.AI Chat Terminal
+ - [https://susi.ai](https://susi.ai)
+ - date_published: 2024-03-13T13:49:15+00:00
+
  ## SVAI
  - [https://sv.ai](https://sv.ai)
  - date_published: 2024-06-30T09:42:03.729543+00:00
@@ -3942,6 +3966,10 @@
  - [https://filmforge.uwu.ai](https://filmforge.uwu.ai)
  - date_published: 2023-01-16T22:41:39+00:00
 
+ ## moved!
+ - [https://floras.uwu.ai](https://floras.uwu.ai)
+ - date_published: 2024-07-15T11:23:23+00:00
+
  ## Vairflow AI |  Search engine for your workspace.
  - [https://www.vairflow.ai](https://www.vairflow.ai)
  - date_published: 2024-08-18T16:04:02.136856+00:00
@@ -3995,32 +4023,4 @@
  ## Cierpliwości...
  - [https://talenthub.vectorinstitute.ai](https://talenthub.vectorinstitute.ai)
  - date_published: 2024-07-04T10:25:38.816064+00:00
-
- ## Home - Vector Institute for Artificial Intelligence
- - [https://vectorinstitute.ai](https://vectorinstitute.ai)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Konvertieren Sie PNG- und JPG-Dateien in SVG-Vektoren online - Vectorizer.AI
- - [https://de.vectorizer.ai](https://de.vectorizer.ai)
- - date_published: 2024-10-30T21:37:02.654451+00:00
-
- ## Convierta archivos PNG, JP a vectores SVG en línea - Vectorizer.AI
- - [https://es.vectorizer.ai](https://es.vectorizer.ai)
- - date_published: 2024-10-30T21:37:00.711118+00:00
-
- ## Convertissez vos fichiers PNG et JPG en vecteurs SVG en ligne - Vectorizer.AI
- - [https://fr.vectorizer.ai](https://fr.vectorizer.ai)
- - date_published: 2024-10-30T21:37:04.859299+00:00
-
- ## PNG, JPG फ़ाइल्स को ऑनलाइन SVG वैक्टर्स में बदलें - Vectorizer.AI
- - [https://hi.vectorizer.ai](https://hi.vectorizer.ai)
- - date_published: 2024-10-30T21:36:53.799689+00:00
-
- ## Konversikan file PNG, JPG ke vektor SVG secara online - Vectorizer.AI
- - [https://id.vectorizer.ai](https://id.vectorizer.ai)
- - date_published: 2024-10-30T21:37:13.954257+00:00
-
- ## Converti file PNG, JPG in vettori SVG online - Vectorizer.AI
- - [https://it.vectorizer.ai](https://it.vectorizer.ai)
- - date_published: 2024-10-30T21:36:56.092306+00:00
 
