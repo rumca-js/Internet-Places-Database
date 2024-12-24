@@ -1,3 +1,329 @@
+ ## Callysto – Building Tomorrows Digital Leaders
+ - [https://callysto.ca](https://callysto.ca)
+ - date_published: 2024-06-30T08:29:52.284676+00:00
+
+ ## Calotte
+ - [https://calotte.ca](https://calotte.ca)
+ - date_published: 2024-08-07T20:02:28+00:00
+
+ ## Cambridge Ontario Hotel | Hotels in Cambridge Ontario | Cambridge Hotel and Conference Centre
+ - [https://www.cambridgehotel.ca](https://www.cambridgehotel.ca)
+ - date_published: 2024-12-16T12:59:02.433917+00:00
+
+ ## Cam Champ
+ - [https://camchamp.ca](https://camchamp.ca)
+ - date_published: 2023-03-16T00:00:00+00:00
+
+ ## The Centre for Addiction and Mental Health
+ - [https://camh.ca](https://camh.ca)
+ - date_published: 2023-12-11T10:52:06.321718+00:00
+
+ ## Support CAMH
+ - [https://give.camh.ca](https://give.camh.ca)
+ - date_published: 2024-05-10T04:57:08.647789+00:00
+
+ ## CAMH: Centre for Addiction & Mental Health--
+ - [https://www.camhx.ca](https://www.camhx.ca)
+ - date_published: 2012-05-17T00:00:00+00:00
+
+ ## Home
+ - [https://www.campaigncanada.ca](https://www.campaigncanada.ca)
+ - date_published: 2023-11-16T00:00:00+00:00
+
+ ## University of Alberta Single Sign On
+ - [https://alberta.campuslabs.ca](https://alberta.campuslabs.ca)
+ - date_published: 2024-08-06T17:19:02.779519+00:00
+
+ ## York University - Shibboleth - Loading Session Information
+ - [https://yorku.campuslabs.ca](https://yorku.campuslabs.ca)
+ - date_published: 2024-05-09T06:47:33.598625+00:00
+
+ ## Language selection - Agriculture and Agri-Food Canada / Sélection de la langue - Agriculture et Agroalimentaire Canada
+ - [https://agriculture.canada.ca](https://agriculture.canada.ca)
+ - date_published: 2024-10-15T06:45:25.230518+00:00
+
+ ## GC Articles
+ - [https://articles.alpha.canada.ca](https://articles.alpha.canada.ca)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Canada.ca
+ - [https://canada.ca](https://canada.ca)
+ - date_published: 2024-07-13T12:53:54+00:00
+ - tags: ['government', 'canada']
+
+ ## Home - GC Design System
+ - [https://design-system.alpha.canada.ca](https://design-system.alpha.canada.ca)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Products - Canadian Digital Service
+ - [https://digital.canada.ca](https://digital.canada.ca)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Language selection - Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) / Sélection de la langue - Centre d'analyse des opérations et déclarations financières du Canada (CANAFE)
+ - [https://fintrac-canafe.canada.ca](https://fintrac-canafe.canada.ca)
+ - date_published: 2022-02-05T00:00:00+00:00
+
+ ## Health Infobase - Health data in Canada - Canada.ca
+ - [https://health-infobase.canada.ca](https://health-infobase.canada.ca)
+ - date_published: 2024-05-11T08:23:31.778833+00:00
+
+ ## Homepage | Impact Canada
+ - [https://impact.canada.ca](https://impact.canada.ca)
+ - date_published: 2024-07-15T07:31:46.816442+00:00
+
+ ## Language selection - Innovation, Science and Economic Development Canada Main Site / Sélection de la langue - Site principal d'Innovation, Sciences et Développement économique Canada
+ - [https://ised-isde.canada.ca](https://ised-isde.canada.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## GC Notify | Notification GC
+ - [https://notification.canada.ca](https://notification.canada.ca)
+ - date_published: 2024-07-10T05:34:00.372106+00:00
+
+ ## Home - National Research Council Canada
+ - [https://nrc.canada.ca](https://nrc.canada.ca)
+ - date_published: 2024-07-01T16:00:37+00:00
+
+ ## Produits - Service numérique canadien
+ - [https://numerique.canada.ca](https://numerique.canada.ca)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Open Government​ | Open Government - Government of Canada
+ - [http://open.canada.ca](http://open.canada.ca)
+ - date_published: 2024-10-25T12:38:09+00:00
+
+ ## Parcs Canada
+ - [https://parcs.canada.ca](https://parcs.canada.ca)
+ - date_published: 2024-10-27T23:48:03.334666+00:00
+
+ ## Parks Canada
+ - [https://parks.canada.ca](https://parks.canada.ca)
+ - date_published: 2024-06-21T09:43:27.846233+00:00
+
+ ## Recalls and Safety Alerts / Rappels et avis de securité
+ - [https://recalls-rappels.canada.ca](https://recalls-rappels.canada.ca)
+ - date_published: 2024-07-07T09:45:52.121727+00:00
+
+ ## Infobase Santé - Données sur la santé au Canada - Canada.ca
+ - [https://sante-infobase.canada.ca](https://sante-infobase.canada.ca)
+ - date_published: 2024-01-22T12:12:25+00:00
+
+ ## Accueil - Système de design GC
+ - [https://systeme-design.alpha.canada.ca](https://systeme-design.alpha.canada.ca)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Transport Canada / Transports Canada
+ - [https://tc.canada.ca](https://tc.canada.ca)
+ - date_published: 2024-01-31T13:48:29+00:00
+
+ ## Canada.ca
+ - [https://www1.canada.ca](https://www1.canada.ca)
+ - date_published: 2024-10-27T21:06:57+00:00
+
+ ## Canada Blockchain Consortium
+ - [https://www.canadablockchain.ca](https://www.canadablockchain.ca)
+ - date_published: 2024-06-16T02:52:13+00:00
+
+ ## Canada Council for the Arts
+ - [https://canadacouncil.ca](https://canadacouncil.ca)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Mailing and shipping for Personal and Business
+ - [https://www.canadapost.ca](https://www.canadapost.ca)
+ - date_published: 2024-07-21T09:56:51.630913+00:00
+
+ ## Mailing and shipping for Personal and Business
+ - [https://www.canadapost-postescanada.ca](https://www.canadapost-postescanada.ca)
+ - date_published: 2024-10-23T04:47:08.708351+00:00
+
+ ## Canadian Parliamentary Historical Resources
+ - [http://parl.canadiana.ca](http://parl.canadiana.ca)
+ - date_published: 2024-07-10T05:30:25.698289+00:00
+
+ ## 🥇Best Casinos in Canada - Top Rated Casinos in [year] 🥇
+ - [https://www.canadiancasinos.ca](https://www.canadiancasinos.ca)
+ - date_published: 2024-07-17T04:34:35.227255+00:00
+
+ ## Canadian Geographic Magazine
+ - [https://canadiangeographic.ca](https://canadiangeographic.ca)
+ - date_published: 2024-07-21T08:13:24+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://corp.canadiantire.ca](https://corp.canadiantire.ca)
+ - date_published: 2024-06-19T09:55:41.264802+00:00
+
+ ## Shop Canada’s Top Department Store Online & at 500+ Locations
+ - [https://www.canadiantire.ca](https://www.canadiantire.ca)
+ - date_published: 2024-06-23T04:07:29+00:00
+
+ ## The Canadian Toy Association
+ - [https://canadiantoyassociation.ca](https://canadiantoyassociation.ca)
+ - date_published: 2024-12-12T09:27:14.047672+00:00
+
+ ## Canadian Typography Archives
+ - [https://www.canadiantypography.ca](https://www.canadiantypography.ca)
+ - date_published: 2024-09-05T11:28:25.852197+00:00
+
+ ## Canadian Youth STEM Conference
+ - [https://www.canadianyouthstem.ca](https://www.canadianyouthstem.ca)
+ - date_published: 2024-08-09T03:53:58.821324+00:00
+
+ ## CanCred Factory
+ - [https://factory.cancred.ca](https://factory.cancred.ca)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## National Canadian Film Day
+ - [https://canfilmday.ca](https://canfilmday.ca)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## CanGames – Friendly Mayhem Since 1977
+ - [http://www.cangames.ca](http://www.cangames.ca)
+ - date_published: 2024-12-13T03:16:24.500483+00:00
+
+ ## Canadian Legal Information Institute | CanLII
+ - [https://canlii.ca](https://canlii.ca)
+ - date_published: 2024-10-22T21:50:36.074935+00:00
+
+ ## #1 Online Casino Guide in Canada - Best Gaming Experience!
+ - [http://jam.canoe.ca](http://jam.canoe.ca)
+ - date_published: 2024-10-31T23:04:24.202858+00:00
+
+ ## #1 Online Casino Guide in Canada - Best Gaming Experience!
+ - [http://www.canoe.ca](http://www.canoe.ca)
+ - date_published: 2024-12-15T20:36:51.765601+00:00
+
+ ## CanSpace - Canada's Best Web Hosting and Domain Name Provider
+ - [https://www.canspace.ca](https://www.canspace.ca)
+ - date_published: 2024-07-14T08:03:00.352877+00:00
+
+ ## CAPIC - ACCPI
+ - [https://www.capic.ca](https://www.capic.ca)
+ - date_published: 2024-09-28T21:36:37.703238+00:00
+
+ ## London Ontario Web Design & Web Hosting - Capitol Technologies
+ - [http://captech.ca](http://captech.ca)
+ - date_published: 2017-04-11T21:14:10+00:00
+
+ ## Find Software
+ - [https://capterra.ca](https://capterra.ca)
+ - date_published: 2024-06-13T06:42:11.073248+00:00
+
+ ## Capterra Canada vous aide à trouver le bon logiciel pour votre entreprise
+ - [https://fr.capterra.ca](https://fr.capterra.ca)
+ - date_published: 2024-07-20T19:26:39.650905+00:00
+
+ ## Billetterie - Football 2024 - Carabins
+ - [http://carabinsfootball.ca](http://carabinsfootball.ca)
+ - date_published: 2024-08-06T17:05:13+00:00
+
+ ## Imagination Toward a Thriving Society | Cardus
+ - [https://www.cardus.ca](https://www.cardus.ca)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Dr. Carin Bondar - Biologist with a Twist
+ - [https://carinbondar.ca](https://carinbondar.ca)
+ - date_published: 2024-10-19T06:26:22.302932+00:00
+
+ ## Home - Canadian Association of Research Libraries
+ - [https://www.carl-abrc.ca](https://www.carl-abrc.ca)
+ - date_published: 2024-10-22T21:49:47.733594+00:00
+
+ ## Carleton 360
+ - [https://360.carleton.ca](https://360.carleton.ca)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Undergraduate Admissions - Carleton University
+ - [https://admissions.carleton.ca](https://admissions.carleton.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Carleton Alumni | Carleton University
+ - [https://alumni.carleton.ca](https://alumni.carleton.ca)
+ - date_published: 2024-07-08T16:37:07.342967+00:00
+
+ ## Carleton Athletics | Carleton University
+ - [https://athletics.carleton.ca](https://athletics.carleton.ca)
+ - date_published: 2024-07-08T16:36:58.908517+00:00
+
+ ## Sign In
+ - [https://brightspace.carleton.ca](https://brightspace.carleton.ca)
+ - date_published: 2024-07-08T16:37:14.924044+00:00
+
+ ## Calendars < Carleton University
+ - [https://calendar.carleton.ca](https://calendar.carleton.ca)
+ - date_published: 2024-06-07T20:10:37+00:00
+
+ ## Carleton University
+ - [https://carleton.ca](https://carleton.ca)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Dining Services | Carleton University
+ - [https://dining.carleton.ca](https://dining.carleton.ca)
+ - date_published: 2024-07-08T16:37:03.593692+00:00
+
+ ## Events Calendar - Carleton University
+ - [https://events.carleton.ca](https://events.carleton.ca)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Carleton FutureFunder
+ - [https://futurefunder.carleton.ca](https://futurefunder.carleton.ca)
+ - date_published: 2024-07-08T16:37:19.054705+00:00
+
+ ## Current Grad Students | Carleton University
+ - [https://gradstudents.carleton.ca](https://gradstudents.carleton.ca)
+ - date_published: 2024-07-08T16:37:23.287082+00:00
+
+ ## Graduate Admissions | Carleton University
+ - [https://graduate.carleton.ca](https://graduate.carleton.ca)
+ - date_published: 2024-07-08T16:37:26.661515+00:00
+
+ ## HotSoft: Software as Interactive Media at Carleton University
+ - [http://hotsoft.carleton.ca](http://hotsoft.carleton.ca)
+ - date_published: 2024-06-23T20:38:14.826096+00:00
+
+ ## Housing and Residence Life Services - Carleton University
+ - [https://housing.carleton.ca](https://housing.carleton.ca)
+ - date_published: 2024-07-08T16:36:55.808723+00:00
+
+ ## Hub for Good - Carleton University
+ - [https://hubforgood.carleton.ca](https://hubforgood.carleton.ca)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Sign In
+ - [https://i.carleton.ca](https://i.carleton.ca)
+ - date_published: 2024-07-08T16:37:12.748153+00:00
+
+ ## MacOdrum Library | Carleton University
+ - [https://library.carleton.ca](https://library.carleton.ca)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Carleton Newsroom | Carleton University
+ - [https://newsroom.carleton.ca](https://newsroom.carleton.ca)
+ - date_published: 2024-07-08T16:37:01.121040+00:00
+
+ ## Research – Carleton University
+ - [https://research.carleton.ca](https://research.carleton.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Current Students - Carleton University : Current Students
+ - [https://students.carleton.ca](https://students.carleton.ca)
+ - date_published: 2024-07-08T16:36:53.357835+00:00
+
+ ## Carleton Computer Security Lab (CCSL)
+ - [https://www.ccsl.carleton.ca](https://www.ccsl.carleton.ca)
+ - date_published: 2023-05-31T02:29:08+00:00
+
+ ## Chris Carlier
+ - [https://carlier.ca](https://carlier.ca)
+ - date_published: 2023-12-28T18:49:41.221395+00:00
+ - tags: ['personal']
+
+ ## Carlo Franco
+ - [http://www.carlofranco.ca](http://www.carlofranco.ca)
+ - date_published: 2014-03-26T00:00:00+00:00
+
+ ## Carson Brown
+ - [https://carsonbrown.ca](https://carsonbrown.ca)
+ - date_published: 2024-08-07T20:03:44.004535+00:00
+
  ## Home | Cartoon Network
  - [http://www.cartoonnetwork.ca](http://www.cartoonnetwork.ca)
  - date_published: 2024-10-23T10:20:09.435032+00:00
@@ -45,6 +371,10 @@
  ## Home - Canadian Business Aviation Association
  - [https://www.cbaa-acaa.ca](https://www.cbaa-acaa.ca)
  - date_published: 2024-10-11T22:51:44.836302+00:00
+
+ ## CBC Archives
+ - [http://archives.cbc.ca](http://archives.cbc.ca)
+ - date_published: 2024-12-23T21:32:51.547013+00:00
 
  ## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
  - [https://cbc.ca](https://cbc.ca)
@@ -2523,6 +2853,10 @@
  - [https://www.grantthornton.ca](https://www.grantthornton.ca)
  - date_published: 2024-06-16T09:49:46.621345+00:00
 
+ ## Home - Granville Island 2040
+ - [https://granvilleisland2040.ca](https://granvilleisland2040.ca)
+ - date_published: 2024-12-23T08:37:20.623371+00:00
+
  ## Home | Granville Island Brewing
  - [https://www.granvilleislandbrewing.ca](https://www.granvilleislandbrewing.ca)
  - date_published: 2024-06-27T13:06:59.696565+00:00
@@ -2550,6 +2884,10 @@
  ## GreenGeeks: Web Hosting Canada - Fast, Scalable & Eco-friendly
  - [https://www.greengeeks.ca](https://www.greengeeks.ca)
  - date_published: 2024-06-27T14:25:29.576937+00:00
+
+ ## GreenShift is under construction
+ - [http://greenshift.ca](http://greenshift.ca)
+ - date_published: 2024-12-23T11:54:32.692151+00:00
 
  ## Greg Chetcuti
  - [https://greg.ca](https://greg.ca)
@@ -3043,6 +3381,10 @@
  ## Impact Ethics
  - [https://impactethics.ca](https://impactethics.ca)
  - date_published: 2024-04-28T01:54:30.594688+00:00
+
+ ## ACCUEIL - Imperméabilisation, réparation, entretien de fondation au Québec
+ - [https://impermeabilisationfondation.ca](https://impermeabilisationfondation.ca)
+ - date_published: 2024-12-23T12:06:55+00:00
 
  ## Improv College: Your online improv school!
  - [https://improvcollege.ca](https://improvcollege.ca)
@@ -3610,6 +3952,10 @@
  - [http://www.kia.ca](http://www.kia.ca)
  - date_published: 2024-09-09T21:40:08.201041+00:00
 
+ ## KIDS MARKET on Granville Island Vancouver
+ - [https://kidsmarket.ca](https://kidsmarket.ca)
+ - date_published: 2024-11-30T00:26:13+00:00
+
  ## Caring for Kids New to Canada - Home
  - [https://kidsnewtocanada.ca](https://kidsnewtocanada.ca)
  - date_published: 2024-08-17T23:02:37+00:00
@@ -3690,348 +4036,4 @@
  ## Ksubi | Shop The Latest Collection Online
  - [https://ksubistore.ca](https://ksubistore.ca)
  - date_published: 2024-12-20T16:17:53.337179+00:00
-
- ## egg.l5.ca
- - [https://egg.l5.ca](https://egg.l5.ca)
- - date_published: 2024-05-08T10:44:14.873597+00:00
-
- ## Météo Canada : La meilleure info météo GRATUITE à 15 jours - La Chaîne Météo
- - [https://www.lachainemeteo.ca](https://www.lachainemeteo.ca)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Home - Lactalis Canada
- - [https://www.lactalis.ca](https://www.lactalis.ca)
- - date_published: 2024-06-16T21:25:23.165771+00:00
-
- ## La Grange | Homepage
- - [https://www.la-grange.ca](https://www.la-grange.ca)
- - date_published: 2024-07-17T14:57:54.348349+00:00
-
- ## Bonnyville, Elk Point, Lac La Biche, St. Paul Local News
- - [https://lakelandtoday.ca](https://lakelandtoday.ca)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Ford Performance Centre | Professional & Recreational Hockey Facility
- - [https://www.lakeshorearena.ca](https://www.lakeshorearena.ca)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Home - The Lakes Golf Club & Resort Play & Stay
- - [https://www.lakesresort.ca](https://www.lakesresort.ca)
- - date_published: 2024-07-10T09:49:09+00:00
-
- ## About Me - Dustin.Lammiman
- - [https://dustin.lammiman.ca](https://dustin.lammiman.ca)
- - date_published: 2023-01-16T20:55:21+00:00
-
- ## Land Rover. 4x4 Vehicles and Luxury SUV
- - [https://www.landrover.ca](https://www.landrover.ca)
- - date_published: 2024-07-09T17:15:26.204848+00:00
-
- ## Top 5 Top 5 Toronto Landscaping 2020 | Landscaping.ca Plumbers and Plumbing Contractors for 2020 | Landscaping.ca
- - [http://www.landscaping.ca](http://www.landscaping.ca)
- - date_published: 2024-06-29T17:35:29.618924+00:00
-
- ## Language Training Programs for Businesses - Language Advantage
- - [https://languageadvantage.ca](https://languageadvantage.ca)
- - date_published: 2024-10-30T23:11:34.238130+00:00
-
- ## Custom-Made Language Classes | Language Trainers Canada
- - [https://www.languagetrainers.ca](https://www.languagetrainers.ca)
- - date_published: 2024-07-02T09:21:15.942561+00:00
-
- ## LaPresse.ca | Actualités et Infos au Québec et dans le monde
- - [http://plus.lapresse.ca](http://plus.lapresse.ca)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## LaPresse.ca | Actualités et Infos au Québec et dans le monde
- - [https://www.lapresse.ca](https://www.lapresse.ca)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Loading...
- - [http://larama.ca](http://larama.ca)
- - date_published: 2024-07-13T15:49:54.885389+00:00
-
- ## Laura Brown.ca
- - [https://laurabrown.ca](https://laurabrown.ca)
- - date_published: 2024-04-17T09:10:19+00:00
-
- ## laurentian.ca
- - [https://laurentian.ca](https://laurentian.ca)
- - date_published: 2024-07-06T23:31:29.580351+00:00
-
- ## Law Society of PEI - Prince Edward Island Law Society - Canada
- - [http://lawsocietypei.ca](http://lawsocietypei.ca)
- - date_published: 2024-09-02T13:02:26.302364+00:00
-
- ## Home
- - [https://lawsonresearch.ca](https://lawsonresearch.ca)
- - date_published: 2023-12-30T11:43:21.258451+00:00
-
- ## Lawyers in Canada, Canada
- - [http://www.lawyer-canada.ca](http://www.lawyer-canada.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## LazyHacks
- - [https://www.lazyhacks.ca](https://www.lazyhacks.ca)
- - date_published: 2024-10-25T17:51:51+00:00
-
- ## Application development, games, websites | Leadhouse Innovation
- - [https://leadhouse.ca](https://leadhouse.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Company | Leatt® | Protective Neck Braces, Body Armour & Sports Gear |
- - [https://leatt-canada.ca](https://leatt-canada.ca)
- - date_published: 2024-06-15T12:00:22.254440+00:00
-
- ## Le Canal Auditif: le blogue québécois des musiques indépendantes
- - [https://lecanalauditif.ca](https://lecanalauditif.ca)
- - date_published: 2024-12-03T20:11:18.984886+00:00
-
- ## LEEROY Agence Créative à Montréal - Web & Marketing
- - [https://leeroy.ca](https://leeroy.ca)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## A Better Place to Sleep. Try risk-free for 100 nights | Leesa
- - [https://www.leesa.ca](https://www.leesa.ca)
- - date_published: 2024-07-19T19:39:05.859513+00:00
-
- ## Home | Student Caucus
- - [http://studentcaucus.legalandlit.ca](http://studentcaucus.legalandlit.ca)
- - date_published: 2024-10-18T22:17:51.720425+00:00
-
- ## Home | Legal & Literary Society
- - [http://www.legalandlit.ca](http://www.legalandlit.ca)
- - date_published: 2024-10-18T22:17:59.467307+00:00
-
- ## Top Kids Attraction | LEGOLAND Discovery Centre Toronto
- - [https://toronto.legolanddiscoverycentre.ca](https://toronto.legolanddiscoverycentre.ca)
- - date_published: 2024-07-03T09:45:39.991622+00:00
-
- ## LEGOLAND Discovery Centre
- - [https://www.legolanddiscoverycentre.ca](https://www.legolanddiscoverycentre.ca)
- - date_published: 2024-12-20T16:48:54.402350+00:00
-
- ## Lemmy.ca - A canadian-run community, geared towards canadians, but all are welcome!
- - [https://lemmy.ca](https://lemmy.ca)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## lemmy.ca
- - [https://old.lemmy.ca](https://old.lemmy.ca)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Lemmy status
- - [https://status.lemmy.ca](https://status.lemmy.ca)
- - date_published: 2024-08-08T23:47:31.441890+00:00
-
- ## Voyager for Lemmy
- - [https://voyager.lemmy.ca](https://voyager.lemmy.ca)
- - date_published: 2024-03-30T21:06:50+00:00
-
- ## Lemon Productions
- - [https://www.lemonproductions.ca](https://www.lemonproductions.ca)
- - date_published: 2024-06-23T06:02:11.308234+00:00
-
- ## LensCrafters.com
- - [https://www.lenscrafters.ca](https://www.lenscrafters.ca)
- - date_published: 2024-07-09T10:16:29.675334+00:00
-
- ## Leonardo Canada Electronics  | Leading Electronic Defense Solutions in Canada
- - [https://leonardocompany.ca](https://leonardocompany.ca)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Les Meilleurs Bars à Montréal - L'Excellence Nocturne
- - [http://lesaintsulpice.ca](http://lesaintsulpice.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Accueil - Les options ça compte
- - [https://www.lesoptionscacompte.ca](https://www.lesoptionscacompte.ca)
- - date_published: 2024-06-23T10:28:55.086872+00:00
-
- ## Health. Wellness. Rewards. All in one program. - Liferay
- - [https://www.letsbewell.ca](https://www.letsbewell.ca)
- - date_published: 2024-09-26T10:16:22.631844+00:00
-
- ## Let’s Talk Central Elgin
- - [https://www.letstalkcentralelgin.ca](https://www.letstalkcentralelgin.ca)
- - date_published: 2024-06-29T09:47:37.292848+00:00
-
- ## LEUCHTTURM1917 CANADA
- - [https://fr.leuchtturm1917.ca](https://fr.leuchtturm1917.ca)
- - date_published: 2024-06-21T23:24:25.508794+00:00
-
- ## LEUCHTTURM1917 CANADA
- - [https://www.leuchtturm1917.ca](https://www.leuchtturm1917.ca)
- - date_published: 2024-06-21T23:24:15.116066+00:00
-
- ## Level Up 2024
- - [https://levelupconference.ca](https://levelupconference.ca)
- - date_published: 2024-06-29T11:45:20.405312+00:00
-
- ## Canada’s Legal & Law News Source | Best Lawyer Rankings | Lexpert
- - [https://www.lexpert.ca](https://www.lexpert.ca)
- - date_published: 2024-12-22T22:56:11.627328+00:00
-
- ## Compleat Lexical Tutor
- - [http://www.lextutor.ca](http://www.lextutor.ca)
- - date_published: 2024-07-02T09:44:00.071071+00:00
-
- ## LFX ASSOCIATES
- - [https://www.lfxassociates.ca](https://www.lfxassociates.ca)
- - date_published: 2024-06-28T18:51:00.448066+00:00
-
- ## Consumer & Home Electronics from LG | LG CA
- - [https://www.lg.ca](https://www.lg.ca)
- - date_published: 2024-07-03T07:23:55.244482+00:00
-
- ## Linguistics Graduate Course Union
- - [https://lgcu.ca](https://lgcu.ca)
- - date_published: 2024-03-07T15:30:59+00:00
-
- ## Home | Liam Paull
- - [http://liampaull.ca](http://liampaull.ca)
- - date_published: 2024-05-01T20:54:40+00:00
-
- ## Liberal Party of Canada
- - [http://www.liberal.ca](http://www.liberal.ca)
- - date_published: 2024-09-12T14:07:05.958294+00:00
-
- ## Canadian Investment News | Wealth Professional
- - [http://www.lifehealthpro.ca](http://www.lifehealthpro.ca)
- - date_published: 2024-12-22T22:55:41.935841+00:00
-
- ## Canada's Leading Coding Bootcamp - Lighthouse Labs
- - [https://www.lighthouselabs.ca](https://www.lighthouselabs.ca)
- - date_published: 2024-07-14T10:22:25.887520+00:00
-
- ## Lighting in Canada, Canada
- - [http://www.lighting.ca](http://www.lighting.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Canadian Light Source
- - [https://www.lightsource.ca](https://www.lightsource.ca)
- - date_published: 2024-07-13T16:47:43.692294+00:00
-
- ## Chalet Kamanik
- - [http://lilipad.ca](http://lilipad.ca)
- - date_published: 2022-10-01T19:40:29+00:00
-
- ## Lima Charlie | Web development studio | Located in Montréal.
- - [https://limacharlie.ca](https://limacharlie.ca)
- - date_published: 2024-06-15T02:49:04.062134+00:00
-
- ## Limbic Noodle
- - [http://limbicnoodle.ca](http://limbicnoodle.ca)
- - date_published: 2024-09-02T06:01:13+00:00
-
- ## Top 5 Top 5 Toronto Limos for 2020 | Limos.ca Plumbers and Plumbing Contractors for 2020 | Limos.ca
- - [http://www.limos.ca](http://www.limos.ca)
- - date_published: 2024-06-29T17:35:25.508397+00:00
-
- ## Chocolates, Truffles, Delicious Gifts, and Recipes from Lindt Canada
- - [https://www.lindt.ca](https://www.lindt.ca)
- - date_published: 2024-12-20T16:59:18.914966+00:00
-
- ## Liquid I.V. - Fueling Life's Adventures
- - [https://www.liquid-iv.ca](https://www.liquid-iv.ca)
- - date_published: 2024-08-05T19:45:59.114223+00:00
-
- ## Private cooking classes and summer camps for kids and teens
- - [https://littlecooksclub.ca](https://littlecooksclub.ca)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Little Things Matter
- - [http://littlethingsmatter.ca](http://littlethingsmatter.ca)
- - date_published: 2024-04-16T06:08:34+00:00
-
- ## LiveCA - Canadian Online Accountant
- - [https://www.liveca.ca](https://www.liveca.ca)
- - date_published: 2024-11-21T19:08:32+00:00
-
- ## livier.ca
- - [http://www.livier.ca](http://www.livier.ca)
- - date_published: 2022-01-03T16:11:55+00:00
-
- ## Toronto Lobbyist Registry Database: lobbyist_registry
- - [https://lobbyingintoronto.ca](https://lobbyingintoronto.ca)
- - date_published: 2024-09-04T04:38:08.048079+00:00
-
- ## Loblaw Companies Ltd. | Live Life Well®
- - [https://loblaw.ca](https://loblaw.ca)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Local Green Fees- Canada's definitive green fee directory
- - [https://www.localgreenfees.ca](https://www.localgreenfees.ca)
- - date_published: 2024-07-12T17:59:30.132263+00:00
-
- ## Local Integrative Health Clinic in East Vancouver, BC
- - [https://localhealthclinic.ca](https://localhealthclinic.ca)
- - date_published: 2024-06-12T19:25:19+00:00
-
- ## LocalWork.ca | Employer Services
- - [https://employers.localwork.ca](https://employers.localwork.ca)
- - date_published: 2024-06-26T22:36:30.872374+00:00
-
- ## LocalWork.ca | jobs
- - [https://www.localwork.ca](https://www.localwork.ca)
- - date_published: 2024-05-06T20:01:58.481788+00:00
-
- ## East Vancouver Yoga Studio | Local Yoga Studio | Yoga + more
- - [https://localyogastudio.ca](https://localyogastudio.ca)
- - date_published: 2024-09-18T18:42:59+00:00
-
- ## Charcoal — Web framework and content management system
- - [https://charcoal.locomotive.ca](https://charcoal.locomotive.ca)
- - date_published: 2024-10-29T13:28:47.013333+00:00
-
- ## Explore with Locomotive
- - [https://explore.locomotive.ca](https://explore.locomotive.ca)
- - date_published: 2024-10-29T13:28:49.094871+00:00
-
- ## Locomotive | Montreal web agency
- - [https://locomotive.ca](https://locomotive.ca)
- - date_published: 2024-06-19T16:15:15.418837+00:00
-
- ## Locomotive Dynasty - 2018 to 2023
- - [https://six.locomotive.ca](https://six.locomotive.ca)
- - date_published: 2024-09-12T14:58:24+00:00
-
- ## Locomotive Store®
- - [https://store.locomotive.ca](https://store.locomotive.ca)
- - date_published: 2024-10-29T13:28:34.002408+00:00
-
- ## lolcat's git serber
- - [https://git.lolcat.ca](https://git.lolcat.ca)
- - date_published: 2024-10-20T22:39:45.354239+00:00
-
- ## lolcat's website
- - [https://lolcat.ca](https://lolcat.ca)
- - date_published: 2024-10-27T12:11:52.621388+00:00
-
- ## Commercial Real Estate for Sale & Lease in Canada | LoopNet.ca
- - [https://loopnet.ca](https://loopnet.ca)
- - date_published: 2024-05-12T07:41:00.330334+00:00
-
- ## Lorimer
- - [http://www.lorimer.ca](http://www.lorimer.ca)
- - date_published: 2024-08-17T11:36:40+00:00
-
- ## L. Ron Hubbard - Scientology & Dianetics Founder
- - [https://www.lronhubbard.ca](https://www.lronhubbard.ca)
- - date_published: 2024-06-06T19:38:31.754675+00:00
-
- ## Law Society of Ontario Home | Law Society of Ontario
- - [https://lso.ca](https://lso.ca)
- - date_published: 2024-09-02T13:02:39.708237+00:00
-
- ## @luqman
- - [https://luqman.ca](https://luqman.ca)
- - date_published: 2022-11-15T03:27:24+00:00
-
- ## Luuk van Baars - Portfolio
- - [http://luuk.ca](http://luuk.ca)
- - date_published: 2023-07-06T13:04:26+00:00
-
- ## Lost Wizard Enterprises Incorporated
- - [http://www.l-w.ca](http://www.l-w.ca)
- - date_published: 2021-11-02T18:41:36+00:00
 

@@ -1,3 +1,108 @@
+ ## Pashword - Passwords Done Right
+ - [https://pashword.app](https://pashword.app)
+ - date_published: 2023-10-25T11:48:14.672231+00:00
+
+ ## pass Culture
+ - [https://passculture.app](https://passculture.app)
+ - date_published: 2024-07-02T15:06:25+00:00
+
+ ## Passepartout
+ - [https://passepartoutvpn.app](https://passepartoutvpn.app)
+ - date_published: 2024-06-27T08:41:19+00:00
+
+ ## Pastefy
+ - [https://pastefy.app](https://pastefy.app)
+ - date_published: 2024-06-19T22:11:11.043087+00:00
+ - tags: ['pastebin', 'open source', 'self-host']
+
+ ## iPad用お絵描きアプリ「Pastela（パステラ）」
+ - [https://pastela.app](https://pastela.app)
+ - date_published: 2024-10-25T12:37:40.333593+00:00
+
+ ## Patterns Data Systems
+ - [https://patterns.app](https://patterns.app)
+ - date_published: 2023-10-25T11:48:16.898136+00:00
+
+ ## Patterns
+ - [https://studio.patterns.app](https://studio.patterns.app)
+ - date_published: 2024-08-19T11:38:44.873026+00:00
+
+ ## Pausly | Start Moving, Stay Healthy
+ - [https://pausly.app](https://pausly.app)
+ - date_published: 2023-10-25T11:48:20.993460+00:00
+
+ ## Earn effortlessly with the ultimate passive income app - Pawns
+ - [https://pawns.app](https://pawns.app)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Everything About printed Circuit Board Assembly
+ - [http://pcba.app](http://pcba.app)
+ - date_published: 2024-07-04T08:51:12.182255+00:00
+
+ ## PDF7 Online Tools | Free, Easy, and Quick Online PDF tools
+ - [https://pdf7.app](https://pdf7.app)
+ - date_published: 2024-07-16T18:01:08.544809+00:00
+
+ ## Penbook Dev Log | Substack
+ - [https://blog.penbook.app](https://blog.penbook.app)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Penpot Community
+ - [https://community.penpot.app](https://community.penpot.app)
+ - date_published: 2023-10-25T11:48:23.758030+00:00
+
+ ## Penpot | Design Freedom for Teams
+ - [https://design.penpot.app](https://design.penpot.app)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Help center
+ - [https://help.penpot.app](https://help.penpot.app)
+ - date_published: 2024-08-06T09:44:43+00:00
+
+ ## Penpot | Free Open-Source Design & Prototyping For Teams
+ - [https://penpot.app](https://penpot.app)
+ - date_published: 2023-10-25T11:48:26.974951+00:00
+
+ ## PeopleAI
+ - [https://peopleai.app](https://peopleai.app)
+ - date_published: 2024-09-07T23:49:15.815453+00:00
+
+ ## Pera Algo Wallet – Simply the best Algorand wallet.
+ - [https://perawallet.app](https://perawallet.app)
+ - date_published: 2024-10-11T22:05:23.275089+00:00
+
+ ## Home - Percorso
+ - [https://percorso.app](https://percorso.app)
+ - date_published: 2024-05-07T20:32:05.806777+00:00
+
+ ## permapages
+ - [https://permapages.app](https://permapages.app)
+ - date_published: 2024-07-23T23:57:15.762553+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app](https://00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app)
+ - date_published: 2024-05-06T22:46:44.420167+00:00
+
+ ## PersonaGen: AI User-Persona Generator
+ - [https://personagen.app](https://personagen.app)
+ - date_published: 2024-06-19T19:36:44.122256+00:00
+
+ ## Petra
+ - [https://petra.app](https://petra.app)
+ - date_published: 2024-09-25T10:29:40.624159+00:00
+
+ ## Petrichoir 🌧️
+ - [https://petrichoir.app](https://petrichoir.app)
+ - date_published: 2024-11-13T15:04:37+00:00
+
+ ## Phantom — Crypto & NFT Wallet — Solana | Ethereum | Polygon
+ - [https://phantom.app](https://phantom.app)
+ - date_published: 2024-07-24T02:33:39.189986+00:00
+
+ ## Plausible · Web analytics
+ - [https://a.photoprism.app](https://a.photoprism.app)
+ - date_published: 2024-05-12T04:58:34.205404+00:00
+
  ## PhotoPrism+: Demo
  - [https://demo.photoprism.app](https://demo.photoprism.app)
  - date_published: 2024-06-19T22:10:46.696536+00:00
@@ -577,6 +682,10 @@
  - date_published: 2023-04-12T12:59:25+00:00
  - tags: ['rss client']
 
+ ## Reetro.io
+ - [https://www.reetro.app](https://www.reetro.app)
+ - date_published: 2024-11-30T13:20:50+00:00
+
  ## Reflame
  - [https://reflame.app](https://reflame.app)
  - date_published: 2023-10-25T11:48:32.422376+00:00
@@ -1044,9 +1153,17 @@
  - [https://skintheory.app](https://skintheory.app)
  - date_published: 2023-03-05T11:03:08+00:00
 
+ ## Kanaria Skybreach
+ - [https://skybreach.app](https://skybreach.app)
+ - date_published: 2024-12-24T00:54:13.541465+00:00
+
  ## SkyFeed
  - [https://skyfeed.app](https://skyfeed.app)
  - date_published: 2024-05-02T13:43:24.763590+00:00
+
+ ## Lobste.rs/Hacker News links overlap
+ - [https://lobhn.skyshelf.app](https://lobhn.skyshelf.app)
+ - date_published: 2024-12-23T21:36:01+00:00
 
  ## Slant it - Screen recordings to catchy 3D videos in minutes
  - [https://slantit.app](https://slantit.app)
@@ -2653,6 +2770,10 @@
  - [https://copper-astro.vercel.app](https://copper-astro.vercel.app)
  - date_published: 2024-06-21T23:48:50.055455+00:00
 
+ ## jsCoq – Use Coq in Your Browser
+ - [https://coq.vercel.app](https://coq.vercel.app)
+ - date_published: 2024-11-14T20:23:48+00:00
+
  ## Cover Craft
  - [https://covercraft.vercel.app](https://covercraft.vercel.app)
  - date_published: 2024-10-30T07:11:20.224785+00:00
@@ -2760,6 +2881,10 @@
  ## Docbox
  - [https://docbox-astro.vercel.app](https://docbox-astro.vercel.app)
  - date_published: 2024-06-21T23:49:02.523206+00:00
+
+ ## Docker Compose Manager
+ - [https://docker-compose-manager.vercel.app](https://docker-compose-manager.vercel.app)
+ - date_published: 2024-12-23T18:16:49+00:00
 
  ## Important: Mainnet Upgrade | Mina Documentation
  - [https://docs2-git-major-upgrade-minadocs.vercel.app](https://docs2-git-major-upgrade-minadocs.vercel.app)
@@ -2993,6 +3118,10 @@
  ## getavatar.vercel.app: Get unified user gvatar from Twitter, GitHub, Intagram, Reddit, etc.
  - [https://getavatar.vercel.app](https://getavatar.vercel.app)
  - date_published: 2018-10-20T01:46:40+00:00
+
+ ## Create Next App
+ - [https://gh-3doors.vercel.app](https://gh-3doors.vercel.app)
+ - date_published: 2024-12-23T11:42:55.549974+00:00
 
  ## Gemini Code Editor - A Google Gemini based Code Editor
  - [https://gide.vercel.app](https://gide.vercel.app)
@@ -3376,6 +3505,10 @@
  ## MiniJS
  - [https://minijs-zeta.vercel.app](https://minijs-zeta.vercel.app)
  - date_published: 2024-07-19T22:26:14.634076+00:00
+
+ ## Mini Language Learning Crosswords
+ - [https://mini-language-learning-crossword-generator.vercel.app](https://mini-language-learning-crossword-generator.vercel.app)
+ - date_published: 2024-12-24T00:33:25.168937+00:00
 
  ## Mitul Shah
  - [https://mitul-h724a14h4-mituls-projects-b6e53694.vercel.app](https://mitul-h724a14h4-mituls-projects-b6e53694.vercel.app)
@@ -3891,137 +4024,4 @@
  ## Face Photo Restorer
  - [https://restore-photos.vercel.app](https://restore-photos.vercel.app)
  - date_published: 2024-07-06T00:43:43+00:00
-
- ## RgShows
- - [https://rgshows.vercel.app](https://rgshows.vercel.app)
- - date_published: 2024-11-12T09:36:45+00:00
-
- ## Rocky Mountain PBS | Rocky Mountain PBS
- - [https://rmpbs-stage.vercel.app](https://rmpbs-stage.vercel.app)
- - date_published: 2024-07-07T05:14:59.730155+00:00
-
- ## Row Zero - The World's Fastest Spreadsheet
- - [https://rz-web.vercel.app](https://rz-web.vercel.app)
- - date_published: 2024-05-09T07:20:33.563427+00:00
-
- ## Power Card Generator
- - [https://saas-cards.vercel.app](https://saas-cards.vercel.app)
- - date_published: 2024-11-26T05:26:18.068959+00:00
-
- ## SaasRock | The Remix SaaS Development Framework
- - [https://saasrock-com.vercel.app](https://saasrock-com.vercel.app)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## SaasRock | The One-Man SaaS Framework
- - [https://saasrock-dev-git-remixv2-alexandromtzg.vercel.app](https://saasrock-dev-git-remixv2-alexandromtzg.vercel.app)
- - date_published: 2024-07-10T11:14:47.003391+00:00
-
- ## Write a Letter to Open Source Santa
- - [https://salty-santa.vercel.app](https://salty-santa.vercel.app)
- - date_published: 2024-12-13T20:41:18.303240+00:00
-
- ## Saman Dere Font
- - [https://saman-dere-font.vercel.app](https://saman-dere-font.vercel.app)
- - date_published: 2024-07-14T09:33:33.497749+00:00
-
- ## Blog | Sam Curry
- - [https://samcurry-jm6pabd5c-sam-currys-projects.vercel.app](https://samcurry-jm6pabd5c-sam-currys-projects.vercel.app)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Sauce Labs: Cross Browser Testing, Selenium Testing & Mobile Testing
- - [https://saucelabs-prod.vercel.app](https://saucelabs-prod.vercel.app)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Scribble Diffusion
- - [https://scribble-diffusion-r2g1z7mzx-replicate.vercel.app](https://scribble-diffusion-r2g1z7mzx-replicate.vercel.app)
- - date_published: 2024-04-29T02:40:52.847849+00:00
-
- ## Scribbling Interfaces
- - [https://scribbling-interfaces.vercel.app](https://scribbling-interfaces.vercel.app)
- - date_published: 2024-07-09T19:17:27.309456+00:00
-
- ## Script Kit: Shortcut to Everything
- - [https://scriptkit-b5i94ohyy-skillrecordings.vercel.app](https://scriptkit-b5i94ohyy-skillrecordings.vercel.app)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## Forget about storyboards
- - [https://scripty.vercel.app](https://scripty.vercel.app)
- - date_published: 2024-08-17T22:18:52.450364+00:00
-
- ## Senja Mariposa
- - [https://senja-caldera.vercel.app](https://senja-caldera.vercel.app)
- - date_published: 2024-10-15T18:40:44.805820+00:00
-
- ## Vercel Markup
- - [https://service-markup.vercel.app](https://service-markup.vercel.app)
- - date_published: 2024-07-14T08:50:47.461989+00:00
-
- ## Session-key Aspect
- - [https://session-key-aspect-1bpx.vercel.app](https://session-key-aspect-1bpx.vercel.app)
- - date_published: 2024-09-25T12:18:37.504617+00:00
-
- ## Settlers' Dice
- - [https://settler-support.vercel.app](https://settler-support.vercel.app)
- - date_published: 2024-06-27T15:11:14.526874+00:00
-
- ## Hospitality & Restaurant Marketing & Operations Software | SevenRooms
- - [https://sevenrooms-marketing-site.vercel.app](https://sevenrooms-marketing-site.vercel.app)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## The San Francisco Compute Company
- - [https://sfcompute-glwrdckay-sf-compute.vercel.app](https://sfcompute-glwrdckay-sf-compute.vercel.app)
- - date_published: 2024-04-29T03:26:35.200903+00:00
-
- ## shadcn
- - [https://shadcn-lerzscznq-shadcn-pro.vercel.app](https://shadcn-lerzscznq-shadcn-pro.vercel.app)
- - date_published: 2024-08-06T05:24:53.140667+00:00
-
- ## Screen Share - Share Your Screen Instantly
- - [https://share-your-screen.vercel.app](https://share-your-screen.vercel.app)
- - date_published: 2024-11-29T03:55:31+00:00
- - tags: ['screen sharing']
-
- ## Shiny Button
- - [https://shiny-button.vercel.app](https://shiny-button.vercel.app)
- - date_published: 2023-10-25T08:31:31.559328+00:00
-
- ## Ecommerce Store with Typesense + Next.js + Vercel
- - [https://showcase-nextjs-typesense-ecommerce-store.vercel.app](https://showcase-nextjs-typesense-ecommerce-store.vercel.app)
- - date_published: 2024-08-18T18:03:52.824555+00:00
-
- ## Home
- - [https://simonandrews-ca-qpo7cv35x-sadl.vercel.app](https://simonandrews-ca-qpo7cv35x-sadl.vercel.app)
- - date_published: 2024-05-11T07:17:22.169117+00:00
-
- ## Single Emoji. 💯
- - [https://single-emoji.vercel.app](https://single-emoji.vercel.app)
- - date_published: 2023-10-25T11:50:49.105285+00:00
-
- ## Sirius
- - [https://sirius-astro.vercel.app](https://sirius-astro.vercel.app)
- - date_published: 2024-06-21T23:49:08.583190+00:00
-
- ## Code Hike
- - [https://site-dg1mstwym-codehike.vercel.app](https://site-dg1mstwym-codehike.vercel.app)
- - date_published: 2024-06-22T06:29:25.035889+00:00
-
- ## sitegraph
- - [https://sitegraph.vercel.app](https://sitegraph.vercel.app)
- - date_published: 2024-08-18T15:50:26.015410+00:00
-
- ## Create Next App
- - [https://skin-museum-og-captbaritone-webamp.vercel.app](https://skin-museum-og-captbaritone-webamp.vercel.app)
- - date_published: 2024-05-12T04:23:33.646853+00:00
-
- ## https://slickgpt.vercel.app
- - [https://slickgpt.vercel.app](https://slickgpt.vercel.app)
- - date_published: 2024-01-09T02:23:40.930218+00:00
-
- ## Slickr - Try the most powerful cover image designer for hashnode blog
- - [https://slickr.vercel.app](https://slickr.vercel.app)
- - date_published: 2024-07-14T10:19:25.802026+00:00
-
- ## Welcome to Smart Layer Network
- - [https://sln-doc.vercel.app](https://sln-doc.vercel.app)
- - date_published: 2024-09-21T23:52:52.177494+00:00
 

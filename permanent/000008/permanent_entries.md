@@ -1,3 +1,151 @@
+ ## Startseite: AUCEN - Austrian University Continuing Education and Staff Development Network
+ - [https://www.aucen.ac.at](https://www.aucen.ac.at)
+ - date_published: 2024-08-06T20:58:10.501328+00:00
+
+ ## BOKU
+ - [https://boku.ac.at](https://boku.ac.at)
+ - date_published: 2024-08-11T23:20:00.525916+00:00
+
+ ## Visuals * Complexity Science Hub
+ - [https://vis.csh.ac.at](https://vis.csh.ac.at)
+ - date_published: 2023-10-30T07:40:48+00:00
+
+ ## Complexity Science Hub
+ - [https://www.csh.ac.at](https://www.csh.ac.at)
+ - date_published: 2023-04-11T06:14:42+00:00
+
+ ## Die Universität für Weiterbildung Krems
+ - [https://donau-uni.ac.at](https://donau-uni.ac.at)
+ - date_published: 2024-04-28T05:44:16.021166+00:00
+
+ ## Moodle der Universität für Weiterbildung Krems: Log in to the site
+ - [https://moodle.donau-uni.ac.at](https://moodle.donau-uni.ac.at)
+ - date_published: 2024-08-06T20:58:03.581392+00:00
+
+ ## Loading
+ - [https://online.donau-uni.ac.at](https://online.donau-uni.ac.at)
+ - date_published: 2024-07-29T12:44:31+00:00
+
+ ## ESI - The Erwin Schrödinger International Institute for Mathematics and Physics
+ - [https://www.esi.ac.at](https://www.esi.ac.at)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Fachhochschule St. Pölten
+ - [https://fhstp.ac.at](https://fhstp.ac.at)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Login | Der Wissenschaftsfonds
+ - [https://elane.fwf.ac.at](https://elane.fwf.ac.at)
+ - date_published: 2024-07-02T01:32:53.208034+00:00
+
+ ## Home
+ - [https://fwf.ac.at](https://fwf.ac.at)
+ - date_published: 2024-05-07T21:01:43.544614+00:00
+
+ ## Home
+ - [https://pf.fwf.ac.at](https://pf.fwf.ac.at)
+ - date_published: 2024-07-01T05:46:56.044522+00:00
+
+ ## Sign in - Matomo
+ - [https://piwik.fwf.ac.at](https://piwik.fwf.ac.at)
+ - date_published: 2024-07-02T01:32:56.538851+00:00
+
+ ## Das Wissenschaftsmagazin des FWF
+ - [https://scilog.fwf.ac.at](https://scilog.fwf.ac.at)
+ - date_published: 2024-07-02T01:32:55.386717+00:00
+
+ ## Home
+ - [https://www.hmdw.ac.at](https://www.hmdw.ac.at)
+ - date_published: 2024-07-04T17:27:49+00:00
+
+ ## ISTA Homepage
+ - [https://ist.ac.at](https://ist.ac.at)
+ - date_published: 2024-10-27T12:05:43.644790+00:00
+
+ ## ISTA Homepage
+ - [http://www.ist-austria.ac.at](http://www.ist-austria.ac.at)
+ - date_published: 2024-08-19T20:41:01.326545+00:00
+
+ ## Josephinum – Sammlungen der Medizinischen Universität Wien | Josephinum
+ - [http://www.josephinum.ac.at](http://www.josephinum.ac.at)
+ - date_published: 2024-06-24T09:45:47.655085+00:00
+
+ ## ESMira
+ - [https://demo-esmira.kl.ac.at](https://demo-esmira.kl.ac.at)
+ - date_published: 2024-06-19T22:23:03.016363+00:00
+
+ ## ESMira
+ - [https://esmira.kl.ac.at](https://esmira.kl.ac.at)
+ - date_published: 2024-06-19T22:13:37.125912+00:00
+
+ ## Max Perutz Labs • Catalyzing Discovery­ in Mechanistic Biomedicine
+ - [https://www.maxperutzlabs.ac.at](https://www.maxperutzlabs.ac.at)
+ - date_published: 2024-07-01T05:48:10.371178+00:00
+
+ ## Universitätsbibliothek | ub.mdw
+ - [https://bibliothek.mdw.ac.at](https://bibliothek.mdw.ac.at)
+ - date_published: 2024-07-04T17:27:46.404697+00:00
+
+ ## Home | mdw - Universität für Musik und darstellende Kunst Wien
+ - [https://mdw.ac.at](https://mdw.ac.at)
+ - date_published: 2024-05-08T07:05:23.971727+00:00
+
+ ## mdw Mediathek
+ - [https://mediathek.mdw.ac.at](https://mediathek.mdw.ac.at)
+ - date_published: 2024-07-04T17:27:56.280392+00:00
+
+ ## Loading
+ - [https://online.mdw.ac.at](https://online.mdw.ac.at)
+ - date_published: 2024-03-25T10:25:10+00:00
+
+ ## Grundlagen · Ružake gila
+ - [https://ruzakegila.mdw.ac.at](https://ruzakegila.mdw.ac.at)
+ - date_published: 2024-07-04T17:28:01.023861+00:00
+
+ ## Bauprojekte | MedUni Wien
+ - [https://bauprojekte.meduniwien.ac.at](https://bauprojekte.meduniwien.ac.at)
+ - date_published: 2024-05-09T06:25:58.899953+00:00
+
+ ## Ethik, Sammlungen und Geschichte der Medizin | MedUni Wien
+ - [https://ethik-geschichte.meduniwien.ac.at](https://ethik-geschichte.meduniwien.ac.at)
+ - date_published: 2024-07-08T22:42:05.440473+00:00
+
+ ## login_ubmuw
+ - [https://login.ez.srv.meduniwien.ac.at](https://login.ez.srv.meduniwien.ac.at)
+ - date_published: 2024-07-09T20:13:03.867274+00:00
+
+ ## Home | MedUni Wien
+ - [https://meduniwien.ac.at](https://meduniwien.ac.at)
+ - date_published: 2024-03-11T10:36:49.879554+00:00
+
+ ## Med Uni Wien (UMW)
+ - [https://repositorium.meduniwien.ac.at](https://repositorium.meduniwien.ac.at)
+ - date_published: 2024-07-09T20:13:03.048637+00:00
+
+ ## Universitätsbibliothek | MedUni Wien
+ - [https://ub.meduniwien.ac.at](https://ub.meduniwien.ac.at)
+ - date_published: 2024-05-09T06:26:00.684559+00:00
+
+ ## Mozarteum University Salzburg
+ - [https://moz.ac.at](https://moz.ac.at)
+ - date_published: 2024-05-11T07:02:57.274460+00:00
+
+ ## Naturhistorisches Museum Wien - Naturhistorisches Museum Wien
+ - [https://nhm-wien.ac.at](https://nhm-wien.ac.at)
+ - date_published: 2024-10-31T23:44:41.162427+00:00
+
+ ## Stipendien & Preise
+ - [https://stipendien.oeaw.ac.at](https://stipendien.oeaw.ac.at)
+ - date_published: 2024-10-14T23:54:19.700246+00:00
+
+ ## Die Abteilung
+ - [https://vawadioe.acdh.oeaw.ac.at](https://vawadioe.acdh.oeaw.ac.at)
+ - date_published: 2024-07-12T05:20:26.682175+00:00
+
+ ## Startseite | Verlag der ÖAW
+ - [https://verlag.oeaw.ac.at](https://verlag.oeaw.ac.at)
+ - date_published: 2024-10-14T23:54:27.649297+00:00
+
  ## VICAV - Vienna Corpus of Arabic Varieties
  - [https://vicav.acdh.oeaw.ac.at](https://vicav.acdh.oeaw.ac.at)
  - date_published: 2024-01-09T00:00:00+00:00
@@ -3864,152 +4012,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Home  - Sommerspiele Perchtoldsdorf
  - [https://www.sommerspiele-perchtoldsdorf.at](https://www.sommerspiele-perchtoldsdorf.at)
  - date_published: 2024-07-13T11:27:14+00:00
-
- ## Sony Österreich | Neueste Technologie-News | Elektronik | Unterhaltung
- - [http://www.sony.at](http://www.sony.at)
- - date_published: 2024-10-21T07:38:28.390495+00:00
-
- ## Sony Pictures Austria | Home
- - [https://www.sonypictures.at](https://www.sonypictures.at)
- - date_published: 2024-07-27T17:27:55.842471+00:00
-
- ## Sopra Steria | Europäischer Marktführer für digitale Transformation
- - [https://www.soprasteria.at](https://www.soprasteria.at)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Broschürenservice
- - [https://broschuerenservice.sozialministerium.at](https://broschuerenservice.sozialministerium.at)
- - date_published: 2024-07-03T01:43:09.409165+00:00
-
- ## Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
- - [https://sozialministerium.at](https://sozialministerium.at)
- - date_published: 2024-05-07T23:53:35.971249+00:00
-
- ## Startseite
- - [https://www.sozialministeriumservice.at](https://www.sozialministeriumservice.at)
- - date_published: 2024-07-18T08:12:38.362510+00:00
-
- ## SPARDA Bank
- - [https://www.spardawien.at](https://www.spardawien.at)
- - date_published: 2024-09-27T09:32:29.157014+00:00
-
- ## Privatkund:innen
- - [https://www.sparkasse.at](https://www.sparkasse.at)
- - date_published: 2024-06-25T22:51:25.083696+00:00
-
- ## Spektral – Freiraum-Projekt und Open Space in Graz
- - [http://spektral.at](http://spektral.at)
- - date_published: 2024-07-13T11:26:58.574895+00:00
-
- ## www.sport-treff-schuettel.at -
- - [https://www.sport-treff-schuettel.at](https://www.sport-treff-schuettel.at)
- - date_published: 2024-06-23T21:17:56.764759+00:00
-
- ## Gebrauchtwagen - Kauf und Übernahme | SPOTICAR
- - [https://www.spoticar.at](https://www.spoticar.at)
- - date_published: 2024-07-12T04:23:12+00:00
-
- ## My Spreadshirt
- - [https://my.spreadshirt.at](https://my.spreadshirt.at)
- - date_published: 2024-10-21T08:58:38.643880+00:00
-
- ## T-Shirt Druck - T-Shirts bedrucken und tolle Designs finden | Spreadshirt
- - [https://www.spreadshirt.at](https://www.spreadshirt.at)
- - date_published: 2024-06-18T10:19:53.088559+00:00
-
- ## Home
- - [https://springermedizin.at](https://springermedizin.at)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Spritpreisrechner
- - [https://spritpreisrechner.at](https://spritpreisrechner.at)
- - date_published: 2024-05-22T08:49:50+00:00
-
- ## squ.at
- - [https://squ.at](https://squ.at)
- - date_published: 2024-06-23T13:49:56.106052+00:00
-
- ## Stadtplan Salzburg
- - [https://maps.stadt-salzburg.at](https://maps.stadt-salzburg.at)
- - date_published: 2024-09-13T16:20:34.981725+00:00
-
- ## ecoplus Standortkompass
- - [https://standort-noe.at](https://standort-noe.at)
- - date_published: 2024-08-09T10:09:25+00:00
-
- ## Oberösterreichs Plattform für Gewerbeimmobilien
- - [http://standortooe.at](http://standortooe.at)
- - date_published: 2024-09-13T16:20:50.872561+00:00
-
- ## start:bausparkasse (Österreich)
- - [https://www.start-bausparkasse.at](https://www.start-bausparkasse.at)
- - date_published: 2024-09-27T09:29:44.376356+00:00
-
- ## Startupland - Machen wir Vorarlberg zum Startupland
- - [https://startupland.at](https://startupland.at)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Startseite
- - [https://www.statistik.at](https://www.statistik.at)
- - date_published: 2024-09-13T16:20:07.348482+00:00
-
- ## StayFriends.at - Schulfreunde finden
- - [https://www.stayfriends.at](https://www.stayfriends.at)
- - date_published: 2024-09-30T13:13:01.142728+00:00
-
- ## Landesentwicklung Steiermark
- - [http://www.landesentwicklung.steiermark.at](http://www.landesentwicklung.steiermark.at)
- - date_published: 2024-09-13T16:20:29.157928+00:00
-
- ## steirischer herbst Archiv
- - [https://archiv.steirischerherbst.at](https://archiv.steirischerherbst.at)
- - date_published: 2024-07-13T14:41:42.499383+00:00
-
- ## steirischer herbst ’24
- - [https://www.steirischerherbst.at](https://www.steirischerherbst.at)
- - date_published: 2024-07-13T14:31:56.782453+00:00
-
- ## Willkommen - Stellantis Financial Services
- - [https://www.stellantis-financial-services.at](https://www.stellantis-financial-services.at)
- - date_published: 2024-07-12T06:26:11.816489+00:00
-
- ## Jobbörse Stepstone - Stellenangebote in Österreich
- - [https://www.stepstone.at](https://www.stepstone.at)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Stiegl Privatbrauerei - Goldrichtiger Geschmack
- - [https://www.stiegl.at](https://www.stiegl.at)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## STINGL Klaviere - Ihr Wiener Meisterbetrieb - Gustav Ignaz STINGL Klaviere e.U.
- - [https://www.stingl-klavier.at](https://www.stingl-klavier.at)
- - date_published: 2024-10-17T18:10:26.824600+00:00
-
- ## Stockerau
- - [https://www.stockerau.at](https://www.stockerau.at)
- - date_published: 2024-07-12T12:05:43+00:00
-
- ## Welcome!
- - [https://stocker-rossmann.at](https://stocker-rossmann.at)
- - date_published: 2018-08-25T05:36:03+00:00
-
- ## Startseite - Stöckl im Park
- - [https://www.stoecklimpark.at](https://www.stoecklimpark.at)
- - date_published: 2024-10-17T18:10:07.990705+00:00
-
- ## Stopline - Home
- - [http://www.stopline.at](http://www.stopline.at)
- - date_published: 2024-07-02T22:20:11.831176+00:00
-
- ## Home | STRABAG AG
- - [https://www.strabag.at](https://www.strabag.at)
- - date_published: 2024-10-17T18:06:27.811643+00:00
-
- ## Privat
- - [https://www.stw.at](https://www.stw.at)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Superprof - der Ort, um Wissen zu teilen
- - [https://superprof.at](https://superprof.at)
- - date_published: 2024-06-15T01:28:05.503134+00:00
 

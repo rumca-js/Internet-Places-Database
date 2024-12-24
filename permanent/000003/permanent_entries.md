@@ -1,3 +1,47 @@
+ ## Placer Discover | Grocery Virtual Event
+ - [https://discover.placer.ai](https://discover.placer.ai)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Placer
+ - [https://embedded-widget.placer.ai](https://embedded-widget.placer.ai)
+ - date_published: 2024-12-12T10:38:29+00:00
+
+ ## Location Intelligence & Foot Traffic Data Software – Placer.ai
+ - [https://placer.ai](https://placer.ai)
+ - date_published: 2024-10-31T12:21:55+00:00
+
+ ## Customer Footfall Analysis & Insights | PlaceSense
+ - [https://placesense.ai](https://placesense.ai)
+ - date_published: 2024-05-06T17:30:53.379384+00:00
+
+ ## Plandex - AI programming engine
+ - [https://plandex.ai](https://plandex.ai)
+ - date_published: 2024-04-03T19:49:14.844485+00:00
+
+ ## Plask Motion: AI-powered Mocap
+ - [https://motion.plask.ai](https://motion.plask.ai)
+ - date_published: 2024-10-30T17:13:14.926532+00:00
+
+ ## Plask Motion: AI-powered Mocap
+ - [https://plask.ai](https://plask.ai)
+ - date_published: 2024-06-19T20:36:56.019109+00:00
+
+ ## Plastic Labs
+ - [https://plasticlabs.ai](https://plasticlabs.ai)
+ - date_published: 2024-09-14T08:01:48.612374+00:00
+
+ ## Plato
+ - [https://platoeducation.ai](https://platoeducation.ai)
+ - date_published: 2023-04-02T01:27:48+00:00
+
+ ## PLAUD NOTE: ChatGPT Empowered AI Voice Recorder | PLAUD
+ - [https://www.plaud.ai](https://www.plaud.ai)
+ - date_published: 2024-08-06T19:31:02.602197+00:00
+
+ ## PlayAI
+ - [https://play.ai](https://play.ai)
+ - date_published: 2024-08-06T05:41:38.629250+00:00
+
  ## Player Two
  - [https://app.playertwo.ai](https://app.playertwo.ai)
  - date_published: 2024-06-14T04:25:15+00:00
@@ -141,6 +185,10 @@
  ## Definitive Healthcare Platform
  - [https://app.populi.ai](https://app.populi.ai)
  - date_published: 2024-10-09T00:00:54+00:00
+
+ ## Home
+ - [https://portal26.ai](https://portal26.ai)
+ - date_published: 2024-12-23T04:49:06.871584+00:00
 
  ## PortrAIt | French Digital Pathology Consortium
  - [https://www.portraitpathology.ai](https://www.portraitpathology.ai)
@@ -2658,6 +2706,10 @@
  - [https://studyninja.ai](https://studyninja.ai)
  - date_published: 2024-06-19T20:52:43.257886+00:00
 
+ ## Your Personal AI Stylist App
+ - [https://styledna.ai](https://styledna.ai)
+ - date_published: 2024-12-23T13:00:03+00:00
+
  ## Home - Styrk
  - [https://styrk.ai](https://styrk.ai)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -2900,6 +2952,10 @@
  ## 深信科创
  - [https://www.synkrotron.ai](https://www.synkrotron.ai)
  - date_published: 2024-02-18T09:01:00+00:00
+
+ ## Convert your code to different languages by AI  — Syntha AI
+ - [https://syntha.ai](https://syntha.ai)
+ - date_published: 2024-12-23T15:00:24.277184+00:00
 
  ## Sizzle - Free AI tutor for everyone
  - [https://web.szl.ai](https://web.szl.ai)
@@ -3965,62 +4021,4 @@
  ## FilmForge AI
  - [https://filmforge.uwu.ai](https://filmforge.uwu.ai)
  - date_published: 2023-01-16T22:41:39+00:00
-
- ## moved!
- - [https://floras.uwu.ai](https://floras.uwu.ai)
- - date_published: 2024-07-15T11:23:23+00:00
-
- ## Vairflow AI |  Search engine for your workspace.
- - [https://www.vairflow.ai](https://www.vairflow.ai)
- - date_published: 2024-08-18T16:04:02.136856+00:00
-
- ## Virtual AI Safety Unconference
- - [https://vaisu.ai](https://vaisu.ai)
- - date_published: 2024-05-04T12:17:41.781403+00:00
-
- ## Valkyrie AI - Homepage
- - [https://valkyrie.ai](https://valkyrie.ai)
- - date_published: 2024-12-21T13:44:30.448656+00:00
-
- ## Vanna.AI - Personalized AI SQL Agent
- - [https://vanna.ai](https://vanna.ai)
- - date_published: 2024-06-17T18:36:03+00:00
-
- ## Vapi
- - [https://blog.vapi.ai](https://blog.vapi.ai)
- - date_published: 2024-04-18T20:32:41.201360+00:00
- - tags: ['artificial intelligence', 'voice assistant']
-
- ## Introduction - Vapi
- - [https://docs.vapi.ai](https://docs.vapi.ai)
- - date_published: 2024-08-11T02:59:36.918706+00:00
-
- ## Vapi
- - [https://vapi.ai](https://vapi.ai)
- - date_published: 2024-04-19T04:41:28+00:00
- - tags: ['artificial intelligence', 'voice assistant']
-
- ## Optimist
- - [https://optimist.varied.ai](https://optimist.varied.ai)
- - date_published: 2024-06-19T20:43:02.965925+00:00
-
- ## Vast.ai | Console
- - [https://cloud.vast.ai](https://cloud.vast.ai)
- - date_published: 2024-07-12T08:09:52.294115+00:00
-
- ## Redefining Video Advertising Across All Platforms
- - [https://a.vdo.ai](https://a.vdo.ai)
- - date_published: 2024-06-20T01:10:05.594004+00:00
-
- ## VectorArt.ai
- - [https://docs.vectorart.ai](https://docs.vectorart.ai)
- - date_published: 2024-08-19T12:00:06.297007+00:00
-
- ## VectorArt.ai - Unlimited AI Generated Vector Images
- - [https://vectorart.ai](https://vectorart.ai)
- - date_published: 2023-10-25T11:44:51.285364+00:00
-
- ## Cierpliwości...
- - [https://talenthub.vectorinstitute.ai](https://talenthub.vectorinstitute.ai)
- - date_published: 2024-07-04T10:25:38.816064+00:00
 

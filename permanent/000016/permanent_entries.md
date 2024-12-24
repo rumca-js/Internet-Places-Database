@@ -1,3 +1,221 @@
+ ## 虹线 – 评论尸的自留地
+ - [https://1q43.blog](https://1q43.blog)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## 8Sided Blog
+ - [https://8sided.blog](https://8sided.blog)
+ - date_published: 2023-12-25T22:11:32.378760+00:00
+ - tags: ['personal']
+
+ ## Aapo Blog
+ - [https://aapo.blog](https://aapo.blog)
+ - date_published: 2023-11-29T14:22:35.933854+00:00
+ - tags: ['personal']
+
+ ## The Dangling Pointer – Sh*t my brain says and forgets about
+ - [https://aaron.blog](https://aaron.blog)
+ - date_published: 2024-08-18T16:11:44.240702+00:00
+
+ ## Abbe's Road
+ - [https://abbesroad.blog](https://abbesroad.blog)
+ - date_published: 2023-12-08T09:38:25.844834+00:00
+ - tags: ['personal']
+
+ ## About Blank®
+ - [https://www.aboutblank.blog](https://www.aboutblank.blog)
+ - date_published: 2024-09-09T23:17:27.522857+00:00
+
+ ## achyut
+ - [https://achyut.blog](https://achyut.blog)
+ - date_published: 2024-10-16T11:48:25.672865+00:00
+
+ ## A Collection of Unmitigated Pedantry – A look at history and popular culture
+ - [https://acoup.blog](https://acoup.blog)
+ - date_published: 2023-10-25T11:59:50.933130+00:00
+
+ ## Action Network Blog – Updates from the Action Network team
+ - [https://actionnetwork.blog](https://actionnetwork.blog)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Psychohistory
+ - [https://adamnash.blog](https://adamnash.blog)
+ - date_published: 2023-10-25T09:01:28.320767+00:00
+ - tags: ['personal']
+
+ ## Alejandro Celaya | Blog — Software development, agile methodologies and open source software
+ - [https://alejandrocelaya.blog](https://alejandrocelaya.blog)
+ - date_published: 2024-07-16T07:31:10+00:00
+
+ ## Alex's Blog
+ - [https://alex.blog](https://alex.blog)
+ - date_published: 2024-06-17T03:01:20+00:00
+
+ ## Alex Gustafson
+ - [https://alexjgustafson.blog](https://alexjgustafson.blog)
+ - date_published: 2023-12-30T22:22:44.019431+00:00
+ - tags: ['personal']
+
+ ## Blog . Ahmad Alfy
+ - [https://alfy.blog](https://alfy.blog)
+ - date_published: 2024-10-19T17:06:32+00:00
+
+ ## alistair smith • blog
+ - [https://alistair.blog](https://alistair.blog)
+ - date_published: 2023-10-25T09:01:30.775423+00:00
+ - tags: ['personal']
+
+ ## Alistair Smith • Blog
+ - [https://old.alistair.blog](https://old.alistair.blog)
+ - date_published: 2020-12-28T00:00:00+00:00
+
+ ## Almad's Changelog
+ - [https://almad.blog](https://almad.blog)
+ - date_published: 2024-01-02T15:36:17.739783+00:00
+
+ ## Almost Surely a Math Blog
+ - [https://almostsurelymath.blog](https://almostsurelymath.blog)
+ - date_published: 2024-04-30T07:35:02.326518+00:00
+ - tags: ['personal']
+
+ ## Alternative Friday Factorio Fan Facts
+ - [https://alt-f4.blog](https://alt-f4.blog)
+ - date_published: 2023-06-30T13:22:23+00:00
+
+ ## Home
+ - [https://aluna.blog](https://aluna.blog)
+ - date_published: 2024-09-14T09:59:51.620000+00:00
+
+ ## Always Processing
+ - [https://alwaysprocessing.blog](https://alwaysprocessing.blog)
+ - date_published: 2024-06-23T15:05:04.782308+00:00
+
+ ## Jottings on an Envelope
+ - [https://amitg.blog](https://amitg.blog)
+ - date_published: 2024-05-12T05:39:52.072908+00:00
+
+ ## Dialogues
+ - [https://amsj.blog](https://amsj.blog)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Andreas Fertig's Blog
+ - [https://andreasfertig.blog](https://andreasfertig.blog)
+ - date_published: 2024-09-02T12:42:31.470023+00:00
+
+ ## Android Dev Social
+ - [https://androiddev.blog](https://androiddev.blog)
+ - date_published: 2024-05-08T07:30:21.610725+00:00
+
+ ## Anith's Blog
+ - [https://anith.blog](https://anith.blog)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Appventure Time
+ - [https://appventuretime.blog](https://appventuretime.blog)
+ - date_published: 2023-10-25T11:59:54.461305+00:00
+
+ ## The Armancius Blog
+ - [https://armancius.blog](https://armancius.blog)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## FilmsNoir.Net - all about film noir
+ - [https://filmnoir.art.blog](https://filmnoir.art.blog)
+ - date_published: 2024-12-18T12:30:38+00:00
+
+ ## Exploration of Life as a Neurodiverse Creative
+ - [http://neurodiverse.art.blog](http://neurodiverse.art.blog)
+ - date_published: 2024-09-03T22:50:44.061559+00:00
+
+ ## Que Sara Sara
+ - [http://quesarasara.art.blog](http://quesarasara.art.blog)
+ - date_published: 2024-09-03T22:49:06.047323+00:00
+
+ ## ARTificial.Blog
+ - [https://artificial.blog](https://artificial.blog)
+ - date_published: 2024-01-07T00:00:00+00:00
+
+ ## MEMORABILIA
+ - [https://artofuss.blog](https://artofuss.blog)
+ - date_published: 2024-12-23T19:59:01.802907+00:00
+
+ ## aspiblog
+ - [http://aspi.blog](http://aspi.blog)
+ - date_published: 2024-09-03T22:52:07.067989+00:00
+
+ ## Koen's blog
+ - [https://atog.blog](https://atog.blog)
+ - date_published: 2024-08-07T20:04:47.365536+00:00
+
+ ## Tero Auralinna's blog about web development
+ - [https://auralinna.blog](https://auralinna.blog)
+ - date_published: 2024-08-07T19:29:33.160791+00:00
+
+ ## awanderingmind - Home
+ - [https://awanderingmind.blog](https://awanderingmind.blog)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## axbom - digital ethics and compassionate design
+ - [https://axbom.blog](https://axbom.blog)
+ - date_published: 2024-07-04T08:26:05.632942+00:00
+
+ ## Home
+ - [https://ayos.blog](https://ayos.blog)
+ - date_published: 2024-04-28T02:41:59.625835+00:00
+
+ ## Azad's Blog
+ - [https://azadux.blog](https://azadux.blog)
+ - date_published: 2024-10-16T15:05:59+00:00
+
+ ## Back of the Napkin
+ - [https://backofthenapkin.blog](https://backofthenapkin.blog)
+ - date_published: 2024-07-17T05:21:58.891727+00:00
+
+ ## Backpackin'
+ - [https://backpackin.blog](https://backpackin.blog)
+ - date_published: 2024-04-30T07:13:05.298703+00:00
+
+ ## Barely Buggy - Homepage of Janek Fischer
+ - [https://barelybuggy.blog](https://barelybuggy.blog)
+ - date_published: 2024-08-16T08:25:48+00:00
+
+ ## barlows.blog
+ - [https://barlows.blog](https://barlows.blog)
+ - date_published: 2024-04-03T06:24:05.290128+00:00
+ - tags: ['personal']
+
+ ## Jack Baty
+ - [https://baty.blog](https://baty.blog)
+ - date_published: 2024-04-28T06:12:00.218388+00:00
+ - tags: ['personal']
+
+ ## Kontrowersyjny blog
+ - [https://bb-i.blog](https://bb-i.blog)
+ - date_published: 2023-10-25T09:01:38.298843+00:00
+ - tags: ['personal']
+
+ ## beep.blog
+ - [https://beep.blog](https://beep.blog)
+ - date_published: 2023-10-31T14:38:44.816259+00:00
+
+ ## scruffian
+ - [https://ben.blog](https://ben.blog)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Swordplay & Swashbucklers
+ - [https://benersonlittle.blog](https://benersonlittle.blog)
+ - date_published: 2024-12-14T22:27:24.301039+00:00
+
+ ## A Dad trying to cope with the loss of his Partner and becoming a single parent.
+ - [http://bereavedsingledad.blog](http://bereavedsingledad.blog)
+ - date_published: 2024-09-03T22:57:44.858917+00:00
+
+ ## Besser lernen mit den richtigen Tipps, Tricks und Techniken!
+ - [http://besser-lernen.blog](http://besser-lernen.blog)
+ - date_published: 2020-04-11T18:28:30+00:00
+
+ ## The Best Interest - Invest in Knowledge
+ - [https://bestinterest.blog](https://bestinterest.blog)
+ - date_published: 2023-10-25T11:59:55.232003+00:00
+
  ## Error: Active domain connection for this domain not found
  - [https://betonit.blog](https://betonit.blog)
  - date_published: 2024-06-21T23:20:34.165070+00:00
@@ -205,6 +423,10 @@
  ## crazy-type.blog
  - [https://crazy-type.blog](https://crazy-type.blog)
  - date_published: 2024-07-15T11:30:09+00:00
+
+ ## Critique sociale du féminisme
+ - [https://critiquedufeminisme.blog](https://critiquedufeminisme.blog)
+ - date_published: 2024-12-23T19:59:38.339352+00:00
 
  ## Mike Crittenden
  - [https://critter.blog](https://critter.blog)
@@ -1186,6 +1408,10 @@
  ## Hey, Gabz!
  - [https://gabz.micro.blog](https://gabz.micro.blog)
  - date_published: 2024-07-03T20:30:28+00:00
+
+ ## Greg Morris
+ - [https://greg-morris.micro.blog](https://greg-morris.micro.blog)
+ - date_published: 2024-12-21T16:20:15+00:00
 
  ## John Gruber
  - [http://gruber.micro.blog](http://gruber.micro.blog)
@@ -2670,6 +2896,10 @@
  - [https://resist.bot](https://resist.bot)
  - date_published: 2024-12-13T11:17:47.695390+00:00
 
+ ## SearchGPT: The Future of AI-Powered Search by OpenAI
+ - [https://searchgpt.bot](https://searchgpt.bot)
+ - date_published: 2024-12-23T06:12:42.518754+00:00
+
  ## Sora Protocol ⤄ Bridge
  - [https://bridge.soraai.bot](https://bridge.soraai.bot)
  - date_published: 2024-09-24T08:01:46.029373+00:00
@@ -2713,6 +2943,10 @@
  ## MASP
  - [http://www.masp.art.br](http://www.masp.art.br)
  - date_published: 2024-06-24T09:07:39.852939+00:00
+
+ ## Sala São Paulo
+ - [http://www.salasaopaulo.art.br](http://www.salasaopaulo.art.br)
+ - date_published: 2024-12-23T21:03:56.254328+00:00
 
  ## Transparência Bahia - Home
  - [http://www.transparencia.ba.gov.br](http://www.transparencia.ba.gov.br)
@@ -3789,6 +4023,10 @@ Educação
  - [http://www.fflch.usp.br](http://www.fflch.usp.br)
  - date_published: 2024-07-22T09:05:44.558378+00:00
 
+ ## USP Imagens
+ - [http://www.imagens.usp.br](http://www.imagens.usp.br)
+ - date_published: 2021-06-08T19:10:05+00:00
+
  ## HOME
  - [http://www.ime.usp.br](http://www.ime.usp.br)
  - date_published: 2020-10-20T12:40:07+00:00
@@ -3844,234 +4082,4 @@ Educação
  ## Abate Brutal
  - [https://abatebrutal.com.br](https://abatebrutal.com.br)
  - date_published: 2024-03-11T00:00:00+00:00
-
- ## Software de Recrutamento e Seleção | abler
- - [https://abler.com.br](https://abler.com.br)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## About Amazon Brasil
- - [https://aboutamazon.com.br](https://aboutamazon.com.br)
- - date_published: 2024-05-01T02:01:36.597204+00:00
-
- ## Superinteressante - Enxergue além do óbvio
- - [http://bravonline.abril.com.br](http://bravonline.abril.com.br)
- - date_published: 2024-12-20T08:03:44.396180+00:00
-
- ## Guia do Estudante
- - [https://guiadoestudante.abril.com.br](https://guiadoestudante.abril.com.br)
- - date_published: 2024-10-30T05:31:11.830990+00:00
-
- ## VEJA - Reportagens exclusivas, notícias, informação e opinião.
- - [https://veja.abril.com.br](https://veja.abril.com.br)
- - date_published: 2024-09-25T15:36:52.245523+00:00
-
- ## O Maior Portal de Notícias Para RH - Você RH
- - [https://vocerh.abril.com.br](https://vocerh.abril.com.br)
- - date_published: 2024-10-28T12:11:20.551852+00:00
-
- ## AbsolutGG SUN
- - [https://absolutgg.com.br](https://absolutgg.com.br)
- - date_published: 2024-07-17T07:53:02.835635+00:00
-
- ## Abstracto Studio
- - [https://www.abstracto.com.br](https://www.abstracto.com.br)
- - date_published: 2024-09-25T12:03:55.734229+00:00
-
- ## Especialistas em projetar um planeta melhor | ACCIONA | Business as unusual
- - [https://acciona.com.br](https://acciona.com.br)
- - date_published: 2024-06-15T03:19:53.923709+00:00
-
- ## Adecco
- - [https://adecco.com.br](https://adecco.com.br)
- - date_published: 2024-10-29T04:21:09.717589+00:00
-
- ## adidas Brasil Loja oficial | Tênis e material esportivo
- - [https://www.adidas.com.br](https://www.adidas.com.br)
- - date_published: 2024-07-14T12:13:51.363803+00:00
-
- ## Adler Medrado's little piece of turf
- - [https://adlermedrado.com.br](https://adlermedrado.com.br)
- - date_published: 2024-02-11T04:54:28.132837+00:00
- - tags: ['personal']
-
- ## Adriano Resende
- - [http://www.adrianoresende.com.br](http://www.adrianoresende.com.br)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Adrielly Sato
- - [https://adriellysato.com.br](https://adriellysato.com.br)
- - date_published: 2024-07-03T23:18:15.558281+00:00
-
- ## Cierpliwości...
- - [https://www.agazeta.com.br](https://www.agazeta.com.br)
- - date_published: 2024-06-19T08:26:39.118629+00:00
-
- ## Home - Agência Curitiba
- - [http://agenciacuritiba.com.br](http://agenciacuritiba.com.br)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home - Vale do Pinhão
- - [http://valedopinhao.agenciacuritiba.com.br](http://valedopinhao.agenciacuritiba.com.br)
- - date_published: 2024-06-12T11:25:14.141592+00:00
-
- ## Agência ecan
- - [https://agenciaecan.com.br](https://agenciaecan.com.br)
- - date_published: 2022-08-30T13:29:42+00:00
-
- ## Instagram
- - [https://agenciar2c.com.br](https://agenciar2c.com.br)
- - date_published: 2024-07-07T05:55:19.764353+00:00
-
- ## Agronetto Brasil – uma plataforma de compra e venda online de equipamento agrícola e peças sobressalentes
- - [https://agronetto24.com.br](https://agronetto24.com.br)
- - date_published: 2024-08-11T15:42:20.013270+00:00
-
- ## Soluções para Agronegócios
- - [http://agrosatelite.com.br](http://agrosatelite.com.br)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Airbnb | Locações por temporada, chalés, casas de praia e muito mais
- - [https://airbnb.com.br](https://airbnb.com.br)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Alefe Souza | Training and Consulting
- - [https://alefesouza.com.br](https://alefesouza.com.br)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## além da lenda
- - [http://www.alemdalenda.com.br](http://www.alemdalenda.com.br)
- - date_published: 2024-08-16T11:44:49+00:00
-
- ## Aliança - Especialista em Logística Integrada
- - [https://www.alianca.com.br](https://www.alianca.com.br)
- - date_published: 2024-05-04T13:50:03.029166+00:00
-
- ## Plano de saúde empresarial da Alice
- - [https://alice.com.br](https://alice.com.br)
- - date_published: 2024-10-25T19:47:16+00:00
-
- ## Plano de saúde empresarial da Alice
- - [https://staging.alice.com.br](https://staging.alice.com.br)
- - date_published: 2024-10-26T15:29:08+00:00
-
- ## Home
- - [https://www.allanramos.com.br](https://www.allanramos.com.br)
- - date_published: 2024-11-15T18:05:30+00:00
-
- ## Home - Allog
- - [https://www.allog.com.br](https://www.allog.com.br)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Editora Alta Books – O seu portal de conhecimento
- - [http://www.altabooks.com.br](http://www.altabooks.com.br)
- - date_published: 2024-08-02T18:45:04.442765+00:00
-
- ## Altruísmo Eficaz
- - [https://altruismoeficaz.com.br](https://altruismoeficaz.com.br)
- - date_published: 2024-06-29T22:26:31.275309+00:00
-
- ## Amazon.com.br | Tudo pra você, de A a Z.
- - [https://amazon.com.br](https://amazon.com.br)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## Portal de Associados da Amazon.com.br
- - [https://associados.amazon.com.br](https://associados.amazon.com.br)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Proteção de marca na Amazon: Proteja a marca que você desenvolveu
- - [https://brandservices.amazon.com.br](https://brandservices.amazon.com.br)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Amazon Kindle: sua biblioteca pessoal gratuita que você pode levar para qualquer lugar
- - [https://ler.amazon.com.br](https://ler.amazon.com.br)
- - date_published: 2024-06-24T04:14:40.378358+00:00
-
- ## Comece a vender na Amazon com mensalidade GRÁTIS por 1 ano | Venda na Amazon
- - [https://venda.amazon.com.br](https://venda.amazon.com.br)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## AMDB Soluções Digitais
- - [https://www.amdb.com.br](https://www.amdb.com.br)
- - date_published: 2019-03-01T14:30:28+00:00
-
- ## Americanas - passou, cestou.
- - [https://www.americanas.com.br](https://www.americanas.com.br)
- - date_published: 2024-11-08T13:04:50.529620+00:00
-
- ## Home
- - [https://ametek.com.br](https://ametek.com.br)
- - date_published: 2024-06-15T10:44:33.059141+00:00
-
- ## AnaMaria Receitas - Receitas Testadas e Aprovadas
- - [https://anamariareceitas.com.br](https://anamariareceitas.com.br)
- - date_published: 2024-06-28T15:30:58+00:00
-
- ## Institucional – ANBIMA
- - [https://www.anbima.com.br](https://www.anbima.com.br)
- - date_published: 2024-09-29T20:20:29.142748+00:00
-
- ## Annablume
- - [http://www.annablume.com.br](http://www.annablume.com.br)
- - date_published: 2024-07-12T20:44:08.355203+00:00
-
- ## ANSA Brasil
- - [https://ansabrasil.com.br](https://ansabrasil.com.br)
- - date_published: 2024-05-06T15:14:38.371552+00:00
-
- ## Loja AOC
- - [https://www.aoc.com.br](https://www.aoc.com.br)
- - date_published: 2024-06-19T23:49:15.120224+00:00
-
- ## HOME - Apema
- - [https://apema.com.br](https://apema.com.br)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Home | ApexBrasil
- - [https://apexbrasil.com.br](https://apexbrasil.com.br)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Melhores Casas de Apostas e Bônus do Brasil 2024
- - [https://apostasebonus.com.br](https://apostasebonus.com.br)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Apostila Opção
- - [https://www.apostilasopcao.com.br](https://www.apostilasopcao.com.br)
- - date_published: 2024-07-15T06:20:04.706148+00:00
-
- ## Apowersoft - Software e Soluções Online para o Trabalho e a Vida
- - [https://www.apowersoft.com.br](https://www.apowersoft.com.br)
- - date_published: 2024-06-23T16:06:05.896159+00:00
-
- ## Página inacessível
- - [https://unifeob.apprbs.com.br](https://unifeob.apprbs.com.br)
- - date_published: 2024-10-11T11:38:22.467619+00:00
-
- ## Integração Rubeus
- - [https://tracking.apprubeus.com.br](https://tracking.apprubeus.com.br)
- - date_published: 2024-10-11T11:42:22.332669+00:00
-
- ## ARAQUARELA
- - [https://www.araquarela.com.br](https://www.araquarela.com.br)
- - date_published: 2024-07-03T02:16:29.737181+00:00
-
- ## ArcelorMittal é Aço | ArcelorMittal
- - [http://brasil.arcelormittal.com.br](http://brasil.arcelormittal.com.br)
- - date_published: 2024-07-13T02:17:19.684043+00:00
-
- ## A revista da mulher
- - [https://arevistadamulher.com.br](https://arevistadamulher.com.br)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Dicas sobre sabão e cuidado com roupas sujas – Ariel
- - [https://arielbrasil.com.br](https://arielbrasil.com.br)
- - date_published: 2024-10-18T13:14:34+00:00
-
- ## ASILO PADRE CACIQUE
- - [https://asilopadrecacique.com.br](https://asilopadrecacique.com.br)
- - date_published: 2024-06-15T17:37:36.829149+00:00
-
- ## RadASM assembler IDE
- - [http://assembly.com.br](http://assembly.com.br)
- - date_published: 2024-02-18T21:56:54+00:00
- - tags: ['programming ide', 'assembly']
 

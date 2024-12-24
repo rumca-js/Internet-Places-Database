@@ -1,3 +1,61 @@
+ ## moved!
+ - [https://floras.uwu.ai](https://floras.uwu.ai)
+ - date_published: 2024-07-15T11:23:23+00:00
+
+ ## Vairflow AI |  Search engine for your workspace.
+ - [https://www.vairflow.ai](https://www.vairflow.ai)
+ - date_published: 2024-08-18T16:04:02.136856+00:00
+
+ ## Virtual AI Safety Unconference
+ - [https://vaisu.ai](https://vaisu.ai)
+ - date_published: 2024-05-04T12:17:41.781403+00:00
+
+ ## Valkyrie AI - Homepage
+ - [https://valkyrie.ai](https://valkyrie.ai)
+ - date_published: 2024-12-21T13:44:30.448656+00:00
+
+ ## Vanna.AI - Personalized AI SQL Agent
+ - [https://vanna.ai](https://vanna.ai)
+ - date_published: 2024-06-17T18:36:03+00:00
+
+ ## Vapi
+ - [https://blog.vapi.ai](https://blog.vapi.ai)
+ - date_published: 2024-04-18T20:32:41.201360+00:00
+ - tags: ['artificial intelligence', 'voice assistant']
+
+ ## Introduction - Vapi
+ - [https://docs.vapi.ai](https://docs.vapi.ai)
+ - date_published: 2024-08-11T02:59:36.918706+00:00
+
+ ## Vapi
+ - [https://vapi.ai](https://vapi.ai)
+ - date_published: 2024-04-19T04:41:28+00:00
+ - tags: ['artificial intelligence', 'voice assistant']
+
+ ## Optimist
+ - [https://optimist.varied.ai](https://optimist.varied.ai)
+ - date_published: 2024-06-19T20:43:02.965925+00:00
+
+ ## Vast.ai | Console
+ - [https://cloud.vast.ai](https://cloud.vast.ai)
+ - date_published: 2024-07-12T08:09:52.294115+00:00
+
+ ## Redefining Video Advertising Across All Platforms
+ - [https://a.vdo.ai](https://a.vdo.ai)
+ - date_published: 2024-06-20T01:10:05.594004+00:00
+
+ ## VectorArt.ai
+ - [https://docs.vectorart.ai](https://docs.vectorart.ai)
+ - date_published: 2024-08-19T12:00:06.297007+00:00
+
+ ## VectorArt.ai - Unlimited AI Generated Vector Images
+ - [https://vectorart.ai](https://vectorart.ai)
+ - date_published: 2023-10-25T11:44:51.285364+00:00
+
+ ## Cierpliwości...
+ - [https://talenthub.vectorinstitute.ai](https://talenthub.vectorinstitute.ai)
+ - date_published: 2024-07-04T10:25:38.816064+00:00
+
  ## Home - Vector Institute for Artificial Intelligence
  - [https://vectorinstitute.ai](https://vectorinstitute.ai)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -335,6 +393,10 @@ Creative Solutions
  - [https://voice.ai](https://voice.ai)
  - date_published: 2024-06-19T20:06:35.366531+00:00
 
+ ## VOICE & AI 2024 | The World's Leading Natural Language Event
+ - [https://www.voiceand.ai](https://www.voiceand.ai)
+ - date_published: 2024-12-22T02:11:55+00:00
+
  ## Home - Voicebot.ai
  - [https://voicebot.ai](https://voicebot.ai)
  - date_published: 2016-09-09T00:00:00+00:00
@@ -595,6 +657,14 @@ Creative Solutions
  - [https://wayve.ai](https://wayve.ai)
  - date_published: 2023-10-25T11:45:04.460915+00:00
 
+ ## Weam
+ - [https://app.weam.ai](https://app.weam.ai)
+ - date_published: 2024-12-23T10:43:19.372482+00:00
+
+ ## Weam | AI adoption platform for digital agencies
+ - [https://weam.ai](https://weam.ai)
+ - date_published: 2024-08-21T09:54:42+00:00
+
  ## Video Editing Software | Simple Online Video Editing Platform
  - [https://wearenova.ai](https://wearenova.ai)
  - date_published: 2024-06-19T19:38:22.368439+00:00
@@ -690,6 +760,10 @@ Creative Solutions
  ## Join R2AI by WhyLabs on Slack
  - [http://join.slack.whylabs.ai](http://join.slack.whylabs.ai)
  - date_published: 2024-04-24T00:00:00+00:00
+
+ ## AI Observability and LLM Security
+ - [https://whylabs.ai](https://whylabs.ai)
+ - date_published: 2024-12-14T00:34:02+00:00
 
  ## Wild Moose
  - [https://wildmoose.ai](https://wildmoose.ai)
@@ -1534,6 +1608,10 @@ Creative Solutions
  ## re.al | Real World Assets
  - [https://re.al](https://re.al)
  - date_published: 2024-09-18T18:58:47+00:00
+
+ ## re.al Safe
+ - [https://safe.re.al](https://safe.re.al)
+ - date_published: 2024-12-09T12:50:08+00:00
 
  ## Real Estate in Tirana. Office, villa, apartment for rent or sale Albania.
  - [https://realestate.al](https://realestate.al)
@@ -3940,80 +4018,4 @@ Creative Solutions
  ## Elephas | Knowledge Base
  - [https://support.elephas.app](https://support.elephas.app)
  - date_published: 2024-10-30T19:39:39.122373+00:00
-
- ## harmy.link
- - [https://peertube-a5egg-u8148.vm.elestio.app](https://peertube-a5egg-u8148.vm.elestio.app)
- - date_published: 2023-10-25T11:46:08.629410+00:00
-
- ## Attention Required! | Cloudflare
- - [https://elevault.app](https://elevault.app)
- - date_published: 2024-05-09T07:36:26.715253+00:00
-
- ## Rebrandly
- - [https://elodin.app](https://elodin.app)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## EmailEngine documentation
- - [https://api.emailengine.app](https://api.emailengine.app)
- - date_published: 2023-08-28T11:35:21+00:00
-
- ## EmailEngine Blog
- - [https://docs.emailengine.app](https://docs.emailengine.app)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## EmailEngine Email API
- - [https://emailengine.app](https://emailengine.app)
- - date_published: 2024-06-16T19:41:31.941805+00:00
-
- ## Simplify Your Club | embolt
- - [https://embolt.app](https://embolt.app)
- - date_published: 2024-09-02T09:45:23.484755+00:00
-
- ## Embra - The AI assistant for teams & professionals
- - [https://embra.app](https://embra.app)
- - date_published: 2024-06-19T19:51:39.634518+00:00
-
- ## Emoji Search
- - [https://www.emojisearch.app](https://www.emojisearch.app)
- - date_published: 2024-05-04T15:11:31.460202+00:00
-
- ## Talkative Engage
- - [https://eu.engage.app](https://eu.engage.app)
- - date_published: 2024-05-02T11:11:22.340643+00:00
-
- ## Talkative Engage
- - [https://us.engage.app](https://us.engage.app)
- - date_published: 2024-06-16T10:52:07.399635+00:00
-
- ## Engaging Networks
- - [https://ca.engagingnetworks.app](https://ca.engagingnetworks.app)
- - date_published: 2024-06-28T15:17:20+00:00
-
- ## Engaging Networks
- - [https://us.engagingnetworks.app](https://us.engagingnetworks.app)
- - date_published: 2024-06-28T15:17:20+00:00
-
- ## EpubKit
- - [https://epubkit.app](https://epubkit.app)
- - date_published: 2024-07-18T23:05:15.277956+00:00
-
- ## eqMac - System Audio Equalizer and App Volume Mixer for macOS
- - [https://eqmac.app](https://eqmac.app)
- - date_published: 2024-09-09T16:16:38.603341+00:00
-
- ## Equals | The next-generation spreadsheet
- - [https://equals.app](https://equals.app)
- - date_published: 2023-10-25T11:46:17.748837+00:00
-
- ## AI to make more of your money | Era
- - [https://era.app](https://era.app)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Essay
- - [https://essay.app](https://essay.app)
- - date_published: 2024-05-29T20:17:12.368194+00:00
-
- ## Estimaker
- - [https://estimaker.app](https://estimaker.app)
- - date_published: 2024-05-08T09:59:09.340703+00:00
 

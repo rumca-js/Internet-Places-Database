@@ -1,3 +1,324 @@
+ ## YouTube
+ - [https://youtube.com.br](https://youtube.com.br)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Consultoria em ERP, E-commerce e Marketplaces | Zachary
+ - [https://www.zachary.com.br](https://www.zachary.com.br)
+ - date_published: 2023-07-05T11:59:00+00:00
+
+ ## Zappeando
+ - [https://www.zappeando.com.br](https://www.zappeando.com.br)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Zeenix
+ - [https://zeenix.com.br](https://zeenix.com.br)
+ - date_published: 2024-07-17T12:16:48.234443+00:00
+
+ ## ZEISS do Brasil
+ - [https://www.zeiss.com.br](https://www.zeiss.com.br)
+ - date_published: 2024-09-16T07:56:38.752549+00:00
+
+ ## Zendesk: A Solução Completa de Atendimento ao Cliente
+ - [https://www.zendesk.com.br](https://www.zendesk.com.br)
+ - date_published: 2020-10-15T12:00:00+00:00
+
+ ## Empréstimo para turbinar o seu negócio | Zippi: Empréstimo para autônomos que potencializa seu negócio
+ - [https://zippi.com.br](https://zippi.com.br)
+ - date_published: 2024-06-19T08:26:10.338655+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.com.br](https://www2.zoetis.com.br)
+ - date_published: 2024-06-27T09:52:48+00:00
+
+ ## Login - Zorbes
+ - [https://app.zorbes.com.br](https://app.zorbes.com.br)
+ - date_published: 2024-07-13T02:27:22.201396+00:00
+
+ ## Home - Bom Negócio
+ - [http://bomnegocio.curitiba.br](http://bomnegocio.curitiba.br)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## calebe.dev.br
+ - [https://blog.calebe.dev.br](https://blog.calebe.dev.br)
+ - date_published: 2022-02-05T00:00:00+00:00
+
+ ## YunoHost Portal
+ - [https://calebe.dev.br](https://calebe.dev.br)
+ - date_published: 2024-07-14T09:07:36.343386+00:00
+
+ ## My Webapp
+ - [https://git.calebe.dev.br](https://git.calebe.dev.br)
+ - date_published: 2024-07-14T09:07:40.576977+00:00
+
+ ## LinkStack
+ - [https://links.calebe.dev.br](https://links.calebe.dev.br)
+ - date_published: 2024-07-14T09:07:38.428580+00:00
+
+ ## YunoHost Admin
+ - [https://media.calebe.dev.br](https://media.calebe.dev.br)
+ - date_published: 2024-05-19T22:09:45+00:00
+
+ ## Leandro Ferreira - Desenvolvedor PHP Laravel
+ - [https://leandroferreira.dev.br](https://leandroferreira.dev.br)
+ - date_published: 2024-06-19T09:30:46.786702+00:00
+
+ ## Blogue do Puro Osso
+ - [https://puro-osso.dev.br](https://puro-osso.dev.br)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Sistemas IFCE Paracuru
+ - [http://webserver.paracuru.ifce.edu.br](http://webserver.paracuru.ifce.edu.br)
+ - date_published: 2019-09-15T17:44:15+00:00
+
+ ## Portal IFNMG - Início
+ - [https://ifnmg.edu.br](https://ifnmg.edu.br)
+ - date_published: 2024-07-13T18:13:13+00:00
+
+ ## Authentication - GLPI
+ - [https://suporte.feliz.ifrs.edu.br](https://suporte.feliz.ifrs.edu.br)
+ - date_published: 2024-06-16T15:29:11.962485+00:00
+
+ ## Home — IF SUDESTE MG
+ - [https://www.ifsudestemg.edu.br](https://www.ifsudestemg.edu.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Inteli - Educação Inovadora em Tecnologia
+ - [https://inteli.edu.br](https://inteli.edu.br)
+ - date_published: 2024-09-21T00:00:00+00:00
+
+ ## Linux Mirror UFAM
+ - [https://mirror.ufam.edu.br](https://mirror.ufam.edu.br)
+ - date_published: 2021-09-05T16:24:43+00:00
+
+ ## UFPel
+ - [https://portal.ufpel.edu.br](https://portal.ufpel.edu.br)
+ - date_published: 2024-07-13T07:23:27.330229+00:00
+
+ ## UFPel
+ - [http://www.ufpel.edu.br](http://www.ufpel.edu.br)
+ - date_published: 2024-10-30T20:33:37.334739+00:00
+
+ ## Egressos-UFPI
+ - [https://egressos.ufpi.edu.br](https://egressos.ufpi.edu.br)
+ - date_published: 2024-12-15T12:16:25.479584+00:00
+
+ ## radiouniversitaria967
+ - [https://fmuniversitaria967.ufpi.edu.br](https://fmuniversitaria967.ufpi.edu.br)
+ - date_published: 2024-12-15T12:16:39.230313+00:00
+
+ ## UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri
+ - [http://www.ufvjm.edu.br](http://www.ufvjm.edu.br)
+ - date_published: 2024-07-13T18:13:21+00:00
+
+ ## Faculdade em São Paulo: veja os cursos presenciais | UNICID
+ - [https://www.unicid.edu.br](https://www.unicid.edu.br)
+ - date_published: 2024-10-28T23:34:13.540293+00:00
+
+ ## Unifeob EAD
+ - [https://inscricaoead.unifeob.edu.br](https://inscricaoead.unifeob.edu.br)
+ - date_published: 2024-10-11T11:39:17.371257+00:00
+
+ ## Pós-Graduação On-line - UNIFEOB
+ - [https://landing.unifeob.edu.br](https://landing.unifeob.edu.br)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Login
+ - [https://novaintranet.unifeob.edu.br](https://novaintranet.unifeob.edu.br)
+ - date_published: 2024-10-11T11:38:48.394746+00:00
+
+ ## UNIFEOB - Centro Universitário Fundação de Ensino Octávio Bastos
+ - [https://unifeob.edu.br](https://unifeob.edu.br)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Vestibular Unifeob – Graduação
+ - [https://vestibular.unifeob.edu.br](https://vestibular.unifeob.edu.br)
+ - date_published: 2024-10-11T11:42:19.427802+00:00
+
+ ## Simbia - UNIFEOB
+ - [https://www.simbia.unifeob.edu.br](https://www.simbia.unifeob.edu.br)
+ - date_published: 2024-10-11T11:40:06.393559+00:00
+
+ ## Home
+ - [https://madp.unijui.edu.br](https://madp.unijui.edu.br)
+ - date_published: 2024-10-11T12:20:16.895528+00:00
+
+ ## Prof
+ - [http://bioserver.cpgei.ct.utfpr.edu.br](http://bioserver.cpgei.ct.utfpr.edu.br)
+ - date_published: 2020-04-26T20:42:06+00:00
+
+ ## Prof. Caetano
+ - [http://www.caetano.eng.br](http://www.caetano.eng.br)
+ - date_published: 2024-07-08T08:33:45.032131+00:00
+
+ ## Eduardo Maçan - We stand here exposing ourselves. We are showroom dummies!
+ - [https://eduardo.macan.eng.br](https://eduardo.macan.eng.br)
+ - date_published: 2024-07-09T07:56:32.754284+00:00
+
+ ## Thadeu Lima de Souza Cascardo
+ - [https://cascardo.eti.br](https://cascardo.eti.br)
+ - date_published: 2019-10-31T22:08:13+00:00
+
+ ## Atividades Escolares e Jogos Educativos: Palavras Cruzadas, Caça Palavras, Sudoku, Jogo da Memória, Passatempos, Atividades para Imprimir, Labirinto, Jogo dos 7 Erros, Quebra Cabeça, Desenhos para Colorir, Folhas Para Aprender Desenhar, Quiz Interativo.
+ - [https://www.sol.eti.br](https://www.sol.eti.br)
+ - date_published: 2022-03-26T18:09:40+00:00
+
+ ## GOV.BR
+ - [https://gov.br](https://gov.br)
+ - date_published: 2023-12-11T19:33:23.992575+00:00
+ - tags: ['government']
+
+ ## Cadastro do AcessoGovBr
+ - [https://cadastro.acesso.gov.br](https://cadastro.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:20+00:00
+
+ ## Acesso GovBR
+ - [https://contas.acesso.gov.br](https://contas.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:08+00:00
+
+ ## Empresas gov.br
+ - [https://empresas.acesso.gov.br](https://empresas.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:07+00:00
+
+ ## Portal Logado
+ - [https://servicos.acesso.gov.br](https://servicos.acesso.gov.br)
+ - date_published: 2024-01-04T17:39:50+00:00
+
+ ## Portal Logado
+ - [https://sso.acesso.gov.br](https://sso.acesso.gov.br)
+ - date_published: 2024-01-04T17:39:50+00:00
+
+ ## Home
+ - [http://acessoainformacao.gov.br](http://acessoainformacao.gov.br)
+ - date_published: 2024-07-20T11:20:25.505697+00:00
+
+ ## Banco Central do Brasil
+ - [https://bcb.gov.br](https://bcb.gov.br)
+ - date_published: 2024-05-12T04:09:19.217035+00:00
+
+ ## Banco Central do Brasil
+ - [https://cdn-www.bcb.gov.br](https://cdn-www.bcb.gov.br)
+ - date_published: 2024-07-09T21:25:25+00:00
+
+ ## Barra Brasil
+ - [http://barra.brasil.gov.br](http://barra.brasil.gov.br)
+ - date_published: 2023-12-07T13:59:42+00:00
+
+ ## GOV.BR
+ - [http://brasil.gov.br](http://brasil.gov.br)
+ - date_published: 2024-07-11T21:36:28.910171+00:00
+
+ ## CAIXA
+ - [http://www.caixa.gov.br](http://www.caixa.gov.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## CAPES 70 anos
+ - [https://70anos.capes.gov.br](https://70anos.capes.gov.br)
+ - date_published: 2021-10-08T14:02:24+00:00
+
+ ## CAPES 72 anos
+ - [https://72anos.capes.gov.br](https://72anos.capes.gov.br)
+ - date_published: 2023-07-27T21:23:34+00:00
+
+ ## CAPES - Catálogo de Atos Administrativos
+ - [http://cad.capes.gov.br](http://cad.capes.gov.br)
+ - date_published: 2023-08-17T01:00:08+00:00
+
+ ## CAPES
+ - [https://capes.gov.br](https://capes.gov.br)
+ - date_published: 2024-05-11T08:09:05.282834+00:00
+
+ ## Catálogo de Teses & Dissertações - CAPES
+ - [https://catalogodeteses.capes.gov.br](https://catalogodeteses.capes.gov.br)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Portal eduCapes:Inicio
+ - [https://educapes.capes.gov.br](https://educapes.capes.gov.br)
+ - date_published: 2024-07-13T18:16:46.473581+00:00
+
+ ## Plataforma Freire
+ - [https://freire.capes.gov.br](https://freire.capes.gov.br)
+ - date_published: 2024-07-12T20:37:56+00:00
+
+ ## GEOCAPES
+ - [https://geocapes.capes.gov.br](https://geocapes.capes.gov.br)
+ - date_published: 2023-10-17T19:08:16+00:00
+
+ ## Declaração de Rendimentos
+ - [https://informerendimentos.capes.gov.br](https://informerendimentos.capes.gov.br)
+ - date_published: 2024-07-13T18:17:34.875432+00:00
+
+ ## Revista Brasileira de Pós-Graduação
+ - [https://rbpg.capes.gov.br](https://rbpg.capes.gov.br)
+ - date_published: 2024-07-13T18:17:09.761963+00:00
+
+ ## Plataforma Sucupira
+ - [https://sucupira.capes.gov.br](https://sucupira.capes.gov.br)
+ - date_published: 2024-07-13T18:16:50.909184+00:00
+
+ ## Portal .periodicos. CAPES - Portal .periodicos. CAPES
+ - [https://www.periodicos.capes.gov.br](https://www.periodicos.capes.gov.br)
+ - date_published: 2024-07-07T06:41:55+00:00
+
+ ## Central de Painéis
+ - [https://centralpaineis.cgu.gov.br](https://centralpaineis.cgu.gov.br)
+ - date_published: 2023-10-29T14:11:31+00:00
+
+ ## e-Agendas - Sistema Eletrônico de Agendas do Poder Executivo Federal
+ - [https://eagendas.cgu.gov.br](https://eagendas.cgu.gov.br)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
+ - [https://falabr.cgu.gov.br](https://falabr.cgu.gov.br)
+ - date_published: 2024-05-10T03:45:31.683367+00:00
+
+ ## Entrar :: Contratos.gov.br
+ - [https://contratos.comprasnet.gov.br](https://contratos.comprasnet.gov.br)
+ - date_published: 2024-07-11T21:36:13.000481+00:00
+
+ ## Página Inicial
+ - [http://www.cvm.gov.br](http://www.cvm.gov.br)
+ - date_published: 2024-09-29T20:21:08.136660+00:00
+
+ ## Soluções digitais para governo e cidadão
+ - [https://www.dataprev.gov.br](https://www.dataprev.gov.br)
+ - date_published: 2024-07-13T00:09:20+00:00
+
+ ## Página inicial | EBSERH
+ - [https://moodle.ebserh.gov.br](https://moodle.ebserh.gov.br)
+ - date_published: 2024-10-11T11:03:52+00:00
+
+ ## Painel de Compras
+ - [https://paineldecompras.economia.gov.br](https://paineldecompras.economia.gov.br)
+ - date_published: 2024-05-10T03:46:31.262882+00:00
+
+ ## Portal Receita
+ - [http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br)
+ - date_published: 2024-07-13T18:19:00.300997+00:00
+
+ ## Finep - Início
+ - [http://www.finep.gov.br](http://www.finep.gov.br)
+ - date_published: 2024-05-11T08:08:50.663796+00:00
+
+ ## Padrões Web em Governo Eletrônico e-PWG - Cartilha de Usabilidade
+ - [http://epwg.governoeletronico.gov.br](http://epwg.governoeletronico.gov.br)
+ - date_published: 2022-05-31T19:04:57+00:00
+
+ ## Página Inicial | Memória IBGE
+ - [https://memoria.ibge.gov.br](https://memoria.ibge.gov.br)
+ - date_published: 2024-12-23T21:34:16+00:00
+
+ ## Clima e Tempo
+ - [http://www.inmet.gov.br](http://www.inmet.gov.br)
+ - date_published: 2024-07-13T18:19:04.239906+00:00
+
+ ## MJSP
+ - [https://www.justica.gov.br](https://www.justica.gov.br)
+ - date_published: 2024-06-27T05:59:17.125020+00:00
+
+ ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
+ - [http://sistema.ouvidorias.gov.br](http://sistema.ouvidorias.gov.br)
+ - date_published: 2024-07-15T14:39:38+00:00
+
  ## Verificação de segurança
  - [https://prefeitura.pbh.gov.br](https://prefeitura.pbh.gov.br)
  - date_published: 2024-07-13T00:00:00+00:00
@@ -2399,6 +2720,10 @@
  - [https://www.alfaromeo.ca](https://www.alfaromeo.ca)
  - date_published: 2024-06-19T08:57:54.229225+00:00
 
+ ## Home | Algonquin Highlands
+ - [https://www.algonquinhighlands.ca](https://www.algonquinhighlands.ca)
+ - date_published: 2024-12-23T05:26:21.125473+00:00
+
  ## Alien Tape - Instantly Locks Anything Into Place Without Screws, Anchors or Adhesive!
  - [https://www.alientape.ca](https://www.alientape.ca)
  - date_published: 2024-06-23T06:10:35.704872+00:00
@@ -3692,330 +4017,4 @@
  ## Home - University of Calgary Bookstore
  - [https://calgarybookstore.ca](https://calgarybookstore.ca)
  - date_published: 2024-04-30T05:19:03.329840+00:00
-
- ## Callysto – Building Tomorrows Digital Leaders
- - [https://callysto.ca](https://callysto.ca)
- - date_published: 2024-06-30T08:29:52.284676+00:00
-
- ## Calotte
- - [https://calotte.ca](https://calotte.ca)
- - date_published: 2024-08-07T20:02:28+00:00
-
- ## Cambridge Ontario Hotel | Hotels in Cambridge Ontario | Cambridge Hotel and Conference Centre
- - [https://www.cambridgehotel.ca](https://www.cambridgehotel.ca)
- - date_published: 2024-12-16T12:59:02.433917+00:00
-
- ## Cam Champ
- - [https://camchamp.ca](https://camchamp.ca)
- - date_published: 2023-03-16T00:00:00+00:00
-
- ## The Centre for Addiction and Mental Health
- - [https://camh.ca](https://camh.ca)
- - date_published: 2023-12-11T10:52:06.321718+00:00
-
- ## Support CAMH
- - [https://give.camh.ca](https://give.camh.ca)
- - date_published: 2024-05-10T04:57:08.647789+00:00
-
- ## CAMH: Centre for Addiction & Mental Health--
- - [https://www.camhx.ca](https://www.camhx.ca)
- - date_published: 2012-05-17T00:00:00+00:00
-
- ## Home
- - [https://www.campaigncanada.ca](https://www.campaigncanada.ca)
- - date_published: 2023-11-16T00:00:00+00:00
-
- ## University of Alberta Single Sign On
- - [https://alberta.campuslabs.ca](https://alberta.campuslabs.ca)
- - date_published: 2024-08-06T17:19:02.779519+00:00
-
- ## York University - Shibboleth - Loading Session Information
- - [https://yorku.campuslabs.ca](https://yorku.campuslabs.ca)
- - date_published: 2024-05-09T06:47:33.598625+00:00
-
- ## Language selection - Agriculture and Agri-Food Canada / Sélection de la langue - Agriculture et Agroalimentaire Canada
- - [https://agriculture.canada.ca](https://agriculture.canada.ca)
- - date_published: 2024-10-15T06:45:25.230518+00:00
-
- ## GC Articles
- - [https://articles.alpha.canada.ca](https://articles.alpha.canada.ca)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Canada.ca
- - [https://canada.ca](https://canada.ca)
- - date_published: 2024-07-13T12:53:54+00:00
- - tags: ['government', 'canada']
-
- ## Home - GC Design System
- - [https://design-system.alpha.canada.ca](https://design-system.alpha.canada.ca)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Products - Canadian Digital Service
- - [https://digital.canada.ca](https://digital.canada.ca)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Language selection - Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) / Sélection de la langue - Centre d'analyse des opérations et déclarations financières du Canada (CANAFE)
- - [https://fintrac-canafe.canada.ca](https://fintrac-canafe.canada.ca)
- - date_published: 2022-02-05T00:00:00+00:00
-
- ## Health Infobase - Health data in Canada - Canada.ca
- - [https://health-infobase.canada.ca](https://health-infobase.canada.ca)
- - date_published: 2024-05-11T08:23:31.778833+00:00
-
- ## Homepage | Impact Canada
- - [https://impact.canada.ca](https://impact.canada.ca)
- - date_published: 2024-07-15T07:31:46.816442+00:00
-
- ## Language selection - Innovation, Science and Economic Development Canada Main Site / Sélection de la langue - Site principal d'Innovation, Sciences et Développement économique Canada
- - [https://ised-isde.canada.ca](https://ised-isde.canada.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## GC Notify | Notification GC
- - [https://notification.canada.ca](https://notification.canada.ca)
- - date_published: 2024-07-10T05:34:00.372106+00:00
-
- ## Home - National Research Council Canada
- - [https://nrc.canada.ca](https://nrc.canada.ca)
- - date_published: 2024-07-01T16:00:37+00:00
-
- ## Produits - Service numérique canadien
- - [https://numerique.canada.ca](https://numerique.canada.ca)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Open Government​ | Open Government - Government of Canada
- - [http://open.canada.ca](http://open.canada.ca)
- - date_published: 2024-10-25T12:38:09+00:00
-
- ## Parcs Canada
- - [https://parcs.canada.ca](https://parcs.canada.ca)
- - date_published: 2024-10-27T23:48:03.334666+00:00
-
- ## Parks Canada
- - [https://parks.canada.ca](https://parks.canada.ca)
- - date_published: 2024-06-21T09:43:27.846233+00:00
-
- ## Recalls and Safety Alerts / Rappels et avis de securité
- - [https://recalls-rappels.canada.ca](https://recalls-rappels.canada.ca)
- - date_published: 2024-07-07T09:45:52.121727+00:00
-
- ## Infobase Santé - Données sur la santé au Canada - Canada.ca
- - [https://sante-infobase.canada.ca](https://sante-infobase.canada.ca)
- - date_published: 2024-01-22T12:12:25+00:00
-
- ## Accueil - Système de design GC
- - [https://systeme-design.alpha.canada.ca](https://systeme-design.alpha.canada.ca)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Transport Canada / Transports Canada
- - [https://tc.canada.ca](https://tc.canada.ca)
- - date_published: 2024-01-31T13:48:29+00:00
-
- ## Canada.ca
- - [https://www1.canada.ca](https://www1.canada.ca)
- - date_published: 2024-10-27T21:06:57+00:00
-
- ## Canada Blockchain Consortium
- - [https://www.canadablockchain.ca](https://www.canadablockchain.ca)
- - date_published: 2024-06-16T02:52:13+00:00
-
- ## Canada Council for the Arts
- - [https://canadacouncil.ca](https://canadacouncil.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Mailing and shipping for Personal and Business
- - [https://www.canadapost.ca](https://www.canadapost.ca)
- - date_published: 2024-07-21T09:56:51.630913+00:00
-
- ## Mailing and shipping for Personal and Business
- - [https://www.canadapost-postescanada.ca](https://www.canadapost-postescanada.ca)
- - date_published: 2024-10-23T04:47:08.708351+00:00
-
- ## Canadian Parliamentary Historical Resources
- - [http://parl.canadiana.ca](http://parl.canadiana.ca)
- - date_published: 2024-07-10T05:30:25.698289+00:00
-
- ## 🥇Best Casinos in Canada - Top Rated Casinos in [year] 🥇
- - [https://www.canadiancasinos.ca](https://www.canadiancasinos.ca)
- - date_published: 2024-07-17T04:34:35.227255+00:00
-
- ## Canadian Geographic Magazine
- - [https://canadiangeographic.ca](https://canadiangeographic.ca)
- - date_published: 2024-07-21T08:13:24+00:00
-
- ## Attention Required! | Cloudflare
- - [https://corp.canadiantire.ca](https://corp.canadiantire.ca)
- - date_published: 2024-06-19T09:55:41.264802+00:00
-
- ## Shop Canada’s Top Department Store Online & at 500+ Locations
- - [https://www.canadiantire.ca](https://www.canadiantire.ca)
- - date_published: 2024-06-23T04:07:29+00:00
-
- ## The Canadian Toy Association
- - [https://canadiantoyassociation.ca](https://canadiantoyassociation.ca)
- - date_published: 2024-12-12T09:27:14.047672+00:00
-
- ## Canadian Typography Archives
- - [https://www.canadiantypography.ca](https://www.canadiantypography.ca)
- - date_published: 2024-09-05T11:28:25.852197+00:00
-
- ## Canadian Youth STEM Conference
- - [https://www.canadianyouthstem.ca](https://www.canadianyouthstem.ca)
- - date_published: 2024-08-09T03:53:58.821324+00:00
-
- ## CanCred Factory
- - [https://factory.cancred.ca](https://factory.cancred.ca)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## National Canadian Film Day
- - [https://canfilmday.ca](https://canfilmday.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## CanGames – Friendly Mayhem Since 1977
- - [http://www.cangames.ca](http://www.cangames.ca)
- - date_published: 2024-12-13T03:16:24.500483+00:00
-
- ## Canadian Legal Information Institute | CanLII
- - [https://canlii.ca](https://canlii.ca)
- - date_published: 2024-10-22T21:50:36.074935+00:00
-
- ## #1 Online Casino Guide in Canada - Best Gaming Experience!
- - [http://jam.canoe.ca](http://jam.canoe.ca)
- - date_published: 2024-10-31T23:04:24.202858+00:00
-
- ## #1 Online Casino Guide in Canada - Best Gaming Experience!
- - [http://www.canoe.ca](http://www.canoe.ca)
- - date_published: 2024-12-15T20:36:51.765601+00:00
-
- ## CanSpace - Canada's Best Web Hosting and Domain Name Provider
- - [https://www.canspace.ca](https://www.canspace.ca)
- - date_published: 2024-07-14T08:03:00.352877+00:00
-
- ## CAPIC - ACCPI
- - [https://www.capic.ca](https://www.capic.ca)
- - date_published: 2024-09-28T21:36:37.703238+00:00
-
- ## London Ontario Web Design & Web Hosting - Capitol Technologies
- - [http://captech.ca](http://captech.ca)
- - date_published: 2017-04-11T21:14:10+00:00
-
- ## Find Software
- - [https://capterra.ca](https://capterra.ca)
- - date_published: 2024-06-13T06:42:11.073248+00:00
-
- ## Capterra Canada vous aide à trouver le bon logiciel pour votre entreprise
- - [https://fr.capterra.ca](https://fr.capterra.ca)
- - date_published: 2024-07-20T19:26:39.650905+00:00
-
- ## Billetterie - Football 2024 - Carabins
- - [http://carabinsfootball.ca](http://carabinsfootball.ca)
- - date_published: 2024-08-06T17:05:13+00:00
-
- ## Imagination Toward a Thriving Society | Cardus
- - [https://www.cardus.ca](https://www.cardus.ca)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Dr. Carin Bondar - Biologist with a Twist
- - [https://carinbondar.ca](https://carinbondar.ca)
- - date_published: 2024-10-19T06:26:22.302932+00:00
-
- ## Home - Canadian Association of Research Libraries
- - [https://www.carl-abrc.ca](https://www.carl-abrc.ca)
- - date_published: 2024-10-22T21:49:47.733594+00:00
-
- ## Carleton 360
- - [https://360.carleton.ca](https://360.carleton.ca)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Undergraduate Admissions - Carleton University
- - [https://admissions.carleton.ca](https://admissions.carleton.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Carleton Alumni | Carleton University
- - [https://alumni.carleton.ca](https://alumni.carleton.ca)
- - date_published: 2024-07-08T16:37:07.342967+00:00
-
- ## Carleton Athletics | Carleton University
- - [https://athletics.carleton.ca](https://athletics.carleton.ca)
- - date_published: 2024-07-08T16:36:58.908517+00:00
-
- ## Sign In
- - [https://brightspace.carleton.ca](https://brightspace.carleton.ca)
- - date_published: 2024-07-08T16:37:14.924044+00:00
-
- ## Calendars < Carleton University
- - [https://calendar.carleton.ca](https://calendar.carleton.ca)
- - date_published: 2024-06-07T20:10:37+00:00
-
- ## Carleton University
- - [https://carleton.ca](https://carleton.ca)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Dining Services | Carleton University
- - [https://dining.carleton.ca](https://dining.carleton.ca)
- - date_published: 2024-07-08T16:37:03.593692+00:00
-
- ## Events Calendar - Carleton University
- - [https://events.carleton.ca](https://events.carleton.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Carleton FutureFunder
- - [https://futurefunder.carleton.ca](https://futurefunder.carleton.ca)
- - date_published: 2024-07-08T16:37:19.054705+00:00
-
- ## Current Grad Students | Carleton University
- - [https://gradstudents.carleton.ca](https://gradstudents.carleton.ca)
- - date_published: 2024-07-08T16:37:23.287082+00:00
-
- ## Graduate Admissions | Carleton University
- - [https://graduate.carleton.ca](https://graduate.carleton.ca)
- - date_published: 2024-07-08T16:37:26.661515+00:00
-
- ## HotSoft: Software as Interactive Media at Carleton University
- - [http://hotsoft.carleton.ca](http://hotsoft.carleton.ca)
- - date_published: 2024-06-23T20:38:14.826096+00:00
-
- ## Housing and Residence Life Services - Carleton University
- - [https://housing.carleton.ca](https://housing.carleton.ca)
- - date_published: 2024-07-08T16:36:55.808723+00:00
-
- ## Hub for Good - Carleton University
- - [https://hubforgood.carleton.ca](https://hubforgood.carleton.ca)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Sign In
- - [https://i.carleton.ca](https://i.carleton.ca)
- - date_published: 2024-07-08T16:37:12.748153+00:00
-
- ## MacOdrum Library | Carleton University
- - [https://library.carleton.ca](https://library.carleton.ca)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Carleton Newsroom | Carleton University
- - [https://newsroom.carleton.ca](https://newsroom.carleton.ca)
- - date_published: 2024-07-08T16:37:01.121040+00:00
-
- ## Research – Carleton University
- - [https://research.carleton.ca](https://research.carleton.ca)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Current Students - Carleton University : Current Students
- - [https://students.carleton.ca](https://students.carleton.ca)
- - date_published: 2024-07-08T16:36:53.357835+00:00
-
- ## Carleton Computer Security Lab (CCSL)
- - [https://www.ccsl.carleton.ca](https://www.ccsl.carleton.ca)
- - date_published: 2023-05-31T02:29:08+00:00
-
- ## Chris Carlier
- - [https://carlier.ca](https://carlier.ca)
- - date_published: 2023-12-28T18:49:41.221395+00:00
- - tags: ['personal']
-
- ## Carlo Franco
- - [http://www.carlofranco.ca](http://www.carlofranco.ca)
- - date_published: 2014-03-26T00:00:00+00:00
-
- ## Carson Brown
- - [https://carsonbrown.ca](https://carsonbrown.ca)
- - date_published: 2024-08-07T20:03:44.004535+00:00
 

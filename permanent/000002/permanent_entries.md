@@ -1,3 +1,39 @@
+ ## Horizon3.ai Docs
+ - [https://docs.horizon3.ai](https://docs.horizon3.ai)
+ - date_published: 2024-07-03T14:46:53+00:00
+
+ ## Home – Horizon3.ai
+ - [https://horizon3.ai](https://horizon3.ai)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Horizon3.ai
+ - [https://partners.horizon3.ai](https://partners.horizon3.ai)
+ - date_published: 2024-07-09T17:58:00.174430+00:00
+
+ ## Trust Center
+ - [https://trust.horizon3.ai](https://trust.horizon3.ai)
+ - date_published: 2024-07-09T17:58:04.487842+00:00
+
+ ## Free Daily Horoscopes By The AI Astrologer | Horoscope AI
+ - [https://horoscope.ai](https://horoscope.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Hotpot.ai: AI image generator, AI headshots, and other AI tools to spark creativity and productivity
+ - [https://hotpot.ai](https://hotpot.ai)
+ - date_published: 2024-06-19T18:47:59.188892+00:00
+
+ ## Stop PII Data Leaks at the Source and Automate Data Mapping - HoundDog.ai
+ - [https://hounddog.ai](https://hounddog.ai)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## HourOne: Gen-AI Video Foundry
+ - [https://foundry.hourone.ai](https://foundry.hourone.ai)
+ - date_published: 2024-05-12T15:38:20+00:00
+
+ ## Help Center
+ - [https://helpcenter.hourone.ai](https://helpcenter.hourone.ai)
+ - date_published: 2024-10-25T08:18:44+00:00
+
  ## Gen AI Video: Creating Content Workflows for Enterprise Growth - Hour One
  - [https://hourone.ai](https://hourone.ai)
  - date_published: 2024-06-05T00:00:00+00:00
@@ -2216,6 +2252,10 @@
  - [https://mender.ai](https://mender.ai)
  - date_published: 2024-05-26T21:51:17+00:00
 
+ ## Mendit.AI Homepage
+ - [https://mendit.ai](https://mendit.ai)
+ - date_published: 2024-12-23T04:49:21.420286+00:00
+
  ## Mentat | Blog
  - [https://blog.mentat.ai](https://blog.mentat.ai)
  - date_published: 2023-11-09T13:45:29.329129+00:00
@@ -2695,6 +2735,10 @@
  ## mylogo.ai - AI Logo Designer
  - [https://mylogo.ai](https://mylogo.ai)
  - date_published: 2024-08-19T12:00:07.742885+00:00
+
+ ## Myloves.ai: Chat & Create Your Romantic AI Companion
+ - [https://myloves.ai](https://myloves.ai)
+ - date_published: 2024-12-23T10:57:45+00:00
 
  ## Mapping Ideas That Change the World
  - [https://www.mymap.ai](https://www.mymap.ai)
@@ -3977,48 +4021,4 @@
  ## The Anchor
  - [https://anchor.placer.ai](https://anchor.placer.ai)
  - date_published: 2024-12-12T17:30:20+00:00
-
- ## Placer Discover | Grocery Virtual Event
- - [https://discover.placer.ai](https://discover.placer.ai)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Placer
- - [https://embedded-widget.placer.ai](https://embedded-widget.placer.ai)
- - date_published: 2024-12-12T10:38:29+00:00
-
- ## Location Intelligence & Foot Traffic Data Software – Placer.ai
- - [https://placer.ai](https://placer.ai)
- - date_published: 2024-10-31T12:21:55+00:00
-
- ## Customer Footfall Analysis & Insights | PlaceSense
- - [https://placesense.ai](https://placesense.ai)
- - date_published: 2024-05-06T17:30:53.379384+00:00
-
- ## Plandex - AI programming engine
- - [https://plandex.ai](https://plandex.ai)
- - date_published: 2024-04-03T19:49:14.844485+00:00
-
- ## Plask Motion: AI-powered Mocap
- - [https://motion.plask.ai](https://motion.plask.ai)
- - date_published: 2024-10-30T17:13:14.926532+00:00
-
- ## Plask Motion: AI-powered Mocap
- - [https://plask.ai](https://plask.ai)
- - date_published: 2024-06-19T20:36:56.019109+00:00
-
- ## Plastic Labs
- - [https://plasticlabs.ai](https://plasticlabs.ai)
- - date_published: 2024-09-14T08:01:48.612374+00:00
-
- ## Plato
- - [https://platoeducation.ai](https://platoeducation.ai)
- - date_published: 2023-04-02T01:27:48+00:00
-
- ## PLAUD NOTE: ChatGPT Empowered AI Voice Recorder | PLAUD
- - [https://www.plaud.ai](https://www.plaud.ai)
- - date_published: 2024-08-06T19:31:02.602197+00:00
-
- ## PlayAI
- - [https://play.ai](https://play.ai)
- - date_published: 2024-08-06T05:41:38.629250+00:00
 

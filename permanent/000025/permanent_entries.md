@@ -1,3 +1,422 @@
+ ## Magic Heidi: Swiss invoicing made easy
+ - [https://magicheidi.ch](https://magicheidi.ch)
+ - date_published: 2024-10-30T12:11:12.595644+00:00
+
+ ## Magma Branding – Mehr Kraft für Ihre Marke – Konzept & Design
+ - [https://www.magma-branding.ch](https://www.magma-branding.ch)
+ - date_published: 2024-08-18T11:59:59.699623+00:00
+
+ ## mailweaver
+ - [https://mailweaver.ch](https://mailweaver.ch)
+ - date_published: 2024-09-26T14:31:24.614439+00:00
+
+ ## La Maison de la Bible Suisse - votre librairie chrétienne
+ - [https://maisonbible.ch](https://maisonbible.ch)
+ - date_published: 2024-07-08T12:20:33.948866+00:00
+
+ ## Home FR | À venir maison emilie
+ - [https://maisonemilie.ch](https://maisonemilie.ch)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Maison Shift
+ - [https://maisonshift.ch](https://maisonshift.ch)
+ - date_published: 2024-05-06T18:10:50.760547+00:00
+
+ ## MAMCO Genève
+ - [https://mamco.ch](https://mamco.ch)
+ - date_published: 2024-05-07T12:51:47.788635+00:00
+
+ ## Manido Studios  / Branding & Immobilien - marketing Agentur / Zurich
+ - [http://manido.ch](http://manido.ch)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Marcus Fischer
+ - [https://mapmap.ch](https://mapmap.ch)
+ - date_published: 2024-06-22T07:01:51.192608+00:00
+
+ ## Home
+ - [https://marcelhauri.ch](https://marcelhauri.ch)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Marcel Waldvogel
+ - [https://marcel-waldvogel.ch](https://marcel-waldvogel.ch)
+ - date_published: 2024-06-23T17:15:18.050079+00:00
+
+ ## Mario Winkler Company
+ - [http://mariowinkler.ch](http://mariowinkler.ch)
+ - date_published: 2019-05-13T21:33:52+00:00
+
+ ## Marketplus
+ - [http://www.marketplus.ch](http://www.marketplus.ch)
+ - date_published: 2024-09-25T10:23:05.823270+00:00
+
+ ## Markus Mächler
+ - [http://markusmaechler.ch](http://markusmaechler.ch)
+ - date_published: 2023-09-09T09:48:50+00:00
+
+ ## Markustinner – Design, Music, Plugins
+ - [http://www.markustinner.ch](http://www.markustinner.ch)
+ - date_published: 2024-06-24T05:18:18.170323+00:00
+
+ ## Marlen Büchi — Visuelle Kommunikation
+ - [http://marlenbuechi.ch](http://marlenbuechi.ch)
+ - date_published: 2021-08-16T06:27:43+00:00
+
+ ## Martin Grandjean | Digital humanities, Data visualization, Network analysis
+ - [http://www.martingrandjean.ch](http://www.martingrandjean.ch)
+ - date_published: 2024-07-14T13:14:53.500810+00:00
+
+ ## Methods & Tools Editor Blog
+ - [http://blog.martinig.ch](http://blog.martinig.ch)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Martinig & Associates | Home
+ - [https://www.martinig.ch](https://www.martinig.ch)
+ - date_published: 2024-06-23T06:48:02.342865+00:00
+
+ ## WORK - Martin Panchaud
+ - [https://martinpanchaud.ch](https://martinpanchaud.ch)
+ - date_published: 2023-03-09T00:00:00+00:00
+
+ ## Martin Richi Photography
+ - [http://martinrichi.ch](http://martinrichi.ch)
+ - date_published: 2018-12-14T00:00:00+00:00
+
+ ## Maserati Schweiz – Luxus-SUVs, Sportwagen & mehr | Maserati CH
+ - [http://www.maserati.ch](http://www.maserati.ch)
+ - date_published: 2024-07-12T04:56:38+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo-com-unige.ch](https://matomo-com-unige.ch)
+ - date_published: 2024-08-06T18:39:45.459564+00:00
+
+ ## Matthew Buchanan
+ - [http://mattbu.ch](http://mattbu.ch)
+ - date_published: 2024-09-20T14:48:48.972825+00:00
+
+ ## Start - matthiaszehnder.ch
+ - [https://www.matthiaszehnder.ch](https://www.matthiaszehnder.ch)
+ - date_published: 2024-08-18T10:28:31.265480+00:00
+
+ ## Pasar Jalan Petaling
+ - [https://maurits.ch](https://maurits.ch)
+ - date_published: 2023-10-25T08:43:18.862210+00:00
+ - tags: ['personal']
+
+ ## Umami
+ - [https://umami.maurits.ch](https://umami.maurits.ch)
+ - date_published: 2024-09-05T13:59:48.696908+00:00
+
+ ## Gilbert Maystre
+ - [https://gilbert.maystre.ch](https://gilbert.maystre.ch)
+ - date_published: 2024-02-23T00:26:46+00:00
+
+ ## Mazepin-Fanpage
+ - [https://mazepin.ch](https://mazepin.ch)
+ - date_published: 2024-07-12T14:34:37+00:00
+
+ ## Home page
+ - [https://mclean.ch](https://mclean.ch)
+ - date_published: 2020-06-06T14:00:00+00:00
+
+ ## MDes Basel
+ - [http://mdesbasel.ch](http://mdesbasel.ch)
+ - date_published: 2024-07-13T14:59:48.773552+00:00
+
+ ## MDTURP | MDTURP
+ - [https://blog.mdturp.ch](https://blog.mdturp.ch)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Willkommen bei MediaMarkt Schweiz
+ - [https://www.mediamarkt.ch](https://www.mediamarkt.ch)
+ - date_published: 2024-07-13T13:39:11.250633+00:00
+
+ ## Media One Contact - 1# Régie publicitaire Radio en Suisse Romande
+ - [https://www.mediaone.ch](https://www.mediaone.ch)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Urgences Vaud by medigo - Les urgences à portée de main
+ - [https://medigo.ch](https://medigo.ch)
+ - date_published: 2024-04-30T05:59:25.869431+00:00
+
+ ## Site de rencontre suisse pour célibataires sérieux ­| Meetic
+ - [https://fr.meetic.ch](https://fr.meetic.ch)
+ - date_published: 2024-09-04T11:50:24.187260+00:00
+
+ ## Welcome in MPZ
+ - [https://meinungsplatz.ch](https://meinungsplatz.ch)
+ - date_published: 2024-06-25T22:24:35.815349+00:00
+
+ ## Unterhaltungs- & Haushaltselektronik | melectronics
+ - [https://www.melectronics.ch](https://www.melectronics.ch)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Mental Groove Records / Musique Pour La Danse
+ - [https://shop.mentalgroove.ch](https://shop.mentalgroove.ch)
+ - date_published: 2024-10-22T20:17:44.003860+00:00
+
+ ## Venir en aide aux plus démuni·e·s, sans discrimination. - Fondation Mère Sofia
+ - [https://www.meresofia.ch](https://www.meresofia.ch)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home
+ - [https://mesh.ch](https://mesh.ch)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Mesh – Festival für Kunst und Technologie – 16.–20. Oktober 2024
+ - [https://meshfestival.ch](https://meshfestival.ch)
+ - date_published: 2024-09-14T09:27:52.918437+00:00
+
+ ## Météo & Radar Suisse
+ - [https://meteoetradar.ch](https://meteoetradar.ch)
+ - date_published: 2024-05-07T12:52:58.197087+00:00
+
+ ## METOKI – Marketing, Digitalisierung, Wissensmanagement
+ - [https://www.metoki.ch](https://www.metoki.ch)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Bienvenue sur meute.ch
+ - [http://www.meute.ch](http://www.meute.ch)
+ - date_published: 2023-04-24T08:01:44+00:00
+
+ ## Massgeschneidertes Software Engineering
+ - [https://www.m-f.ch](https://www.m-f.ch)
+ - date_published: 2024-09-18T17:58:48.121310+00:00
+
+ ## Michel Egger
+ - [https://www.michelegger.ch](https://www.michelegger.ch)
+ - date_published: 2023-06-15T08:10:32+00:00
+
+ ## Michelle Gisin - Home
+ - [https://michellegisin.ch](https://michellegisin.ch)
+ - date_published: 2024-09-28T23:44:34.320999+00:00
+
+ ## Micos Engineering GmbH
+ - [http://www.micos.ch](http://www.micos.ch)
+ - date_published: 2020-05-27T12:18:46+00:00
+
+ ## Interdiscount - Der Elektronik-Shop Nr. 1
+ - [https://www.microspot.ch](https://www.microspot.ch)
+ - date_published: 2024-07-20T16:13:13.575215+00:00
+
+ ## Migros
+ - [http://www.migros.ch](http://www.migros.ch)
+ - date_published: 2024-07-02T06:48:58+00:00
+
+ ## Miler.ch – Casa d’Arte Miler
+ - [https://miler.ch](https://miler.ch)
+ - date_published: 2024-06-14T11:59:26.055050+00:00
+
+ ## Grafana
+ - [https://monitoring.minetest.ch](https://monitoring.minetest.ch)
+ - date_published: 2024-07-11T12:26:55.686879+00:00
+
+ ## minetest.ch status
+ - [https://status.minetest.ch](https://status.minetest.ch)
+ - date_published: 2024-07-11T12:26:56.803875+00:00
+
+ ## Mingye Chen
+ - [https://mingye.ch](https://mingye.ch)
+ - date_published: 2024-01-01T04:06:13+00:00
+
+ ## minimum.ch – Minimum Boulder, Bar und Restaurant in Zürich
+ - [http://minimum.ch](http://minimum.ch)
+ - date_published: 2024-07-21T02:22:51.914338+00:00
+
+ ## Salon MINT Vaud - Du 24 février au 2 mars 2025 à l’EPFL
+ - [https://mint-vaud.ch](https://mint-vaud.ch)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Accueil | Mirabilia
+ - [https://mirabilia.ch](https://mirabilia.ch)
+ - date_published: 2024-07-16T23:10:08+00:00
+
+ ## The Story U Wrote 2 Yourself
+ - [https://mirrorland.ch](https://mirrorland.ch)
+ - date_published: 2024-04-02T07:53:30+00:00
+
+ ## Die vergessenen Bücher
+ - [http://missingbooks.ch](http://missingbooks.ch)
+ - date_published: 2024-07-13T14:19:01.923192+00:00
+
+ ## Pièces auto neuves au meilleur prix | MISTER-AUTO
+ - [https://www.mister-auto.ch](https://www.mister-auto.ch)
+ - date_published: 2024-10-31T02:39:29.075166+00:00
+
+ ## Matteo's Blog
+ - [https://ml-software.ch](https://ml-software.ch)
+ - date_published: 2021-06-04T00:00:00+00:00
+
+ ## Multiplayer Online Science
+ - [http://mmos.ch](http://mmos.ch)
+ - date_published: 2021-05-18T19:51:41+00:00
+
+ ## Versicherungen & Vorsorge in der Schweiz | die Mobiliar
+ - [https://www.mobiliar.ch](https://www.mobiliar.ch)
+ - date_published: 2024-07-17T11:16:13.429024+00:00
+
+ ## Assurances & prévoyance en Suisse | la Mobilière
+ - [https://www.mobiliere.ch](https://www.mobiliere.ch)
+ - date_published: 2024-07-03T06:43:15.867385+00:00
+
+ ## Mobilunity - Anbieter von Dedizierten Entwickler-Teams
+ - [https://mobilunity.ch](https://mobilunity.ch)
+ - date_published: 0207-11-11T16:31:36+00:00
+
+ ## Molk & Jordan
+ - [https://www.molk-jordan.ch](https://www.molk-jordan.ch)
+ - date_published: 2024-08-19T22:38:03.637116+00:00
+
+ ## Moneyhouse - Handelsregister- & Wirtschaftsinformationen
+ - [https://www.moneyhouse.ch](https://www.moneyhouse.ch)
+ - date_published: 2024-06-29T08:33:14.654363+00:00
+
+ ## Jobs | Stellenangebote | Jobsuche | Jobbörse | Monster.ch
+ - [https://www.monster.ch](https://www.monster.ch)
+ - date_published: 2024-06-16T13:57:55.151097+00:00
+
+ ## Commune de Montreux - Accueil
+ - [http://www.montreux.ch](http://www.montreux.ch)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Mood/Wood — Marc Zenhäusern
+ - [https://moodwood.ch](https://moodwood.ch)
+ - date_published: 2024-06-19T16:21:00.319623+00:00
+
+ ## Welcome to Morcote - Municipality of Morcote
+ - [https://morcote.ch](https://morcote.ch)
+ - date_published: 2024-09-14T09:28:28.648268+00:00
+
+ ## Home page - Visit Morcote - Turismo
+ - [https://morcoteturismo.ch](https://morcoteturismo.ch)
+ - date_published: 2024-06-14T11:59:35.683395+00:00
+
+ ## Moulagenmuseum
+ - [http://www.moulagen.ch](http://www.moulagen.ch)
+ - date_published: 2024-06-24T09:37:48.137487+00:00
+
+ ## Mountainbytes 2024
+ - [https://mountainbytes.ch](https://mountainbytes.ch)
+ - date_published: 2024-06-03T10:20:24+00:00
+ - tags: ['retro games', 'demoscene']
+
+ ## Distributor für elektronische Bauteile - Mouser Electronics Schweiz
+ - [https://www.mouser.ch](https://www.mouser.ch)
+ - date_published: 2024-07-01T20:56:50.975666+00:00
+
+ ## Movetia
+ - [https://www.movetia.ch](https://www.movetia.ch)
+ - date_published: 2024-10-29T13:49:53.052173+00:00
+
+ ## Willkommen - MrBooker - Termine wie von selbst geplant
+ - [https://app.mrbooker.ch](https://app.mrbooker.ch)
+ - date_published: 2024-06-16T09:05:49.429341+00:00
+
+ ## iTunes2Spotify - Export your iTunes playlists to Spotify
+ - [https://itunes2spotify.mrupp.ch](https://itunes2spotify.mrupp.ch)
+ - date_published: 2023-08-06T20:27:12+00:00
+
+ ## Michael Rupp - My Projects
+ - [https://mrupp.ch](https://mrupp.ch)
+ - date_published: 2023-11-02T09:42:08.151338+00:00
+ - tags: ['personal', 'amiga']
+
+ ## SonoSaver - Backup and restore your Sonos playlists
+ - [https://sonosaver.mrupp.ch](https://sonosaver.mrupp.ch)
+ - date_published: 2023-08-06T17:38:54+00:00
+
+ ## Online Casino Schweiz legal 2024 - Exklusiver Expertenbericht🔝
+ - [http://www.musee-bizarre.ch](http://www.musee-bizarre.ch)
+ - date_published: 2023-09-17T17:55:02+00:00
+
+ ## Musée Bolo – Musée suisse de l'informatique, de la culture numérique et du jeu vidéo
+ - [https://museebolo.ch](https://museebolo.ch)
+ - date_published: 2024-05-12T07:14:08.745894+00:00
+
+ ## Musée des Grenouilles · Musée des Grenouilles
+ - [http://www.museedesgrenouilles.ch](http://www.museedesgrenouilles.ch)
+ - date_published: 2024-06-24T09:45:00.063722+00:00
+
+ ## Museum für Gestaltung Zürich
+ - [https://museum-gestaltung.ch](https://museum-gestaltung.ch)
+ - date_published: 2024-10-28T07:37:36+00:00
+
+ ## musical.ch | Experience Musicals & Shows!
+ - [https://musical.ch](https://musical.ch)
+ - date_published: 2024-05-08T04:36:27.092849+00:00
+
+ ## Musikvertrieb AG | muve recordings - Swiss indie label & distributor
+ - [https://musikvertrieb.ch](https://musikvertrieb.ch)
+ - date_published: 2024-06-14T08:11:45+00:00
+
+ ## Musikvertrieb AG | muve recordings - Swiss indie label & distributor
+ - [https://muve.ch](https://muve.ch)
+ - date_published: 2024-09-13T12:46:53+00:00
+
+ ## my20minuti.ch
+ - [https://www.my20minuti.ch](https://www.my20minuti.ch)
+ - date_published: 2024-07-15T12:25:28.704116+00:00
+
+ ## Schweizer Jugend forscht - Stay Curious
+ - [https://sjfch2.myhostpoint.ch](https://sjfch2.myhostpoint.ch)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Kunstharz eingießen - MYMEMO
+ - [http://mymemo.ch](http://mymemo.ch)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Neue Medien Zentralschweiz
+ - [https://mynmz.ch](https://mynmz.ch)
+ - date_published: 2024-09-26T09:47:31.198703+00:00
+
+ ## MySign AG. E-Commerce Automation Agentur & Softwarehaus.
+ - [https://www.mysign.ch](https://www.mysign.ch)
+ - date_published: 2024-09-28T23:44:31.097798+00:00
+
+ ## GameMaker Merchandise - Shirts Hoodies & Caps | GameMaker | Spreadshop
+ - [https://100945308.myspreadshop.ch](https://100945308.myspreadshop.ch)
+ - date_published: 2024-09-15T23:52:16.978358+00:00
+
+ ## Cults official store | Spreadshop
+ - [https://101037123.myspreadshop.ch](https://101037123.myspreadshop.ch)
+ - date_published: 2024-07-04T17:56:29.586746+00:00
+
+ ## AmigaOS Merchandising
+ - [https://amigaos.myspreadshop.ch](https://amigaos.myspreadshop.ch)
+ - date_published: 2024-07-20T13:16:25.609215+00:00
+
+ ## Mautic Community Swag Shop | Spreadshop
+ - [https://mautic-community-swag-shop.myspreadshop.ch](https://mautic-community-swag-shop.myspreadshop.ch)
+ - date_published: 2024-07-18T15:08:01.392543+00:00
+
+ ## Linux Foundation Europe Swag Store | Spreadshop
+ - [https://shop-linuxfoundation.myspreadshop.ch](https://shop-linuxfoundation.myspreadshop.ch)
+ - date_published: 2024-07-03T00:00:48.680413+00:00
+
+ ## MyTio
+ - [https://mytio.ch](https://mytio.ch)
+ - date_published: 2024-07-15T12:25:29.987375+00:00
+
+ ## University of Michigan
+ - [http://myumi.ch](http://myumi.ch)
+ - date_published: 2024-06-16T09:04:25.327128+00:00
+
+ ## MZ Type — OTR Grotesk
+ - [https://mztype.ch](https://mztype.ch)
+ - date_published: 2023-04-25T22:19:44+00:00
+
+ ## MzType
+ - [https://shop.mztype.ch](https://shop.mztype.ch)
+ - date_published: 2024-12-12T20:20:30.781296+00:00
+
+ ## nanoSPACE AG
+ - [https://www.nanospace.ch](https://www.nanospace.ch)
+ - date_published: 2021-12-28T14:18:45+00:00
+
+ ## natsha
+ - [https://natsha.ch](https://natsha.ch)
+ - date_published: 2024-06-22T15:06:17.462902+00:00
+
  ## Naturgefahrenportal des Bundes
  - [http://www.naturgefahren.ch](http://www.naturgefahren.ch)
  - date_published: 2024-10-22T08:59:34.546209+00:00
@@ -1745,6 +2164,10 @@
  ## SwissTech Convention Center
  - [https://stcc.ch](https://stcc.ch)
  - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Stefan Hürlemann
+ - [http://stefanh.ch](http://stefanh.ch)
+ - date_published: 2022-06-24T13:49:11+00:00
 
  ## Über STEG-Liquidation.ch
  - [https://www.steg-electronics.ch](https://www.steg-electronics.ch)
@@ -3595,425 +4018,4 @@ Fakultät | Universität Basel
  ## YOTAVIS | Communication Quality and Control
  - [https://yotavis.ch](https://yotavis.ch)
  - date_published: 2024-05-11T10:04:14.586444+00:00
-
- ## Wir sind yunikon. Ihr Partner für den digitalen Auftritt.
- - [https://yunikon.ch](https://yunikon.ch)
- - date_published: 2024-10-22T17:52:26.236398+00:00
-
- ## Home - LaserWeb / CNCWeb
- - [https://laserweb.yurl.ch](https://laserweb.yurl.ch)
- - date_published: 2024-08-19T08:33:58+00:00
-
- ## Commune d'Yverdon-les-Bains - Site officiel de la Commune
- - [https://www.yverdon-les-bains.ch](https://www.yverdon-les-bains.ch)
- - date_published: 2024-07-09T07:42:23.525922+00:00
-
- ## Zaa.ch - JSON formatting
- - [http://zaa.ch](http://zaa.ch)
- - date_published: 2023-08-08T15:40:11+00:00
-
- ## Zahnärztekasse AG – Honorar-Management im Outsourcing
- - [https://www.zakag.ch](https://www.zakag.ch)
- - date_published: 2024-09-27T09:30:05.007287+00:00
-
- ## Lounge by Zalando: Bis zu -75%* in deinem Online-Outlet Schweiz
- - [https://www.zalando-lounge.ch](https://www.zalando-lounge.ch)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Home — Robert Zaremba blog
- - [http://blog.zaremba.ch](http://blog.zaremba.ch)
- - date_published: 2023-07-11T08:18:24+00:00
-
- ## ZbW Zentrum für berufliche Weiterbildung, St. Gallen
- - [https://www.zbw.ch](https://www.zbw.ch)
- - date_published: 2024-07-09T15:26:17.674813+00:00
-
- ## ZefixWebApp
- - [https://www.zefix.ch](https://www.zefix.ch)
- - date_published: 2023-11-14T15:24:07+00:00
-
- ## Splashpage
- - [https://www.zeiss.ch](https://www.zeiss.ch)
- - date_published: 2024-09-16T07:56:28.123959+00:00
-
- ## Welcome to Zeltwelt
- - [https://en.zeltwelt.ch](https://en.zeltwelt.ch)
- - date_published: 2024-10-29T11:16:57.170814+00:00
-
- ## Bienvenue à Zeltwelt
- - [https://fr.zeltwelt.ch](https://fr.zeltwelt.ch)
- - date_published: 2024-10-29T11:16:52.702310+00:00
-
- ## Benvenuti Zeltwelt
- - [https://it.zeltwelt.ch](https://it.zeltwelt.ch)
- - date_published: 2024-10-29T11:16:55.626910+00:00
-
- ## Herzlich willkommen bei Zeltwelt
- - [https://zeltwelt.ch](https://zeltwelt.ch)
- - date_published: 2024-10-29T11:16:53.848012+00:00
-
- ## ZEM CES - Im Dienst der Sek II
- - [https://www.zemces.ch](https://www.zemces.ch)
- - date_published: 2024-10-29T13:50:14.124447+00:00
-
- ## Zurich Graduate School
- - [http://www.zgsm.ch](http://www.zgsm.ch)
- - date_published: 2024-06-20T13:59:31.672344+00:00
-
- ## Startseite
- - [https://blog.zhaw.ch](https://blog.zhaw.ch)
- - date_published: 2024-06-22T10:28:45.685271+00:00
-
- ## ZHAW-Impact 03/23: Digital Health
- - [https://impact.zhaw.ch](https://impact.zhaw.ch)
- - date_published: 2024-06-22T10:28:44.143158+00:00
-
- ## Home | Moodle ZHAW
- - [https://moodle.zhaw.ch](https://moodle.zhaw.ch)
- - date_published: 2024-06-22T10:28:41+00:00
-
- ## Watching the World
- - [https://webcamaze.engineering.zhaw.ch](https://webcamaze.engineering.zhaw.ch)
- - date_published: 2023-12-23T00:58:53.598471+00:00
-
- ## Willkommen an der ZHAW | ZHAW Zürcher Hochschule für Angewandte Wissenschaften
- - [https://www.zhaw.ch](https://www.zhaw.ch)
- - date_published: 2024-05-04T15:31:58.714036+00:00
-
- ## Zürcher Hochschule der Künste | ZHdK.ch
- - [https://www.zhdk.ch](https://www.zhdk.ch)
- - date_published: 2024-06-27T12:49:13.746220+00:00
-
- ## Webcast «Gewusst wie: Immobilien im dritten Lebensabschnitt»
- - [https://immobilien-pension.events.zkb.ch](https://immobilien-pension.events.zkb.ch)
- - date_published: 2024-05-24T08:59:54+00:00
-
- ## Zürcher Kantonalbank – wir sind die nahe Bank seit über 150 Jahren.
- - [https://zkb.ch](https://zkb.ch)
- - date_published: 2024-09-26T13:05:13+00:00
-
- ## ZOA CITY
- - [https://zoacity.ch](https://zoacity.ch)
- - date_published: 2024-05-08T00:39:50.937721+00:00
-
- ## Zoetis
- - [https://www2.zoetis.ch](https://www2.zoetis.ch)
- - date_published: 2024-06-27T09:52:50+00:00
-
- ## Zondax: Code. Create. Connect
- - [https://auth.zondax.ch](https://auth.zondax.ch)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Beryx: Blockchain Explorer, Dashboards, Faucet and Tools
- - [https://beryx.zondax.ch](https://beryx.zondax.ch)
- - date_published: 2024-09-21T23:55:52.456669+00:00
-
- ## Zondax Documentation | Zondax Documentation
- - [https://docs.zondax.ch](https://docs.zondax.ch)
- - date_published: 2024-09-21T23:49:15.508229+00:00
-
- ## Zondax hub: Install unreleased and released assets on your hardware wallet
- - [https://hub.zondax.ch](https://hub.zondax.ch)
- - date_published: 2024-09-21T23:56:47.256451+00:00
-
- ## Zondax: Secure Blockchain R&D Solutions
- - [https://zondax.ch](https://zondax.ch)
- - date_published: 2024-06-16T03:37:43.933481+00:00
-
- ## Support
- - [https://support.zooplus.ch](https://support.zooplus.ch)
- - date_published: 2024-09-26T11:26:07.801397+00:00
-
- ## Tierbedarf, Tierfutter, Tiernahrung günstig kaufen bei zooplus.ch
- - [https://www.zooplus.ch](https://www.zooplus.ch)
- - date_published: 2024-06-16T06:27:59.149895+00:00
-
- ## ZSIG - Zürcherische Seidenindustrie Gesellschaft
- - [https://zsig.ch](https://zsig.ch)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Agenda - Zürichsee-Zeitung
- - [https://agenda.zsz.ch](https://agenda.zsz.ch)
- - date_published: 2024-07-22T17:39:20.050511+00:00
-
- ## Zürichsee-Zeitung
- - [https://helpcenter.zsz.ch](https://helpcenter.zsz.ch)
- - date_published: 2023-07-22T05:29:56+00:00
-
- ## Die Regionalzeitung für die See-Region | Zürichsee-Zeitung
- - [https://zsz.ch](https://zsz.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Züri wie neu
- - [https://www.zueriwieneu.ch](https://www.zueriwieneu.ch)
- - date_published: 2024-12-21T23:24:18.140061+00:00
-
- ## Agenda - Zürcher Unterländer
- - [https://agenda.zuonline.ch](https://agenda.zuonline.ch)
- - date_published: 2024-07-22T17:39:06.735781+00:00
-
- ## Zürcher Unterländer
- - [https://helpcenter.zuonline.ch](https://helpcenter.zuonline.ch)
- - date_published: 2023-07-23T17:38:54+00:00
-
- ## Die Regionalzeitung aus dem Unterland | Zürcher Unterländer
- - [https://zuonline.ch](https://zuonline.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## ZÜRICH OPENAIR 2024 I August 2024 I Festival Schweiz
- - [https://www.zurichopenair.ch](https://www.zurichopenair.ch)
- - date_published: 2023-03-08T13:27:16+00:00
-
- ## Zwingliana
- - [http://www.zwingliana.ch](http://www.zwingliana.ch)
- - date_published: 2020-11-22T00:00:00+00:00
-
- ## Zxs
- - [https://zxs.ch](https://zxs.ch)
- - date_published: 2024-05-07T10:01:39.853853+00:00
-
- ## Binance Charity
- - [https://www.binance.charity](https://www.binance.charity)
- - date_published: 2024-04-18T09:37:52+00:00
-
- ## Rethink Charity
- - [https://rethink.charity](https://rethink.charity)
- - date_published: 2024-12-15T16:55:25.196395+00:00
-
- ## 3D Printing
- - [https://3dp.chat](https://3dp.chat)
- - date_published: 2024-05-08T07:14:08.812009+00:00
- - tags: ['mastodon']
-
- ## Agnaistic
- - [https://agnai.chat](https://agnai.chat)
- - date_published: 2024-06-15T03:33:12+00:00
-
- ## aider is AI pair programming in your terminal
- - [https://aider.chat](https://aider.chat)
- - date_published: 2023-11-08T00:15:40.726262+00:00
-
- ## Airchat
- - [https://air.chat](https://air.chat)
- - date_published: 2024-07-01T06:11:10.240551+00:00
-
- ## Free Whatsapp Link Generator | AlvoChat
- - [https://alvo.chat](https://alvo.chat)
- - date_published: 2024-12-15T08:47:54.115495+00:00
-
- ## Arvin AI - Best ChatGPT Chrome Extension Powered by GPT-4o
- - [https://arvin.chat](https://arvin.chat)
- - date_published: 2024-10-30T21:31:01.585092+00:00
-
- ## Ask AI Chat: Chat and Ask questions to Open Source AI
- - [https://askai.chat](https://askai.chat)
- - date_published: 2024-05-16T17:09:25+00:00
-
- ## Automatic Chat | The Most Powerful AI Chatbot for your Website
- - [https://automatic.chat](https://automatic.chat)
- - date_published: 2024-06-16T09:48:48.755190+00:00
-
- ## Beagle Chat - native Web3 Instant Messaging Platform
- - [https://beagle.chat](https://beagle.chat)
- - date_published: 2024-06-27T01:50:11+00:00
-
- ## Free NIP-05 Identifiers
- - [https://bitcoiner.chat](https://bitcoiner.chat)
- - date_published: 2024-08-18T22:04:21.344103+00:00
-
- ## Blubrry Podcasting
- - [https://blubrry.chat](https://blubrry.chat)
- - date_published: 2024-09-21T22:39:14.688348+00:00
-
- ## Resolve customer booking requests with Breezy | AI for booking platforms
- - [https://breezy.chat](https://breezy.chat)
- - date_published: 2024-10-29T07:12:45+00:00
-
- ## | Brutal
- - [http://brutal.chat](http://brutal.chat)
- - date_published: 2024-07-13T14:48:10.108218+00:00
-
- ## Feather: Notion to blog in minutes (No-Code & SEO-friendly)
- - [https://notion-cms-site.buddyai.chat](https://notion-cms-site.buddyai.chat)
- - date_published: 2024-06-21T03:07:19.936464+00:00
-
- ## cabal
- - [https://cabal.chat](https://cabal.chat)
- - date_published: 2023-12-12T00:00:00+00:00
-
- ## Cactus Comments
- - [https://cactus.chat](https://cactus.chat)
- - date_published: 2020-02-09T00:00:00+00:00
-
- ## /ipns/latest.cactus.chat/
- - [https://latest.cactus.chat](https://latest.cactus.chat)
- - date_published: 2024-05-06T06:41:52.363508+00:00
-
- ## Synapse is running
- - [https://matrix.cactus.chat](https://matrix.cactus.chat)
- - date_published: 2023-01-31T16:50:43+00:00
-
- ## Join the Ptable Discord Server!
- - [https://chem.chat](https://chem.chat)
- - date_published: 2024-07-12T23:26:41+00:00
-
- ## Coffeehouse
- - [https://coffeehouse.chat](https://coffeehouse.chat)
- - date_published: 2024-01-20T14:57:24.843286+00:00
-
- ## I created an ephemeral group chat app for strangers
- - [https://commonroom.chat](https://commonroom.chat)
- - date_published: 2023-12-28T06:29:55+00:00
-
- ## About Convos - The simplest IRC client around
- - [https://convos.chat](https://convos.chat)
- - date_published: 2024-06-19T22:22:09.570815+00:00
-
- ## About Convos - The simplest IRC client around
- - [https://demo.convos.chat](https://demo.convos.chat)
- - date_published: 2024-10-31T05:03:39.831203+00:00
-
- ## cpp.chat : home
- - [https://cpp.chat](https://cpp.chat)
- - date_published: 2022-02-11T22:29:39+00:00
-
- ## #1 Business Messaging Platform For Startups & SMBs - Crisp
- - [https://crisp.chat](https://crisp.chat)
- - date_published: 2023-08-10T07:57:27+00:00
-
- ## Crisp
- - [https://go.crisp.chat](https://go.crisp.chat)
- - date_published: 2023-08-15T09:27:17+00:00
-
- ## Crisp Helpdesk
- - [https://help.crisp.chat](https://help.crisp.chat)
- - date_published: 2024-07-02T17:14:25.189359+00:00
-
- ## Crisp Status
- - [https://status.crisp.chat](https://status.crisp.chat)
- - date_published: 2024-06-19T22:13:09.036511+00:00
-
- ## Support & Community Forum
- - [https://dcts.chat](https://dcts.chat)
- - date_published: 2024-06-22T12:49:20.443709+00:00
-
- ## Delta Chat Core C Interface: Getting started
- - [https://c.delta.chat](https://c.delta.chat)
- - date_published: 1970-01-01T00:00:01+00:00
-
- ## deltachat - Rust
- - [https://cffi.delta.chat](https://cffi.delta.chat)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Delta Chat Cosmos
- - [https://cosmos.delta.chat](https://cosmos.delta.chat)
- - date_published: 2024-04-30T06:15:34.571279+00:00
-
- ## The e-mail messenger - Delta Chat
- - [https://delta.chat](https://delta.chat)
- - date_published: 2023-10-25T12:15:02.062714+00:00
-
- ## Delta Chat: Get Delta Chat
- - [https://download.delta.chat](https://download.delta.chat)
- - date_published: 2024-08-05T12:49:44+00:00
-
- ## Delta Chat: Get Delta Chat
- - [https://get.delta.chat](https://get.delta.chat)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Message privately on Delta Chat
- - [https://i.delta.chat](https://i.delta.chat)
- - date_published: 2024-04-11T17:37:23+00:00
-
- ## Email Provider Overview
- - [https://providers.delta.chat](https://providers.delta.chat)
- - date_published: 2024-07-17T17:13:10+00:00
-
- ## Delta Chat Python bindings, new and old — Delta Chat 1.135.1 documentation
- - [https://py.delta.chat](https://py.delta.chat)
- - date_published: 1970-01-01T00:00:01+00:00
-
- ## deltachat - Rust
- - [https://rs.delta.chat](https://rs.delta.chat)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## SecureJoin: Protecting chat messaging against network adversaries — SecureJoin 0.20.0 documentation
- - [https://securejoin.delta.chat](https://securejoin.delta.chat)
- - date_published: 2023-11-30T22:40:49+00:00
-
- ## Delta.Chat
- - [https://support.delta.chat](https://support.delta.chat)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Diffusion Chat
- - [https://diffusion.chat](https://diffusion.chat)
- - date_published: 2024-10-30T07:08:14.373390+00:00
-
- ## Join the Directus Discord Server!
- - [https://directus.chat](https://directus.chat)
- - date_published: 2024-05-19T02:57:32.911356+00:00
-
- ## Ergo IRC Server
- - [https://ergo.chat](https://ergo.chat)
- - date_published: 2024-05-06T07:11:44+00:00
-
- ## FirePrep.chat
- - [https://fireprep.chat](https://fireprep.chat)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Join the Fluence Network Discord Server!
- - [https://fluence.chat](https://fluence.chat)
- - date_published: 2024-09-03T23:21:09+00:00
-
- ## For A Chat - Free Chatbots or Join Live
- - [https://fora.chat](https://fora.chat)
- - date_published: 2024-10-30T12:50:26.398703+00:00
-
- ## Mechanic For A Chat -
- - [https://mechanic.fora.chat](https://mechanic.fora.chat)
- - date_published: 2024-06-19T19:36:31.910428+00:00
-
- ## Join the Gala Discord Server!
- - [http://galagames.chat](http://galagames.chat)
- - date_published: 2024-12-14T07:22:09+00:00
-
- ## good luck have fun
- - [https://glhf.chat](https://glhf.chat)
- - date_published: 2024-07-24T03:00:00.662415+00:00
-
- ## Chattable
- - [https://iframe.chat](https://iframe.chat)
- - date_published: 2024-11-23T14:10:48+00:00
-
- ## Interviews Chat Blog | Ace Your Next Interview
- - [https://blog.interviews.chat](https://blog.interviews.chat)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Interviews Chat | Interview Prep & Copilot
- - [https://interviews.chat](https://interviews.chat)
- - date_published: 2024-06-14T08:59:29.725547+00:00
-
- ## Converse
- - [https://inverse.chat](https://inverse.chat)
- - date_published: 2024-03-15T06:43:08+00:00
-
- ## JMP Blog
- - [https://blog.jmp.chat](https://blog.jmp.chat)
- - date_published: 2024-06-27T04:09:20+00:00
-
- ## JMP.chat
- - [https://jmp.chat](https://jmp.chat)
- - date_published: 2024-05-06T22:13:08.305825+00:00
-
- ## ᐈ The best WordPress plugin for WhatsApp
- - [https://join.chat](https://join.chat)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Jupi - AI Roleplay & Fantasy Chat
- - [https://www.jupi.chat](https://www.jupi.chat)
- - date_published: 2024-09-02T10:09:12.288312+00:00
-
- ## Kaya - Free your thoughts with a personal AI.
- - [https://kaya.chat](https://kaya.chat)
- - date_published: 2024-10-12T19:13:43+00:00
 
