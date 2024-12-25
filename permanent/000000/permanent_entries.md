@@ -2111,6 +2111,10 @@
  - [https://hedengren.agency](https://hedengren.agency)
  - date_published: 2024-06-21T22:19:18.300500+00:00
 
+ ## Hexagon Agency — We create brands, websites and apps
+ - [https://hexagon.agency](https://hexagon.agency)
+ - date_published: 2024-12-24T08:24:25.191710+00:00
+
  ## Hillside Agency | Graphic Design & Websites
  - [https://www.hillside.agency](https://www.hillside.agency)
  - date_published: 2024-07-10T00:00:00+00:00
@@ -4014,8 +4018,4 @@
  ## Bunni.AI: Chat to your PDF documents - Summarise and ask questions
  - [https://bunni.ai](https://bunni.ai)
  - date_published: 2024-10-30T15:48:00.825713+00:00
-
- ## Bylo.ai: The Best Free AI Image Generator for Text to Image
- - [https://bylo.ai](https://bylo.ai)
- - date_published: 2024-12-15T06:37:08.922517+00:00
 

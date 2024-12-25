@@ -1,3 +1,161 @@
+ ## LGE – Laboratório de Genômica e Bioenergia
+ - [https://www.lge.ibi.unicamp.br](https://www.lge.ibi.unicamp.br)
+ - date_published: 2024-10-11T12:19:08.762198+00:00
+
+ ## UNIMEP - Universidade Metodista de Piracicaba —
+ - [http://unimep.br](http://unimep.br)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Portal de Identidade - UNIRIO
+ - [https://id.unirio.br](https://id.unirio.br)
+ - date_published: 2024-10-16T09:26:04.482605+00:00
+
+ ## Sign in - Google Accounts
+ - [http://mail.unirio.br](http://mail.unirio.br)
+ - date_published: 2024-10-16T09:26:00.690559+00:00
+
+ ## Portal do Aluno -
+        UNIRIO -
+        Login
+ - [https://portais.unirio.br](https://portais.unirio.br)
+ - date_published: 2024-10-16T09:25:53.643210+00:00
+
+ ## Portal de Sistemas
+ - [https://sistemas2.unirio.br](https://sistemas2.unirio.br)
+ - date_published: 2024-10-16T09:25:50.467129+00:00
+
+ ## Portal de Sistemas
+ - [https://sistemas.unirio.br](https://sistemas.unirio.br)
+ - date_published: 2024-10-16T09:25:32.848413+00:00
+
+ ## Notícias — Universidade Federal do Estado do Rio de Janeiro
+ - [https://www.unirio.br](https://www.unirio.br)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Unisinos
+ - [http://www.unisinos.br](http://www.unisinos.br)
+ - date_published: 2023-10-11T22:40:18+00:00
+
+ ## Portal
+ - [https://www.upf.br](https://www.upf.br)
+ - date_published: 2024-10-15T04:22:15+00:00
+
+ ## Grupo ATP – apoio técnico pedagógico
+ - [https://atp.usp.br](https://atp.usp.br)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Documentação dos Moodles da USP – Ajudar usuários a usar os Moodles da USP
+ - [https://docs.atp.usp.br](https://docs.atp.usp.br)
+ - date_published: 2024-06-27T16:01:30.872470+00:00
+
+ ## Moodle USP: e-Disciplinas
+ - [https://edisciplinas.usp.br](https://edisciplinas.usp.br)
+ - date_published: 2024-05-06T21:59:53.301285+00:00
+
+ ## ICMC - Instituto de Ciências Matemáticas e de Computação
+ - [https://icmc.usp.br](https://icmc.usp.br)
+ - date_published: 2024-08-07T16:59:40+00:00
+
+ ## ICST 2021
+ - [https://icst2021.icmc.usp.br](https://icst2021.icmc.usp.br)
+ - date_published: 2024-06-26T23:23:26.581121+00:00
+
+ ## – Jornal da USP –
+ - [https://jornal.usp.br](https://jornal.usp.br)
+ - date_published: 2024-10-16T19:30:54+00:00
+
+ ## Linorg
+ - [https://linorg.usp.br](https://linorg.usp.br)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Rede GNU-Linux
+ - [http://linux.ime.usp.br](http://linux.ime.usp.br)
+ - date_published: 2024-06-30T08:37:30.859874+00:00
+
+ ## NILC
+ - [http://nilc.icmc.usp.br](http://nilc.icmc.usp.br)
+ - date_published: 2024-04-28T03:36:29.997707+00:00
+
+ ## Periferia Livr@
+ - [http://periferialivre.fea.usp.br](http://periferialivre.fea.usp.br)
+ - date_published: 2024-06-16T15:34:36.090271+00:00
+
+ ## USP - Universidade de São Paulo
+ - [https://usp.br](https://usp.br)
+ - date_published: 2024-06-27T16:01:46.180359+00:00
+
+ ## USP - Universidade de São Paulo
+ - [http://www5.usp.br](http://www5.usp.br)
+ - date_published: 2024-06-23T23:13:41.523014+00:00
+
+ ## Home | FEA - USP
+ - [http://www.fea.usp.br](http://www.fea.usp.br)
+ - date_published: 2024-10-11T12:57:41+00:00
+
+ ## FFLCH | Faculdade de Filosofia, Letras e Ciências Humanas |  Universidade de São Paulo | FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS UNIVERSIDADE DE SÃO PAULO
+ - [http://www.fflch.usp.br](http://www.fflch.usp.br)
+ - date_published: 2024-07-22T09:05:44.558378+00:00
+
+ ## USP Imagens
+ - [http://www.imagens.usp.br](http://www.imagens.usp.br)
+ - date_published: 2021-06-08T19:10:05+00:00
+
+ ## HOME
+ - [http://www.ime.usp.br](http://www.ime.usp.br)
+ - date_published: 2020-10-20T12:40:07+00:00
+
+ ## Pró-Reitoria de Graduação – Universidade de São Paulo
+ - [https://www.prg.usp.br](https://www.prg.usp.br)
+ - date_published: 2024-06-27T13:16:33+00:00
+
+ ## Superintendência de Tecnologia da Informação | Universidade de São Paulo
+ - [https://www.sti.usp.br](https://www.sti.usp.br)
+ - date_published: 2024-06-27T16:01:40+00:00
+
+ ## Consórcio World Wide Web (W3C) - Capítulo São Paulo
+ - [https://www.w3c.br](https://www.w3c.br)
+ - date_published: 2023-11-09T11:04:42+00:00
+
+ ## Home - Agência de Desenvolvimento do Estado do Ceará
+ - [https://www.adece.ce.gov.br](https://www.adece.ce.gov.br)
+ - date_published: 2024-06-26T21:56:50.854703+00:00
+
+ ## 1win apostas ᐉ Como apostar dinheiro | Site oficial 1 win Brasil
+ - [https://1winc.com.br](https://1winc.com.br)
+ - date_published: 2024-09-10T13:35:27.966514+00:00
+
+ ## 20th Century Studios Brasil
+ - [https://www.20thcenturystudios.com.br](https://www.20thcenturystudios.com.br)
+ - date_published: 2024-06-16T02:24:54.111458+00:00
+
+ ## Software e Soluções de Telefonia - 3CX
+ - [https://3cx.com.br](https://3cx.com.br)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Loja 3D Lab - Impressão 3D é aqui!
+ - [https://3dlab.com.br](https://3dlab.com.br)
+ - date_published: 2024-05-11T09:35:46.693058+00:00
+
+ ## Sala de Notícias da 3M - Sala de Notícias
+ - [https://news.3m.com.br](https://news.3m.com.br)
+ - date_published: 2024-06-24T06:23:21+00:00
+
+ ## 3M Ciência. Aplicada à vida | 3M Brasil
+ - [https://www.3m.com.br](https://www.3m.com.br)
+ - date_published: 2024-08-06T10:42:14.092444+00:00
+
+ ## 80.000 Horas: Como fazer a diferença com a sua carreira
+ - [https://80000horas.com.br](https://80000horas.com.br)
+ - date_published: 2023-12-31T00:00:00+00:00
+
+ ## 91 Rock - O melhor player de rádio de rock | 91 Rock
+ - [http://91rock.com.br](http://91rock.com.br)
+ - date_published: 2024-03-23T16:45:44+00:00
+
+ ## Abate Brutal
+ - [https://abatebrutal.com.br](https://abatebrutal.com.br)
+ - date_published: 2024-03-11T00:00:00+00:00
+
  ## Software de Recrutamento e Seleção | abler
  - [https://abler.com.br](https://abler.com.br)
  - date_published: 2024-07-11T00:00:00+00:00
@@ -1070,6 +1228,10 @@
  - [http://edkf.com.br](http://edkf.com.br)
  - date_published: 2024-07-13T14:55:34.207791+00:00
 
+ ## eduK
+ - [https://www.eduk.com.br](https://www.eduk.com.br)
+ - date_published: 2024-12-24T09:04:42.552648+00:00
+
  ## EF Education First | Brasil
  - [https://www.ef.com.br](https://www.ef.com.br)
  - date_published: 2024-05-01T00:00:00+00:00
@@ -1101,6 +1263,10 @@
  ## Cursos | Emagister
  - [https://www.emagister.com.br](https://www.emagister.com.br)
  - date_published: 2024-09-11T16:03:57.231489+00:00
+
+ ## Revista de Gestão Social e Ambiental
+ - [https://rgsa.emnuvens.com.br](https://rgsa.emnuvens.com.br)
+ - date_published: 2024-12-24T09:33:16.483522+00:00
 
  ## GRUPO EP - Empresas Pioneiras
  - [https://www.empresaspioneiras.com.br](https://www.empresaspioneiras.com.br)
@@ -1626,6 +1792,10 @@
  ## Grünenthal do Brasil | Negócios Latinoamérica | Sobre nós |Grünenthal Latinoamérica
  - [http://www.grunenthal.com.br](http://www.grunenthal.com.br)
  - date_published: 2024-10-16T18:49:00.733559+00:00
+
+ ## Grupo Boticário | Bem-vindo ao futuro da beleza
+ - [https://www.grupoboticario.com.br](https://www.grupoboticario.com.br)
+ - date_published: 2024-12-24T10:41:35.441342+00:00
 
  ## Grupo CCR | 25 anos melhorando vidas com mobilidade
  - [https://www.grupoccr.com.br](https://www.grupoccr.com.br)
@@ -3489,6 +3659,10 @@
  - [https://www.trivago.com.br](https://www.trivago.com.br)
  - date_published: 2024-09-04T11:19:56.040851+00:00
 
+ ## TrustDeals.com.br - Economize com códigos de desconto, ofertas e descontos exclusivos
+ - [https://www.trustdeals.com.br](https://www.trustdeals.com.br)
+ - date_published: 2024-12-24T21:47:10.843209+00:00
+
  ## Tipografia | Tupigrafia
  - [https://www.tupigrafia.com.br](https://www.tupigrafia.com.br)
  - date_published: 2024-07-14T12:16:55.050046+00:00
@@ -3836,176 +4010,4 @@
  ## Viajar com Alê
  - [https://viajarcomale.com.br](https://viajarcomale.com.br)
  - date_published: 2024-06-15T08:39:39.759369+00:00
-
- ## Vida de autônomo
- - [https://vidadeautonomo.com.br](https://vidadeautonomo.com.br)
- - date_published: 2024-10-28T13:38:36.970576+00:00
-
- ## vidraguas.com.br
- - [http://vidraguas.com.br](http://vidraguas.com.br)
- - date_published: 2024-12-20T09:18:45.900618+00:00
-
- ## Home - Virando Bixo - Você no vestibular.
- - [https://www.virandobixo.com.br](https://www.virandobixo.com.br)
- - date_published: 2024-10-28T12:13:37+00:00
-
- ## VIRTUAL PAPER - ชุมชนสาระ SLOT
- - [http://embraer.virtualpaper.com.br](http://embraer.virtualpaper.com.br)
- - date_published: 2024-03-24T11:24:22+00:00
-
- ## Vai de Visa | Beneficios | Visa
- - [https://vaidevisa.visa.com.br](https://vaidevisa.visa.com.br)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Visa, líder confiável em pagamentos digitais
- - [https://www.visa.com.br](https://www.visa.com.br)
- - date_published: 2024-05-06T09:09:47.941693+00:00
-
- ## Homepage do VisitTheUSA.com
- - [https://www.visiteosusa.com.br](https://www.visiteosusa.com.br)
- - date_published: 2024-12-10T02:41:46+00:00
-
- ## Home - Viva Saúde
- - [https://vivasaudedigital.com.br](https://vivasaudedigital.com.br)
- - date_published: 2024-07-11T17:33:46.699214+00:00
-
- ## Viva Toscana
- - [http://www.vivatoscana.com.br](http://www.vivatoscana.com.br)
- - date_published: 2022-03-02T17:47:21+00:00
-
- ## Vivo - Site Oficial - 5G, Ultra Banda Larga, HDTV e mais
- - [https://www.vivo.com.br](https://www.vivo.com.br)
- - date_published: 2024-07-02T18:04:17.350071+00:00
-
- ## VR Editora
- - [https://www.vreditora.com.br](https://www.vreditora.com.br)
- - date_published: 2024-12-20T09:22:19.951564+00:00
-
- ## A Plataforma de Comércio Composable e Completa - Brasil
- - [http://www.vtex.com.br](http://www.vtex.com.br)
- - date_published: 2024-07-13T02:16:03+00:00
-
- ## VTEX ID Authentication
- - [https://citroenderco.vtexcommercestable.com.br](https://citroenderco.vtexcommercestable.com.br)
- - date_published: 2024-07-21T04:20:33.599630+00:00
-
- ## Fundação Vunesp | Excelência em Concursos, Vestibulares e Avaliações
- - [https://www.vunesp.com.br](https://www.vunesp.com.br)
- - date_published: 2024-07-15T07:34:12+00:00
-
- ## WarnerBros.com.br | Home de Filmes WB, TV, Games e mais!
- - [https://warnerbros.com.br](https://warnerbros.com.br)
- - date_published: 2024-05-07T11:19:31.436385+00:00
-
- ## Join the WEB3DEV Discord Server!
- - [https://discord.web3dev.com.br](https://discord.web3dev.com.br)
- - date_published: 2024-09-25T01:14:56+00:00
-
- ## Home | web3dev
- - [https://docs.web3dev.com.br](https://docs.web3dev.com.br)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## WEB3DEV
- - [https://www.web3dev.com.br](https://www.web3dev.com.br)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Webedia Brazil • Engaging Audiences with Passion
- - [http://www.webedia.com.br](http://www.webedia.com.br)
- - date_published: 2024-12-09T10:47:33+00:00
-
- ## WETCO
- - [https://wetco.com.br](https://wetco.com.br)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home - Wi Digital
- - [https://mkt.widigital.com.br](https://mkt.widigital.com.br)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home - Wi Digital
- - [https://widigital.com.br](https://widigital.com.br)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Wiki Aves - A Enciclopédia das Aves do Brasil
- - [http://www.wikiaves.com.br](http://www.wikiaves.com.br)
- - date_published: 2024-12-23T21:33:02.972222+00:00
-
- ## Wildtech Cursos e Consultoria
- - [https://wildtech.com.br](https://wildtech.com.br)
- - date_published: 2024-05-01T03:58:34.843327+00:00
-
- ## Your expert for installation material, maritime lighting and CCTV. - WISKA - make power smile
- - [https://www.wiska.com.br](https://www.wiska.com.br)
- - date_published: 2024-06-29T09:37:07.934504+00:00
-
- ## WITTENSTEIN do Brasil
- - [https://www.wittenstein.com.br](https://www.wittenstein.com.br)
- - date_published: 2024-07-15T04:10:10.777673+00:00
-
- ## Wondershare Account Center
- - [https://accounts.wondershare.com.br](https://accounts.wondershare.com.br)
- - date_published: 2024-07-13T20:35:29.277498+00:00
-
- ## DemoCreator - Editor de vídeo e gravador de tela tudo em um
- - [https://dc.wondershare.com.br](https://dc.wondershare.com.br)
- - date_published: 2024-07-13T20:35:24.450060+00:00
-
- ## Dr.Fone: soluções móveis completas® | Sua Solução Móvel Completa
- - [https://drfone.wondershare.com.br](https://drfone.wondershare.com.br)
- - date_published: 2024-07-13T20:35:33.397919+00:00
-
- ## Wondershare Filmora® | Melhor editor de vídeo fácil para você
- - [https://filmora.wondershare.com.br](https://filmora.wondershare.com.br)
- - date_published: 2024-07-13T20:29:07.226306+00:00
-
- ## [Oficial] Materiais Sem Direitos de Autor Gratuito como Efeitos de Vídeo
- - [https://filmstock.wondershare.com.br](https://filmstock.wondershare.com.br)
- - date_published: 2024-07-13T20:35:19.493892+00:00
-
- ## Wondershare PDFelement | Editor de PDF tudo-em-um
- - [https://pdf.wondershare.com.br](https://pdf.wondershare.com.br)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## [Oficial] Recoverit - Soluções de recuperação de dados para Win/Mac
- - [https://recoverit.wondershare.com.br](https://recoverit.wondershare.com.br)
- - date_published: 2024-07-13T20:35:26.672751+00:00
-
- ## Wondershare Help Center
- - [https://support.wondershare.com.br](https://support.wondershare.com.br)
- - date_published: 2024-07-13T20:35:22.329251+00:00
-
- ## Seu Conversor de Vídeo de Alta Velocidade | Wondershare UniConverter
- - [https://uniconverter.wondershare.com.br](https://uniconverter.wondershare.com.br)
- - date_published: 2024-07-13T20:35:35.742521+00:00
-
- ## Site Oficial Wondershare: Criatividade, Produtividade, Utilidade
- - [https://wondershare.com.br](https://wondershare.com.br)
- - date_published: 2024-05-11T08:34:39.990969+00:00
-
- ## Home - Worktiba
- - [http://worktiba.com.br](http://worktiba.com.br)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Top Cassinos Online Brasil | Melhores sites de casino online brasileiros junho 2024
- - [https://worldcasinoexpert.com.br](https://worldcasinoexpert.com.br)
- - date_published: 2024-06-29T08:06:56.281573+00:00
-
- ## 403 - Acesso negado
- - [https://www.xcake.com.br](https://www.xcake.com.br)
- - date_published: 2022-09-29T22:59:26+00:00
-
- ## Home - XRBR
- - [https://xrbr.com.br](https://xrbr.com.br)
- - date_published: 2024-06-26T00:55:09+00:00
-
- ## As 7 melhores formas de pagamentos para o seu negócio
- - [https://yapay.com.br](https://yapay.com.br)
- - date_published: 2024-07-23T23:40:35.790217+00:00
-
- ## Yelp
- - [https://m.yelp.com.br](https://m.yelp.com.br)
- - date_published: 2024-07-01T06:58:55.451902+00:00
-
- ## Yelp
- - [https://yelp.com.br](https://yelp.com.br)
- - date_published: 2024-07-01T06:58:50.323933+00:00
 

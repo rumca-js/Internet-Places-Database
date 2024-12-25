@@ -1,3 +1,204 @@
+ ## Life @ Home - Life at Home
+ - [http://lifeathome.ch](http://lifeathome.ch)
+ - date_published: 2024-07-13T15:00:16.465032+00:00
+
+ ## Ligature
+ - [http://ligature.ch](http://ligature.ch)
+ - date_published: 2024-06-19T16:20:57.770934+00:00
+
+ ## Die führende Kassensystem- und Bezahlplattform - Lightspeed Commerce
+ - [https://de.lightspeedhq.ch](https://de.lightspeedhq.ch)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Logiciel de caisse enregistreuse & commerce | Lightspeed
+ - [https://www.lightspeedhq.ch](https://www.lightspeedhq.ch)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Building the right products · Liip
+ - [https://www.liip.ch](https://www.liip.ch)
+ - date_published: 2024-10-30T05:31:48.947687+00:00
+
+ ## LINAK – la technologie du vérin électrique au service du mouvement
+ - [https://www.fr.linak.ch](https://www.fr.linak.ch)
+ - date_published: 2024-09-05T21:38:00.546832+00:00
+
+ ## LINAK: tecnologia negli attuatori lineari elettrici
+ - [https://www.it.linak.ch](https://www.it.linak.ch)
+ - date_published: 2024-09-05T21:34:10.196816+00:00
+
+ ## LINAK – Elektrische Linearantriebssysteme, die für Bewegung sorgen
+ - [https://www.linak.ch](https://www.linak.ch)
+ - date_published: 2024-09-05T21:36:16.065396+00:00
+
+ ## Functionality Testing Of Autonomous Systems | Lina | Dübendorf
+ - [https://www.lina-switzerland.ch](https://www.lina-switzerland.ch)
+ - date_published: 2024-06-19T07:41:25.297756+00:00
+ - tags: ['autonomous systems', 'autonomous vehicles']
+
+ ## Lindt Schokolade seit 1845 | Lindt CH
+ - [https://www.lindt.ch](https://www.lindt.ch)
+ - date_published: 2024-07-14T16:43:09.688572+00:00
+
+ ## YouGov Schweiz
+ - [https://link.ch](https://link.ch)
+ - date_published: 2024-05-10T05:11:44.825406+00:00
+
+ ## Linux Tipps – Linux Tutorials, Tipps und Tricks
+ - [https://linuxtipps.ch](https://linuxtipps.ch)
+ - date_published: 2022-11-13T00:00:00+00:00
+
+ ## list24.ch
+ - [https://list24.ch](https://list24.ch)
+ - date_published: 2024-05-16T02:46:03.115275+00:00
+
+ ## Liste Expedition
+ - [https://expedition.liste.ch](https://expedition.liste.ch)
+ - date_published: 2024-07-24T04:31:22.377174+00:00
+
+ ## Willkommen - Liste Art Fair Basel
+ - [https://liste.ch](https://liste.ch)
+ - date_published: 2024-04-29T06:49:33.994358+00:00
+
+ ## Liste Showtime
+ - [https://showtime.liste.ch](https://showtime.liste.ch)
+ - date_published: 2024-07-24T04:31:13.022676+00:00
+
+ ## Litecom AG – Ihr Full-Service-Provider
+ - [https://litecom.ch](https://litecom.ch)
+ - date_published: 2024-07-21T06:18:54.740451+00:00
+
+ ## Glasfaser-Anschluss für Privatpersonen
+ - [https://litexchange.ch](https://litexchange.ch)
+ - date_published: 2024-04-30T06:00:32.686394+00:00
+
+ ## Ticketcorner Live Club
+ - [https://www.live-club.ch](https://www.live-club.ch)
+ - date_published: 2024-07-20T14:53:27.917420+00:00
+
+ ## io.livecode.ch
+ - [http://io.livecode.ch](http://io.livecode.ch)
+ - date_published: 2024-07-07T05:27:05.070711+00:00
+
+ ## Livit AG - Real Estate Management
+ - [https://www.livit.ch](https://www.livit.ch)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Legacy Launcher for Minecraft
+ - [https://llaun.ch](https://llaun.ch)
+ - date_published: 2024-11-14T08:35:38.468345+00:00
+
+ ## git.LMAO.ch
+ - [https://git.lmao.ch](https://git.lmao.ch)
+ - date_published: 2024-07-10T06:15:20.255587+00:00
+
+ ## Home - Ludovic Mermod
+ - [https://lmermod.ch](https://lmermod.ch)
+ - date_published: 2024-04-30T06:02:15.274945+00:00
+
+ ## local.ch – the booking platform for Switzerland
+ - [https://www.local.ch](https://www.local.ch)
+ - date_published: 2024-09-26T18:16:05.203567+00:00
+
+ ## Home - Localcities
+ - [https://www.localcities.ch](https://www.localcities.ch)
+ - date_published: 2024-09-05T16:26:02.145552+00:00
+
+ ## Kundencenter | localsearch
+ - [https://cc.localsearch.ch](https://cc.localsearch.ch)
+ - date_published: 2023-09-06T16:25:59+00:00
+
+ ## Erfolg für KMU in der digitalen Welt - localsearch
+ - [https://www.localsearch.ch](https://www.localsearch.ch)
+ - date_published: 2023-11-20T13:32:20+00:00
+
+ ## Hof Lochstadol Staldenried • Bergbauernhof Familie Hitz
+ - [https://lochstadol.ch](https://lochstadol.ch)
+ - date_published: 2024-07-10T07:44:57.518373+00:00
+
+ ## L'Officiel Schweiz/Suisse
+ - [https://www.lofficiel.ch](https://www.lofficiel.ch)
+ - date_published: 2024-09-16T09:58:59.480076+00:00
+
+ ## LONGLAKE
+ - [https://longlake.ch](https://longlake.ch)
+ - date_published: 2024-07-15T12:25:46.904605+00:00
+
+ ## Offres d'emploi | Loterie Romande
+ - [https://job.loro.ch](https://job.loro.ch)
+ - date_published: 2024-07-21T06:27:04.813732+00:00
+
+ ## Page d'accueil | Loterie Romande
+ - [https://loro.ch](https://loro.ch)
+ - date_published: 2024-04-30T06:00:04.024684+00:00
+
+ ## Rapport annuel 2023 de la Loterie Romande
+ - [https://ra.loro.ch](https://ra.loro.ch)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Partnersuche | Schweizer Singles finden mit LoveScout24
+ - [https://www.lovescout24.ch](https://www.lovescout24.ch)
+ - date_published: 2024-09-04T11:50:05.532785+00:00
+
+ ## LS Partner – Patentanwaltskanzlei in Basel
+ - [https://www.lspartner.ch](https://www.lspartner.ch)
+ - date_published: 2024-06-19T15:39:44.293177+00:00
+
+ ## home
+ - [https://luck-cbs.ch](https://luck-cbs.ch)
+ - date_published: 2024-06-17T15:59:02+00:00
+
+ ## Home - Lugano's Plan ₿
+ - [https://planb.lugano.ch](https://planb.lugano.ch)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Home page - Lugano Eventi
+ - [https://luganoeventi.ch](https://luganoeventi.ch)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Homepage | Lugano Region
+ - [https://luganoturismo.ch](https://luganoturismo.ch)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Linux / LUGS
+ - [https://www.lugs.ch](https://www.lugs.ch)
+ - date_published: 2024-09-16T13:09:01.248673+00:00
+
+ ## lukasfischer.ch
+ - [https://lukasfischer.ch](https://lukasfischer.ch)
+ - date_published: 2024-10-28T03:50:55.626768+00:00
+
+ ## Global
+ - [https://boersenundmaerkte.lukb.ch](https://boersenundmaerkte.lukb.ch)
+ - date_published: 2024-07-21T06:37:33.115902+00:00
+
+ ## LUKB E-Banking Login
+ - [https://ebanking.lukb.ch](https://ebanking.lukb.ch)
+ - date_published: 2024-06-18T14:58:10+00:00
+
+ ## Luzerner Kantonalbank – führend, solide, persönlich
+ - [https://lukb.ch](https://lukb.ch)
+ - date_published: 2024-04-30T05:58:31.210695+00:00
+
+ ## Amateurfunk ist unsere Passion – Lutz-Electronics, Grindel, Schweiz
+ - [https://lutz-electronics.ch](https://lutz-electronics.ch)
+ - date_published: 2024-06-28T22:46:54.592201+00:00
+
+ ## Luzerner Zeitung | Nachrichten Luzern & Zentralschweiz
+ - [http://www.luzernerzeitung.ch](http://www.luzernerzeitung.ch)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Agentur für Tourismusmarketing- Mabeo GmbH
+ - [https://mabeo.ch](https://mabeo.ch)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Ferienwohnungen, Chalets und Unterkünfte im Goms
+ - [https://www.mabeo-ferien.ch](https://www.mabeo-ferien.ch)
+ - date_published: 2024-08-11T04:35:40.127204+00:00
+
+ ## MB&F M.A.D.Gallery e-shop
+ - [https://shop.madgallery.ch](https://shop.madgallery.ch)
+ - date_published: 2024-07-09T08:43:20.774121+00:00
+
  ## Magic Heidi: Swiss invoicing made easy
  - [https://magicheidi.ch](https://magicheidi.ch)
  - date_published: 2024-10-30T12:11:12.595644+00:00
@@ -2936,6 +3137,10 @@
  - [https://www.trivago.ch](https://www.trivago.ch)
  - date_published: 2024-09-04T11:19:48.769170+00:00
 
+ ## TrustDeals.ch - Spare mit exklusiven Rabattcodes, Angeboten, und Gutscheinen
+ - [https://www.trustdeals.ch](https://www.trustdeals.ch)
+ - date_published: 2024-12-24T21:47:28.199150+00:00
+
  ## Online-Shopping mit Trusted Shops | Jetzt alle Produkte kennenlernen
  - [https://www.trustedshops.ch](https://www.trustedshops.ch)
  - date_published: 2024-02-26T00:00:00+00:00
@@ -3812,210 +4017,4 @@ Fakultät | Universität Basel
  ## Festival
  - [https://weltformat-festival.ch](https://weltformat-festival.ch)
  - date_published: 2024-10-29T13:48:45.555964+00:00
-
- ## wemfbox.ch
- - [https://finan-ssl.wemfbox.ch](https://finan-ssl.wemfbox.ch)
- - date_published: 2024-07-03T20:39:16.964605+00:00
-
- ## wemfbox.ch
- - [https://tvai-ssl.wemfbox.ch](https://tvai-ssl.wemfbox.ch)
- - date_published: 2024-09-26T18:16:30.210290+00:00
-
- ## Handballshop | Dein Online-Experte - weplayhandball.ch
- - [https://www.weplayhandball.ch](https://www.weplayhandball.ch)
- - date_published: 2024-12-10T20:00:46.553708+00:00
-
- ## Ihr Möbel & Interior Online-Shop | Westwing.ch
- - [https://www.westwing.ch](https://www.westwing.ch)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Wetter aktuell, Wettervorhersage und Wetterbericht - WetterOnline
- - [https://www.wetteronline.ch](https://www.wetteronline.ch)
- - date_published: 2024-06-29T16:37:21.067537+00:00
-
- ## ▶ ▷ Agence communication digitale Genève - WIDE | Switzerland
- - [https://www.wideagency.ch](https://www.wideagency.ch)
- - date_published: 2024-08-07T08:47:30+00:00
-
- ## Widewalls | Modern & Contemporary Art Resource
- - [https://www.widewalls.ch](https://www.widewalls.ch)
- - date_published: 2024-10-22T06:05:22.122904+00:00
-
- ## Wikimedia CH - Donate
- - [https://donate.wikimedia.ch](https://donate.wikimedia.ch)
- - date_published: 2024-05-29T12:53:04+00:00
-
- ## Home - Wikimedia
- - [https://wikimedia.ch](https://wikimedia.ch)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Wilhelm AG: Personalberatung, Assessment und Outplacement
- - [http://www.wilhelm.ch](http://www.wilhelm.ch)
- - date_published: 2024-07-21T05:48:59.773848+00:00
-
- ## Winbiz
- - [https://www.winbiz.ch](https://www.winbiz.ch)
- - date_published: 2024-07-21T05:38:28.724934+00:00
-
- ## Wincasa
- - [https://www.wincasa.ch](https://www.wincasa.ch)
- - date_published: 2024-06-28T14:35:48.431557+00:00
-
- ## Schweizer Blasmusikverband SBV | ASM | ABS | USM
- - [https://www.windband.ch](https://www.windband.ch)
- - date_published: 2024-10-31T04:48:28+00:00
-
- ## Wings Foundation
- - [https://wingsfoundation.ch](https://wingsfoundation.ch)
- - date_published: 2021-04-21T00:00:00+00:00
-
- ## Winterkongress 2024
- - [https://winterkongress.ch](https://winterkongress.ch)
- - date_published: 2024-07-24T16:25:16.730291+00:00
-
- ## Stadt Winterthur
- - [https://jobs.winterthur.ch](https://jobs.winterthur.ch)
- - date_published: 2024-07-21T05:48:28.395204+00:00
-
- ## Stadt Winterthur
- - [https://stadt.winterthur.ch](https://stadt.winterthur.ch)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Innovation Zurich | Vernetzung, Orientierung und Neuigkeiten
- - [http://www.wir-arbeiten-fuer-sie.ch](http://www.wir-arbeiten-fuer-sie.ch)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## WITTENSTEIN Schweiz
- - [https://www.wittenstein.ch](https://www.wittenstein.ch)
- - date_published: 2024-07-15T04:10:02.626844+00:00
-
- ## Witt - Ihr Online Shop für Damenmode & Wäsche
- - [https://www.witt-weiden.ch](https://www.witt-weiden.ch)
- - date_published: 2024-12-10T20:59:30.232440+00:00
-
- ## World Meteorological Organization
- - [http://www.wmo.ch](http://www.wmo.ch)
- - date_published: 2024-06-30T16:51:29+00:00
-
- ## Fathom - simple website analytics
- - [https://stats.wnx.ch](https://stats.wnx.ch)
- - date_published: 2024-07-14T08:45:27+00:00
-
- ## World of Games
- - [https://wog.ch](https://wog.ch)
- - date_published: 2024-06-15T03:43:58.551985+00:00
-
- ## workbytale - Produkte für eine positive Zukunft. Kreislauffähig, lokal und transparent.
- - [https://workbytale.ch](https://workbytale.ch)
- - date_published: 2022-05-24T00:00:00+00:00
-
- ## Home
- - [https://workshoptage.ch](https://workshoptage.ch)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Jürgen Wothke
- - [https://wothke.ch](https://wothke.ch)
- - date_published: 2019-03-10T12:48:08+00:00
- - tags: ['personal']
-
- ## Alexandre Kaspar's homepage
- - [http://www.wox-xion.ch](http://www.wox-xion.ch)
- - date_published: 2023-04-03T17:16:07+00:00
-
- ## WOZ – Die Wochenzeitung
- - [https://woz.ch](https://woz.ch)
- - date_published: 2024-04-30T06:03:02.279661+00:00
-
- ## William Lachance's Log
- - [https://wrla.ch](https://wrla.ch)
- - date_published: 2024-07-07T10:29:31.534695+00:00
- - tags: ['personal']
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://aai-logon.wsl.ch](https://aai-logon.wsl.ch)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## Sign in · GitLab
- - [https://code.wsl.ch](https://code.wsl.ch)
- - date_published: 2024-07-04T08:19:21.921996+00:00
-
- ## Swiss Federal Research Institute WSL
- - [http://www.wsl.ch](http://www.wsl.ch)
- - date_published: 2024-06-22T08:03:53.905169+00:00
-
- ## WUNDERBLOCK
- - [http://wunderblock.ch](http://wunderblock.ch)
- - date_published: 2010-06-21T20:29:32+00:00
-
- ## ArtCore Projects
- - [http://www.wurzeltod.ch](http://www.wurzeltod.ch)
- - date_published: 2024-06-24T09:50:51.788666+00:00
-
- ## WWF-Events - Raus in die Natur
- - [https://events.wwf.ch](https://events.wwf.ch)
- - date_published: 2024-07-03T02:15:53.548924+00:00
-
- ## Organisation für Natur - und Umweltschutz | WWF Schweiz
- - [https://wwf.ch](https://wwf.ch)
- - date_published: 2024-05-07T23:56:52.558832+00:00
-
- ## Alexandre Kaspar's homepage
- - [http://w-x.ch](http://w-x.ch)
- - date_published: 2023-04-03T17:16:07+00:00
-
- ## Übersicht aller Störungen
- - [https://xn--allestrungen-9ib.ch](https://xn--allestrungen-9ib.ch)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## www.xyz.ch
- - [https://xyz.ch](https://xyz.ch)
- - date_published: 2024-05-04T06:34:15.044834+00:00
-
- ## GitHub - jens-maus/yam: :mailbox_with_mail: YAM (short for 'Yet Another Mailer') is a MIME-compliant open-source Internet email client written for Amiga-based computer systems (AmigaOS4, AmigaOS3, MorphOS, AROS). It supports POP3, SMTP, TLSv1/SSLv3 connection security, multiple users, multiple identities, PGPv2/v5 encryption, unlimited hierarchical folders, an ARexx interface, etc...
- - [http://yam.ch](http://yam.ch)
- - date_published: 2024-07-08T19:13:25.874660+00:00
-
- ## Yannick de Kalbermatten
- - [https://yannickdekalbermatten.ch](https://yannickdekalbermatten.ch)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## The official Yello Site
- - [http://www.yello.ch](http://www.yello.ch)
- - date_published: 2024-04-03T07:37:02+00:00
-
- ## Yelp
- - [https://de.m.yelp.ch](https://de.m.yelp.ch)
- - date_published: 2024-07-01T07:10:45.720622+00:00
-
- ## Yelp
- - [https://de.yelp.ch](https://de.yelp.ch)
- - date_published: 2024-07-01T07:07:41.935444+00:00
-
- ## Yelp
- - [https://en.m.yelp.ch](https://en.m.yelp.ch)
- - date_published: 2024-07-01T06:44:10.590851+00:00
-
- ## Yelp
- - [https://en.yelp.ch](https://en.yelp.ch)
- - date_published: 2024-07-01T06:44:05.370549+00:00
-
- ## Yelp
- - [https://fr.m.yelp.ch](https://fr.m.yelp.ch)
- - date_published: 2024-07-01T06:42:51.209013+00:00
-
- ## Yelp
- - [https://fr.yelp.ch](https://fr.yelp.ch)
- - date_published: 2024-07-01T06:42:46.482215+00:00
-
- ## Yelp
- - [https://it.m.yelp.ch](https://it.m.yelp.ch)
- - date_published: 2024-07-01T07:10:24.821302+00:00
-
- ## Yelp
- - [https://it.yelp.ch](https://it.yelp.ch)
- - date_published: 2024-07-01T07:06:31.269033+00:00
-
- ## YOTAVIS | Communication Quality and Control
- - [https://yotavis.ch](https://yotavis.ch)
- - date_published: 2024-05-11T10:04:14.586444+00:00
 

@@ -1,3 +1,7 @@
+ ## Bylo.ai: The Best Free AI Image Generator for Text to Image
+ - [https://bylo.ai](https://bylo.ai)
+ - date_published: 2024-12-15T06:37:08.922517+00:00
+
  ## Bypass AI: Anti AI Detector & AI Detection Remover
  - [https://bypassai.ai](https://bypassai.ai)
  - date_published: 2024-06-19T21:05:27.432307+00:00
@@ -410,6 +414,10 @@
  ## ChatGPT, DALL·E & Stable Diffusion prompt marketplace - ChatX
  - [https://chatx.ai](https://chatx.ai)
  - date_published: 2024-06-19T21:37:50.030588+00:00
+
+ ## CHAVI - The first Oncology Image Bank of India
+ - [https://chavi.ai](https://chavi.ai)
+ - date_published: 2024-12-24T15:27:54.381770+00:00
 
  ## Checkbox - Leading Service Hub | Intake & Workflow Software
  - [https://www.checkbox.ai](https://www.checkbox.ai)
@@ -2432,6 +2440,10 @@ Welcome
  - [https://eyelevel.ai](https://eyelevel.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
+ ## Eye On AI
+ - [http://www.eye-on.ai](http://www.eye-on.ai)
+ - date_published: 2024-12-24T04:12:53.023242+00:00
+
  ## ChatGPT for Gmail Free Chrome Extension | EzMail.AI
  - [https://www.ezmail.ai](https://www.ezmail.ai)
  - date_published: 2024-06-19T20:55:08.292418+00:00
@@ -2739,6 +2751,10 @@ Welcome
  ## Fireflies.ai | AI notetaker to transcribe, summarize, analyze meetings
  - [https://fireflies.ai](https://fireflies.ai)
  - date_published: 2024-05-06T19:48:12.423957+00:00
+
+ ## Firefly | Manage Your Cloud with Infrastructure-as-Code
+ - [https://www.firefly.ai](https://www.firefly.ai)
+ - date_published: 2024-12-20T22:14:54+00:00
 
  ## Fireworks.ai – Medium
  - [https://blog.fireworks.ai](https://blog.fireworks.ai)
@@ -4002,20 +4018,4 @@ Welcome
  ## Holly
  - [https://app.hollyhires.ai](https://app.hollyhires.ai)
  - date_published: 2024-10-30T11:49:23.506658+00:00
-
- ## Holly - AI for recruitment and staffing agencies
- - [https://www.hollyhires.ai](https://www.hollyhires.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Offline GPT Store 😉
- - [https://uneven-macaw-bef2.hony.ai](https://uneven-macaw-bef2.hony.ai)
- - date_published: 2024-01-24T17:05:23.757347+00:00
-
- ## Monetize Your Fashion Influence with HopShop - Earn Commissions Effortlessly
- - [https://hopshop.ai](https://hopshop.ai)
- - date_published: 2024-06-19T19:21:39.043544+00:00
-
- ## Hopsworks - The Real-time AI Lakehouse
- - [https://www.hopsworks.ai](https://www.hopsworks.ai)
- - date_published: 2024-07-02T00:00:00+00:00
 

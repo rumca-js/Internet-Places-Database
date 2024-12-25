@@ -1,3 +1,19 @@
+ ## Holly - AI for recruitment and staffing agencies
+ - [https://www.hollyhires.ai](https://www.hollyhires.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Offline GPT Store 😉
+ - [https://uneven-macaw-bef2.hony.ai](https://uneven-macaw-bef2.hony.ai)
+ - date_published: 2024-01-24T17:05:23.757347+00:00
+
+ ## Monetize Your Fashion Influence with HopShop - Earn Commissions Effortlessly
+ - [https://hopshop.ai](https://hopshop.ai)
+ - date_published: 2024-06-19T19:21:39.043544+00:00
+
+ ## Hopsworks - The Real-time AI Lakehouse
+ - [https://www.hopsworks.ai](https://www.hopsworks.ai)
+ - date_published: 2024-07-02T00:00:00+00:00
+
  ## Horizon3.ai Docs
  - [https://docs.horizon3.ai](https://docs.horizon3.ai)
  - date_published: 2024-07-03T14:46:53+00:00
@@ -278,6 +294,10 @@
  - [https://ignorance.ai](https://ignorance.ai)
  - date_published: 2023-10-25T11:39:13.090034+00:00
 
+ ## TIH iHub Drishti
+ - [https://ihub-drishti.ai](https://ihub-drishti.ai)
+ - date_published: 2024-12-24T15:17:24+00:00
+
  ## PolicyBuzz
  - [https://iir.ai](https://iir.ai)
  - date_published: 2024-11-08T21:44:19.257344+00:00
@@ -446,6 +466,10 @@
  ## IN SCHOOL — business knowledge from Silicon Valley
  - [https://inschool.ai](https://inschool.ai)
  - date_published: 2024-06-24T11:18:33.191843+00:00
+
+ ## IN SCHOOL - образование для бизнес-лидеров
+ - [https://ru.inschool.ai](https://ru.inschool.ai)
+ - date_published: 2024-12-24T07:24:27.641408+00:00
 
  ## Inscribe
  - [https://app.inscribe.ai](https://app.inscribe.ai)
@@ -3552,6 +3576,10 @@
  - [https://www.papergen.ai](https://www.papergen.ai)
  - date_published: 2024-09-11T00:00:00+00:00
 
+ ## Papers Read on AI | Rob
+ - [https://papersread.ai](https://papersread.ai)
+ - date_published: 2024-12-24T04:19:30.951715+00:00
+
  ## Parabrain.ai | Expert AI trained by your knowledge
  - [https://www.parabrain.ai](https://www.parabrain.ai)
  - date_published: 2024-06-19T20:11:54.838721+00:00
@@ -3733,6 +3761,10 @@
  ## Trust Center
  - [https://trust.personal.ai](https://trust.personal.ai)
  - date_published: 2024-10-30T16:47:29.817955+00:00
+
+ ## Persuva - The Fastest Way for Dropshippers to Winning Products
+ - [https://persuva.ai](https://persuva.ai)
+ - date_published: 2024-12-24T08:09:35.131446+00:00
 
  ## PetPic
  - [https://petpic.ai](https://petpic.ai)
@@ -3989,36 +4021,4 @@
  ## Удалить фон из изображения, бесплатно, без регистрации - Pixian.AI
  - [https://ru.pixian.ai](https://ru.pixian.ai)
  - date_published: 2024-08-19T12:10:37.623294+00:00
-
- ## ลบพื้นหลังออกจากรูปภาพได้ฟรี ไม่ต้องสมัครสมาชิก - Pixian.AI
- - [https://th.pixian.ai](https://th.pixian.ai)
- - date_published: 2024-08-19T12:10:48.069798+00:00
-
- ## Resimden Arka Planı Kaldırın, Ücretsiz, Kayıt Yok - Pixian.AI
- - [https://tr.pixian.ai](https://tr.pixian.ai)
- - date_published: 2024-08-19T12:10:39.642884+00:00
-
- ## Xóa Hình Nền khỏi Hình Ảnh, Miễn phí, Không Đăng Nhập - Pixian.AI
- - [https://vi.pixian.ai](https://vi.pixian.ai)
- - date_published: 2024-08-19T12:10:12.383228+00:00
-
- ## Pixu|Home
- - [https://pixu.ai](https://pixu.ai)
- - date_published: 2024-06-14T08:52:12.345170+00:00
-
- ## Plausible · Web analytics
- - [https://plausy.pixu.ai](https://plausy.pixu.ai)
- - date_published: 2024-09-13T20:34:18.116040+00:00
-
- ## PixVerse - Create breath-taking videos with PixVerse AI
- - [https://pixverse.ai](https://pixverse.ai)
- - date_published: 2024-06-11T03:38:23+00:00
-
- ## Placer
- - [https://analytics.placer.ai](https://analytics.placer.ai)
- - date_published: 2024-12-08T17:43:31+00:00
-
- ## The Anchor
- - [https://anchor.placer.ai](https://anchor.placer.ai)
- - date_published: 2024-12-12T17:30:20+00:00
 

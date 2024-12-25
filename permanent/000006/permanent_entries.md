@@ -1,3 +1,75 @@
+ ## Pagefind | Pagefind — Static low-bandwidth search at scale
+ - [https://pagefind.app](https://pagefind.app)
+ - date_published: 2024-04-04T09:46:48+00:00
+
+ ## Home | Pagefind XKCD Demo
+ - [https://xkcd.pagefind.app](https://xkcd.pagefind.app)
+ - date_published: 2023-09-13T04:51:09+00:00
+
+ ## Plausible · Web analytics
+ - [https://app.pageview.app](https://app.pageview.app)
+ - date_published: 2024-09-14T07:48:14.351128+00:00
+
+ ## Palettte App
+ - [https://palettte.app](https://palettte.app)
+ - date_published: 2024-10-22T19:23:55.020124+00:00
+
+ ## Palform — Free end-to-end encrypted form builder
+ - [https://palform.app](https://palform.app)
+ - date_published: 2024-09-02T09:57:14.388999+00:00
+
+ ## Pangea | Hire Top Marketing & Design Talent
+ - [https://about.pangea.app](https://about.pangea.app)
+ - date_published: 2024-10-27T15:13:22+00:00
+
+ ## AI:JD by Pangea
+ - [https://ai-jd.pangea.app](https://ai-jd.pangea.app)
+ - date_published: 2023-09-18T00:00:00+00:00
+
+ ## Become a security pro - Panoptica Academy
+ - [https://academy.panoptica.app](https://academy.panoptica.app)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Cisco Panoptica
+ - [https://docs.panoptica.app](https://docs.panoptica.app)
+ - date_published: 2024-08-18T09:47:51.806861+00:00
+
+ ## The Cisco Secure Application Cloud | An Effective Security Platform - Panoptica
+ - [https://panoptica.app](https://panoptica.app)
+ - date_published: 2023-12-20T23:10:10.715922+00:00
+
+ ## Paperclips - AI Generated Flashcards
+ - [https://paperclips.app](https://paperclips.app)
+ - date_published: 2023-12-28T06:10:46+00:00
+
+ ## Home | Parsec Blog
+ - [https://blog.parsec.app](https://blog.parsec.app)
+ - date_published: 2024-10-04T04:57:14.840776+00:00
+
+ ## Webinar: See Parsec for Teams Yourself
+ - [https://go.parsec.app](https://go.parsec.app)
+ - date_published: 2024-06-16T11:50:59.231129+00:00
+
+ ## Connect to Work or Games from Anywhere | Parsec
+ - [https://pages.parsec.app](https://pages.parsec.app)
+ - date_published: 2024-10-04T04:57:16.508627+00:00
+
+ ## Connect to Work or Games from Anywhere | Parsec
+ - [https://parsec.app](https://parsec.app)
+ - date_published: 2024-06-16T11:51:03.931807+00:00
+
+ ## Partnerhub® for partnerships-led growth.
+ - [https://partnerhub.app](https://partnerhub.app)
+ - date_published: 2024-07-11T17:31:12.724787+00:00
+
+ ## Party
+ - [https://base.party.app](https://base.party.app)
+ - date_published: 2024-07-21T04:58:18.856013+00:00
+
+ ## Party
+ - [https://www.partybid.app](https://www.partybid.app)
+ - date_published: 2024-09-25T11:22:18.994162+00:00
+
  ## Pashword - Passwords Done Right
  - [https://pashword.app](https://pashword.app)
  - date_published: 2023-10-25T11:48:14.672231+00:00
@@ -1437,6 +1509,14 @@
  - [https://starmoon.app](https://starmoon.app)
  - date_published: 2024-12-12T21:19:31.704001+00:00
 
+ ## Status.app
+ - [https://discuss.status.app](https://discuss.status.app)
+ - date_published: 2024-12-24T12:01:51.317196+00:00
+
+ ## Status — Make the jump to web3
+ - [https://status.app](https://status.app)
+ - date_published: 2024-12-24T12:01:52.460758+00:00
+
  ## StayAlive | Essential suicide prevention for every day life
  - [http://stayalive.app](http://stayalive.app)
  - date_published: 2024-10-20T09:06:30.965437+00:00
@@ -2622,6 +2702,10 @@
  - [https://cards-patrick-wtf-patrick91.vercel.app](https://cards-patrick-wtf-patrick91.vercel.app)
  - date_published: 2024-07-02T18:28:00.219092+00:00
 
+ ## Carlsberg Fondet Retrospekt 2024 - Forside
+ - [https://carlsbergfondet-retrospective-2024.vercel.app](https://carlsbergfondet-retrospective-2024.vercel.app)
+ - date_published: 2024-12-24T10:08:27.505214+00:00
+
  ## Castofly - Create step-by-step guides on the fly!
  - [https://castofly-marketing-site-7a8gxi51r-castofly.vercel.app](https://castofly-marketing-site-7a8gxi51r-castofly.vercel.app)
  - date_published: 2024-10-30T22:39:05.660256+00:00
@@ -3250,6 +3334,10 @@
  - [https://hyperin.vercel.app](https://hyperin.vercel.app)
  - date_published: 2024-11-08T12:15:57.312664+00:00
 
+ ## ICPC | IIITDM Kancheepuram
+ - [https://icpc-iiitdm.vercel.app](https://icpc-iiitdm.vercel.app)
+ - date_published: 2024-12-24T13:41:50.384274+00:00
+
  ## Idosell pages test react componnents
  - [https://idosell-pages.vercel.app](https://idosell-pages.vercel.app)
  - date_published: 2024-07-14T20:35:27.724746+00:00
@@ -3699,6 +3787,10 @@
  - [https://notion-with-widgets.vercel.app](https://notion-with-widgets.vercel.app)
  - date_published: 2024-07-14T09:43:30.176121+00:00
 
+ ## NSS SVNIT
+ - [https://nss-website-nss-svnits-projects.vercel.app](https://nss-website-nss-svnits-projects.vercel.app)
+ - date_published: 2024-12-18T20:14:36+00:00
+
  ## Nunflix: The Ultimate Comprehensive Guide to Free High-Quality Streaming in 2024
  - [https://nunflix-info.vercel.app](https://nunflix-info.vercel.app)
  - date_published: 2024-10-24T15:30:34+00:00
@@ -3932,96 +4024,4 @@
  ## Quincy Oghenetejiri || Software Developer
  - [https://quincyoghenetejiri.vercel.app](https://quincyoghenetejiri.vercel.app)
  - date_published: 2024-06-02T07:03:15.909336+00:00
-
- ## We're giving away 5 rAAVE Bogotá tickets!
- - [https://raave-raffle-app.vercel.app](https://raave-raffle-app.vercel.app)
- - date_published: 2024-08-17T22:18:47.158334+00:00
-
- ## Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai
- - [https://ragdoll-studio.vercel.app](https://ragdoll-studio.vercel.app)
- - date_published: 2024-03-31T05:43:15+00:00
-
- ## Moed
- - [https://rapidapi-blahiis-projects.vercel.app](https://rapidapi-blahiis-projects.vercel.app)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Moed
- - [https://rapidapis.vercel.app](https://rapidapis.vercel.app)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Raycast Merch
- - [https://raycast-swag-store-99oohduqx-raycastapp.vercel.app](https://raycast-swag-store-99oohduqx-raycastapp.vercel.app)
- - date_published: 2024-06-29T10:21:46.888944+00:00
-
- ## Ray.so - Create beautiful images of your code
- - [https://ray-so-v2-7sfdrbevj-raycastapp.vercel.app](https://ray-so-v2-7sfdrbevj-raycastapp.vercel.app)
- - date_published: 2024-06-23T21:31:35.339871+00:00
-
- ## Daily habit tracker
- - [https://rdht.vercel.app](https://rdht.vercel.app)
- - date_published: 2024-07-06T22:37:13+00:00
-
- ## React Email
- - [https://react-email-131mcekpt-resend.vercel.app](https://react-email-131mcekpt-resend.vercel.app)
- - date_published: 2024-08-07T09:25:19.890703+00:00
-
- ## React Email
- - [https://react-email-git-changeset-release-main-resend.vercel.app](https://react-email-git-changeset-release-main-resend.vercel.app)
- - date_published: 2024-12-11T06:20:46.892053+00:00
-
- ## Next.js + Three.js
- - [https://react-three-next.vercel.app](https://react-three-next.vercel.app)
- - date_published: 2024-10-15T02:30:39.573220+00:00
-
- ## Introduction – react-tweet
- - [https://react-tweet.vercel.app](https://react-tweet.vercel.app)
- - date_published: 2024-06-23T07:11:01.964652+00:00
-
- ## Realism Effects - three.js
- - [https://realism-effects-git-v2-obeqz.vercel.app](https://realism-effects-git-v2-obeqz.vercel.app)
- - date_published: 2024-05-07T13:26:02.366307+00:00
-
- ## Realism Effects - three.js
- - [https://realism-effects-obeqz.vercel.app](https://realism-effects-obeqz.vercel.app)
- - date_published: 2024-05-07T13:25:44.841173+00:00
-
- ## Realism Effects - three.js
- - [https://realism-effects.vercel.app](https://realism-effects.vercel.app)
- - date_published: 2024-06-29T01:40:51.019909+00:00
-
- ## Reality Slice
- - [https://reality-slice.vercel.app](https://reality-slice.vercel.app)
- - date_published: 2024-09-07T23:05:18.142964+00:00
-
- ## Reciple
- - [https://reciple-game.vercel.app](https://reciple-game.vercel.app)
- - date_published: 2024-07-11T10:33:13.740116+00:00
-
- ## Refactor Like a Superhero
- - [https://refactor-like-a-superhero.vercel.app](https://refactor-like-a-superhero.vercel.app)
- - date_published: 2024-07-09T19:01:53.253056+00:00
-
- ## Remix Firebase Todo App
- - [https://remix-firebase-todo.vercel.app](https://remix-firebase-todo.vercel.app)
- - date_published: 2024-07-08T15:49:53.797736+00:00
-
- ## Remix OpenAI - Content Generator
- - [https://remix-openai.vercel.app](https://remix-openai.vercel.app)
- - date_published: 2024-07-10T11:14:13.372690+00:00
-
- ## Remix Page Blocks
- - [https://remix-page-blocks.vercel.app](https://remix-page-blocks.vercel.app)
- - date_published: 2023-10-25T11:50:47.486938+00:00
-
- ## Enhance Your Photos
- - [https://rentoor.vercel.app](https://rentoor.vercel.app)
- - date_published: 2024-06-19T19:56:38.833651+00:00
-
- ## Rephraser AI
- - [https://rephraser.vercel.app](https://rephraser.vercel.app)
- - date_published: 2024-06-19T19:32:55.207107+00:00
-
- ## Face Photo Restorer
- - [https://restore-photos.vercel.app](https://restore-photos.vercel.app)
- - date_published: 2024-07-06T00:43:43+00:00
 

@@ -1,3 +1,95 @@
+ ## We're giving away 5 rAAVE Bogotá tickets!
+ - [https://raave-raffle-app.vercel.app](https://raave-raffle-app.vercel.app)
+ - date_published: 2024-08-17T22:18:47.158334+00:00
+
+ ## Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai
+ - [https://ragdoll-studio.vercel.app](https://ragdoll-studio.vercel.app)
+ - date_published: 2024-03-31T05:43:15+00:00
+
+ ## Moed
+ - [https://rapidapi-blahiis-projects.vercel.app](https://rapidapi-blahiis-projects.vercel.app)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Moed
+ - [https://rapidapis.vercel.app](https://rapidapis.vercel.app)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Raycast Merch
+ - [https://raycast-swag-store-99oohduqx-raycastapp.vercel.app](https://raycast-swag-store-99oohduqx-raycastapp.vercel.app)
+ - date_published: 2024-06-29T10:21:46.888944+00:00
+
+ ## Ray.so - Create beautiful images of your code
+ - [https://ray-so-v2-7sfdrbevj-raycastapp.vercel.app](https://ray-so-v2-7sfdrbevj-raycastapp.vercel.app)
+ - date_published: 2024-06-23T21:31:35.339871+00:00
+
+ ## Daily habit tracker
+ - [https://rdht.vercel.app](https://rdht.vercel.app)
+ - date_published: 2024-07-06T22:37:13+00:00
+
+ ## React Email
+ - [https://react-email-131mcekpt-resend.vercel.app](https://react-email-131mcekpt-resend.vercel.app)
+ - date_published: 2024-08-07T09:25:19.890703+00:00
+
+ ## React Email
+ - [https://react-email-git-changeset-release-main-resend.vercel.app](https://react-email-git-changeset-release-main-resend.vercel.app)
+ - date_published: 2024-12-11T06:20:46.892053+00:00
+
+ ## Next.js + Three.js
+ - [https://react-three-next.vercel.app](https://react-three-next.vercel.app)
+ - date_published: 2024-10-15T02:30:39.573220+00:00
+
+ ## Introduction – react-tweet
+ - [https://react-tweet.vercel.app](https://react-tweet.vercel.app)
+ - date_published: 2024-06-23T07:11:01.964652+00:00
+
+ ## Realism Effects - three.js
+ - [https://realism-effects-git-v2-obeqz.vercel.app](https://realism-effects-git-v2-obeqz.vercel.app)
+ - date_published: 2024-05-07T13:26:02.366307+00:00
+
+ ## Realism Effects - three.js
+ - [https://realism-effects-obeqz.vercel.app](https://realism-effects-obeqz.vercel.app)
+ - date_published: 2024-05-07T13:25:44.841173+00:00
+
+ ## Realism Effects - three.js
+ - [https://realism-effects.vercel.app](https://realism-effects.vercel.app)
+ - date_published: 2024-06-29T01:40:51.019909+00:00
+
+ ## Reality Slice
+ - [https://reality-slice.vercel.app](https://reality-slice.vercel.app)
+ - date_published: 2024-09-07T23:05:18.142964+00:00
+
+ ## Reciple
+ - [https://reciple-game.vercel.app](https://reciple-game.vercel.app)
+ - date_published: 2024-07-11T10:33:13.740116+00:00
+
+ ## Refactor Like a Superhero
+ - [https://refactor-like-a-superhero.vercel.app](https://refactor-like-a-superhero.vercel.app)
+ - date_published: 2024-07-09T19:01:53.253056+00:00
+
+ ## Remix Firebase Todo App
+ - [https://remix-firebase-todo.vercel.app](https://remix-firebase-todo.vercel.app)
+ - date_published: 2024-07-08T15:49:53.797736+00:00
+
+ ## Remix OpenAI - Content Generator
+ - [https://remix-openai.vercel.app](https://remix-openai.vercel.app)
+ - date_published: 2024-07-10T11:14:13.372690+00:00
+
+ ## Remix Page Blocks
+ - [https://remix-page-blocks.vercel.app](https://remix-page-blocks.vercel.app)
+ - date_published: 2023-10-25T11:50:47.486938+00:00
+
+ ## Enhance Your Photos
+ - [https://rentoor.vercel.app](https://rentoor.vercel.app)
+ - date_published: 2024-06-19T19:56:38.833651+00:00
+
+ ## Rephraser AI
+ - [https://rephraser.vercel.app](https://rephraser.vercel.app)
+ - date_published: 2024-06-19T19:32:55.207107+00:00
+
+ ## Face Photo Restorer
+ - [https://restore-photos.vercel.app](https://restore-photos.vercel.app)
+ - date_published: 2024-07-06T00:43:43+00:00
+
  ## RgShows
  - [https://rgshows.vercel.app](https://rgshows.vercel.app)
  - date_published: 2024-11-12T09:36:45+00:00
@@ -142,6 +234,10 @@
  ## QuestLog
  - [https://smart-listapp.vercel.app](https://smart-listapp.vercel.app)
  - date_published: 2024-12-01T22:56:34+00:00
+
+ ## Snehita Well Being
+ - [https://snehita-well-being.vercel.app](https://snehita-well-being.vercel.app)
+ - date_published: 2024-12-13T20:31:51+00:00
 
  ## SolidStart - Firebase
  - [https://solid-start-firebase.vercel.app](https://solid-start-firebase.vercel.app)
@@ -351,6 +447,10 @@
  - [https://umami-theta-one.vercel.app](https://umami-theta-one.vercel.app)
  - date_published: 2024-07-14T09:42:54.050714+00:00
 
+ ## Upbound | Crossplane for Enterprise Cloud Management
+ - [https://upbound-www.vercel.app](https://upbound-www.vercel.app)
+ - date_published: 2024-12-24T10:43:35.225109+00:00
+
  ## Url:Jam
  - [https://url-jam.vercel.app](https://url-jam.vercel.app)
  - date_published: 2024-08-18T06:34:44.149729+00:00
@@ -406,6 +506,10 @@
  ## Visitor Badge
  - [https://visitor-badge.vercel.app](https://visitor-badge.vercel.app)
  - date_published: 2024-08-11T22:07:22.428491+00:00
+
+ ## Visual Logic - Build programming logic visually
+ - [https://visual-logic.vercel.app](https://visual-logic.vercel.app)
+ - date_published: 2024-12-18T14:43:34+00:00
 
  ## Vizionova - Build Intelligent Map Diagramming
  - [https://vizionova.vercel.app](https://vizionova.vercel.app)
@@ -3879,6 +3983,10 @@ October 2024 in Singapore
  - [https://napawine.asia](https://napawine.asia)
  - date_published: 2024-07-16T07:33:39+00:00
 
+ ## NIT Srinagar
+ - [http://nitsri.asia](http://nitsri.asia)
+ - date_published: 2024-12-24T19:13:35.803314+00:00
+
  ## OpenTechSummit Thailand
  - [https://thai.opentechsummit.asia](https://thai.opentechsummit.asia)
  - date_published: 2020-01-15T17:28:18+00:00
@@ -3927,113 +4035,4 @@ October 2024 in Singapore
  ## SecurityBrief Asia - Technology news for CISOs & cybersecurity decision-makers
  - [https://securitybrief.asia](https://securitybrief.asia)
  - date_published: 2024-06-22T12:26:17.401197+00:00
-
- ## Home - ASEEDER Academic Challenges
- - [http://www.seedasdan.asia](http://www.seedasdan.asia)
- - date_published: 2024-08-07T17:30:06.967890+00:00
-
- ## The Tech Stack For Digital Advertising - SelectMedia
- - [https://www.selectmedia.asia](https://www.selectmedia.asia)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Shogakukan Asia | Publisher of English edition Manga
- - [https://shogakukan.asia](https://shogakukan.asia)
- - date_published: 2024-06-19T08:15:45+00:00
- - tags: ['manga']
-
- ## Disney Store | Official Site for Disney Merchandise
- - [https://shopdisney.asia](https://shopdisney.asia)
- - date_published: 2024-06-16T02:27:34.593474+00:00
-
- ## iTrust | Scheduling and Booking Website
- - [https://itrustestbed.simplybook.asia](https://itrustestbed.simplybook.asia)
- - date_published: 2024-07-12T16:25:36.252917+00:00
-
- ## Secretlab Showroom | Scheduling and Booking Website
- - [https://secretlab.simplybook.asia](https://secretlab.simplybook.asia)
- - date_published: 2024-12-21T01:53:31.223476+00:00
-
- ## Home | SMT Technology Pte Ltd | Smart Manufacturing Technology
- - [https://smttech.asia](https://smttech.asia)
- - date_published: 2024-08-02T06:36:10+00:00
-
- ## SPAG FINN Partners: Integrated Marketing & Communications PR Agency
- - [https://spag.asia](https://spag.asia)
- - date_published: 2021-04-13T12:25:06+00:00
-
- ## sultan69.help
- - [http://sultan69.asia](http://sultan69.asia)
- - date_published: 2024-10-11T12:28:57.365468+00:00
-
- ## TECNET | Gaming Solutions Provider
- - [https://www.tecnet.asia](https://www.tecnet.asia)
- - date_published: 2024-06-20T14:27:22.197439+00:00
-
- ## Venture Capital for B2B Tech Companies | South-East Asia
- - [https://tinmen.asia](https://tinmen.asia)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Toshiba Storage Asia
- - [https://www.toshiba-storage.asia](https://www.toshiba-storage.asia)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Main Home
- - [https://traveldailynews.asia](https://traveldailynews.asia)
- - date_published: 2024-10-31T12:33:26.186908+00:00
-
- ## Ubisoft | Welcome to the official Ubisoft website
- - [https://ubisoft.asia](https://ubisoft.asia)
- - date_published: 2024-05-06T21:04:46.081356+00:00
-
- ## UbuCon Asia 2023 | UbuCon Asia 2023
- - [https://2023.ubucon.asia](https://2023.ubucon.asia)
- - date_published: 2024-06-08T16:23:44+00:00
-
- ## Home - UOBLIVE
- - [https://www.uoblive.asia](https://www.uoblive.asia)
- - date_published: 2023-10-12T03:47:06+00:00
-
- ## Weber Shandwick APAC
- - [http://webershandwick.asia](http://webershandwick.asia)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## WoT Asia — Free Online Tanks Game
- - [https://worldoftanks.asia](https://worldoftanks.asia)
- - date_published: 2024-06-27T17:34:28.665045+00:00
-
- ## World of Warplanes — 無料オンラインゲーム
- - [http://worldofwarplanes.asia](http://worldofwarplanes.asia)
- - date_published: 2024-10-27T12:30:00+00:00
-
- ## World of Warships
- - [https://worldofwarships.asia](https://worldofwarships.asia)
- - date_published: 2024-10-27T12:37:31.259070+00:00
-
- ## Xometry——Manufacturing on Demand
- - [https://xometry.asia](https://xometry.asia)
- - date_published: 2024-06-27T16:28:12.255910+00:00
-
- ## Yardi Property Management Software & Asset Management Solutions
- - [https://www.yardi.asia](https://www.yardi.asia)
- - date_published: 2024-07-04T10:57:22.364785+00:00
-
- ## Yoshimura | YOSHIMURA ASIA
- - [http://www.yoshimura.asia](http://www.yoshimura.asia)
- - date_published: 2024-09-18T01:25:41.718303+00:00
-
- ## Home | Battery Associates | Sustainable Battery Innovation
- - [https://www.battery.associates](https://www.battery.associates)
- - date_published: 2024-12-14T12:45:52.140206+00:00
-
- ## Startseite - AIT Austrian Institute Of Technology
- - [https://www.ait.ac.at](https://www.ait.ac.at)
- - date_published: 2024-10-16T04:03:52.958558+00:00
-
- ## AkBild repository
- - [https://repository.akbild.ac.at](https://repository.akbild.ac.at)
- - date_published: 2022-09-05T13:00:01+00:00
-
- ## Akademie der bildenden Künste Wien
- - [https://www.akbild.ac.at](https://www.akbild.ac.at)
- - date_published: 2024-06-26T21:38:09.747694+00:00
 

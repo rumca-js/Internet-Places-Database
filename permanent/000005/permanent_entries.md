@@ -1,3 +1,63 @@
+ ## Edge
+ - [https://support.edge.app](https://support.edge.app)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Edifi Blog
+ - [https://blog.edifi.app](https://blog.edifi.app)
+ - date_published: 2024-07-04T06:25:38.606584+00:00
+
+ ## Home | Edifi
+ - [https://edifi.app](https://edifi.app)
+ - date_published: 2024-03-21T16:47:35+00:00
+
+ ## Edifi Podcasts - Discover Christian Podcasts
+ - [https://player.edifi.app](https://player.edifi.app)
+ - date_published: 2022-08-25T19:42:36+00:00
+
+ ## EditAir: AI-Driven Video Editing
+ - [https://www.editair.app](https://www.editair.app)
+ - date_published: 2024-01-24T20:43:12+00:00
+
+ ## Proofread, edit and track changes to your content in chatGPT.  | editGPT
+ - [https://www.editgpt.app](https://www.editgpt.app)
+ - date_published: 2024-10-30T07:11:40.843683+00:00
+
+ ## eesel - The new tab for work
+ - [https://www.eesel.app](https://www.eesel.app)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Efficient App | Top Software Reviews & Comparisons
+ - [https://efficient.app](https://efficient.app)
+ - date_published: 2024-05-14T03:37:37.676630+00:00
+
+ ## Software & App Stacks by Efficient App
+ - [https://stacks.efficient.app](https://stacks.efficient.app)
+ - date_published: 2024-07-18T06:54:56.569648+00:00
+
+ ## YouTube Video Summaries with Eightify AI ChatGPT
+ - [https://eightify.app](https://eightify.app)
+ - date_published: 2023-10-25T11:46:08.020954+00:00
+
+ ## Eightify — Summarize Youtube Videos
+ - [https://frontend.eightify.app](https://frontend.eightify.app)
+ - date_published: 2024-07-29T09:45:56+00:00
+
+ ## eightpoint
+ - [https://eightpoint.app](https://eightpoint.app)
+ - date_published: 2024-05-23T13:30:40.880013+00:00
+
+ ## Welcome to nginx!
+ - [https://media.eightpoint.app](https://media.eightpoint.app)
+ - date_published: 2022-10-19T08:02:20+00:00
+
+ ## Elephas - Personal AI Writing Assistant for Mac
+ - [https://elephas.app](https://elephas.app)
+ - date_published: 2024-06-19T21:05:49.065293+00:00
+
+ ## Elephas | Knowledge Base
+ - [https://support.elephas.app](https://support.elephas.app)
+ - date_published: 2024-10-30T19:39:39.122373+00:00
+
  ## harmy.link
  - [https://peertube-a5egg-u8148.vm.elestio.app](https://peertube-a5egg-u8148.vm.elestio.app)
  - date_published: 2023-10-25T11:46:08.629410+00:00
@@ -197,6 +257,10 @@
  ## Feedback - Swift Mail
  - [https://swiftmail.featurebase.app](https://swiftmail.featurebase.app)
  - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Feedback - Synci
+ - [https://synci.featurebase.app](https://synci.featurebase.app)
+ - date_published: 2024-12-24T04:36:16.158000+00:00
 
  ## Changelog - user.com
  - [https://usercom.featurebase.app](https://usercom.featurebase.app)
@@ -483,6 +547,10 @@
  ## My Framer Site
  - [https://giant-clicks-989582.framer.app](https://giant-clicks-989582.framer.app)
  - date_published: 2024-04-30T00:00:00+00:00
+
+ ## UNIFRA
+ - [https://guardrails-unpack-783806.framer.app](https://guardrails-unpack-783806.framer.app)
+ - date_published: 2023-11-10T13:41:52+00:00
 
  ## Free AI Art Generator, AI Art Maker | Stable Diffusion Online
  - [https://guides-use-432016.framer.app](https://guides-use-432016.framer.app)
@@ -3039,6 +3107,10 @@
  - [https://nicolasmarque.netlify.app](https://nicolasmarque.netlify.app)
  - date_published: 2022-04-07T00:00:00+00:00
 
+ ## Training and Placement Office
+ - [https://nitmztnp.netlify.app](https://nitmztnp.netlify.app)
+ - date_published: 2024-12-24T18:42:49.242581+00:00
+
  ## kernl-ui
  - [https://northeastern.netlify.app](https://northeastern.netlify.app)
  - date_published: 2024-09-18T23:07:32.458460+00:00
@@ -3966,76 +4038,4 @@ The Album
  ## MDN, indexed by Pagefind.
  - [https://mdn.pagefind.app](https://mdn.pagefind.app)
  - date_published: 2024-09-10T00:00:00+00:00
-
- ## Pagefind | Pagefind — Static low-bandwidth search at scale
- - [https://pagefind.app](https://pagefind.app)
- - date_published: 2024-04-04T09:46:48+00:00
-
- ## Home | Pagefind XKCD Demo
- - [https://xkcd.pagefind.app](https://xkcd.pagefind.app)
- - date_published: 2023-09-13T04:51:09+00:00
-
- ## Plausible · Web analytics
- - [https://app.pageview.app](https://app.pageview.app)
- - date_published: 2024-09-14T07:48:14.351128+00:00
-
- ## Palettte App
- - [https://palettte.app](https://palettte.app)
- - date_published: 2024-10-22T19:23:55.020124+00:00
-
- ## Palform — Free end-to-end encrypted form builder
- - [https://palform.app](https://palform.app)
- - date_published: 2024-09-02T09:57:14.388999+00:00
-
- ## Pangea | Hire Top Marketing & Design Talent
- - [https://about.pangea.app](https://about.pangea.app)
- - date_published: 2024-10-27T15:13:22+00:00
-
- ## AI:JD by Pangea
- - [https://ai-jd.pangea.app](https://ai-jd.pangea.app)
- - date_published: 2023-09-18T00:00:00+00:00
-
- ## Become a security pro - Panoptica Academy
- - [https://academy.panoptica.app](https://academy.panoptica.app)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Cisco Panoptica
- - [https://docs.panoptica.app](https://docs.panoptica.app)
- - date_published: 2024-08-18T09:47:51.806861+00:00
-
- ## The Cisco Secure Application Cloud | An Effective Security Platform - Panoptica
- - [https://panoptica.app](https://panoptica.app)
- - date_published: 2023-12-20T23:10:10.715922+00:00
-
- ## Paperclips - AI Generated Flashcards
- - [https://paperclips.app](https://paperclips.app)
- - date_published: 2023-12-28T06:10:46+00:00
-
- ## Home | Parsec Blog
- - [https://blog.parsec.app](https://blog.parsec.app)
- - date_published: 2024-10-04T04:57:14.840776+00:00
-
- ## Webinar: See Parsec for Teams Yourself
- - [https://go.parsec.app](https://go.parsec.app)
- - date_published: 2024-06-16T11:50:59.231129+00:00
-
- ## Connect to Work or Games from Anywhere | Parsec
- - [https://pages.parsec.app](https://pages.parsec.app)
- - date_published: 2024-10-04T04:57:16.508627+00:00
-
- ## Connect to Work or Games from Anywhere | Parsec
- - [https://parsec.app](https://parsec.app)
- - date_published: 2024-06-16T11:51:03.931807+00:00
-
- ## Partnerhub® for partnerships-led growth.
- - [https://partnerhub.app](https://partnerhub.app)
- - date_published: 2024-07-11T17:31:12.724787+00:00
-
- ## Party
- - [https://base.party.app](https://base.party.app)
- - date_published: 2024-07-21T04:58:18.856013+00:00
-
- ## Party
- - [https://www.partybid.app](https://www.partybid.app)
- - date_published: 2024-09-25T11:22:18.994162+00:00
 
