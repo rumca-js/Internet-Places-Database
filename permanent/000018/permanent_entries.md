@@ -1,3 +1,295 @@
+ ## Precisa de assistência técnica? Nós podemos te ajudar| UOL Assistência Técnica
+ - [https://assistenciatecnica.uol.com.br](https://assistenciatecnica.uol.com.br)
+ - date_published: 2024-12-22T06:38:31.820113+00:00
+
+ ## Aventuras na História
+ - [https://aventurasnahistoria.uol.com.br](https://aventurasnahistoria.uol.com.br)
+ - date_published: 2024-06-28T15:59:54.159071+00:00
+
+ ## UOL Busca
+ - [https://busca.uol.com.br](https://busca.uol.com.br)
+ - date_published: 2023-01-30T20:26:12+00:00
+
+ ## CARAS Brasil
+ - [https://caras.uol.com.br](https://caras.uol.com.br)
+ - date_published: 2024-05-10T02:43:46.919114+00:00
+
+ ## Cartum: quadrinhos, tirinhas e charges | Folha
+ - [https://cartum.folha.uol.com.br](https://cartum.folha.uol.com.br)
+ - date_published: 2024-08-18T13:03:48.881691+00:00
+
+ ## CineBuzz
+ - [https://cinebuzz.uol.com.br](https://cinebuzz.uol.com.br)
+ - date_published: 2024-06-28T15:59:49.368483+00:00
+
+ ## Classificados: Carros, Imóveis, Empregos e Negócios | Folha
+ - [http://classificados1.folha.uol.com.br](http://classificados1.folha.uol.com.br)
+ - date_published: 2024-08-18T13:03:54.893166+00:00
+
+ ## Descontos, benefícios e vantagens | Clube UOL
+ - [https://clube.uol.com.br](https://clube.uol.com.br)
+ - date_published: 2024-12-22T06:37:21.736012+00:00
+
+ ## Contigo!
+ - [https://contigo.uol.com.br](https://contigo.uol.com.br)
+ - date_published: 2024-06-28T15:59:58.931677+00:00
+
+ ## TV Cultura
+ - [https://cultura.uol.com.br](https://cultura.uol.com.br)
+ - date_published: 2024-09-25T12:03:44.029291+00:00
+
+ ## Datafolha: Pesquisa Eleitoral, Avaliação de Governo e Opinião
+ - [https://datafolha.folha.uol.com.br](https://datafolha.folha.uol.com.br)
+ - date_published: 2024-08-18T13:04:20.884487+00:00
+
+ ## Diálogos do Sul Global
+ - [https://dialogosdosul.operamundi.uol.com.br](https://dialogosdosul.operamundi.uol.com.br)
+ - date_published: 2023-09-15T20:47:48+00:00
+
+ ## UOL - Seu universo online
+ - [https://dna.uol.com.br](https://dna.uol.com.br)
+ - date_published: 2024-07-11T17:32:25+00:00
+
+ ## UOL Economia
+ - [https://economia.uol.com.br](https://economia.uol.com.br)
+ - date_published: 2024-12-22T02:04:27+00:00
+
+ ## UOL Educação: Pesquisa escolar, vestibular e dicas para alunos, pais e professores
+ - [https://educacao.uol.com.br](https://educacao.uol.com.br)
+ - date_published: 2024-12-20T22:17:08+00:00
+
+ ## E-mail UOL
+ - [https://email.uol.com.br](https://email.uol.com.br)
+ - date_published: 2024-11-21T14:29:24+00:00
+
+ ## Entretempos - Artes visuais diluídas em diferentes suportes, no Brasil e pelo mundo
+ - [https://entretempos.blogfolha.uol.com.br](https://entretempos.blogfolha.uol.com.br)
+ - date_published: 2024-12-21T09:27:07.972575+00:00
+
+ ## Estúdio Folha
+ - [https://estudio.folha.uol.com.br](https://estudio.folha.uol.com.br)
+ - date_published: 2024-08-18T13:03:10.449664+00:00
+
+ ## Login - Folha de S.Paulo
+ - [https://eventos.folha.uol.com.br](https://eventos.folha.uol.com.br)
+ - date_published: 2024-08-18T13:04:27.639745+00:00
+
+ ## F5 - Celebridades, Novelas, Séries, Música, BBB e Horóscopo
+ - [https://f5.folha.uol.com.br](https://f5.folha.uol.com.br)
+ - date_published: 2024-08-18T13:04:49.908543+00:00
+
+ ## Fotografia - Folha de S.Paulo
+ - [https://fotografia.folha.uol.com.br](https://fotografia.folha.uol.com.br)
+ - date_published: 2024-08-18T13:03:28.813451+00:00
+
+ ## Bares, Festas, Shows e mais Atrações em SP
+ - [https://guia.folha.uol.com.br](https://guia.folha.uol.com.br)
+ - date_published: 2024-08-18T13:05:10.056286+00:00
+
+ ## Carros elétricos e híbridos | InsideEVs Brasil
+ - [https://insideevs.uol.com.br](https://insideevs.uol.com.br)
+ - date_published: 2024-08-19T08:49:13.693077+00:00
+
+ ## Ler livros, jornais e revistas online quando e onde quiser - UOL Leia+
+ - [https://leiamais.uol.com.br](https://leiamais.uol.com.br)
+ - date_published: 2024-12-22T06:40:39.886418+00:00
+
+ ## UOL - Seu universo online
+ - [http://linaldoguedes.blog.uol.com.br](http://linaldoguedes.blog.uol.com.br)
+ - date_published: 2024-12-20T07:26:59+00:00
+
+ ## Livros Etc - por Josélia Aguiar - Folha de S.Paulo - Blogs
+ - [http://livrosetc.blogfolha.uol.com.br](http://livrosetc.blogfolha.uol.com.br)
+ - date_published: 2024-12-20T09:53:22.346551+00:00
+
+ ## Máxima
+ - [https://maxima.uol.com.br](https://maxima.uol.com.br)
+ - date_published: 2024-06-28T16:00:10.594455+00:00
+
+ ## Login - Folha de S.Paulo
+ - [https://minhafolha.folha.uol.com.br](https://minhafolha.folha.uol.com.br)
+ - date_published: 2024-08-18T13:04:37.001367+00:00
+
+ ## Motor1.com Brasil | Avaliações, comparativos e notícias do mundo automotivo
+ - [https://motor1.uol.com.br](https://motor1.uol.com.br)
+ - date_published: 2024-08-18T14:05:41.354592+00:00
+
+ ## Motorsport.com - Fórmula 1, NASCAR, MotoGP, Fórmula Indy
+ - [https://motorsport.uol.com.br](https://motorsport.uol.com.br)
+ - date_published: 2024-07-17T04:53:54.763472+00:00
+
+ ## UOL Notícias | Notícias do Dia no Brasil e no Mundo
+ - [https://noticias.uol.com.br](https://noticias.uol.com.br)
+ - date_published: 2024-12-22T04:47:54+00:00
+
+ ## Home
+ - [https://observatoriodocinema.uol.com.br](https://observatoriodocinema.uol.com.br)
+ - date_published: 2024-10-25T19:50:48+00:00
+
+ ## Home 1
+ - [https://operamundi.uol.com.br](https://operamundi.uol.com.br)
+ - date_published: 2023-05-16T17:35:02+00:00
+
+ ## UOL - Seu universo online
+ - [http://paineldasletras.folha.blog.uol.com.br](http://paineldasletras.folha.blog.uol.com.br)
+ - date_published: 2024-12-20T10:13:07+00:00
+
+ ## revista piauí | _pra quem tem um clique a mais
+ - [https://piaui.folha.uol.com.br](https://piaui.folha.uol.com.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Assista ao vivo MTV, Sony, Warner, AXN e Paramount+ | UOL Play
+ - [https://play.uol.com.br](https://play.uol.com.br)
+ - date_published: 2024-12-20T21:06:27+00:00
+
+ ## Conheça nossos produtos digitais | UOL produtos digitais
+ - [https://produtos.uol.com.br](https://produtos.uol.com.br)
+ - date_published: 2024-12-22T06:40:59.834498+00:00
+
+ ## Mercado: Publicidade Legal | Folha
+ - [https://publicidadelegal.folha.uol.com.br](https://publicidadelegal.folha.uol.com.br)
+ - date_published: 2024-08-18T13:04:40.042547+00:00
+
+ ## Recreio
+ - [https://recreio.uol.com.br](https://recreio.uol.com.br)
+ - date_published: 2024-06-28T16:00:03.852827+00:00
+
+ ## Assistência Total 24 Horas: Funeral, Residencial, Veicular, Nutricional e Fitness | UOL Resolve
+ - [https://resolve.uol.com.br](https://resolve.uol.com.br)
+ - date_published: 2024-12-22T06:37:11.492138+00:00
+
+ ## Revista CULT
+ - [http://revistacult.uol.com.br](http://revistacult.uol.com.br)
+ - date_published: 2024-12-23T14:26:18.587295+00:00
+
+ ## Rolling Stone Brasil
+ - [https://rollingstone.uol.com.br](https://rollingstone.uol.com.br)
+ - date_published: 2024-06-28T15:59:51.949519+00:00
+
+ ## UOL SAC: atendimento online, tira-dúvidas sobre serviços e ajuda sobre produtos
+ - [https://sac.uol.com.br](https://sac.uol.com.br)
+ - date_published: 2024-07-10T02:50:15.660366+00:00
+
+ ## Folha de S.Paulo: Notícias, Imagens, Vídeos e Entrevistas
+ - [https://search.folha.uol.com.br](https://search.folha.uol.com.br)
+ - date_published: 2024-08-18T13:03:41.449701+00:00
+
+ ## Antivírus para computador e celular | UOL Antivírus
+ - [https://seguranca.uol.com.br](https://seguranca.uol.com.br)
+ - date_published: 2024-12-22T06:38:09.277662+00:00
+
+ ## Sobre UOL: Conheça a maior empresa brasileira de conteúdo, tecnologia, serviços e meios de pagamentos digitais.
+ - [https://sobreuol.noticias.uol.com.br](https://sobreuol.noticias.uol.com.br)
+ - date_published: 2024-11-22T16:46:32+00:00
+
+ ## Sportbuzz
+ - [https://sportbuzz.uol.com.br](https://sportbuzz.uol.com.br)
+ - date_published: 2024-06-28T15:59:56.745164+00:00
+
+ ## UOL TAB: Tendências, comportamento, política e cultura em formatos inovadores
+ - [https://tab.uol.com.br](https://tab.uol.com.br)
+ - date_published: 2024-12-19T16:01:43+00:00
+
+ ## Tempo | Folha
+ - [https://tempo.folha.uol.com.br](https://tempo.folha.uol.com.br)
+ - date_published: 2024-08-18T13:03:44.663976+00:00
+
+ ## Especial Top of Mind 2023 | Folha
+ - [https://top-of-mind.folha.uol.com.br](https://top-of-mind.folha.uol.com.br)
+ - date_published: 2024-08-18T13:03:34.239190+00:00
+
+ ## Folha Transparência: Informações do Poder Público
+ - [http://transparencia.folha.uol.com.br](http://transparencia.folha.uol.com.br)
+ - date_published: 2024-08-18T13:03:32.205468+00:00
+
+ ## Tvcaras
+ - [https://tvcaras.uol.com.br](https://tvcaras.uol.com.br)
+ - date_published: 2024-07-11T17:33:30.360796+00:00
+
+ ## UOL - Seu universo online
+ - [https://uol.com.br](https://uol.com.br)
+ - date_published: 2024-12-20T07:30:34+00:00
+
+ ## UOL HOST - Hospedagem de sites com domínio GRÁTIS!
+ - [https://uolhost.uol.com.br](https://uolhost.uol.com.br)
+ - date_published: 2024-12-20T18:11:23+00:00
+
+ ## UOL Wi-Fi
+ - [https://wifi.uol.com.br](https://wifi.uol.com.br)
+ - date_published: 2024-12-22T06:40:11.928439+00:00
+
+ ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
+ - [https://www1.folha.uol.com.br](https://www1.folha.uol.com.br)
+ - date_published: 2023-11-18T08:17:46.153355+00:00
+
+ ## UOL - Seu universo online
+ - [http://www2.uol.com.br](http://www2.uol.com.br)
+ - date_published: 2024-12-20T09:57:28+00:00
+
+ ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
+ - [https://www.folha.uol.com.br](https://www.folha.uol.com.br)
+ - date_published: 2024-08-18T13:04:00.942864+00:00
+
+ ## UOL - Seu universo online
+ - [https://www.uol.com.br](https://www.uol.com.br)
+ - date_published: 2024-06-26T21:57:42+00:00
+
+ ## UOL - Seu universo online
+ - [http://xicosa.folha.blog.uol.com.br](http://xicosa.folha.blog.uol.com.br)
+ - date_published: 2024-12-20T07:11:06+00:00
+
+ ## OpenVPN CWS
+ - [https://network.uzmigames.com.br](https://network.uzmigames.com.br)
+ - date_published: 2024-09-24T08:10:30.224136+00:00
+
+ ## Uzmi Games
+ - [https://uzmigames.com.br](https://uzmigames.com.br)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Vagas de Emprego e Oportunidades de Trabalho Hoje
+ - [https://site.vagas.com.br](https://site.vagas.com.br)
+ - date_published: 2024-06-18T07:12:47.452062+00:00
+
+ ## Vagas de Emprego e Oportunidades de Trabalho Hoje
+ - [https://trabalheconosco.vagas.com.br](https://trabalheconosco.vagas.com.br)
+ - date_published: 2024-10-12T19:20:43.652624+00:00
+
+ ## Vagas de Emprego e Oportunidades de Trabalho Hoje
+ - [https://www.vagas.com.br](https://www.vagas.com.br)
+ - date_published: 2024-06-29T15:12:28.980646+00:00
+
+ ## Home - Vale do Pinhão
+ - [http://valedopinhao.com.br](http://valedopinhao.com.br)
+ - date_published: 2024-06-12T11:20:08.862192+00:00
+
+ ## Valeo Service Brasil
+ - [https://valeoservice.com.br](https://valeoservice.com.br)
+ - date_published: 2024-12-14T11:50:33+00:00
+
+ ## Valor Econômico
+ - [http://www.valor.com.br](http://www.valor.com.br)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## VEGAZETA: Veganismo em jornalismo, história e cultura
+ - [https://vegazeta.com.br](https://vegazeta.com.br)
+ - date_published: 2018-06-06T06:08:15+00:00
+
+ ## Compañías Velcro - Sistemas de Sujeição de gancho e argola
+ - [https://www.velcro.com.br](https://www.velcro.com.br)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Authentication - GLPI
+ - [https://chamados.vestcasa.com.br](https://chamados.vestcasa.com.br)
+ - date_published: 2024-06-16T15:36:44.390502+00:00
+
+ ## ViajaNet - Agência de viagens líder no Brasil
+ - [http://viajanet.com.br](http://viajanet.com.br)
+ - date_published: 2024-10-12T20:23:21.046894+00:00
+
+ ## Viajar com Alê
+ - [https://viajarcomale.com.br](https://viajarcomale.com.br)
+ - date_published: 2024-06-15T08:39:39.759369+00:00
+
  ## Vida de autônomo
  - [https://vidadeautonomo.com.br](https://vidadeautonomo.com.br)
  - date_published: 2024-10-28T13:38:36.970576+00:00
@@ -2671,6 +2963,10 @@
  - [https://aasua.ca](https://aasua.ca)
  - date_published: 2024-06-28T00:00:00+00:00
 
+ ## Abacus Data
+ - [https://abacusdata.ca](https://abacusdata.ca)
+ - date_published: 2024-12-25T21:51:27.442724+00:00
+
  ## Canada
  - [https://abebooks.ca](https://abebooks.ca)
  - date_published: 2024-06-15T02:38:37.698777+00:00
@@ -3165,6 +3461,10 @@
  ## A School, A Park 2018
  - [http://a-school-a-park.ca](http://a-school-a-park.ca)
  - date_published: 2019-05-17T15:25:41+00:00
+
+ ## Asia Pacific Foundation of Canada
+ - [https://www.asiapacific.ca](https://www.asiapacific.ca)
+ - date_published: 2024-12-25T21:51:17.722166+00:00
 
  ## David Asper Centre for Constitutional Rights | Facutly of Law, University of TorontoDavid Asper Centre for Constitutional Rights
  - [http://www.aspercentre.ca](http://www.aspercentre.ca)
@@ -3715,304 +4015,4 @@
  ## How to Lose at 40k
  - [http://h2lat40k.blogspot.ca](http://h2lat40k.blogspot.ca)
  - date_published: 2024-10-22T09:33:30+00:00
-
- ## Heaven's Teeth
- - [http://heavensteeth.blogspot.ca](http://heavensteeth.blogspot.ca)
- - date_published: 2024-10-02T06:32:05+00:00
-
- ## Historien.nes de la santé
- - [http://histoiresante.blogspot.ca](http://histoiresante.blogspot.ca)
- - date_published: 2024-10-29T10:01:31+00:00
-
- ## THE HOCKEY SCHTICK
- - [http://hockeyschtick.blogspot.ca](http://hockeyschtick.blogspot.ca)
- - date_published: 2024-09-14T10:40:48+00:00
-
- ## Ivebeenreadinglately
- - [http://ivebeenreadinglately.blogspot.ca](http://ivebeenreadinglately.blogspot.ca)
- - date_published: 2024-09-09T08:54:00+00:00
-
- ## Moneyness
- - [http://jpkoning.blogspot.ca](http://jpkoning.blogspot.ca)
- - date_published: 2024-06-18T23:48:33+00:00
-
- ## Cake Mix
- - [http://kekai.blogspot.ca](http://kekai.blogspot.ca)
- - date_published: 2024-12-04T11:32:53+00:00
-
- ## Aiee! Run From Kelvin's Brainsplurge!
- - [http://kelvingreen.blogspot.ca](http://kelvingreen.blogspot.ca)
- - date_published: 2024-12-12T17:08:09+00:00
-
- ## Language Evolution
- - [http://langevo.blogspot.ca](http://langevo.blogspot.ca)
- - date_published: 2024-07-01T08:55:57+00:00
-
- ## Pupienus Maximus - The Food Pr0n Obsessed Emperor of Portland
- - [https://liveleftcookright.blogspot.ca](https://liveleftcookright.blogspot.ca)
- - date_published: 2024-09-12T06:08:31+00:00
-
- ## Lizok's Bookshelf
- - [http://lizoksbooks.blogspot.ca](http://lizoksbooks.blogspot.ca)
- - date_published: 2024-06-03T02:06:21+00:00
-
- ## Lohwand
- - [http://lohwand.blogspot.ca](http://lohwand.blogspot.ca)
- - date_published: 2024-12-08T02:03:56+00:00
-
- ## Free Wallpapers - Macromattersblog
- - [http://macromattersblog.blogspot.ca](http://macromattersblog.blogspot.ca)
- - date_published: 2024-09-23T01:32:20+00:00
-
- ## 2 Wheels, 2 Oceans, 2 Months
- - [https://mikeseatosea.blogspot.ca](https://mikeseatosea.blogspot.ca)
- - date_published: 2024-02-07T23:22:40+00:00
-
- ## Computing Reality
- - [http://milesparker.blogspot.ca](http://milesparker.blogspot.ca)
- - date_published: 2024-07-03T01:48:35+00:00
-
- ## Modern Synthesist
- - [http://modernsynthesist.blogspot.ca](http://modernsynthesist.blogspot.ca)
- - date_published: 2024-06-24T02:23:21+00:00
-
- ## The Mumpsimus
- - [http://mumpsimus.blogspot.ca](http://mumpsimus.blogspot.ca)
- - date_published: 2024-09-06T19:13:54+00:00
-
- ## My Codde
- - [http://mycodde.blogspot.ca](http://mycodde.blogspot.ca)
- - date_published: 2024-08-06T06:45:15+00:00
-
- ## My Life in Millimetres
- - [http://mylifeinmm.blogspot.ca](http://mylifeinmm.blogspot.ca)
- - date_published: 2024-03-19T21:28:00+00:00
-
- ## Faeit 212
- - [http://natfka.blogspot.ca](http://natfka.blogspot.ca)
- - date_published: 2024-10-25T01:18:01+00:00
-
- ## Nerd Ralph
- - [http://nerdralph.blogspot.ca](http://nerdralph.blogspot.ca)
- - date_published: 2024-07-07T13:13:23+00:00
-
- ## Nie znaleziono bloga
- - [http://nerds-central.blogspot.ca](http://nerds-central.blogspot.ca)
- - date_published: 2024-09-03T21:39:19.248540+00:00
-
- ## Objective Secured
- - [http://objectivesecured.blogspot.ca](http://objectivesecured.blogspot.ca)
- - date_published: 2024-10-24T09:17:39+00:00
-
- ## The Old World Army Challenge
- - [https://oldworldarmychallenge.blogspot.ca](https://oldworldarmychallenge.blogspot.ca)
- - date_published: 2024-10-26T09:09:08+00:00
-
- ## PaleoJudaica.com
- - [http://paleojudaica.blogspot.ca](http://paleojudaica.blogspot.ca)
- - date_published: 2024-10-29T11:23:49+00:00
-
- ## Past Times and Present Tensions
- - [http://pasttimesandpresnttensions.blogspot.ca](http://pasttimesandpresnttensions.blogspot.ca)
- - date_published: 2017-08-23T10:54:00+00:00
-
- ## The Pervocracy
- - [http://pervocracy.blogspot.ca](http://pervocracy.blogspot.ca)
- - date_published: 2024-10-18T14:37:09.571206+00:00
-
- ## PhD Talk
- - [https://phdtalk.blogspot.ca](https://phdtalk.blogspot.ca)
- - date_published: 2024-05-02T10:13:04.341653+00:00
-
- ## Western Undergrad Mathematics Pizza Seminar
- - [http://pizzaseminaruwo.blogspot.ca](http://pizzaseminaruwo.blogspot.ca)
- - date_published: 2024-03-19T08:48:24+00:00
-
- ## Plaid Stallions : Rambling and Reflections on '70s pop culture
- - [http://plaidstallions.blogspot.ca](http://plaidstallions.blogspot.ca)
- - date_published: 2024-12-01T11:38:29+00:00
-
- ## Sentient Developments Podcast
- - [https://podcastsentdev.blogspot.ca](https://podcastsentdev.blogspot.ca)
- - date_published: 2024-10-07T03:39:27+00:00
-
- ## *Reflective Disequilibrium*
- - [https://reflectivedisequilibrium.blogspot.ca](https://reflectivedisequilibrium.blogspot.ca)
- - date_published: 2020-10-15T00:00:00+00:00
-
- ## Shadow Prophets
- - [http://shadowprophets.blogspot.ca](http://shadowprophets.blogspot.ca)
- - date_published: 2024-08-30T16:03:51+00:00
-
- ## Muhlberger's World History
- - [https://smuhlberger.blogspot.ca](https://smuhlberger.blogspot.ca)
- - date_published: 2024-09-04T07:12:14+00:00
-
- ## Didcot Wargames Club
- - [http://standwargaming.blogspot.ca](http://standwargaming.blogspot.ca)
- - date_published: 2024-10-23T23:01:04+00:00
-
- ## The Privates Eternal
- - [http://theprivateseternal.blogspot.ca](http://theprivateseternal.blogspot.ca)
- - date_published: 2024-06-29T22:15:34+00:00
-
- ## Thrilling Wonder Artwork
- - [http://thrillingwonderartwork.blogspot.ca](http://thrillingwonderartwork.blogspot.ca)
- - date_published: 2024-02-20T07:37:40+00:00
-
- ## Thrilling Wonder Writing
- - [http://thrillingwonderwriting.blogspot.ca](http://thrillingwonderwriting.blogspot.ca)
- - date_published: 2023-11-15T19:08:07+00:00
-
- ## Tom Nelson
- - [https://tomnelson.blogspot.ca](https://tomnelson.blogspot.ca)
- - date_published: 2024-05-06T23:32:23.707679+00:00
-
- ## Transit Futures
- - [http://transitfutures.blogspot.ca](http://transitfutures.blogspot.ca)
- - date_published: 2024-02-07T06:29:13+00:00
-
- ## Tuva / Feynman News
- - [http://tuvafeynman.blogspot.ca](http://tuvafeynman.blogspot.ca)
- - date_published: 2024-09-25T05:22:21+00:00
-
- ## Building Community. Будуємо громаду.
- - [http://ucu-building-community.blogspot.ca](http://ucu-building-community.blogspot.ca)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## What's Happening in Toronto Linguistics
- - [http://utlinguistics.blogspot.ca](http://utlinguistics.blogspot.ca)
- - date_published: 2024-07-19T07:00:00+00:00
-
- ## UTSC Pulse
- - [http://utscpulse.blogspot.ca](http://utscpulse.blogspot.ca)
- - date_published: 2024-09-08T09:40:22+00:00
-
- ## James Wappel Miniature Painting
- - [http://wappellious.blogspot.ca](http://wappellious.blogspot.ca)
- - date_published: 2024-10-20T21:49:58+00:00
-
- ## Whole, Fresh, Delicious
- - [http://wholefreshdelicious.blogspot.ca](http://wholefreshdelicious.blogspot.ca)
- - date_published: 2015-04-04T00:00:00+00:00
-
- ## Written Inc.
- - [http://writteninc.blogspot.ca](http://writteninc.blogspot.ca)
- - date_published: 2024-10-29T14:11:04+00:00
-
- ## Paint Bard
- - [http://www.paintbard.blogspot.ca](http://www.paintbard.blogspot.ca)
- - date_published: 2024-06-03T17:39:04+00:00
-
- ## Sons of Taurus
- - [http://www.sonsoftaurus.blogspot.ca](http://www.sonsoftaurus.blogspot.ca)
- - date_published: 2024-09-05T09:40:33+00:00
-
- ## Pacific Blue Cross - BC's #1 provider of health, dental and travel benefits
- - [https://www.pac.bluecross.ca](https://www.pac.bluecross.ca)
- - date_published: 2024-06-27T13:06:35.742393+00:00
-
- ## Créez, imprimez et vendez des livres photos de qualité professionnelle | Blurb
- - [https://fr.blurb.ca](https://fr.blurb.ca)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Create, Print, & Sell Professional-Quality Photo Books | Blurb
- - [https://www.blurb.ca](https://www.blurb.ca)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Home - B'nai Brith Canada - B'nai Brith Canada
- - [http://www.bnaibrith.ca](http://www.bnaibrith.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Services bancaires / Banking Services
- - [https://app.bnc.ca](https://app.bnc.ca)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Une carrière à la Banque Nationale
- - [https://emplois.bnc.ca](https://emplois.bnc.ca)
- - date_published: 2024-08-19T10:54:55+00:00
-
- ## Nous sommes désolés
- - [https://extranet2.portail.bnc.ca](https://extranet2.portail.bnc.ca)
- - date_published: 2013-05-03T19:25:43+00:00
-
- ## Solutions bancaires aux particuliers | Banque Nationale
- - [https://www.bnc.ca](https://www.bnc.ca)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## BNN Bloomberg - Canadian Business News, TSX Today, interest rates and Bank of Canada coverage
- - [https://bnnbloomberg.ca](https://bnnbloomberg.ca)
- - date_published: 2023-10-25T12:03:55.221507+00:00
-
- ## Video Production and Creative Agency - Welcome to BNR - Guelph, ON
- - [https://bnrmediagroup.ca](https://bnrmediagroup.ca)
- - date_published: 2024-05-06T12:56:47.739507+00:00
-
- ## Boats in Canada, Canada
- - [http://www.boats.ca](http://www.boats.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Bodyshop in Canada, Canada
- - [http://www.bodyshop.ca](http://www.bodyshop.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Canada
- - [https://boeing.ca](https://boeing.ca)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## ACCUEIL
- - [https://boisrichart.ca](https://boisrichart.ca)
- - date_published: 2024-09-10T11:07:20+00:00
-
- ## Bold Growth Inc.
- - [https://boldgrowth.ca](https://boldgrowth.ca)
- - date_published: 2024-09-17T16:40:19.630047+00:00
-
- ## BOMA Canada – English
- - [https://bomacanada.ca](https://bomacanada.ca)
- - date_published: 2024-10-14T17:05:02+00:00
-
- ## Online Head Shop | Bong Outlet-Free Shipping on Bongs,Pipes and More
- - [http://www.bongoutlet.ca](http://www.bongoutlet.ca)
- - date_published: 2024-12-22T10:44:38.223772+00:00
-
- ## About - Bonnie Allen
- - [http://www.bonnieallen.ca](http://www.bonnieallen.ca)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Best Online Gambling Sites Canada - July 2024
- - [https://www.bonus.ca](https://www.bonus.ca)
- - date_published: 2024-07-17T04:39:38.556981+00:00
-
- ## Bookmark Bookstores Location Picker
- - [https://bookmarkreads.ca](https://bookmarkreads.ca)
- - date_published: 2023-08-29T22:58:55+00:00
-
- ## Tech Forum
- - [http://techforum.booknetcanada.ca](http://techforum.booknetcanada.ca)
- - date_published: 2024-07-03T18:30:29.402060+00:00
-
- ## BookNet Canada
- - [https://www.booknetcanada.ca](https://www.booknetcanada.ca)
- - date_published: 2024-07-03T18:31:14.772377+00:00
-
- ## Bookware 3000
- - [https://bookware3000.ca](https://bookware3000.ca)
- - date_published: 2024-07-21T09:04:42.629619+00:00
-
- ## Home - George Brown College CAMPUS STORES
- - [https://gbcbookstore.bookware3000.ca](https://gbcbookstore.bookware3000.ca)
- - date_published: 2024-09-24T21:20:39.940869+00:00
-
- ## Home
- - [https://borden-carleton.ca](https://borden-carleton.ca)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Borealis: The Canadian Dataverse Repository
- - [https://borealisdata.ca](https://borealisdata.ca)
- - date_published: 2024-06-27T21:35:09+00:00
-
- ## Home
- - [https://www.bosch.ca](https://www.bosch.ca)
- - date_published: 2024-10-14T06:45:05+00:00
 

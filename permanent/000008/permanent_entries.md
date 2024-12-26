@@ -1,3 +1,48 @@
+ ## OpenTechSummit Vietnam
+ - [https://vn.opentechsummit.asia](https://vn.opentechsummit.asia)
+ - date_published: 2020-01-15T17:26:36+00:00
+
+ ## Gabriele de Seta
+ - [http://paranom.asia](http://paranom.asia)
+ - date_published: 2024-09-06T21:37:11.300094+00:00
+
+ ## PASARBOLA : Link Resmi Pasarbola, Daftar Pasar Bola, Login Pasarbola
+ - [https://pasarbola.asia](https://pasarbola.asia)
+ - date_published: 2024-06-29T19:19:43.440233+00:00
+
+ ## Peter Tasker | As an author of novels and nonfiction books, a writer, a speaker, and most notably, a finance guru, Peter Tasker is a man of many talents.
+ - [https://petertasker.asia](https://petertasker.asia)
+ - date_published: 2023-12-09T18:59:39.029867+00:00
+ - tags: ['personal']
+
+ ## PI Southeast Asia
+ - [https://www.pi-southeast.asia](https://www.pi-southeast.asia)
+ - date_published: 2024-09-05T21:02:37.704703+00:00
+
+ ## Asia Public Holidays - PublicHolidays.asia
+ - [https://publicholidays.asia](https://publicholidays.asia)
+ - date_published: 2023-12-06T12:19:57.859246+00:00
+
+ ## PUSSY888 คาสิโนออนไลน์ สล็อตออนไลน์พุชชี่888
+ - [https://www.pussy888fun.asia](https://www.pussy888fun.asia)
+ - date_published: 2024-10-22T13:29:19.765755+00:00
+
+ ## Desuarchive
+ - [https://rbt.asia](https://rbt.asia)
+ - date_published: 2024-06-23T18:03:11.500715+00:00
+
+ ## SASEC Home
+ - [http://sasec.asia](http://sasec.asia)
+ - date_published: 2024-07-16T22:50:26.352817+00:00
+
+ ## FOSSASIA
+ - [https://sciencehack.asia](https://sciencehack.asia)
+ - date_published: 2018-09-23T09:18:59+00:00
+
+ ## SecurityBrief Asia - Technology news for CISOs & cybersecurity decision-makers
+ - [https://securitybrief.asia](https://securitybrief.asia)
+ - date_published: 2024-06-22T12:26:17.401197+00:00
+
  ## Home - ASEEDER Academic Challenges
  - [http://www.seedasdan.asia](http://www.seedasdan.asia)
  - date_published: 2024-08-07T17:30:06.967890+00:00
@@ -2592,6 +2637,10 @@
  - [https://kescher.at](https://kescher.at)
  - date_published: 2024-05-14T17:56:44+00:00
 
+ ## Selbstverlag Stock & Stock
+ - [https://kfstock.at](https://kfstock.at)
+ - date_published: 2020-06-25T10:00:44+00:00
+
  ## ObjektDB
  - [http://bilddatenbank.khm.at](http://bilddatenbank.khm.at)
  - date_published: 2024-04-02T00:00:00+00:00
@@ -3052,6 +3101,10 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - [https://www.mouser.at](https://www.mouser.at)
  - date_published: 2024-07-01T20:55:48.942273+00:00
 
+ ## Unternehmens- & Personalentwicklung I Beratung I Coaching
+ - [https://www.move-ment.at](https://www.move-ment.at)
+ - date_published: 2024-12-25T12:01:20+00:00
+
  ## MuseumsQuartier Wien
  - [https://www.mqw.at](https://www.mqw.at)
  - date_published: 2024-08-11T14:28:28.347402+00:00
@@ -3084,9 +3137,17 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - [https://mxb.at](https://mxb.at)
  - date_published: 2024-05-07T23:16:33.200925+00:00
 
+ ## The Yocto Project | Spreadshop
+ - [https://100785105.myspreadshop.at](https://100785105.myspreadshop.at)
+ - date_published: 2024-12-25T12:11:45.235799+00:00
+
  ## GameMaker Merchandise - Shirts Hoodies & Caps | GameMaker | Spreadshop
  - [https://100945308.myspreadshop.at](https://100945308.myspreadshop.at)
  - date_published: 2024-09-15T23:51:57.870937+00:00
+
+ ## Melon & Finn Shop | Spreadshop
+ - [https://101002615.myspreadshop.at](https://101002615.myspreadshop.at)
+ - date_published: 2024-12-25T12:07:28.177473+00:00
 
  ## Cults official store | Spreadshop
  - [https://101037123.myspreadshop.at](https://101037123.myspreadshop.at)
@@ -3167,6 +3228,10 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## OÖNachrichten FORUM
  - [https://www.nachrichtenforum.at](https://www.nachrichtenforum.at)
  - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Napapijri Offizieller Online Shop
+ - [https://www.napapijri.at](https://www.napapijri.at)
+ - date_published: 2024-12-25T18:30:26.357411+00:00
 
  ## narrenturm.at
  - [http://www.narrenturm.at](http://www.narrenturm.at)
@@ -3948,69 +4013,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Home - RX Austria & Germany | RX
  - [https://rxglobal.at](https://rxglobal.at)
  - date_published: 2024-06-24T08:35:24.847472+00:00
-
- ## Home
- - [https://saferinternet.at](https://saferinternet.at)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Patrik Inzinger • Designer, Entrepreneur
- - [https://saismo.at](https://saismo.at)
- - date_published: 2023-11-29T14:53:43.981711+00:00
- - tags: ['personal']
-
- ## Jobs für Sales-Fachkräfte – salescareer.at
- - [https://www.salescareer.at](https://www.salescareer.at)
- - date_published: 2024-06-16T08:46:45.574824+00:00
-
- ## Rudolf Sallinger Fonds
- - [https://sallingerfonds.at](https://sallingerfonds.at)
- - date_published: 2024-10-14T23:57:38.808792+00:00
-
- ## Salzburg AG für Energie, Verkehr & Telekommunikation
- - [https://www.salzburg-ag.at](https://www.salzburg-ag.at)
- - date_published: 2024-07-14T16:54:15+00:00
-
- ## Salzburg Festival
- - [https://www.salzburgerfestspiele.at](https://www.salzburgerfestspiele.at)
- - date_published: 2024-07-13T09:30:07.610477+00:00
-
- ## Salzburger Verkehrsverbund GmbH
- - [https://salzburg-verkehr.at](https://salzburg-verkehr.at)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Österreich
- - [http://www.sanofi.at](http://www.sanofi.at)
- - date_published: 2024-07-03T03:39:28.021637+00:00
-
- ## Startseite | Santander Consumer Bank Österreich - Ihr Spezialist für Onlinekredite, Kredite, Finanzierung
- - [https://www.santanderconsumer.at](https://www.santanderconsumer.at)
- - date_published: 2024-09-28T20:00:06+00:00
-
- ## www.sarahmang.at – tactile and multisensory art
- - [https://www.sarahmang.at](https://www.sarahmang.at)
- - date_published: 2024-09-02T15:47:22.103140+00:00
-
- ## scenes.at - where do you want to point a scener today?
- - [http://scenes.at](http://scenes.at)
- - date_published: 2024-09-04T11:10:24.315554+00:00
-
- ## Welcome to The Sound of SceneSat web player.
- - [https://sound.of.scenes.at](https://sound.of.scenes.at)
- - date_published: 2024-05-01T00:27:22.597387+00:00
-
- ## Erlebniswelt Schallaburg
- - [https://www.schallaburg.at](https://www.schallaburg.at)
- - date_published: 2024-09-02T15:47:48.390127+00:00
-
- ## Schloss Ambras Innsbruck – das erste Museum der Welt.
- - [https://schlossambras-innsbruck.at](https://schlossambras-innsbruck.at)
- - date_published: 2024-05-28T03:08:42.026779+00:00
-
- ## Schrammel.Klang.Festival
- - [http://www.schrammelklang.at](http://www.schrammelklang.at)
- - date_published: 2024-08-08T03:44:22.359173+00:00
-
- ## Offizielle Scientology Kirche: L. Ron Hubbard, Dianetik, Was ist Scientology?, Bücher, Anschauungen, David Miscavige
- - [https://scientology.at](https://scientology.at)
- - date_published: 0001-01-01T00:00:00+00:00
 

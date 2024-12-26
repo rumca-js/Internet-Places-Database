@@ -1,3 +1,48 @@
+ ## Organic Maps: Offline Hike, Bike, Trails and Navigation
+ - [https://organicmaps.app](https://organicmaps.app)
+ - date_published: 2023-10-25T11:48:11.837009+00:00
+ - tags: ['service maps', 'maps']
+
+ ## EvoTv
+ - [https://organizr.app](https://organizr.app)
+ - date_published: 2024-10-22T19:17:09.474364+00:00
+
+ ## otion - motion graphics for everyone
+ - [https://otion.app](https://otion.app)
+ - date_published: 2024-06-23T12:24:38.158960+00:00
+
+ ## ‎OurCal: Shared Calendar
+ - [https://ourcal.app](https://ourcal.app)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Overland GPS Tracker
+ - [https://overland.p3k.app](https://overland.p3k.app)
+ - date_published: 2015-10-01T00:00:00+00:00
+
+ ## Pachli
+ - [https://pachli.app](https://pachli.app)
+ - date_published: 2024-05-08T10:50:25.021051+00:00
+
+ ## Padloc - Open Source, End-to-end Encrypted Password Manager
+ - [https://padloc.app](https://padloc.app)
+ - date_published: 2022-12-10T10:22:46+00:00
+
+ ## PageFactory | Programmatic SEO for Any Website
+ - [https://pagefactory.app](https://pagefactory.app)
+ - date_published: 2022-05-25T00:00:00+00:00
+
+ ## Fathom Analytics: A Better Google Analytics Alternative
+ - [https://twentytwo-equal.pagefactory.app](https://twentytwo-equal.pagefactory.app)
+ - date_published: 2024-08-01T16:01:53+00:00
+
+ ## Godot documentation, indexed by Pagefind.
+ - [https://godot.pagefind.app](https://godot.pagefind.app)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## MDN, indexed by Pagefind.
+ - [https://mdn.pagefind.app](https://mdn.pagefind.app)
+ - date_published: 2024-09-10T00:00:00+00:00
+
  ## Pagefind | Pagefind — Static low-bandwidth search at scale
  - [https://pagefind.app](https://pagefind.app)
  - date_published: 2024-04-04T09:46:48+00:00
@@ -3979,49 +4024,4 @@
  ## ASICS
  - [https://production-eu-asics-ecomm.vercel.app](https://production-eu-asics-ecomm.vercel.app)
  - date_published: 2024-10-11T13:51:04.304369+00:00
-
- ## Benchmarks for programming languages and compilers, Which programming language or compiler is faster
- - [https://programming-language-benchmarks.vercel.app](https://programming-language-benchmarks.vercel.app)
- - date_published: 2023-10-25T11:50:41.569540+00:00
-
- ## Progress Labs
- - [https://progresslabs-2023-99m6tsp16-progresslabs.vercel.app](https://progresslabs-2023-99m6tsp16-progresslabs.vercel.app)
- - date_published: 2024-10-31T20:32:32.385051+00:00
-
- ## Protein Project
- - [https://protein-project.vercel.app](https://protein-project.vercel.app)
- - date_published: 2024-04-30T02:13:47.069835+00:00
-
- ## ProxiRun
- - [https://proxirun-web.vercel.app](https://proxirun-web.vercel.app)
- - date_published: 2024-09-24T20:43:17.010651+00:00
-
- ## Proxmox VE Helper-Scripts
- - [https://proxmox-helper-scripts.vercel.app](https://proxmox-helper-scripts.vercel.app)
- - date_published: 2024-06-12T22:12:33.402620+00:00
-
- ## PWA NES
- - [https://pwa-nes.vercel.app](https://pwa-nes.vercel.app)
- - date_published: 2024-06-03T11:19:16.134874+00:00
- - tags: ['nes', 'emulator']
-
- ## PyCon Italia 2024 | PyCon Italia
- - [https://pycon-9labmfur5-python-italia.vercel.app](https://pycon-9labmfur5-python-italia.vercel.app)
- - date_published: 2024-06-22T14:02:52.080700+00:00
-
- ## pzprxs
- - [https://pzprxs.vercel.app](https://pzprxs.vercel.app)
- - date_published: 2024-09-16T23:56:09.243925+00:00
-
- ## Show HN: Quadra – organize your tasks and notes beautifully
- - [https://quadra-two.vercel.app](https://quadra-two.vercel.app)
- - date_published: 2024-05-30T14:09:35+00:00
-
- ## Tina
- - [https://quick-edit-demo.vercel.app](https://quick-edit-demo.vercel.app)
- - date_published: 2024-05-06T14:40:29.182157+00:00
-
- ## Quincy Oghenetejiri || Software Developer
- - [https://quincyoghenetejiri.vercel.app](https://quincyoghenetejiri.vercel.app)
- - date_published: 2024-06-02T07:03:15.909336+00:00
 

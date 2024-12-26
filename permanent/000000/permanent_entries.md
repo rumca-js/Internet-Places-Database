@@ -607,6 +607,10 @@
  - [https://www.bagsoflove.ae](https://www.bagsoflove.ae)
  - date_published: 2024-06-17T12:18:40.797770+00:00
 
+ ## BARE International India: Mystery Shopping Company
+ - [https://www.bareinternational.ae](https://www.bareinternational.ae)
+ - date_published: 2024-12-25T08:59:23.768283+00:00
+
  ## Bayanat | Open Data Portal
  - [https://bayanat.ae](https://bayanat.ae)
  - date_published: 2024-09-12T20:23:57.691292+00:00
@@ -686,6 +690,10 @@
  ## Costa Coffee | UAE
  - [https://www.costacoffee.ae](https://www.costacoffee.ae)
  - date_published: 2024-07-04T08:06:02+00:00
+
+ ## Buy Domain and Hosting Packages for Your Website | Crazy Domains UAE
+ - [https://www.crazydomains.ae](https://www.crazydomains.ae)
+ - date_published: 2024-12-25T10:55:44.223936+00:00
 
  ## CryptoniteUAE: Empowering Web3 Entrepreneurs | Latest News & Community
  - [http://cryptonite.ae](http://cryptonite.ae)
@@ -844,6 +852,10 @@
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Welcome to Gulf Information Security Expo & Conference (GISEC)
+ - [https://gisec.ae](https://gisec.ae)
+ - date_published: 2024-12-25T14:04:34.639120+00:00
+
+ ## Welcome to Gulf Information Security Expo & Conference (GISEC)
  - [https://www.gisec.ae](https://www.gisec.ae)
  - date_published: 2024-09-24T21:57:08.739113+00:00
 
@@ -870,6 +882,10 @@
  ## غينيس للأرقام القياسية
  - [https://www.guinnessworldrecords.ae](https://www.guinnessworldrecords.ae)
  - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Hospitality & Foodservice Equipment Exhibition | GulfHost 2024
+ - [https://gulfhost.ae](https://gulfhost.ae)
+ - date_published: 2024-12-25T14:04:51.793255+00:00
 
  ## Gulf Today
  - [https://gulftoday.ae](https://gulftoday.ae)
@@ -4002,20 +4018,4 @@
  ## Bulletpapers - Understand complex papers in seconds
  - [https://bulletpapers.ai](https://bulletpapers.ai)
  - date_published: 2024-05-09T00:00:00+00:00
-
- ## Bunch - AI Coaching | Become a Better Leader in 2 Mins a Day
- - [https://bunch.ai](https://bunch.ai)
- - date_published: 2023-10-25T11:36:43.928399+00:00
-
- ## Bundly Studio
- - [https://app.bundly.ai](https://app.bundly.ai)
- - date_published: 2024-10-30T12:50:50.603762+00:00
-
- ## Bunni - chat with PDF
- - [https://app.bunni.ai](https://app.bunni.ai)
- - date_published: 2024-10-30T15:48:10.339553+00:00
-
- ## Bunni.AI: Chat to your PDF documents - Summarise and ask questions
- - [https://bunni.ai](https://bunni.ai)
- - date_published: 2024-10-30T15:48:00.825713+00:00
 

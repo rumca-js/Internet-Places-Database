@@ -1,3 +1,335 @@
+ ## Intact Insurance | Insurance quote for car, home, business and more
+ - [https://www.intact.ca](https://www.intact.ca)
+ - date_published: 2024-07-11T17:16:05.776002+00:00
+
+ ## IntegrityCounts
+ - [https://www.integritycounts.ca](https://www.integritycounts.ca)
+ - date_published: 2024-05-04T10:05:01.145210+00:00
+
+ ## Intel | Data Center Solutions, IoT, and PC Innovation
+ - [https://intel.ca](https://intel.ca)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Home
+ - [https://www.interac.ca](https://www.interac.ca)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Home | Interactive Brokers Canada Inc.
+ - [https://www.interactivebrokers.ca](https://www.interactivebrokers.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Interior Health | Interior Health
+ - [https://www.interiorhealth.ca](https://www.interiorhealth.ca)
+ - date_published: 2024-08-18T12:19:06.997703+00:00
+
+ ## Cloud IT Application Provider - Intermedia Canada
+ - [https://www.intermedia.ca](https://www.intermedia.ca)
+ - date_published: 2024-10-18T16:20:29.770182+00:00
+
+ ## Interrupt Labs
+ - [https://interruptlabs.ca](https://interruptlabs.ca)
+ - date_published: 2023-10-25T12:05:15.572215+00:00
+
+ ## Flashing Palely in the Margins
+ - [https://www.inthemargins.ca](https://www.inthemargins.ca)
+ - date_published: 2024-04-03T12:44:39.135509+00:00
+ - tags: ['personal']
+
+ ## Medicinal and Psychotherapeutic Uses of Cannabis
+ - [http://intraspec.ca](http://intraspec.ca)
+ - date_published: 2024-12-13T06:25:00.129737+00:00
+
+ ## Accueil ProFile
+ - [http://profilefrancais.intuit.ca](http://profilefrancais.intuit.ca)
+ - date_published: 2024-10-02T13:35:05.954432+00:00
+
+ ## QuickBooks En Ligne® Canada | Logiciel Comptable Pour PME
+ - [http://succespme.intuit.ca](http://succespme.intuit.ca)
+ - date_published: 2024-10-02T13:34:28.427936+00:00
+
+ ## TurboImpôt Canada 2023-2024 : Le logiciel de préparation d’impôt le plus vendu au pays | Faites vos impôts en ligne
+ - [https://turboimpot.intuit.ca](https://turboimpot.intuit.ca)
+ - date_published: 2024-06-16T11:12:35.947721+00:00
+
+ ## TurboTax® Canada 2023-2024: : Best Tax Software | File now
+ - [https://turbotax.intuit.ca](https://turbotax.intuit.ca)
+ - date_published: 2024-05-31T20:09:17.868822+00:00
+
+ ## Lead Economic Development Agency | Invest Ottawa
+ - [https://www.investottawa.ca](https://www.investottawa.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Invitations in Canada, Canada
+ - [http://www.invitations.ca](http://www.invitations.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## iPhone in Canada - Leading Tech News for Canadians
+ - [https://cdn.iphoneincanada.ca](https://cdn.iphoneincanada.ca)
+ - date_published: 2022-07-31T19:31:30+00:00
+
+ ## iPhoneinCanada Deals
+ - [http://deals.iphoneincanada.ca](http://deals.iphoneincanada.ca)
+ - date_published: 2024-09-18T23:10:25.641769+00:00
+
+ ## iPhone in Canada - Leading Tech News for Canadians
+ - [https://iphoneincanada.ca](https://iphoneincanada.ca)
+ - date_published: 2022-07-31T19:31:30+00:00
+
+ ## Lunettes de prescription, lentilles et optométristes | IRIS
+ - [https://iris.ca](https://iris.ca)
+ - date_published: 2024-12-12T17:55:13.015278+00:00
+
+ ## Welcome!
+ - [https://2022.islandora.ca](https://2022.islandora.ca)
+ - date_published: 2022-09-01T21:40:41+00:00
+
+ ## Welcome!
+ - [https://2023.islandora.ca](https://2023.islandora.ca)
+ - date_published: 2023-08-18T16:59:11+00:00
+
+ ## Islandora Open-Source Digital Asset Management
+ - [http://islandora.ca](http://islandora.ca)
+ - date_published: 2023-11-01T00:00:00+00:00
+
+ ## Home | Islandora 2 Starter Site
+ - [https://sandbox.islandora.ca](https://sandbox.islandora.ca)
+ - date_published: 2024-06-19T22:11:30.642108+00:00
+
+ ## Italian Recipes, Pasta, Pizza, Lasagna, Food, Cooking!
+ - [https://italiancook.ca](https://italiancook.ca)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Business Advantage Through Technology | IT Business
+ - [https://itbusiness.ca](https://itbusiness.ca)
+ - date_published: 2022-01-22T20:51:46+00:00
+
+ ## iter.ca
+ - [https://iter.ca](https://iter.ca)
+ - date_published: 2024-01-21T00:00:00+00:00
+
+ ## KB
+ - [https://kb.iter.ca](https://kb.iter.ca)
+ - date_published: 2024-06-18T23:22:17+00:00
+
+ ## Online Electronics Store | ITFactory.ca
+ - [https://itfactory.ca](https://itfactory.ca)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Homepage
+ - [https://itsblossom.ca](https://itsblossom.ca)
+ - date_published: 2024-09-14T07:44:33.945265+00:00
+
+ ## ITWC | Connection.  Engagement. Conversion.
+ - [https://itwc.ca](https://itwc.ca)
+ - date_published: 2024-08-18T12:25:09.644840+00:00
+
+ ## Ivan Reese
+ - [https://ivanish.ca](https://ivanish.ca)
+ - date_published: 2023-10-25T08:42:57.754586+00:00
+ - tags: ['personal']
+
+ ## Baby Laundry Detergents and Washing Tips | Ivory Snow
+ - [https://ivorysnow.ca](https://ivorysnow.ca)
+ - date_published: 2024-10-09T08:03:46+00:00
+
+ ## Ivy Fan-Chiang - Home
+ - [https://ivyfanchiang.ca](https://ivyfanchiang.ca)
+ - date_published: 2024-08-08T15:21:41.466924+00:00
+
+ ## Bezprzewodowe słuchawki i zestawy słuchawkowe | Zestawy słuchawkowe do centrów kontaktowych i biur | Słuchawki sportowe
+ - [https://www.jabra.ca](https://www.jabra.ca)
+ - date_published: 2024-06-23T06:17:26.891719+00:00
+
+ ## Détergents à lessive, assouplissants, produits d'entretien de Gain
+ - [https://jadoregain.ca](https://jadoregain.ca)
+ - date_published: 2024-09-23T10:19:18+00:00
+
+ ## Jake Bruce
+ - [https://jakebruce.ca](https://jakebruce.ca)
+ - date_published: 2023-03-03T12:11:45+00:00
+
+ ## JAMHacks 8
+ - [https://www.jamhacks.ca](https://www.jamhacks.ca)
+ - date_published: 2024-06-20T15:19:35.966992+00:00
+
+ ## KIRTLEY JARVIS      Mixed Media
+ - [http://www.jarvisart.ca](http://www.jarvisart.ca)
+ - date_published: 2024-08-19T16:07:35.798163+00:00
+
+ ## Jason Shew
+ - [https://jasonshew.ca](https://jasonshew.ca)
+ - date_published: 2023-12-09T10:38:16.871758+00:00
+ - tags: ['personal']
+
+ ## Joel Blechinger
+ - [https://www.jblechinger.ca](https://www.jblechinger.ca)
+ - date_published: 2024-08-06T19:13:03.530616+00:00
+
+ ## The jbrains Experience
+ - [https://experience.jbrains.ca](https://experience.jbrains.ca)
+ - date_published: 2024-06-22T09:16:45.495866+00:00
+
+ ## jbrains.ca
+ - [https://www.jbrains.ca](https://www.jbrains.ca)
+ - date_published: 2024-06-22T09:17:17.181061+00:00
+
+ ## JD Sports
+ - [https://jdsports.ca](https://jdsports.ca)
+ - date_published: 2024-10-21T02:21:16.757320+00:00
+
+ ## Jean Augustine Centre – empowering girls & young women
+ - [https://jeanaugustinecentre.ca](https://jeanaugustinecentre.ca)
+ - date_published: 2024-08-09T03:52:33.462841+00:00
+
+ ## Jeep Off-Road Vehicles | Jeep Canada
+ - [https://www.jeep.ca](https://www.jeep.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Abonnement aux magazines et journaux | jemabonne.ca
+ - [https://www.jemabonne.ca](https://www.jemabonne.ca)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Author Jenn Ashton
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date_published: 2023-12-20T19:14:23.669927+00:00
+ - tags: ['personal']
+
+ ## Jennifer Cook, Author
+ - [http://jennifercook.ca](http://jennifercook.ca)
+ - date_published: 2020-06-09T13:27:28+00:00
+
+ ## Jeremy Shields – Dreamer & Winnipegger.
+ - [https://jeremyshields.ca](https://jeremyshields.ca)
+ - date_published: 2024-05-10T06:29:38.718742+00:00
+ - tags: ['personal']
+
+ ## Jetco Contracting
+ - [https://jetcoinc.ca](https://jetcoinc.ca)
+ - date_published: 2024-07-11T17:20:11.097395+00:00
+
+ ## Jetpack Interactive
+ - [https://jetpackinteractive.ca](https://jetpackinteractive.ca)
+ - date_published: 2024-05-09T08:37:38.007404+00:00
+
+ ## J.G. Ballard
+ - [http://www.jgballard.ca](http://www.jgballard.ca)
+ - date_published: 2016-01-31T16:59:25+00:00
+
+ ## Heap Overrun
+ - [https://jgoguen.ca](https://jgoguen.ca)
+ - date_published: 2024-07-23T20:54:14.355958+00:00
+
+ ## Home - Journalists for Human Rights (JHR)
+ - [https://jhr.ca](https://jhr.ca)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## HuoJu's BLOG
+ - [https://jhuo.ca](https://jhuo.ca)
+ - date_published: 2019-01-01T00:00:00+00:00
+
+ ## Corrections Leadership – Your path for leadership development
+ - [https://corrleader.jibc.ca](https://corrleader.jibc.ca)
+ - date_published: 2024-07-04T09:42:49.321712+00:00
+
+ ## Explore JIBC Justice & Public Safety Programs | JIBC
+ - [http://jibc.ca](http://jibc.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Prosenjit K. Bose
+ - [http://jitbose.ca](http://jitbose.ca)
+ - date_published: 2021-09-07T01:38:23+00:00
+
+ ## jliedl.ca
+ - [http://blog.jliedl.ca](http://blog.jliedl.ca)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## jliedl.ca
+ - [https://jliedl.ca](https://jliedl.ca)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Commercial real estate | Property investment | JLL
+ - [https://www.jll.ca](https://www.jll.ca)
+ - date_published: 2024-10-30T21:39:15.654933+00:00
+
+ ## Jean-Marc Valin
+ - [https://jmvalin.ca](https://jmvalin.ca)
+ - date_published: 2024-05-08T10:31:39.445565+00:00
+
+ ## Johann Wentzel
+ - [http://johannwentzel.ca](http://johannwentzel.ca)
+ - date_published: 2024-06-29T07:40:16+00:00
+
+ ## John Carter of Mars Official Site from Edgar Rice Burroughs, Inc., Tarzana, California
+ - [http://johncarterofmars.ca](http://johncarterofmars.ca)
+ - date_published: 2014-10-20T17:46:50+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.johnson.ca](https://www.johnson.ca)
+ - date_published: 2024-07-21T08:26:45.914771+00:00
+
+ ## JonLuca’s Blog | JonLuca’s Blog - A blog about tech, programming, and finance
+ - [https://blog.jonlu.ca](https://blog.jonlu.ca)
+ - date_published: 2023-10-25T12:05:18.268067+00:00
+
+ ## Sign in - Matomo
+ - [https://j.jonlu.ca](https://j.jonlu.ca)
+ - date_published: 2024-09-07T23:51:30.984898+00:00
+
+ ## WordPress.com
+ - [http://jonpeirce.ca](http://jonpeirce.ca)
+ - date_published: 2024-07-09T09:52:58.160002+00:00
+
+ ## Artwork : Joy Ang
+ - [http://joyang.ca](http://joyang.ca)
+ - date_published: 2024-10-25T18:44:00.789721+00:00
+
+ ## Jerry Proc's Family of Web Pages
+ - [https://jproc.ca](https://jproc.ca)
+ - date_published: 2024-04-03T16:14:03+00:00
+ - tags: ['personal']
+
+ ## James Hawley
+ - [https://jrhawley.ca](https://jrhawley.ca)
+ - date_published: 2023-10-25T08:42:58.953735+00:00
+ - tags: ['personal']
+
+ ## Cookbook
+ - [https://recipes.jrhawley.ca](https://recipes.jrhawley.ca)
+ - date_published: 2024-06-14T03:40:11+00:00
+
+ ## James Richardson & Sons, Limited | A Truly Canadian Pioneering Spirit
+ - [https://www.jrsl.ca](https://www.jrsl.ca)
+ - date_published: 2024-10-29T04:42:31.441941+00:00
+
+ ## Julius Davies
+ - [http://juliusdavies.ca](http://juliusdavies.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## this is my blog
+ - [https://blog.jurgen.ca](https://blog.jurgen.ca)
+ - date_published: 2024-05-06T14:14:47.732618+00:00
+
+ ## Welcome to Just Food! - Just Food
+ - [https://justfood.ca](https://justfood.ca)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Justin Henry | Instagram, Facebook | Linktree
+ - [http://justinhenry.ca](http://justinhenry.ca)
+ - date_published: 2021-06-28T00:00:00+00:00
+
+ ## https://justinjackson.ca
+ - [https://justinjackson.ca](https://justinjackson.ca)
+ - date_published: 2023-10-25T09:02:24.126240+00:00
+ - tags: ['personal']
+
+ ## a simple DNS lookup tool
+ - [https://dns-lookup.jvns.ca](https://dns-lookup.jvns.ca)
+ - date_published: 2024-05-07T14:33:07.338084+00:00
+
+ ## julia's drawings
+ - [https://drawings.jvns.ca](https://drawings.jvns.ca)
+ - date_published: 2024-06-19T22:50:21.582415+00:00
+
  ## Julia Evans
  - [https://jvns.ca](https://jvns.ca)
  - date_published: 2023-10-25T09:02:41.915700+00:00
@@ -930,6 +1262,10 @@
  - [https://mcmastercs.ca](https://mcmastercs.ca)
  - date_published: 2024-08-18T07:34:51.873996+00:00
 
+ ## National NewsMedia Council
+ - [https://www.mediacouncil.ca](https://www.mediacouncil.ca)
+ - date_published: 2024-12-25T18:46:55.766797+00:00
+
  ## Медиазона Центральная Азия
  - [https://mediazona.ca](https://mediazona.ca)
  - date_published: 2024-06-28T21:49:15.781258+00:00
@@ -1372,33 +1708,117 @@
  - [https://academy-software-foundation.myspreadshop.ca](https://academy-software-foundation.myspreadshop.ca)
  - date_published: 2024-08-07T21:56:39.605331+00:00
 
+ ## ALA Graphics Gift Shop | Spreadshop
+ - [https://alagraphics-gift-shop.myspreadshop.ca](https://alagraphics-gift-shop.myspreadshop.ca)
+ - date_published: 2024-12-25T11:55:58.619767+00:00
+
+ ## The Arrant Pedantry Store | Spreadshop
+ - [https://arrantpedantry.myspreadshop.ca](https://arrantpedantry.myspreadshop.ca)
+ - date_published: 2024-12-25T11:56:37.078693+00:00
+
  ## A Shop of Musical Things | Spreadshop
  - [https://a-shop-of-musical-things.myspreadshop.ca](https://a-shop-of-musical-things.myspreadshop.ca)
  - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Bakeitoutwitch
+ - [https://bakeitoutwitch.myspreadshop.ca](https://bakeitoutwitch.myspreadshop.ca)
+ - date_published: 2024-12-25T11:57:04.191214+00:00
+
+ ## OFFICIAL BFDI APPAREL | Spreadshop
+ - [https://bfdi.myspreadshop.ca](https://bfdi.myspreadshop.ca)
+ - date_published: 2024-12-25T11:57:31.185225+00:00
+
+ ## Buddy The Birdy | Spreadshop
+ - [https://buddy-the-birdy.myspreadshop.ca](https://buddy-the-birdy.myspreadshop.ca)
+ - date_published: 2024-12-25T11:57:44.280781+00:00
 
  ## The Bulwark Store | Spreadshop
  - [https://bulwark.myspreadshop.ca](https://bulwark.myspreadshop.ca)
  - date_published: 2024-06-24T06:31:52.246115+00:00
 
+ ## CFLPlants | Spreadshop
+ - [https://cflplants.myspreadshop.ca](https://cflplants.myspreadshop.ca)
+ - date_published: 2024-12-25T11:58:28.180674+00:00
+
  ## CleanTechnica
  - [https://cleantechnica.myspreadshop.ca](https://cleantechnica.myspreadshop.ca)
  - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Clueless Bushcraft | Spreadshop
+ - [https://clueless-bushcraft.myspreadshop.ca](https://clueless-bushcraft.myspreadshop.ca)
+ - date_published: 2024-12-25T11:59:02.373488+00:00
 
  ## Cults official store | Spreadshop
  - [https://cults3d.myspreadshop.ca](https://cults3d.myspreadshop.ca)
  - date_published: 2024-07-04T00:00:00+00:00
 
+ ## Curious Maker Lab
+ - [https://curiousmakerlab.myspreadshop.ca](https://curiousmakerlab.myspreadshop.ca)
+ - date_published: 2024-12-25T11:59:40.534819+00:00
+
+ ## Edubuntu Marketplace | Spreadshop
+ - [https://edubuntu.myspreadshop.ca](https://edubuntu.myspreadshop.ca)
+ - date_published: 2024-12-25T11:59:54.199274+00:00
+
+ ## Father. Son. Galaxy. | Spreadshop
+ - [https://fathersongalaxy.myspreadshop.ca](https://fathersongalaxy.myspreadshop.ca)
+ - date_published: 2024-12-25T12:00:08.364121+00:00
+
+ ## Fort Worth Report | Spreadshop
+ - [https://fort-worth-report.myspreadshop.ca](https://fort-worth-report.myspreadshop.ca)
+ - date_published: 2024-12-25T12:00:36.247787+00:00
+
+ ## Futility Closet
+ - [https://futility.myspreadshop.ca](https://futility.myspreadshop.ca)
+ - date_published: 2024-12-25T12:02:39.698255+00:00
+
+ ## Ghosts in the Attic Bodies in the Basement | Spreadshop
+ - [https://gabbpodcast.myspreadshop.ca](https://gabbpodcast.myspreadshop.ca)
+ - date_published: 2024-12-25T12:02:55.489884+00:00
+
  ## GameMaker Merchandise - Shirts Hoodies & Caps | GameMaker | Spreadshop
  - [https://gamemaker.myspreadshop.ca](https://gamemaker.myspreadshop.ca)
  - date_published: 2024-09-15T00:00:00+00:00
+
+ ## Grains & Grit | Spreadshop
+ - [https://grainsandgrit.myspreadshop.ca](https://grainsandgrit.myspreadshop.ca)
+ - date_published: 2024-12-25T12:03:37.425244+00:00
+
+ ## Jahnnalee & The Furry Kiddos
+ - [https://jahnnalee.myspreadshop.ca](https://jahnnalee.myspreadshop.ca)
+ - date_published: 2024-12-25T12:03:51.114327+00:00
+
+ ## Junkyard Fox | Spreadshop
+ - [https://junkyardfox.myspreadshop.ca](https://junkyardfox.myspreadshop.ca)
+ - date_published: 2024-12-25T12:04:02.096173+00:00
+
+ ## LF Energy Swag Store | Spreadshop
+ - [https://lf-energy-swag-shoppe.myspreadshop.ca](https://lf-energy-swag-shoppe.myspreadshop.ca)
+ - date_published: 2024-12-25T12:05:35.128278+00:00
+
+ ## Lucy Lumen | Spreadshop
+ - [https://lucy-lumen.myspreadshop.ca](https://lucy-lumen.myspreadshop.ca)
+ - date_published: 2024-12-25T12:06:20.616893+00:00
+
+ ## Ludawissy | Spreadshop
+ - [https://ludawissy.myspreadshop.ca](https://ludawissy.myspreadshop.ca)
+ - date_published: 2024-12-25T12:06:47.932327+00:00
 
  ## Mautic Community Swag Shop | Spreadshop
  - [https://mautic-community-swag-shop.myspreadshop.ca](https://mautic-community-swag-shop.myspreadshop.ca)
  - date_published: 2024-07-18T15:08:27.309833+00:00
 
+ ## Melon & Finn Shop | Spreadshop
+ - [https://melon--finn-shop.myspreadshop.ca](https://melon--finn-shop.myspreadshop.ca)
+ - date_published: 2024-12-25T12:07:34.641190+00:00
+
  ## motherrefugeoftheendtimes | Spreadshop
  - [https://motherrefugeoftheendtimes.myspreadshop.ca](https://motherrefugeoftheendtimes.myspreadshop.ca)
  - date_published: 2024-07-03T18:44:05.369043+00:00
+
+ ## Official OpenCV Shop | Spreadshop
+ - [https://opencv.myspreadshop.ca](https://opencv.myspreadshop.ca)
+ - date_published: 2024-12-25T12:08:12.389962+00:00
 
  ## Open Mainframe Project Store | Spreadshop
  - [https://open-mainframe-project-store.myspreadshop.ca](https://open-mainframe-project-store.myspreadshop.ca)
@@ -1408,17 +1828,81 @@
  - [https://openssf.myspreadshop.ca](https://openssf.myspreadshop.ca)
  - date_published: 2024-07-08T12:42:42.576911+00:00
 
+ ## Plants With Krystal | Spreadshop
+ - [https://plants-with-krystal.myspreadshop.ca](https://plants-with-krystal.myspreadshop.ca)
+ - date_published: 2024-12-25T12:08:41.875011+00:00
+
+ ## RemNote Merchandise Shop | Spreadshop
+ - [https://remnote.myspreadshop.ca](https://remnote.myspreadshop.ca)
+ - date_published: 2024-12-25T12:09:02.883183+00:00
+
+ ## The Rocky Mountain Synthesizer Meet Merch Shop
+ - [https://rockymountainsynth.myspreadshop.ca](https://rockymountainsynth.myspreadshop.ca)
+ - date_published: 2024-12-25T12:09:13.201601+00:00
+
  ## ShopName | Spreadshop
  - [https://shopname.myspreadshop.ca](https://shopname.myspreadshop.ca)
  - date_published: 2024-10-21T08:58:26.223782+00:00
+
+ ## Shop SPJ | Spreadshop
+ - [https://shop-spj.myspreadshop.ca](https://shop-spj.myspreadshop.ca)
+ - date_published: 2024-12-25T12:09:44.860058+00:00
+
+ ## Strange Loop | Spreadshop
+ - [https://strange-loop.myspreadshop.ca](https://strange-loop.myspreadshop.ca)
+ - date_published: 2024-12-25T12:09:51.550555+00:00
+
+ ## Talkalots | Spreadshop
+ - [https://talkalots.myspreadshop.ca](https://talkalots.myspreadshop.ca)
+ - date_published: 2024-12-25T12:10:07.651210+00:00
+
+ ## TAMI LANGALANG | Spreadshop
+ - [https://tami-langalang.myspreadshop.ca](https://tami-langalang.myspreadshop.ca)
+ - date_published: 2024-12-25T12:10:25.255744+00:00
+
+ ## The Kind Mind Co. | Spreadshop
+ - [https://the-kind-mind-co.myspreadshop.ca](https://the-kind-mind-co.myspreadshop.ca)
+ - date_published: 2024-12-25T12:10:38.691025+00:00
+
+ ## The Local [724 podcast] | Spreadshop
+ - [https://thelocalpodcastshop.myspreadshop.ca](https://thelocalpodcastshop.myspreadshop.ca)
+ - date_published: 2024-12-25T12:10:46.492232+00:00
 
  ## The Mary Sue Shop
  - [https://themarysue.myspreadshop.ca](https://themarysue.myspreadshop.ca)
  - date_published: 2024-09-04T01:39:50.545251+00:00
 
+ ## The Yocto Project | Spreadshop
+ - [https://the-yocto-project.myspreadshop.ca](https://the-yocto-project.myspreadshop.ca)
+ - date_published: 2024-12-25T12:11:43.999481+00:00
+
+ ## TomoTees | Spreadshop
+ - [https://tomotees.myspreadshop.ca](https://tomotees.myspreadshop.ca)
+ - date_published: 2024-12-25T12:14:03.740547+00:00
+
+ ## TubeBuddy | Spreadshop
+ - [https://tubebuddy.myspreadshop.ca](https://tubebuddy.myspreadshop.ca)
+ - date_published: 2024-12-25T12:15:11.352003+00:00
+
+ ## Victoria Marie Designs | Spreadshop
+ - [https://victoria-marie-designs.myspreadshop.ca](https://victoria-marie-designs.myspreadshop.ca)
+ - date_published: 2024-12-25T12:15:27.532516+00:00
+
+ ## Weird Fantastic Toy Adventures | Spreadshop
+ - [https://weird-fantastic-toy-adventure.myspreadshop.ca](https://weird-fantastic-toy-adventure.myspreadshop.ca)
+ - date_published: 2024-12-25T12:15:40.353473+00:00
+
+ ## WHY EDIFY | Spreadshop
+ - [https://why-edify-store.myspreadshop.ca](https://why-edify-store.myspreadshop.ca)
+ - date_published: 2024-12-25T12:17:01.359791+00:00
+
  ## Meaningful Acts: RPG storytelling
  - [https://mythos-acts.ca](https://mythos-acts.ca)
  - date_published: 2022-05-05T18:07:53+00:00
+
+ ## My Union Store CA by Universal Promotions
+ - [http://myunionstore.ca](http://myunionstore.ca)
+ - date_published: 2024-12-25T13:43:05.775241+00:00
 
  ## Plant-based Protein Powders | Vega
  - [https://myvega.ca](https://myvega.ca)
@@ -1496,6 +1980,10 @@
  ## NATIONAL
  - [https://www.national.ca](https://www.national.ca)
  - date_published: 2024-06-25T22:32:25+00:00
+
+ ## Fast & Convenient Car Rental at 1,500+ Locations  | National Car Rental
+ - [https://www.nationalcar.ca](https://www.nationalcar.ca)
+ - date_published: 2024-12-25T20:14:49+00:00
 
  ## The National Citizen's Inquiry (NCI)
  - [https://nationalcitizensinquiry.ca](https://nationalcitizensinquiry.ca)
@@ -1714,6 +2202,10 @@
  - [http://nclibraries.niagaracollege.ca](http://nclibraries.niagaracollege.ca)
  - date_published: 2024-07-15T03:53:54.008188+00:00
 
+ ## Niagara Falls News Headlines | The Review
+ - [https://www.niagarafallsreview.ca](https://www.niagarafallsreview.ca)
+ - date_published: 2024-12-25T18:05:27+00:00
+
  ## Nick's blog
  - [https://nickhuber.ca](https://nickhuber.ca)
  - date_published: 2023-12-12T05:21:05+00:00
@@ -1734,6 +2226,10 @@
  - [https://njohnston.ca](https://njohnston.ca)
  - date_published: 2024-04-23T14:36:52+00:00
  - tags: ['personal']
+
+ ## News Media Canada | Trusted. Connected. Targeted.
+ - [https://nmc-mic.ca](https://nmc-mic.ca)
+ - date_published: 2024-12-25T18:47:15.008343+00:00
 
  ## No IHRA
  - [https://www.noihra.ca](https://www.noihra.ca)
@@ -2174,6 +2670,10 @@
  - [https://www.overtimepodcast.ca](https://www.overtimepodcast.ca)
  - date_published: 2024-05-21T00:00:00+00:00
 
+ ## Home - OWA
+ - [https://owa.ca](https://owa.ca)
+ - date_published: 2024-12-24T21:55:23+00:00
+
  ## Oxfam Canada | The future is equal
  - [https://www.oxfam.ca](https://www.oxfam.ca)
  - date_published: 2024-05-31T10:07:10+00:00
@@ -2576,6 +3076,14 @@
  - [https://www.play92.ca](https://www.play92.ca)
  - date_published: 2024-06-27T12:38:46+00:00
 
+ ## Home - Banff World Media Festival
+ - [https://banffmediafestival.playbackonline.ca](https://banffmediafestival.playbackonline.ca)
+ - date_published: 2024-12-25T23:13:58.704310+00:00
+
+ ## Playback
+ - [https://www.playbackonline.ca](https://www.playbackonline.ca)
+ - date_published: 2024-12-25T22:59:37+00:00
+
  ## League of Canadian Poets Home
  - [https://poets.ca](https://poets.ca)
  - date_published: 2024-07-20T00:00:00+00:00
@@ -2599,6 +3107,10 @@
  ## | Canadian Centre for Policy Alternatives
  - [https://www.policyalternatives.ca](https://www.policyalternatives.ca)
  - date_published: 2024-08-02T18:01:09.429086+00:00
+
+ ## Policy Magazine
+ - [https://www.policymagazine.ca](https://www.policymagazine.ca)
+ - date_published: 2023-12-22T13:05:33+00:00
 
  ## The School of Public Policy
  - [https://www.policyschool.ca](https://www.policyschool.ca)
@@ -3522,517 +4034,4 @@
  ## Insecure vehicles should be banned, not security tools like the Flipper Zero
  - [https://saveflipper.ca](https://saveflipper.ca)
  - date_published: 2024-02-21T11:20:49+00:00
-
- ## Savour Life Inspiration
- - [https://savourelgin.ca](https://savourelgin.ca)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Savour Ottawa
- - [https://savourottawa.ca](https://savourottawa.ca)
- - date_published: 2024-07-11T20:56:46+00:00
-
- ## sbobet แทงบอลออนไลน์ สมัครใหม่รับโบนัส 100%
- - [https://www.sbobet.ca](https://www.sbobet.ca)
- - date_published: 2024-07-03T20:03:58+00:00
-
- ## SCARCS
- - [https://scarcs.ca](https://scarcs.ca)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Decisions and Resources - SCC Cases
- - [https://decisions.scc-csc.ca](https://decisions.scc-csc.ca)
- - date_published: 2024-10-22T21:50:20.681560+00:00
-
- ## Entry Door Knobs, Door Locks & Hardware for Doors | Schlage
- - [https://schlage.ca](https://schlage.ca)
- - date_published: 2024-05-09T05:19:15.492632+00:00
-
- ## Book Clubs | Scholastic Canada
- - [https://bookclubs.scholastic.ca](https://bookclubs.scholastic.ca)
- - date_published: 2024-04-30T05:03:33.889310+00:00
-
- ## Get ready!
- - [https://bookfairs.scholastic.ca](https://bookfairs.scholastic.ca)
- - date_published: 2024-08-06T00:36:59+00:00
-
- ## Login
- - [https://bookfairtoolkit.scholastic.ca](https://bookfairtoolkit.scholastic.ca)
- - date_published: 2024-06-08T13:35:19.607814+00:00
-
- ## Scholastic Canada
- - [https://digital.scholastic.ca](https://digital.scholastic.ca)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Scholastic Canada
- - [http://scholastic.ca](http://scholastic.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Scholastic Canada
- - [https://www2.scholastic.ca](https://www2.scholastic.ca)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## NexGen School Program – Government of Canada CanCode Grant
- - [https://schoolprogram.ca](https://schoolprogram.ca)
- - date_published: 2024-09-24T21:21:09.988420+00:00
-
- ## Schools in Canada, Canada
- - [http://www.schools.ca](http://www.schools.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Ackee
- - [https://eyes.schroer.ca](https://eyes.schroer.ca)
- - date_published: 2024-04-30T05:03:44.595986+00:00
-
- ## Dominick Schroer's Blog
- - [https://schroer.ca](https://schroer.ca)
- - date_published: 2023-10-25T09:02:45.716038+00:00
- - tags: ['personal']
-
- ## CSPC - Canadian Science Policy Centre
- - [https://sciencepolicy.ca](https://sciencepolicy.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## CSPC – Canadian Science Policy Centre
- - [https://sciencepolicyconference.ca](https://sciencepolicyconference.ca)
- - date_published: 2024-07-13T14:38:28+00:00
-
- ## Today - Science World
- - [https://www.scienceworld.ca](https://www.scienceworld.ca)
- - date_published: 2021-01-28T00:00:00+00:00
-
- ## Scientology - l'Eglise de la Scientology de France, Portail officiel
- - [https://fr.scientology.ca](https://fr.scientology.ca)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Official Church of Scientology: What is Scientology?
- - [https://scientology.ca](https://scientology.ca)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Test de personnalité
- - [https://www.oca.fr.scientology.ca](https://www.oca.fr.scientology.ca)
- - date_published: 2024-06-17T16:40:55.634753+00:00
-
- ## Home
- - [https://www.scintillation.ca](https://www.scintillation.ca)
- - date_published: 2024-05-24T13:32:50.540423+00:00
- - tags: ['literary convention']
-
- ## ACE/SCISAT - The Atmospheric Chemistry Experiment
- - [https://ace.scisat.ca](https://ace.scisat.ca)
- - date_published: 2024-06-30T02:57:24.199309+00:00
-
- ## databace.scisat.ca
- - [http://databace.scisat.ca](http://databace.scisat.ca)
- - date_published: 2024-06-30T02:57:25.422134+00:00
-
- ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
- - [https://scottishritecanada.ca](https://scottishritecanada.ca)
- - date_published: 2023-02-09T00:00:00+00:00
- - tags: ['freemasonry']
-
- ## Scott Redmond
- - [https://scottredmond.ca](https://scottredmond.ca)
- - date_published: 2022-06-20T10:54:19+00:00
- - tags: ['personal']
-
- ## Global Negotiation Consultancy, Global Negotiation Training | Scotwork USA
- - [https://www.scotwork.ca](https://www.scotwork.ca)
- - date_published: 2024-06-18T09:42:52.903402+00:00
-
- ## Scrap Car Removal Toronto | Best Cash For Scrap Cars up to $5,000
- - [https://scrapcartorontoshop.ca](https://scrapcartorontoshop.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Best Haunted House in Calgary - ScreamFest Calgary
- - [http://www.screamfest.ca](http://www.screamfest.ca)
- - date_published: 2024-10-17T18:19:56.521875+00:00
-
- ## SCRNPRNT
- - [https://www.scrnprnt.ca](https://www.scrnprnt.ca)
- - date_published: 2023-11-16T19:11:13+00:00
-
- ## Scarborough Campus Students' Union
- - [http://scsu.ca](http://scsu.ca)
- - date_published: 2024-09-18T05:42:52.139571+00:00
-
- ## SCUMB
- - [https://scumb.ca](https://scumb.ca)
- - date_published: 2011-05-03T05:46:13+00:00
-
- ## Home
- - [https://www.sdmshn.ca](https://www.sdmshn.ca)
- - date_published: 2024-02-13T15:52:50+00:00
-
- ## Sean Marshall
- - [https://seanmarshall.ca](https://seanmarshall.ca)
- - date_published: 2024-08-17T16:58:32+00:00
-
- ## SeatGeek | Your Ticket to Sports Games, Concerts & Live Shows so Fans Can Fan
- - [https://seatgeek.ca](https://seatgeek.ca)
- - date_published: 2024-10-17T20:32:24.304498+00:00
-
- ## Second Best | Samuel Hammond | Substack
- - [https://www.secondbest.ca](https://www.secondbest.ca)
- - date_published: 2024-10-27T11:22:04.989828+00:00
-
- ## The Second Egress: Building a Code Change
- - [https://secondegress.ca](https://secondegress.ca)
- - date_published: 2023-10-25T12:06:36.332747+00:00
-
- ## Secretlab Gaming Chairs & Gaming Desk | Secretlab CA
- - [https://secretlabchairs.ca](https://secretlabchairs.ca)
- - date_published: 2024-09-03T20:58:47.505685+00:00
-
- ## Servus Credit Union  - Commercial Net Banking Login
- - [https://securenetbanking.ca](https://securenetbanking.ca)
- - date_published: 2019-04-28T00:00:00+00:00
-
- ## Homepage - Canadian Securities Administrators
- - [https://info.securities-administrators.ca](https://info.securities-administrators.ca)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Homepage - Canadian Securities Administrators
- - [https://www.securities-administrators.ca](https://www.securities-administrators.ca)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## ShieldSquare Captcha
- - [https://sedarplus.ca](https://sedarplus.ca)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://www.seguin.ca](https://www.seguin.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## The Selkirk
- - [https://www.selkirkgrille.ca](https://www.selkirkgrille.ca)
- - date_published: 2024-10-17T18:23:05.236988+00:00
-
- ## Home - SenCanada.ca
- - [https://sencanada.ca](https://sencanada.ca)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Sencia Canada Ltd. - Thunder Bay Web Design & Development
- - [http://www.sencia.ca](http://www.sencia.ca)
- - date_published: 2024-08-19T07:14:02.413682+00:00
-
- ## #senseipublishing.com
- - [http://www.senseipauldavid.ca](http://www.senseipauldavid.ca)
- - date_published: 2024-09-12T14:03:42.579638+00:00
-
- ## SEO Agency in Ottawa, Canada | SEO Services | SEO North
- - [https://seonorth.ca](https://seonorth.ca)
- - date_published: 2023-10-25T12:06:42.751440+00:00
- - tags: ['seo', 'company']
-
- ## Spécialiste en installation septique au Québec - septiquepro.ca - Les professionnels en installation septique au Québec
- - [https://www.septiquepro.ca](https://www.septiquepro.ca)
- - date_published: 2024-12-23T12:03:49+00:00
-
- ## Servus Credit Union
- - [https://ib.servus.ca](https://ib.servus.ca)
- - date_published: 2024-06-16T07:45:05.347828+00:00
-
- ## Life - Servus Credit Union
- - [https://servus.ca](https://servus.ca)
- - date_published: 2024-06-16T07:45:07.775862+00:00
-
- ## Home - SFU Beedie School of Business
- - [https://beedie.sfu.ca](https://beedie.sfu.ca)
- - date_published: 2024-04-30T05:13:05.722776+00:00
-
- ## Sign In - CAS – Central Authentication Service
- - [https://canvas.sfu.ca](https://canvas.sfu.ca)
- - date_published: 2024-04-30T05:13:09.085968+00:00
-
- ## Sign In - CAS – Central Authentication Service
- - [https://cas.sfu.ca](https://cas.sfu.ca)
- - date_published: 2024-07-21T09:38:14.346852+00:00
-
- ## SFU Future Students
- - [https://community.sfu.ca](https://community.sfu.ca)
- - date_published: 2023-07-22T09:39:23+00:00
-
- ## Error
- - [http://connect.sfu.ca](http://connect.sfu.ca)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Computing Science
- - [https://cs.sfu.ca](https://cs.sfu.ca)
- - date_published: 2024-04-28T03:42:06.531645+00:00
-
- ## SFU Library Databases
- - [https://databases.lib.sfu.ca](https://databases.lib.sfu.ca)
- - date_published: 2024-06-28T13:12:17+00:00
-
- ## Digital Humanities Innovation Lab: Home | SFU Library
- - [https://dhil.lib.sfu.ca](https://dhil.lib.sfu.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## SFU Digitized Collections
- - [https://digital.lib.sfu.ca](https://digital.lib.sfu.ca)
- - date_published: 2024-05-07T10:25:38.935876+00:00
-
- ## PKP Docs - Documentation for OJS, OMP and all of the Public Knowledge Project's software
- - [https://docs.pkp.sfu.ca](https://docs.pkp.sfu.ca)
- - date_published: 2024-10-20T08:19:42.013521+00:00
-
- ## PKP Community Forum
- - [https://forum.pkp.sfu.ca](https://forum.pkp.sfu.ca)
- - date_published: 2024-06-17T19:21:34.125861+00:00
-
- ## Home | Open Problem Garden
- - [http://garden.irmacs.sfu.ca](http://garden.irmacs.sfu.ca)
- - date_published: 2024-06-30T08:27:15+00:00
-
- ## SFU Advancement & Alumni Engagement
- - [https://give.sfu.ca](https://give.sfu.ca)
- - date_published: 2024-04-30T05:13:12.322242+00:00
-
- ## Graduate Studies
- - [https://gograd.sfu.ca](https://gograd.sfu.ca)
- - date_published: 2024-08-19T22:13:59+00:00
-
- ## goSFU
- - [https://go.sfu.ca](https://go.sfu.ca)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## GrUVi - Home
- - [https://gruvi.cs.sfu.ca](https://gruvi.cs.sfu.ca)
- - date_published: 2023-11-25T18:10:18.335704+00:00
-
- ## Home | SFU Library
- - [https://lib.sfu.ca](https://lib.sfu.ca)
- - date_published: 2024-04-30T05:12:27.103899+00:00
-
- ## Sign In - CAS – Central Authentication Service
- - [https://mail.sfu.ca](https://mail.sfu.ca)
- - date_published: 2024-04-30T05:13:21.704382+00:00
-
- ## MultiON EAI Challenge CVPR 2024
- - [http://multion-challenge.cs.sfu.ca](http://multion-challenge.cs.sfu.ca)
- - date_published: 2024-04-18T12:36:15+00:00
-
- ## Sign In - CAS – Central Authentication Service
- - [https://my.sfu.ca](https://my.sfu.ca)
- - date_published: 2024-07-21T09:38:18.154826+00:00
-
- ## Hosting & Services - Public Knowledge Project
- - [https://pkpservices.sfu.ca](https://pkpservices.sfu.ca)
- - date_published: 2024-10-20T08:19:46.367058+00:00
-
- ## Public Knowledge Project
- - [https://pkp.sfu.ca](https://pkp.sfu.ca)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Library Search
- - [https://search.lib.sfu.ca](https://search.lib.sfu.ca)
- - date_published: 2024-07-21T09:39:20.526439+00:00
-
- ## SFU Advancement & Alumni Engagement
- - [https://secure.give.sfu.ca](https://secure.give.sfu.ca)
- - date_published: 2024-07-21T09:38:27.552050+00:00
-
- ## ITServices
- - [https://services.sfu.ca](https://services.sfu.ca)
- - date_published: 2024-08-19T22:14:22.257092+00:00
-
- ## Simon Fraser University
- - [https://sfu.ca](https://sfu.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## goSFU
- - [https://sims.erp.sfu.ca](https://sims.erp.sfu.ca)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Sign In - CAS – Central Authentication Service
- - [https://staff.lib.sfu.ca](https://staff.lib.sfu.ca)
- - date_published: 2024-06-29T10:03:16.129198+00:00
-
- ## Home | Summit Research Repository
- - [https://summit.sfu.ca](https://summit.sfu.ca)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Welcome!
- - [https://theses.lib.sfu.ca](https://theses.lib.sfu.ca)
- - date_published: 2024-06-13T18:04:39.173849+00:00
-
- ## Computing Science
- - [https://www2.cs.sfu.ca](https://www2.cs.sfu.ca)
- - date_published: 2023-11-05T04:50:03.089549+00:00
-
- ## dutchDesign2017
- - [http://2017.sfudutchdesign.ca](http://2017.sfudutchdesign.ca)
- - date_published: 2017-08-11T00:23:40+00:00
-
- ## SGI CANADA - SGI CANADA - Liferay DXP prd01
- - [https://www.sgicanada.ca](https://www.sgicanada.ca)
- - date_published: 2024-07-11T17:15:57.576971+00:00
-
- ## StraightGoods.ca
- - [https://sgnews.ca](https://sgnews.ca)
- - date_published: 2015-07-04T01:32:16+00:00
-
- ## We are the world's leading testing, inspection and certification company.
- - [https://www.sgs.ca](https://www.sgs.ca)
- - date_published: 2024-09-10T12:50:58.978386+00:00
-
- ## Home - Shad Canada
- - [https://shad.ca](https://shad.ca)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## ShadMerch
- - [https://swag.shad.ca](https://swag.shad.ca)
- - date_published: 2024-08-09T03:53:48.133891+00:00
-
- ## Shaw Communications
- - [http://members.shaw.ca](http://members.shaw.ca)
- - date_published: 2024-09-09T13:34:37.979026+00:00
-
- ## sheer spite press - sheer spite press
- - [https://sheerspite.ca](https://sheerspite.ca)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## SheHacksPurple
- - [https://shehackspurple.ca](https://shehackspurple.ca)
- - date_published: 2024-05-01T03:48:47.291779+00:00
- - tags: ['personal']
-
- ## Shelf Life Books
- - [https://store.shelflifebooks.ca](https://store.shelflifebooks.ca)
- - date_published: 2024-05-12T07:12:49.762448+00:00
-
- ## Sign in to your account
- - [http://speakingbiz.sheridancollege.ca](http://speakingbiz.sheridancollege.ca)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## $name
- - [https://www.sheridancollege.ca](https://www.sheridancollege.ca)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Welcome | Sherwin-Williams
- - [https://www.sherwin-williams.ca](https://www.sherwin-williams.ca)
- - date_published: 2024-10-22T20:37:37.560968+00:00
-
- ## shilin typing...
- - [https://shilin.ca](https://shilin.ca)
- - date_published: 2024-12-06T21:34:12.997853+00:00
-
- ## Shop Beer Gear
- - [https://www.shopbeergear.ca](https://www.shopbeergear.ca)
- - date_published: 2024-10-18T02:02:31.917125+00:00
-
- ## Shop FSC
- - [https://shopfsc.ca](https://shopfsc.ca)
- - date_published: 2024-09-12T13:55:43.991872+00:00
-
- ## Shopico.ca - Ensemble pour l'économie locale
- - [https://shopico.ca](https://shopico.ca)
- - date_published: 2024-05-10T02:40:56.514738+00:00
-
- ## Start and grow your e-commerce business - 3-Day Free Trial
- - [https://www.shopify.ca](https://www.shopify.ca)
- - date_published: 2024-06-23T05:58:17.875196+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.shopngc.ca](https://www.shopngc.ca)
- - date_published: 2024-07-19T22:13:43.028830+00:00
-
- ## Shoppers Foundation for Women’s Health™
- - [http://shoppersfoundation.ca](http://shoppersfoundation.ca)
- - date_published: 2024-09-30T12:16:09.014609+00:00
-
- ## Travel MB
- - [https://shoptravelmb.ca](https://shoptravelmb.ca)
- - date_published: 2024-07-21T07:56:47.456240+00:00
-
- ## Showboard
- - [https://showboard.ca](https://showboard.ca)
- - date_published: 2024-06-09T19:19:33+00:00
- - tags: ['bookmark manager']
-
- ## Watch TV Shows Online | Stream Showcase Live TV and Full Episodes
- - [http://www.showcase.ca](http://www.showcase.ca)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Siding in Canada, Canada
- - [http://www.siding.ca](http://www.siding.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Silo 57 | Inspirations décoration, roadtrip, resto & plus
- - [https://www.silo57.ca](https://www.silo57.ca)
- - date_published: 2024-08-19T08:10:42.064423+00:00
-
- ## Home
- - [https://simonandrews.ca](https://simonandrews.ca)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## New Book Releases, Bestsellers, Author Info and more at Simon &amp; Schuster Canada | Simon & Schuster Canada
- - [https://simonandschuster.ca](https://simonandschuster.ca)
- - date_published: 2023-10-25T12:07:24.063919+00:00
-
- ## Home Decor, Home Goods and Furniture | Simone & Ivy | Alberta, Canada
- - [https://simoneandivy.ca](https://simoneandivy.ca)
- - date_published: 2024-08-11T21:38:02.023106+00:00
-
- ## Simon Laroche Photographie | Photographe mariage, corporatif et lifestyle | Montréal & environs
- - [https://www.simonlaroche.ca](https://www.simonlaroche.ca)
- - date_published: 2024-09-05T11:29:48.068426+00:00
-
- ## Simple Magic
- - [https://www.simplemagic.ca](https://www.simplemagic.ca)
- - date_published: 2024-09-17T17:03:24.726207+00:00
-
- ## Really Great Tax Filing Software 2023 |  CRA & NETFILE-certified
- - [https://simpletax.ca](https://simpletax.ca)
- - date_published: 2024-06-16T15:05:41.978843+00:00
-
- ## Login - SimplyCast.ca
- - [https://app.simplycast.ca](https://app.simplycast.ca)
- - date_published: 2024-06-16T09:01:21.817957+00:00
-
- ## Sing UI
- - [https://singui.ca](https://singui.ca)
- - date_published: 2022-06-15T16:14:37+00:00
-
- ## SIX media marketing Inc.
- - [https://sixmedia.ca](https://sixmedia.ca)
- - date_published: 2024-12-03T07:31:47.225786+00:00
- - tags: ['blacklist']
-
- ## SIXT rent a car - Fast & Convenient Car Rentals
- - [https://sixt.ca](https://sixt.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Dianne Skoll's Web Site
- - [https://dianne.skoll.ca](https://dianne.skoll.ca)
- - date_published: 2024-06-18T12:43:52.235971+00:00
-
- ## SkoolKit
- - [https://skoolkit.ca](https://skoolkit.ca)
- - date_published: 2024-05-11T12:32:16+00:00
-
- ## SK PHOTOGRAPHY
- - [http://www.skphotography.ca](http://www.skphotography.ca)
- - date_published: 2024-09-16T03:52:14.003438+00:00
-
- ## Skullcandy | Headphones, Earbuds, Gaming, and Speakers
- - [https://skullcandy.ca](https://skullcandy.ca)
- - date_published: 2024-05-08T02:32:50.821398+00:00
-
- ## Sky360
- - [https://www.sky360.ca](https://www.sky360.ca)
- - date_published: 2024-07-04T19:46:48.000167+00:00
-
- ## Skylights in Canada, Canada
- - [http://www.skylights.ca](http://www.skylights.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## SkyNews | Canada’s astronomy & space news | Where Earth Meets Sky
- - [https://skynews.ca](https://skynews.ca)
- - date_published: 2023-10-25T10:24:38.913027+00:00
- - date_dead_since: 2024-12-16T10:48:16.916696+00:00
-
- ## Skyscanner
- - [https://www.skyscanner.ca](https://www.skyscanner.ca)
- - date_published: 2024-05-14T10:10:11+00:00
 
