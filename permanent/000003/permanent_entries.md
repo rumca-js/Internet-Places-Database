@@ -1,3 +1,27 @@
+ ## Pixel+: AI-Powered Photo Repair & Restoration
+ - [https://pixelplus.ai](https://pixelplus.ai)
+ - date_published: 2024-10-30T10:24:17.442901+00:00
+
+ ## Hintergrund aus Bild entfernen, kostenlos, keine Anmeldung - Pixian.AI
+ - [https://de.pixian.ai](https://de.pixian.ai)
+ - date_published: 2024-08-19T12:10:27.589695+00:00
+
+ ## Elimine el fondo de la imagen, gratis, sin registrarse - Pixian.AI
+ - [https://es.pixian.ai](https://es.pixian.ai)
+ - date_published: 2024-08-19T12:10:35.314015+00:00
+
+ ## Supprimez l'arrière-plan de l'image gratuitement et sans inscription - Pixian.AI
+ - [https://fr.pixian.ai](https://fr.pixian.ai)
+ - date_published: 2024-08-19T12:10:31.018699+00:00
+
+ ## इमेज से बैकग्राउंड को हटाएँ, मुफ्त, कोई साइनअप ज़रूरी नहीं - Pixian.AI
+ - [https://hi.pixian.ai](https://hi.pixian.ai)
+ - date_published: 2024-08-19T12:10:09.056731+00:00
+
+ ## Hapus Latar Belakang dari Gambar, Gratis, Tanpa Pendaftaran - Pixian.AI
+ - [https://id.pixian.ai](https://id.pixian.ai)
+ - date_published: 2024-08-19T12:10:33.318137+00:00
+
  ## Rimuovi lo sfondo dall'immagine, gratuito, nessun abbonamento - Pixian.AI
  - [https://it.pixian.ai](https://it.pixian.ai)
  - date_published: 2024-08-19T12:10:46.052529+00:00
@@ -3101,6 +3125,10 @@
  - [https://tarotmaster.ai](https://tarotmaster.ai)
  - date_published: 2024-03-19T00:00:00+00:00
 
+ ## Tarteel AI Quran Memorization
+ - [https://download.tarteel.ai](https://download.tarteel.ai)
+ - date_published: 2024-12-26T16:57:01.712643+00:00
+
  ## Tarteel Feedback
  - [https://feedback.tarteel.ai](https://feedback.tarteel.ai)
  - date_published: 2024-01-17T00:00:00+00:00
@@ -3992,33 +4020,4 @@
  ## Optimize Clinical Trials with AI-powered Digital Twins
  - [https://unlearn.ai](https://unlearn.ai)
  - date_published: 2024-06-12T00:00:00+00:00
-
- ## Unlocking Literacy AI
- - [https://unlockingliteracy.ai](https://unlockingliteracy.ai)
- - date_published: 2024-09-18T23:25:58.598698+00:00
-
- ## Delightful Dishes Served Up by Artificial Intelligence | 👨‍🍳🤖 UnrealMeal.ai
- - [https://unrealmeal.ai](https://unrealmeal.ai)
- - date_published: 2024-06-19T21:26:03.947082+00:00
-
- ## Unriddle | Faster research
- - [https://unriddle.ai](https://unriddle.ai)
- - date_published: 2023-10-25T11:44:43.100828+00:00
-
- ## Revolutionize the way you create videos using the power of AI
- - [https://www.unscript.ai](https://www.unscript.ai)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Unsloth AI | Finetune Llama 3 & Mistral LLMs
- - [https://unsloth.ai](https://unsloth.ai)
- - date_published: 2024-06-22T17:58:11.285250+00:00
-
- ## Unstable Diffusion
- - [https://www.unstability.ai](https://www.unstability.ai)
- - date_published: 2024-06-19T21:38:06.649666+00:00
-
- ## UPDF AI
- - [https://updf.ai](https://updf.ai)
- - date_published: 2024-05-09T09:28:54.353195+00:00
- - tags: ['pdf reader']
 

@@ -1475,6 +1475,14 @@
  - [http://www.key.aero](http://www.key.aero)
  - date_published: 2024-07-09T22:05:01.674476+00:00
 
+ ## Kodiak Today
+ - [https://kodiak.aero](https://kodiak.aero)
+ - date_published: 2024-12-26T14:29:19.362678+00:00
+
+ ## Portal Login - KODIAKCare
+ - [https://kodiakcare.aero](https://kodiakcare.aero)
+ - date_published: 2024-12-26T14:29:26.211932+00:00
+
  ## LOOP - Private jets and helicopters business aviation
  - [http://www.loop.aero](http://www.loop.aero)
  - date_published: 2024-07-09T22:19:05.579810+00:00
@@ -1571,6 +1579,10 @@
  ## Pioneering Interstellar Flight - Tau Zero Foundation
  - [http://www.tauzero.aero](http://www.tauzero.aero)
  - date_published: 2020-03-28T00:00:00+00:00
+
+ ## Daher, turboprop aircraft manufacturer - TBM 960, TBM 910, Kodiak 100 series III  and support all previous models.
+ - [https://www.tbm.aero](https://www.tbm.aero)
+ - date_published: 2024-12-26T14:29:21.807128+00:00
 
  ## Home | Times Aerospace
  - [https://timesaerospace.aero](https://timesaerospace.aero)
@@ -2603,6 +2615,10 @@
  ## AdIntelli - Earn revenue from your AI Agent with in-chat ads
  - [https://adintelli.ai](https://adintelli.ai)
  - date_published: 2024-06-27T10:54:06.583788+00:00
+
+ ## Adprompt AI
+ - [https://adprompt.ai](https://adprompt.ai)
+ - date_published: 2024-12-11T16:55:22+00:00
 
  ## Home - AdsGency AI
  - [https://adsgency.ai](https://adsgency.ai)
@@ -4002,20 +4018,4 @@
  ## Cosine
  - [https://buildt.ai](https://buildt.ai)
  - date_published: 2023-10-25T08:40:48.808759+00:00
-
- ## Build Your Store - Free AI Shopify Store Builder
- - [https://www.buildyourstore.ai](https://www.buildyourstore.ai)
- - date_published: 2024-11-25T20:47:20.673804+00:00
-
- ## - BulkContent.ai
- - [https://bulkcontent.ai](https://bulkcontent.ai)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Bulk Publishing - Bulk Publishing AI
- - [https://bulkpublishing.ai](https://bulkpublishing.ai)
- - date_published: 2022-07-28T13:48:40+00:00
-
- ## Bulletpapers - Understand complex papers in seconds
- - [https://bulletpapers.ai](https://bulletpapers.ai)
- - date_published: 2024-05-09T00:00:00+00:00
 

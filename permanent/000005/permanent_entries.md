@@ -1,3 +1,35 @@
+ ## Duck — note-taking application via chat
+ - [https://www.ducknote.app](https://www.ducknote.app)
+ - date_published: 2024-08-19T11:50:30.643253+00:00
+
+ ## Dunatis.App
+ - [https://dunatis.app](https://dunatis.app)
+ - date_published: 2024-07-12T16:11:46.360299+00:00
+
+ ## Duolicious | Meet People Who Get You | Date, Make Friends & Chat
+ - [https://duolicious.app](https://duolicious.app)
+ - date_published: 2024-05-17T02:55:36.190670+00:00
+
+ ## Duolicious
+ - [https://web.duolicious.app](https://web.duolicious.app)
+ - date_published: 2024-07-20T04:55:39.841080+00:00
+
+ ## Duro Labs
+ - [https://mfg.duro.app](https://mfg.duro.app)
+ - date_published: 2024-09-05T21:21:29.067965+00:00
+
+ ## EarTrumpet
+ - [https://eartrumpet.app](https://eartrumpet.app)
+ - date_published: 2024-04-21T17:49:07+00:00
+
+ ## Easy Indie App
+ - [https://easyindie.app](https://easyindie.app)
+ - date_published: 2024-06-19T22:35:08.072422+00:00
+
+ ## Home | EatFeed
+ - [https://eatfeed.app](https://eatfeed.app)
+ - date_published: 2024-09-02T09:48:00.181715+00:00
+
  ## Cursos, especializaciones y diplomados en línea.
  - [https://co.landings.ebac.app](https://co.landings.ebac.app)
  - date_published: 2024-12-09T16:40:15.767653+00:00
@@ -1318,6 +1350,10 @@
  - [https://joinfound.app](https://joinfound.app)
  - date_published: 2024-03-24T20:12:58+00:00
 
+ ## tax app of the future | glyde
+ - [https://joinglyde.app](https://joinglyde.app)
+ - date_published: 2024-10-08T12:11:13+00:00
+
  ## Thera - Your AI Life Coach for Health and Wellness Goals
  - [https://jointhera.app](https://jointhera.app)
  - date_published: 2024-12-15T11:13:58.927406+00:00
@@ -2087,7 +2123,7 @@
  ## Miniflux - Minimalist and Opinionated Feed Reader
  - [https://miniflux.app](https://miniflux.app)
  - date_published: 2024-04-08T19:29:50.205632+00:00
- - tags: ['self-host', 'rss']
+ - tags: ['self-host', 'rss', 'rss client']
 
  ## Sign In - Miniflux
  - [https://reader.miniflux.app](https://reader.miniflux.app)
@@ -3324,6 +3360,10 @@
  - [https://restaurantweek.netlify.app](https://restaurantweek.netlify.app)
  - date_published: 2024-07-13T19:55:04.264569+00:00
 
+ ## Restitution Cartes Grises Quipux Afrique
+ - [https://restitutioncartesgrisesquipux.netlify.app](https://restitutioncartesgrisesquipux.netlify.app)
+ - date_published: 2024-12-26T15:55:45.830577+00:00
+
  ## Homepage | Create React App Blog
  - [https://reverent-carson-67c52e.netlify.app](https://reverent-carson-67c52e.netlify.app)
  - date_published: 2024-07-02T19:03:47.257018+00:00
@@ -3997,44 +4037,4 @@ The Album
  ## one sec | distracting apps made less appealing – scientifically
  - [https://one-sec.app](https://one-sec.app)
  - date_published: 2024-07-18T08:01:20+00:00
-
- ## OneWeek
- - [https://oneweek.app](https://oneweek.app)
- - date_published: 2024-10-28T23:41:15.141610+00:00
-
- ## OnlyFakes - Uncensored AI Images | NSFW AI Generator
- - [https://onlyfakes.app](https://onlyfakes.app)
- - date_published: 2024-06-19T19:57:21.581224+00:00
- - tags: ['nsfw']
-
- ## Web Opac App
- - [https://opac.app](https://opac.app)
- - date_published: 2024-04-28T18:12:09+00:00
-
- ## OpenBallot
- - [https://www.openballot.app](https://www.openballot.app)
- - date_published: 2024-10-29T19:10:35.284082+00:00
-
- ## OpenIV - Download #1 Best Modding Tool for GTA V (OFFICIAL)
- - [https://openiv.app](https://openiv.app)
- - date_published: 2023-09-17T17:11:09+00:00
-
- ## Podcast Reports und Analytics für Agenturen | Open Podcast
- - [https://openpodcast.app](https://openpodcast.app)
- - date_published: 2024-04-29T07:41:47.137862+00:00
-
- ## Raise from 5,000+ investors. For free.
- - [https://openvc.app](https://openvc.app)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Orario Treni - Paolo Conte
- - [https://orariotreni.app](https://orariotreni.app)
- - date_published: 2024-09-26T20:48:11.645736+00:00
-
- - [https://orbot.app](https://orbot.app)
- - date_published: 2024-02-23T08:47:11.215311+00:00
-
- ## Stripe Checkout
- - [https://donate.organicmaps.app](https://donate.organicmaps.app)
- - date_published: 1980-01-01T00:00:00+00:00
 

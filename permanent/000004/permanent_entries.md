@@ -1,3 +1,32 @@
+ ## Unlocking Literacy AI
+ - [https://unlockingliteracy.ai](https://unlockingliteracy.ai)
+ - date_published: 2024-09-18T23:25:58.598698+00:00
+
+ ## Delightful Dishes Served Up by Artificial Intelligence | 👨‍🍳🤖 UnrealMeal.ai
+ - [https://unrealmeal.ai](https://unrealmeal.ai)
+ - date_published: 2024-06-19T21:26:03.947082+00:00
+
+ ## Unriddle | Faster research
+ - [https://unriddle.ai](https://unriddle.ai)
+ - date_published: 2023-10-25T11:44:43.100828+00:00
+
+ ## Revolutionize the way you create videos using the power of AI
+ - [https://www.unscript.ai](https://www.unscript.ai)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Unsloth AI | Finetune Llama 3 & Mistral LLMs
+ - [https://unsloth.ai](https://unsloth.ai)
+ - date_published: 2024-06-22T17:58:11.285250+00:00
+
+ ## Unstable Diffusion
+ - [https://www.unstability.ai](https://www.unstability.ai)
+ - date_published: 2024-06-19T21:38:06.649666+00:00
+
+ ## UPDF AI
+ - [https://updf.ai](https://updf.ai)
+ - date_published: 2024-05-09T09:28:54.353195+00:00
+ - tags: ['pdf reader']
+
  ## Dashboard
  - [https://app.upollo.ai](https://app.upollo.ai)
  - date_published: 2024-08-16T23:25:00+00:00
@@ -1555,6 +1584,10 @@ Creative Solutions
  ## Doodal
  - [http://dood.al](http://dood.al)
  - date_published: 2014-07-01T18:09:07+00:00
+
+ ## The World's Leading Events & Calendar Marketing Platform
+ - [https://ql.e-c.al](https://ql.e-c.al)
+ - date_published: 2024-12-26T19:20:50.764672+00:00
 
  ## Ecommerce Bridge Shqipëria
  - [https://www.ecommercebridge.al](https://www.ecommercebridge.al)
@@ -3986,36 +4019,4 @@ Creative Solutions
  ## Duck, a chat-based note app for your knowledge base
  - [https://site.ducknote.app](https://site.ducknote.app)
  - date_published: 2023-10-25T11:46:05.662968+00:00
-
- ## Duck — note-taking application via chat
- - [https://www.ducknote.app](https://www.ducknote.app)
- - date_published: 2024-08-19T11:50:30.643253+00:00
-
- ## Dunatis.App
- - [https://dunatis.app](https://dunatis.app)
- - date_published: 2024-07-12T16:11:46.360299+00:00
-
- ## Duolicious | Meet People Who Get You | Date, Make Friends & Chat
- - [https://duolicious.app](https://duolicious.app)
- - date_published: 2024-05-17T02:55:36.190670+00:00
-
- ## Duolicious
- - [https://web.duolicious.app](https://web.duolicious.app)
- - date_published: 2024-07-20T04:55:39.841080+00:00
-
- ## Duro Labs
- - [https://mfg.duro.app](https://mfg.duro.app)
- - date_published: 2024-09-05T21:21:29.067965+00:00
-
- ## EarTrumpet
- - [https://eartrumpet.app](https://eartrumpet.app)
- - date_published: 2024-04-21T17:49:07+00:00
-
- ## Easy Indie App
- - [https://easyindie.app](https://easyindie.app)
- - date_published: 2024-06-19T22:35:08.072422+00:00
-
- ## Home | EatFeed
- - [https://eatfeed.app](https://eatfeed.app)
- - date_published: 2024-09-02T09:48:00.181715+00:00
 

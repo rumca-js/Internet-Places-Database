@@ -1,3 +1,373 @@
+ ## Information Commons Help Desk
+ - [http://help.ic.utoronto.ca](http://help.ic.utoronto.ca)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## School of Continuing Studies
+ - [https://help.learn.utoronto.ca](https://help.learn.utoronto.ca)
+ - date_published: 2024-07-21T08:09:49.697018+00:00
+
+ ## The Division of People Strategy, Equity & Culture – Work where the world comes to think, discover, and learn.
+ - [https://hrandequity.utoronto.ca](https://hrandequity.utoronto.ca)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## RLogin - Rotman User Authentication
+ - [https://hub.rotman.utoronto.ca](https://hub.rotman.utoronto.ca)
+ - date_published: 2024-04-30T05:30:25.422037+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [https://idpz.utorauth.utoronto.ca](https://idpz.utorauth.utoronto.ca)
+ - date_published: 2024-07-01T21:36:03.308089+00:00
+
+ ## Institute of Health Policy, Management and Evaluation
+ - [http://ihpme.utoronto.ca](http://ihpme.utoronto.ca)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Indigenous University of Toronto
+ - [https://indigenous.utoronto.ca](https://indigenous.utoronto.ca)
+ - date_published: 2024-04-30T05:30:50.272217+00:00
+
+ ## UTORweb
+ - [http://individual.utoronto.ca](http://individual.utoronto.ca)
+ - date_published: 2001-09-12T16:55:27+00:00
+
+ ## Inside Rotman – Inside Rotman
+ - [https://inside.rotman.utoronto.ca](https://inside.rotman.utoronto.ca)
+ - date_published: 2024-04-30T05:29:20.870727+00:00
+
+ ## Home - Centre for International Experience
+ - [https://internationalexperience.utoronto.ca](https://internationalexperience.utoronto.ca)
+ - date_published: 2024-07-01T21:36:24.047850+00:00
+
+ ## Going to UTSCweb
+ - [https://intranet.utsc.utoronto.ca](https://intranet.utsc.utoronto.ca)
+ - date_published: 2022-03-01T17:07:32+00:00
+
+ ## Faculty of Information (iSchool) | University of Toronto
+ - [https://ischool.utoronto.ca](https://ischool.utoronto.ca)
+ - date_published: 2024-07-11T12:56:42.238793+00:00
+
+ ## Information Security and Enterprise Architecture | University of Toronto
+ - [https://isea.utoronto.ca](https://isea.utoronto.ca)
+ - date_published: 2024-09-18T06:19:27.491576+00:00
+
+ ## Information Technology Services - University of Toronto
+ - [https://its.utoronto.ca](https://its.utoronto.ca)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Home » University of Toronto Joint Centre for Bioethics
+ - [https://jcb.utoronto.ca](https://jcb.utoronto.ca)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Careers at U of T
+ - [https://jobs.utoronto.ca](https://jobs.utoronto.ca)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Journal Production Services
+ - [http://jps.library.utoronto.ca](http://jps.library.utoronto.ca)
+ - date_published: 2024-10-29T17:52:37.766031+00:00
+
+ ## Home | UofT - Faculty of Kinesiology & Physical Education
+ - [https://kpe.utoronto.ca](https://kpe.utoronto.ca)
+ - date_published: 2024-06-09T00:56:08.459806+00:00
+
+ ## Home | University of Toronto Faculty of Law
+ - [https://law.utoronto.ca](https://law.utoronto.ca)
+ - date_published: 2024-04-30T05:29:58.708671+00:00
+
+ ## School of Continuing Studies - University of Toronto
+ - [https://learn.utoronto.ca](https://learn.utoronto.ca)
+ - date_published: 2024-04-30T05:30:52.828597+00:00
+
+ ## LibCal -
+        University of Toronto
+ - [http://libcal.library.utoronto.ca](http://libcal.library.utoronto.ca)
+ - date_published: 2024-07-21T08:24:11.627329+00:00
+
+ ## Home | Bora Laskin Law Library
+ - [http://library.law.utoronto.ca](http://library.law.utoronto.ca)
+ - date_published: 2024-07-20T14:36:18+00:00
+
+ ## Welcome | University of Toronto Mississauga Library
+ - [https://library.utm.utoronto.ca](https://library.utm.utoronto.ca)
+ - date_published: 2024-04-30T05:28:49.798139+00:00
+
+ ## University of Toronto Libraries
+ - [https://library.utoronto.ca](https://library.utoronto.ca)
+ - date_published: 2024-05-10T06:24:35.491733+00:00
+ - tags: ['university']
+
+ ## Department of Linguistics | University of Toronto
+ - [https://linguistics.utoronto.ca](https://linguistics.utoronto.ca)
+ - date_published: 2024-05-16T16:26:33.927688+00:00
+
+ ## Home | University of Toronto Libraries
+ - [http://link.library.utoronto.ca](http://link.library.utoronto.ca)
+ - date_published: 2024-06-24T07:02:56+00:00
+
+ ## Home | University of Toronto Libraries
+ - [https://login.library.utoronto.ca](https://login.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
+ ## University of Toronto Magazine
+ - [https://magazine.utoronto.ca](https://magazine.utoronto.ca)
+ - date_published: 2024-04-30T05:31:07.034675+00:00
+
+ ## Working...
+ - [https://mail.utoronto.ca](https://mail.utoronto.ca)
+ - date_published: 2024-04-30T05:30:11.319113+00:00
+
+ ## University of Toronto
+ - [https://map.utoronto.ca](https://map.utoronto.ca)
+ - date_published: 2024-04-30T05:31:12.063691+00:00
+
+ ## MD Program 2024-2025 Academic Calendar | MD Academic Calendar
+ - [https://md.calendar.utoronto.ca](https://md.calendar.utoronto.ca)
+ - date_published: 2024-08-07T19:57:31+00:00
+
+ ## Welcome to the MD Program
+ - [https://md.utoronto.ca](https://md.utoronto.ca)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Medical Education
+ - [https://meded.temertymedicine.utoronto.ca](https://meded.temertymedicine.utoronto.ca)
+ - date_published: 2024-08-11T04:26:39.231378+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [https://meded.utoronto.ca](https://meded.utoronto.ca)
+ - date_published: 2024-08-11T04:26:37.925210+00:00
+
+ ## Congratulations to the class of 2T4!
+ - [https://medicine.utoronto.ca](https://medicine.utoronto.ca)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Memories of UTSC | Memories of Scarborough Campus
+ - [https://memory.digital.utsc.utoronto.ca](https://memory.digital.utsc.utoronto.ca)
+ - date_published: 2024-07-20T22:24:13+00:00
+
+ ## Communications for Academic Administrators – University of Toronto
+ - [https://memos.provost.utoronto.ca](https://memos.provost.utoronto.ca)
+ - date_published: 2024-07-15T09:57:11.628540+00:00
+
+ ## Home - Student Mental Health Resource
+ - [https://mentalhealth.utoronto.ca](https://mentalhealth.utoronto.ca)
+ - date_published: 2023-11-30T00:00:00+00:00
+
+ ## Microrobotics Lab | University of Toronto
+ - [https://microrobotics.mie.utoronto.ca](https://microrobotics.mie.utoronto.ca)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Munk School of Global Affairs & Public Policy
+ - [https://munkschool.utoronto.ca](https://munkschool.utoronto.ca)
+ - date_published: 2024-04-30T05:30:14.576417+00:00
+
+ ## Home | University of Toronto Libraries
+ - [http://myaccess.library.utoronto.ca](http://myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
+ ## Navi Widgets Console
+ - [https://navi.studentlife.utoronto.ca](https://navi.studentlife.utoronto.ca)
+ - date_published: 2024-07-01T21:36:10.871531+00:00
+
+ ## U of T Engineering News
+ - [https://news.engineering.utoronto.ca](https://news.engineering.utoronto.ca)
+ - date_published: 2024-10-17T15:36:11.303819+00:00
+
+ ## Observatory - University of Toronto at Scarborough
+ - [http://observatory.utsc.utoronto.ca](http://observatory.utsc.utoronto.ca)
+ - date_published: 2022-08-19T20:19:48+00:00
+
+ ## Welcome | OISE Library
+ - [https://oise.library.utoronto.ca](https://oise.library.utoronto.ca)
+ - date_published: 2024-04-30T05:28:37.849250+00:00
+
+ ## OISE Library K-12 Manipulatives
+ - [https://omekaoise.library.utoronto.ca](https://omekaoise.library.utoronto.ca)
+ - date_published: 2024-07-21T08:24:12.826278+00:00
+
+ ## University of Toronto Libraries
+ - [https://onesearch.library.utoronto.ca](https://onesearch.library.utoronto.ca)
+ - date_published: 2024-04-30T05:28:23.048700+00:00
+
+ ## Dialects of Ontario / University of Toronto
+ - [http://ontariodialects.chass.utoronto.ca](http://ontariodialects.chass.utoronto.ca)
+ - date_published: 2024-07-19T15:19:59.645549+00:00
+
+ ## Occupational Science & Occupational Therapy
+ - [https://ot.utoronto.ca](https://ot.utoronto.ca)
+ - date_published: 2024-04-30T05:30:56.871646+00:00
+
+ ## Home - Parents & Supporters
+ - [https://parentsandsupporters.utoronto.ca](https://parentsandsupporters.utoronto.ca)
+ - date_published: 2022-01-14T00:00:00+00:00
+
+ ## Physics Computing Services
+ - [https://pcs.physics.utoronto.ca](https://pcs.physics.utoronto.ca)
+ - date_published: 2024-07-03T23:23:41.330490+00:00
+
+ ## The Division of People Strategy, Equity & Culture – Work where the world comes to think, discover, and learn.
+ - [https://people.utoronto.ca](https://people.utoronto.ca)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home - Department of Philosophy
+ - [https://philosophy.utoronto.ca](https://philosophy.utoronto.ca)
+ - date_published: 2024-09-10T08:45:54.010692+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [http://portal.utoronto.ca](http://portal.utoronto.ca)
+ - date_published: 2024-06-17T10:57:47.858909+00:00
+
+ ## Positive Space at U of T
+ - [https://positivespace.utoronto.ca](https://positivespace.utoronto.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## SAP Web Application Server Error
+ - [https://ppm-wd.utoronto.ca](https://ppm-wd.utoronto.ca)
+ - date_published: 2024-07-21T08:23:06.580985+00:00
+
+ ## Division of the Vice-President & Provost – University of Toronto
+ - [https://provost.utoronto.ca](https://provost.utoronto.ca)
+ - date_published: 2024-05-12T05:53:21.602613+00:00
+
+ ## University of Toronto Libraries
+ - [https://pubmed-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca](https://pubmed-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-21T08:23:50.780661+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [https://q.utoronto.ca](https://q.utoronto.ca)
+ - date_published: 2024-04-30T05:28:45.010073+00:00
+
+ ## UTORid Account Recovery - Password Reset
+ - [https://recover.utorid.utoronto.ca](https://recover.utorid.utoronto.ca)
+ - date_published: 2024-07-01T21:36:00.293881+00:00
+
+ ## recreation.utoronto.ca
+ - [https://recreation.utoronto.ca](https://recreation.utoronto.ca)
+ - date_published: 2024-09-05T11:53:35.293863+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [https://redcap.utoronto.ca](https://redcap.utoronto.ca)
+ - date_published: 2024-07-15T06:21:10.926463+00:00
+
+ ## University Registrar's Office | University of Toronto
+ - [https://registrar.utoronto.ca](https://registrar.utoronto.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home | University of Toronto Libraries
+ - [https://resource.library.utoronto.ca](https://resource.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
+ ## Home - University of Toronto Robotics Institute
+ - [https://robotics.utoronto.ca](https://robotics.utoronto.ca)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Student Web Services | University of Toronto
+ - [https://rosi.utoronto.ca](https://rosi.utoronto.ca)
+ - date_published: 2024-06-15T12:38:41+00:00
+
+ ## Rotman Commerce - University of Toronto
+ - [https://rotmancommerce.utoronto.ca](https://rotmancommerce.utoronto.ca)
+ - date_published: 2024-04-30T05:30:23.467887+00:00
+
+ ## Rotman School of Management | University of Toronto - Rotman School of Management
+ - [https://rotman.utoronto.ca](https://rotman.utoronto.ca)
+ - date_published: 2023-11-18T08:17:18.470993+00:00
+
+ ## Safety & Support – University of Toronto
+ - [https://safety.utoronto.ca](https://safety.utoronto.ca)
+ - date_published: 2024-04-30T05:28:51.472594+00:00
+
+ ## Toronto Smart Materials & Structures (TSMART)
+ - [http://sapl.mie.utoronto.ca](http://sapl.mie.utoronto.ca)
+ - date_published: 2024-06-22T11:42:06.329059+00:00
+
+ ## University of Toronto Libraries
+ - [https://search-ebscohost-com.myaccess.library.utoronto.ca](https://search-ebscohost-com.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T22:23:25.951406+00:00
+
+ ## University of Toronto Libraries
+ - [http://search.library.utoronto.ca](http://search.library.utoronto.ca)
+ - date_published: 2024-07-20T22:23:33.425510+00:00
+
+ ## Home - Security Matters
+ - [https://securitymatters.utoronto.ca](https://securitymatters.utoronto.ca)
+ - date_published: 2024-08-11T10:25:44.821722+00:00
+
+ ## Home - Information Security at University of Toronto
+ - [https://security.utoronto.ca](https://security.utoronto.ca)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## 2024-2025 Calendar | School of Graduate Studies (SGS) Calendar
+ - [https://sgs.calendar.utoronto.ca](https://sgs.calendar.utoronto.ca)
+ - date_published: 2024-07-19T14:52:26+00:00
+
+ ## A-Z directory | University of Toronto
+ - [http://sites.utoronto.ca](http://sites.utoronto.ca)
+ - date_published: 2024-07-20T21:35:45+00:00
+
+ ## SLUGS – Society of Linguistics Undergraduate Students
+ - [http://slugs.sa.utoronto.ca](http://slugs.sa.utoronto.ca)
+ - date_published: 2024-07-19T15:18:56.936718+00:00
+
+ ## Factor-Inwentash Faculty of Social Work
+ - [http://socialwork.utoronto.ca](http://socialwork.utoronto.ca)
+ - date_published: 2024-07-21T08:10:01.435703+00:00
+
+ ## Schwartz Reisman Institute for Technology and Society
+ - [https://sr-institute.utoronto.ca](https://sr-institute.utoronto.ca)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Schwartz Reisman Institute for Technology and Society
+ - [https://srinstitute.utoronto.ca](https://srinstitute.utoronto.ca)
+ - date_published: 2024-04-30T05:31:04.915887+00:00
+
+ ## Home - University Family Housing at University of Toronto
+ - [http://studentfamilyhousing.utoronto.ca](http://studentfamilyhousing.utoronto.ca)
+ - date_published: 2024-08-17T23:16:14.438873+00:00
+
+ ## Home - UofT Student Life
+ - [https://studentlife.utoronto.ca](https://studentlife.utoronto.ca)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## University of Toronto Libraries
+ - [https://subscriptions-techstreet-com.myaccess.library.utoronto.ca](https://subscriptions-techstreet-com.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T22:24:02.508667+00:00
+
+ ## TaPIR Lab | TaPIR Lab
+ - [https://tapirlab.music.utoronto.ca](https://tapirlab.music.utoronto.ca)
+ - date_published: 2024-07-10T06:14:49.855593+00:00
+
+ ## Home - TCard
+ - [https://tcard.utoronto.ca](https://tcard.utoronto.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## In the news
+ - [https://temertymedicine.utoronto.ca](https://temertymedicine.utoronto.ca)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Toronto Intelligent Systems Lab
+ - [https://tisl.cs.utoronto.ca](https://tisl.cs.utoronto.ca)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Daphna Heller
+ - [http://tlpl.ling.utoronto.ca](http://tlpl.ling.utoronto.ca)
+ - date_published: 2020-08-19T22:21:37+00:00
+
+ ## TSpace Repository: Home
+ - [https://tspace.library.utoronto.ca](https://tspace.library.utoronto.ca)
+ - date_published: 2024-05-02T09:56:15.217226+00:00
+
+ ## Toronto Working Papers in Linguistics
+ - [http://twpl.library.utoronto.ca](http://twpl.library.utoronto.ca)
+ - date_published: 2024-07-19T15:18:54.562176+00:00
+
+ ## Learning and Leadership Centre – Professional Development at U of T
+ - [https://ulearn.utoronto.ca](https://ulearn.utoronto.ca)
+ - date_published: 2024-07-15T09:56:56.977021+00:00
+
+ ## https://utcc.utoronto.ca
+ - [https://utcc.utoronto.ca](https://utcc.utoronto.ca)
+ - date_published: 2011-04-20T17:30:24+00:00
+
  ## Welcome | University of Toronto Mississauga Library
  - [https://utm.library.utoronto.ca](https://utm.library.utoronto.ca)
  - date_published: 2024-07-19T19:37:55+00:00
@@ -622,6 +992,18 @@
  - [https://www.vijayp.ca](https://www.vijayp.ca)
  - date_published: 2024-08-19T11:01:42.983310+00:00
 
+ ## Village Life - Ontario Lifestyle News
+ - [https://www.village-life.ca](https://www.village-life.ca)
+ - date_published: 2024-12-26T13:51:19+00:00
+
+ ## Strengthening the communities we serve
+ - [https://www.villagemedia.ca](https://www.villagemedia.ca)
+ - date_published: 2024-12-26T13:50:16.486238+00:00
+
+ ## Village Report - Canada's News Aggregator
+ - [https://www.villagereport.ca](https://www.villagereport.ca)
+ - date_published: 2024-12-26T13:52:50.263333+00:00
+
  ## VinAudit Canada Official Site - VIN Check | Canadian Vehicle History Reports
  - [https://www.vinaudit.ca](https://www.vinaudit.ca)
  - date_published: 2024-04-22T00:00:00+00:00
@@ -658,6 +1040,10 @@
  ## VITA Digital Collections Software
  - [http://vitatoolkit.ca](http://vitatoolkit.ca)
  - date_published: 2022-04-11T00:00:00+00:00
+
+ ## Home
+ - [https://vividata.ca](https://vividata.ca)
+ - date_published: 2024-12-26T13:47:52.665002+00:00
 
  ## vKey
  - [https://vkey.ca](https://vkey.ca)
@@ -3316,6 +3702,10 @@
  - [https://award.cat](https://award.cat)
  - date_published: 2024-10-22T21:56:51.670735+00:00
 
+ ## Balmat
+ - [http://www.balmat.cat](http://www.balmat.cat)
+ - date_published: 2024-12-26T22:04:35.899943+00:00
+
  ## L’espai de trobada amb la gestió de la ciutat de Barcelona.
  - [https://ajuntament.barcelona.cat](https://ajuntament.barcelona.cat)
  - date_published: 2024-06-15T11:00:04+00:00
@@ -3620,395 +4010,4 @@
  ## Inici ICGC | icgc
  - [https://www.icgc.cat](https://www.icgc.cat)
  - date_published: 2024-07-16T14:34:44+00:00
-
- ## Coses de València i en Valencià - Ikkaro
- - [https://www.ikkaro.cat](https://www.ikkaro.cat)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Inici - ACUP - Associació Catalana d'Universitats Públiques
- - [http://www.indicadorsuniversitats.cat](http://www.indicadorsuniversitats.cat)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Integrats en un gran Campus Docent i de Salut, disposem de recursos hospitalaris i de recerca compartits
- - [http://www.institutbonanova.cat](http://www.institutbonanova.cat)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Institut Ecoedicio – FOMENTA, CERTIFICA I DIFON LA SOSTENIBILITAT EDITORIAL
- - [https://institutecoedicio.cat](https://institutecoedicio.cat)
- - date_published: 2024-07-10T10:01:52.058101+00:00
-
- ## IPDB: InterPlanetary Distributed Literature CATalog
- - [https://ipdl.cat](https://ipdl.cat)
- - date_published: 2024-06-23T20:24:51+00:00
-
- ## IRTA - Institut de Recerca i Tecnologia Agroalimentàries
- - [https://www.irta.cat](https://www.irta.cat)
- - date_published: 2024-07-17T02:49:40.606099+00:00
-
- ## I'm a cat!
- - [https://is-a.cat](https://is-a.cat)
- - date_published: 2024-06-23T17:14:53.791775+00:00
-
- ## Capítol Català de la Societat Internet - Catalan Chapter of the Internet Society
- - [https://isoc.cat](https://isoc.cat)
- - date_published: 2024-05-06T23:55:49.836985+00:00
-
- ## Cerca vols, hotels i cotxes de lloguer | KAYAK
- - [https://www.kayak.cat](https://www.kayak.cat)
- - date_published: 2024-12-22T15:20:00.061424+00:00
-
- ## Konvent Agenda
- - [http://www.konvent.cat](http://www.konvent.cat)
- - date_published: 2024-06-18T16:24:39.369793+00:00
-
- ## La Barraqueta
- - [https://www.labarraqueta.cat](https://www.labarraqueta.cat)
- - date_published: 2024-07-21T05:51:21.068136+00:00
-
- ## La Panera
- - [https://www.lapanera.cat](https://www.lapanera.cat)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Lapsus
- - [https://www.lapsus.cat](https://www.lapsus.cat)
- - date_published: 2024-09-06T21:46:54.599403+00:00
-
- ## La Sala
- - [http://www.lasalavng.cat](http://www.lasalavng.cat)
- - date_published: 2024-09-13T11:32:01+00:00
-
- ## Portada
- - [https://www.laxarxa.cat](https://www.laxarxa.cat)
- - date_published: 2024-09-17T21:14:56.904131+00:00
-
- ## Lemmy.cat - Plataforma d'agregació d'enllaços i discussió, en català
- - [https://lemmy.cat](https://lemmy.cat)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Gran Teatre del Liceu
- - [https://www.liceubarcelona.cat](https://www.liceubarcelona.cat)
- - date_published: 2024-09-19T01:37:26.886929+00:00
-
- ## Inici - Localret
- - [http://www.localret.cat](http://www.localret.cat)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## mastodont.cat, cultura catalana.
- - [https://mastodont.cat](https://mastodont.cat)
- - date_published: 2024-05-09T08:22:54.387775+00:00
-
- ## MetaData - El digital de tecnologia en català
- - [https://www.metadata.cat](https://www.metadata.cat)
- - date_published: 2024-10-30T09:41:01.994640+00:00
-
- ## El temps a Catalunya - Servei Meteorològic de Catalunya
- - [http://www.meteo.cat](http://www.meteo.cat)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## meth.cat IRC
- - [https://meth.cat](https://meth.cat)
- - date_published: 2024-06-23T18:31:38.604317+00:00
-
- ## Mètode - Revista de difusió de la ciència
- - [https://metode.cat](https://metode.cat)
- - date_published: 2024-10-29T17:29:11+00:00
-
- ## Home        | Museu de Ciències Naturals de Barcelona
- - [https://museuciencies.cat](https://museuciencies.cat)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Museu d'Història de la Medicina de Catalunya
- - [http://www.museudelamedicina.cat](http://www.museudelamedicina.cat)
- - date_published: 2024-06-24T09:32:37.366278+00:00
-
- ## Arbre de Família Gratuït, Genealogia, Història Familiar i proves d'ADN
- - [https://www.myheritage.cat](https://www.myheritage.cat)
- - date_published: 2024-10-30T07:56:23.837389+00:00
-
- ## Nyan.Cat!
- - [http://www.nyan.cat](http://www.nyan.cat)
- - date_published: 2024-06-23T17:53:24.034570+00:00
-
- ## Oblats de Montserrat – Oblats de Montserrat
- - [https://oblatsmontserrat.cat](https://oblatsmontserrat.cat)
- - date_published: 2024-09-17T21:14:25.733512+00:00
-
- ## Resume - Wei Wang
- - [https://onev.cat](https://onev.cat)
- - date_published: 2024-07-23T22:15:17.584717+00:00
-
- ## 97jcp
- - [https://notes.orga.cat](https://notes.orga.cat)
- - date_published: 2024-06-19T22:09:30.300730+00:00
-
- ## Home
- - [http://www.palestina.cat](http://www.palestina.cat)
- - date_published: 2024-12-13T08:06:08.233878+00:00
-
- ## Publicacions de l'Abadia de Montserrat
- - [https://www.pamsa.cat](https://www.pamsa.cat)
- - date_published: 2024-09-17T21:14:38.037082+00:00
-
- ## Servicio de Obstetricia | Hospital del Mar
- - [https://obstetricia.parcdesalutmar.cat](https://obstetricia.parcdesalutmar.cat)
- - date_published: 2021-07-12T00:00:00+00:00
-
- ## Parc de Salut Mar
- - [https://parcdesalutmar.cat](https://parcdesalutmar.cat)
- - date_published: 2024-05-08T08:49:33.681184+00:00
-
- ## Pirates de Catalunya
- - [https://pirates.cat](https://pirates.cat)
- - date_published: 2024-07-10T08:32:29.333417+00:00
-
- ## Inici
- - [http://www.portdebarcelona.cat](http://www.portdebarcelona.cat)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## HedgeDoc - Ideas grow better together
- - [https://pad.public.cat](https://pad.public.cat)
- - date_published: 2024-07-18T05:27:33.912951+00:00
-
- ## 502 Bad Gateway
- - [https://peertube.public.cat](https://peertube.public.cat)
- - date_published: 2024-04-29T06:00:22.458550+00:00
-
- ## RAC1 - Últimes noticies, ràdio en directe i podcasts a la carta
- - [https://www.rac1.cat](https://www.rac1.cat)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## RAC105
- - [https://www.rac105.cat](https://www.rac105.cat)
- - date_published: 2024-12-14T20:50:36.947965+00:00
-
- ## Regió7 | Diari líder a la Catalunya central: últimes notícies i actualitat, entrevistes, anàlisi i opinió
- - [https://regio7.cat](https://regio7.cat)
- - date_published: 2024-12-11T09:11:58+00:00
-
- ## River MacLeod
- - [https://river.cat](https://river.cat)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## ROBOCAT 2024
- - [https://robocat.cat](https://robocat.cat)
- - date_published: 2024-07-12T08:40:29.123161+00:00
-
- ## S4A Blog
- - [http://blog.s4a.cat](http://blog.s4a.cat)
- - date_published: 2016-02-23T00:00:00+00:00
-
- ## Shadowcat Systems Limited – Sufficiently Advanced Technology
- - [https://www.shadow.cat](https://www.shadow.cat)
- - date_published: 2024-09-03T23:35:58.293117+00:00
-
- ## ShiSH.cat
- - [https://shish.cat](https://shish.cat)
- - date_published: 2024-05-11T10:07:48.644215+00:00
-
- ## sizeof(cat)
- - [https://sizeof.cat](https://sizeof.cat)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## soggy cat
- - [https://soggy.cat](https://soggy.cat)
- - date_published: 2024-05-08T10:45:11.258764+00:00
-
- ## SX3
- - [https://www.super3.cat](https://www.super3.cat)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Agenda - Tecnocampus
- - [https://agenda.tecnocampus.cat](https://agenda.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:48+00:00
-
- ## Bústia Suggeriments
- - [https://bustia-suggeriments.tecnocampus.cat](https://bustia-suggeriments.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:42.389990+00:00
-
- ## Centre de Congressos | TecnoCampus
- - [https://centredecongressos.tecnocampus.cat](https://centredecongressos.tecnocampus.cat)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Intranet Estudiants - eCampus
- - [https://ecampus.tecnocampus.cat](https://ecampus.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:27.499055+00:00
-
- ## Inici
- - [https://empreses.tecnocampus.cat](https://empreses.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:41.269675+00:00
-
- ## Formació Tecnocampus
- - [https://formacio.tecnocampus.cat](https://formacio.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:36+00:00
-
- ## Inici - HUB4T
- - [https://hub4t.tecnocampus.cat](https://hub4t.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:59.174798+00:00
-
- ## In Memoriam | TecnoCampus - Inmemoriam
- - [https://inmemoriam.tecnocampus.cat](https://inmemoriam.tecnocampus.cat)
- - date_published: 2023-09-26T00:00:00+00:00
-
- ## TECNOCAMPUS
- - [https://repositori.tecnocampus.cat](https://repositori.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:50.998374+00:00
-
- ## Botiga - Botiga del TecnoCampus
- - [https://shop.tecnocampus.cat](https://shop.tecnocampus.cat)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## TecnoCampus | Centres adscrits a la Universitat Pompeu Fabra i Parc empresarial
- - [https://tecnocampus.cat](https://tecnocampus.cat)
- - date_published: 2024-05-07T22:00:07.643019+00:00
-
- ## The Cozy Cat – Welcome to my cozy corner of the internet.
- - [https://cottage.thecozy.cat](https://cottage.thecozy.cat)
- - date_published: 2024-04-30T05:41:18.535012+00:00
-
- ## thecozy.cat – Welcome to my cozy corner of the internet.
- - [https://thecozy.cat](https://thecozy.cat)
- - date_published: 2023-10-25T12:10:38.975800+00:00
-
- ## The Cozy Cat – Welcome to my cozy corner of the internet.
- - [https://town.thecozy.cat](https://town.thecozy.cat)
- - date_published: 2024-04-30T05:41:34.589307+00:00
-
- ## TMB Barcelona bus i metro - TMB
- - [https://www.tmb.cat](https://www.tmb.cat)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Toot.Cat
- - [https://toot.cat](https://toot.cat)
- - date_published: 2023-10-25T12:10:42.383525+00:00
-
- ## Càsting
- - [https://casting.tv3.cat](https://casting.tv3.cat)
- - date_published: 2024-07-04T03:53:50.934402+00:00
-
- ## TV3 - Televisió de Catalunya
- - [https://www.tv3.cat](https://www.tv3.cat)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## TV Sabadell-Vallès - TV Sabadell · Vallès
- - [https://tvsabadell-valles.cat](https://tvsabadell-valles.cat)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## CAS - Central Authentication Service
- - [https://cv.uab.cat](https://cv.uab.cat)
- - date_published: 2024-10-14T23:49:50.762726+00:00
-
- ## CAS - Central Authentication Service
- - [https://intranet.uab.cat](https://intranet.uab.cat)
- - date_published: 2024-10-14T23:50:15.289863+00:00
-
- ## Tracem junts el camí cap a la innovació | Parc de Recerca UAB
- - [http://parc.uab.cat](http://parc.uab.cat)
- - date_published: 2024-12-11T14:43:44+00:00
-
- ## Portal de Recerca de la Universitat Autònoma de Barcelona
- - [https://portalrecerca.uab.cat](https://portalrecerca.uab.cat)
- - date_published: 2024-10-14T23:50:08.526003+00:00
-
- ## Seu Electrònica - UAB Barcelona - Seu Electronica
- - [https://seuelectronica.uab.cat](https://seuelectronica.uab.cat)
- - date_published: 2024-10-14T23:49:48.141613+00:00
-
- ## Universitat Autònoma de Barcelona
- - [https://www.uab.cat](https://www.uab.cat)
- - date_published: 2024-06-14T17:32:05+00:00
-
- ## Universitat Rovira i Virgili | The public university of Tarragona
- - [http://www.urv.cat](http://www.urv.cat)
- - date_published: 2023-11-17T07:39:18+00:00
-
- ## Home | Escola de Postgrau
- - [https://escolapostgrau.uvic.cat](https://escolapostgrau.uvic.cat)
- - date_published: 2024-09-18T19:07:09.678552+00:00
-
- ## UVic | Campus Vic de la UVic-UCC
- - [http://www.uvic.cat](http://www.uvic.cat)
- - date_published: 2024-09-18T19:07:13.381924+00:00
-
- ## Vi Novell del Celler Masroig
- - [http://vinovell.cat](http://vinovell.cat)
- - date_published: 2024-07-13T15:41:53.107276+00:00
-
- ## void.cat
- - [https://void.cat](https://void.cat)
- - date_published: 2024-06-07T09:31:29+00:00
-
- ## Front Slider
- - [https://xrcb.cat](https://xrcb.cat)
- - date_published: 2019-11-11T10:24:43+00:00
-
- ## Inici
- - [https://serveiseducatius.xtec.cat](https://serveiseducatius.xtec.cat)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Catering Toowoomba Locals - Monkey Business Catering
- - [http://www.monkeybusiness.catering](http://www.monkeybusiness.catering)
- - date_published: 2024-10-20T14:49:54.957597+00:00
-
- ## 0x44.cc · InfoSec, Reversing, and more
- - [https://0x44.cc](https://0x44.cc)
- - date_published: 2024-03-14T11:16:02.668575+00:00
- - tags: ['personal']
-
- ## 2Embed - Stream Movies, Tv-Shows, Anime IMDB, TMDB API
- - [https://www.2embed.cc](https://www.2embed.cc)
- - date_published: 2024-11-12T17:08:36.592906+00:00
-
- ## Dự đoán kết quả xổ số
- - [https://456bet.cc](https://456bet.cc)
- - date_published: 2024-12-10T03:31:09.887407+00:00
-
- ## 55KBET - Mesin slot online terpercaya, dealer langsung, perusahaan taruhan olahraga online
- - [https://55kbet5s.cc](https://55kbet5s.cc)
- - date_published: 2024-12-19T14:14:08+00:00
-
- ## 8BitMixtape-NEO Documentation
- - [https://wiki.8bitmixtape.cc](https://wiki.8bitmixtape.cc)
- - date_published: 2019-03-26T18:31:08+00:00
-
- ## Aaron's cc: – ROPMA
- - [http://aarons.cc](http://aarons.cc)
- - date_published: 2024-06-27T08:29:50.226021+00:00
-
- ## Abominable | karlkerschl
- - [http://abominable.cc](http://abominable.cc)
- - date_published: 2024-06-14T00:00:00+00:00
- - tags: ['comics', 'webcomics']
-
- ## Acentek
- - [http://www.acegroup.cc](http://www.acegroup.cc)
- - date_published: 2024-06-29T16:10:20.623013+00:00
-
- ## ACNH Fringe Fest
- - [https://acnhfringe.cc](https://acnhfringe.cc)
- - date_published: 2024-05-10T06:45:11.099751+00:00
-
- ## Oysape
- - [https://blog.aifetel.cc](https://blog.aifetel.cc)
- - date_published: 2024-11-08T19:57:47.167947+00:00
-
- ## 17th ACM Workshop on Artificial Intelligence and Security (AISec 2024)
- - [https://aisec.cc](https://aisec.cc)
- - date_published: 2024-06-17T13:55:31+00:00
-
- ## Andreas Baumann's Personal Home Page
- - [https://andreasbaumann.cc](https://andreasbaumann.cc)
- - date_published: 2024-12-09T18:29:57+00:00
-
- ## Arachne
- - [http://arachne.cc](http://arachne.cc)
- - date_published: 2021-01-17T00:00:00+00:00
-
- ## Arduino Cloud
- - [https://app.arduino.cc](https://app.arduino.cc)
- - date_published: 2024-07-11T13:08:41+00:00
-
- ## Arduino - Home
- - [https://arduino.cc](https://arduino.cc)
- - date_published: 2024-04-29T09:29:22+00:00
- - tags: ['microcontrollers', 'arduino']
 

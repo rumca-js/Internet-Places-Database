@@ -1,3 +1,27 @@
+ ## HirelakeAI: Turnkey Solution for Hiring - HireLakeAI
+ - [https://hirelake.ai](https://hirelake.ai)
+ - date_published: 2022-06-20T15:29:33+00:00
+
+ ## HireStack - the best way to hire
+ - [https://app.hirestack.ai](https://app.hirestack.ai)
+ - date_published: 2024-06-25T23:32:55.027501+00:00
+
+ ## HireStack API Docs
+ - [https://docs.hirestack.ai](https://docs.hirestack.ai)
+ - date_published: 2024-06-25T23:32:56.106377+00:00
+
+ ## HireStack - Video Interviews to 10x your hiring
+ - [https://hirestack.ai](https://hirestack.ai)
+ - date_published: 2024-05-06T18:11:47.697982+00:00
+
+ ## hirex.ai
+ - [https://www.hirex.ai](https://www.hirex.ai)
+ - date_published: 2024-04-01T18:09:35+00:00
+
+ ## hiroscope | Hiring made super-easy with the power of AI | hiroscope.ai
+ - [https://hiroscope.ai](https://hiroscope.ai)
+ - date_published: 2024-12-12T08:03:39.317003+00:00
+
  ## Hitesh Choudhary Home page
  - [https://hitesh.ai](https://hitesh.ai)
  - date_published: 2024-12-04T10:54:54.032428+00:00
@@ -3997,28 +4021,4 @@
  ## Pixelmind - AI-powered art & minting to NFTs
  - [https://beta.pixelmind.ai](https://beta.pixelmind.ai)
  - date_published: 2022-12-28T14:45:22+00:00
-
- ## Pixel+: AI-Powered Photo Repair & Restoration
- - [https://pixelplus.ai](https://pixelplus.ai)
- - date_published: 2024-10-30T10:24:17.442901+00:00
-
- ## Hintergrund aus Bild entfernen, kostenlos, keine Anmeldung - Pixian.AI
- - [https://de.pixian.ai](https://de.pixian.ai)
- - date_published: 2024-08-19T12:10:27.589695+00:00
-
- ## Elimine el fondo de la imagen, gratis, sin registrarse - Pixian.AI
- - [https://es.pixian.ai](https://es.pixian.ai)
- - date_published: 2024-08-19T12:10:35.314015+00:00
-
- ## Supprimez l'arrière-plan de l'image gratuitement et sans inscription - Pixian.AI
- - [https://fr.pixian.ai](https://fr.pixian.ai)
- - date_published: 2024-08-19T12:10:31.018699+00:00
-
- ## इमेज से बैकग्राउंड को हटाएँ, मुफ्त, कोई साइनअप ज़रूरी नहीं - Pixian.AI
- - [https://hi.pixian.ai](https://hi.pixian.ai)
- - date_published: 2024-08-19T12:10:09.056731+00:00
-
- ## Hapus Latar Belakang dari Gambar, Gratis, Tanpa Pendaftaran - Pixian.AI
- - [https://id.pixian.ai](https://id.pixian.ai)
- - date_published: 2024-08-19T12:10:33.318137+00:00
 
