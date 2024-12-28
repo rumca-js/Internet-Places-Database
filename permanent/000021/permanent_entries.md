@@ -1,3 +1,161 @@
+ ## The Peak
+ - [http://readthepeak.ca](http://readthepeak.ca)
+ - date_published: 2024-06-17T12:28:46.159768+00:00
+
+ ## Real Sports Apparel - Shop Online
+ - [https://shop.realsports.ca](https://shop.realsports.ca)
+ - date_published: 2024-09-18T15:37:19.183486+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://reddeerhospitallottery.ca](https://reddeerhospitallottery.ca)
+ - date_published: 2024-05-06T20:02:06.428925+00:00
+
+ ## Red Door Shelter
+ - [https://www.reddoorshelter.ca](https://www.reddoorshelter.ca)
+ - date_published: 2024-09-04T04:54:32.001988+00:00
+
+ ## Real Estate, Homes for Sale, MLS Listings, Agents | Redfin
+ - [https://redfin.ca](https://redfin.ca)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Red Room Recordings – Where Music Meets Magic
+ - [http://redroomrecordings.ca](http://redroomrecordings.ca)
+ - date_published: 2024-01-17T04:43:07.775376+00:00
+ - tags: ['personal']
+
+ ## Home - redtag.ca Blog
+ - [https://blog.redtag.ca](https://blog.redtag.ca)
+ - date_published: 2024-10-28T08:18:06.133688+00:00
+
+ ## Homepage
+ - [https://res-redtag.redtag.ca](https://res-redtag.redtag.ca)
+ - date_published: 2024-10-28T04:28:12+00:00
+
+ ## Airline Tickets | Vacation Packages | Cruises & Last Minute Deals | Red Tag Vacations
+ - [https://www.redtag.ca](https://www.redtag.ca)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Reece Martin
+ - [https://reecemartin.ca](https://reecemartin.ca)
+ - date_published: 2024-06-26T13:01:13.386821+00:00
+
+ ## REEL CANADA
+ - [https://reelcanada.ca](https://reelcanada.ca)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## The Re-Farmer
+ - [https://refarmer.ca](https://refarmer.ca)
+ - date_published: 2024-09-06T01:04:50.790977+00:00
+
+ ## Jonathan Reinink - Web designer & developer
+ - [https://reinink.ca](https://reinink.ca)
+ - date_published: 2024-07-09T13:36:13.745685+00:00
+
+ ## Read recent and archived obituaries and memorial notices from Edmonton Journal.
+ - [https://edmontonjournal.remembering.ca](https://edmontonjournal.remembering.ca)
+ - date_published: 2024-10-15T14:59:13.950766+00:00
+
+ ## Read recent and archived obituaries and memorial notices from Edmonton Sun.
+ - [https://edmontonsun.remembering.ca](https://edmontonsun.remembering.ca)
+ - date_published: 2024-10-29T03:36:58.319615+00:00
+
+ ## Read recent and archived obituaries and memorial notices from Regina Leader-Post.
+ - [https://leaderpost.remembering.ca](https://leaderpost.remembering.ca)
+ - date_published: 2024-10-29T04:12:01.778220+00:00
+
+ ## Read recent and archived obituaries and memorial notices from London Free Press.
+ - [https://lfpress.remembering.ca](https://lfpress.remembering.ca)
+ - date_published: 2024-10-29T04:51:06.376449+00:00
+
+ ## Read recent and archived obituaries and memorial notices from National Post.
+ - [http://nationalpost.remembering.ca](http://nationalpost.remembering.ca)
+ - date_published: 2024-10-15T14:52:55.397821+00:00
+
+ ## Read recent and archived obituaries and memorial notices from Ottawa Sun.
+ - [http://ottawasun.remembering.ca](http://ottawasun.remembering.ca)
+ - date_published: 2024-10-29T04:53:07.023193+00:00
+
+ ## Read recent and archived obituaries and memorial notices from Saskatoon StarPhoenix.
+ - [https://thestarphoenix.remembering.ca](https://thestarphoenix.remembering.ca)
+ - date_published: 2024-10-29T03:33:39.360188+00:00
+
+ ## Read recent and archived obituaries and memorial notices from Vancouver Sun and Province.
+ - [https://vancouversunandprovince.remembering.ca](https://vancouversunandprovince.remembering.ca)
+ - date_published: 2024-10-29T03:53:03.875677+00:00
+
+ ## Read recent and archived obituaries and memorial notices from Windsor Star.
+ - [https://windsorstar.remembering.ca](https://windsorstar.remembering.ca)
+ - date_published: 2024-10-29T03:41:30.810042+00:00
+
+ ## Read recent and archived obituaries and memorial notices from Winnipeg Sun.
+ - [https://winnipegsun.remembering.ca](https://winnipegsun.remembering.ca)
+ - date_published: 2024-10-29T04:07:08.761219+00:00
+
+ ## Read recent and archived obituaries and memorial notices from Postmedia Obituaries.
+ - [https://www.remembering.ca](https://www.remembering.ca)
+ - date_published: 2024-10-29T04:46:40.136687+00:00
+
+ ## Remorquage Stevy, Steven Grondin Transport et remorquage en Beauce
+ - [https://remorquagestevy.ca](https://remorquagestevy.ca)
+ - date_published: 2024-09-10T11:04:46+00:00
+
+ ## Remote Pixel | Thanks
+ - [https://remotepixel.ca](https://remotepixel.ca)
+ - date_published: 2021-08-13T10:07:11+00:00
+
+ ## Top 5 Top 5 Toronto Renovations 2020 | Renovations.ca Plumbers and Plumbing Contractors for 2020 | Renovations.ca
+ - [http://www.renovations.ca](http://www.renovations.ca)
+ - date_published: 2024-06-29T17:33:33.774041+00:00
+
+ ## Home - Research Impact Canada
+ - [http://researchimpact.ca](http://researchimpact.ca)
+ - date_published: 2024-07-21T08:34:30.569385+00:00
+
+ ## Réseau Libre
+ - [http://reseaulibre.ca](http://reseaulibre.ca)
+ - date_published: 2023-02-03T02:06:48+00:00
+
+ ## Primary Access Node
+ - [https://reservedbits.ca](https://reservedbits.ca)
+ - date_published: 2023-07-09T11:08:21+00:00
+
+ ## Restaurant à la Maison
+ - [https://restaurantalamaison.ca](https://restaurantalamaison.ca)
+ - date_published: 2024-12-23T12:10:04+00:00
+
+ ## Retired, And Now What
+ - [http://retiredandnowwhat.ca](http://retiredandnowwhat.ca)
+ - date_published: 2024-06-20T12:04:40.461836+00:00
+
+ ## RETRODEF
+ - [https://www.retrodef.ca](https://www.retrodef.ca)
+ - date_published: 2024-07-27T00:38:33+00:00
+
+ ## hysteria bbs - retrorewind.ca
+ - [https://bbs.retrorewind.ca](https://bbs.retrorewind.ca)
+ - date_published: 2024-02-17T05:42:16+00:00
+
+ ## Retro Rewind - Retro Computer Parts
+ - [https://retrorewind.ca](https://retrorewind.ca)
+ - date_published: 2024-06-14T02:21:39.320884+00:00
+ - tags: ['amiga', 'shop']
+
+ ## HelpDesk Retro Rewind Help Desk
+ - [https://support.retrorewind.ca](https://support.retrorewind.ca)
+ - date_published: 2024-09-13T19:49:31.175599+00:00
+
+ ## MLS® Listings: Real Estate for Sale & Rent in Canada
+ - [https://www.rew.ca](https://www.rew.ca)
+ - date_published: 2024-06-27T12:51:57.454178+00:00
+
+ ## CRA
+ - [https://rheum.ca](https://rheum.ca)
+ - date_published: 2023-10-25T02:27:27+00:00
+
+ ## Home - The Ride Fair Coalition
+ - [https://ridefair.ca](https://ridefair.ca)
+ - date_published: 2024-02-12T00:00:00+00:00
+
  ## The FOX Shop Canada | Official FOX Factory Store
  - [https://shop.ridefox.ca](https://shop.ridefox.ca)
  - date_published: 2024-06-15T12:00:13.397540+00:00
@@ -230,6 +388,10 @@
  ## RSEQ - Sport.Éducation.Fierté
  - [http://www.rseq.ca](http://www.rseq.ca)
  - date_published: 2024-07-21T08:25:51.903526+00:00
+
+ ## Welcome to rudy.ca, eh
+ - [https://rudy.ca](https://rudy.ca)
+ - date_published: 2024-12-26T18:35:04+00:00
 
  ## Crafting {:} a Life – A Charlottetown Unconference, June 2019
  - [https://cal.ruk.ca](https://cal.ruk.ca)
@@ -718,6 +880,10 @@
  - [https://swag.shad.ca](https://swag.shad.ca)
  - date_published: 2024-08-09T03:53:48.133891+00:00
 
+ ## Sharon Fraser
+ - [http://www.sharonfraser.ca](http://www.sharonfraser.ca)
+ - date_published: 2024-12-27T13:44:56.236584+00:00
+
  ## Shaw Communications
  - [http://members.shaw.ca](http://members.shaw.ca)
  - date_published: 2024-09-09T13:34:37.979026+00:00
@@ -885,6 +1051,10 @@
  ## CanadianSME Small Business Awards – Celebrating success in Canada
  - [https://www.smeawards.ca](https://www.smeawards.ca)
  - date_published: 2024-10-12T23:30:35.965817+00:00
+
+ ## EMANUEL SMEDBØL
+ - [https://emanuel.smedbol.ca](https://emanuel.smedbol.ca)
+ - date_published: 2024-12-27T20:54:42.402596+00:00
 
  ## Snaptique | Photo Booth Rental Toronto
  - [https://www.snaptique.ca](https://www.snaptique.ca)
@@ -1989,6 +2159,10 @@
  ## Top 5 Top 5 Toronto Trustees for 2020 | Trustees.ca Plumbers and Plumbing Contractors for 2020 | Trustees.ca
  - [http://www.trustees.ca](http://www.trustees.ca)
  - date_published: 2024-06-29T17:35:53.398362+00:00
+
+ ## Truth Mafia
+ - [https://www.truthmafia.ca](https://www.truthmafia.ca)
+ - date_published: 2024-11-01T23:08:15+00:00
 
  ## Füm - The Good Habit™
  - [https://tryfum.ca](https://tryfum.ca)
@@ -3854,176 +4028,4 @@
  ## Black Research Network: Home
  - [https://brn.utoronto.ca](https://brn.utoronto.ca)
  - date_published: 2024-09-05T11:52:19.258498+00:00
-
- ## Careers – The Division of People Strategy, Equity & Culture
- - [https://careers.hrandequity.utoronto.ca](https://careers.hrandequity.utoronto.ca)
- - date_published: 2024-04-30T05:30:44.223588+00:00
-
- ## Home - Office of the Chief Information Officer (CIO)
- - [https://cio.utoronto.ca](https://cio.utoronto.ca)
- - date_published: 2017-07-14T00:00:00+00:00
-
- ## Home - Information Security at University of Toronto
- - [https://ciso.utoronto.ca](https://ciso.utoronto.ca)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Home - Archives & Special Collections
- - [https://collections.utm.utoronto.ca](https://collections.utm.utoronto.ca)
- - date_published: 2024-07-21T08:23:45.528497+00:00
-
- ## Home | University of Toronto Libraries
- - [https://content.library.utoronto.ca](https://content.library.utoronto.ca)
- - date_published: 2024-07-20T07:03:17+00:00
-
- ## Corpora in the Classroom
- - [https://corpora.chass.utoronto.ca](https://corpora.chass.utoronto.ca)
- - date_published: 2024-07-19T15:20:05.303295+00:00
-
- ## Centre for Quantum Information and Quantum Control
- - [http://cqiqc.physics.utoronto.ca](http://cqiqc.physics.utoronto.ca)
- - date_published: 2024-07-16T17:26:03.874284+00:00
-
- ## Department of Computer Science, University of Toronto
- - [https://cs.utoronto.ca](https://cs.utoronto.ca)
- - date_published: 2024-06-13T18:04:54.685024+00:00
-
- ## Home | Daniels
- - [https://daniels.utoronto.ca](https://daniels.utoronto.ca)
- - date_published: 2024-05-08T11:44:38.391545+00:00
-
- ## Data Sciences Institute (DSI) Home - DSI
- - [https://datasciences.utoronto.ca](https://datasciences.utoronto.ca)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Your Data – IRDG Office – University of Toronto
- - [https://data.viceprovoststudents.utoronto.ca](https://data.viceprovoststudents.utoronto.ca)
- - date_published: 2024-06-22T11:41:31.955044+00:00
-
- ## Providing IT support for Temerty Medicine
- - [http://dc.med.utoronto.ca](http://dc.med.utoronto.ca)
- - date_published: 2024-07-25T17:42:17+00:00
-
- ## Defy Gravity Campaign
- - [https://defygravitycampaign.utoronto.ca](https://defygravitycampaign.utoronto.ca)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Dialect Topography
- - [https://dialect.topography.artsci.utoronto.ca](https://dialect.topography.artsci.utoronto.ca)
- - date_published: 2006-01-05T17:02:15+00:00
-
- ## Homepage | Digital Scholarship Unit
- - [https://digital.utsc.utoronto.ca](https://digital.utsc.utoronto.ca)
- - date_published: 2024-07-20T05:40:25+00:00
-
- ## U of T Directory
- - [http://directory.utoronto.ca](http://directory.utoronto.ca)
- - date_published: 2023-07-04T19:39:23+00:00
-
- ## University of Toronto
- - [https://discover.research.utoronto.ca](https://discover.research.utoronto.ca)
- - date_published: 2024-07-12T21:41:38.719485+00:00
-
- ## Dalla Lana School of Public Health
- - [https://dlsph.utoronto.ca](https://dlsph.utoronto.ca)
- - date_published: 2024-06-09T00:56:10.915327+00:00
-
- ## University of Toronto
- - [https://donate.utoronto.ca](https://donate.utoronto.ca)
- - date_published: 2024-04-30T05:28:29.464641+00:00
-
- ## Home - Dunlap Institute
- - [https://dunlap.utoronto.ca](https://dunlap.utoronto.ca)
- - date_published: 2015-04-22T19:42:29+00:00
-
- ## EASI | Enterprise Applications and Solutions Integration
- - [https://easi.its.utoronto.ca](https://easi.its.utoronto.ca)
- - date_published: 2024-08-11T10:25:40.411085+00:00
-
- ## University of Toronto
- - [https://engage.utoronto.ca](https://engage.utoronto.ca)
- - date_published: 2024-04-30T05:29:16.716810+00:00
-
- ## Home | Engineering & Computer Science Library
- - [https://engineering.library.utoronto.ca](https://engineering.library.utoronto.ca)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## HR Service Centre – The Division of People Strategy, Equity & Culture
- - [https://ess.hrandequity.utoronto.ca](https://ess.hrandequity.utoronto.ca)
- - date_published: 2024-04-30T05:29:10.527570+00:00
-
- ## University of Toronto Libraries
- - [https://exams-library-utoronto-ca.myaccess.library.utoronto.ca](https://exams-library-utoronto-ca.myaccess.library.utoronto.ca)
- - date_published: 2024-07-20T22:23:55.525437+00:00
-
- ## University of Toronto Libraries
- - [http://exams.library.utoronto.ca.myaccess.library.utoronto.ca](http://exams.library.utoronto.ca.myaccess.library.utoronto.ca)
- - date_published: 2024-07-21T08:23:37.199052+00:00
-
- ## Exhibits
- - [https://exhibits.library.utoronto.ca](https://exhibits.library.utoronto.ca)
- - date_published: 2024-04-30T05:28:39.291395+00:00
-
- ## Home - Family Care Office
- - [https://familycare.utoronto.ca](https://familycare.utoronto.ca)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home - Parents & Supporters
- - [https://family.utoronto.ca](https://family.utoronto.ca)
- - date_published: 2022-01-14T00:00:00+00:00
-
- ## BMO Financial Group Finance Research and Trading Lab
- - [http://financelab.rotman.utoronto.ca](http://financelab.rotman.utoronto.ca)
- - date_published: 2024-04-30T05:30:07.926058+00:00
-
- ## Home - Financial Services
- - [https://finance.utoronto.ca](https://finance.utoronto.ca)
- - date_published: 2024-07-01T21:35:57.357791+00:00
-
- ## Collections U of T
- - [https://fishercollections.library.utoronto.ca](https://fishercollections.library.utoronto.ca)
- - date_published: 2024-07-21T08:23:55.311399+00:00
-
- ## Browse Exhibits · Digitus - Online Exhibitions from the Thomas Fisher Rare Book Library
- - [https://fisherdigitus.library.utoronto.ca](https://fisherdigitus.library.utoronto.ca)
- - date_published: 2024-07-21T08:23:59.192274+00:00
-
- ## Thomas Fisher Rare Book Library
- - [https://fisher.library.utoronto.ca](https://fisher.library.utoronto.ca)
- - date_published: 2024-04-30T05:28:46.773041+00:00
-
- ## Home - Future Students. University of Toronto
- - [https://future.utoronto.ca](https://future.utoronto.ca)
- - date_published: 2024-07-01T21:36:15.652102+00:00
-
- ## Home | University of Toronto Libraries
- - [https://gerstein-edit-library-utoronto-ca.myaccess.library.utoronto.ca](https://gerstein-edit-library-utoronto-ca.myaccess.library.utoronto.ca)
- - date_published: 2024-07-20T07:03:17+00:00
-
- ## Gerstein Science Information Centre
- - [https://gerstein.library.utoronto.ca](https://gerstein.library.utoronto.ca)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home
- - [https://governingcouncil.utoronto.ca](https://governingcouncil.utoronto.ca)
- - date_published: 2019-06-27T00:11:02+00:00
-
- ## Home | Global Professional LLM (GPLLM)
- - [https://gpllm.law.utoronto.ca](https://gpllm.law.utoronto.ca)
- - date_published: 2024-07-20T10:24:00+00:00
-
- ## Research guides | University of Toronto Libraries
- - [https://guides.library.utoronto.ca](https://guides.library.utoronto.ca)
- - date_published: 2024-04-30T05:29:03.420725+00:00
-
- ## Home | Academic Handbook
- - [https://handbook.law.utoronto.ca](https://handbook.law.utoronto.ca)
- - date_published: 2024-07-20T17:35:01+00:00
-
- ## Your Path to a Career In Health Care - University of Toronto Scarborough Health Sciences
- - [https://healthsciences.utsc.utoronto.ca](https://healthsciences.utsc.utoronto.ca)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## ACORN Help
- - [https://help.acorn.utoronto.ca](https://help.acorn.utoronto.ca)
- - date_published: 2024-09-18T06:19:11.466982+00:00
 

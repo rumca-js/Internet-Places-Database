@@ -1,3 +1,135 @@
+ ## Banque du Canada
+ - [https://www.banqueducanada.ca](https://www.banqueducanada.ca)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Services bancaires en ligne aux particuliers | Banque Manuvie
+ - [https://www.banquemanuvie.ca](https://www.banquemanuvie.ca)
+ - date_published: 2024-06-16T11:00:34+00:00
+
+ ## Top 5 Top 5 Toronto Event Venues for 2020 | EventVenues.ca Plumbers and Plumbing Contractors for 2020 | EventVenues.ca
+ - [http://www.banquethalls.ca](http://www.banquethalls.ca)
+ - date_published: 2024-06-29T17:35:20.701075+00:00
+
+ ## Bare Advertising & Communications
+ - [https://bare.ca](https://bare.ca)
+ - date_published: 2024-10-14T19:04:01.563928+00:00
+
+ ## Barrett Lab
+ - [https://www.barrettlab.ca](https://www.barrettlab.ca)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Baskets in Canada, Canada
+ - [http://www.baskets.ca](http://www.baskets.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Cabela's Canada
+ - [https://www.basspro.ca](https://www.basspro.ca)
+ - date_published: 2024-12-19T18:49:03.218487+00:00
+
+ ## Top 5 Top 5 Toronto Bathrooms for 2020 | Bathrooms.ca Plumbers and Plumbing Contractors for 2020 | Bathrooms.ca
+ - [http://www.bathrooms.ca](http://www.bathrooms.ca)
+ - date_published: 2024-06-29T17:36:05.545202+00:00
+
+ ## North Bay News
+ - [https://www.baytoday.ca](https://www.baytoday.ca)
+ - date_published: 2024-12-26T13:51:23+00:00
+
+ ## Home - Black Business & Professional Network New Brunswick
+ - [https://www.bbpn.ca](https://www.bbpn.ca)
+ - date_published: 2021-12-04T01:41:13+00:00
+
+ ## BCcampus
+ - [https://bccampus.ca](https://bccampus.ca)
+ - date_published: 2013-09-11T11:26:11+00:00
+
+ ## BCCRC
+ - [https://www.bccrc.ca](https://www.bccrc.ca)
+ - date_published: 2024-08-16T21:04:00+00:00
+
+ ## Bell Canada Enterprises | Corporate website | BCE Inc.
+ - [https://bce.ca](https://bce.ca)
+ - date_published: 2024-05-09T09:25:07.356517+00:00
+
+ ## Careers at Bell
+ - [https://jobs.bce.ca](https://jobs.bce.ca)
+ - date_published: 2024-05-08T06:46:55.201672+00:00
+
+ ## Emergency Care BC
+ - [https://www.bcemergencynetwork.ca](https://www.bcemergencynetwork.ca)
+ - date_published: 2024-07-06T23:48:56.857361+00:00
+
+ ## Genome Sciences Centre
+ - [https://bcgsc.ca](https://bcgsc.ca)
+ - date_published: 2024-08-18T05:25:25+00:00
+
+ ## Martin Krzywinski - Data Visualization, Design, Science and Art - Canada's Michael Smith Genome Sciences Centre
+ - [https://mk.bcgsc.ca](https://mk.bcgsc.ca)
+ - date_published: 2024-08-18T05:25:21.955799+00:00
+
+ ## ERROR: The requested URL could not be retrieved
+ - [https://mkweb.bcgsc.ca](https://mkweb.bcgsc.ca)
+ - date_published: 2024-01-09T02:27:13.939554+00:00
+
+ ## British Columbia Library Association | BCLA Connect
+ - [https://bclaconnect.ca](https://bclaconnect.ca)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## BCSCC.ca
+ - [http://bcscc.ca](http://bcscc.ca)
+ - date_published: 2024-08-06T15:28:02.266288+00:00
+
+ ## British Columbia Youth Developer Collective
+ - [https://bcydc.ca](https://bcydc.ca)
+ - date_published: 2024-12-15T03:55:08.816434+00:00
+
+ ## BDC - The Bank for Canadian Entrepreneurs
+ - [https://www.bdc.ca](https://www.bdc.ca)
+ - date_published: 2024-09-05T21:53:15.850330+00:00
+
+ ## Shop BedBathandBeyond.ca for Quality Furniture, Rugs, Decor, and More + Free Shipping Over $60*!
+ - [https://www.bedbathandbeyond.ca](https://www.bedbathandbeyond.ca)
+ - date_published: 2024-09-30T15:40:32.707527+00:00
+
+ ## Beds in Canada, Canada
+ - [http://www.beds.ca](http://www.beds.ca)
+ - date_published: 2024-06-29T17:35:09.266197+00:00
+
+ ## Beggars Group Canada
+ - [https://beggarsgroup.ca](https://beggarsgroup.ca)
+ - date_published: 2024-06-15T09:59:25.325450+00:00
+
+ ## Home - Building Energy Innovators Council
+ - [https://beic.ca](https://beic.ca)
+ - date_published: 2022-06-28T00:00:00+00:00
+
+ ## Book an appointment | Bell Canada
+ - [https://appointments.bell.ca](https://appointments.bell.ca)
+ - date_published: 2024-05-10T02:42:25.226284+00:00
+
+ ## Bell | Wireless, Internet and TV Service Provider in Canada
+ - [https://bell.ca](https://bell.ca)
+ - date_published: 2024-05-08T06:46:58.341678+00:00
+
+ ## Bell Business | Small, medium and large businesses | Bell Canada
+ - [https://business.bell.ca](https://business.bell.ca)
+ - date_published: 2024-05-10T02:42:40.721821+00:00
+
+ ## Découvrez comment Bell Cause pour la cause change les choses au pays
+ - [https://cause.bell.ca](https://cause.bell.ca)
+ - date_published: 2024-06-20T20:58:43+00:00
+
+ ## Bell Affaires | Petites, moyennes et grandes entreprises | Bell Canada
+ - [https://entreprise.bell.ca](https://entreprise.bell.ca)
+ - date_published: 2024-07-11T17:24:02.877453+00:00
+
+ ## Submit Form
+ - [https://forum.bell.ca](https://forum.bell.ca)
+ - date_published: 2024-05-10T02:42:27.665768+00:00
+
+ ## Careers at Bell Canada | Bell Canada jobs
+ - [https://jobs.bell.ca](https://jobs.bell.ca)
+ - date_published: 2024-05-09T09:25:12.027936+00:00
+
  ## Learn how Bell Let’s Talk is creating positive change in Canada
  - [https://letstalk.bell.ca](https://letstalk.bell.ca)
  - date_published: 2024-05-09T09:25:13.430154+00:00
@@ -251,6 +383,10 @@
  - [http://civilian-reader.blogspot.ca](http://civilian-reader.blogspot.ca)
  - date_published: 2024-10-25T12:20:19+00:00
 
+ ## Cold North Wind
+ - [http://cnorthwind.blogspot.ca](http://cnorthwind.blogspot.ca)
+ - date_published: 2024-11-01T10:36:16+00:00
+
  ## Commonsense & Wonder
  - [http://commonsensewonder.blogspot.ca](http://commonsensewonder.blogspot.ca)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -270,6 +406,10 @@
  ## Eco-Evo Evo-Eco
  - [http://ecoevoevoeco.blogspot.ca](http://ecoevoevoeco.blogspot.ca)
  - date_published: 2024-10-19T10:22:07.868220+00:00
+
+ ## Ethnos_Boriquen
+ - [http://ethnosboriquen.blogspot.ca](http://ethnosboriquen.blogspot.ca)
+ - date_published: 2024-11-01T11:05:24+00:00
 
  ## Etymolist
  - [http://etymolist.blogspot.ca](http://etymolist.blogspot.ca)
@@ -2952,6 +3092,10 @@
  - [https://fondationdefrance.evision.ca](https://fondationdefrance.evision.ca)
  - date_published: 2018-09-10T14:20:27+00:00
 
+ ## Excited Delirium: Stories About the Shock Economy
+ - [http://www.exciteddelirium.ca](http://www.exciteddelirium.ca)
+ - date_published: 2024-12-27T13:24:57.541764+00:00
+
  ## Exclaim! | Canada's Authority on Music, Film and Entertainment
  - [http://exclaim.ca](http://exclaim.ca)
  - date_published: 2024-12-22T18:05:42.302330+00:00
@@ -3883,151 +4027,4 @@
  ## Healthing - Advertise with Us
  - [http://business.healthing.ca](http://business.healthing.ca)
  - date_published: 2024-06-14T19:09:39+00:00
-
- ## Healthing.ca
- - [https://www.healthing.ca](https://www.healthing.ca)
- - date_published: 2024-05-06T21:31:11.747212+00:00
-
- ## HealthLink BC - 24/7 Health Advice You Can Trust
- - [https://www.healthlinkbc.ca](https://www.healthlinkbc.ca)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Thunder Bay Regional Health Sciences Foundation - Thunder Bay Regional Health Sciences Foundation
- - [https://www.healthsciencesfoundation.ca](https://www.healthsciencesfoundation.ca)
- - date_published: 2024-08-18T14:37:05.265893+00:00
-
- ## Home Page - Healthy Debate
- - [https://healthydebate.ca](https://healthydebate.ca)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Healthy Generations
- - [https://healthygenerations.ca](https://healthygenerations.ca)
- - date_published: 2024-08-17T23:02:28+00:00
-
- ## index
- - [http://hearsum.ca](http://hearsum.ca)
- - date_published: 2015-01-26T16:07:05+00:00
-
- ## Chaire de commerce Omer DeSerres – Un site utilisant WordPress
- - [https://chaireomerdesserres.hec.ca](https://chaireomerdesserres.hec.ca)
- - date_published: 2024-04-30T05:55:32.432328+00:00
-
- ## HEC Montréal. Là où les possibilités se créent
- - [https://hec.ca](https://hec.ca)
- - date_published: 2024-07-20T04:53:17+00:00
-
- ## Heige S. Boehm
- - [https://www.heigeboehm.ca](https://www.heigeboehm.ca)
- - date_published: 2024-08-18T09:51:11.829665+00:00
-
- ## Home | Heiltsuknation
- - [https://www.heiltsuknation.ca](https://www.heiltsuknation.ca)
- - date_published: 2024-07-09T12:57:28.496727+00:00
-
- ## %%sitename%%
- - [https://blog.hellofresh.ca](https://blog.hellofresh.ca)
- - date_published: 2024-06-18T17:36:24.821246+00:00
-
- ## Partner with HelloFresh Group Canada | Sales & Corporate Partnerships
- - [https://partner.hellofresh.ca](https://partner.hellofresh.ca)
- - date_published: 2024-10-23T05:56:14.624914+00:00
-
- ## HelloFresh®: Free Breakfast Item For Life + $140 Off
- - [https://www.hellofresh.ca](https://www.hellofresh.ca)
- - date_published: 2024-05-02T13:59:58.514477+00:00
-
- ## Paul Henman
- - [https://henman.ca](https://henman.ca)
- - date_published: 2023-12-12T04:55:06.206081+00:00
- - tags: ['personal']
-
- ## Network visualization of 50k blogs and links
- - [https://graph.henryn.ca](https://graph.henryn.ca)
- - date_published: 2024-04-23T19:33:21+00:00
-
- ## Henry Nguyen's Website
- - [https://henryn.ca](https://henryn.ca)
- - date_published: 2024-04-24T08:33:58+00:00
- - tags: ['personal']
-
- ## time2reach
- - [https://map.henryn.ca](https://map.henryn.ca)
- - date_published: 2024-05-02T13:45:47.956333+00:00
-
- ## Simple Analytics
- - [https://sa.henryn.ca](https://sa.henryn.ca)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## Herbaland Naturals | Canada's Largest Nutritional Gummy Producer
- - [https://www.herbaland.ca](https://www.herbaland.ca)
- - date_published: 2024-06-27T13:06:40.193523+00:00
-
- ## Hair Care and Styling Products | Herbal Essences
- - [https://herbalessences.ca](https://herbalessences.ca)
- - date_published: 2024-09-03T11:01:22+00:00
-
- ## Heritage Park Homepage | Heritage Park
- - [http://heritagepark.ca](http://heritagepark.ca)
- - date_published: 2024-10-17T18:24:30.459603+00:00
-
- ## Technoculture, Art and Games | TAG
- - [https://tag.hexagram.ca](https://tag.hexagram.ca)
- - date_published: 2024-05-09T05:25:21.302814+00:00
-
- ## Home | Renée dot ca
- - [https://heyrenee.ca](https://heyrenee.ca)
- - date_published: 2024-08-16T05:12:41+00:00
-
- ## Home - Highgo Software Inc.
- - [https://highgo.ca](https://highgo.ca)
- - date_published: 2023-12-18T21:53:17.162282+00:00
-
- ## Highgo Yum Repository
- - [https://yum.highgo.ca](https://yum.highgo.ca)
- - date_published: 2021-12-29T08:01:19+00:00
-
- ## Advancing Connected Care
- - [https://www.hillrom.ca](https://www.hillrom.ca)
- - date_published: 2024-10-17T21:27:03.138154+00:00
-
- ## Power Tools, Fasteners and Software for Construction - Hilti Canada
- - [https://www.hilti.ca](https://www.hilti.ca)
- - date_published: 2024-06-20T07:26:45.516667+00:00
-
- ## Hirad Notes | Substack
- - [http://hirad.ca](http://hirad.ca)
- - date_published: 2023-12-27T18:12:30.676212+00:00
- - tags: ['personal']
-
- ## Hired - Job Search Marketplace. Tech Job Hunting Simplified!
- - [https://hired.ca](https://hired.ca)
- - date_published: 2024-05-07T22:57:35.742248+00:00
-
- ## Over 300 Learning Tools for Educators | Historica Canada Education Portal
- - [http://education.historicacanada.ca](http://education.historicacanada.ca)
- - date_published: 2024-06-21T02:37:17.234947+00:00
-
- ## Hollyhock | Cortes Island Retreat Centre | Cortes Island Learning & Retreat Centre
- - [https://hollyhock.ca](https://hollyhock.ca)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Holodomor Research and Education Consortium - HREC
- - [https://holodomor.ca](https://holodomor.ca)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Under Construction
- - [http://www.hologic.ca](http://www.hologic.ca)
- - date_published: 2024-06-06T14:48:41+00:00
-
- ## Homecare in Canada, Canada
- - [http://www.homecare.ca](http://www.homecare.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home Hardware | Free Shipping to Store on Eligible Orders
- - [https://www.homehardware.ca](https://www.homehardware.ca)
- - date_published: 2024-08-18T14:37:12.717245+00:00
-
- ## Top 5 Top 5 Toronto Home Inspection Contractors for 2020 | HomeInspection.ca Plumbers and Plumbing Contractors for 2020 | HomeInspection.ca
- - [http://www.homeinspection.ca](http://www.homeinspection.ca)
- - date_published: 2024-06-29T17:34:34.127992+00:00
 

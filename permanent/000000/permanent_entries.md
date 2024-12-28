@@ -1548,6 +1548,10 @@
  - date_published: 2024-12-14T00:50:03+00:00
 
  ## Sacramento County Department of Airports
+ - [https://sacramento.aero](https://sacramento.aero)
+ - date_published: 2024-12-27T14:09:00+00:00
+
+ ## Sacramento County Department of Airports
  - [http://www.sacramento.aero](http://www.sacramento.aero)
  - date_published: 2024-09-16T04:03:32+00:00
 
@@ -3029,6 +3033,10 @@
  - [https://media.appmonsta.ai](https://media.appmonsta.ai)
  - date_published: 2024-06-25T22:50:58.340845+00:00
 
+ ## App Science®: Advanced measurement for media planning
+ - [https://www.appscience.ai](https://www.appscience.ai)
+ - date_published: 2024-11-11T15:32:38+00:00
+
  ## AppSentinels - API Security Platform
  - [https://appsentinels.ai](https://appsentinels.ai)
  - date_published: 2024-07-02T00:00:00+00:00
@@ -4010,12 +4018,4 @@
  ## Buildel
  - [https://buildel.ai](https://buildel.ai)
  - date_published: 2024-04-29T07:45:48.255534+00:00
-
- ## Buildel Docs
- - [https://docs.buildel.ai](https://docs.buildel.ai)
- - date_published: 2024-07-23T21:54:01.224086+00:00
-
- ## Cosine
- - [https://buildt.ai](https://buildt.ai)
- - date_published: 2023-10-25T08:40:48.808759+00:00
 

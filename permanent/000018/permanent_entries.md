@@ -1,3 +1,135 @@
+ ## Home Page - StandFor
+ - [https://standfor.com.br](https://standfor.com.br)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Startupi | Inovação, Investimentos e Empreendedorismo
+ - [https://startupi.com.br](https://startupi.com.br)
+ - date_published: 2024-10-28T12:12:16.868334+00:00
+
+ ## Startups - O epicentro da tecnologia e da inovação
+ - [https://startups.com.br](https://startups.com.br)
+ - date_published: 2024-10-28T11:31:37+00:00
+
+ ## Statkraft
+ - [https://www.statkraft.com.br](https://www.statkraft.com.br)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Official Global Website
+ - [http://www.stellantis.com.br](http://www.stellantis.com.br)
+ - date_published: 2024-10-28T12:01:08+00:00
+
+ ## Stellantis Financiamentos
+ - [https://stellantisfinanciamentos.com.br](https://stellantisfinanciamentos.com.br)
+ - date_published: 2024-10-28T15:35:45.024169+00:00
+
+ ## Home - Stilingue Inteligência Artificial
+ - [https://stilingue.com.br](https://stilingue.com.br)
+ - date_published: 2020-09-24T20:47:41+00:00
+
+ ## Central de Ajuda Stone – Todas as Sua Dúvidas em um só Lugar
+ - [https://ajuda.stone.com.br](https://ajuda.stone.com.br)
+ - date_published: 2024-10-28T13:55:46.860978+00:00
+
+ ## Blog Stone - Menos banco, mais negócio e muito conteúdo
+ - [https://blog.stone.com.br](https://blog.stone.com.br)
+ - date_published: 2024-10-28T13:55:30.502967+00:00
+
+ ## Stone
+ - [https://conta.stone.com.br](https://conta.stone.com.br)
+ - date_published: 2024-10-28T13:55:48.052800+00:00
+
+ ## DevCenter | Stone
+ - [https://devcenter.stone.com.br](https://devcenter.stone.com.br)
+ - date_published: 2024-10-22T17:02:03+00:00
+
+ ## Stone - Documentos
+ - [https://docs.stone.com.br](https://docs.stone.com.br)
+ - date_published: 2024-10-28T13:55:11.759947+00:00
+
+ ## Jornada | O portal de carreiras da Stone
+ - [https://jornada.stone.com.br](https://jornada.stone.com.br)
+ - date_published: 2024-10-28T13:55:24.733289+00:00
+
+ ## Seja um parceiro Stone
+ - [https://partner.stone.com.br](https://partner.stone.com.br)
+ - date_published: 2024-10-15T23:21:07+00:00
+
+ ## Stone: solução completa de vendas feita para o seu negócio
+ - [https://www.stone.com.br](https://www.stone.com.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo | XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo
+ - [https://storexppen.com.br](https://storexppen.com.br)
+ - date_published: 2024-05-30T18:41:51.126045+00:00
+
+ ## StreetFighter.com.br - Site brasileiro de fãs da franquia de luta da Capcom
+ - [http://www.streetfighter.com.br](http://www.streetfighter.com.br)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## StudHistória
+ - [https://studhistoria.com.br](https://studhistoria.com.br)
+ - date_published: 2024-12-23T21:33:48.336597+00:00
+
+ ## Studio Cubo Web - Desenvolvemos sites e sistemas
+ - [https://studiocuboweb.com.br](https://studiocuboweb.com.br)
+ - date_published: 2023-02-14T14:43:31+00:00
+
+ ## Submarino - Sua história começa aqui
+ - [http://www.submarino.com.br](http://www.submarino.com.br)
+ - date_published: 2024-07-10T09:23:04.769212+00:00
+
+ ## Parents Home - Substantivo Plural
+ - [http://www.substantivoplural.com.br](http://www.substantivoplural.com.br)
+ - date_published: 2024-12-20T07:27:16.707945+00:00
+
+ ## Paradiso Rio | Paradiso Rio FM
+ - [https://sulamericaparadiso.com.br](https://sulamericaparadiso.com.br)
+ - date_published: 2024-07-13T02:17:25.040098+00:00
+
+ ## Superprof - A comunidade dos professores particulares
+ - [https://superprof.com.br](https://superprof.com.br)
+ - date_published: 2024-06-15T01:28:14.389864+00:00
+
+ ## Survival Horror Com Br
+ - [https://survivalhorror.com.br](https://survivalhorror.com.br)
+ - date_published: 2024-05-14T02:52:31.660891+00:00
+
+ ## SX Integra
+ - [https://www.sxintegra.com.br](https://www.sxintegra.com.br)
+ - date_published: 2024-04-10T20:39:04+00:00
+
+ ## Central de Ajuda - Compradores | Sympla
+ - [https://ajuda.sympla.com.br](https://ajuda.sympla.com.br)
+ - date_published: 2021-04-16T00:00:00+00:00
+
+ ## Conteúdo restrito - Sympla
+ - [https://assets-event-page.svc.sympla.com.br](https://assets-event-page.svc.sympla.com.br)
+ - date_published: 2023-05-18T17:52:26+00:00
+
+ ## Sympla Bileto
+ - [https://bileto.sympla.com.br](https://bileto.sympla.com.br)
+ - date_published: 2024-05-29T00:27:51.796959+00:00
+
+ ## Blog da Sympla | Tudo para criar ou viver experiências
+ - [https://blog.sympla.com.br](https://blog.sympla.com.br)
+ - date_published: 2024-09-18T18:34:48.460886+00:00
+
+ ## API Sympla - Documentação API da Sympla
+ - [https://developers.sympla.com.br](https://developers.sympla.com.br)
+ - date_published: 2024-09-05T19:25:43+00:00
+
+ ## Conteúdo restrito - Sympla
+ - [https://images.sympla.com.br](https://images.sympla.com.br)
+ - date_published: 2023-05-11T18:31:40+00:00
+
+ ## Conteúdo restrito - Sympla
+ - [https://na-bundle.sympla.com.br](https://na-bundle.sympla.com.br)
+ - date_published: 2023-04-26T14:17:16+00:00
+
+ ## Sympla - Encontre os melhores eventos
+ - [https://site.bileto.sympla.com.br](https://site.bileto.sympla.com.br)
+ - date_published: 2024-07-13T02:17:05.417612+00:00
+
  ## Sympla - Encontre os melhores eventos
  - [https://sympla.com.br](https://sympla.com.br)
  - date_published: 2024-06-15T17:20:53.659097+00:00
@@ -3878,136 +4010,4 @@
  ## Bank of Canada Museum
  - [https://www.bankofcanadamuseum.ca](https://www.bankofcanadamuseum.ca)
  - date_published: 2024-08-06T00:00:00+00:00
-
- ## Banque du Canada
- - [https://www.banqueducanada.ca](https://www.banqueducanada.ca)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Services bancaires en ligne aux particuliers | Banque Manuvie
- - [https://www.banquemanuvie.ca](https://www.banquemanuvie.ca)
- - date_published: 2024-06-16T11:00:34+00:00
-
- ## Top 5 Top 5 Toronto Event Venues for 2020 | EventVenues.ca Plumbers and Plumbing Contractors for 2020 | EventVenues.ca
- - [http://www.banquethalls.ca](http://www.banquethalls.ca)
- - date_published: 2024-06-29T17:35:20.701075+00:00
-
- ## Bare Advertising & Communications
- - [https://bare.ca](https://bare.ca)
- - date_published: 2024-10-14T19:04:01.563928+00:00
-
- ## Barrett Lab
- - [https://www.barrettlab.ca](https://www.barrettlab.ca)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Baskets in Canada, Canada
- - [http://www.baskets.ca](http://www.baskets.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Cabela's Canada
- - [https://www.basspro.ca](https://www.basspro.ca)
- - date_published: 2024-12-19T18:49:03.218487+00:00
-
- ## Top 5 Top 5 Toronto Bathrooms for 2020 | Bathrooms.ca Plumbers and Plumbing Contractors for 2020 | Bathrooms.ca
- - [http://www.bathrooms.ca](http://www.bathrooms.ca)
- - date_published: 2024-06-29T17:36:05.545202+00:00
-
- ## North Bay News
- - [https://www.baytoday.ca](https://www.baytoday.ca)
- - date_published: 2024-12-26T13:51:23+00:00
-
- ## Home - Black Business & Professional Network New Brunswick
- - [https://www.bbpn.ca](https://www.bbpn.ca)
- - date_published: 2021-12-04T01:41:13+00:00
-
- ## BCcampus
- - [https://bccampus.ca](https://bccampus.ca)
- - date_published: 2013-09-11T11:26:11+00:00
-
- ## BCCRC
- - [https://www.bccrc.ca](https://www.bccrc.ca)
- - date_published: 2024-08-16T21:04:00+00:00
-
- ## Bell Canada Enterprises | Corporate website | BCE Inc.
- - [https://bce.ca](https://bce.ca)
- - date_published: 2024-05-09T09:25:07.356517+00:00
-
- ## Careers at Bell
- - [https://jobs.bce.ca](https://jobs.bce.ca)
- - date_published: 2024-05-08T06:46:55.201672+00:00
-
- ## Emergency Care BC
- - [https://www.bcemergencynetwork.ca](https://www.bcemergencynetwork.ca)
- - date_published: 2024-07-06T23:48:56.857361+00:00
-
- ## Genome Sciences Centre
- - [https://bcgsc.ca](https://bcgsc.ca)
- - date_published: 2024-08-18T05:25:25+00:00
-
- ## Martin Krzywinski - Data Visualization, Design, Science and Art - Canada's Michael Smith Genome Sciences Centre
- - [https://mk.bcgsc.ca](https://mk.bcgsc.ca)
- - date_published: 2024-08-18T05:25:21.955799+00:00
-
- ## ERROR: The requested URL could not be retrieved
- - [https://mkweb.bcgsc.ca](https://mkweb.bcgsc.ca)
- - date_published: 2024-01-09T02:27:13.939554+00:00
-
- ## British Columbia Library Association | BCLA Connect
- - [https://bclaconnect.ca](https://bclaconnect.ca)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## BCSCC.ca
- - [http://bcscc.ca](http://bcscc.ca)
- - date_published: 2024-08-06T15:28:02.266288+00:00
-
- ## British Columbia Youth Developer Collective
- - [https://bcydc.ca](https://bcydc.ca)
- - date_published: 2024-12-15T03:55:08.816434+00:00
-
- ## BDC - The Bank for Canadian Entrepreneurs
- - [https://www.bdc.ca](https://www.bdc.ca)
- - date_published: 2024-09-05T21:53:15.850330+00:00
-
- ## Shop BedBathandBeyond.ca for Quality Furniture, Rugs, Decor, and More + Free Shipping Over $60*!
- - [https://www.bedbathandbeyond.ca](https://www.bedbathandbeyond.ca)
- - date_published: 2024-09-30T15:40:32.707527+00:00
-
- ## Beds in Canada, Canada
- - [http://www.beds.ca](http://www.beds.ca)
- - date_published: 2024-06-29T17:35:09.266197+00:00
-
- ## Beggars Group Canada
- - [https://beggarsgroup.ca](https://beggarsgroup.ca)
- - date_published: 2024-06-15T09:59:25.325450+00:00
-
- ## Home - Building Energy Innovators Council
- - [https://beic.ca](https://beic.ca)
- - date_published: 2022-06-28T00:00:00+00:00
-
- ## Book an appointment | Bell Canada
- - [https://appointments.bell.ca](https://appointments.bell.ca)
- - date_published: 2024-05-10T02:42:25.226284+00:00
-
- ## Bell | Wireless, Internet and TV Service Provider in Canada
- - [https://bell.ca](https://bell.ca)
- - date_published: 2024-05-08T06:46:58.341678+00:00
-
- ## Bell Business | Small, medium and large businesses | Bell Canada
- - [https://business.bell.ca](https://business.bell.ca)
- - date_published: 2024-05-10T02:42:40.721821+00:00
-
- ## Découvrez comment Bell Cause pour la cause change les choses au pays
- - [https://cause.bell.ca](https://cause.bell.ca)
- - date_published: 2024-06-20T20:58:43+00:00
-
- ## Bell Affaires | Petites, moyennes et grandes entreprises | Bell Canada
- - [https://entreprise.bell.ca](https://entreprise.bell.ca)
- - date_published: 2024-07-11T17:24:02.877453+00:00
-
- ## Submit Form
- - [https://forum.bell.ca](https://forum.bell.ca)
- - date_published: 2024-05-10T02:42:27.665768+00:00
-
- ## Careers at Bell Canada | Bell Canada jobs
- - [https://jobs.bell.ca](https://jobs.bell.ca)
- - date_published: 2024-05-09T09:25:12.027936+00:00
 

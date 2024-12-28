@@ -1,3 +1,55 @@
+ ## Docstr
+ - [https://docstr.app](https://docstr.app)
+ - date_published: 2024-08-18T22:04:05.747224+00:00
+
+ ## Dolores - Best AI Girlfriend & Virtual Companion App for iOS
+ - [https://dolores.app](https://dolores.app)
+ - date_published: 2024-07-16T14:14:39+00:00
+
+ ## Login
+ - [https://donate2.app](https://donate2.app)
+ - date_published: 2024-07-09T16:50:07.318706+00:00
+
+ ## DoubleLoop
+ - [https://app.doubleloop.app](https://app.doubleloop.app)
+ - date_published: 2024-07-04T02:41:16.522866+00:00
+
+ ## DoubleLoop Blog
+ - [https://blog.doubleloop.app](https://blog.doubleloop.app)
+ - date_published: 2024-07-04T02:41:13.856305+00:00
+
+ ## Quickstart to Impact-Oriented Strategy | DoubleLoop
+ - [https://docs.doubleloop.app](https://docs.doubleloop.app)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## DoubleLoop – Develop an impact-oriented strategy
+ - [https://doubleloop.app](https://doubleloop.app)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Drakula.app: earn using social media.
+ - [https://drakula.app](https://drakula.app)
+ - date_published: 2024-07-18T01:18:28+00:00
+
+ ## Draw Anything - Stable Diffusion Playground
+ - [https://drawanything.app](https://drawanything.app)
+ - date_published: 2023-10-25T11:46:04.375493+00:00
+
+ ## Dream Voyage - Unlock the Mysteries of Your Dreams
+ - [https://dreamore.app](https://dreamore.app)
+ - date_published: 2024-06-19T19:55:29.506273+00:00
+
+ ## DropScout | Save Money on Amazon with Price Alerts!
+ - [https://www.dropscout.app](https://www.dropscout.app)
+ - date_published: 2024-08-05T20:58:40.227959+00:00
+
+ ## Dropshare Apps - upload anything anywhere on macOS and iOS
+ - [https://dropshare.app](https://dropshare.app)
+ - date_published: 2024-06-23T05:56:07.203872+00:00
+
+ ## Duck, a chat-based note app for your knowledge base
+ - [https://site.ducknote.app](https://site.ducknote.app)
+ - date_published: 2023-10-25T11:46:05.662968+00:00
+
  ## Duck — note-taking application via chat
  - [https://www.ducknote.app](https://www.ducknote.app)
  - date_published: 2024-08-19T11:50:30.643253+00:00
@@ -635,6 +687,10 @@
  ## Framework | Sustainability
  - [https://perfect-hiring-822947.framer.app](https://perfect-hiring-822947.framer.app)
  - date_published: 2023-10-25T11:46:34.235514+00:00
+
+ ## Rye: Millions of Products. One API.
+ - [https://reflect-invest-709546.framer.app](https://reflect-invest-709546.framer.app)
+ - date_published: 2024-12-18T00:56:39+00:00
 
  ## Wonderchat: Custom AI Chatbots for Websites - 1 Min Setup
  - [https://sharp-mind-075103.framer.app](https://sharp-mind-075103.framer.app)
@@ -2238,6 +2294,10 @@
  ## Modulz
  - [https://www.modulz.app](https://www.modulz.app)
  - date_published: 2024-06-23T06:10:40.621855+00:00
+
+ ## Build Web Apps with No-Code | Momen
+ - [https://momen.app](https://momen.app)
+ - date_published: 2024-12-27T12:13:05.145853+00:00
 
  ## Play your way to a new language with Mondly
  - [https://mondly.app](https://mondly.app)
@@ -3976,65 +4036,4 @@ The Album
  ## OMNI - Web3 For All
  - [https://omni.app](https://omni.app)
  - date_published: 2024-09-25T10:48:39.133997+00:00
-
- ## Shop for Digital Comics — Omnibus Digital Comic Store & Reader
- - [https://omnibus.app](https://omnibus.app)
- - date_published: 2024-07-17T10:46:47.428367+00:00
-
- ## omni-clip
- - [https://omniclip.app](https://omniclip.app)
- - date_published: 2024-05-12T06:23:23+00:00
-
- ## Main Page | Omnipedia
- - [https://omnipedia.app](https://omnipedia.app)
- - date_published: 2024-04-23T15:25:28+00:00
- - tags: ['fiction encyclopedia']
-
- ## Omnipedia Talk
- - [https://talk.omnipedia.app](https://talk.omnipedia.app)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Omnivore Blog | Substack
- - [https://blog.omnivore.app](https://blog.omnivore.app)
- - date_published: 2024-10-29T16:24:50.697673+00:00
-
- ## Welcome to Omnivore | Omnivore Docs
- - [https://docs.omnivore.app](https://docs.omnivore.app)
- - date_published: 2024-10-30T05:26:16+00:00
-
- ## Omnivore
- - [https://omnivore.app](https://omnivore.app)
- - date_published: 2023-10-25T11:48:07.019044+00:00
-
- ## Image captioning tool
- - [https://coral-app-qdy8z.ondigitalocean.app](https://coral-app-qdy8z.ondigitalocean.app)
- - date_published: 2024-07-19T23:35:22+00:00
-
- ## Weather App
- - [https://digitalweather-app-9eejw.ondigitalocean.app](https://digitalweather-app-9eejw.ondigitalocean.app)
- - date_published: 2024-05-10T16:54:46.255464+00:00
-
- ## Focused Breathing
- - [https://focused-breathing-ogh7t.ondigitalocean.app](https://focused-breathing-ogh7t.ondigitalocean.app)
- - date_published: 2021-01-11T02:42:54+00:00
-
- ## Employee Directory
- - [https://monkfish-app-bsnp4.ondigitalocean.app](https://monkfish-app-bsnp4.ondigitalocean.app)
- - date_published: 2024-05-10T16:54:44.922944+00:00
-
- ## Best Pizza Near Me | Best Pizza Restaurant | One Bite
- - [https://onebite.app](https://onebite.app)
- - date_published: 2024-06-23T02:19:37.541634+00:00
-
- ## One Panel
- - [https://onepanel.app](https://onepanel.app)
- - date_published: 2024-06-19T19:34:09.215822+00:00
-
- ## OneQuery.app - Never Write Another Scraper
- - [https://onequery.app](https://onequery.app)
- - date_published: 2024-12-18T23:54:58+00:00
-
- ## one sec | distracting apps made less appealing – scientifically
- - [https://one-sec.app](https://one-sec.app)
- - date_published: 2024-07-18T08:01:20+00:00
 

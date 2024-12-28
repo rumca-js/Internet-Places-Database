@@ -1,3 +1,28 @@
+ ## Work Smarter and Faster with Heynet Trainable AI
+ - [https://heynet.ai](https://heynet.ai)
+ - date_published: 2024-10-30T17:34:17.935453+00:00
+
+ ## Novo AI - Transforming Insurance with Generative AI
+ - [https://heynovo.ai](https://heynovo.ai)
+ - date_published: 2024-10-30T07:05:35.862834+00:00
+
+ ## Family AI » Ollie
+ - [https://heyollie.ai](https://heyollie.ai)
+ - date_published: 2024-10-07T22:26:33+00:00
+ - date_dead_since: 2024-12-19T08:07:02.264971+00:00
+
+ ## HeyScience - your personal AI assistant
+ - [https://www.heyscience.ai](https://www.heyscience.ai)
+ - date_published: 2024-06-19T19:40:02.749863+00:00
+
+ ## HideMyAl - Make Al Content Undetectable and Humanlike
+ - [https://hidemy.ai](https://hidemy.ai)
+ - date_published: 2023-07-24T20:01:35+00:00
+
+ ## Track & Improve Your AI Visiblity - Highlighted.ai
+ - [https://highlighted.ai](https://highlighted.ai)
+ - date_published: 2024-12-15T05:40:01.564521+00:00
+
  ## HirelakeAI: Turnkey Solution for Hiring - HireLakeAI
  - [https://hirelake.ai](https://hirelake.ai)
  - date_published: 2022-06-20T15:29:33+00:00
@@ -1757,6 +1782,10 @@
  - [https://listingcopy.ai](https://listingcopy.ai)
  - date_published: 2024-06-19T18:51:13.727875+00:00
 
+ ## AI Voice Generator: Realistic Text to Speech & Voice Cloning
+ - [https://listnr.ai](https://listnr.ai)
+ - date_published: 2024-12-19T18:10:42+00:00
+
  ## LiteLLM - Getting Started | liteLLM
  - [https://docs.litellm.ai](https://docs.litellm.ai)
  - date_published: 2024-09-18T14:44:31.159331+00:00
@@ -1965,6 +1994,10 @@
  ## Lumona
  - [https://lumona.ai](https://lumona.ai)
  - date_published: 2024-03-29T20:12:06.449920+00:00
+
+ ## Lunacal.AI
+ - [https://www.lunacal.ai](https://www.lunacal.ai)
+ - date_published: 2024-12-27T12:06:18.804747+00:00
 
  ## LunarTech - Empowering Tomorrow's Innovators
  - [https://academy.lunartech.ai](https://academy.lunartech.ai)
@@ -3989,36 +4022,4 @@
  ## PITZ | Super highlight generator for youth sports.
  - [https://pitz.ai](https://pitz.ai)
  - date_published: 2024-02-14T00:00:00+00:00
-
- ## Unlock the power of modern Procurement | Pivot
- - [https://www.pivotapp.ai](https://www.pivotapp.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## PixaBot - AI Avatars for D-ID video
- - [https://pixabot.ai](https://pixabot.ai)
- - date_published: 2024-10-18T15:45:02.622091+00:00
-
- ## Pixee Platform
- - [https://app.pixee.ai](https://app.pixee.ai)
- - date_published: 2024-08-08T14:55:51+00:00
-
- ## Pixee Blog
- - [https://blog.pixee.ai](https://blog.pixee.ai)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Pixee
- - [https://docs.pixee.ai](https://docs.pixee.ai)
- - date_published: 2024-08-09T12:18:44+00:00
-
- ## Your Automated Product Security Engineer · Pixeebot
- - [https://pixee.ai](https://pixee.ai)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## Pixela.ai
- - [https://pixela.ai](https://pixela.ai)
- - date_published: 2024-06-19T19:57:22.144987+00:00
-
- ## Pixelmind - AI-powered art & minting to NFTs
- - [https://beta.pixelmind.ai](https://beta.pixelmind.ai)
- - date_published: 2022-12-28T14:45:22+00:00
 

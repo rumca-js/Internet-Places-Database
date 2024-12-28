@@ -1,3 +1,196 @@
+ ## Catalunya Plural -
+ - [http://catalunyaplural.cat](http://catalunyaplural.cat)
+ - date_published: 2024-07-03T02:07:52.683249+00:00
+
+ ## La botiga oficial de TV3 i Catalunya Ràdio - CCMA
+ - [https://botiga.ccma.cat](https://botiga.ccma.cat)
+ - date_published: 2024-07-04T03:53:53.671003+00:00
+
+ ## El grup - CCMA
+ - [https://ccma.cat](https://ccma.cat)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Espai Selecció
+ - [https://seleccio.ccma.cat](https://seleccio.ccma.cat)
+ - date_published: 2024-07-04T03:53:47.444156+00:00
+
+ ## Buscador de convenis col·lectius
+ - [https://convenis.ccoo.cat](https://convenis.ccoo.cat)
+ - date_published: 2024-07-12T15:09:35+00:00
+
+ ## Inici - CERCA
+ - [https://cerca.cat](https://cerca.cat)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## CERCA Gender
+ - [https://gender.cerca.cat](https://gender.cerca.cat)
+ - date_published: 2024-07-07T01:34:25.694650+00:00
+
+ ## CERCA Gínjol Patent Funds
+ - [https://ginjol.cerca.cat](https://ginjol.cerca.cat)
+ - date_published: 2023-10-03T00:00:00+00:00
+
+ ## CERCA GINYS
+ - [https://ginys.cerca.cat](https://ginys.cerca.cat)
+ - date_published: 2024-07-07T01:34:20.645825+00:00
+
+ ## Portada - CIVIC Ai
+ - [https://civicai.cat](https://civicai.cat)
+ - date_published: 2023-03-10T11:36:17+00:00
+
+ ## Portal de la Recerca de Catalunya: Home
+ - [http://portalrecerca.csuc.cat](http://portalrecerca.csuc.cat)
+ - date_published: 2024-07-02T10:45:32.189841+00:00
+
+ ## Dansàneu
+ - [https://dansaneu.cat](https://dansaneu.cat)
+ - date_published: 2024-09-17T16:52:05.911326+00:00
+
+ ## Dario Castañé
+ - [https://dario.cat](https://dario.cat)
+ - date_published: 2024-05-09T08:12:41.816016+00:00
+
+ ## Rizoma | Dario Castañé | Substack
+ - [https://rizoma.dario.cat](https://rizoma.dario.cat)
+ - date_published: 2024-07-10T08:32:41.303453+00:00
+
+ ## Devir en Català
+ - [https://devir.cat](https://devir.cat)
+ - date_published: 2024-12-11T16:10:29.713449+00:00
+
+ ## Diari de Girona: últimes notícies de Girona, les comarques gironines i el món
+ - [https://www.diaridegirona.cat](https://www.diaridegirona.cat)
+ - date_published: 2024-10-14T20:49:01+00:00
+
+ ## Diputació de Barcelona, institució de govern local - diba.cat
+ - [https://www.diba.cat](https://www.diba.cat)
+ - date_published: 2024-12-11T13:06:00.117086+00:00
+
+ ## diccionari.cat | diccionari.cat
+ - [https://www.diccionari.cat](https://www.diccionari.cat)
+ - date_published: 2024-06-30T02:02:41+00:00
+
+ ## Som el teu punt de partida
+ - [https://domini.cat](https://domini.cat)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## EINA Centre Universitari de Disseny i Art de Barcelona
+ - [http://eina.cat](http://eina.cat)
+ - date_published: 2024-07-13T00:19:27+00:00
+
+ ## Club El Nacional
+ - [https://club.elnacional.cat](https://club.elnacional.cat)
+ - date_published: 2024-10-30T14:15:16+00:00
+
+ ## El Caso | Notícies, actualitat i última hora de successos a Barcelona, Espanya i el món
+ - [https://elcaso.elnacional.cat](https://elcaso.elnacional.cat)
+ - date_published: 2024-10-31T12:58:42+00:00
+
+ ## El Nacional.cat - Última hora política i econòmica de Catalunya, Espanya i internacional
+ - [https://elnacional.cat](https://elnacional.cat)
+ - date_published: 2024-10-31T14:09:25+00:00
+
+ ## ésAdir
+ - [https://esadir.cat](https://esadir.cat)
+ - date_published: 2024-07-04T03:53:49.815758+00:00
+
+ ## ESDAPC Escola Superior de Disseny i d’Arts Plàstiques de Catalunya
+ - [http://www.esdap.cat](http://www.esdap.cat)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## ESDAPC Escola Superior de Disseny i d’Arts Plàstiques de Catalunya
+ - [https://www.esdapc.cat](https://www.esdapc.cat)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Inici - BioFiC-Planta / EtnobotCat
+ - [http://www.etnobiofic.cat](http://www.etnobiofic.cat)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## FAD. Foment de les Arts i del Disseny
+ - [https://www.fad.cat](https://www.fad.cat)
+ - date_published: 2024-10-29T14:15:22.663753+00:00
+
+ ## FibraNet :: Sistemes Eficients
+ - [https://www.fibranet.cat](https://www.fibranet.cat)
+ - date_published: 2024-12-21T23:23:34.654224+00:00
+
+ ## Viatja en bus per Europa | FlixBus
+ - [https://www.flixbus.cat](https://www.flixbus.cat)
+ - date_published: 2024-06-28T10:10:11+00:00
+
+ ## Sobre Gamifica't! Cultura en Joc - Gamifica't!
+ - [https://gamifi.cat](https://gamifi.cat)
+ - date_published: 2024-06-05T14:31:44+00:00
+
+ ## Inici
+ - [https://canalsalut.gencat.cat](https://canalsalut.gencat.cat)
+ - date_published: 2024-07-07T00:55:07+00:00
+
+ ## Inici
+ - [https://cultura.gencat.cat](https://cultura.gencat.cat)
+ - date_published: 2024-07-20T22:11:23+00:00
+
+ ## Inici
+ - [https://gencat.cat](https://gencat.cat)
+ - date_published: 2015-01-26T15:44:48+00:00
+
+ ## Inici
+ - [https://incasol.gencat.cat](https://incasol.gencat.cat)
+ - date_published: 2024-07-02T10:06:05+00:00
+
+ ## Participa gencat
+ - [http://participa.gencat.cat](http://participa.gencat.cat)
+ - date_published: 2024-09-12T17:08:43.778893+00:00
+
+ ## Inici
+ - [https://presidencia.gencat.cat](https://presidencia.gencat.cat)
+ - date_published: 2024-10-15T03:10:32+00:00
+
+ ## Inici
+ - [http://salutweb.gencat.cat](http://salutweb.gencat.cat)
+ - date_published: 2024-07-07T00:59:22+00:00
+
+ ## Inici
+ - [https://universitatsirecerca.gencat.cat](https://universitatsirecerca.gencat.cat)
+ - date_published: 2024-07-02T10:45:06+00:00
+
+ ## Inici
+ - [https://web.gencat.cat](https://web.gencat.cat)
+ - date_published: 2024-06-28T22:08:40+00:00
+
+ ## Inici
+ - [https://www.accio.gencat.cat](https://www.accio.gencat.cat)
+ - date_published: 2024-12-11T14:30:34+00:00
+
+ ## Grafika Google
+ - [https://images.google.cat](https://images.google.cat)
+ - date_published: 2024-07-20T07:38:39.612972+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.cat](https://maps.google.cat)
+ - date_published: 2024-07-20T07:36:44.655716+00:00
+
+ ## Google
+ - [https://www.google.cat](https://www.google.cat)
+ - date_published: 2024-06-21T22:25:41.148764+00:00
+
+ ## Llibres en català | Grup62
+ - [https://www.grup62.cat](https://www.grup62.cat)
+ - date_published: 2024-12-09T17:34:28.175705+00:00
+
+ ## Vall de l'Hidrogen de Catalunya
+ - [https://www.h2valley.cat](https://www.h2valley.cat)
+ - date_published: 2024-09-04T02:23:07.014999+00:00
+
+ ## HTTP Cats
+ - [https://http.cat](https://http.cat)
+ - date_published: 2023-10-25T12:10:29.119183+00:00
+ - tags: ['cats', 'wtf', 'funny', 'http', 'internet']
+
+ ## Inici ICGC | icgc
+ - [https://www.icgc.cat](https://www.icgc.cat)
+ - date_published: 2024-07-16T14:34:44+00:00
+
  ## Coses de València i en Valencià - Ikkaro
  - [https://www.ikkaro.cat](https://www.ikkaro.cat)
  - date_published: 2024-03-20T00:00:00+00:00
@@ -1285,6 +1478,10 @@
  - [https://documator.cc](https://documator.cc)
  - date_published: 2024-08-21T22:14:31+00:00
 
+ ## Show HN: I Made a Web App to Bring Children's Drawings to Life
+ - [https://doodledreams.cc](https://doodledreams.cc)
+ - date_published: 2024-12-27T18:50:15+00:00
+
  ## Happy Thank U GIF by Barnaby - Find & Share on GIPHY
  - [http://drmst.cc](http://drmst.cc)
  - date_published: 2024-07-01T05:15:46.147120+00:00
@@ -1324,6 +1521,18 @@
  ## Escape Collective
  - [https://escapecollective.cc](https://escapecollective.cc)
  - date_published: 2024-06-19T06:56:57.162448+00:00
+
+ ## Consulting Engineers Sahifeh-eskan
+ - [https://en.eskan.cc](https://en.eskan.cc)
+ - date_published: 2024-12-27T16:30:16.663792+00:00
+
+ ## مهندسین مشاور صحیفه-اسکان
+ - [https://eskan.cc](https://eskan.cc)
+ - date_published: 2024-12-27T16:30:21.565816+00:00
+
+ ## مهندسین مشاور صحیفه-اسکان
+ - [https://www.eskan.cc](https://www.eskan.cc)
+ - date_published: 2024-12-27T16:30:19.632564+00:00
 
  ## ETHStaker QF Round
  - [https://qf.ethstaker.cc](https://qf.ethstaker.cc)
@@ -2279,6 +2488,10 @@
  ## Red Velvet
  - [https://redvelvet.cc](https://redvelvet.cc)
  - date_published: 2024-06-15T12:13:16.127024+00:00
+
+ ## Boost your Sales with ReferralCandy – #1 eCommerce Referral Program Software
+ - [http://harvesthosts.refr.cc](http://harvesthosts.refr.cc)
+ - date_published: 2024-12-24T06:20:52+00:00
 
  ## ReferralCandy Portal
  - [http://radioddity.refr.cc](http://radioddity.refr.cc)
@@ -3824,217 +4037,4 @@
  ## Alumni Informatik Universität Zürich – Homepage
  - [https://www.alumni.ch](https://www.alumni.ch)
  - date_published: 2019-12-03T09:37:22+00:00
-
- ## Amanda Camenisch
- - [http://www.amandacamenisch.ch](http://www.amandacamenisch.ch)
- - date_published: 2024-07-13T16:28:43.579782+00:00
-
- ## Start | Agnes MeHi
- - [https://amh-design.ch](https://amh-design.ch)
- - date_published: 2024-06-20T21:59:02.400903+00:00
-
- ## Amiga .CH
- - [http://amigasuisse.ch](http://amigasuisse.ch)
- - date_published: 2014-04-02T14:24:42+00:00
-
- ## HOME
- - [https://am-switzerland.ch](https://am-switzerland.ch)
- - date_published: 2024-10-31T10:51:44+00:00
-
- ## AMZ Website
- - [https://www.amzracing.ch](https://www.amzracing.ch)
- - date_published: 2024-11-25T10:39:59.487909+00:00
-
- ## andrewbanchi.ch
- - [http://andrewbanchi.ch](http://andrewbanchi.ch)
- - date_published: 2024-06-28T16:17:49.094028+00:00
-
- ## ANECO - aneco
- - [https://an-eco.ch](https://an-eco.ch)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Anna Zemp Garten – Natur- und Schaugarten
- - [https://anna-zemp-garten.ch](https://anna-zemp-garten.ch)
- - date_published: 2024-06-19T15:39:38.440696+00:00
-
- ## Annina Mossoni
- - [https://anninamossoni.ch](https://anninamossoni.ch)
- - date_published: 2023-04-30T17:20:54+00:00
-
- ## Redirection
- - [https://apc-epfl.ch](https://apc-epfl.ch)
- - date_published: 2019-10-16T21:28:46+00:00
-
- ## Greater advertising impact with APG|SGA outdoor advertising
- - [https://www.apgsga.ch](https://www.apgsga.ch)
- - date_published: 2024-06-22T06:50:46+00:00
-
- ## Die Apostroph Group trägt Botschaften in die Welt
- - [https://apostrophgroup.ch](https://apostrophgroup.ch)
- - date_published: 2024-08-18T19:15:06.030377+00:00
-
- ## Accueil — Appel Citoyen
- - [https://appelcitoyen.ch](https://appelcitoyen.ch)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Cours particuliers et soutien scolaire à domicile ou chez les professeurs
- - [https://apprentus.ch](https://apprentus.ch)
- - date_published: 2024-06-15T01:45:23.046951+00:00
-
- ## Apptitude - L'agence d'innovation digitale web et mobile à Lausanne
- - [http://apptitude.ch](http://apptitude.ch)
- - date_published: 2024-07-10T12:47:31+00:00
-
- ## Home - Appenzell Ausserrhoden
- - [https://ar.ch](https://ar.ch)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Online
- - [https://ebusiness.arabbank.ch](https://ebusiness.arabbank.ch)
- - date_published: 2024-07-21T06:37:45.541945+00:00
-
- ## ARAB BANK
- - [https://www.arabbank.ch](https://www.arabbank.ch)
- - date_published: 2024-04-30T05:58:29.461071+00:00
-
- ## Archimaster – Promouvoir les projets des étudiant·e·x·s en Master en architecture de l'ENAC – EPFL
- - [https://archimaster.ch](https://archimaster.ch)
- - date_published: 2024-05-12T07:15:11.247684+00:00
-
- ## Accueil – Architecture Suisse
- - [https://architecturesuisse.ch](https://architecturesuisse.ch)
- - date_published: 2024-06-14T15:27:49.944117+00:00
-
- ## Archivista
- - [https://archivista.ch](https://archivista.ch)
- - date_published: 2021-01-14T00:38:18+00:00
-
- ## ArchTech — Meticulously architected web applications
- - [https://archte.ch](https://archte.ch)
- - date_published: 2024-06-19T09:30:16.298408+00:00
-
- ## Arenae Consulting AG | Software Hersteller
- - [https://arenae.ch](https://arenae.ch)
- - date_published: 2024-10-29T11:15:41.021451+00:00
-
- ## ARGUSavenue – ARGUS DATA INSIGHTS Schweiz AG
- - [https://avenue.argusdatainsights.ch](https://avenue.argusdatainsights.ch)
- - date_published: 2024-07-16T22:07:08.696064+00:00
-
- ## []
- - [http://www.armada.ch](http://www.armada.ch)
- - date_published: 2012-11-21T18:52:28+00:00
-
- ## Art By Arab Bank - Art By ArabBank
- - [https://artbyarabbank.ch](https://artbyarabbank.ch)
- - date_published: 2024-07-21T06:32:57+00:00
-
- ## ART EN VILLE
- - [https://www.art-en-ville.ch](https://www.art-en-ville.ch)
- - date_published: 2024-07-21T06:19:17.887939+00:00
-
- ## Anmelden - Artmotion Support
- - [https://support.artmotion.ch](https://support.artmotion.ch)
- - date_published: 2024-07-20T04:58:48.264478+00:00
-
- ## Ascento - Secure Assets with Robotics and AI
- - [https://ascento.ch](https://ascento.ch)
- - date_published: 2024-10-27T06:21:30+00:00
-
- ## ASSODIGITALE NEWS TECH & FINTECH - HOME PAGE
- - [https://www.assodigitale.ch](https://www.assodigitale.ch)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## astetic.ch
- - [http://astetic.ch](http://astetic.ch)
- - date_published: 2022-08-09T19:59:57+00:00
-
- ## Atabasca Systems AG — Identity Access Management
- - [https://atabasca.ch](https://atabasca.ch)
- - date_published: 2022-02-08T00:00:00+00:00
-
- ## ATD Quart Monde
- - [https://www.atd-quartmonde.ch](https://www.atd-quartmonde.ch)
- - date_published: 2024-07-13T19:49:44.924763+00:00
-
- ## Soutien Financier de Projets Sportifs | Athlètes Vaudois
- - [https://athletes-vaudois.ch](https://athletes-vaudois.ch)
- - date_published: 2024-07-21T05:58:12+00:00
-
- ## Your digital partner in Geneva - Atipik
- - [https://www.atipik.ch](https://www.atipik.ch)
- - date_published: 2024-07-16T22:36:35.718060+00:00
-
- ## ATLAS Experiment at CERN | ATLAS Experiment at CERN
- - [http://www.atlas.ch](http://www.atlas.ch)
- - date_published: 2024-06-30T08:14:33.020146+00:00
-
- ## ATLAS FOR MEN - Outdoor-Bekleidung und Accessoires für Männer
- - [https://atlasformen.ch](https://atlasformen.ch)
- - date_published: 2024-05-29T10:08:51.103771+00:00
-
- ## atonra | Invest beyond the ordinary
- - [https://www.atonra.ch](https://www.atonra.ch)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Neuwagen, Angebote und Aktionen | Audi Schweiz
- - [https://audi.ch](https://audi.ch)
- - date_published: 2024-11-21T15:50:22.136004+00:00
-
- ## audienzz - premium. digital. advertising.
- - [https://audienzz.ch](https://audienzz.ch)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Alle Netflix-Filem und Serien - AufNetflix.ch
- - [https://www.aufnetflix.ch](https://www.aufnetflix.ch)
- - date_published: 2024-09-02T11:17:49.889234+00:00
-
- ## AUGS - Amiga User Group Switzerland
- - [https://www.augs.ch](https://www.augs.ch)
- - date_published: 2024-08-19T19:46:15.530446+00:00
-
- ## Top aktuelles Datenmaterial und einfachste Handhabung
- - [https://www.auto-i-dat.ch](https://www.auto-i-dat.ch)
- - date_published: 2024-07-11T14:38:28.906109+00:00
-
- ## Avis dexperts
- - [https://avisdexperts.ch](https://avisdexperts.ch)
- - date_published: 2024-07-21T05:12:50.589117+00:00
-
- ## Gesamtlösung für Gemeinden, Städte und kantonale Finanzverwaltungen - Axians Infoma - Ihr Partner für Smart Government
- - [https://www.axians-infoma.ch](https://www.axians-infoma.ch)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Services of cable.ayra.ch
- - [https://cable.ayra.ch](https://cable.ayra.ch)
- - date_published: 2023-10-12T13:44:48+00:00
-
- ## Home - TS3 Identity generator
- - [https://identity.ayra.ch](https://identity.ayra.ch)
- - date_published: 2017-09-26T16:39:10+00:00
-
- ## Dafi Kühne – Dafi Kühne is a graphic designer and letterpress print maker from Zürich+Glarus, Switzerland. Since 2009 his studio «babyinktwice» has been designing and printing posters, invitation cards and brochures for music, art, architecture, theater and film projects and also for products. Since 2011 Dafi Kühne has also been teaching everything from short workshops to full semesters in various universities in Europe and the United States.
- - [https://2018.babyinktwice.ch](https://2018.babyinktwice.ch)
- - date_published: 2024-10-29T13:48:35.409227+00:00
-
- ## Dafi Kühne – Dafi Kühne is a graphic designer and letterpress print maker from Zürich+Glarus, Switzerland. Since 2009 his studio «babyinktwice» has been designing and printing posters, invitation cards and brochures for music, art, architecture, theater and film projects and also for products. Since 2011 Dafi Kühne has also been teaching everything from short workshops to full semesters in various universities in Europe and the United States.
- - [http://babyinktwice.ch](http://babyinktwice.ch)
- - date_published: 2024-06-19T16:18:23.201061+00:00
-
- ## Badesaison Studio
- - [https://badesaison.ch](https://badesaison.ch)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Baggenstos/Rudolf
- - [http://www.baggenstos-rudolf.ch](http://www.baggenstos-rudolf.ch)
- - date_published: 2024-06-18T12:07:34+00:00
-
- ## Hicham BAKIR -
-        Accueil
- - [https://bakir.ch](https://bakir.ch)
- - date_published: 2024-05-09T08:19:24.886720+00:00
-
- ## Tanz & Ballettschule in Zentralschweiz - Ballett Akademie Luzern
- - [https://ballettakademie.ch](https://ballettakademie.ch)
- - date_published: 2024-10-21T09:23:47.813952+00:00
 

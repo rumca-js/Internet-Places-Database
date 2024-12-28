@@ -1,3 +1,123 @@
+ ## Painéis e Indicadores UFLA
+ - [https://paineis.ufla.br](https://paineis.ufla.br)
+ - date_published: 2024-12-15T12:28:13+00:00
+
+ ## Pró-Reitoria de Graduação - PRG - UFLA
+ - [http://prg.ufla.br](http://prg.ufla.br)
+ - date_published: 2024-12-15T12:27:01+00:00
+
+ ## Main Page
+ - [http://print.ufla.br](http://print.ufla.br)
+ - date_published: 2024-12-15T12:28:01+00:00
+
+ ## SIG - Log-in
+ - [https://sig.ufla.br](https://sig.ufla.br)
+ - date_published: 2024-11-11T11:26:40+00:00
+
+ ## Página Principal - UFLA - Universidade Federal de Lavras
+ - [https://ufla.br](https://ufla.br)
+ - date_published: 2024-10-30T20:16:40+00:00
+
+ ## Rádio Universitária 105.7 FM
+ - [http://www.universitariafm.ufla.br](http://www.universitariafm.ufla.br)
+ - date_published: 2024-12-15T12:28:08.037216+00:00
+
+ ## Authentication - GLPI
+ - [https://atendimento-sti2.ufma.br](https://atendimento-sti2.ufma.br)
+ - date_published: 2024-06-16T15:22:47.899739+00:00
+
+ ## pagina inicial
+ - [https://portalpadrao.ufma.br](https://portalpadrao.ufma.br)
+ - date_published: 2024-10-11T11:24:18.068519+00:00
+
+ ## atoba.fisica.ufmg.br
+ - [https://atoba.fisica.ufmg.br](https://atoba.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:47.217872+00:00
+
+ ## Biblioteca do Departamento de Química - ICEx/UFMG | Biblioteca do Departamento de Química - ICEx/UFMG
+ - [http://biblioteca.qui.ufmg.br](http://biblioteca.qui.ufmg.br)
+ - date_published: 2024-07-13T18:19:43+00:00
+
+ ## Black Hole - UFMG / DTI
+ - [http://blackhole.rede.ufmg.br](http://blackhole.rede.ufmg.br)
+ - date_published: 2024-07-13T18:18:55.449683+00:00
+
+ ## Espaço do Colaborador
+ - [http://colaborador.fundep.ufmg.br](http://colaborador.fundep.ufmg.br)
+ - date_published: 2024-03-21T16:31:24+00:00
+
+ ## Sala de Demonstrações de Física - UFMG
+ - [https://demonstracoes.fisica.ufmg.br](https://demonstracoes.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:09:12.771306+00:00
+
+ ## Fundep - Espaço do Coordenador
+ - [https://ec.fundep.ufmg.br](https://ec.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:16:17.641805+00:00
+
+ ## Fundep
+ - [https://fundep.ufmg.br](https://fundep.ufmg.br)
+ - date_published: 2024-05-11T08:09:00.660884+00:00
+
+ ## Universidade Federal de Minas Gerais
+ - [https://icex.ufmg.br](https://icex.ufmg.br)
+ - date_published: 2024-05-11T08:09:23.781459+00:00
+
+ ## LCPNano - Física/UFMG
+ - [http://lcpnano.ufmg.br](http://lcpnano.ufmg.br)
+ - date_published: 2024-05-11T08:08:57.602511+00:00
+
+ ## Física - UFMG -Site secundario
+ - [https://lilith.fisica.ufmg.br](https://lilith.fisica.ufmg.br)
+ - date_published: 2024-03-18T22:49:00.695043+00:00
+
+ ## SSO - minhaUFMG
+ - [https://minha.ufmg.br](https://minha.ufmg.br)
+ - date_published: 2024-05-11T08:08:00.331088+00:00
+
+ ## HTTP Server Test Page powered by CentOS
+ - [http://ni100t.fisica.ufmg.br](http://ni100t.fisica.ufmg.br)
+ - date_published: 2021-07-03T13:48:21+00:00
+
+ ## Portal de Periódicos da UFMG
+ - [https://periodicos.ufmg.br](https://periodicos.ufmg.br)
+ - date_published: 2024-07-13T18:19:33.151876+00:00
+
+ ## Fundep - Portal de Compras
+ - [https://portaldecompras.fundep.ufmg.br](https://portaldecompras.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:16:13.127252+00:00
+
+ ## Programa de Pós-graduação em Ciência da Computação
+ - [https://ppgcc.dcc.ufmg.br](https://ppgcc.dcc.ufmg.br)
+ - date_published: 2024-07-13T18:19:47.272373+00:00
+
+ ## Processo Seletivo - Física - UFMG
+ - [http://procsel.fisica.ufmg.br](http://procsel.fisica.ufmg.br)
+ - date_published: 2024-07-13T18:18:48.387870+00:00
+
+ ## SGSED - Sistema de Encargos Didáticos
+ - [https://sgsed.fisica.ufmg.br](https://sgsed.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:42.754957+00:00
+
+ ## SSO - minhaUFMG
+ - [https://sistemas.ufmg.br](https://sistemas.ufmg.br)
+ - date_published: 2024-07-13T18:04:07.578049+00:00
+
+ ## Início - Portal da Transparência da FUNDEP
+ - [https://transparencia.fundep.ufmg.br](https://transparencia.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:15:59.430159+00:00
+
+ ## .
+ - [https://tupi.fisica.ufmg.br](https://tupi.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:09:15.884426+00:00
+
+ ## UFMG
+ - [https://ufmg.br](https://ufmg.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Sign in to your account
+ - [http://webmail2.fundep.ufmg.br](http://webmail2.fundep.ufmg.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
  ## DTI - Diretoria de Tecnologia da Informação - UFMG
  - [http://www.cecom.ufmg.br](http://www.cecom.ufmg.br)
  - date_published: 2024-07-13T18:18:31.222033+00:00
@@ -2640,6 +2760,10 @@ Educação
  - [https://www.legiaodosherois.com.br](https://www.legiaodosherois.com.br)
  - date_published: 2024-12-26T17:29:20+00:00
 
+ ## Leiturinha | O maior clube de livros infantis do Brasil
+ - [https://leiturinha.com.br](https://leiturinha.com.br)
+ - date_published: 2024-12-27T23:18:55.645894+00:00
+
  ## LETRAS - Letras de músicas e músicas para ouvir
  - [https://www.letras.com.br](https://www.letras.com.br)
  - date_published: 2024-12-26T17:54:54.731940+00:00
@@ -2817,6 +2941,14 @@ Educação
  ## Megacombo Consórcios — Sua independência financeira. Automática.
  - [http://www.megacombo.com.br](http://www.megacombo.com.br)
  - date_published: 2016-04-02T00:00:00+00:00
+
+ ## MegaDriver
+ - [https://bandcamp.megadriver.com.br](https://bandcamp.megadriver.com.br)
+ - date_published: 2024-12-27T09:12:00.455146+00:00
+
+ ## Home
+ - [http://www.megadriver.com.br](http://www.megadriver.com.br)
+ - date_published: 2024-12-27T09:12:12.443136+00:00
 
  ## Attention Required! | Cloudflare
  - [https://blog.mercadobitcoin.com.br](https://blog.mercadobitcoin.com.br)
@@ -3879,136 +4011,4 @@ Educação
  ## SPTrans
  - [http://www.sptrans.com.br](http://www.sptrans.com.br)
  - date_published: 2024-07-19T22:14:00.710079+00:00
-
- ## Home Page - StandFor
- - [https://standfor.com.br](https://standfor.com.br)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Startupi | Inovação, Investimentos e Empreendedorismo
- - [https://startupi.com.br](https://startupi.com.br)
- - date_published: 2024-10-28T12:12:16.868334+00:00
-
- ## Startups - O epicentro da tecnologia e da inovação
- - [https://startups.com.br](https://startups.com.br)
- - date_published: 2024-10-28T11:31:37+00:00
-
- ## Statkraft
- - [https://www.statkraft.com.br](https://www.statkraft.com.br)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Official Global Website
- - [http://www.stellantis.com.br](http://www.stellantis.com.br)
- - date_published: 2024-10-28T12:01:08+00:00
-
- ## Stellantis Financiamentos
- - [https://stellantisfinanciamentos.com.br](https://stellantisfinanciamentos.com.br)
- - date_published: 2024-10-28T15:35:45.024169+00:00
-
- ## Home - Stilingue Inteligência Artificial
- - [https://stilingue.com.br](https://stilingue.com.br)
- - date_published: 2020-09-24T20:47:41+00:00
-
- ## Central de Ajuda Stone – Todas as Sua Dúvidas em um só Lugar
- - [https://ajuda.stone.com.br](https://ajuda.stone.com.br)
- - date_published: 2024-10-28T13:55:46.860978+00:00
-
- ## Blog Stone - Menos banco, mais negócio e muito conteúdo
- - [https://blog.stone.com.br](https://blog.stone.com.br)
- - date_published: 2024-10-28T13:55:30.502967+00:00
-
- ## Stone
- - [https://conta.stone.com.br](https://conta.stone.com.br)
- - date_published: 2024-10-28T13:55:48.052800+00:00
-
- ## DevCenter | Stone
- - [https://devcenter.stone.com.br](https://devcenter.stone.com.br)
- - date_published: 2024-10-22T17:02:03+00:00
-
- ## Stone - Documentos
- - [https://docs.stone.com.br](https://docs.stone.com.br)
- - date_published: 2024-10-28T13:55:11.759947+00:00
-
- ## Jornada | O portal de carreiras da Stone
- - [https://jornada.stone.com.br](https://jornada.stone.com.br)
- - date_published: 2024-10-28T13:55:24.733289+00:00
-
- ## Seja um parceiro Stone
- - [https://partner.stone.com.br](https://partner.stone.com.br)
- - date_published: 2024-10-15T23:21:07+00:00
-
- ## Stone: solução completa de vendas feita para o seu negócio
- - [https://www.stone.com.br](https://www.stone.com.br)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo | XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo
- - [https://storexppen.com.br](https://storexppen.com.br)
- - date_published: 2024-05-30T18:41:51.126045+00:00
-
- ## StreetFighter.com.br - Site brasileiro de fãs da franquia de luta da Capcom
- - [http://www.streetfighter.com.br](http://www.streetfighter.com.br)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## StudHistória
- - [https://studhistoria.com.br](https://studhistoria.com.br)
- - date_published: 2024-12-23T21:33:48.336597+00:00
-
- ## Studio Cubo Web - Desenvolvemos sites e sistemas
- - [https://studiocuboweb.com.br](https://studiocuboweb.com.br)
- - date_published: 2023-02-14T14:43:31+00:00
-
- ## Submarino - Sua história começa aqui
- - [http://www.submarino.com.br](http://www.submarino.com.br)
- - date_published: 2024-07-10T09:23:04.769212+00:00
-
- ## Parents Home - Substantivo Plural
- - [http://www.substantivoplural.com.br](http://www.substantivoplural.com.br)
- - date_published: 2024-12-20T07:27:16.707945+00:00
-
- ## Paradiso Rio | Paradiso Rio FM
- - [https://sulamericaparadiso.com.br](https://sulamericaparadiso.com.br)
- - date_published: 2024-07-13T02:17:25.040098+00:00
-
- ## Superprof - A comunidade dos professores particulares
- - [https://superprof.com.br](https://superprof.com.br)
- - date_published: 2024-06-15T01:28:14.389864+00:00
-
- ## Survival Horror Com Br
- - [https://survivalhorror.com.br](https://survivalhorror.com.br)
- - date_published: 2024-05-14T02:52:31.660891+00:00
-
- ## SX Integra
- - [https://www.sxintegra.com.br](https://www.sxintegra.com.br)
- - date_published: 2024-04-10T20:39:04+00:00
-
- ## Central de Ajuda - Compradores | Sympla
- - [https://ajuda.sympla.com.br](https://ajuda.sympla.com.br)
- - date_published: 2021-04-16T00:00:00+00:00
-
- ## Conteúdo restrito - Sympla
- - [https://assets-event-page.svc.sympla.com.br](https://assets-event-page.svc.sympla.com.br)
- - date_published: 2023-05-18T17:52:26+00:00
-
- ## Sympla Bileto
- - [https://bileto.sympla.com.br](https://bileto.sympla.com.br)
- - date_published: 2024-05-29T00:27:51.796959+00:00
-
- ## Blog da Sympla | Tudo para criar ou viver experiências
- - [https://blog.sympla.com.br](https://blog.sympla.com.br)
- - date_published: 2024-09-18T18:34:48.460886+00:00
-
- ## API Sympla - Documentação API da Sympla
- - [https://developers.sympla.com.br](https://developers.sympla.com.br)
- - date_published: 2024-09-05T19:25:43+00:00
-
- ## Conteúdo restrito - Sympla
- - [https://images.sympla.com.br](https://images.sympla.com.br)
- - date_published: 2023-05-11T18:31:40+00:00
-
- ## Conteúdo restrito - Sympla
- - [https://na-bundle.sympla.com.br](https://na-bundle.sympla.com.br)
- - date_published: 2023-04-26T14:17:16+00:00
-
- ## Sympla - Encontre os melhores eventos
- - [https://site.bileto.sympla.com.br](https://site.bileto.sympla.com.br)
- - date_published: 2024-07-13T02:17:05.417612+00:00
 
