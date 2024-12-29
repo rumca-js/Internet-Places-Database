@@ -1,3 +1,1052 @@
+ ## הפקולטה למשפטים ע"ש בוכמן
+ - [https://law.tau.ac.il](https://law.tau.ac.il)
+ - date_published: 2024-07-21T22:16:55+00:00
+
+ ## אתר הספריות
+ - [https://libraries.tau.ac.il](https://libraries.tau.ac.il)
+ - date_published: 2024-07-24T07:58:28.734420+00:00
+
+ ## הפקולטה למדעי החיים ע"ש ג'ורג ס' וייז
+ - [https://lifesci.tau.ac.il](https://lifesci.tau.ac.il)
+ - date_published: 2024-07-24T07:58:44.646659+00:00
+
+ ## הפקולטה למדעי הרפואה והבריאות
+ - [https://med.tau.ac.il](https://med.tau.ac.il)
+ - date_published: 2024-07-24T07:57:23.480080+00:00
+
+ ## עמוד הבית
+ - [https://m.tau.ac.il](https://m.tau.ac.il)
+ - date_published: 2024-07-24T07:57:51.287075+00:00
+
+ ## Nano Center
+ - [https://nano.tau.ac.il](https://nano.tau.ac.il)
+ - date_published: 2024-07-24T07:58:07.649976+00:00
+
+ ## עמוד הבית
+ - [http://new.tau.ac.il](http://new.tau.ac.il)
+ - date_published: 2024-07-24T07:57:25.645710+00:00
+
+ ## אוניברסיטת תל אביב לנוער - נוער שוחר מדע
+ - [https://noar.tau.ac.il](https://noar.tau.ac.il)
+ - date_published: 2024-07-24T07:57:55.692108+00:00
+
+ ## ארגון הסגל המינהלי
+ - [https://ovdim.tau.ac.il](https://ovdim.tau.ac.il)
+ - date_published: 2024-07-24T07:57:48.388726+00:00
+
+ ## המרכז להתמודדות עם מגפות
+ - [https://pandemics.tau.ac.il](https://pandemics.tau.ac.il)
+ - date_published: 2024-07-24T07:58:27.626002+00:00
+
+ ## מיזם האקלים של אוניברסיטת תל אביב
+ - [https://planetzero.tau.ac.il](https://planetzero.tau.ac.il)
+ - date_published: 2024-07-24T07:57:33.949921+00:00
+
+ ## Quantum Science and Technology
+ - [https://quantum.tau.ac.il](https://quantum.tau.ac.il)
+ - date_published: 2024-07-24T07:57:40.555750+00:00
+
+ ## הצטיינות הרקטור
+ - [https://rector.tau.ac.il](https://rector.tau.ac.il)
+ - date_published: 2024-07-24T07:58:10.375618+00:00
+
+ ## רשות המחקר
+ - [http://research-authority.tau.ac.il](http://research-authority.tau.ac.il)
+ - date_published: 2024-07-24T07:57:52.891369+00:00
+
+ ## לשכת סגן הנשיא למחקר ופיתוח
+ - [http://research-vp.tau.ac.il](http://research-vp.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Добро пожаловать в Тель-Авивский университет
+ - [https://russian.tau.ac.il](https://russian.tau.ac.il)
+ - date_published: 2024-07-24T07:58:50.241756+00:00
+
+ ## Edmond J. Safra Center for Bioinformatics
+ - [https://safrabio.cs.tau.ac.il](https://safrabio.cs.tau.ac.il)
+ - date_published: 2024-08-06T21:26:17+00:00
+
+ ## בית הספר סגול למדעי המוח
+ - [https://sagol.tau.ac.il](https://sagol.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## ברוכים הבאים לספרייה
+ - [https://scilib.tau.ac.il](https://scilib.tau.ac.il)
+ - date_published: 2024-08-07T10:24:17+00:00
+
+ ## Sagol Center for Regenerative Medicine
+ - [https://scrm.tau.ac.il](https://scrm.tau.ac.il)
+ - date_published: 2024-08-19T00:33:53+00:00
+
+ ## מוזיאון הטבע ע"ש שטיינהרדט
+ - [https://smnh.tau.ac.il](https://smnh.tau.ac.il)
+ - date_published: 2024-07-24T07:58:17.703441+00:00
+
+ ## הפקולטה למדעי החברה
+ - [http://social-sciences.tau.ac.il](http://social-sciences.tau.ac.il)
+ - date_published: 2024-07-24T07:58:40.973053+00:00
+
+ ## הספרייה למדעי החברה, לניהול ולחינוך
+ - [http://soclib.tau.ac.il](http://soclib.tau.ac.il)
+ - date_published: 2024-07-24T07:57:30.380858+00:00
+
+ ## Parasol Foundation International LL.M. Program
+ - [http://studylaw.tau.ac.il](http://studylaw.tau.ac.il)
+ - date_published: 2024-07-21T21:15:11+00:00
+
+ ## עמוד הבית
+ - [https://tau.ac.il](https://tau.ac.il)
+ - date_published: 2024-04-29T06:01:21.047652+00:00
+
+ ## TAU Review 2023
+ - [https://taureview.tau.ac.il](https://taureview.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## מכרזים והתקשרויות
+ - [http://tenders.tau.ac.il](http://tenders.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## TAU Innovation Labs
+ - [https://tilabs.tau.ac.il](https://tilabs.tau.ac.il)
+ - date_published: 2024-07-24T07:58:30.734437+00:00
+
+ ## TAU WEBCAST - Tel Aviv University Video Services
+ - [http://video.tau.ac.il](http://video.tau.ac.il)
+ - date_published: 2024-07-24T07:57:37.830649+00:00
+
+ ## welcome2TAU
+ - [https://welcome.tau.ac.il](https://welcome.tau.ac.il)
+ - date_published: 2024-07-24T07:58:43.319074+00:00
+
+ ## Elor | Hadar Elor Homepage
+ - [https://www.elor.sites.tau.ac.il](https://www.elor.sites.tau.ac.il)
+ - date_published: 2024-07-21T09:41:08.525770+00:00
+
+ ## ברוכים הבאים לפקולטה להנדסה
+ - [http://www.eng.tau.ac.il](http://www.eng.tau.ac.il)
+ - date_published: 2024-06-23T09:46:30+00:00
+
+ ## Tel Aviv | המכון למשפט ופילנתרופיה | אוניברסיטת תל אביב
+ - [https://www.ilp.sites.tau.ac.il](https://www.ilp.sites.tau.ac.il)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## School of Mathematical Sciences
+ - [http://www.math.tau.ac.il](http://www.math.tau.ac.il)
+ - date_published: 2024-06-17T12:53:05+00:00
+
+ ## ארגון הסגל האקדמי הבכיר אוניברסיטת תל אביב
+ - [https://www.senioracademic.sites.tau.ac.il](https://www.senioracademic.sites.tau.ac.il)
+ - date_published: 2024-07-24T07:58:37.362263+00:00
+
+ ## מרכז הנשיא מאיר שמגר  למשפט דיגיטלי וחדשנות באוניברסיטת תל- אביב
+ - [https://www.shamgarlaw.sites.tau.ac.il](https://www.shamgarlaw.sites.tau.ac.il)
+ - date_published: 2024-07-21T23:24:29.546710+00:00
+
+ ## אגודת ידידי אוניברסיטת תל אביב
+ - [https://yedidim.tau.ac.il](https://yedidim.tau.ac.il)
+ - date_published: 2024-08-18T23:55:53+00:00
+
+ ## Technion - Israel Institute of Technology
+ - [https://cris.technion.ac.il](https://cris.technion.ac.il)
+ - date_published: 2024-06-22T07:46:59.982782+00:00
+
+ ## CS Faculty for People Program | Home page
+ - [https://cs4people.cs.technion.ac.il](https://cs4people.cs.technion.ac.il)
+ - date_published: 2024-08-08T11:21:31.258738+00:00
+
+ ## The Taub Faculty of Computer Science, Technion
+ - [https://cs.technion.ac.il](https://cs.technion.ac.il)
+ - date_published: 2024-08-08T11:17:51.651052+00:00
+
+ ## IT GROUP | Technion Computer Science Faculty
+ - [https://cswp.cs.technion.ac.il](https://cswp.cs.technion.ac.il)
+ - date_published: 2024-08-08T11:20:36.759826+00:00
+
+ ## Home - Faculty of Electrical And Computer Engineering - Technion
+ - [https://ece.technion.ac.il](https://ece.technion.ac.il)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## הפקולטה למדעי המחשב טאוב, הטכניון | לימודי תואר שני ושלישילימודי תואר שני ושלישי - The Taub Faculty of Computer Science, Technion
+ - [https://graduate.cs.technion.ac.il](https://graduate.cs.technion.ac.il)
+ - date_published: 2024-08-08T11:21:29.802417+00:00
+
+ ## Industrial Affiliates Program (IAP)
+ - [https://iap.cs.technion.ac.il](https://iap.cs.technion.ac.il)
+ - date_published: 2024-08-08T11:20:38.103444+00:00
+
+ ## Joseph Keshet – Speech, Language, and Deep Learning יוסי קשת
+ - [https://keshet.net.technion.ac.il](https://keshet.net.technion.ac.il)
+ - date_published: 2024-04-28T03:45:34.997165+00:00
+
+ ## Technion Library – טכניון – אתר הספריות
+ - [https://library.technion.ac.il](https://library.technion.ac.il)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Home - Physics Department, Technion
+ - [http://phys.technion.ac.il](http://phys.technion.ac.il)
+ - date_published: 2024-06-22T12:49:21+00:00
+
+ ## Shaked Brody | Ph.D. student, Computer Science Department, Technion
+ - [https://shakedbr.cswp.cs.technion.ac.il](https://shakedbr.cswp.cs.technion.ac.il)
+ - date_published: 2024-07-22T11:01:20.407486+00:00
+
+ ## SIPL Annual Event 2022
+ - [https://siplevent2022.net.technion.ac.il](https://siplevent2022.net.technion.ac.il)
+ - date_published: 2024-08-07T15:22:13.690838+00:00
+
+ ## Tamar Rott Shaham | PhD Candidate, Computer Vision
+ - [https://stamarot.webgr.technion.ac.il](https://stamarot.webgr.technion.ac.il)
+ - date_published: 2024-06-22T09:07:04.083810+00:00
+
+ ## דף הבית | הטכניון - מכון טכנולוגי לישראל
+ - [https://technion.ac.il](https://technion.ac.il)
+ - date_published: 2013-02-07T15:47:53+00:00
+
+ ## Tomer Michaeli
+ - [https://tomer.net.technion.ac.il](https://tomer.net.technion.ac.il)
+ - date_published: 2024-05-04T15:13:32.022579+00:00
+
+ ## הפקולטה למדעי המחשב טאוב, הטכניון | לימודי תואר ראשוןלימודי תואר ראשון - The Taub Faculty of Computer Science, Technion
+ - [https://undergraduate.cs.technion.ac.il](https://undergraduate.cs.technion.ac.il)
+ - date_published: 2024-08-08T11:20:34.949204+00:00
+
+ ## Uri Alon | PhD student, the Computer Science Department, Technion
+ - [https://urialon.cswp.cs.technion.ac.il](https://urialon.cswp.cs.technion.ac.il)
+ - date_published: 2024-07-22T11:02:02.896748+00:00
+
+ ## Home - Faculty of Electrical And Computer Engineering - Technion
+ - [http://webee.technion.ac.il](http://webee.technion.ac.il)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## גחלילית
+ - [https://davidson-firefly.weizmann.ac.il](https://davidson-firefly.weizmann.ac.il)
+ - date_published: 2024-06-15T10:21:48+00:00
+
+ ## מכון דוידסון: התחברות למערכת
+ - [https://davidsonmoodle.weizmann.ac.il](https://davidsonmoodle.weizmann.ac.il)
+ - date_published: 2024-06-15T10:21:47.063392+00:00
+
+ ## מכון דוידסון מציג: העתיד של חדשות המדע. בעברית
+ - [https://davidson.weizmann.ac.il](https://davidson.weizmann.ac.il)
+ - date_published: 2024-05-01T03:14:15.570719+00:00
+
+ ## ECCC - Electronic Colloquium on Computational Complexity
+ - [https://eccc.weizmann.ac.il](https://eccc.weizmann.ac.il)
+ - date_published: 2024-06-22T10:53:57.315153+00:00
+
+ ## מסע הקסם המדעי - חדשות מדע, תגליות ומידע לציבור מבית מכון ויצמן למדע
+ - [https://heb.wis-wander.weizmann.ac.il](https://heb.wis-wander.weizmann.ac.il)
+ - date_published: 2024-08-19T14:03:20.622932+00:00
+
+ ## Weizmann Institute of Science
+ - [https://weizmann.ac.il](https://weizmann.ac.il)
+ - date_published: 2024-04-28T03:40:11.119291+00:00
+
+ ## Weizmann Wonder Wander - News, Features and Discoveries from the Weizmann Institute of Science
+ - [https://wis-wander.weizmann.ac.il](https://wis-wander.weizmann.ac.il)
+ - date_published: 2023-10-25T10:11:36.340185+00:00
+
+ ## Faculty of Mathematics and Computer Science
+ - [https://www.wisdom.weizmann.ac.il](https://www.wisdom.weizmann.ac.il)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## המכללה האקדמית עמק יזרעאל ע"ש מקס שטרן
+ - [http://www.yvc.ac.il](http://www.yvc.ac.il)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## 2swim - 2swim
+ - [https://www.2swim.co.il](https://www.2swim.co.il)
+ - date_published: 2023-02-18T18:53:12+00:00
+
+ ## 3M Science. Applied to Life. | 3M ישראל
+ - [https://www.3misrael.co.il](https://www.3misrael.co.il)
+ - date_published: 2024-08-06T10:39:39.316905+00:00
+
+ ## Первое радио 89.1FM
+ - [https://www.891fm.co.il](https://www.891fm.co.il)
+ - date_published: 2024-02-08T21:49:59.501224+00:00
+
+ ## Online fashion from over 500 top brands  | ABOUT YOU
+ - [https://en.aboutyou.co.il](https://en.aboutyou.co.il)
+ - date_published: 2024-09-17T18:11:48+00:00
+
+ ## Online fashion from over 500 top brands  | ABOUT YOU
+ - [https://www.aboutyou.co.il](https://www.aboutyou.co.il)
+ - date_published: 2024-09-17T18:11:48+00:00
+
+ ## WP Accessibility Helper - Wordpress accessibility plugin
+ - [https://accessibility-helper.co.il](https://accessibility-helper.co.il)
+ - date_published: 2024-05-01T07:31:18.271466+00:00
+
+ ## ActiveTrail Email Marketing
+ - [https://activetrail.co.il](https://activetrail.co.il)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## הצטרפו ל'אדם שלם' - אדם שלם
+ - [https://adam-shalem.co.il](https://adam-shalem.co.il)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## ביגוד ונעלי ספורט באתר הרשמי של אדידס | אדידס ישראל
+ - [https://www.adidas.co.il](https://www.adidas.co.il)
+ - date_published: 2024-07-14T12:14:49.062355+00:00
+
+ ## אאא — פונטים בעברית
+ - [https://alefalefalef.co.il](https://alefalefalef.co.il)
+ - date_published: 2024-10-29T14:03:24.442449+00:00
+
+ ## רכבי יוקרה | אלפא רומיאו ישראל | Alfa Romeo Israel
+ - [https://www.alfaromeo.co.il](https://www.alfaromeo.co.il)
+ - date_published: 2024-06-10T10:47:13+00:00
+
+ ## שיווק דיגיטלי זה AskPavel - חזית הידע בשיווק באינטרנט משנת 2007
+ - [https://www.askpavel.co.il](https://www.askpavel.co.il)
+ - date_published: 2022-12-29T06:58:46+00:00
+
+ ## Asran – אגודת הסטודנטים למדעי הבריאות בבן גוריון
+ - [https://asran.co.il](https://asran.co.il)
+ - date_published: 2024-05-11T09:07:59.321698+00:00
+
+ ## מגזין את
+ - [https://www.atmag.co.il](https://www.atmag.co.il)
+ - date_published: 2024-06-18T07:41:55+00:00
+
+ ## Attractive – Creative B2B Agency for Tech Companies
+ - [https://attractive.co.il](https://attractive.co.il)
+ - date_published: 2024-10-29T07:33:18.170943+00:00
+
+ ## Error Page
+ - [https://www.audi.co.il](https://www.audi.co.il)
+ - date_published: 2024-07-19T22:45:28.319459+00:00
+
+ ## אוטו מגזין רכב - מאגר מידע על רכבים
+ - [https://www.auto.co.il](https://www.auto.co.il)
+ - date_published: 2024-08-11T13:52:30.080411+00:00
+
+ ## Home - autocom
+ - [https://www.autocom.co.il](https://www.autocom.co.il)
+ - date_published: 2024-10-28T20:50:33.692075+00:00
+
+ ## Awesome - Brands & Products agency by Deloitte Digital
+ - [https://awesometlv.co.il](https://awesometlv.co.il)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## עסקים ובעלי מקצוע מומלצים - בזק B144
+ - [https://www.b144.co.il](https://www.b144.co.il)
+ - date_published: 2024-09-17T17:55:31.708698+00:00
+
+ ## פורטל יהדות לאתרים דתיים ברשת :: בבא קמא
+ - [http://www.babakama.co.il](http://www.babakama.co.il)
+ - date_published: 2024-06-27T07:54:51.491132+00:00
+
+ ## עדי באריל - יעוץ תקשורת | יחסי ציבור | adibarill communications
+ - [http://barill.co.il](http://barill.co.il)
+ - date_published: 2021-04-19T00:00:00+00:00
+
+ ## Homepage - Basch Interactive
+ - [https://basch.co.il](https://basch.co.il)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## חברת מיתוג, עיצוב אתרים, עיצוב אפליקציה, עיצוב לוגו | בי קריאיישנס
+ - [http://www.bee-creations.co.il](http://www.bee-creations.co.il)
+ - date_published: 2024-06-28T19:26:37.951507+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://bgu4u.co.il](https://bgu4u.co.il)
+ - date_published: 2024-05-11T09:09:11.487384+00:00
+
+ ## אתר התשלומים של אוניברסיטת בן גוריון
+ - [https://bgushops.co.il](https://bgushops.co.il)
+ - date_published: 2024-07-14T03:35:16.241000+00:00
+
+ ## Bitcoil - Exchange bitcoins for ILS
+ - [https://bitcoil.co.il](https://bitcoil.co.il)
+ - date_published: 2024-07-14T21:48:55.232851+00:00
+
+ ## דלת פתוחה בר אילן
+ - [https://www.biuopendoors.co.il](https://www.biuopendoors.co.il)
+ - date_published: 2024-08-07T15:14:49.185292+00:00
+
+ ## בלוגלי | בלוג, בלוגים בלוגיה
+ - [https://muchado.blogli.co.il](https://muchado.blogli.co.il)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Sabine Hossenfelder: Backreaction
+ - [http://backreaction.blogspot.co.il](http://backreaction.blogspot.co.il)
+ - date_published: 2024-06-30T06:00:00+00:00
+
+ ## Condensed concepts
+ - [http://condensedconcepts.blogspot.co.il](http://condensedconcepts.blogspot.co.il)
+ - date_published: 2024-06-30T07:22:54+00:00
+
+ ## עונג שבת (עונ"ש)
+ - [http://onegshabbat.blogspot.co.il](http://onegshabbat.blogspot.co.il)
+ - date_published: 2024-06-30T09:03:00+00:00
+
+ ## The Sandman
+ - [http://quietusleo.blogspot.co.il](http://quietusleo.blogspot.co.il)
+ - date_published: 2024-11-01T07:26:01+00:00
+
+ ## Blogger
+ - [http://seaspray-itsawonderfullife.blogspot.co.il](http://seaspray-itsawonderfullife.blogspot.co.il)
+ - date_published: 2024-12-13T06:00:28.121933+00:00
+
+ ## Boeing Israel
+ - [https://boeing.co.il](https://boeing.co.il)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## BOOSTAPP | מערכת לניהול סטודיו וחדרי כושר -
+ - [https://wp.boostapp.co.il](https://wp.boostapp.co.il)
+ - date_published: 2024-07-14T03:36:37.305242+00:00
+
+ ## הרחבת אחריות בוש | תיאום התקנה | אחריות מורחבת - BOSCH
+ - [https://marketing.bosch-home.co.il](https://marketing.bosch-home.co.il)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## מכשירים ביתיים איכותיים ובני קיימא | בוש
+ - [https://www.bosch-home.co.il](https://www.bosch-home.co.il)
+ - date_published: 2024-06-16T21:36:28.206341+00:00
+
+ ## עמוד הבית | Reshef - brother Israel
+ - [http://www.brother.co.il](http://www.brother.co.il)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## סמארטפונים, מחשבים, גאדג'טים ועוד - באג
+ - [https://www.bug.co.il](https://www.bug.co.il)
+ - date_published: 2024-11-08T13:07:57.281737+00:00
+
+ ## דף הבית | כלכליסט
+ - [https://calcalist.co.il](https://calcalist.co.il)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## דף הבית | כלכליסט
+ - [https://m.calcalist.co.il](https://m.calcalist.co.il)
+ - date_published: 2024-07-01T07:22:31.082293+00:00
+
+ ## newmedia.calcalist.co.il
+ - [https://newmedia.calcalist.co.il](https://newmedia.calcalist.co.il)
+ - date_published: 2023-09-07T09:48:12+00:00
+
+ ## קורסים אונליין קצרים, מעניינים ומומלצים מבית כלכליסט - הרצאות מעניינות לעובדים
+ - [https://study.calcalist.co.il](https://study.calcalist.co.il)
+ - date_published: 2024-07-01T07:22:18.161141+00:00
+
+ ## calcalist-conferences
+ - [https://www.calcalist-conferences.co.il](https://www.calcalist-conferences.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Capterra Israel helps you find the right software for your business
+ - [https://www.capterra.co.il](https://www.capterra.co.il)
+ - date_published: 2024-07-19T18:05:10.657741+00:00
+
+ ## כרמלה - משלוח פירות וירקות טריים ומוצרים איכותיים מהשוק עד הבית
+ - [https://www.carmella.co.il](https://www.carmella.co.il)
+ - date_published: 2024-12-26T13:36:52+00:00
+
+ ## חדשות רכב
+ - [https://www.cartube.co.il](https://www.cartube.co.il)
+ - date_published: 2024-10-28T19:36:13+00:00
+
+ ## כתום - קידום אתרים ושיווק אינטרנטי כמו שצריך
+ - [http://www.catom.co.il](http://www.catom.co.il)
+ - date_published: 2024-07-14T03:34:33.730192+00:00
+
+ ## Mild dermocosmetics for face and body care
+ - [https://www.cetaphil.co.il](https://www.cetaphil.co.il)
+ - date_published: 2024-10-30T23:02:40.202160+00:00
+
+ ## Jeep® Israel | ג׳יפ ישראל
+ - [https://www.chrysler.co.il](https://www.chrysler.co.il)
+ - date_published: 2024-06-19T08:59:30.068763+00:00
+
+ ## עמוד ראשי - סינמטק תל אביב
+ - [https://www.cinema.co.il](https://www.cinema.co.il)
+ - date_published: 2024-09-01T00:00:00+00:00
+
+ ## גלו את העולם של סיטרואן מגוון רכבים חדשים למכירה | Citroen Israel
+ - [https://citroen.co.il](https://citroen.co.il)
+ - date_published: 2024-05-08T05:30:18.595413+00:00
+
+ ## Linkbynet - En construction
+ - [https://www.citroenorigins.co.il](https://www.citroenorigins.co.il)
+ - date_published: 2018-04-18T13:00:13+00:00
+
+ ## כלל ביטוח ופיננסים - דף הבית
+ - [https://www.clalbit.co.il](https://www.clalbit.co.il)
+ - date_published: 2024-07-09T07:25:11.407853+00:00
+
+ ## Coca Cola
+ - [https://cocacola.co.il](https://cocacola.co.il)
+ - date_published: 2024-07-04T09:05:47.456203+00:00
+
+ ## Web Development Company | Codenroll
+ - [https://www.codenroll.co.il](https://www.codenroll.co.il)
+ - date_published: 2024-06-24T06:01:57.391497+00:00
+
+ ## More Than Tires - Continental EN
+ - [https://www.continental-tires.co.il](https://www.continental-tires.co.il)
+ - date_published: 2024-09-18T01:39:19.001003+00:00
+
+ ## Daniel Chen - Product Design: Branding, UI & UX Design
+ - [https://danielchen.co.il](https://danielchen.co.il)
+ - date_published: 2024-06-01T05:43:25.106449+00:00
+ - tags: ['shop']
+
+ ## אתר החדשות דבר | כלכלה, עבודה, בריאות וחברה
+ - [https://www.davar1.co.il](https://www.davar1.co.il)
+ - date_published: 2024-07-16T21:33:55+00:00
+
+ ## Discount Capital | דיסקונט קפיטל
+ - [https://www.dcapital.co.il](https://www.dcapital.co.il)
+ - date_published: 2024-10-06T17:00:57.657228+00:00
+
+ ## Decathlon Israel | Sports Shoes, Gear & Equipment
+ - [https://decathlon.co.il](https://decathlon.co.il)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## DigiKey
+ - [https://digikey.co.il](https://digikey.co.il)
+ - date_published: 2024-05-01T05:03:26.772501+00:00
+
+ ## דמרי - מהחזון ועד המפתח
+ - [https://www.dimri.co.il](https://www.dimri.co.il)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## developer.discountbank.co.il/openapi/openapi
+ - [https://developer.discountbank.co.il](https://developer.discountbank.co.il)
+ - date_published: 2024-10-06T17:01:11.253103+00:00
+
+ ## Investor Relations
+ - [https://investors.discountbank.co.il](https://investors.discountbank.co.il)
+ - date_published: 2024-06-16T12:34:48.393334+00:00
+
+ ## לקחת משכנתא בקלות | בנק דיסקונט
+ - [https://mortgage.discountbank.co.il](https://mortgage.discountbank.co.il)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## בנק דיסקונט לישראל
+ - [https://www.discountbank.co.il](https://www.discountbank.co.il)
+ - date_published: 2024-05-01T06:45:08.011771+00:00
+
+ ## Discount Tech - Home
+ - [https://www.discountech.co.il](https://www.discountech.co.il)
+ - date_published: 2024-06-16T12:34:38.337856+00:00
+
+ ## דיסני ישראל | הבית הרשמי של כל מה שדיסני
+ - [https://disney.co.il](https://disney.co.il)
+ - date_published: 2024-06-16T01:50:45.132847+00:00
+
+ ## בניית אתרים עם מומחים ~ דיביין אתרים ~ בניית, עיצוב ופיתוח אתרים בחכמה
+ - [https://www.divinesites.co.il](https://www.divinesites.co.il)
+ - date_published: 2021-05-09T11:32:44+00:00
+
+ ## דוקטורס אונלי Doctors Only | חדשות רפואה | מידע לכל רופא | רשת הרופאים בישראל
+ - [https://doctorsonly.co.il](https://doctorsonly.co.il)
+ - date_published: 2024-07-16T12:21:48+00:00
+
+ ## האיגוד הישראלי לראומטולוגיה | The Israeli Society of Rheumatology
+ - [https://rheumatology.doctorsonly.co.il](https://rheumatology.doctorsonly.co.il)
+ - date_published: 2024-06-28T12:04:44+00:00
+
+ ## ראם ישראל  | RAM Israel
+ - [http://www.dodge.co.il](http://www.dodge.co.il)
+ - date_published: 2024-06-19T09:00:31.871377+00:00
+
+ ## סקירה כללית
+ - [https://downdetector.co.il](https://downdetector.co.il)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## דרושים IL- חיפוש עבודה בחינם, גיוס עובדים
+ - [https://www.drushim.co.il](https://www.drushim.co.il)
+ - date_published: 2024-09-17T17:54:54.875462+00:00
+
+ ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
+ - [https://www.duracell.co.il](https://www.duracell.co.il)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## דייסון ישראל | האתר הרשמי | Dyson Israel
+ - [https://www.dyson.co.il](https://www.dyson.co.il)
+ - date_published: 2024-07-07T01:57:31.342083+00:00
+
+ ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
+ - [http://www.epochtimes.co.il](http://www.epochtimes.co.il)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## דף הבית - ערן שטרן
+ - [https://eranstern.co.il](https://eranstern.co.il)
+ - date_published: 2023-11-17T15:06:30+00:00
+ - tags: ['personal']
+
+ ## אתר הקורסים של ערן שטרן
+ - [https://school.eranstern.co.il](https://school.eranstern.co.il)
+ - date_published: 2024-08-18T13:06:28.173922+00:00
+
+ ## אשכולות | שומרים על זכויות האמנים המבצעים בישראל
+ - [https://eshkolot.co.il](https://eshkolot.co.il)
+ - date_published: 2024-08-11T13:52:36.456896+00:00
+
+ ## חנות אינטרנטית עם ממשק ידידותי בעברית ופיצ'רים מתקדמים | E-shop
+ - [https://www.e-shop.co.il](https://www.e-shop.co.il)
+ - date_published: 2024-07-14T03:35:18.373421+00:00
+
+ ## כרטיסים להופעות, מופעים, בידור, תאטרון וספורט - Eventim
+ - [https://www.eventim.co.il](https://www.eventim.co.il)
+ - date_published: 2024-07-20T14:52:44.665232+00:00
+
+ ## face 2 face - פתרונות אינטרנט מתקדמים - בניית אתרים | פרסום ושיווק באינטרנט
+ - [https://f2f.co.il](https://f2f.co.il)
+ - date_published: 2024-06-21T19:04:31.608608+00:00
+
+ ## Home - FANUC Academy
+ - [https://fanuc-academy.co.il](https://fanuc-academy.co.il)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## פיתוח אתרים ומערכות ידע | Fatfish
+ - [https://www.fatfish.co.il](https://www.fatfish.co.il)
+ - date_published: 2024-07-01T08:37:44+00:00
+
+ ## FATLADY | A boutique home for websites and apps by Elad Ziv
+ - [http://www.fatlady.co.il](http://www.fatlady.co.il)
+ - date_published: 2024-06-28T19:26:39.556919+00:00
+
+ ## Point of View
+ - [http://blog.fdesign.co.il](http://blog.fdesign.co.il)
+ - date_published: 2024-03-19T21:24:46+00:00
+
+ ## Feuerstein Design – Visual Branding
+ - [https://cdn.fdesign.co.il](https://cdn.fdesign.co.il)
+ - date_published: 2024-06-20T16:51:29+00:00
+
+ ## Feuerstein Design – Visual Branding
+ - [https://www.fdesign.co.il](https://www.fdesign.co.il)
+ - date_published: 2024-05-04T14:44:39.067585+00:00
+
+ ## פיאט ישראל האתר הרשמי | Fiat Israel Official Website
+ - [https://www.fiat.co.il](https://www.fiat.co.il)
+ - date_published: 2024-06-16T09:36:02+00:00
+
+ ## פורבס ישראל - המגזין העסקי המוביל בעולם
+ - [https://forbes.co.il](https://forbes.co.il)
+ - date_published: 2024-05-08T05:59:02.261728+00:00
+
+ ## אתר הנוער של ישראל
+ - [https://frogi.co.il](https://frogi.co.il)
+ - date_published: 2024-05-09T04:02:31.227539+00:00
+
+ ## אתר הנוער של ישראל
+ - [https://s.frogi.co.il](https://s.frogi.co.il)
+ - date_published: 2024-07-09T07:16:29.056501+00:00
+
+ ## גל עיצוב, הקמה וקידום אתרי אינטרנט
+ - [http://gald.co.il](http://gald.co.il)
+ - date_published: 2024-08-11T23:59:36.467090+00:00
+
+ ## גלעד לזכרם - אוניברסיטת בר אילן
+ - [https://biu.gal-ed.co.il](https://biu.gal-ed.co.il)
+ - date_published: 2024-08-07T15:12:06.566990+00:00
+
+ ## גרנייה ישראל - Garnier | צבעי שיער, ניקוי וטיפוח הפנים והגוף
+ - [https://garnier.co.il](https://garnier.co.il)
+ - date_published: 2024-10-30T17:02:30.361049+00:00
+
+ ## דף הבית - Gav-Yam Negev
+ - [https://gavyam-negev.co.il](https://gavyam-negev.co.il)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## The Less Interesting Times
+ - [http://eran.geek.co.il](http://eran.geek.co.il)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Things n' Stuff
+ - [https://geek.co.il](https://geek.co.il)
+ - date_published: 2024-05-02T11:41:46.288813+00:00
+
+ ## GIANT ישראל היבואן הרשמי והבלעדי - אופניים ואביזרים לרוכב
+ - [https://giant-bike.co.il](https://giant-bike.co.il)
+ - date_published: 2024-09-18T02:00:38.495294+00:00
+
+ ## Gilead Sciences
+ - [https://www.gileadisrael.co.il](https://www.gileadisrael.co.il)
+ - date_published: 2024-07-02T04:08:09.086947+00:00
+
+ ## Globes - Israel Business News
+ - [https://en.globes.co.il](https://en.globes.co.il)
+ - date_published: 2024-02-27T00:00:00+00:00
+ - tags: ['business news', 'israel news']
+
+ ## גלובס זירת העסקים של ישראל
+ - [https://globes.co.il](https://globes.co.il)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Google ספרים
+ - [https://books.google.co.il](https://books.google.co.il)
+ - date_published: 2024-05-01T03:14:23.131177+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.co.il](https://maps.google.co.il)
+ - date_published: 2024-07-20T07:39:58.456982+00:00
+
+ ## Google Scholar
+ - [https://scholar.google.co.il](https://scholar.google.co.il)
+ - date_published: 2024-04-28T03:45:43.984695+00:00
+
+ ## Google
+ - [https://www.google.co.il](https://www.google.co.il)
+ - date_published: 2024-06-21T22:25:16.126625+00:00
+
+ ## Great Place To Work
+ - [https://www.greatplacetowork.co.il](https://www.greatplacetowork.co.il)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## בניית אתרים באר שבע, קידום פייסבוק באר שבע, קידום גוגל באר שבע, עיצוב לוגו, עיצוב כרטיס ביקור באר שבע, משרד פרסום באר שבע
+ - [https://greenlime.co.il](https://greenlime.co.il)
+ - date_published: 2024-07-14T03:36:40.286631+00:00
+
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [https://gif.haarets.co.il](https://gif.haarets.co.il)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## הארץ - חדשות, ידיעות מהארץ והעולם - עיתון הארץ
+ - [https://img.haarets.co.il](https://img.haarets.co.il)
+ - date_published: 2023-12-04T15:32:28.521089+00:00
+
+ ## הארץ - חדשות, ידיעות מהארץ והעולם - עיתון הארץ
+ - [https://haaretz.co.il](https://haaretz.co.il)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## התחברות
+ - [https://login.haaretz.co.il](https://login.haaretz.co.il)
+ - date_published: 2024-05-10T05:56:53.066450+00:00
+
+ ## מינוי לאתר הארץ
+ - [https://promotion.haaretz.co.il](https://promotion.haaretz.co.il)
+ - date_published: 2024-05-10T05:57:03.676155+00:00
+
+ ## מינוי לאתר הארץ
+ - [https://promotions.haaretz.co.il](https://promotions.haaretz.co.il)
+ - date_published: 2024-07-12T18:41:33.225421+00:00
+
+ ## הכי חם - המקום הכי חם
+ - [https://ha-makom.co.il](https://ha-makom.co.il)
+ - date_published: 2024-10-27T11:07:59.449995+00:00
+
+ ## מחשבוני שער יציג, שערי מט"ח ושערי חליפין ידידותיים וקלים לשימוש – המרה
+ - [https://www.hamara.co.il](https://www.hamara.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## השולחן
+ - [https://hashulchan.co.il](https://hashulchan.co.il)
+ - date_published: 2024-10-20T21:36:58.098792+00:00
+
+ ## Home - Herz Brand Communications & Advertising
+ - [https://herz.co.il](https://herz.co.il)
+ - date_published: 2024-06-21T21:13:40+00:00
+
+ ## Homepage
+ - [https://www.hilti.co.il](https://www.hilti.co.il)
+ - date_published: 2024-06-20T07:27:20.997798+00:00
+
+ ## כל הטיסות וכל המלונות באתר אחד ובמחיר הכי משתלם | holidayfinder
+ - [https://www.holidayfinder.co.il](https://www.holidayfinder.co.il)
+ - date_published: 2024-08-11T13:52:20.987282+00:00
+
+ ## התחבר אל Hostinger
+ - [https://auth.hostinger.co.il](https://auth.hostinger.co.il)
+ - date_published: 2024-07-13T16:34:29.556214+00:00
+
+ ## פלטפורמת אחסון אתרים שנבנתה בשבילכם - השיקו אתר עם Hostinger
+ - [https://hostinger.co.il](https://hostinger.co.il)
+ - date_published: 2024-05-11T07:49:42.082202+00:00
+
+ ## Cierpliwości...
+ - [http://hwzone.co.il](http://hwzone.co.il)
+ - date_published: 2024-06-29T17:09:00.705370+00:00
+
+ ## ראשי - טיפול במערכות מים - פטנט עולמי מוגן - ידידותי לסביבה - כנסו
+ - [https://hydroflow-israel.co.il](https://hydroflow-israel.co.il)
+ - date_published: 2024-10-06T12:15:36+00:00
+
+ ## כלי לבדיקת IBAN: אימות מספר חשבון בינלאומי
+ - [https://www.iban.co.il](https://www.iban.co.il)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## ככה מחליטים על רכב
+ - [https://icar.co.il](https://icar.co.il)
+ - date_published: 2024-05-09T04:02:27.443312+00:00
+
+ ## energy chains, polymer bearings, flexible cable, &amp; linear slides
+ - [https://www.igus.co.il](https://www.igus.co.il)
+ - date_published: 2024-08-06T23:11:53.392218+00:00
+
+ ## כלים פשוטים לבניית מוצרים מעוליםs - אינפלקטרה ישראל
+ - [http://www.inflectra.co.il](http://www.inflectra.co.il)
+ - date_published: 2023-09-03T23:49:35+00:00
+
+ ## שיווק ומכירות באינטרנט לעסקים -
+ - [http://www.internetsuccess.co.il](http://www.internetsuccess.co.il)
+ - date_published: 2024-12-15T10:37:55.709089+00:00
+
+ ## משחק קלפים לחיזוק ולהעמקת האינטימיות - In.To.Me.You.See
+ - [https://intimacy.co.il](https://intimacy.co.il)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## IQC | המכון לבקרה ואיכות
+ - [https://www.iqc.co.il](https://www.iqc.co.il)
+ - date_published: 2024-07-13T18:33:41+00:00
+
+ ## מלגת ארתקא
+ - [https://irteka.co.il](https://irteka.co.il)
+ - date_published: 2024-07-14T03:34:26.844217+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.israeldefense.co.il](https://www.israeldefense.co.il)
+ - date_published: 2024-09-02T11:48:55.587579+00:00
+
+ ## Israel HLS&CYBER 2022 - The International Conference & Exhibition
+ - [https://hls-cyber-2022.israel-expo.co.il](https://hls-cyber-2022.israel-expo.co.il)
+ - date_published: 2024-09-02T11:48:59.686733+00:00
+
+ ## עיתון ישראל היום
+ - [https://digital-edition.israelhayom.co.il](https://digital-edition.israelhayom.co.il)
+ - date_published: 2024-08-18T11:08:51.069093+00:00
+
+ ## חדשות, דעות, תרבות, ספורט, כלכלה מהארץ והעולם | ישראל היום
+ - [https://israelhayom.co.il](https://israelhayom.co.il)
+ - date_published: 2023-12-09T19:39:09.657744+00:00
+
+ ## Israeli Diamond Industry
+ - [https://en.israelidiamond.co.il](https://en.israelidiamond.co.il)
+ - date_published: 2024-01-24T20:54:31.768580+00:00
+
+ ## מכון היהלומים הישראלי - פורטל יהלומים הגדול בישראל
+ - [https://www.israelidiamond.co.il](https://www.israelidiamond.co.il)
+ - date_published: 2024-08-17T23:13:32.672159+00:00
+
+ ## Israel Today - News & Commentary. Stay Informed, Pray Informed.
+ - [https://israeltoday.co.il](https://israeltoday.co.il)
+ - date_published: 2023-11-09T09:15:33.642354+00:00
+ - tags: ['israel news']
+
+ ## דף הבית - IsraelTravel
+ - [http://israeltravel.co.il](http://israeltravel.co.il)
+ - date_published: 2024-10-21T21:57:46.926551+00:00
+
+ ## JD Sports ישראל - רשת אופנת הספורט הבינלאומית
+ - [https://www.jdsports.co.il](https://www.jdsports.co.il)
+ - date_published: 2024-10-21T02:19:20.869682+00:00
+
+ ## Jeep® Israel | ג׳יפ ישראל
+ - [https://www.jeep.co.il](https://www.jeep.co.il)
+ - date_published: 2024-06-19T09:00:36.851409+00:00
+
+ ## Real Estate Advisors & Professionals | JLL
+ - [https://www.jll.co.il](https://www.jll.co.il)
+ - date_published: 2024-10-30T21:39:12.411984+00:00
+
+ ## JLMBOX - Products from Israel
+ - [https://jlmbox.co.il](https://jlmbox.co.il)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## לימוד אנגלית וקורסי אנגלית בקלי קלות | ג'רוזלם פוסט לייט
+ - [http://www.jpostlite.co.il](http://www.jpostlite.co.il)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## קפלן ייעוץ קוד פתוח
+ - [https://kaplanopensource.co.il](https://kaplanopensource.co.il)
+ - date_published: 2024-12-12T17:31:49+00:00
+
+ ## Kimai Time-Tracking
+ - [https://www.kimai.co.il](https://www.kimai.co.il)
+ - date_published: 2024-10-29T20:40:02+00:00
+
+ ## לנד רובר | רכבי ריינג' רובר, דיפנדר ודיסקברי למכירה | Land Rover
+ - [https://www.landrover.co.il](https://www.landrover.co.il)
+ - date_published: 2024-07-09T17:14:52.283614+00:00
+
+ ## להפוך להיות מוביל, מומחה ומנהיג בתחומך! (חדש) - האקדמיה למובילים ומנהיגים עסקיים
+ - [https://leadersacademy.co.il](https://leadersacademy.co.il)
+ - date_published: 2024-08-18T13:06:30.983472+00:00
+
+ ## Teaching Python and data science around the world
+ - [https://lerner.co.il](https://lerner.co.il)
+ - date_published: 2023-10-27T11:57:12.193154+00:00
+ - tags: ['personal']
+
+ ## לוונשטיין טכנולוגיות: פתרונות הנדסה ומערכות אלקטרו מכאניות
+ - [https://www.l-tech.co.il](https://www.l-tech.co.il)
+ - date_published: 2022-12-13T18:51:06+00:00
+
+ ## LTU Media | Leave it to us
+ - [https://ltu.co.il](https://ltu.co.il)
+ - date_published: 2023-11-29T15:23:30+00:00
+
+ ## חדשות היום, כלכלה, ספורט, רכילות, בריאות, טכנולוגיה | מעריב
+ - [https://www.maariv.co.il](https://www.maariv.co.il)
+ - date_published: 2024-08-18T15:08:42.640078+00:00
+
+ ## מכבי שירותי בריאות
+ - [https://www.maccabi4u.co.il](https://www.maccabi4u.co.il)
+ - date_published: 2024-07-09T07:21:12+00:00
+
+ ## | Fashion Forward | אופנה
+ - [https://fashionforward.mako.co.il](https://fashionforward.mako.co.il)
+ - date_published: 2024-08-11T13:52:08.354987+00:00
+
+ ## היטליסט: מצעד המוזיקה של ישראל mako
+ - [https://hitlist.mako.co.il](https://hitlist.mako.co.il)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Error
+ - [https://img.mako.co.il](https://img.mako.co.il)
+ - date_published: 2024-08-11T13:52:31.271818+00:00
+
+ ## mako חדשות. בידור. טלוויזיה
+ - [https://mako.co.il](https://mako.co.il)
+ - date_published: 2024-02-25T21:52:04+00:00
+
+ ## Error
+ - [https://rcs.mako.co.il](https://rcs.mako.co.il)
+ - date_published: 2024-08-11T13:52:24.007059+00:00
+
+ ## שירונט - מילים לשירים מוזיקה ישראלית ולועזית
+ - [https://shironet.mako.co.il](https://shironet.mako.co.il)
+ - date_published: 2024-08-11T13:52:32.633801+00:00
+
+ ## מאקו ספיישל פרוייקטים מיוחדים מבית מאקו
+ - [https://makospecial.co.il](https://makospecial.co.il)
+ - date_published: 2024-08-11T13:52:16.690163+00:00
+
+ ## מסטרפונט - פונטים בעברית
+ - [https://www.masterfont.co.il](https://www.masterfont.co.il)
+ - date_published: 2024-10-29T14:02:46.895750+00:00
+
+ ## דף הבית  מטר
+ - [https://www.matarbooks.co.il](https://www.matarbooks.co.il)
+ - date_published: 2024-07-11T10:51:32.746196+00:00
+
+ ## Medic | אינדקס התרופות המקצועי של קהילת הרופאים והרוקחים בישראל
+ - [https://medic.co.il](https://medic.co.il)
+ - date_published: 2024-07-16T21:35:37.892779+00:00
+
+ ## רשת רפואה MEDNET | חדשות רפואה | מידע לכל רופא | אתר הרופאים של ישראל
+ - [https://mednet.co.il](https://mednet.co.il)
+ - date_published: 2024-07-15T13:53:07+00:00
+
+ ## מדוזות בעם
+ - [https://www.meduzot.co.il](https://www.meduzot.co.il)
+ - date_published: 2024-07-09T07:25:52.646468+00:00
+
+ ## בנק מרכנתיל לקוחות פרטיים
+ - [https://www.mercantile.co.il](https://www.mercantile.co.il)
+ - date_published: 2024-06-16T12:34:51.954633+00:00
+
+ ## כרטיס האשראי מרכנתיל סמייל-בנק מרכנתיל | מגוון הטבות לבעלי כרטיס האשראי מרכנתיל סמייל של בנק מרכנתיל
+ - [https://www.mercantilesmile.co.il](https://www.mercantilesmile.co.il)
+ - date_published: 2024-10-06T17:01:27.235040+00:00
+
+ ## מגדל: חברת ביטוח, פנסיה, פיננסים, השקעות, וחיסכון
+ - [https://www.migdal.co.il](https://www.migdal.co.il)
+ - date_published: 2024-07-09T07:25:27.031645+00:00
+
+ ## Mobilunity - Dedicated Development Teams Provider
+ - [https://mobilunity.co.il](https://mobilunity.co.il)
+ - date_published: 2019-09-16T07:52:58+00:00
+
+ ## Private tour guide in Israel & Jerusalem | The holy land | Morris Tzemach
+ - [https://morris.co.il](https://morris.co.il)
+ - date_published: 2024-06-27T08:07:52.969659+00:00
+
+ ## Electronic Components Distributor - Mouser Electronics Israel
+ - [https://www.mouser.co.il](https://www.mouser.co.il)
+ - date_published: 2024-07-01T20:54:48.497157+00:00
+
+ ## מוזי עיצוב אתרים | סטודיו למיתוג ובניית אתרים
+ - [http://mozinteractive.co.il](http://mozinteractive.co.il)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## My Dance World Studio סטודיו לריקוד – סטודיו הריקוד הגדול בדרום בהנהלת מיתר בשרן
+ - [https://mydanceworldstudio.co.il](https://mydanceworldstudio.co.il)
+ - date_published: 2024-07-10T06:25:35+00:00
+
+ ## אילן יוחסין בחינם, גנאלוגיה, היסטוריה משפחתית ובדיקות דנ''א
+ - [https://www.myheritage.co.il](https://www.myheritage.co.il)
+ - date_published: 2024-10-30T07:56:34.979176+00:00
+
+ ## mynetbatyam - חדשות בת ים - מיינט בת ים
+ - [https://batyam.mynet.co.il](https://batyam.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetbeersheva - חדשות באר שבע - מיינט באר שבע
+ - [https://beersheva.mynet.co.il](https://beersheva.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetafula - חדשות העמק - מיינט העמק
+ - [https://emek.mynet.co.il](https://emek.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynethadera - חדשות חדרה - מיינט חדרה
+ - [https://hadera.mynet.co.il](https://hadera.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynethaifa - מיינט חיפה - חדשות חיפה
+ - [https://haifa.mynet.co.il](https://haifa.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetherzliya - חדשות הרצליה - מיינט הרצליה
+ - [https://herzliya.mynet.co.il](https://herzliya.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynethodhasharon - חדשות הוד השרון - מיינט הוד השרון
+ - [https://hodhasharon.mynet.co.il](https://hodhasharon.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetholon - חדשות חולון - מיינט חולון
+ - [https://holon.mynet.co.il](https://holon.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetjerusalem - חדשות ירושלים - מיינט ירושלים
+ - [https://jerusalem.mynet.co.il](https://jerusalem.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetkfarsaba - חדשות כפר סבא - מיינט כפר סבא
+ - [https://kfarsaba.mynet.co.il](https://kfarsaba.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetkibbutz - חדשות קיבוץ - מיינט קיבוץ
+ - [https://kibbutz.mynet.co.il](https://kibbutz.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetkrayot - חדשות קריות - מיינט קריות
+ - [https://krayot.mynet.co.il](https://krayot.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetmodiin - חדשות מודיעין - מיינט מודיעין
+ - [https://modiin.mynet.co.il](https://modiin.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynet - מיינט - mynet - חדשות מקומיות
+ - [https://mynet.co.il](https://mynet.co.il)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## mynetnetanya - חדשות נתניה - מיינט נתניה
+ - [https://netanya.mynet.co.il](https://netanya.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetpetahtikva - חדשות פתח תקוה - מיינט פתח תקוה
+ - [https://petahtikva.mynet.co.il](https://petahtikva.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetprojects - מיינט פרוייקטים
+ - [https://projects.mynet.co.il](https://projects.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetraanana - חדשות רעננה - מיינט רעננה
+ - [https://raanana.mynet.co.il](https://raanana.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetrehovot - חדשות רחובות - מיינט רחובות
+ - [https://rehovot.mynet.co.il](https://rehovot.mynet.co.il)
+ - date_published: 2024-05-09T00:00:00+00:00
+
  ## mynetrishon - חדשות ראשון לציון - מיינט ראשון לציון
  - [https://rishon.mynet.co.il](https://rishon.mynet.co.il)
  - date_published: 2024-05-09T00:00:00+00:00
@@ -2968,1053 +4017,4 @@ Indian Institute of Science, Bangalore
  ## COE IIT Patna
  - [https://coe.iitp.ac.in](https://coe.iitp.ac.in)
  - date_published: 2024-12-24T15:43:30.260458+00:00
-
- ## Indian Institute of Technology, Patna
- - [https://iitp.ac.in](https://iitp.ac.in)
- - date_published: 2024-09-11T17:50:20+00:00
-
- ## Home
- - [https://library.iitp.ac.in](https://library.iitp.ac.in)
- - date_published: 2024-12-24T15:41:26+00:00
-
- ## Academic Information System
- - [https://academics.iitr.ac.in](https://academics.iitr.ac.in)
- - date_published: 2024-06-21T12:37:32+00:00
-
- ## IIS Windows Server
- - [https://almamater.iitr.ac.in](https://almamater.iitr.ac.in)
- - date_published: 2020-10-04T13:55:43+00:00
-
- ## DORA Office
- - [https://alumni.iitr.ac.in](https://alumni.iitr.ac.in)
- - date_published: 2024-06-21T11:25:40+00:00
-
- ## BIS Corner – IIT Roorkee
- - [https://biscorner.iitr.ac.in](https://biscorner.iitr.ac.in)
- - date_published: 2024-06-22T11:41:06.732911+00:00
-
- ## Landing Page
- - [https://bt.iitr.ac.in](https://bt.iitr.ac.in)
- - date_published: 2024-09-11T11:26:25+00:00
-
- ## Counselling Portal
- - [http://counselling.iitr.ac.in](http://counselling.iitr.ac.in)
- - date_published: 2021-06-02T12:19:55+00:00
-
- ## JEE Opening Closing ranks for IITs and NITs
- - [https://cutoffs.iitr.ac.in](https://cutoffs.iitr.ac.in)
- - date_published: 2022-12-27T21:13:47+00:00
-
- ## dinc, grivance, suggestion, gallery, diversity, Inclusion, Committee, IIT, roorkee, IITR, Dinc, DInC, dinc.iitr.ac.in, iitr.ac.in,
- - [https://dinc.iitr.ac.in](https://dinc.iitr.ac.in)
- - date_published: 2024-06-22T11:40:33.386378+00:00
-
- ## Academic Documents Request | IITR
- - [https://documentacad.iitr.ac.in](https://documentacad.iitr.ac.in)
- - date_published: 2024-06-21T06:55:42+00:00
-
- ## EICT Academy - eict.iitr.ac.in
- - [https://eict.iitr.ac.in](https://eict.iitr.ac.in)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home | Expectations IIT Roorkee
- - [https://expectations.iitr.ac.in](https://expectations.iitr.ac.in)
- - date_published: 2021-10-31T11:12:36+00:00
-
- ## Finance & Accounts Office, IITR
- - [https://finance.iitr.ac.in](https://finance.iitr.ac.in)
- - date_published: 2024-06-22T11:32:28.888432+00:00
- - date_dead_since: 2024-12-24T15:52:54.831473+00:00
-
- ## GATE 2025 | Graduate Aptitude Test in Engineering (GATE)
- - [https://gate2025.iitr.ac.in](https://gate2025.iitr.ac.in)
- - date_published: 2024-11-26T07:17:56+00:00
-
- ## Geek Gazette
- - [https://geekgazette.iitr.ac.in](https://geekgazette.iitr.ac.in)
- - date_published: 2024-12-24T15:52:38.353982+00:00
-
- ## IIT ROORKEE GUEST HOUSE RESERVATION SYSTEM
- - [https://ghbooking.iitr.ac.in](https://ghbooking.iitr.ac.in)
- - date_published: 2024-06-22T11:32:06.639736+00:00
-
- ## GNEC IITR
- - [https://gnec.iitr.ac.in](https://gnec.iitr.ac.in)
- - date_published: 2024-06-22T11:31:22.309314+00:00
-
- ## i-Connect
- - [https://iconnect.iitr.ac.in](https://iconnect.iitr.ac.in)
- - date_published: 2024-06-22T11:31:26.941083+00:00
- - date_dead_since: 2024-12-24T15:56:37.458863+00:00
-
- ## Indian Institute of Technology Roorkee
- - [https://iitr.ac.in](https://iitr.ac.in)
- - date_published: 2024-05-04T15:42:45.009337+00:00
-
- ## Home - IPR
- - [https://ipr.iitr.ac.in](https://ipr.iitr.ac.in)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## IITR | IR | International Relations
- - [https://ir.iitr.ac.in](https://ir.iitr.ac.in)
- - date_published: 2024-06-22T11:31:42.432264+00:00
-
- ## JAM 2022
- - [https://jam.iitr.ac.in](https://jam.iitr.ac.in)
- - date_published: 2024-09-22T11:02:36+00:00
-
- ## LHCC Booking System
- - [https://lhcbooking.iitr.ac.in](https://lhcbooking.iitr.ac.in)
- - date_published: 2024-05-30T11:27:48+00:00
-
- ## Home
- - [https://liaisoncellscst.iitr.ac.in](https://liaisoncellscst.iitr.ac.in)
- - date_published: 2024-06-22T11:40:40.521503+00:00
-
- ## Mahatma Gandhi Central Library, IIT Roorkee
- - [https://mgcl.iitr.ac.in](https://mgcl.iitr.ac.in)
- - date_published: 2024-03-20T08:25:52+00:00
-
- ## Material Management
- - [https://mm.iitr.ac.in](https://mm.iitr.ac.in)
- - date_published: 2024-06-22T11:40:14.342626+00:00
-
- ## Email | IITR
- - [https://newwebmail.iitr.ac.in](https://newwebmail.iitr.ac.in)
- - date_published: 2024-06-22T11:40:50.155541+00:00
-
- ## IIT Roorkee Fees Payment Portal
- - [https://payment.iitr.ac.in](https://payment.iitr.ac.in)
- - date_published: 2022-06-04T19:11:36+00:00
-
- ## Online Academic
-    Support and Information System
- - [https://queryportal.iitr.ac.in](https://queryportal.iitr.ac.in)
- - date_published: 2024-06-06T10:21:57+00:00
-
- ## Srishti 2019 | IIT Roorkee
- - [https://srishti.iitr.ac.in](https://srishti.iitr.ac.in)
- - date_published: 2020-03-12T14:45:36+00:00
-
- ## Homepage
- - [https://step2025.iitr.ac.in](https://step2025.iitr.ac.in)
- - date_published: 2024-12-24T15:58:06.347062+00:00
-
- ## TIDES IIT Roorkee: Fostering Innovation and Entrepreneurship
- - [https://tides.iitr.ac.in](https://tides.iitr.ac.in)
- - date_published: 2024-12-24T16:02:36.849853+00:00
-
- ## Technology Development | Human Resources | Technology Incubation | Startups, and international collaborative research - iHub DivyaSampark
- - [https://tih.iitr.ac.in](https://tih.iitr.ac.in)
- - date_published: 2024-06-22T11:32:39.015402+00:00
-
- ## Wellness Centre – Express ● Engage ● Emerge
- - [https://wellness.iitr.ac.in](https://wellness.iitr.ac.in)
- - date_published: 2024-06-22T11:31:45.546579+00:00
-
- ## The Official Alumni Network of Indian Institute of Technology Ropar
- - [https://alumniconnect.iitrpr.ac.in](https://alumniconnect.iitrpr.ac.in)
- - date_published: 2024-12-24T16:43:37.287248+00:00
-
- ## Indian Institute of Technology Ropar | भारतीय प्रौद्योगिकी संस्थान रोपड़
- - [https://iitrpr.ac.in](https://iitrpr.ac.in)
- - date_published: 2024-09-11T11:51:49+00:00
-
- ## Home
- - [https://mech.iitrpr.ac.in](https://mech.iitrpr.ac.in)
- - date_published: 2024-12-24T16:43:43.894781+00:00
-
- ## IIT Ropar / Materials
- - [https://mme.iitrpr.ac.in](https://mme.iitrpr.ac.in)
- - date_published: 2024-12-24T16:43:46.488060+00:00
-
- ## Home | Council of Indian Institute of Technology
- - [https://iitsystem.ac.in](https://iitsystem.ac.in)
- - date_published: 2024-06-22T11:41:09.625374+00:00
-
- ## IITTirupati - Home Page
- - [http://www.iittp.ac.in](http://www.iittp.ac.in)
- - date_published: 2024-12-24T16:45:50.818443+00:00
-
- ## e-PGPathshala
- - [https://epgp.inflibnet.ac.in](https://epgp.inflibnet.ac.in)
- - date_published: 2024-09-11T17:28:19.483660+00:00
-
- ## ETD 2023
- - [https://etd2023.inflibnet.ac.in](https://etd2023.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:53.957022+00:00
-
- ## INFLIBNET Centre Gandhinagar
- - [https://inflibnet.ac.in](https://inflibnet.ac.in)
- - date_published: 2024-12-24T16:52:34.044054+00:00
-
- ## ShodhShuddhi | Enhancing Research Quality
- - [https://pds.inflibnet.ac.in](https://pds.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:33.956210+00:00
-
- ## Shodhganga : a reservoir of Indian theses @ INFLIBNET
- - [https://shodhganga.inflibnet.ac.in](https://shodhganga.inflibnet.ac.in)
- - date_published: 2024-05-06T13:41:13.342135+00:00
-
- ## ShodhShuddhi | Enhancing Research Quality
- - [https://shodhshuddhi.inflibnet.ac.in](https://shodhshuddhi.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:46.629772+00:00
-
- ## UGC MOOCs |SWAYAM| UG AND PG COURSE
- - [https://ugcmoocs.inflibnet.ac.in](https://ugcmoocs.inflibnet.ac.in)
- - date_published: 2024-09-11T17:36:47.207835+00:00
-
- ## INFLIBNET Centre Gandhinagar
- - [https://www.inflibnet.ac.in](https://www.inflibnet.ac.in)
- - date_published: 2024-12-24T12:16:08.298120+00:00
-
- ## Indian Statistical Institute
- - [https://www.isical.ac.in](https://www.isical.ac.in)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Indian Statistical Institute | North-East Centre
- - [http://www.isine.ac.in](http://www.isine.ac.in)
- - date_published: 2024-12-24T17:02:39.444409+00:00
-
- ## ITM Vocational University Vadodara: Top University in Baroda Gujarat
- - [http://itm.ac.in](http://itm.ac.in)
- - date_published: 2024-07-19T17:36:24+00:00
-
- ## Center for Distance Education | JAIN (Deemed-to-be University)
- - [https://cde.jainuniversity.ac.in](https://cde.jainuniversity.ac.in)
- - date_published: 2024-12-24T17:05:18.747154+00:00
-
- ## Best University in Bangalore | Jain (Deemed-to-be University)
- - [https://events.jainuniversity.ac.in](https://events.jainuniversity.ac.in)
- - date_published: 2024-12-24T17:04:55.480594+00:00
-
- ## Top (Aerospace Engineering) Colleges in Bangalore, India | IIAEM
- - [https://iiaem.jainuniversity.ac.in](https://iiaem.jainuniversity.ac.in)
- - date_published: 2024-07-10T06:58:35+00:00
-
- ## Best University in Bangalore | JAIN (Deemed-to-be University)
- - [https://jainuniversity.ac.in](https://jainuniversity.ac.in)
- - date_published: 2024-07-14T09:57:11.757195+00:00
-
- ## School of Allied Healthcare & Sciences | JAIN (Deemed-to-be University)
- - [https://sahs.jainuniversity.ac.in](https://sahs.jainuniversity.ac.in)
- - date_published: 2024-12-24T17:04:52.795980+00:00
-
- ## JU-FET | One of the Top Engineering Colleges in Bangalore
- - [https://set.jainuniversity.ac.in](https://set.jainuniversity.ac.in)
- - date_published: 2024-12-24T17:04:58.865993+00:00
-
- ## JEE (Advanced) 2024
- - [https://jeeadv.ac.in](https://jeeadv.ac.in)
- - date_published: 2024-07-27T08:47:23+00:00
-
- ## Official Website of Jamia Millia Islamia - Jamia
- - [https://jmi.ac.in](https://jmi.ac.in)
- - date_published: 2024-09-11T17:46:55.381289+00:00
-
- ## Jawaharlal Nehru University
- - [https://jnu.ac.in](https://jnu.ac.in)
- - date_published: 2024-09-11T17:57:50.162014+00:00
-
- ## Welcome to Jagat Taran Girls' Degree College - A Constituent Post Graduate College of University of Allahabad.
- - [http://jtgdc.ac.in](http://jtgdc.ac.in)
- - date_published: 2024-12-24T12:14:10.558931+00:00
-
- ## University of Kerala
- - [https://keralauniversity.ac.in](https://keralauniversity.ac.in)
- - date_published: 2024-10-15T14:21:02.123410+00:00
-
- ## K.P. Training College – A Constituent College of University of Allahabad, Prayagraj
- - [https://kptc.ac.in](https://kptc.ac.in)
- - date_published: 2024-12-24T12:16:13.897276+00:00
-
- ## Experience Excellence, Transformative Research & Innovation
- - [http://lnmiit.ac.in](http://lnmiit.ac.in)
- - date_published: 2024-12-24T17:17:02.470693+00:00
-
- ## SPACE 2022
- - [https://space2022.lnmiit.ac.in](https://space2022.lnmiit.ac.in)
- - date_published: 2023-12-02T12:13:54+00:00
-
- ## Experience Excellence, Transformative Research & Innovation
- - [https://www.lnmiit.ac.in](https://www.lnmiit.ac.in)
- - date_published: 2024-12-24T17:16:57.793090+00:00
-
- ## Mahatma International School | CBSE
- - [http://www.mahatmainternational.ac.in](http://www.mahatmainternational.ac.in)
- - date_published: 2018-06-11T14:25:44+00:00
-
- ## Manipur University
- - [https://manipuruniv.ac.in](https://manipuruniv.ac.in)
- - date_published: 2024-09-11T18:06:09.044034+00:00
-
- ## Manipur University Online Exam Result - Exam Result
- - [https://onlineresult.manipuruniv.ac.in](https://onlineresult.manipuruniv.ac.in)
- - date_published: 2024-12-24T17:17:55.399087+00:00
-
- ## Manipur University Recruitment Portal
- - [https://recruitment.manipuruniv.ac.in](https://recruitment.manipuruniv.ac.in)
- - date_published: 2024-12-24T17:19:05.050558+00:00
-
- ## :: Maulana Azad National Urdu University ::
- - [https://manuu.ac.in](https://manuu.ac.in)
- - date_published: 2024-09-11T17:53:04.244449+00:00
-
- ## Picnic and Adventure Learning Camps at FRANAV Farms - Mahatma Sports Club, New Panvel
- - [http://adventurelearning.mes.ac.in](http://adventurelearning.mes.ac.in)
- - date_published: 2024-12-24T17:22:56.986198+00:00
-
- ## Campuses - MES
- - [https://campuses.mes.ac.in](https://campuses.mes.ac.in)
- - date_published: 2017-01-17T07:11:14+00:00
-
- ## Chembur Campus - MES
- - [https://chemburcampus.mes.ac.in](https://chemburcampus.mes.ac.in)
- - date_published: 2017-03-04T07:07:21+00:00
-
- ## Khanda Campus - MES
- - [https://khandacampus.mes.ac.in](https://khandacampus.mes.ac.in)
- - date_published: 2017-03-04T07:08:52+00:00
-
- ## Mahatma Education Society - MES
- - [https://mes.ac.in](https://mes.ac.in)
- - date_published: 2024-10-15T21:07:04.774348+00:00
-
- ## Mahatma Education Society's Pillai Group of Institutions: Log in to the site
- - [https://mockcet.mes.ac.in](https://mockcet.mes.ac.in)
- - date_published: 2024-10-15T21:06:52.668871+00:00
-
- ## Panvel Campus - MES
- - [https://panvelcampus.mes.ac.in](https://panvelcampus.mes.ac.in)
- - date_published: 2017-03-04T07:08:05+00:00
-
- ## Pillai College of Engineering
- - [https://pcestudentportal.mes.ac.in](https://pcestudentportal.mes.ac.in)
- - date_published: 2024-10-15T21:06:37.880091+00:00
-
- ## PCIE
- - [http://pcie.mes.ac.in](http://pcie.mes.ac.in)
- - date_published: 2024-12-24T17:23:26.151077+00:00
-
- ## Pillai HOCL Educational Campus - MES
- - [https://rasayanicampus.mes.ac.in](https://rasayanicampus.mes.ac.in)
- - date_published: 2017-03-04T07:07:47+00:00
-
- ## National Workshop on “Root Cause Failure Analysis of Boiler Tubes” | sfa.mes.ac.in
- - [http://sfa.mes.ac.in](http://sfa.mes.ac.in)
- - date_published: 2024-12-24T17:22:09.711694+00:00
-
- ## Top University in Pune Maharashtra - MIT ADT University
- - [https://mituniversity.ac.in](https://mituniversity.ac.in)
- - date_published: 2024-08-17T23:38:14.494870+00:00
-
- ## Naac - MIT ADT University
- - [https://naac.mituniversity.ac.in](https://naac.mituniversity.ac.in)
- - date_published: 2024-12-02T12:17:53+00:00
-
- ## Home - Martin Luther Christian University
- - [https://mlcu.ac.in](https://mlcu.ac.in)
- - date_published: 2024-12-15T13:38:22.716262+00:00
-
- ## Malaviya National Institute of Technology Jaipur
- - [https://couns-promo.mnit.ac.in](https://couns-promo.mnit.ac.in)
- - date_published: 2024-12-24T18:22:04.463144+00:00
-
- ## MNIT Guest House
- - [https://guesthouse.mnit.ac.in](https://guesthouse.mnit.ac.in)
- - date_published: 2024-12-24T17:35:52.619024+00:00
-
- ## Home - MIIC
- - [https://miic.mnit.ac.in](https://miic.mnit.ac.in)
- - date_published: 2024-12-24T17:35:40.351957+00:00
-
- ## Malaviya National Institute of Technology Jaipur
- - [https://mnit.ac.in](https://mnit.ac.in)
- - date_published: 2024-09-11T18:02:18.444844+00:00
-
- ## MNIT MRC
- - [https://mrc.mnit.ac.in](https://mrc.mnit.ac.in)
- - date_published: 2024-12-24T17:37:18.193414+00:00
-
- ## Training and Placements, MNIT Jaipur
- - [https://placements.mnit.ac.in](https://placements.mnit.ac.in)
- - date_published: 2024-12-24T17:35:35.531585+00:00
-
- ## MAHARASHTRA NATIONAL LAW UNIVERSITY - AURANGABAD
- - [https://www.mnlua.ac.in](https://www.mnlua.ac.in)
- - date_published: 2024-12-24T12:44:18.433251+00:00
-
- ## The Official Alumni Network of Motilal Nehru National Institute of Technology, Allahabad
- - [http://alumni.mnnit.ac.in](http://alumni.mnnit.ac.in)
- - date_published: 2024-12-24T17:46:09.488723+00:00
-
- ## मुख्य पृष्ठ
- - [http://hindi.mnnit.ac.in](http://hindi.mnnit.ac.in)
- - date_published: 2024-12-24T17:43:17+00:00
-
- ## Home
- - [https://mnnit.ac.in](https://mnnit.ac.in)
- - date_published: 2024-09-11T18:04:31+00:00
-
- ## SAC MNNIT
- - [http://sac.mnnit.ac.in](http://sac.mnnit.ac.in)
- - date_published: 2024-12-24T17:43:43.560930+00:00
-
- ## MSAS | Mahatma School of Academics and Sports
- - [https://msas.ac.in](https://msas.ac.in)
- - date_published: 2024-12-24T17:27:46.130508+00:00
-
- ## MSAS | Mahatma School of Academics and Sports
- - [http://www.msas.ac.in](http://www.msas.ac.in)
- - date_published: 2024-12-24T17:22:39.972301+00:00
-
- ## Madras School of Economics
- - [https://mse.ac.in](https://mse.ac.in)
- - date_published: 2024-09-09T21:55:51.673424+00:00
-
- ## MSRVVP
- - [https://msrvvp.ac.in](https://msrvvp.ac.in)
- - date_published: 2024-09-09T14:23:37+00:00
-
- ## NU|IPR
- - [https://ipr.nagalanduniversity.ac.in](https://ipr.nagalanduniversity.ac.in)
- - date_published: 2024-11-07T01:40:18+00:00
-
- ## NU|IQAC
- - [https://iqac.nagalanduniversity.ac.in](https://iqac.nagalanduniversity.ac.in)
- - date_published: 2024-12-24T17:50:26.694764+00:00
-
- ## NU:Kohima Campus
- - [https://kohima.nagalanduniversity.ac.in](https://kohima.nagalanduniversity.ac.in)
- - date_published: 2024-10-25T09:02:07+00:00
-
- ## NU:Lumami campus
- - [https://lumami.nagalanduniversity.ac.in](https://lumami.nagalanduniversity.ac.in)
- - date_published: 2024-12-24T17:49:12.712325+00:00
-
- ## NU:SAS,Medziphema Campus
- - [https://medziphema.nagalanduniversity.ac.in](https://medziphema.nagalanduniversity.ac.in)
- - date_published: 2024-01-15T09:09:22+00:00
-
- ## Nagaland University | Labor et Honor
- - [https://nagalanduniversity.ac.in](https://nagalanduniversity.ac.in)
- - date_published: 2024-09-11T17:55:39+00:00
-
- ## NURJ
- - [https://nurj.nagalanduniversity.ac.in](https://nurj.nagalanduniversity.ac.in)
- - date_published: 2023-04-13T15:35:59+00:00
-
- ## NU|RDC
- - [https://rdc.nagalanduniversity.ac.in](https://rdc.nagalanduniversity.ac.in)
- - date_published: 2024-01-20T04:23:23+00:00
-
- ## Web Site Blocked
- - [http://nehu.ac.in](http://nehu.ac.in)
- - date_published: 2024-09-11T17:39:02.471165+00:00
-
- ## Home | NERIST, Nirjuli
- - [https://nerist.ac.in](https://nerist.ac.in)
- - date_published: 2024-09-10T16:14:13+00:00
-
- ## National Institute of Educational Planning and Administration | NIEPA
- - [http://www.niepa.ac.in](http://www.niepa.ac.in)
- - date_published: 2024-09-11T18:02:04.243249+00:00
- - date_dead_since: 2024-12-24T18:12:25.119208+00:00
-
- ## NIFTEM-T
- - [https://niftem-t.ac.in](https://niftem-t.ac.in)
- - date_published: 2024-08-08T13:58:20.543302+00:00
-
- ## Home: The National Institute of Open Schooling (NIOS)
- - [https://nios.ac.in](https://nios.ac.in)
- - date_published: 2024-12-25T04:30:34.674996+00:00
-
- ## Home - National Institute of Open Schooling
- - [https://results.nios.ac.in](https://results.nios.ac.in)
- - date_published: 2024-12-24T23:48:18.424959+00:00
-
- ## Home: The National Institute of Open Schooling (NIOS)
- - [http://www.nios.ac.in](http://www.nios.ac.in)
- - date_published: 2024-12-24T16:59:51.623572+00:00
-
- ## B.Tech Chemical Engineering Admissions 2024
- - [http://ch.nirmauni.ac.in](http://ch.nirmauni.ac.in)
- - date_published: 2024-12-24T18:25:08.086662+00:00
-
- ## B.Tech/M.Tech Civil Engineering Admissions 2024
- - [http://cl.nirmauni.ac.in](http://cl.nirmauni.ac.in)
- - date_published: 2024-12-24T18:27:42.895743+00:00
-
- ## B.Tech/M.Tech Computer Science and Engineering Admissions 2024
- - [http://cse.nirmauni.ac.in](http://cse.nirmauni.ac.in)
- - date_published: 2024-12-24T18:24:38.188578+00:00
-
- ## B.Tech/M.Tech Electronics and Communication Engineering Admissions 2024
- - [http://ec.nirmauni.ac.in](http://ec.nirmauni.ac.in)
- - date_published: 2024-12-24T18:26:43.886271+00:00
-
- ## B.Tech/M.Tech Electrical Engineering Admission 2024 | B.Tech/M.Tech EE
- - [http://ee.nirmauni.ac.in](http://ee.nirmauni.ac.in)
- - date_published: 2024-12-24T18:24:01.085868+00:00
-
- ## PhD, Doctoral Programmes, Nirma University | NAAC A+ Grade
- - [http://fdsr.nirmauni.ac.in](http://fdsr.nirmauni.ac.in)
- - date_published: 2024-12-24T18:26:14.161546+00:00
-
- ## Department of Humanities and Social Sciences | Nirma University
- - [http://hss.nirmauni.ac.in](http://hss.nirmauni.ac.in)
- - date_published: 2024-12-24T18:27:13.785193+00:00
-
- ## B.Tech/M.Tech Mechanical Engineering Admissions 2024
- - [http://me.nirmauni.ac.in](http://me.nirmauni.ac.in)
- - date_published: 2024-12-24T18:23:31.460840+00:00
-
- ## Department of Mathematics | Nirma University
- - [http://mh.nirmauni.ac.in](http://mh.nirmauni.ac.in)
- - date_published: 2024-12-24T18:28:11.197104+00:00
-
- ## Nirma University - NAAC A+ Grade - UGC Approved
- - [https://nirmauni.ac.in](https://nirmauni.ac.in)
- - date_published: 2024-12-23T12:00:54+00:00
-
- ## Technology Library | Nirma University
- - [http://technologylibrary.nirmauni.ac.in](http://technologylibrary.nirmauni.ac.in)
- - date_published: 2024-12-24T18:23:00.973496+00:00
-
- ## Institute of Technology, Nirma University | NAAC A+ Grade
- - [https://technology.nirmauni.ac.in](https://technology.nirmauni.ac.in)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Home - National Institute of Securities Markets (NISM)
- - [https://nism.ac.in](https://nism.ac.in)
- - date_published: 2024-10-07T00:00:00+00:00
-
- ## IIS Windows Server
- - [https://nita.ac.in](https://nita.ac.in)
- - date_published: 2022-01-12T07:35:59+00:00
-
- ## NIT Agartala
- - [https://oldweb.nita.ac.in](https://oldweb.nita.ac.in)
- - date_published: 2024-11-19T07:02:02+00:00
-
- ## The office of the Dean International, Alumni and Corporate Relations (IACR)
- - [https://iacr.nitc.ac.in](https://iacr.nitc.ac.in)
- - date_published: 2024-12-24T18:32:01.391725+00:00
-
- ## Knowledge Resource Portal | NITC
- - [https://krp.nitc.ac.in](https://krp.nitc.ac.in)
- - date_published: 2024-12-24T18:32:47.909630+00:00
-
- ## National Institute of Technology
- - [https://nitc.ac.in](https://nitc.ac.in)
- - date_published: 2024-09-11T17:47:05.381978+00:00
-
- ## Research and Consultancy
- - [https://randc.nitc.ac.in](https://randc.nitc.ac.in)
- - date_published: 2024-12-24T18:32:37.201222+00:00
-
- ## NIT Calicut - Support Desk
- - [https://ticket.nitc.ac.in](https://ticket.nitc.ac.in)
- - date_published: 2024-12-24T18:32:51.307576+00:00
-
- ## Welcome To NIT Goa
- - [https://nitgoa.ac.in](https://nitgoa.ac.in)
- - date_published: 2024-09-11T14:33:26+00:00
-
- ## Dr. B.R. Ambedkar National Institute of Technology, Jalandhar
- - [https://nitj.ac.in](https://nitj.ac.in)
- - date_published: 2024-05-29T11:27:17+00:00
-
- ## NIT Jamshedpur | राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर
- - [https://nitjsr.ac.in](https://nitjsr.ac.in)
- - date_published: 2024-09-10T17:02:49+00:00
-
- ## IRIS
- - [https://iris.nitk.ac.in](https://iris.nitk.ac.in)
- - date_published: 2024-12-24T18:35:37.624704+00:00
-
- ## Central Library NITK Surathkal
- - [http://library.nitk.ac.in](http://library.nitk.ac.in)
- - date_published: 2024-12-24T18:36:13.631923+00:00
-
- ## NITK Surathkal
- - [http://nitk.ac.in](http://nitk.ac.in)
- - date_published: 2024-09-11T17:43:11.271249+00:00
-
- ## NITK Surathkal Virtual Tour | Virtual tour generated by Panotour
- - [http://vtour.nitk.ac.in](http://vtour.nitk.ac.in)
- - date_published: 2024-12-24T18:34:11.963808+00:00
-
- ## National Institute of Technology, Kurukshetra – India, the land of seekers, is at the cusp of becoming Vishwa Guru all over again after 1100 years of subjugation, wars, annexures and humiliation. It is again a free country due to the sacrifices made by our leaders, freedom fighters and has learnt the art of standing tall in the midst of many a challenge of building the nation with its rich diversity, cultures, languages all over again since the last 75 years. Unity in Diversity is our mantra while making our nation stronger in every sphere.
- - [http://www.nitkkr.ac.in](http://www.nitkkr.ac.in)
- - date_published: 2024-12-25T00:04:28.212258+00:00
-
- ## National Institute of Technology, Meghalaya
- - [https://nitm.ac.in](https://nitm.ac.in)
- - date_published: 2024-09-11T17:43:28.496777+00:00
-
- ## Home
- - [https://uba.nitm.ac.in](https://uba.nitm.ac.in)
- - date_published: 2024-12-24T18:41:54.713919+00:00
-
- ## IIS Windows Server
- - [https://nitmanipur.ac.in](https://nitmanipur.ac.in)
- - date_published: 2024-09-05T09:22:34+00:00
-
- ## National Institute of Technology - Mizoram Alumni
- - [http://alumni.nitmz.ac.in](http://alumni.nitmz.ac.in)
- - date_published: 2024-12-24T18:42:46.810721+00:00
-
- ## IIS Windows Server
- - [https://nitmz.ac.in](https://nitmz.ac.in)
- - date_published: 2024-09-05T09:22:34+00:00
-
- ## NIT PATNA | National Institute of Technology Patna
- - [http://www.nitp.ac.in](http://www.nitp.ac.in)
- - date_published: 2024-12-25T00:03:33.832508+00:00
-
- ## AIIR :: NIT Rourkela
- - [https://alum.nitrkl.ac.in](https://alum.nitrkl.ac.in)
- - date_published: 2024-12-24T18:44:11.030953+00:00
-
- ## Zimbra Web Client Sign In
- - [https://mail.nitrkl.ac.in](https://mail.nitrkl.ac.in)
- - date_published: 2024-12-24T18:45:21.740999+00:00
-
- ## NIT Rourkela
- - [https://nitrkl.ac.in](https://nitrkl.ac.in)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## NIT Rourkela
- - [https://website.nitrkl.ac.in](https://website.nitrkl.ac.in)
- - date_published: 2024-12-24T18:43:51.376968+00:00
-
- ## Codeutsava 8.0 - Central India's Largest Coding Event
- - [https://codeutsava.nitrr.ac.in](https://codeutsava.nitrr.ac.in)
- - date_published: 2024-09-21T13:09:02+00:00
- - date_dead_since: 2024-12-24T18:53:37.972639+00:00
-
- ## ::: National Institute of Technology Raipur :::
- - [https://nitrr.ac.in](https://nitrr.ac.in)
- - date_published: 2024-09-11T17:47:11.176277+00:00
-
- ## CoMSO 2024
- - [http://comso.nits.ac.in](http://comso.nits.ac.in)
- - date_published: 2024-08-21T05:24:07+00:00
-
- ## Emerging Electronics And Automation || 2022
- - [http://e2a2022.nits.ac.in](http://e2a2022.nits.ac.in)
- - date_published: 2022-12-11T07:29:52+00:00
-
- ## ICRABS 2022
- - [http://icrabs.nits.ac.in](http://icrabs.nits.ac.in)
- - date_published: 2022-09-26T09:16:42+00:00
-
- ## MNDCS 2025
- - [http://mndcs.nits.ac.in](http://mndcs.nits.ac.in)
- - date_published: 2024-12-06T03:17:27+00:00
-
- ## SIPCOV 2025
- - [http://sipcov.nits.ac.in](http://sipcov.nits.ac.in)
- - date_published: 2024-10-16T00:59:36+00:00
-
- ## National Institute of Technology, Silchar
- - [https://www.nits.ac.in](https://www.nits.ac.in)
- - date_published: 2024-09-11T17:52:50.742009+00:00
-
- ## NIT Sikkim | Home
- - [https://nitsikkim.ac.in](https://nitsikkim.ac.in)
- - date_published: 2024-09-11T17:38:43.733029+00:00
-
- ## T&P Cell - NIT Sikkim
- - [https://placement.nitsikkim.ac.in](https://placement.nitsikkim.ac.in)
- - date_published: 2024-12-24T19:13:09.399583+00:00
-
- ## NIT Srinagar
- - [https://nitsri.ac.in](https://nitsri.ac.in)
- - date_published: 2024-09-11T17:45:23.367351+00:00
-
- ## NITTTR Chandigarh : एनआईटीटीटीआर चंडीगढ़
- - [https://nitttrchd.ac.in](https://nitttrchd.ac.in)
- - date_published: 2024-09-11T17:56:19.835495+00:00
-
- ## NITTTR, Kolkata
- - [http://www.nitttrkol.ac.in](http://www.nitttrkol.ac.in)
- - date_published: 2024-09-11T17:45:04.982003+00:00
-
- ## National Institute of Technology, Uttarakhand
- - [https://nituk.ac.in](https://nituk.ac.in)
- - date_published: 2024-09-11T17:38:37.289888+00:00
-
- ## National Institute of Technology, Uttarakhand
- - [https://portfolios.nituk.ac.in](https://portfolios.nituk.ac.in)
- - date_published: 2024-12-24T19:21:31.106376+00:00
-
- ## NIT Warangal
- - [https://nitw.ac.in](https://nitw.ac.in)
- - date_published: 2024-09-10T14:17:48+00:00
-
- ## National Law School of India University -
- - [https://www.nls.ac.in](https://www.nls.ac.in)
- - date_published: 2024-12-24T12:45:09.106488+00:00
-
- ## NLUJAA
- - [http://www.nluassam.ac.in](http://www.nluassam.ac.in)
- - date_published: 2024-12-24T12:43:40.185567+00:00
-
- ## National Law University
- - [http://www.nlujodhpur.ac.in](http://www.nlujodhpur.ac.in)
- - date_published: 2024-12-24T12:44:34.656021+00:00
-
- ## National Law University, Nagpur
- - [http://www.nlunagpur.ac.in](http://www.nlunagpur.ac.in)
- - date_published: 2024-12-24T12:43:48.435369+00:00
-
- ## NMEICT | National Mission on Education through Information and Communication Technology
- - [https://nmeict.ac.in](https://nmeict.ac.in)
- - date_published: 2024-06-12T11:10:48.645709+00:00
-
- ## NPTEL IITm
- - [https://nptel.ac.in](https://nptel.ac.in)
- - date_published: 2024-06-22T11:32:34.187507+00:00
-
- ## NTA Exam  | India
- - [https://exams.nta.ac.in](https://exams.nta.ac.in)
- - date_published: 2024-07-11T12:44:18+00:00
-
- ## Fit-India
- - [https://fitindia.nta.ac.in](https://fitindia.nta.ac.in)
- - date_published: 2024-12-25T00:28:39.609649+00:00
-
- ## Parul University Vadodara: Best Private University in Gujarat
- - [https://paruluniversity.ac.in](https://paruluniversity.ac.in)
- - date_published: 2024-08-17T23:38:10.696363+00:00
-
- ## PCE E-classroom
- - [https://e-classroom.pce.ac.in](https://e-classroom.pce.ac.in)
- - date_published: 2018-06-11T00:00:00+00:00
-
- ## PCE | Pillai College of Engineering
- - [https://pce.ac.in](https://pce.ac.in)
- - date_published: 2024-06-17T01:57:19.649527+00:00
-
- ## 2023 - PCE Exam Result
- - [https://pceexamresults.pce.ac.in](https://pceexamresults.pce.ac.in)
- - date_published: 2023-06-21T09:11:42+00:00
-
- ## TPC-PCE
- - [https://tpc.pce.ac.in](https://tpc.pce.ac.in)
- - date_published: 2024-05-25T12:21:06+00:00
-
- ## PCER Panvel Homepage | Pillai College of Education and Research
- - [http://www.pcerpanvel.ac.in](http://www.pcerpanvel.ac.in)
- - date_published: 2024-12-24T17:23:04.855925+00:00
-
- ## PiMSR | Pillai Institute of Management Studies and Research
- - [https://pimsr.ac.in](https://pimsr.ac.in)
- - date_published: 2021-06-24T10:40:39+00:00
-
- ## Finance and Accounts Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://accounts.puchd.ac.in](https://accounts.puchd.ac.in)
- - date_published: 2024-12-15T12:58:48.000249+00:00
-
- ## University Admissions - Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://admissions.puchd.ac.in](https://admissions.puchd.ac.in)
- - date_published: 2024-12-15T12:58:26.399209+00:00
-
- ## Central Animal House Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://animalhouse.puchd.ac.in](https://animalhouse.puchd.ac.in)
- - date_published: 2024-12-15T12:58:21.247754+00:00
-
- ## Bhai Ghanaiya Ji Institute of Health Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://bgjih.puchd.ac.in](https://bgjih.puchd.ac.in)
- - date_published: 2024-12-15T12:58:36.656663+00:00
-
- ## Campus Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://campusstudent.puchd.ac.in](https://campusstudent.puchd.ac.in)
- - date_published: 2024-12-15T12:59:24.163458+00:00
-
- ## Dr. A.P.J. Abdul Kalam Computer Centre Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://cc.puchd.ac.in](https://cc.puchd.ac.in)
- - date_published: 2024-12-15T12:54:19.710746+00:00
-
- ## Centre for Industry Institute Partnership Programme Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://ciipp.puchd.ac.in](https://ciipp.puchd.ac.in)
- - date_published: 2024-12-15T12:57:43.745674+00:00
-
- ## Central Placement Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://cpc.puchd.ac.in](https://cpc.puchd.ac.in)
- - date_published: 2024-12-15T13:01:36.086078+00:00
-
- ## Industry Academia Book
- - [https://cpr.puchd.ac.in](https://cpr.puchd.ac.in)
- - date_published: 2024-12-15T13:00:12.252025+00:00
-
- ## Chandigarh Region Innovation and Knowledge Cluster (CRIKC).
- - [https://crikc.puchd.ac.in](https://crikc.puchd.ac.in)
- - date_published: 2024-12-15T12:58:28.902237+00:00
-
- ## Centre for Skill Development & Entrepreneurship Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://csde.puchd.ac.in](https://csde.puchd.ac.in)
- - date_published: 2024-12-15T12:59:01.124194+00:00
-
- ## Department of Computer Science & Applications Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://dcsa.puchd.ac.in](https://dcsa.puchd.ac.in)
- - date_published: 2024-12-15T12:59:16.801275+00:00
-
- ## Panjab University Directory Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://directory.puchd.ac.in](https://directory.puchd.ac.in)
- - date_published: 2024-12-15T12:59:36.275145+00:00
-
- ## Dean International Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://dis.puchd.ac.in](https://dis.puchd.ac.in)
- - date_published: 2024-12-15T12:57:23.143230+00:00
-
- ## Dean of University Instruction Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://dui.puchd.ac.in](https://dui.puchd.ac.in)
- - date_published: 2024-12-15T13:01:27.785070+00:00
-
- ## Entrepreneurship, Employability and Innovation Hub (EEI) – (RUSA-State Project Directorate, Chandigarh)
- - [https://eei.puchd.ac.in](https://eei.puchd.ac.in)
- - date_published: 2024-12-15T12:57:58.067171+00:00
-
- ## Equal Opportunity Cell for Persons with Disabilities Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://eocpwd.puchd.ac.in](https://eocpwd.puchd.ac.in)
- - date_published: 2024-12-15T12:55:57.135615+00:00
-
- ## Panjab University Examination Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://exams.puchd.ac.in](https://exams.puchd.ac.in)
- - date_published: 2024-12-15T12:57:37.742004+00:00
-
- ## University Forms Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://forms.puchd.ac.in](https://forms.puchd.ac.in)
- - date_published: 2024-12-15T12:59:42.699354+00:00
-
- ## Official Website of Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://gallery.puchd.ac.in](https://gallery.puchd.ac.in)
- - date_published: 2024-12-15T12:58:44.149967+00:00
-
- ## Panjab University Hostels Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://hostels.puchd.ac.in](https://hostels.puchd.ac.in)
- - date_published: 2024-12-15T12:54:37.843419+00:00
-
- ## About  -  Centre for IAS  & Other Competitive Examinations Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://iasc.puchd.ac.in](https://iasc.puchd.ac.in)
- - date_published: 2024-12-15T12:58:51.453945+00:00
-
- ## DST Inspire Internship Program Centre Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://inspire.puchd.ac.in](https://inspire.puchd.ac.in)
- - date_published: 2024-12-15T12:59:26.727694+00:00
-
- ## University Home
- - [https://iqac.puchd.ac.in](https://iqac.puchd.ac.in)
- - date_published: 2024-12-15T12:54:49.306330+00:00
-
- ## University Jobs Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://jobs.puchd.ac.in](https://jobs.puchd.ac.in)
- - date_published: 2024-12-15T12:54:14.930548+00:00
-
- ## A. C. Joshi Library Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://library.puchd.ac.in](https://library.puchd.ac.in)
- - date_published: 2024-12-15T12:54:35.590098+00:00
-
- ## National Education Policy Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://nep.puchd.ac.in](https://nep.puchd.ac.in)
- - date_published: 2024-12-15T12:58:01.595637+00:00
-
- ## News & Updates - Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://news.puchd.ac.in](https://news.puchd.ac.in)
- - date_published: 2024-12-13T00:00:00+00:00
-
- ## Oral History Project | Early Panjab University (1947-1965)
- - [https://oralhistory.puchd.ac.in](https://oralhistory.puchd.ac.in)
- - date_published: 2024-12-15T12:54:02.703526+00:00
-
- ## Permanent Anti-Discrimination Cell for Transgender Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://padcts.puchd.ac.in](https://padcts.puchd.ac.in)
- - date_published: 2024-12-15T12:58:57.605548+00:00
-
- ## Welcome to Panjab University Payment Portal ~ Pay Online | Panjab University Online Payment Portal
- - [https://payonline.puchd.ac.in](https://payonline.puchd.ac.in)
- - date_published: 2024-12-15T12:54:56.322739+00:00
-
- ## Department of Physical Education Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://physicaleducation.puchd.ac.in](https://physicaleducation.puchd.ac.in)
- - date_published: 2024-12-15T12:57:15.353992+00:00
-
- ## About  -  Publication Bureau Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://publicationbureau.puchd.ac.in](https://publicationbureau.puchd.ac.in)
- - date_published: 2024-12-15T12:56:59.735388+00:00
-
- ## Public Relations Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://publicrelations.puchd.ac.in](https://publicrelations.puchd.ac.in)
- - date_published: 2024-12-15T12:56:57.232779+00:00
-
- ## Official Website of Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://puchd.ac.in](https://puchd.ac.in)
- - date_published: 2024-10-30T20:17:45.374946+00:00
-
- ## Jyotirgamaya: 91.2 MHz - Panjab University Community Radio Station Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://radiostation.puchd.ac.in](https://radiostation.puchd.ac.in)
- - date_published: 2024-12-15T12:56:53.704934+00:00
-
- ## Research & Development Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://rdc.puchd.ac.in](https://rdc.puchd.ac.in)
- - date_published: 2024-12-15T12:56:06.173150+00:00
-
- ## Registrar's Office Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://registrar.puchd.ac.in](https://registrar.puchd.ac.in)
- - date_published: 2024-12-15T13:01:06.455544+00:00
-
- ## Sophisticated Analytical Instrumentation Facility, CIL and UCIM Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://rsic.puchd.ac.in](https://rsic.puchd.ac.in)
- - date_published: 2024-12-15T12:59:04.984206+00:00
-
- ## Right to Information (RTI) Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://rti.puchd.ac.in](https://rti.puchd.ac.in)
- - date_published: 2024-12-15T12:54:22.909032+00:00
-
- ## SC/ST Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://scst.puchd.ac.in](https://scst.puchd.ac.in)
- - date_published: 2024-12-15T12:54:42.472527+00:00
-
- ## Colloquium Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://seminar.puchd.ac.in](https://seminar.puchd.ac.in)
- - date_published: 2024-12-15T12:57:20.112013+00:00
-
- ## Senate, Syndicate - Panjab University Administration Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://senatesyndicate.puchd.ac.in](https://senatesyndicate.puchd.ac.in)
- - date_published: 2024-12-15T12:57:33.155035+00:00
-
- ## Student Grievances Redressal Committee (SGRC) Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://sgrc.puchd.ac.in](https://sgrc.puchd.ac.in)
- - date_published: 2024-12-15T12:58:04.634893+00:00
-
- ## Directorate of Sports Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://sports.puchd.ac.in](https://sports.puchd.ac.in)
- - date_published: 2024-12-15T13:01:31.512220+00:00
-
- ## University Tenders  -  University Tenders Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://tenders.puchd.ac.in](https://tenders.puchd.ac.in)
- - date_published: 2024-12-15T13:00:53.856697+00:00
-
- ## University Business School Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://ubs.puchd.ac.in](https://ubs.puchd.ac.in)
- - date_published: 2024-12-15T12:58:14.736584+00:00
-
- ## Centre for Distance and Online Education Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://usol.puchd.ac.in](https://usol.puchd.ac.in)
- - date_published: 2024-12-15T12:59:10.858510+00:00
-
- ## RGU Admissions
- - [https://admissions.rgu.ac.in](https://admissions.rgu.ac.in)
- - date_published: 2024-08-23T10:29:48+00:00
-
- ## Rajiv Gandhi University, Arunachal Pradesh
- - [https://rgu.ac.in](https://rgu.ac.in)
- - date_published: 2024-09-11T18:06:48.631466+00:00
-
- ## Welcome to Department of Computer Science | Department of Computer Science
- - [https://cs.rkmvu.ac.in](https://cs.rkmvu.ac.in)
- - date_published: 2019-03-22T06:28:30+00:00
-
- ## Home Page New - Courses in Indian Spiritual and Cultural Heritage
- - [https://ish.rkmvu.ac.in](https://ish.rkmvu.ac.in)
- - date_published: 2024-12-24T19:29:27.084610+00:00
-
- ## Department of Mathematics , RKMVERI (Deemed University)
- - [https://maths.rkmvu.ac.in](https://maths.rkmvu.ac.in)
- - date_published: 2024-12-24T19:28:42.474365+00:00
-
- ## RKMVERI (Deemed University)
- - [https://rkmvu.ac.in](https://rkmvu.ac.in)
- - date_published: 2024-12-24T19:29:34.665349+00:00
-
- ## Dept. of Sanskrit and Philosophy - RKMVERI (Deemed University)
- - [https://sanskrit.rkmvu.ac.in](https://sanskrit.rkmvu.ac.in)
- - date_published: 2024-12-24T19:28:47.954000+00:00
-
- ## Dept. of Sports Science & Yoga, RKMVERI (Deemed University)
- - [https://sy.rkmvu.ac.in](https://sy.rkmvu.ac.in)
- - date_published: 2024-12-24T19:28:53.650799+00:00
-
- ## RKMVERI (Deemed University) Ranchi Campus
- - [https://www.rkmvuranchi.ac.in](https://www.rkmvuranchi.ac.in)
- - date_published: 2024-12-24T19:29:15.253117+00:00
-
- ## Rajasthan Technical University | Kota Rajasthan
- - [https://www.rtu.ac.in](https://www.rtu.ac.in)
- - date_published: 2024-12-24T19:52:29.922840+00:00
-
- ## Samarth eGov Suite - Docs
- - [https://docs.samarth.ac.in](https://docs.samarth.ac.in)
- - date_published: 2024-12-24T09:59:09+00:00
-
- ## Home | manipuruniv
- - [https://lms-manipuruniv.samarth.ac.in](https://lms-manipuruniv.samarth.ac.in)
- - date_published: 2024-12-24T17:19:13+00:00
-
- ## Login - Samarth eGov Suite
- - [https://vnit.samarth.ac.in](https://vnit.samarth.ac.in)
- - date_published: 2024-08-07T17:25:44.540834+00:00
-
- ## UG/PG Admissions Open 2025-26 @ Sharda University  | The Only Multicultural University in Delhi/NCR
- - [https://admissions.sharda.ac.in](https://admissions.sharda.ac.in)
- - date_published: 2024-12-24T19:33:07.295020+00:00
-
- ## The Official Alumni Network of Sharda University
- - [https://alumni.sharda.ac.in](https://alumni.sharda.ac.in)
- - date_published: 2024-12-24T19:33:18.656431+00:00
-
- ## BDS/MDS Admissions Open 2024-25 | Sharda University
- - [https://dental.sharda.ac.in](https://dental.sharda.ac.in)
- - date_published: 2024-12-24T19:33:13.550962+00:00
-
- ## Family & Couple Counselling Services Portal | Sharda University
- - [https://fccs.sharda.ac.in](https://fccs.sharda.ac.in)
- - date_published: 2024-12-24T19:30:12.646224+00:00
-
- ## Sharda Launchpad
- - [https://launchpad.sharda.ac.in](https://launchpad.sharda.ac.in)
- - date_published: 2024-12-24T19:32:48.015159+00:00
-
- ## MBBS & BDS Admissions Open 2024-25 | Sharda University
- - [https://medical.sharda.ac.in](https://medical.sharda.ac.in)
- - date_published: 2024-12-24T19:30:16.648353+00:00
-
- ## Sharda University - Best Private University in Delhi, NCR
- - [https://sharda.ac.in](https://sharda.ac.in)
- - date_published: 2024-07-04T18:56:14.993622+00:00
-
- ## Sharda Skills
- - [https://skills.sharda.ac.in](https://skills.sharda.ac.in)
- - date_published: 2024-12-24T19:33:21.335650+00:00
-
- ## Slot Booking Portal | Sharda University
- - [https://slotbooking.sharda.ac.in](https://slotbooking.sharda.ac.in)
- - date_published: 2024-12-24T19:32:42.650477+00:00
-
- ## SUAT 2024 - Sharda University Online Admission Test
- - [https://suat.sharda.ac.in](https://suat.sharda.ac.in)
- - date_published: 2024-12-24T19:31:28.985347+00:00
-
- ## Sharda University Agra - Top Private University in AGRA
- - [https://www.agra.sharda.ac.in](https://www.agra.sharda.ac.in)
- - date_published: 2024-12-24T19:32:41.089829+00:00
-
- ## https://sihm.ac.in/
- - [https://sihm.ac.in](https://sihm.ac.in)
- - date_published: 2024-08-08T13:10:19.138958+00:00
-
- ## Central India’s Best NAAC “A” Grade Engineering Colleges in Bhopal, MP | SIRT
- - [https://www.sirtbhopal.ac.in](https://www.sirtbhopal.ac.in)
- - date_published: 2024-12-24T19:34:41.593190+00:00
-
- ## Best Pharmacy College in Bhopal, Madhya Pradesh |SIRTS Pharmacy
- - [https://sirtspharmacy.ac.in](https://sirtspharmacy.ac.in)
- - date_published: 2024-09-10T11:07:06.479902+00:00
-
- ## The Official Alumni Network of Swami Keshvanand Institute of Technology, Management and Gramothan
- - [https://alumni.skit.ac.in](https://alumni.skit.ac.in)
- - date_published: 2024-12-24T19:51:22.872608+00:00
 

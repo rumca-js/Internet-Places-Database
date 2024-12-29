@@ -1,3 +1,1025 @@
+ ## The Harvard Kenneth C. Griffin Graduate School of Arts and Sciences
+ - [https://gsas.harvard.edu](https://gsas.harvard.edu)
+ - date_published: 2024-08-11T05:21:32.552802+00:00
+
+ ## Research Guides
+ - [https://guides.library.harvard.edu](https://guides.library.harvard.edu)
+ - date_published: 2024-06-30T04:01:14.379264+00:00
+
+ ## Harvard University
+ - [https://harvard.edu](https://harvard.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Harvard Forest
+ - [https://harvardforest.fas.harvard.edu](https://harvardforest.fas.harvard.edu)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Harvard Business Publishing Education
+ - [https://hbsp.harvard.edu](https://hbsp.harvard.edu)
+ - date_published: 2023-10-25T18:51:44.051862+00:00
+
+ ## HOME
+ - [https://hbtrc.mclean.harvard.edu](https://hbtrc.mclean.harvard.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Harvard Club of Cincinnati
+ - [https://hccincinnati.clubs.harvard.edu](https://hccincinnati.clubs.harvard.edu)
+ - date_published: 2024-10-07T21:52:39.548658+00:00
+
+ ## Harvard Club of Dallas
+ - [https://hcdallas.clubs.harvard.edu](https://hcdallas.clubs.harvard.edu)
+ - date_published: 2024-10-07T21:52:34.276781+00:00
+
+ ## Harvard Club of Southern California
+ - [https://hcsc.clubs.harvard.edu](https://hcsc.clubs.harvard.edu)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## Harvard Computer Society
+ - [http://hcs.harvard.edu](http://hcs.harvard.edu)
+ - date_published: 2024-05-08T19:32:23+00:00
+
+ ## Harvard Club of the United Kingdom
+ - [https://hcuk.clubs.harvard.edu](https://hcuk.clubs.harvard.edu)
+ - date_published: 2024-10-07T21:52:40.891160+00:00
+
+ ## Harvard Divinity School (HDS)
+ - [https://hds.harvard.edu](https://hds.harvard.edu)
+ - date_published: 2024-05-07T22:15:06.697497+00:00
+
+ ## Health Information and Medical Information - Harvard Health
+ - [https://health.harvard.edu](https://health.harvard.edu)
+ - date_published: 2023-10-25T18:52:11.043760+00:00
+
+ ## Department of Human Evolutionary Biology
+ - [https://heb.fas.harvard.edu](https://heb.fas.harvard.edu)
+ - date_published: 2024-06-06T11:30:17.817226+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://helios.law.harvard.edu](https://helios.law.harvard.edu)
+ - date_published: 2024-04-30T04:45:54.999652+00:00
+
+ ## Harvard Humanitarian Initiative
+ - [https://hhi.harvard.edu](https://hhi.harvard.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Laboratory for Intelligent Probabilistic Systems
+ - [https://hips.seas.harvard.edu](https://hips.seas.harvard.edu)
+ - date_published: 2024-06-11T17:50:23+00:00
+
+ ## Home
+ - [https://hireaspirations.seas.harvard.edu](https://hireaspirations.seas.harvard.edu)
+ - date_published: 2024-12-19T11:29:39+00:00
+
+ ## Harvard International Review
+ - [https://hir.harvard.edu](https://hir.harvard.edu)
+ - date_published: 2024-04-29T03:12:52.103949+00:00
+
+ ## Harvard Kennedy School
+ - [https://hks.harvard.edu](https://hks.harvard.edu)
+ - date_published: 2024-05-09T07:03:39.411243+00:00
+
+ ## Home - Harvard Law School | Harvard Law School
+ - [https://hls.harvard.edu](https://hls.harvard.edu)
+ - date_published: 2023-10-25T18:51:50.060436+00:00
+
+ ## Harvard Museum of the Ancient Near East
+ - [https://hmane.harvard.edu](https://hmane.harvard.edu)
+ - date_published: 2024-08-11T05:19:42+00:00
+
+ ## Harvard Museum of Natural History
+ - [https://hmnh.harvard.edu](https://hmnh.harvard.edu)
+ - date_published: 2024-04-30T04:46:21.952583+00:00
+
+ ## Harvard Museums of Science & Culture
+ - [http://hmsc.harvard.edu](http://hmsc.harvard.edu)
+ - date_published: 2024-07-21T22:38:35+00:00
+
+ ## Home | Harvard Medical School
+ - [https://hms.harvard.edu](https://hms.harvard.edu)
+ - date_published: 2023-10-25T18:51:52.607343+00:00
+
+ ## Harvard Human Resources
+ - [https://hr.harvard.edu](https://hr.harvard.edu)
+ - date_published: 2024-07-02T12:07:04+00:00
+
+ ## Home - Harvard Law School | Human Rights Program
+ - [https://hrp.law.harvard.edu](https://hrp.law.harvard.edu)
+ - date_published: 2024-10-18T21:02:34.120210+00:00
+
+ ## Harvard School of Dental Medicine
+ - [http://hsdm.harvard.edu](http://hsdm.harvard.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Harvard T.H. Chan School of Public Health
+ - [https://hsph.harvard.edu](https://hsph.harvard.edu)
+ - date_published: 2024-07-21T23:10:32.928435+00:00
+
+ ## Harvard University Herbaria & Libraries
+ - [https://huh.harvard.edu](https://huh.harvard.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Harvard University Health Services – To Heal | To Care | To Educate
+ - [https://huhs.harvard.edu](https://huhs.harvard.edu)
+ - date_published: 2024-06-22T11:10:34+00:00
+
+ ## Harvard University Information Technology
+ - [https://huit.harvard.edu](https://huit.harvard.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## International Human Rights Clinic
+ - [https://humanrightsclinic.law.harvard.edu](https://humanrightsclinic.law.harvard.edu)
+ - date_published: 2024-07-21T23:18:54.259520+00:00
+
+ ## Harvard University Press
+ - [https://hup.harvard.edu](https://hup.harvard.edu)
+ - date_published: 2024-05-08T08:44:54.987046+00:00
+
+ ## Ukrainian Research Institute at Harvard University
+ - [https://huri.harvard.edu](https://huri.harvard.edu)
+ - date_published: 2024-09-10T07:25:41+00:00
+
+ ## The Hutchins Center for African & African American Research
+ - [https://hutchinscenter.fas.harvard.edu](https://hutchinscenter.fas.harvard.edu)
+ - date_published: 2024-08-18T21:57:52+00:00
+
+ ## Home | Harvard Web Publishing
+ - [https://hwp.harvard.edu](https://hwp.harvard.edu)
+ - date_published: 2024-06-16T22:29:52.541779+00:00
+
+ ## Home | Harvard Web Publishing
+ - [https://hwpi.harvard.edu](https://hwpi.harvard.edu)
+ - date_published: 2024-06-16T13:36:14+00:00
+
+ ## PRESTO; Office for Information Systems; Harvard University Library
+ - [http://id.lib.harvard.edu](http://id.lib.harvard.edu)
+ - date_published: 2022-02-23T16:53:24+00:00
+
+ ## Kosuke Imai's Homepage
+ - [https://imai.fas.harvard.edu](https://imai.fas.harvard.edu)
+ - date_published: 2024-06-21T10:34:16+00:00
+
+ ## Project Implicit
+ - [https://implicit.harvard.edu](https://implicit.harvard.edu)
+ - date_published: 2024-06-15T18:40:21.830267+00:00
+
+ ## Harvard Innovation Labs
+ - [https://innovationlabs.harvard.edu](https://innovationlabs.harvard.edu)
+ - date_published: 2024-10-30T08:23:37.040843+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://internal.accessibility.huit.harvard.edu](https://internal.accessibility.huit.harvard.edu)
+ - date_published: 2024-07-21T23:19:20.697512+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://intranet.huit.harvard.edu](https://intranet.huit.harvard.edu)
+ - date_published: 2024-06-16T13:36:27.224638+00:00
+
+ ## The Institute of Politics at Harvard University
+ - [http://iop.harvard.edu](http://iop.harvard.edu)
+ - date_published: 2024-07-10T00:02:07.058226+00:00
+
+ ## Institute for Quantitative Social Science
+ - [https://iq.harvard.edu](https://iq.harvard.edu)
+ - date_published: 2024-05-11T11:25:48.873885+00:00
+
+ ## I Tatti | The Harvard University Center for Italian Renaissance Studies
+ - [http://itatti.harvard.edu](http://itatti.harvard.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## HLS Journals – HLS Journals
+ - [https://journals.law.harvard.edu](https://journals.law.harvard.edu)
+ - date_published: 2024-06-30T04:00:41.779983+00:00
+
+ ## The Kavli Institute
+ - [https://kavli.seas.harvard.edu](https://kavli.seas.harvard.edu)
+ - date_published: 2024-10-19T08:13:57.295864+00:00
+
+ ## Kempner Institute
+ - [https://kempnerinstitute.harvard.edu](https://kempnerinstitute.harvard.edu)
+ - date_published: 2024-07-11T14:31:22+00:00
+
+ ## Welcome to HarvardKey
+ - [https://key.harvard.edu](https://key.harvard.edu)
+ - date_published: 2024-07-21T23:18:37.519529+00:00
+
+ ## Kreiman Lab
+ - [https://klab.tch.harvard.edu](https://klab.tch.harvard.edu)
+ - date_published: 2024-04-25T23:44:08+00:00
+
+ ## Harvard Kennedy School
+ - [http://ksgaccman.harvard.edu](http://ksgaccman.harvard.edu)
+ - date_published: 2024-06-27T06:28:35+00:00
+
+ ## Harvard Kennedy School
+ - [http://ksghome.harvard.edu](http://ksghome.harvard.edu)
+ - date_published: 2024-07-03T21:57:07+00:00
+
+ ## Home - Harvard Law School
+ - [https://law.harvard.edu](https://law.harvard.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Harvard & the Legacy of Slavery | Radcliffe Institute for Advanced Study at Harvard University
+ - [https://legacyofslavery.harvard.edu](https://legacyofslavery.harvard.edu)
+ - date_published: 2024-07-21T23:12:56.976823+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://liaisons.accessibility.huit.harvard.edu](https://liaisons.accessibility.huit.harvard.edu)
+ - date_published: 2024-07-21T23:19:16.691833+00:00
+
+ ## Harvard Library Calendars -
+        Harvard Library
+ - [https://libcal.library.harvard.edu](https://libcal.library.harvard.edu)
+ - date_published: 2024-07-21T22:53:39.195556+00:00
+
+ ## library.harvard
+ - [https://library.harvard.edu](https://library.harvard.edu)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Harvard Divinity School Library
+ - [https://library.hds.harvard.edu](https://library.hds.harvard.edu)
+ - date_published: 2024-07-02T11:57:49+00:00
+
+ ## The Library Innovation Lab at Harvard University
+ - [http://librarylab.law.harvard.edu](http://librarylab.law.harvard.edu)
+ - date_published: 2024-07-02T21:27:44+00:00
+
+ ## Ernst Mayr Library
+ - [https://library.mcz.harvard.edu](https://library.mcz.harvard.edu)
+ - date_published: 2024-08-11T04:57:25+00:00
+
+ ## The Library Innovation Lab at Harvard University
+ - [https://lil.law.harvard.edu](https://lil.law.harvard.edu)
+ - date_published: 2024-07-02T21:27:44+00:00
+
+ ## HMS LINCS Project
+ - [http://lincs.hms.harvard.edu](http://lincs.hms.harvard.edu)
+ - date_published: 2024-06-20T15:40:09.438774+00:00
+
+ ## Laboratory for Innovation Science at Harvard
+ - [https://lish.harvard.edu](https://lish.harvard.edu)
+ - date_published: 2024-09-04T20:20:16+00:00
+
+ ## Home
+ - [https://logic.harvard.edu](https://logic.harvard.edu)
+ - date_published: 2024-06-15T13:02:28.058605+00:00
+
+ ## LSTMVis
+ - [http://lstm.seas.harvard.edu](http://lstm.seas.harvard.edu)
+ - date_published: 2024-01-29T16:41:57+00:00
+
+ ## Home | Center for Astrophysics
+ - [https://lweb.cfa.harvard.edu](https://lweb.cfa.harvard.edu)
+ - date_published: 2023-10-25T18:51:56.891134+00:00
+
+ ## Lyme Wellness Initiative Harvard Health Publishing
+ - [https://lyme.health.harvard.edu](https://lyme.health.harvard.edu)
+ - date_published: 2024-02-05T16:23:53+00:00
+
+ ## Harvard Medicine Magazine | Harvard Medicine Magazine
+ - [https://magazine.hms.harvard.edu](https://magazine.hms.harvard.edu)
+ - date_published: 2024-08-04T14:10:48+00:00
+
+ ## Harvard University Mathematics Department Cambridge MA
+ - [https://math.harvard.edu](https://math.harvard.edu)
+ - date_published: 2021-07-13T16:49:58+00:00
+
+ ## Mind Brain Behavior
+ - [https://mbb.harvard.edu](https://mbb.harvard.edu)
+ - date_published: 2024-08-11T05:21:13+00:00
+
+ ## Homepage - Harvard University - Department of Molecular & Cellular Biology
+ - [https://mcb.harvard.edu](https://mcb.harvard.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## MCO Intranet
+ - [https://mcointranet.fas.harvard.edu](https://mcointranet.fas.harvard.edu)
+ - date_published: 2024-09-18T22:49:48+00:00
+
+ ## Mineralogical & Geological Museum
+ - [http://mgmh.fas.harvard.edu](http://mgmh.fas.harvard.edu)
+ - date_published: 2024-08-11T05:21:44+00:00
+
+ ## James Mickens
+ - [https://mickens.seas.harvard.edu](https://mickens.seas.harvard.edu)
+ - date_published: 2024-07-18T04:39:43+00:00
+
+ ## HKS Misinformation Review
+ - [https://misinforeview.hks.harvard.edu](https://misinforeview.hks.harvard.edu)
+ - date_published: 2024-03-13T10:53:23.464434+00:00
+
+ ## my.harvard
+ - [https://my.harvard.edu](https://my.harvard.edu)
+ - date_published: 2024-04-30T04:47:29.696404+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://my.hds.harvard.edu](https://my.hds.harvard.edu)
+ - date_published: 2024-07-02T12:18:26.582809+00:00
+
+ ## Na (Lina) Li 黎娜
+ - [https://nali.seas.harvard.edu](https://nali.seas.harvard.edu)
+ - date_published: 2024-05-04T15:43:50.597405+00:00
+
+ ## Home
+ - [https://neuro.hms.harvard.edu](https://neuro.hms.harvard.edu)
+ - date_published: 2024-08-11T04:50:49+00:00
+
+ ## Harvard Gazette – Official news from Harvard University covering innovation in teaching, learning, and research
+ - [https://news.harvard.edu](https://news.harvard.edu)
+ - date_published: 2023-10-25T11:22:32.692394+00:00
+
+ ## Nieman Foundation for Journalism at Harvard
+ - [https://nieman.harvard.edu](https://nieman.harvard.edu)
+ - date_published: 2024-05-08T10:50:13.873435+00:00
+
+ ## Harvard NLP
+ - [https://nlp.seas.harvard.edu](https://nlp.seas.harvard.edu)
+ - date_published: 2018-04-03T00:00:00+00:00
+
+ ## Nutritional & Microbial Ecology Lab
+ - [https://nme.fas.harvard.edu](https://nme.fas.harvard.edu)
+ - date_published: 2024-09-04T17:26:54+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://now.gsd.harvard.edu](https://now.gsd.harvard.edu)
+ - date_published: 2024-06-22T11:46:26.089253+00:00
+
+ ## The Nutrition Source
+ - [https://nutritionsource.hsph.harvard.edu](https://nutritionsource.hsph.harvard.edu)
+ - date_published: 2024-07-09T06:43:37.498122+00:00
+
+ ## CampusPress at Harvard – WordPress-powered sites for the Harvard community
+ - [http://openscholar.harvard.edu](http://openscholar.harvard.edu)
+ - date_published: 2024-09-07T22:30:39+00:00
+
+ ## Home | Harvard OSC
+ - [https://osc.hul.harvard.edu](https://osc.hul.harvard.edu)
+ - date_published: 2020-05-18T18:24:22+00:00
+
+ ## Home
+ - [https://ostransition.hwp.harvard.edu](https://ostransition.hwp.harvard.edu)
+ - date_published: 2024-07-14T20:38:03.952189+00:00
+
+ ## Program on Corporate Governance
+ - [https://pcg.law.harvard.edu](https://pcg.law.harvard.edu)
+ - date_published: 2024-04-30T04:43:55.632088+00:00
+
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [http://people.fas.harvard.edu](http://people.fas.harvard.edu)
+ - date_published: 2021-07-12T19:36:32+00:00
+
+ ## Harvard Mathematics Department : Home page
+ - [https://people.math.harvard.edu](https://people.math.harvard.edu)
+ - date_published: 2021-07-13T16:49:58+00:00
+
+ ## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
+ - [https://people.seas.harvard.edu](https://people.seas.harvard.edu)
+ - date_published: 2023-10-25T18:52:00.075501+00:00
+
+ ## Home | PeopleSoft HR @ Harvard
+ - [https://peoplesoftinfo.hrapps.harvard.edu](https://peoplesoftinfo.hrapps.harvard.edu)
+ - date_published: 2024-10-07T07:08:50+00:00
+
+ ## The Petrie-Flom Center for Health Law Policy, Biotechnology,
+ - [https://petrieflom.law.harvard.edu](https://petrieflom.law.harvard.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Department of Philosophy
+ - [https://philosophy.fas.harvard.edu](https://philosophy.fas.harvard.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Homepage | Harvard University
+ - [https://pll.harvard.edu](https://pll.harvard.edu)
+ - date_published: 2024-12-23T04:00:02+00:00
+
+ ## Information Security Policy
+ - [https://policy.security.harvard.edu](https://policy.security.harvard.edu)
+ - date_published: 2024-10-07T21:50:53+00:00
+
+ ## PON - Program on Negotiation at Harvard Law School
+ - [https://pon.harvard.edu](https://pon.harvard.edu)
+ - date_published: 2023-10-25T18:52:14.185371+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://portal.my.harvard.edu](https://portal.my.harvard.edu)
+ - date_published: 2024-07-21T23:10:24.355185+00:00
+
+ ## Harvard University Privacy Tools Project
+ - [https://privacytools.seas.harvard.edu](https://privacytools.seas.harvard.edu)
+ - date_published: 2024-06-23T11:08:37+00:00
+
+ ## Harvard University Information Security
+ - [https://privsec.harvard.edu](https://privsec.harvard.edu)
+ - date_published: 2024-10-07T21:48:39+00:00
+
+ ## Profiles Research Networking Software
+ - [http://profiles.catalyst.harvard.edu](http://profiles.catalyst.harvard.edu)
+ - date_published: 2024-07-02T01:50:10.780215+00:00
+
+ ## Home | Projects at Harvard
+ - [https://projects.iq.harvard.edu](https://projects.iq.harvard.edu)
+ - date_published: 2024-05-12T03:55:01.349670+00:00
+
+ ## Office of the Provost
+ - [http://provost.harvard.edu](http://provost.harvard.edu)
+ - date_published: 2024-07-21T23:00:09+00:00
+
+ ## Department of Psychology
+ - [https://psychology.fas.harvard.edu](https://psychology.fas.harvard.edu)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Home | Center for Astrophysics | Harvard & Smithsonian
+ - [https://pweb.cfa.harvard.edu](https://pweb.cfa.harvard.edu)
+ - date_published: 2024-04-30T04:46:10.416653+00:00
+
+ ## Radcliffe Institute for Advanced Study at Harvard University
+ - [https://radcliffe.harvard.edu](https://radcliffe.harvard.edu)
+ - date_published: 2024-04-30T04:46:24.912098+00:00
+
+ ## rafalab
+ - [https://rafalab.dfci.harvard.edu](https://rafalab.dfci.harvard.edu)
+ - date_published: 2024-02-24T18:03:46+00:00
+
+ ## Real Colegio Complutense
+ - [https://rcc.harvard.edu](https://rcc.harvard.edu)
+ - date_published: 2024-06-24T09:47:45+00:00
+
+ ## FAS Registrar's Office
+ - [https://registrar.fas.harvard.edu](https://registrar.fas.harvard.edu)
+ - date_published: 2024-07-01T15:10:08+00:00
+
+ ## Find A Researcher at Massachusetts General Hospital
+ - [https://researchers.mgh.harvard.edu](https://researchers.mgh.harvard.edu)
+ - date_published: 2024-05-08T10:03:09.286878+00:00
+
+ ## Risk Management & Audit Services
+ - [https://rmas.fad.harvard.edu](https://rmas.fad.harvard.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Homepage - The Salata Institute
+ - [https://salatainstitute.harvard.edu](https://salatainstitute.harvard.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Salil Vadhan
+ - [https://salil.seas.harvard.edu](https://salil.seas.harvard.edu)
+ - date_published: 2024-09-07T23:15:12+00:00
+
+ ## Home | Scholars at Harvard
+ - [https://scholar.harvard.edu](https://scholar.harvard.edu)
+ - date_published: 2023-10-25T18:52:02.303424+00:00
+
+ ## Home
+ - [https://sciencecooking.seas.harvard.edu](https://sciencecooking.seas.harvard.edu)
+ - date_published: 2024-09-10T06:42:26+00:00
+
+ ## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
+ - [https://seas.harvard.edu](https://seas.harvard.edu)
+ - date_published: 2023-10-25T18:52:04.448986+00:00
+
+ ## Harvard University Information Security
+ - [https://security.harvard.edu](https://security.harvard.edu)
+ - date_published: 2024-06-16T13:30:43+00:00
+
+ ## Sham M. Kakade
+ - [https://sham.seas.harvard.edu](https://sham.seas.harvard.edu)
+ - date_published: 2024-08-06T20:54:14+00:00
+
+ ## (no title)
+ - [https://shine.sph.harvard.edu](https://shine.sph.harvard.edu)
+ - date_published: 2024-07-14T14:36:26.704717+00:00
+
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [https://sites.fas.harvard.edu](https://sites.fas.harvard.edu)
+ - date_published: 2021-07-12T19:36:32+00:00
+
+ ## CampusPress at Harvard – WordPress-powered sites for the Harvard community
+ - [https://sites.harvard.edu](https://sites.harvard.edu)
+ - date_published: 2024-09-09T23:21:20+00:00
+
+ ## Science in the News
+ - [https://sitn.hms.harvard.edu](https://sitn.hms.harvard.edu)
+ - date_published: 2024-05-06T17:25:46.781359+00:00
+
+ ## Home | Society of Fellows
+ - [https://socfell.fas.harvard.edu](https://socfell.fas.harvard.edu)
+ - date_published: 2024-06-16T22:19:19.891582+00:00
+
+ ## Department of Sociology
+ - [https://sociology.fas.harvard.edu](https://sociology.fas.harvard.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Harvard College
+ - [https://soco.college.harvard.edu](https://soco.college.harvard.edu)
+ - date_published: 2024-09-04T20:22:14.456660+00:00
+
+ ## Home | Harvard Web Publishing
+ - [https://static.hwpi.harvard.edu](https://static.hwpi.harvard.edu)
+ - date_published: 2024-10-07T21:33:19+00:00
+
+ ## Department of Statistics
+ - [https://statistics.fas.harvard.edu](https://statistics.fas.harvard.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## HUIT Status
+ - [https://status.huit.harvard.edu](https://status.huit.harvard.edu)
+ - date_published: 2024-06-16T13:36:33.900124+00:00
+
+ ## Home | Dataverse Support
+ - [https://support.dataverse.harvard.edu](https://support.dataverse.harvard.edu)
+ - date_published: 2024-07-14T05:10:25.995779+00:00
+
+ ## Home | Harvard Trademark Program
+ - [https://trademark.harvard.edu](https://trademark.harvard.edu)
+ - date_published: 2024-04-30T04:46:02.480776+00:00
+
+ ## NASA/ADS
+ - [https://ui.adsabs.harvard.edu](https://ui.adsabs.harvard.edu)
+ - date_published: 2024-02-22T20:45:22+00:00
+
+ ## Undergraduate Research Scholars Program
+ - [https://urs.iq.harvard.edu](https://urs.iq.harvard.edu)
+ - date_published: 2024-07-14T14:36:24+00:00
+
+ ## Visual Computing Group
+ - [https://vcg.seas.harvard.edu](https://vcg.seas.harvard.edu)
+ - date_published: 2024-07-10T05:37:17.397336+00:00
+
+ ## Video.seas redirection
+ - [https://video.seas.harvard.edu](https://video.seas.harvard.edu)
+ - date_published: 2024-06-28T21:34:14+00:00
+
+ ## Harvard Votes Challenge
+ - [http://voteschallenge.harvard.edu](http://voteschallenge.harvard.edu)
+ - date_published: 2024-12-12T12:08:07+00:00
+
+ ## Weatherhead Center for International Affairs
+ - [https://wcfia.harvard.edu](https://wcfia.harvard.edu)
+ - date_published: 2024-04-30T04:46:13.887864+00:00
+
+ ## CampusPress at Harvard – WordPress-powered sites for the Harvard community
+ - [http://websites.harvard.edu](http://websites.harvard.edu)
+ - date_published: 2024-07-20T22:15:11+00:00
+
+ ## Dashboard - Harvard Wiki
+ - [https://wiki.harvard.edu](https://wiki.harvard.edu)
+ - date_published: 2024-06-15T13:02:25.934138+00:00
+
+ ## Berkman Klein Center Media Library
+ - [http://wilkins.law.harvard.edu](http://wilkins.law.harvard.edu)
+ - date_published: 2024-06-27T18:14:25.737799+00:00
+
+ ## Home | Harvard Division of Continuing Education
+ - [https://www.dce.harvard.edu](https://www.dce.harvard.edu)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Home - DF/HCC
+ - [https://www.dfhcc.harvard.edu](https://www.dfhcc.harvard.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Harvard Web Directory
+ - [https://www.directory.harvard.edu](https://www.directory.harvard.edu)
+ - date_published: 2024-08-11T05:21:38.100780+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://www-economist-com.ezp-prod1.hul.harvard.edu](https://www-economist-com.ezp-prod1.hul.harvard.edu)
+ - date_published: 2024-07-21T22:53:37.267520+00:00
+
+ ## Home | Harvard Energy & Facilities
+ - [http://www.energyandfacilities.harvard.edu](http://www.energyandfacilities.harvard.edu)
+ - date_published: 2024-09-18T22:44:05+00:00
+
+ ## Harvard Faculty of Arts and Sciences
+ - [http://www.fas.harvard.edu](http://www.fas.harvard.edu)
+ - date_published: 2024-07-01T15:00:14+00:00
+
+ ## Home
+ - [https://www.gsd.harvard.edu](https://www.gsd.harvard.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Harvard Online
+ - [https://www.harvardonline.harvard.edu](https://www.harvardonline.harvard.edu)
+ - date_published: 2024-08-07T18:48:58+00:00
+
+ ## Harvard Kennedy School
+ - [http://www.ksg.harvard.edu](http://www.ksg.harvard.edu)
+ - date_published: 2024-06-30T17:53:13+00:00
+
+ ## Museum of Comparative Zoology
+ - [http://www.mcz.harvard.edu](http://www.mcz.harvard.edu)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## The Mitragotri Laboratory for Drug Delivery
+ - [https://www.mitragotrilab.seas.harvard.edu](https://www.mitragotrilab.seas.harvard.edu)
+ - date_published: 2024-12-16T08:10:00.358519+00:00
+
+ ## Peabody Museum
+ - [http://www.peabody.harvard.edu](http://www.peabody.harvard.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Program on Institutional Investors at Harvard Law School
+ - [http://www.pii.law.harvard.edu](http://www.pii.law.harvard.edu)
+ - date_published: 2024-07-21T23:27:20.262086+00:00
+
+ ## Program on Law and Finance at Harvard Law School
+ - [http://www.plf.law.harvard.edu](http://www.plf.law.harvard.edu)
+ - date_published: 2024-07-21T23:27:07.773904+00:00
+
+ ## Homepage | Project Zero
+ - [http://www.pz.harvard.edu](http://www.pz.harvard.edu)
+ - date_published: 2024-06-23T11:18:19.638727+00:00
+
+ ## FAS Research Computing
+ - [http://www.rc.fas.harvard.edu](http://www.rc.fas.harvard.edu)
+ - date_published: 2024-08-18T13:36:04.928628+00:00
+
+ ## Harvard RSI
+Action
+ - [https://www.rsi.deas.harvard.edu](https://www.rsi.deas.harvard.edu)
+ - date_published: 2004-02-19T03:53:59+00:00
+
+ ## Harvard ALI Social Impact Review
+ - [https://www.sir.advancedleadership.harvard.edu](https://www.sir.advancedleadership.harvard.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Tan Yang Autism Center at Harvard
+ - [https://www.tanyangautismcenter.hms.harvard.edu](https://www.tanyangautismcenter.hms.harvard.edu)
+ - date_published: 2024-08-11T05:21:48.194236+00:00
+
+ ## Wyss Institute | Wyss Institute at Harvard
+ - [https://wyss.harvard.edu](https://wyss.harvard.edu)
+ - date_published: 2024-07-01T19:40:57.456018+00:00
+
+ ## Molecular Systems Lab Home
+ - [https://yin.hms.harvard.edu](https://yin.hms.harvard.edu)
+ - date_published: 2024-07-13T03:20:07.281060+00:00
+
+ ## Artificial Intelligence for Medicine and Science
+ - [https://zitniklab.hms.harvard.edu](https://zitniklab.hms.harvard.edu)
+ - date_published: 2024-06-23T20:28:05+00:00
+
+ ## Home | Haskell Indian Nations University
+ - [https://www.haskell.edu](https://www.haskell.edu)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Haverford Scholarship | Haverford College Research
+ - [https://scholarship.haverford.edu](https://scholarship.haverford.edu)
+ - date_published: 2024-07-02T10:48:28.894973+00:00
+
+ ## Sara Mathieson
+ - [https://smathieson.sites.haverford.edu](https://smathieson.sites.haverford.edu)
+ - date_published: 2024-12-16T07:53:54.212750+00:00
+
+ ## Haverford College
+ - [https://www.haverford.edu](https://www.haverford.edu)
+ - date_published: 2024-12-16T04:26:37+00:00
+
+ ## About - About the IfA
+ - [https://about.ifa.hawaii.edu](https://about.ifa.hawaii.edu)
+ - date_published: 2024-08-08T21:21:16.814050+00:00
+
+ ## JABSOM Admissions | John A. Burns School of Medicine
+ - [https://admissions.jabsom.hawaii.edu](https://admissions.jabsom.hawaii.edu)
+ - date_published: 2024-08-02T23:50:23+00:00
+
+ ## Apply to the University of Hawaiʻi
+ - [https://apply.hawaii.edu](https://apply.hawaii.edu)
+ - date_published: 2024-04-30T04:49:22.754177+00:00
+
+ ## Arts Center Home
+ - [https://artscenter.uhh.hawaii.edu](https://artscenter.uhh.hawaii.edu)
+ - date_published: 2023-01-26T00:18:00+00:00
+
+ ## Welcome to the College of Business and Economics
+ - [https://business.uhh.hawaii.edu](https://business.uhh.hawaii.edu)
+ - date_published: 2024-07-21T22:56:05.945676+00:00
+
+ ## 2024-2025 Catalog | Kauaʻi Community College
+ - [https://catalog.kauai.hawaii.edu](https://catalog.kauai.hawaii.edu)
+ - date_published: 2024-07-12T15:48:45+00:00
+
+ ## University of Hawaiʻi Maui College Catalog 2023-2024 | Maui College
+ - [https://catalog.maui.hawaii.edu](https://catalog.maui.hawaii.edu)
+ - date_published: 2024-07-22T16:21:13+00:00
+
+ ## Windward Community College Course Catalog 2024-2025 | Windward Community College
+ - [https://catalog.windward.hawaii.edu](https://catalog.windward.hawaii.edu)
+ - date_published: 2024-06-23T07:22:30+00:00
+
+ ## CTAHR Website > Home
+ - [https://cms.ctahr.hawaii.edu](https://cms.ctahr.hawaii.edu)
+ - date_published: 2024-07-21T22:56:13.804395+00:00
+
+ ## College of Education, University of Hawaiʻi at Mānoa
+ - [https://coe.hawaii.edu](https://coe.hawaii.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Continuing Education | Office of Continuing Education & Training
+ - [https://continuinged.kapiolani.hawaii.edu](https://continuinged.kapiolani.hawaii.edu)
+ - date_published: 2024-07-21T23:08:01.194803+00:00
+
+ ## CSDL
+ - [https://csdl.ics.hawaii.edu](https://csdl.ics.hawaii.edu)
+ - date_published: 2023-09-19T17:24:38+00:00
+
+ ## Culinary Institute of the Pacific
+ - [https://culinaryinstitute.hawaii.edu](https://culinaryinstitute.hawaii.edu)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Leeward Community College CustomViewbook
+ - [https://customviewbook.leeward.hawaii.edu](https://customviewbook.leeward.hawaii.edu)
+ - date_published: 2024-08-11T06:29:23.539979+00:00
+
+ ## EDvance | Continuing Education and Workforce Development
+ - [http://edvance.hawaii.hawaii.edu](http://edvance.hawaii.hawaii.edu)
+ - date_published: 2024-07-21T22:55:55.473119+00:00
+
+ ## UH Login - Loading Session Information
+ - [https://gmail.hawaii.edu](https://gmail.hawaii.edu)
+ - date_published: 2024-07-21T23:03:39.963472+00:00
+
+ ## IIS Windows Server
+ - [https://gms.ctahr.hawaii.edu](https://gms.ctahr.hawaii.edu)
+ - date_published: 2023-08-22T06:52:08+00:00
+
+ ## URL Shortening Service
+ - [https://go.hawaii.edu](https://go.hawaii.edu)
+ - date_published: 2024-08-06T18:33:42.093844+00:00
+
+ ## Kapiʻolani CC Library LibGuides: Library Website: Homepage: Home
+ - [https://guides.library.kapiolani.hawaii.edu](https://guides.library.kapiolani.hawaii.edu)
+ - date_published: 2024-07-21T23:08:02.920236+00:00
+
+ ## University of Hawaii System
+ - [https://hawaii.edu](https://hawaii.edu)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Welina Mai - Welcome | Hawaii Community College
+ - [https://hawaii.hawaii.edu](https://hawaii.hawaii.edu)
+ - date_published: 2024-04-30T04:49:20.021952+00:00
+
+ ## University of Hawaii at Hilo
+ - [https://hilo.hawaii.edu](https://hilo.hawaii.edu)
+ - date_published: 2024-04-30T04:49:13.457437+00:00
+
+ ## Honolulu Community College
+ - [http://honolulu.hawaii.edu](http://honolulu.hawaii.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## JABSOM Library: JABSOM Library: Home
+ - [https://hslib.jabsom.hawaii.edu](https://hslib.jabsom.hawaii.edu)
+ - date_published: 2024-08-08T21:21:10.878101+00:00
+
+ ## Leeward Community College – Leeward Community College
+ - [https://intranet.leeward.hawaii.edu](https://intranet.leeward.hawaii.edu)
+ - date_published: 2024-08-10T00:00:00+00:00
+
+ ## Log In ‹ WCC Intranet — WordPress
+ - [https://intranet.windward.hawaii.edu](https://intranet.windward.hawaii.edu)
+ - date_published: 2024-07-21T23:08:48.607469+00:00
+
+ ## Home Page | John A. Burns School of Medicine
+ - [http://jabsom.hawaii.edu](http://jabsom.hawaii.edu)
+ - date_published: 2024-07-21T09:09:49+00:00
+
+ ## Ka 'Ohana – News From Campus To Community
+ - [http://kaohana.windward.hawaii.edu](http://kaohana.windward.hawaii.edu)
+ - date_published: 2024-07-21T23:08:55.746180+00:00
+
+ ## Kapi'olani Community College | Kūlia I Ka Nu‘u
+ - [https://kapiolani.hawaii.edu](https://kapiolani.hawaii.edu)
+ - date_published: 2024-04-30T04:48:43.051782+00:00
+
+ ## Welcome Home | Kauai Community College
+ - [https://kauai.hawaii.edu](https://kauai.hawaii.edu)
+ - date_published: 2024-04-30T04:49:06.776028+00:00
+
+ ## University of Hawaii William S. Richardson School of Law
+ - [https://law.hawaii.edu](https://law.hawaii.edu)
+ - date_published: 2024-07-21T22:54:42.468129+00:00
+
+ ## Library: Leeward Community College Library: Library Home
+ - [https://library.leeward.hawaii.edu](https://library.leeward.hawaii.edu)
+ - date_published: 2024-08-11T06:28:51.340819+00:00
+
+ ## Library: Windward Community College Library: Home
+ - [https://library.wcc.hawaii.edu](https://library.wcc.hawaii.edu)
+ - date_published: 2024-07-21T23:08:57.373411+00:00
+
+ ## University of Hawaiʻi at Mānoa | Take Me To Manoa
+ - [https://manoa.hawaii.edu](https://manoa.hawaii.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Map Gallery
+ - [https://map.hawaii.edu](https://map.hawaii.edu)
+ - date_published: 2023-03-23T20:59:24+00:00
+
+ ## Department of Mathematics | University of Hawaiʻi at Mānoa
+ - [https://math.hawaii.edu](https://math.hawaii.edu)
+ - date_published: 2024-06-30T09:12:46.112911+00:00
+
+ ## University of Hawaii Maui College - We Are Maui More Than Ever
+ - [https://maui.hawaii.edu](https://maui.hawaii.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## MyUH Services
+ - [https://myuh.hawaii.edu](https://myuh.hawaii.edu)
+ - date_published: 2024-04-30T04:49:55.803675+00:00
+
+ ## NFLRC | National Foreign Language Resource Center
+ - [http://nflrc.hawaii.edu](http://nflrc.hawaii.edu)
+ - date_published: 2024-09-02T16:31:27.211669+00:00
+
+ ## Nancy Atmospera-Walch School of Nursing
+ - [https://nursing.hawaii.edu](https://nursing.hawaii.edu)
+ - date_published: 2024-07-21T22:54:56.069212+00:00
+
+ ## Office of Continuing Education – OCET
+ - [https://ocet.kauai.hawaii.edu](https://ocet.kauai.hawaii.edu)
+ - date_published: 2024-07-21T23:03:42.782432+00:00
+
+ ## Home
+ - [https://olelo.hawaii.edu](https://olelo.hawaii.edu)
+ - date_published: 2023-10-25T01:38:34+00:00
+
+ ## Welcome to the Daniel K. Inouye College of Pharmacy
+ - [http://pharmacy.uhh.hawaii.edu](http://pharmacy.uhh.hawaii.edu)
+ - date_published: 2024-06-10T07:23:09+00:00
+
+ ## Office of the Vice President for Research and Innovation
+ - [https://research.hawaii.edu](https://research.hawaii.edu)
+ - date_published: 2024-08-08T21:21:21.802003+00:00
+
+ ## Campus Student Employment Office | Log In
+ - [https://sece.its.hawaii.edu](https://sece.its.hawaii.edu)
+ - date_published: 2024-07-21T23:03:30.914727+00:00
+
+ ## University of Hawaiʻi at Mānoa Shidler College of Business
+ - [http://shidler.hawaii.edu](http://shidler.hawaii.edu)
+ - date_published: 2024-07-21T22:54:28+00:00
+
+ ## STAR: A University of Hawaii Venture - Login
+ - [https://star.hawaii.edu](https://star.hawaii.edu)
+ - date_published: 2024-07-21T22:55:30.120034+00:00
+
+ ## WelcomePage - Starlink
+ - [https://starlink.eao.hawaii.edu](https://starlink.eao.hawaii.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## University Center, Maui
+ - [http://uctrmaui.hawaii.edu](http://uctrmaui.hawaii.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Login
+ - [http://uhad.hawaii.edu](http://uhad.hawaii.edu)
+ - date_published: 2024-09-05T09:54:58.024750+00:00
+
+ ## Home
+ - [https://uhcc.hawaii.edu](https://uhcc.hawaii.edu)
+ - date_published: 2024-04-30T04:50:27.431940+00:00
+
+ ## University of Hawai'i–West O'ahu
+ - [https://uhwo.hawaii.edu](https://uhwo.hawaii.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## University of Hawai'i–West O'ahu
+ - [https://westoahu.hawaii.edu](https://westoahu.hawaii.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Windward Community College
+ - [https://windward.hawaii.edu](https://windward.hawaii.edu)
+ - date_published: 2024-04-30T04:48:02.805740+00:00
+
+ ## Home
+ - [https://wp01.leeward.hawaii.edu](https://wp01.leeward.hawaii.edu)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Redirecting you to University of Hawaii...
+ - [https://www2.hawaii.edu](https://www2.hawaii.edu)
+ - date_published: 2009-08-26T01:52:49+00:00
+
+ ## Leeward Community College – Leeward Community College
+ - [http://www2.leeward.hawaii.edu](http://www2.leeward.hawaii.edu)
+ - date_published: 2024-08-10T00:00:00+00:00
+
+ ## Hawaii/Pacific Basin Area Health Education Center - AHEC
+ - [http://www.ahec.hawaii.edu](http://www.ahec.hawaii.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Anthropology (ANTH) – College of Social Sciences, UH Mānoa, Hawaiʻi
+ - [http://www.anthropology.hawaii.edu](http://www.anthropology.hawaii.edu)
+ - date_published: 2024-06-24T10:34:23.904271+00:00
+
+ ## Welcome | University of Hawai'i Bookstores
+ - [https://www.bookstore.hawaii.edu](https://www.bookstore.hawaii.edu)
+ - date_published: 2024-07-21T23:03:35.897989+00:00
+
+ ## CTAHR Website > Home
+ - [http://www.ctahr.hawaii.edu](http://www.ctahr.hawaii.edu)
+ - date_published: 2024-10-15T07:11:59.301708+00:00
+
+ ## EAO Hawaii Facility – Hilo, Hawaii
+ - [https://www.eao.hawaii.edu](https://www.eao.hawaii.edu)
+ - date_published: 2024-10-16T08:39:53.882286+00:00
+
+ ## University of Hawai'i College of Engineering
+ - [https://www.eng.hawaii.edu](https://www.eng.hawaii.edu)
+ - date_published: 2024-07-21T22:54:22.750489+00:00
+
+ ## Information and Computer Sciences – University of Hawai‘i at Mānoa
+ - [http://www.ics.hawaii.edu](http://www.ics.hawaii.edu)
+ - date_published: 2024-09-03T21:19:08.414165+00:00
+
+ ## Home
+ - [https://www.leeward.hawaii.edu](https://www.leeward.hawaii.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Your future is our focus.
+ - [https://www.outreach.hawaii.edu](https://www.outreach.hawaii.edu)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Banner 8 Self-Service (SSB)
+ - [https://www.sis.hawaii.edu](https://www.sis.hawaii.edu)
+ - date_published: 2019-07-16T00:21:05+00:00
+
+ ## Get Your Degree at a Distance
+ - [https://www.uhonline.hawaii.edu](https://www.uhonline.hawaii.edu)
+ - date_published: 2024-07-21T23:03:44.785157+00:00
+
+ ## Alumni - Harvard Business School
+ - [https://alumni.hbs.edu](https://alumni.hbs.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Fast Answers - Fast Answers
+ - [https://asklib.library.hbs.edu](https://asklib.library.hbs.edu)
+ - date_published: 2024-07-21T22:53:34.484533+00:00
+
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [https://cloudinary.hbs.edu](https://cloudinary.hbs.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Home | Digital Data Design Institute at Harvard
+ - [https://digital.hbs.edu](https://digital.hbs.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Entrepreneurship - Harvard Business School
+ - [https://entrepreneurship.hbs.edu](https://entrepreneurship.hbs.edu)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Harvard Business School
+ - [https://hbs.edu](https://hbs.edu)
+ - date_published: 2024-07-21T22:53:41.961269+00:00
+
+ ## HBS Working Knowledge – Harvard Business School Faculty Research
+ - [https://hbswk.hbs.edu](https://hbswk.hbs.edu)
+ - date_published: 2023-10-25T18:52:16.527569+00:00
+
+ ## Baker Library | Bloomberg Center | Harvard Business School
+ - [https://library.hbs.edu](https://library.hbs.edu)
+ - date_published: 2024-04-30T04:55:49.228900+00:00
+
+ ## Harvard Business School Online Courses & Learning Platforms
+ - [https://online.hbs.edu](https://online.hbs.edu)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Executive Education - Harvard Business School
+ - [https://www.exed.hbs.edu](https://www.exed.hbs.edu)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Institute For Strategy And Competitiveness - Harvard Business School
+ - [https://www.isc.hbs.edu](https://www.isc.hbs.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Search for Classes | HCC
+ - [https://classes.hccfl.edu](https://classes.hccfl.edu)
+ - date_published: 2024-04-04T17:22:28+00:00
+
+ ## Home | Hillsborough Community College
+ - [https://hccfl.edu](https://hccfl.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Center for International Education
+ - [https://international.hccfl.edu](https://international.hccfl.edu)
+ - date_published: 2024-02-08T22:24:58.075754+00:00
+
+ ## MyHCC
+ - [https://my.hccfl.edu](https://my.hccfl.edu)
+ - date_published: 2024-04-16T02:08:01+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://news.hccfl.edu](https://news.hccfl.edu)
+ - date_published: 2024-07-20T22:29:11.439325+00:00
+
+ ## Hebrew College - A Private, Not-for-Profit College of Jewish Studies in MA
+ - [https://hebrewcollege.edu](https://hebrewcollege.edu)
+ - date_published: 2024-07-14T14:33:51.616869+00:00
+
+ ## HEC Paris
+ - [http://www.hec.edu](http://www.hec.edu)
+ - date_published: 2024-06-17T10:11:44+00:00
+
+ ## Admission | Hendrix College
+ - [https://apply.hendrix.edu](https://apply.hendrix.edu)
+ - date_published: 2024-06-30T02:01:26.400578+00:00
+
  ## Hendrix College
  - [https://hendrix.edu](https://hendrix.edu)
  - date_published: 2024-05-07T14:49:45.124041+00:00
@@ -2988,1025 +4010,4 @@ Data Services
  ## Information Technology | Kent State University
  - [https://support.kent.edu](https://support.kent.edu)
  - date_published: 2024-07-01T03:56:43+00:00
-
- ## Welcome to KSU | Kent State University
- - [https://welcome.kent.edu](https://welcome.kent.edu)
- - date_published: 2024-07-01T00:13:24+00:00
-
- ## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
- - [https://www.kent.edu](https://www.kent.edu)
- - date_published: 2023-10-25T11:22:42.294245+00:00
-
- ## Chicago-Kent College of Law | Chicago-Kent College of Law
- - [https://www.kentlaw.edu](https://www.kentlaw.edu)
- - date_published: 2024-03-24T16:57:37.545830+00:00
-
- ## Branding
- - [http://brand.kgi.edu](http://brand.kgi.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## KGI - Ebook Download
- - [https://ebook.kgi.edu](https://ebook.kgi.edu)
- - date_published: 2018-04-25T00:00:00+00:00
-
- ## Home
- - [https://kgi.edu](https://kgi.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Give Now
- - [https://legacy.kgi.edu](https://legacy.kgi.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Home - Professional and Continuing Education
- - [https://pce.kgi.edu](https://pce.kgi.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Kirkwood Community College
- - [https://apply.kirkwood.edu](https://apply.kirkwood.edu)
- - date_published: 2024-06-20T16:48:48.205510+00:00
-
- ## Kirkwood MyHub
- - [https://hub.kirkwood.edu](https://hub.kirkwood.edu)
- - date_published: 2024-05-29T14:50:26+00:00
-
- ## Welcome | Kirkwood Bookstore & EagleShop
- - [https://shop.kirkwood.edu](https://shop.kirkwood.edu)
- - date_published: 2024-06-20T16:48:36.038713+00:00
-
- ## Homepage | Kirkwood Community College | Cedar Rapids, Iowa
- - [https://www.kirkwood.edu](https://www.kirkwood.edu)
- - date_published: 2024-05-04T09:28:08.118028+00:00
-
- ## KIT – ITI Algorithm Engineering –  Willkommen am Institut für Theoretische Informatik, Algorithm Engineering
- - [https://ae.iti.kit.edu](https://ae.iti.kit.edu)
- - date_published: 2024-08-18T18:45:34.893256+00:00
-
- ## KIT – ITI Algorithm Engineering –  Willkommen am Institut für Theoretische Informatik, Algorithm Engineering
- - [https://algo2.iti.kit.edu](https://algo2.iti.kit.edu)
- - date_published: 2024-08-18T18:45:49.700533+00:00
-
- ## KIT - Computergrafik - Startseite
- - [https://cg.ivd.kit.edu](https://cg.ivd.kit.edu)
- - date_published: 2024-06-22T07:29:11.391219+00:00
-
- ## KIT - Startseite
- - [http://doktorandenkonvent.informatik.kit.edu](http://doktorandenkonvent.informatik.kit.edu)
- - date_published: 2024-07-24T04:12:08.748227+00:00
-
- ## H²T Startseite
- - [https://h2t.iar.kit.edu](https://h2t.iar.kit.edu)
- - date_published: 2024-07-24T04:12:15.158627+00:00
-
- ## KIT – Fakultät für Informatik – Startseite
- - [https://informatik.kit.edu](https://informatik.kit.edu)
- - date_published: 2024-04-29T06:57:26.121582+00:00
-
- ## Web Login Service
- - [https://intranet.kit.edu](https://intranet.kit.edu)
- - date_published: 2024-07-22T12:13:45.102339+00:00
-
- ## KIT - Karlsruher Institut für Technologie
- - [https://kit.edu](https://kit.edu)
- - date_published: 2024-04-30T02:11:02.437703+00:00
-
- ## Unconfigured server
- - [https://static.scc.kit.edu](https://static.scc.kit.edu)
- - date_published: 2024-07-22T12:13:32.744242+00:00
-
- ## KIT - Stiftungsprofessur für zuverlässige Softwaresysteme in der Automobilindustrie, gefördert vom Daimler-Fonds im Stifterverband für die Deutsche Wissenschaft
- - [http://verialg.iti.kit.edu](http://verialg.iti.kit.edu)
- - date_published: 2024-08-18T18:46:05.377984+00:00
-
- ## KIT-Bibliothek |  KIT-Bibliothek Startseite
- - [http://www.bibliothek.kit.edu](http://www.bibliothek.kit.edu)
- - date_published: 2024-10-20T03:36:58.675768+00:00
-
- ## KIT-CSE- Startseite
- - [https://www.cse.kit.edu](https://www.cse.kit.edu)
- - date_published: 2024-07-22T12:13:54.048838+00:00
-
- ## KIT - IAI - Institut
- - [https://www.iai.kit.edu](https://www.iai.kit.edu)
- - date_published: 2024-07-02T17:18:00.449014+00:00
-
- ## KIT-INTL  Portal
- - [https://www.intl.kit.edu](https://www.intl.kit.edu)
- - date_published: 2024-07-22T12:13:37.263495+00:00
-
- ## KIT - IRM - Startseite
- - [https://www.irm.kit.edu](https://www.irm.kit.edu)
- - date_published: 2024-07-22T12:13:50.525574+00:00
-
- ## KIT - Karlsruhe House of Young Scientists (KHYS) Startseite
- - [https://www.khys.kit.edu](https://www.khys.kit.edu)
- - date_published: 2024-07-22T12:13:56.098781+00:00
-
- ## KIT - Konvent Startseite
- - [http://www.konvent.kit.edu](http://www.konvent.kit.edu)
- - date_published: 2024-07-22T12:13:46.743043+00:00
-
- ## KIT -  PSE - Startseite
- - [https://www.pse.kit.edu](https://www.pse.kit.edu)
- - date_published: 2024-07-22T12:13:30.961762+00:00
-
- ## KIT - Dienstleistungseinheit Studium und Lehre - Startseite
- - [https://www.sle.kit.edu](https://www.sle.kit.edu)
- - date_published: 2024-07-22T12:13:48.528177+00:00
-
- ## KIT - STS - Startseite
- - [https://www.sts.kit.edu](https://www.sts.kit.edu)
- - date_published: 2024-07-22T12:13:41.977740+00:00
-
- ## KIT - Technologietransfer - Startseite
- - [https://www.techtransfer.kit.edu](https://www.techtransfer.kit.edu)
- - date_published: 2024-07-22T12:13:39.205078+00:00
-
- ## KIT - wbk Startseite
- - [https://www.wbk.kit.edu](https://www.wbk.kit.edu)
- - date_published: 2024-12-12T15:44:18.171882+00:00
-
- ## KIT Wirtschaftsinformatik - Startseite
- - [https://www.wirtschaftsinformatik.kit.edu](https://www.wirtschaftsinformatik.kit.edu)
- - date_published: 2024-07-24T04:12:13.705274+00:00
-
- ## Korea University Websites
- - [https://www.korea.edu](https://www.korea.edu)
- - date_published: 2022-02-21T08:07:34+00:00
-
- ## College of Architecture, Planning and Design at Kansas State University
- - [https://apdesign.k-state.edu](https://apdesign.k-state.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## College of Arts and Sciences
- - [https://artsci.k-state.edu](https://artsci.k-state.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Login - Sign in | Kansas State University
- - [https://canvas.k-state.edu](https://canvas.k-state.edu)
- - date_published: 2024-05-07T19:16:58.132635+00:00
-
- ## Kansas State University - Acalog ACMS™
- - [https://catalog.k-state.edu](https://catalog.k-state.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## College of Business Administration
- - [https://cba.k-state.edu](https://cba.k-state.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Center for Cybersecurity and Trustworthy Systems
- - [https://cisa.k-state.edu](https://cisa.k-state.edu)
- - date_published: 2023-10-19T00:00:00+00:00
-
- ## K-State College of Education
- - [https://coe.k-state.edu](https://coe.k-state.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Recent events update | News and Communications Services | Kansas State University
- - [https://connect.k-state.edu](https://connect.k-state.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Academics | Kansas State University
- - [https://courses.k-state.edu](https://courses.k-state.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Department of Computer Science at K-State
- - [https://cs.k-state.edu](https://cs.k-state.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Login - Sign in | Kansas State University
- - [https://eid.k-state.edu](https://eid.k-state.edu)
- - date_published: 2024-07-01T11:14:54.064117+00:00
-
- ## Carl R. Ice College of Engineering at K-State
- - [https://engg.k-state.edu](https://engg.k-state.edu)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Events Calendar - Events
- - [https://events.k-state.edu](https://events.k-state.edu)
- - date_published: 2024-07-01T11:14:22.079055+00:00
-
- ## Research Guides
- - [https://guides.lib.k-state.edu](https://guides.lib.k-state.edu)
- - date_published: 2024-07-01T11:20:48.381988+00:00
-
- ## Housing and Dining Services
- - [https://housing.k-state.edu](https://housing.k-state.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Center for Cybersecurity and Trustworthy Systems
- - [https://kcats.k-state.edu](https://kcats.k-state.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## K-REx :: Home
- - [https://krex.k-state.edu](https://krex.k-state.edu)
- - date_published: 2024-07-01T11:21:11.244256+00:00
-
- ## K-State Research and Extension
- - [https://ksre.k-state.edu](https://ksre.k-state.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Kansas State University
- - [https://k-state.edu](https://k-state.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## K-State Libraries
- - [https://lib.k-state.edu](https://lib.k-state.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## K-State Olathe
- - [https://olathe.k-state.edu](https://olathe.k-state.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## K-State Online
- - [https://online.k-state.edu](https://online.k-state.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Kansas State University
- - [https://orgcentral.k-state.edu](https://orgcentral.k-state.edu)
- - date_published: 2024-05-07T19:17:11.652087+00:00
-
- ## Recreational Services
- - [https://recservices.k-state.edu](https://recservices.k-state.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Kansas State Salina
- - [https://salina.k-state.edu](https://salina.k-state.edu)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Search | Kansas State University
- - [https://search.k-state.edu](https://search.k-state.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Login - Sign in | Kansas State University
- - [https://signin.k-state.edu](https://signin.k-state.edu)
- - date_published: 2024-07-01T11:19:57.768703+00:00
-
- ## Qualtrics
- - [https://survey.k-state.edu](https://survey.k-state.edu)
- - date_published: 2023-06-14T00:00:00+00:00
-
- ## K-State Student Union | Kansas State University
- - [https://union.k-state.edu](https://union.k-state.edu)
- - date_published: 2024-07-01T10:25:54+00:00
-
- ## CMS Redirect
- - [https://webcms.k-state.edu](https://webcms.k-state.edu)
- - date_published: 2024-05-07T19:17:44.188672+00:00
-
- ## Please wait...
- - [https://webmail.k-state.edu](https://webmail.k-state.edu)
- - date_published: 2024-05-07T19:17:01.570828+00:00
-
- ## College of Agriculture
- - [https://www.ag.k-state.edu](https://www.ag.k-state.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Department of Agronomy | Kansas State University
- - [https://www.agronomy.k-state.edu](https://www.agronomy.k-state.edu)
- - date_published: 2023-06-27T00:00:00+00:00
-
- ## Department of Communications and Agricultural Education
- - [https://www.communications.k-state.edu](https://www.communications.k-state.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## College of Health and Human Sciences
- - [https://www.hhs.k-state.edu](https://www.hhs.k-state.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Kansas State University
- - [http://www.k-state.edu](http://www.k-state.edu)
- - date_published: 2024-11-04T21:49:30.914821+00:00
-
- ## K-State College of Veterinary Medicine Home Page
- - [https://www.vet.k-state.edu](https://www.vet.k-state.edu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## K-State Association for Computing Machinery
- - [https://acm.cs.ksu.edu](https://acm.cs.ksu.edu)
- - date_published: 2024-04-17T03:05:42+00:00
-
- ## K-State ACM SIGAI
- - [https://acm-sigai.cs.ksu.edu](https://acm-sigai.cs.ksu.edu)
- - date_published: 2024-07-11T13:09:50.053496+00:00
-
- ## ALT+CS Lab
- - [https://alt.cs.ksu.edu](https://alt.cs.ksu.edu)
- - date_published: 2024-06-27T16:51:28+00:00
-
- ## CS Applications - Home
- - [https://apps.cs.ksu.edu](https://apps.cs.ksu.edu)
- - date_published: 2024-05-07T19:17:12.648572+00:00
-
- ## Center for Artificial Intelligence and Data Science
- - [https://caids.cs.ksu.edu](https://caids.cs.ksu.edu)
- - date_published: 2024-03-05T23:08:49+00:00
-
- ## home    [Machine Learning and Data Science Lab @ K-State]
- - [http://caragea-wiki.cs.ksu.edu](http://caragea-wiki.cs.ksu.edu)
- - date_published: 2024-07-01T11:14:36.621884+00:00
-
- ## Engineering Computing Services | Engineering Computing Services
- - [https://cecs.engg.ksu.edu](https://cecs.engg.ksu.edu)
- - date_published: 2024-07-01T10:35:28+00:00
-
- ## Department of Computer Science at K-State
- - [https://cis.ksu.edu](https://cis.ksu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Department of Computer Science at K-State
- - [https://cs.ksu.edu](https://cs.ksu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Data Semantics Lab
- - [https://daselab.cs.ksu.edu](https://daselab.cs.ksu.edu)
- - date_published: 2024-07-01T11:14:44.703164+00:00
-
- ## Carl R. Ice College of Engineering at K-State
- - [https://engg.ksu.edu](https://engg.ksu.edu)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## K-State GDC
- - [https://gdc.cs.ksu.edu](https://gdc.cs.ksu.edu)
- - date_published: 2020-02-03T06:08:13+00:00
-
- ## Kansas State University
- - [https://ksu.edu](https://ksu.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Multiagent & Cooperative Reasoning Laboratory - Kansas State University
- - [http://macr.cs.ksu.edu](http://macr.cs.ksu.edu)
- - date_published: 2016-12-08T20:03:10+00:00
-
- ## K-State MDC
- - [https://mdc.cs.ksu.edu](https://mdc.cs.ksu.edu)
- - date_published: 2024-05-07T19:17:04.324614+00:00
-
- ## K-State ACM SIGAI
- - [https://people.cis.ksu.edu](https://people.cis.ksu.edu)
- - date_published: 2024-05-09T09:12:16.301047+00:00
-
- ## People
- - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
- - date_published: 2023-10-25T18:53:27.215934+00:00
-
- ## K-State Web Dev Club
- - [https://wdc.cs.ksu.edu](https://wdc.cs.ksu.edu)
- - date_published: 2019-02-27T01:14:52+00:00
-
- ## Please wait...
- - [https://webmail.ksu.edu](https://webmail.ksu.edu)
- - date_published: 2024-07-01T11:22:25.357090+00:00
-
- ## Agricultural Economics | Kansas State University
- - [https://www.ageconomics.ksu.edu](https://www.ageconomics.ksu.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Home Page
- - [https://admissions.ktu.edu](https://admissions.ktu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home
- - [https://advancedmaterials.ktu.edu](https://advancedmaterials.ktu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Pradžia
- - [https://aicentre.ktu.edu](https://aicentre.ktu.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Kauno technologijos universiteto alumnų asociacija. KTU alumnai.
- - [https://alumni.ktu.edu](https://alumni.ktu.edu)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## APCIS
- - [https://apcis.ktu.edu](https://apcis.ktu.edu)
- - date_published: 2024-07-01T11:24:39.197337+00:00
-
- ## Research
- - [https://apinien.ktu.edu](https://apinien.ktu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Mokslas
- - [https://apini.ktu.edu](https://apini.ktu.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Kaunas University of Technology
- - [https://apply.ktu.edu](https://apply.ktu.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Research
- - [https://asien.ktu.edu](https://asien.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Mokslas
- - [https://asi.ktu.edu](https://asi.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Pradžia
- - [https://bendrabuciai.ktu.edu](https://bendrabuciai.ktu.edu)
- - date_published: 2024-07-01T11:24:05.276622+00:00
-
- ## Bibliotekos paslaugos
- - [https://biblioteka.ktu.edu](https://biblioteka.ktu.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Apie
- - [https://biomedicina.ktu.edu](https://biomedicina.ktu.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## About
- - [https://biomedicine.ktu.edu](https://biomedicine.ktu.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Home
- - [https://business.ktu.edu](https://business.ktu.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Home
- - [https://centenary.ktu.edu](https://centenary.ktu.edu)
- - date_published: 2023-11-06T00:00:00+00:00
-
- ## Home
- - [https://compsystems.ktu.edu](https://compsystems.ktu.edu)
- - date_published: 2023-06-22T00:00:00+00:00
-
- ## Home
- - [https://csci.ktu.edu](https://csci.ktu.edu)
- - date_published: 2023-12-20T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://ctf.ktu.edu](https://ctf.ktu.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Pradžia
- - [https://dicentras.ktu.edu](https://dicentras.ktu.edu)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Pradžia
- - [https://dormitory.ktu.edu](https://dormitory.ktu.edu)
- - date_published: 2023-12-22T00:00:00+00:00
-
- ## ECIU University
- - [https://eciu-en.ktu.edu](https://eciu-en.ktu.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Apie ECIU universitetą
- - [https://eciu.ktu.edu](https://eciu.ktu.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Home
- - [https://edulab-en.ktu.edu](https://edulab-en.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Pradžia
- - [https://edulab.ktu.edu](https://edulab.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Pradinis
- - [https://eef.ktu.edu](https://eef.ktu.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Pradžia
- - [https://emeritus.ktu.edu](https://emeritus.ktu.edu)
- - date_published: 2024-05-07T19:17:49.924180+00:00
-
- ## Home
- - [https://en.ktu.edu](https://en.ktu.edu)
- - date_published: 2023-12-25T16:53:53.461151+00:00
-
- ## Pradinis puslapis
- - [https://evf.ktu.edu](https://evf.ktu.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://fcea.ktu.edu](https://fcea.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [https://fct.ktu.edu](https://fct.ktu.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Home
- - [https://feee.ktu.edu](https://feee.ktu.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home
- - [https://fi.ktu.edu](https://fi.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [https://fmed.ktu.edu](https://fmed.ktu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home
- - [https://fmns.ktu.edu](https://fmns.ktu.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Research
- - [https://food.ktu.edu](https://food.ktu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Home
- - [https://fssah.ktu.edu](https://fssah.ktu.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://if.ktu.edu](https://if.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://ktu.edu](https://ktu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Pradžia
- - [https://leidykla.ktu.edu](https://leidykla.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Library Services
- - [https://library.ktu.edu](https://library.ktu.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Mokslas
- - [https://maistas.ktu.edu](https://maistas.ktu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Research
- - [https://materials.ktu.edu](https://materials.ktu.edu)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Research
- - [https://mechatronics.ktu.edu](https://mechatronics.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Mokslas
- - [https://mechatronika.ktu.edu](https://mechatronika.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Mokslas
- - [https://medziagos.ktu.edu](https://medziagos.ktu.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://mgmf.ktu.edu](https://mgmf.ktu.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Pradžia
- - [https://midf.ktu.edu](https://midf.ktu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## KTU kviečia mokyklas atrasti technologijų pasaulį!
- - [https://mokykloms.ktu.edu](https://mokykloms.ktu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Prisijungti
- - [http://moodle.ktu.edu](http://moodle.ktu.edu)
- - date_published: 2024-07-01T11:54:14.466148+00:00
-
- ## Home
- - [https://museum.ktu.edu](https://museum.ktu.edu)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Pradžia
- - [https://muziejus.ktu.edu](https://muziejus.ktu.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Home
- - [https://niec.ktu.edu](https://niec.ktu.edu)
- - date_published: 2021-07-23T00:00:00+00:00
-
- ## Pradžia
- - [https://nivc.ktu.edu](https://nivc.ktu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Pradžia
- - [https://oac.ktu.edu](https://oac.ktu.edu)
- - date_published: 2022-12-21T00:00:00+00:00
-
- ## Centre for Packaging Innovations and Research
- - [https://packaging.ktu.edu](https://packaging.ktu.edu)
- - date_published: 2023-12-20T00:00:00+00:00
-
- ## Home
- - [https://pftb.ktu.edu](https://pftb.ktu.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Pradžia
- - [https://poilsiavietes.ktu.edu](https://poilsiavietes.ktu.edu)
- - date_published: 2022-04-26T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://ptvf.ktu.edu](https://ptvf.ktu.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://saf.ktu.edu](https://saf.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [https://scpconference.ktu.edu](https://scpconference.ktu.edu)
- - date_published: 2023-03-29T00:00:00+00:00
-
- ## Home
- - [https://seb.ktu.edu](https://seb.ktu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Socialinių, humanitarinių mokslų ir menų fakultetas | KTU
- - [https://shmmf.ktu.edu](https://shmmf.ktu.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## About us
- - [https://startupspace-en.ktu.edu](https://startupspace-en.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Pradžia
- - [https://stojantiesiems.ktu.edu](https://stojantiesiems.ktu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## KTU studentams
- - [https://studentams.ktu.edu](https://studentams.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## For KTU Students
- - [https://students.ktu.edu](https://students.ktu.edu)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Home
- - [https://su.ktu.edu](https://su.ktu.edu)
- - date_published: 2023-09-25T00:00:00+00:00
-
- ## Research
- - [https://telematics.ktu.edu](https://telematics.ktu.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Mokslas
- - [https://telematika.ktu.edu](https://telematika.ktu.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Elektroniniai mokslo duomenų ištekliai / Research Guides
- - [https://temos.ktu.edu](https://temos.ktu.edu)
- - date_published: 2024-07-01T11:24:12.037515+00:00
-
- ## Technologinių ir fizinių mokslų ekscelencijos centras
- - [https://tifec.ktu.edu](https://tifec.ktu.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Virtualusis KTU turas
- - [https://tour.ktu.edu](https://tour.ktu.edu)
- - date_published: 2024-05-07T19:18:54.656718+00:00
-
- ## Mokslas
- - [https://ultragarsas.ktu.edu](https://ultragarsas.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Research
- - [https://ultrasound.ktu.edu](https://ultrasound.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Home
- - [https://up4skill-en.ktu.edu](https://up4skill-en.ktu.edu)
- - date_published: 2024-05-07T19:18:22.995417+00:00
-
- ## Pradžia
- - [https://up4skill.ktu.edu](https://up4skill.ktu.edu)
- - date_published: 2024-07-01T11:25:44.074620+00:00
-
- ## Pradžia
- - [https://verslas.ktu.edu](https://verslas.ktu.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## KTU ir įmonių bendradarbiavimo platforma
- - [https://wanted.ktu.edu](https://wanted.ktu.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home
- - [https://accessibility.ku.edu](https://accessibility.ku.edu)
- - date_published: 2024-05-07T19:20:08.692147+00:00
-
- ## Undergraduate Admissions
- - [https://admissions.ku.edu](https://admissions.ku.edu)
- - date_published: 2024-06-30T05:23:04+00:00
-
- ## Home
- - [https://affordability.ku.edu](https://affordability.ku.edu)
- - date_published: 2024-07-01T12:40:55.653266+00:00
-
- ## KU Alerts
- - [https://alerts.ku.edu](https://alerts.ku.edu)
- - date_published: 2024-05-07T19:20:10.447984+00:00
-
- ## Home
- - [https://anthropology.ku.edu](https://anthropology.ku.edu)
- - date_published: 2024-06-22T19:11:43.000242+00:00
-
- ## Biodiversity Institute and Natural History Museum
- - [https://biodiversity.ku.edu](https://biodiversity.ku.edu)
- - date_published: 2024-07-01T12:34:32.275639+00:00
-
- ## KU College Stories – College of Liberal Arts and Sciences
- - [http://blog.college.ku.edu](http://blog.college.ku.edu)
- - date_published: 2024-07-01T12:21:15.828705+00:00
-
- ## Events Calendar
- - [https://calendar.ku.edu](https://calendar.ku.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## KU Libraries Calendar -
-        University of Kansas
- - [https://calendar.lib.ku.edu](https://calendar.lib.ku.edu)
- - date_published: 2024-07-01T12:21:58.557095+00:00
-
- ## Login - Single Sign On | The University of Kansas
- - [https://canvas.ku.edu](https://canvas.ku.edu)
- - date_published: 2024-05-07T19:19:58.132135+00:00
-
- ## Home
- - [https://career.ku.edu](https://career.ku.edu)
- - date_published: 2024-07-01T12:35:38.080405+00:00
-
- ## KU Library Catalog
- - [https://catalog.lib.ku.edu](https://catalog.lib.ku.edu)
- - date_published: 2017-12-28T16:58:50+00:00
-
- ## Office of the Chancellor
- - [https://chancellor.ku.edu](https://chancellor.ku.edu)
- - date_published: 2024-07-01T12:42:21.472891+00:00
-
- ## Home
- - [https://civilrights.ku.edu](https://civilrights.ku.edu)
- - date_published: 2024-07-01T12:37:11.778104+00:00
-
- ## KU CMS
- - [https://cms-drupal7.ku.edu](https://cms-drupal7.ku.edu)
- - date_published: 2024-07-01T12:41:29.425200+00:00
-
- ## Home | CMS Guide
- - [https://cms.ku.edu](https://cms.ku.edu)
- - date_published: 2024-05-07T19:20:19.887650+00:00
-
- ## Home
- - [https://coga.ku.edu](https://coga.ku.edu)
- - date_published: 2024-07-01T12:21:09.948836+00:00
-
- ## Home | College Dean's Office
- - [http://collegedean.ku.edu](http://collegedean.ku.edu)
- - date_published: 2024-07-01T12:21:12.005905+00:00
-
- ## Home | College of Liberal Arts & Sciences
- - [https://college.ku.edu](https://college.ku.edu)
- - date_published: 2024-05-07T19:19:10.376228+00:00
-
- ## Home
- - [http://collegeonline.ku.edu](http://collegeonline.ku.edu)
- - date_published: 2024-07-01T12:21:18.163344+00:00
-
- ## Welcome to College Undergraduate Academic Services
- - [https://collegeundergrad.ku.edu](https://collegeundergrad.ku.edu)
- - date_published: 2024-07-01T12:21:30.015566+00:00
-
- ## Home
- - [https://courseware.ku.edu](https://courseware.ku.edu)
- - date_published: 2024-07-01T12:42:39.579272+00:00
-
- ## Home
- - [https://dance.ku.edu](https://dance.ku.edu)
- - date_published: 2024-07-01T12:20:42.807084+00:00
-
- ## Home | Online Directory | KU
- - [https://directory.ku.edu](https://directory.ku.edu)
- - date_published: 2024-07-01T12:41:21.413564+00:00
-
- ## Homepage
- - [https://employment.ku.edu](https://employment.ku.edu)
- - date_published: 2024-05-07T19:20:02.795579+00:00
-
- ## Browse Exhibits · KU Libraries Exhibits
- - [https://exhibits.lib.ku.edu](https://exhibits.lib.ku.edu)
- - date_published: 2024-07-01T12:22:22.242406+00:00
-
- ## Home
- - [https://financialaid.ku.edu](https://financialaid.ku.edu)
- - date_published: 2024-07-01T12:35:42.297146+00:00
-
- ## Undergraduate Admissions
- - [https://go2.ku.edu](https://go2.ku.edu)
- - date_published: 2024-06-30T05:23:04+00:00
-
- ## Subject & Course Guides: Home: Subject Guides
- - [https://guides.lib.ku.edu](https://guides.lib.ku.edu)
- - date_published: 2024-05-07T19:19:12.540128+00:00
-
- ## Homepage
- - [http://humanresources.ku.edu](http://humanresources.ku.edu)
- - date_published: 2024-07-01T12:35:33.241531+00:00
-
- ## WebRetrieve
- - [https://illiad.lib.ku.edu](https://illiad.lib.ku.edu)
- - date_published: 2022-05-20T21:56:55+00:00
-
- ## Home
- - [http://ioa.ku.edu](http://ioa.ku.edu)
- - date_published: 2024-07-01T12:35:45.641541+00:00
-
- ## International Support Services
- - [https://iss.ku.edu](https://iss.ku.edu)
- - date_published: 2024-07-01T12:40:48.552280+00:00
-
- ## Jayhawk Community Partners
- - [https://jayhawkcommunitypartners.ku.edu](https://jayhawkcommunitypartners.ku.edu)
- - date_published: 2024-07-01T12:36:34.933937+00:00
-
- ## Journals@KU
- - [https://journals.ku.edu](https://journals.ku.edu)
- - date_published: 2024-02-17T15:56:43.422549+00:00
-
- ## The University of Kansas
- - [https://ku.edu](https://ku.edu)
- - date_published: 2024-05-07T19:20:16.222242+00:00
-
- ## Welcome to KU Police Department
- - [https://kupolice.ku.edu](https://kupolice.ku.edu)
- - date_published: 2024-07-01T12:41:05.579095+00:00
-
- ## KU ScholarWorks
- - [https://kuscholarworks.ku.edu](https://kuscholarworks.ku.edu)
- - date_published: 2024-05-07T19:19:22.823922+00:00
-
- ## Home
- - [https://kutheatre.ku.edu](https://kutheatre.ku.edu)
- - date_published: 2024-07-01T12:20:47.698136+00:00
-
- ## Welcome to KU Libraries
- - [https://lib.ku.edu](https://lib.ku.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Login - Single Sign On | The University of Kansas
- - [https://login.ku.edu](https://login.ku.edu)
- - date_published: 2024-07-01T12:41:58.399131+00:00
-
- ## Outlook
- - [https://mail.ku.edu](https://mail.ku.edu)
- - date_published: 2024-07-01T12:24:48.096346+00:00
-
- ## Homepage
- - [https://music.ku.edu](https://music.ku.edu)
- - date_published: 2024-07-15T06:07:00.317920+00:00
-
- ## MyIdentity Services | Information Technology
- - [https://myidentity.ku.edu](https://myidentity.ku.edu)
- - date_published: 2024-07-01T12:35:05.013454+00:00
-
- ## myKU Welcome | myKU Portal
- - [https://my.ku.edu](https://my.ku.edu)
- - date_published: 2024-05-07T19:20:22.923772+00:00
-
- ## New2KU
- - [https://new2.ku.edu](https://new2.ku.edu)
- - date_published: 2024-07-01T12:35:02.950648+00:00
-
- ## Homepage
- - [https://newhires.ku.edu](https://newhires.ku.edu)
- - date_published: 2024-07-01T12:35:35.922720+00:00
-
- ## Featured news and headlines | KU News
- - [https://news.ku.edu](https://news.ku.edu)
- - date_published: 2024-02-24T10:01:56.501520+00:00
-
- ## Home
- - [https://online.ku.edu](https://online.ku.edu)
- - date_published: 2024-07-01T12:40:58.165378+00:00
-
- ## Open Access
- - [http://openaccess.ku.edu](http://openaccess.ku.edu)
- - date_published: 2024-07-01T12:24:44.306930+00:00
-
- ## | The University of Kansas
- - [https://opsmaps.ku.edu](https://opsmaps.ku.edu)
- - date_published: 2022-04-07T16:09:14+00:00
-
- ## Home
- - [https://otp.ku.edu](https://otp.ku.edu)
- - date_published: 2024-07-01T12:41:07.627319+00:00
-
- ## Paleontological Institute
- - [https://paleo.ku.edu](https://paleo.ku.edu)
- - date_published: 2024-05-07T19:19:52.003258+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [https://people.eecs.ku.edu](https://people.eecs.ku.edu)
- - date_published: 2023-06-06T16:28:35+00:00
-
- ## Login - Single Sign On | The University of Kansas
- - [http://people.ku.edu](http://people.ku.edu)
- - date_published: 2024-09-07T22:41:21.725121+00:00
-
- ## Welcome | Policy Library
- - [http://policy.ku.edu](http://policy.ku.edu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Office of Public Affairs
- - [https://publicaffairs.ku.edu](https://publicaffairs.ku.edu)
- - date_published: 2024-07-01T12:37:09.836091+00:00
-
- ## Welcome to KU Police Department
- - [https://publicsafety.ku.edu](https://publicsafety.ku.edu)
- - date_published: 2024-07-01T12:37:17.074709+00:00
-
- ## Research Help - LibAnswers
- - [https://ref.lib.ku.edu](https://ref.lib.ku.edu)
- - date_published: 2024-07-01T12:21:41.640691+00:00
-
- ## Office of the University Registrar
- - [https://registrar.ku.edu](https://registrar.ku.edu)
- - date_published: 2024-07-01T12:41:03.233595+00:00
-
- ## Homepage
- - [https://research.ku.edu](https://research.ku.edu)
- - date_published: 2024-07-01T12:34:15.806867+00:00
-
- ## - Rock Chalk Central
- - [https://rockchalkcentral.ku.edu](https://rockchalkcentral.ku.edu)
- - date_published: 2024-07-01T12:42:03.316303+00:00
-
- ## Homepage
- - [http://sota.ku.edu](http://sota.ku.edu)
- - date_published: 2024-07-01T12:20:45.864913+00:00
-
- ## Homepage
- - [https://spencer.lib.ku.edu](https://spencer.lib.ku.edu)
- - date_published: 2024-07-01T12:22:10.232885+00:00
-
- ## Watkins Health Services
- - [https://studenthealth.ku.edu](https://studenthealth.ku.edu)
- - date_published: 2024-07-01T12:37:07.918901+00:00
-
- ## Login - Single Sign On | The University of Kansas
- - [https://teams.ku.edu](https://teams.ku.edu)
- - date_published: 2024-07-01T12:41:53.279435+00:00
-
- ## KU Information Technology
- - [https://technology.ku.edu](https://technology.ku.edu)
- - date_published: 2024-07-01T12:35:06.821172+00:00
-
- ## Theatre & Dance
- - [https://theatredance.ku.edu](https://theatredance.ku.edu)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## KU Today | The University of Kansas
- - [https://today.ku.edu](https://today.ku.edu)
- - date_published: 2023-10-25T18:53:30.550703+00:00
-
- ## Homepage
- - [https://tsc.ku.edu](https://tsc.ku.edu)
- - date_published: 2024-07-01T12:35:09.302051+00:00
-
- ## KU Web Media Directory
- - [https://webmedia.ku.edu](https://webmedia.ku.edu)
- - date_published: 2022-07-08T20:22:40+00:00
-
- ## Homepage
- - [https://websupport.ku.edu](https://websupport.ku.edu)
- - date_published: 2024-07-01T12:47:48.298351+00:00
-
- ## KU School of Business
- - [http://www.business.ku.edu](http://www.business.ku.edu)
- - date_published: 2024-12-21T14:51:43.584767+00:00
-
- ## Institute for Information Sciences Home
- - [http://www.ittc.ku.edu](http://www.ittc.ku.edu)
- - date_published: 2024-07-11T07:54:48.309671+00:00
-
- ## Museum
- - [http://clendening.kumc.edu](http://clendening.kumc.edu)
- - date_published: 2024-06-24T09:45:39.504342+00:00
-
- ## University of Kansas Medical Center
- - [https://www.kumc.edu](https://www.kumc.edu)
- - date_published: 2024-07-01T12:35:40.463773+00:00
-
- ## Home of the Kutztown University Research Commons
- - [https://research.library.kutztown.edu](https://research.library.kutztown.edu)
- - date_published: 2024-07-02T10:48:37.331167+00:00
-
- ## Kutztown University
- - [https://www.kutztown.edu](https://www.kutztown.edu)
- - date_published: 2024-07-09T17:16:44.114611+00:00
-
- ## Accessibility at K –  | Kalamazoo College
- - [https://access.kzoo.edu](https://access.kzoo.edu)
- - date_published: 2024-05-07T19:24:30.279103+00:00
-
- ## Arcus Center Radical Futures Now Podcast –  | Kalamazoo College
- - [http://acsjlradicalfutures.kzoo.edu](http://acsjlradicalfutures.kzoo.edu)
- - date_published: 2024-07-01T14:31:48.756964+00:00
-
- ## Admission –  | Kalamazoo College
- - [https://admission.kzoo.edu](https://admission.kzoo.edu)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Advising –  | Kalamazoo College
- - [https://advising.kzoo.edu](https://advising.kzoo.edu)
- - date_published: 2024-05-07T19:22:03.340633+00:00
-
- ## African Studies –  | Kalamazoo College
- - [https://africanstudies.kzoo.edu](https://africanstudies.kzoo.edu)
- - date_published: 2024-05-07T19:24:27.952564+00:00
 

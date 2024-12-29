@@ -1,3 +1,163 @@
+ ## Registro y Control Académico
+ - [https://rca.unad.edu.co](https://rca.unad.edu.co)
+ - date_published: 2024-06-12T03:14:23.357566+00:00
+
+ ## Bienvenidos a RUV - Radio UNAD Virtual - Emisora de la Universidad Nacional Abierta y a Distancia - UNAD
+ - [https://ruv.unad.edu.co](https://ruv.unad.edu.co)
+ - date_published: 2021-09-21T15:40:56+00:00
+
+ ## SAI
+ - [https://sai.unad.edu.co](https://sai.unad.edu.co)
+ - date_published: 2020-08-12T15:10:41+00:00
+
+ ## Redireccion home SAU hacia SAI
+ - [https://sau.unad.edu.co](https://sau.unad.edu.co)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Producción Intelectual - Sello Editorial UNAD
+ - [https://selloeditorial.unad.edu.co](https://selloeditorial.unad.edu.co)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## UNAD - Secretaría General
+ - [https://sgeneral.unad.edu.co](https://sgeneral.unad.edu.co)
+ - date_published: 2024-06-12T03:14:33.822362+00:00
+
+ ## SIG
+ - [https://sig.unad.edu.co](https://sig.unad.edu.co)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Zona Sur - ZSUR / Universidad Nacional Abierta y a Distancia UNAD
+ - [https://sur.unad.edu.co](https://sur.unad.edu.co)
+ - date_published: 2023-07-14T19:52:43+00:00
+
+ ## Bienvenidos a TVUNADVirtual - TV en Red
+ - [https://tvunadvirtual.unad.edu.co](https://tvunadvirtual.unad.edu.co)
+ - date_published: 2021-09-09T00:00:48+00:00
+
+ ## Universidad Nacional Abierta y a Distancia - UNAD de Colombia.  - Sitio oficial.
+ - [https://unad.edu.co](https://unad.edu.co)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## UNAD - Vicerrectoría Académica y de Investigación
+ - [https://viaci.unad.edu.co](https://viaci.unad.edu.co)
+ - date_published: 2020-10-04T00:49:32+00:00
+
+ ## Vicerrectoría de Desarrollo Regional y Proyección Comunitaria - VIDER
+ - [https://vider.unad.edu.co](https://vider.unad.edu.co)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## VIMEP
+ - [https://vimep.unad.edu.co](https://vimep.unad.edu.co)
+ - date_published: 2022-03-16T13:30:01+00:00
+
+ ## Vicerrectoría de Relaciones Intersistémicas e Internacionales
+ - [https://vinter.unad.edu.co](https://vinter.unad.edu.co)
+ - date_published: 2022-08-20T02:41:14+00:00
+
+ ## VISAE
+ - [https://visae.unad.edu.co](https://visae.unad.edu.co)
+ - date_published: 2021-04-23T17:03:43+00:00
+
+ ## Agencia UNAL: Universidad Nacional de Colombia
+ - [https://agenciadenoticias.unal.edu.co](https://agenciadenoticias.unal.edu.co)
+ - date_published: 2024-12-10T00:42:52.182022+00:00
+
+ ## Universidad Nacional de Colombia : Sede Amazonia
+ - [https://amazonia.unal.edu.co](https://amazonia.unal.edu.co)
+ - date_published: 2024-12-10T00:55:11+00:00
+
+ ## Circular UNAL - Universidad Nacional de Colombia:
+ - [https://circular.unal.edu.co](https://circular.unal.edu.co)
+ - date_published: 2024-12-10T00:43:07.025860+00:00
+
+ ## Universidad Nacional de Colombia: Convocatoria comisionado 2024 - 2028
+ - [https://comisionadocnsc.unal.edu.co](https://comisionadocnsc.unal.edu.co)
+ - date_published: 2024-11-23T12:07:29+00:00
+
+ ## VRI
+ - [https://editorial.unal.edu.co](https://editorial.unal.edu.co)
+ - date_published: 2024-12-10T00:41:25.053125+00:00
+
+ ## VRI
+ - [https://extension.unal.edu.co](https://extension.unal.edu.co)
+ - date_published: 2024-12-10T00:41:15.134395+00:00
+
+ ## Gestión Documental – Universidad Nacional de Colombia
+ - [https://gestiondocumental.unal.edu.co](https://gestiondocumental.unal.edu.co)
+ - date_published: 2024-12-10T00:56:26.051561+00:00
+
+ ## VRI
+ - [https://investigacion.unal.edu.co](https://investigacion.unal.edu.co)
+ - date_published: 2024-12-10T00:42:26.568591+00:00
+
+ ## VRI
+ - [https://laboratorios.unal.edu.co](https://laboratorios.unal.edu.co)
+ - date_published: 2024-12-10T00:42:32.180907+00:00
+
+ ## Universidad Nacional de Colombia : Sede Medellin - La sede
+ - [http://medellin.unal.edu.co](http://medellin.unal.edu.co)
+ - date_published: 2024-12-10T00:55:01+00:00
+
+ ## UNAL - DNIA - Plataforma Moodle
+ - [https://micampus.unal.edu.co](https://micampus.unal.edu.co)
+ - date_published: 2024-12-10T00:58:34+00:00
+
+ ## UNAL entre las 30 mejores universidades de América Latina
+ - [http://orgullo.unal.edu.co](http://orgullo.unal.edu.co)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Periódico UNAL
+ - [https://periodico.unal.edu.co](https://periodico.unal.edu.co)
+ - date_published: 2024-09-02T21:44:21+00:00
+
+ ## Cambio climático: Realidad de los jóvenes: más cambios estructurales, menos "pañitos de agua tibia": Universidad Nacional de Colombia
+ - [http://podcast.unradio.unal.edu.co](http://podcast.unradio.unal.edu.co)
+ - date_published: 2024-12-10T00:55:24.954079+00:00
+
+ ## React App
+ - [https://portalsie.unal.edu.co](https://portalsie.unal.edu.co)
+ - date_published: 2024-11-20T18:04:34+00:00
+
+ ## Inicio: Universidad Nacional de Colombia
+ - [https://radio.unal.edu.co](https://radio.unal.edu.co)
+ - date_published: 2024-12-10T00:41:32.123443+00:00
+
+ ## Institutional Repository of Universidad Nacional
+ - [https://repositorio.unal.edu.co](https://repositorio.unal.edu.co)
+ - date_published: 2024-07-02T09:12:36.006734+00:00
+
+ ## Sistema de Gestión Ambiental
+ - [https://sga.unal.edu.co](https://sga.unal.edu.co)
+ - date_published: 2024-12-10T00:41:36.750141+00:00
+
+ ## Solicitudes Unimedios - Universidad Nacional de Colombia: Solicitudes Unimedios: Universidad Nacional de Colombia
+ - [http://solicitudesunimedios.unal.edu.co](http://solicitudesunimedios.unal.edu.co)
+ - date_published: 2024-12-10T00:55:29.884765+00:00
+
+ ## Universidad Nacional de Colombia
+ - [https://unal.edu.co](https://unal.edu.co)
+ - date_published: 2024-09-10T12:44:57.049555+00:00
+
+ ## UNIMEDIOS - Universidad Nacional de Colombia
+ - [https://unimedios.unal.edu.co](https://unimedios.unal.edu.co)
+ - date_published: 2024-09-10T14:35:49.761538+00:00
+
+ ## Unisalud : Universidad Nacional de Colombia
+ - [https://unisalud.unal.edu.co](https://unisalud.unal.edu.co)
+ - date_published: 2024-12-10T00:55:17+00:00
+
+ ## Inicio: Universidad Nacional de Colombia
+ - [http://unradio.unal.edu.co](http://unradio.unal.edu.co)
+ - date_published: 2024-12-10T00:59:44.705189+00:00
+
+ ## Agencia UNAL: Universidad Nacional de Colombia
+ - [http://www.agenciadenoticias.unal.edu.co](http://www.agenciadenoticias.unal.edu.co)
+ - date_published: 2024-12-10T00:34:12.223589+00:00
+
+ ## Autoevaluación de programas curriculares - Universidad Nacional de Colombia - Site
+ - [http://www.autoevaluacion.unal.edu.co](http://www.autoevaluacion.unal.edu.co)
+ - date_published: 2024-12-10T00:59:21.343330+00:00
+
  ## Dirección Nacional de Bienestar Universitario
  - [http://www.bienestar.unal.edu.co](http://www.bienestar.unal.edu.co)
  - date_published: 2024-12-10T00:56:20.779913+00:00
@@ -3916,175 +4076,4 @@
  ## Dusty Phillips Codes
  - [https://dusty.phillips.codes](https://dusty.phillips.codes)
  - date_published: 2024-06-28T20:19:16.347900+00:00
-
- ## LazyVim for Ambitious Developers
- - [https://lazyvim-ambitious-devs.phillips.codes](https://lazyvim-ambitious-devs.phillips.codes)
- - date_published: 2024-08-19T17:53:11.247323+00:00
-
- ## What is qr.codes?
- - [https://qr.codes](https://qr.codes)
- - date_published: 2024-08-08T19:18:02.336992+00:00
-
- ## Qubyte Codes - About
- - [https://qubyte.codes](https://qubyte.codes)
- - date_published: 2023-10-25T08:43:56.747901+00:00
- - tags: ['personal']
-
- ## Rafael Winterhalter - software consultant
- - [https://rafael.codes](https://rafael.codes)
- - date_published: 2021-09-19T20:50:15+00:00
-
- ## Rambo.codes | Gui Rambo writes about his coding and reverse engineering adventures. | Rambo Codes
- - [https://rambo.codes](https://rambo.codes)
- - date_published: 2023-10-25T09:03:57.646840+00:00
- - tags: ['personal']
-
- ## Ramona Schwering
- - [https://ramona.codes](https://ramona.codes)
- - date_published: 2024-06-20T06:59:51.214374+00:00
-
- ## Raphael Pierzina
- - [https://raphael.codes](https://raphael.codes)
- - date_published: 2022-06-10T00:00:00+00:00
-
- ## redth.codes
- - [https://redth.codes](https://redth.codes)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Ricky Miller's wwwebsite
- - [https://ricky.codes](https://ricky.codes)
- - date_published: 2024-07-23T23:32:19.023373+00:00
-
- ## Great Books - A Liberal Education
- - [https://books.rory.codes](https://books.rory.codes)
- - date_published: 2024-04-30T07:17:45.438551+00:00
-
- ## Day by Day - Rory Flint
- - [https://days.rory.codes](https://days.rory.codes)
- - date_published: 2023-10-25T09:03:59.903891+00:00
- - tags: ['personal']
-
- ## Home
- - [https://rory.codes](https://rory.codes)
- - date_published: 2023-12-17T16:41:47.575823+00:00
- - tags: ['personal']
-
- ## 로토의 블로그
- - [https://blog.roto.codes](https://blog.roto.codes)
- - date_published: 2024-07-14T09:54:43.494617+00:00
-
- ## Hi! I'm Rowdy.
-            - { r()wdy.c[]des: true }
- - [https://rowdy.codes](https://rowdy.codes)
- - date_published: 2024-05-22T00:00:00+00:00
- - tags: ['personal']
-
- ## ryjo.codes - Ryan Johnston's Personal Website
- - [https://ryjo.codes](https://ryjo.codes)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Sarah Federman - UX Engineer
- - [https://sarah.codes](https://sarah.codes)
- - date_published: 2024-05-29T20:57:59.343723+00:00
- - tags: ['personal']
-
- ## Home
- - [http://schulz.codes](http://schulz.codes)
- - date_published: 2024-06-23T08:13:20.073424+00:00
-
- ## Sia Karamalegos, Web Performance
- - [https://sia.codes](https://sia.codes)
- - date_published: 2024-05-09T00:00:00+00:00
- - tags: ['personal']
-
- ## Code Line Daily
- - [https://cld.silvestar.codes](https://cld.silvestar.codes)
- - date_published: 2020-08-08T00:00:00+00:00
-
- ## My home ✣ S.Bistrović
- - [https://silvestar.codes](https://silvestar.codes)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Starter Project ✣ S.Bistrović
- - [https://starter.silvestar.codes](https://starter.silvestar.codes)
- - date_published: 2024-09-04T03:29:04.171992+00:00
-
- ## Søren Johanson | Freelance Software Engineer
- - [https://soeren.codes](https://soeren.codes)
- - date_published: 2024-08-08T15:24:43.457537+00:00
-
- ## solnic.codes
- - [https://solnic.codes](https://solnic.codes)
- - date_published: 2023-10-25T08:44:02.393684+00:00
- - tags: ['personal']
-
- ## Soto
- - [https://soto.codes](https://soto.codes)
- - date_published: 2023-08-11T09:06:41+00:00
-
- ## SsmCodes
- - [https://ssm.codes](https://ssm.codes)
- - date_published: 2024-06-30T10:34:32.470469+00:00
-
- ## tanis.codes | Articles about Backend, DevOps, Systems and Performance
- - [https://tanis.codes](https://tanis.codes)
- - date_published: 2024-09-08T00:00:00+00:00
-
- ## Texas Toland
- - [https://tex.codes](https://tex.codes)
- - date_published: 2024-06-22T15:50:27.219328+00:00
-
- ## Blog - Stargirl (Thea) Flowers
- - [https://blog.thea.codes](https://blog.thea.codes)
- - date_published: 2023-10-25T09:04:01.639181+00:00
- - tags: ['personal']
-
- ## Welcome to Nox — Nox 2024.4.15 documentation
- - [https://nox.thea.codes](https://nox.thea.codes)
- - date_published: 2024-04-15T14:08:18+00:00
-
- ## Stargirl (Thea) Flowers - Photography
- - [https://photos.thea.codes](https://photos.thea.codes)
- - date_published: 2020-11-07T00:00:00+00:00
-
- ## Thea "Stargirl" Flowers | Creative technologist & open source advocate
- - [https://thea.codes](https://thea.codes)
- - date_published: 2024-03-28T21:26:38+00:00
-
- ## Witch Hazel, A text editor color theme by Stargirl Flowers
- - [https://witchhazel.thea.codes](https://witchhazel.thea.codes)
- - date_published: 2024-05-21T15:58:09+00:00
-
- ## The Collab Lab
- - [https://the-collab-lab.codes](https://the-collab-lab.codes)
- - date_published: 2024-09-03T22:13:05.623516+00:00
-
- ## blog
- - [https://tina.codes](https://tina.codes)
- - date_published: 2023-12-14T16:53:03+00:00
-
- ## Trak - QR code process automation
- - [https://admin.trak.codes](https://admin.trak.codes)
- - date_published: 2023-12-27T19:46:20.990569+00:00
- - tags: ['qr codes']
-
- ## Trak – Keep your clients updated
- - [https://get.trak.codes](https://get.trak.codes)
- - date_published: 2024-06-15T17:50:45.412663+00:00
-
- ## Trak - Your case status
- - [https://trak.codes](https://trak.codes)
- - date_published: 2024-05-01T04:01:47.590581+00:00
-
- ## Welcome to the Vapor Blog! | The Vapor Blog
- - [https://blog.vapor.codes](https://blog.vapor.codes)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Vapor
- - [https://vapor.codes](https://vapor.codes)
- - date_published: 2024-08-15T16:09:04+00:00
-
- ## Storyteller.ai | Your AI creation engine
- - [https://vo.codes](https://vo.codes)
- - date_published: 2024-06-20T02:56:44.338245+00:00
 

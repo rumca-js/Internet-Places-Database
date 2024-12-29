@@ -1,3 +1,27 @@
+ ## Login | HeyCloud
+ - [https://app.heycloud.ai](https://app.heycloud.ai)
+ - date_published: 2024-12-13T06:43:45.410957+00:00
+
+ ## Introduction – Nextra
+ - [https://docs.heycloud.ai](https://docs.heycloud.ai)
+ - date_published: 2024-11-26T10:30:53+00:00
+
+ ## HeyCloud | Cloud automation using plain english
+ - [https://heycloud.ai](https://heycloud.ai)
+ - date_published: 2024-09-04T06:39:46+00:00
+
+ ## Heyday Chat
+ - [https://webchat.eu.heyday.ai](https://webchat.eu.heyday.ai)
+ - date_published: 2024-02-29T15:17:28+00:00
+
+ ## HeyFriday - Ultimate AI Writer
+ - [https://www.heyfriday.ai](https://www.heyfriday.ai)
+ - date_published: 2024-05-06T05:52:42+00:00
+
+ ## Hey Internet: Your AI-Powered Text Message Assistant
+ - [https://heyinternet.ai](https://heyinternet.ai)
+ - date_published: 2024-06-19T20:38:33.529211+00:00
+
  ## Work Smarter and Faster with Heynet Trainable AI
  - [https://heynet.ai](https://heynet.ai)
  - date_published: 2024-10-30T17:34:17.935453+00:00
@@ -1293,6 +1317,10 @@
  ## Home
  - [https://korra.ai](https://korra.ai)
  - date_published: 2024-06-19T13:51:08+00:00
+
+ ## Kosmic AI
+ - [https://www.kosmic.ai](https://www.kosmic.ai)
+ - date_published: 2024-12-23T18:31:05+00:00
 
  ## Krater.ai – Your AI SuperApp
  - [https://www.krater.ai](https://www.krater.ai)
@@ -3653,6 +3681,10 @@
  - [https://panna.ai](https://panna.ai)
  - date_published: 2024-05-21T09:24:58+00:00
 
+ ## Advanced Wildfire + Bushfire Detection Technology | Pano AI
+ - [https://pano.ai](https://pano.ai)
+ - date_published: 2024-12-09T03:10:29+00:00
+
  ## PANTA RHAI | KI-basierte Technologien
  - [https://www.panta-rh.ai](https://www.panta-rh.ai)
  - date_published: 2024-07-12T08:39:53.391636+00:00
@@ -3990,36 +4022,4 @@
  ## PictureStudio: Your AI Image Generation Studio
  - [https://picturestudio.ai](https://picturestudio.ai)
  - date_published: 2024-10-20T20:30:47.493876+00:00
-
- ## Twitter Bio Generator
- - [https://pikup.ai](https://pikup.ai)
- - date_published: 2024-08-24T07:13:52+00:00
-
- ## pipl.ai - Outbound. Supercharged
- - [https://app.pipl.ai](https://app.pipl.ai)
- - date_published: 2024-10-30T18:32:04.251638+00:00
-
- ## pipl.ai - Master Cold Outreach with Smart Email Automation
- - [https://pipl.ai](https://pipl.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Pirr
- - [https://www.pirr.ai](https://www.pirr.ai)
- - date_published: 2024-09-13T20:36:05.471293+00:00
-
- ## AI Pitch Deck Generator | Pitches.ai
- - [https://www.pitches.ai](https://www.pitches.ai)
- - date_published: 2024-10-28T09:22:24+00:00
-
- ## PitchPower | AI Proposal Generator
- - [https://app.pitchpower.ai](https://app.pitchpower.ai)
- - date_published: 2024-09-14T07:50:02.330395+00:00
-
- ## New Business Made Easier | PitchPower
- - [https://pitchpower.ai](https://pitchpower.ai)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## PITZ | Super highlight generator for youth sports.
- - [https://pitz.ai](https://pitz.ai)
- - date_published: 2024-02-14T00:00:00+00:00
 

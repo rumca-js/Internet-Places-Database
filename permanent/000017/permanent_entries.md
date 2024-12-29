@@ -1,3 +1,99 @@
+ ## UEMAnet | Site do Núcleo de Tecnologias para Educação
+ - [http://www.uemanet.uema.br](http://www.uemanet.uema.br)
+ - date_published: 2024-09-11T16:28:53.366554+00:00
+
+ ## Index of /
+ - [http://mirror.uepg.br](http://mirror.uepg.br)
+ - date_published: 2024-07-20T15:58:54.977343+00:00
+
+ ## Apresentação - Catálogo de Cursos UESB
+ - [http://catalogo.uesb.br](http://catalogo.uesb.br)
+ - date_published: 2024-12-15T12:33:36.455512+00:00
+
+ ## UESB - Universidade Estadual do Sudoeste da Bahia
+ - [https://www.uesb.br](https://www.uesb.br)
+ - date_published: 2024-10-30T20:16:49.717477+00:00
+
+ ## PROEX
+ - [https://proex.uesc.br](https://proex.uesc.br)
+ - date_published: 2024-11-05T19:36:08+00:00
+
+ ## Uesc - Universidade Estadual de Santa Cruz
+ - [https://uesc.br](https://uesc.br)
+ - date_published: 2024-10-30T20:18:41.601817+00:00
+
+ ## Uesc - Universidade Estadual de Santa Cruz
+ - [https://www2.uesc.br](https://www2.uesc.br)
+ - date_published: 2024-12-15T13:29:52.787420+00:00
+
+ ## Sign in - Google Accounts
+ - [http://correio.huwc.ufc.br](http://correio.huwc.ufc.br)
+ - date_published: 2024-10-11T11:03:48.489244+00:00
+
+ ## Sign in - Google Accounts
+ - [http://correio.meac.ufc.br](http://correio.meac.ufc.br)
+ - date_published: 2024-10-11T11:04:36.619866+00:00
+
+ ## REDCap
+ - [https://redcap.huwc.ufc.br](https://redcap.huwc.ufc.br)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Resultado Exames Paciente - Efetuar Log-in
+ - [http://resultadosexames.huwc.ufc.br](http://resultadosexames.huwc.ufc.br)
+ - date_published: 2024-10-11T11:02:38.970531+00:00
+
+ ## PORTAL SETISD
+ - [https://sistemas.huwc.ufc.br](https://sistemas.huwc.ufc.br)
+ - date_published: 2024-03-15T13:15:55+00:00
+
+ ## PORTAL SETISD
+ - [https://sistemas.meac.ufc.br](https://sistemas.meac.ufc.br)
+ - date_published: 2024-09-25T18:40:52+00:00
+
+ ## start [Infoptics]
+ - [https://infoptics.if.uff.br](https://infoptics.if.uff.br)
+ - date_published: 2024-08-19T06:10:31.178847+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://www2.ic.uff.br](http://www2.ic.uff.br)
+ - date_published: 2024-05-06T13:35:12.673644+00:00
+
+ ## | Universidade Federal Fluminense
+ - [http://www.uff.br](http://www.uff.br)
+ - date_published: 2024-09-03T22:21:07+00:00
+
+ ## NetLab
+ - [http://netlab.ice.ufjf.br](http://netlab.ice.ufjf.br)
+ - date_published: 2024-04-03T22:13:37+00:00
+
+ ## Página Principal - Biblioteca Universitária
+ - [https://bibliotecauniversitaria.ufla.br](https://bibliotecauniversitaria.ufla.br)
+ - date_published: 2024-12-15T12:27:08+00:00
+
+ ## Página Principal
+ - [https://ccon.ufla.br](https://ccon.ufla.br)
+ - date_published: 2024-12-15T12:28:17+00:00
+
+ ## Portal da Ciência da Universidade Federal de Lavras
+ - [http://ciencia.ufla.br](http://ciencia.ufla.br)
+ - date_published: 2024-12-15T12:28:04+00:00
+
+ ## Página Principal
+ - [http://cigov.ufla.br](http://cigov.ufla.br)
+ - date_published: 2024-12-15T12:26:04+00:00
+
+ ## Página Principal
+ - [https://cops.ufla.br](https://cops.ufla.br)
+ - date_published: 2024-12-15T12:27:05+00:00
+
+ ## Página Principal - Diretoria de Gestão de Tecnologia e Informação
+ - [https://dgti.ufla.br](https://dgti.ufla.br)
+ - date_published: 2024-12-15T12:27:11+00:00
+
+ ## Página Principal
+ - [https://ouvidoria.ufla.br](https://ouvidoria.ufla.br)
+ - date_published: 2024-12-15T12:26:07+00:00
+
  ## Painéis e Indicadores UFLA
  - [https://paineis.ufla.br](https://paineis.ufla.br)
  - date_published: 2024-12-15T12:28:13+00:00
@@ -1990,6 +2086,10 @@ Educação
  - [http://www.fcapress.com.br](http://www.fcapress.com.br)
  - date_published: 2024-10-28T15:34:34.479743+00:00
 
+ ## Sistema Fecomércio - Federação do Comércio do Espírito Santo
+ - [https://fecomercio-es.com.br](https://fecomercio-es.com.br)
+ - date_published: 2024-02-06T13:54:14+00:00
+
  ## FeedClub
  - [https://www.feedclub.com.br](https://www.feedclub.com.br)
  - date_published: 2024-09-01T01:15:54+00:00
@@ -3911,104 +4011,4 @@ Educação
  ## Sempre um Papo | 2024 | Ano 38
  - [http://www.sempreumpapo.com.br](http://www.sempreumpapo.com.br)
  - date_published: 2024-12-20T10:13:05.977511+00:00
-
- ## Serasa Experian - Consulte Soluções Para Empresas
- - [https://www.serasaexperian.com.br](https://www.serasaexperian.com.br)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Página inicial - Sergio Abranches
- - [https://sergioabranches.com.br](https://sergioabranches.com.br)
- - date_published: 2024-10-20T17:50:29.278727+00:00
-
- ## Service TIC – Soluções Tecnológicas
- - [https://servicetic.com.br](https://servicetic.com.br)
- - date_published: 2024-09-12T14:14:05.872504+00:00
-
- ## Sethi3D
- - [https://sethi.com.br](https://sethi.com.br)
- - date_published: 2023-10-29T00:14:57+00:00
-
- ## Sethi3D
- - [https://www.sethi3d.com.br](https://www.sethi3d.com.br)
- - date_published: 2024-07-14T05:38:40.329737+00:00
-
- ## SGS é a empresa líder mundial em inspeção, verificação, testes e certificação.
- - [https://www.sgsgroup.com.br](https://www.sgsgroup.com.br)
- - date_published: 2024-09-10T12:55:28.493954+00:00
-
- ## Shell Brasil
- - [http://shell.com.br](http://shell.com.br)
- - date_published: 2024-07-12T21:54:31+00:00
-
- ## Sicoob - Sistema de Cooperativas de Crédito do Brasil | Identificação (13 de Julho de 2024)
- - [https://ib.sicoobnet.com.br](https://ib.sicoobnet.com.br)
- - date_published: 2024-07-13T18:18:51.783608+00:00
-
- ## Site Of Games
- - [https://www.siteofgames.com.br](https://www.siteofgames.com.br)
- - date_published: 2024-05-11T21:14:22+00:00
-
- ## Aluguel de Carros em todo o mundo | Sixt rent a car
- - [https://sixt.com.br](https://sixt.com.br)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Livros, autores, histórias e amigos, todos conectados no SKOOB
- - [http://www.skoob.com.br](http://www.skoob.com.br)
- - date_published: 2024-07-13T02:19:53.087886+00:00
-
- ## Skyscanner
- - [https://www.skyscanner.com.br](https://www.skyscanner.com.br)
- - date_published: 2024-05-14T10:10:11+00:00
-
- ## Slackjeff ☠️
- - [https://slackjeff.com.br](https://slackjeff.com.br)
- - date_published: 2024-06-03T11:26:38+00:00
-
- ## Fortune Tiger Slots | Jogo do Tigre da PG Soft
- - [https://slotfortunetiger.com.br](https://slotfortunetiger.com.br)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Notícias e análises de app, os melhores downloads - Softonic
- - [https://softonic.com.br](https://softonic.com.br)
- - date_published: 2024-04-29T05:11:24.988286+00:00
-
- ## Seja o líder que faz o projeto de software fluir com harmonia | Software Zen
- - [https://softwarezen.com.br](https://softwarezen.com.br)
- - date_published: 2024-06-15T17:20:34.363815+00:00
-
- ## Só Notícia Boa
- - [https://www.sonoticiaboa.com.br](https://www.sonoticiaboa.com.br)
- - date_published: 2024-12-26T17:29:37.602957+00:00
-
- ## Sony Brazil | Latest Technology News | Electronics | Entertainment
- - [https://www.sony.com.br](https://www.sony.com.br)
- - date_published: 2024-10-21T07:38:46.400174+00:00
-
- ## Sony Pictures Brazil | Homepage
- - [https://www.sonypictures.com.br](https://www.sonypictures.com.br)
- - date_published: 2024-07-27T17:27:37.467557+00:00
-
- ## Sooper
- - [http://sooper.com.br](http://sooper.com.br)
- - date_published: 2024-10-28T12:12:13.574951+00:00
-
- ## paiN Gaming
- - [https://www.soupain.com.br](https://www.soupain.com.br)
- - date_published: 2024-09-29T20:05:06.799079+00:00
-
- ## Jogo Spaceman Bet 👨🏻‍🚀
- - [https://spaceman-jogo.com.br](https://spaceman-jogo.com.br)
- - date_published: 2024-07-26T04:59:36.182470+00:00
-
- ## Home
- - [https://spcine.com.br](https://spcine.com.br)
- - date_published: 2024-06-26T21:56:38.630933+00:00
-
- ## Sportbuzz
- - [https://sportbuzz.com.br](https://sportbuzz.com.br)
- - date_published: 2024-07-11T17:32:45+00:00
-
- ## SPTrans
- - [http://www.sptrans.com.br](http://www.sptrans.com.br)
- - date_published: 2024-07-19T22:14:00.710079+00:00
 

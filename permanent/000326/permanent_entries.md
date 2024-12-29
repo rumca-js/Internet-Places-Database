@@ -1,3 +1,1052 @@
+ ## Indian Institute of Technology, Patna
+ - [https://iitp.ac.in](https://iitp.ac.in)
+ - date_published: 2024-09-11T17:50:20+00:00
+
+ ## Home
+ - [https://library.iitp.ac.in](https://library.iitp.ac.in)
+ - date_published: 2024-12-24T15:41:26+00:00
+
+ ## Academic Information System
+ - [https://academics.iitr.ac.in](https://academics.iitr.ac.in)
+ - date_published: 2024-06-21T12:37:32+00:00
+
+ ## IIS Windows Server
+ - [https://almamater.iitr.ac.in](https://almamater.iitr.ac.in)
+ - date_published: 2020-10-04T13:55:43+00:00
+
+ ## DORA Office
+ - [https://alumni.iitr.ac.in](https://alumni.iitr.ac.in)
+ - date_published: 2024-06-21T11:25:40+00:00
+
+ ## BIS Corner – IIT Roorkee
+ - [https://biscorner.iitr.ac.in](https://biscorner.iitr.ac.in)
+ - date_published: 2024-06-22T11:41:06.732911+00:00
+
+ ## Landing Page
+ - [https://bt.iitr.ac.in](https://bt.iitr.ac.in)
+ - date_published: 2024-09-11T11:26:25+00:00
+
+ ## Counselling Portal
+ - [http://counselling.iitr.ac.in](http://counselling.iitr.ac.in)
+ - date_published: 2021-06-02T12:19:55+00:00
+
+ ## JEE Opening Closing ranks for IITs and NITs
+ - [https://cutoffs.iitr.ac.in](https://cutoffs.iitr.ac.in)
+ - date_published: 2022-12-27T21:13:47+00:00
+
+ ## dinc, grivance, suggestion, gallery, diversity, Inclusion, Committee, IIT, roorkee, IITR, Dinc, DInC, dinc.iitr.ac.in, iitr.ac.in,
+ - [https://dinc.iitr.ac.in](https://dinc.iitr.ac.in)
+ - date_published: 2024-06-22T11:40:33.386378+00:00
+
+ ## Academic Documents Request | IITR
+ - [https://documentacad.iitr.ac.in](https://documentacad.iitr.ac.in)
+ - date_published: 2024-06-21T06:55:42+00:00
+
+ ## EICT Academy - eict.iitr.ac.in
+ - [https://eict.iitr.ac.in](https://eict.iitr.ac.in)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Home | Expectations IIT Roorkee
+ - [https://expectations.iitr.ac.in](https://expectations.iitr.ac.in)
+ - date_published: 2021-10-31T11:12:36+00:00
+
+ ## Finance & Accounts Office, IITR
+ - [https://finance.iitr.ac.in](https://finance.iitr.ac.in)
+ - date_published: 2024-06-22T11:32:28.888432+00:00
+ - date_dead_since: 2024-12-24T15:52:54.831473+00:00
+
+ ## GATE 2025 | Graduate Aptitude Test in Engineering (GATE)
+ - [https://gate2025.iitr.ac.in](https://gate2025.iitr.ac.in)
+ - date_published: 2024-11-26T07:17:56+00:00
+
+ ## Geek Gazette
+ - [https://geekgazette.iitr.ac.in](https://geekgazette.iitr.ac.in)
+ - date_published: 2024-12-24T15:52:38.353982+00:00
+
+ ## IIT ROORKEE GUEST HOUSE RESERVATION SYSTEM
+ - [https://ghbooking.iitr.ac.in](https://ghbooking.iitr.ac.in)
+ - date_published: 2024-06-22T11:32:06.639736+00:00
+
+ ## GNEC IITR
+ - [https://gnec.iitr.ac.in](https://gnec.iitr.ac.in)
+ - date_published: 2024-06-22T11:31:22.309314+00:00
+
+ ## i-Connect
+ - [https://iconnect.iitr.ac.in](https://iconnect.iitr.ac.in)
+ - date_published: 2024-06-22T11:31:26.941083+00:00
+ - date_dead_since: 2024-12-24T15:56:37.458863+00:00
+
+ ## Indian Institute of Technology Roorkee
+ - [https://iitr.ac.in](https://iitr.ac.in)
+ - date_published: 2024-05-04T15:42:45.009337+00:00
+
+ ## Home - IPR
+ - [https://ipr.iitr.ac.in](https://ipr.iitr.ac.in)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## IITR | IR | International Relations
+ - [https://ir.iitr.ac.in](https://ir.iitr.ac.in)
+ - date_published: 2024-06-22T11:31:42.432264+00:00
+
+ ## JAM 2022
+ - [https://jam.iitr.ac.in](https://jam.iitr.ac.in)
+ - date_published: 2024-09-22T11:02:36+00:00
+
+ ## LHCC Booking System
+ - [https://lhcbooking.iitr.ac.in](https://lhcbooking.iitr.ac.in)
+ - date_published: 2024-05-30T11:27:48+00:00
+
+ ## Home
+ - [https://liaisoncellscst.iitr.ac.in](https://liaisoncellscst.iitr.ac.in)
+ - date_published: 2024-06-22T11:40:40.521503+00:00
+
+ ## Mahatma Gandhi Central Library, IIT Roorkee
+ - [https://mgcl.iitr.ac.in](https://mgcl.iitr.ac.in)
+ - date_published: 2024-03-20T08:25:52+00:00
+
+ ## Material Management
+ - [https://mm.iitr.ac.in](https://mm.iitr.ac.in)
+ - date_published: 2024-06-22T11:40:14.342626+00:00
+
+ ## Email | IITR
+ - [https://newwebmail.iitr.ac.in](https://newwebmail.iitr.ac.in)
+ - date_published: 2024-06-22T11:40:50.155541+00:00
+
+ ## IIT Roorkee Fees Payment Portal
+ - [https://payment.iitr.ac.in](https://payment.iitr.ac.in)
+ - date_published: 2022-06-04T19:11:36+00:00
+
+ ## Online Academic
+    Support and Information System
+ - [https://queryportal.iitr.ac.in](https://queryportal.iitr.ac.in)
+ - date_published: 2024-06-06T10:21:57+00:00
+
+ ## Srishti 2019 | IIT Roorkee
+ - [https://srishti.iitr.ac.in](https://srishti.iitr.ac.in)
+ - date_published: 2020-03-12T14:45:36+00:00
+
+ ## Homepage
+ - [https://step2025.iitr.ac.in](https://step2025.iitr.ac.in)
+ - date_published: 2024-12-24T15:58:06.347062+00:00
+
+ ## TIDES IIT Roorkee: Fostering Innovation and Entrepreneurship
+ - [https://tides.iitr.ac.in](https://tides.iitr.ac.in)
+ - date_published: 2024-12-24T16:02:36.849853+00:00
+
+ ## Technology Development | Human Resources | Technology Incubation | Startups, and international collaborative research - iHub DivyaSampark
+ - [https://tih.iitr.ac.in](https://tih.iitr.ac.in)
+ - date_published: 2024-06-22T11:32:39.015402+00:00
+
+ ## Wellness Centre – Express ● Engage ● Emerge
+ - [https://wellness.iitr.ac.in](https://wellness.iitr.ac.in)
+ - date_published: 2024-06-22T11:31:45.546579+00:00
+
+ ## The Official Alumni Network of Indian Institute of Technology Ropar
+ - [https://alumniconnect.iitrpr.ac.in](https://alumniconnect.iitrpr.ac.in)
+ - date_published: 2024-12-24T16:43:37.287248+00:00
+
+ ## Indian Institute of Technology Ropar | भारतीय प्रौद्योगिकी संस्थान रोपड़
+ - [https://iitrpr.ac.in](https://iitrpr.ac.in)
+ - date_published: 2024-09-11T11:51:49+00:00
+
+ ## Home
+ - [https://mech.iitrpr.ac.in](https://mech.iitrpr.ac.in)
+ - date_published: 2024-12-24T16:43:43.894781+00:00
+
+ ## IIT Ropar / Materials
+ - [https://mme.iitrpr.ac.in](https://mme.iitrpr.ac.in)
+ - date_published: 2024-12-24T16:43:46.488060+00:00
+
+ ## Home | Council of Indian Institute of Technology
+ - [https://iitsystem.ac.in](https://iitsystem.ac.in)
+ - date_published: 2024-06-22T11:41:09.625374+00:00
+
+ ## IITTirupati - Home Page
+ - [http://www.iittp.ac.in](http://www.iittp.ac.in)
+ - date_published: 2024-12-24T16:45:50.818443+00:00
+
+ ## e-PGPathshala
+ - [https://epgp.inflibnet.ac.in](https://epgp.inflibnet.ac.in)
+ - date_published: 2024-09-11T17:28:19.483660+00:00
+
+ ## ETD 2023
+ - [https://etd2023.inflibnet.ac.in](https://etd2023.inflibnet.ac.in)
+ - date_published: 2024-06-23T07:10:53.957022+00:00
+
+ ## INFLIBNET Centre Gandhinagar
+ - [https://inflibnet.ac.in](https://inflibnet.ac.in)
+ - date_published: 2024-12-24T16:52:34.044054+00:00
+
+ ## ShodhShuddhi | Enhancing Research Quality
+ - [https://pds.inflibnet.ac.in](https://pds.inflibnet.ac.in)
+ - date_published: 2024-06-23T07:10:33.956210+00:00
+
+ ## Shodhganga : a reservoir of Indian theses @ INFLIBNET
+ - [https://shodhganga.inflibnet.ac.in](https://shodhganga.inflibnet.ac.in)
+ - date_published: 2024-05-06T13:41:13.342135+00:00
+
+ ## ShodhShuddhi | Enhancing Research Quality
+ - [https://shodhshuddhi.inflibnet.ac.in](https://shodhshuddhi.inflibnet.ac.in)
+ - date_published: 2024-06-23T07:10:46.629772+00:00
+
+ ## UGC MOOCs |SWAYAM| UG AND PG COURSE
+ - [https://ugcmoocs.inflibnet.ac.in](https://ugcmoocs.inflibnet.ac.in)
+ - date_published: 2024-09-11T17:36:47.207835+00:00
+
+ ## INFLIBNET Centre Gandhinagar
+ - [https://www.inflibnet.ac.in](https://www.inflibnet.ac.in)
+ - date_published: 2024-12-24T12:16:08.298120+00:00
+
+ ## Indian Statistical Institute
+ - [https://www.isical.ac.in](https://www.isical.ac.in)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Indian Statistical Institute | North-East Centre
+ - [http://www.isine.ac.in](http://www.isine.ac.in)
+ - date_published: 2024-12-24T17:02:39.444409+00:00
+
+ ## ITM Vocational University Vadodara: Top University in Baroda Gujarat
+ - [http://itm.ac.in](http://itm.ac.in)
+ - date_published: 2024-07-19T17:36:24+00:00
+
+ ## Center for Distance Education | JAIN (Deemed-to-be University)
+ - [https://cde.jainuniversity.ac.in](https://cde.jainuniversity.ac.in)
+ - date_published: 2024-12-24T17:05:18.747154+00:00
+
+ ## Best University in Bangalore | Jain (Deemed-to-be University)
+ - [https://events.jainuniversity.ac.in](https://events.jainuniversity.ac.in)
+ - date_published: 2024-12-24T17:04:55.480594+00:00
+
+ ## Top (Aerospace Engineering) Colleges in Bangalore, India | IIAEM
+ - [https://iiaem.jainuniversity.ac.in](https://iiaem.jainuniversity.ac.in)
+ - date_published: 2024-07-10T06:58:35+00:00
+
+ ## Best University in Bangalore | JAIN (Deemed-to-be University)
+ - [https://jainuniversity.ac.in](https://jainuniversity.ac.in)
+ - date_published: 2024-07-14T09:57:11.757195+00:00
+
+ ## School of Allied Healthcare & Sciences | JAIN (Deemed-to-be University)
+ - [https://sahs.jainuniversity.ac.in](https://sahs.jainuniversity.ac.in)
+ - date_published: 2024-12-24T17:04:52.795980+00:00
+
+ ## JU-FET | One of the Top Engineering Colleges in Bangalore
+ - [https://set.jainuniversity.ac.in](https://set.jainuniversity.ac.in)
+ - date_published: 2024-12-24T17:04:58.865993+00:00
+
+ ## JEE (Advanced) 2024
+ - [https://jeeadv.ac.in](https://jeeadv.ac.in)
+ - date_published: 2024-07-27T08:47:23+00:00
+
+ ## Official Website of Jamia Millia Islamia - Jamia
+ - [https://jmi.ac.in](https://jmi.ac.in)
+ - date_published: 2024-09-11T17:46:55.381289+00:00
+
+ ## Jawaharlal Nehru University
+ - [https://jnu.ac.in](https://jnu.ac.in)
+ - date_published: 2024-09-11T17:57:50.162014+00:00
+
+ ## Welcome to Jagat Taran Girls' Degree College - A Constituent Post Graduate College of University of Allahabad.
+ - [http://jtgdc.ac.in](http://jtgdc.ac.in)
+ - date_published: 2024-12-24T12:14:10.558931+00:00
+
+ ## University of Kerala
+ - [https://keralauniversity.ac.in](https://keralauniversity.ac.in)
+ - date_published: 2024-10-15T14:21:02.123410+00:00
+
+ ## K.P. Training College – A Constituent College of University of Allahabad, Prayagraj
+ - [https://kptc.ac.in](https://kptc.ac.in)
+ - date_published: 2024-12-24T12:16:13.897276+00:00
+
+ ## Experience Excellence, Transformative Research & Innovation
+ - [http://lnmiit.ac.in](http://lnmiit.ac.in)
+ - date_published: 2024-12-24T17:17:02.470693+00:00
+
+ ## SPACE 2022
+ - [https://space2022.lnmiit.ac.in](https://space2022.lnmiit.ac.in)
+ - date_published: 2023-12-02T12:13:54+00:00
+
+ ## Experience Excellence, Transformative Research & Innovation
+ - [https://www.lnmiit.ac.in](https://www.lnmiit.ac.in)
+ - date_published: 2024-12-24T17:16:57.793090+00:00
+
+ ## Mahatma International School | CBSE
+ - [http://www.mahatmainternational.ac.in](http://www.mahatmainternational.ac.in)
+ - date_published: 2018-06-11T14:25:44+00:00
+
+ ## Manipur University
+ - [https://manipuruniv.ac.in](https://manipuruniv.ac.in)
+ - date_published: 2024-09-11T18:06:09.044034+00:00
+
+ ## Manipur University Online Exam Result - Exam Result
+ - [https://onlineresult.manipuruniv.ac.in](https://onlineresult.manipuruniv.ac.in)
+ - date_published: 2024-12-24T17:17:55.399087+00:00
+
+ ## Manipur University Recruitment Portal
+ - [https://recruitment.manipuruniv.ac.in](https://recruitment.manipuruniv.ac.in)
+ - date_published: 2024-12-24T17:19:05.050558+00:00
+
+ ## :: Maulana Azad National Urdu University ::
+ - [https://manuu.ac.in](https://manuu.ac.in)
+ - date_published: 2024-09-11T17:53:04.244449+00:00
+
+ ## Picnic and Adventure Learning Camps at FRANAV Farms - Mahatma Sports Club, New Panvel
+ - [http://adventurelearning.mes.ac.in](http://adventurelearning.mes.ac.in)
+ - date_published: 2024-12-24T17:22:56.986198+00:00
+
+ ## Campuses - MES
+ - [https://campuses.mes.ac.in](https://campuses.mes.ac.in)
+ - date_published: 2017-01-17T07:11:14+00:00
+
+ ## Chembur Campus - MES
+ - [https://chemburcampus.mes.ac.in](https://chemburcampus.mes.ac.in)
+ - date_published: 2017-03-04T07:07:21+00:00
+
+ ## Khanda Campus - MES
+ - [https://khandacampus.mes.ac.in](https://khandacampus.mes.ac.in)
+ - date_published: 2017-03-04T07:08:52+00:00
+
+ ## Mahatma Education Society - MES
+ - [https://mes.ac.in](https://mes.ac.in)
+ - date_published: 2024-10-15T21:07:04.774348+00:00
+
+ ## Mahatma Education Society's Pillai Group of Institutions: Log in to the site
+ - [https://mockcet.mes.ac.in](https://mockcet.mes.ac.in)
+ - date_published: 2024-10-15T21:06:52.668871+00:00
+
+ ## Panvel Campus - MES
+ - [https://panvelcampus.mes.ac.in](https://panvelcampus.mes.ac.in)
+ - date_published: 2017-03-04T07:08:05+00:00
+
+ ## Pillai College of Engineering
+ - [https://pcestudentportal.mes.ac.in](https://pcestudentportal.mes.ac.in)
+ - date_published: 2024-10-15T21:06:37.880091+00:00
+
+ ## PCIE
+ - [http://pcie.mes.ac.in](http://pcie.mes.ac.in)
+ - date_published: 2024-12-24T17:23:26.151077+00:00
+
+ ## Pillai HOCL Educational Campus - MES
+ - [https://rasayanicampus.mes.ac.in](https://rasayanicampus.mes.ac.in)
+ - date_published: 2017-03-04T07:07:47+00:00
+
+ ## National Workshop on “Root Cause Failure Analysis of Boiler Tubes” | sfa.mes.ac.in
+ - [http://sfa.mes.ac.in](http://sfa.mes.ac.in)
+ - date_published: 2024-12-24T17:22:09.711694+00:00
+
+ ## Top University in Pune Maharashtra - MIT ADT University
+ - [https://mituniversity.ac.in](https://mituniversity.ac.in)
+ - date_published: 2024-08-17T23:38:14.494870+00:00
+
+ ## Naac - MIT ADT University
+ - [https://naac.mituniversity.ac.in](https://naac.mituniversity.ac.in)
+ - date_published: 2024-12-02T12:17:53+00:00
+
+ ## Home - Martin Luther Christian University
+ - [https://mlcu.ac.in](https://mlcu.ac.in)
+ - date_published: 2024-12-15T13:38:22.716262+00:00
+
+ ## Malaviya National Institute of Technology Jaipur
+ - [https://couns-promo.mnit.ac.in](https://couns-promo.mnit.ac.in)
+ - date_published: 2024-12-24T18:22:04.463144+00:00
+
+ ## MNIT Guest House
+ - [https://guesthouse.mnit.ac.in](https://guesthouse.mnit.ac.in)
+ - date_published: 2024-12-24T17:35:52.619024+00:00
+
+ ## Home - MIIC
+ - [https://miic.mnit.ac.in](https://miic.mnit.ac.in)
+ - date_published: 2024-12-24T17:35:40.351957+00:00
+
+ ## Malaviya National Institute of Technology Jaipur
+ - [https://mnit.ac.in](https://mnit.ac.in)
+ - date_published: 2024-09-11T18:02:18.444844+00:00
+
+ ## MNIT MRC
+ - [https://mrc.mnit.ac.in](https://mrc.mnit.ac.in)
+ - date_published: 2024-12-24T17:37:18.193414+00:00
+
+ ## Training and Placements, MNIT Jaipur
+ - [https://placements.mnit.ac.in](https://placements.mnit.ac.in)
+ - date_published: 2024-12-24T17:35:35.531585+00:00
+
+ ## MAHARASHTRA NATIONAL LAW UNIVERSITY - AURANGABAD
+ - [https://www.mnlua.ac.in](https://www.mnlua.ac.in)
+ - date_published: 2024-12-24T12:44:18.433251+00:00
+
+ ## The Official Alumni Network of Motilal Nehru National Institute of Technology, Allahabad
+ - [http://alumni.mnnit.ac.in](http://alumni.mnnit.ac.in)
+ - date_published: 2024-12-24T17:46:09.488723+00:00
+
+ ## मुख्य पृष्ठ
+ - [http://hindi.mnnit.ac.in](http://hindi.mnnit.ac.in)
+ - date_published: 2024-12-24T17:43:17+00:00
+
+ ## Home
+ - [https://mnnit.ac.in](https://mnnit.ac.in)
+ - date_published: 2024-09-11T18:04:31+00:00
+
+ ## SAC MNNIT
+ - [http://sac.mnnit.ac.in](http://sac.mnnit.ac.in)
+ - date_published: 2024-12-24T17:43:43.560930+00:00
+
+ ## MSAS | Mahatma School of Academics and Sports
+ - [https://msas.ac.in](https://msas.ac.in)
+ - date_published: 2024-12-24T17:27:46.130508+00:00
+
+ ## MSAS | Mahatma School of Academics and Sports
+ - [http://www.msas.ac.in](http://www.msas.ac.in)
+ - date_published: 2024-12-24T17:22:39.972301+00:00
+
+ ## Madras School of Economics
+ - [https://mse.ac.in](https://mse.ac.in)
+ - date_published: 2024-09-09T21:55:51.673424+00:00
+
+ ## MSRVVP
+ - [https://msrvvp.ac.in](https://msrvvp.ac.in)
+ - date_published: 2024-09-09T14:23:37+00:00
+
+ ## NU|IPR
+ - [https://ipr.nagalanduniversity.ac.in](https://ipr.nagalanduniversity.ac.in)
+ - date_published: 2024-11-07T01:40:18+00:00
+
+ ## NU|IQAC
+ - [https://iqac.nagalanduniversity.ac.in](https://iqac.nagalanduniversity.ac.in)
+ - date_published: 2024-12-24T17:50:26.694764+00:00
+
+ ## NU:Kohima Campus
+ - [https://kohima.nagalanduniversity.ac.in](https://kohima.nagalanduniversity.ac.in)
+ - date_published: 2024-10-25T09:02:07+00:00
+
+ ## NU:Lumami campus
+ - [https://lumami.nagalanduniversity.ac.in](https://lumami.nagalanduniversity.ac.in)
+ - date_published: 2024-12-24T17:49:12.712325+00:00
+
+ ## NU:SAS,Medziphema Campus
+ - [https://medziphema.nagalanduniversity.ac.in](https://medziphema.nagalanduniversity.ac.in)
+ - date_published: 2024-01-15T09:09:22+00:00
+
+ ## Nagaland University | Labor et Honor
+ - [https://nagalanduniversity.ac.in](https://nagalanduniversity.ac.in)
+ - date_published: 2024-09-11T17:55:39+00:00
+
+ ## NURJ
+ - [https://nurj.nagalanduniversity.ac.in](https://nurj.nagalanduniversity.ac.in)
+ - date_published: 2023-04-13T15:35:59+00:00
+
+ ## NU|RDC
+ - [https://rdc.nagalanduniversity.ac.in](https://rdc.nagalanduniversity.ac.in)
+ - date_published: 2024-01-20T04:23:23+00:00
+
+ ## Web Site Blocked
+ - [http://nehu.ac.in](http://nehu.ac.in)
+ - date_published: 2024-09-11T17:39:02.471165+00:00
+
+ ## Home | NERIST, Nirjuli
+ - [https://nerist.ac.in](https://nerist.ac.in)
+ - date_published: 2024-09-10T16:14:13+00:00
+
+ ## National Institute of Educational Planning and Administration | NIEPA
+ - [http://www.niepa.ac.in](http://www.niepa.ac.in)
+ - date_published: 2024-09-11T18:02:04.243249+00:00
+ - date_dead_since: 2024-12-24T18:12:25.119208+00:00
+
+ ## NIFTEM-T
+ - [https://niftem-t.ac.in](https://niftem-t.ac.in)
+ - date_published: 2024-08-08T13:58:20.543302+00:00
+
+ ## Home: The National Institute of Open Schooling (NIOS)
+ - [https://nios.ac.in](https://nios.ac.in)
+ - date_published: 2024-12-25T04:30:34.674996+00:00
+
+ ## Home - National Institute of Open Schooling
+ - [https://results.nios.ac.in](https://results.nios.ac.in)
+ - date_published: 2024-12-24T23:48:18.424959+00:00
+
+ ## Home: The National Institute of Open Schooling (NIOS)
+ - [http://www.nios.ac.in](http://www.nios.ac.in)
+ - date_published: 2024-12-24T16:59:51.623572+00:00
+
+ ## B.Tech Chemical Engineering Admissions 2024
+ - [http://ch.nirmauni.ac.in](http://ch.nirmauni.ac.in)
+ - date_published: 2024-12-24T18:25:08.086662+00:00
+
+ ## B.Tech/M.Tech Civil Engineering Admissions 2024
+ - [http://cl.nirmauni.ac.in](http://cl.nirmauni.ac.in)
+ - date_published: 2024-12-24T18:27:42.895743+00:00
+
+ ## B.Tech/M.Tech Computer Science and Engineering Admissions 2024
+ - [http://cse.nirmauni.ac.in](http://cse.nirmauni.ac.in)
+ - date_published: 2024-12-24T18:24:38.188578+00:00
+
+ ## B.Tech/M.Tech Electronics and Communication Engineering Admissions 2024
+ - [http://ec.nirmauni.ac.in](http://ec.nirmauni.ac.in)
+ - date_published: 2024-12-24T18:26:43.886271+00:00
+
+ ## B.Tech/M.Tech Electrical Engineering Admission 2024 | B.Tech/M.Tech EE
+ - [http://ee.nirmauni.ac.in](http://ee.nirmauni.ac.in)
+ - date_published: 2024-12-24T18:24:01.085868+00:00
+
+ ## PhD, Doctoral Programmes, Nirma University | NAAC A+ Grade
+ - [http://fdsr.nirmauni.ac.in](http://fdsr.nirmauni.ac.in)
+ - date_published: 2024-12-24T18:26:14.161546+00:00
+
+ ## Department of Humanities and Social Sciences | Nirma University
+ - [http://hss.nirmauni.ac.in](http://hss.nirmauni.ac.in)
+ - date_published: 2024-12-24T18:27:13.785193+00:00
+
+ ## B.Tech/M.Tech Mechanical Engineering Admissions 2024
+ - [http://me.nirmauni.ac.in](http://me.nirmauni.ac.in)
+ - date_published: 2024-12-24T18:23:31.460840+00:00
+
+ ## Department of Mathematics | Nirma University
+ - [http://mh.nirmauni.ac.in](http://mh.nirmauni.ac.in)
+ - date_published: 2024-12-24T18:28:11.197104+00:00
+
+ ## Nirma University - NAAC A+ Grade - UGC Approved
+ - [https://nirmauni.ac.in](https://nirmauni.ac.in)
+ - date_published: 2024-12-23T12:00:54+00:00
+
+ ## Technology Library | Nirma University
+ - [http://technologylibrary.nirmauni.ac.in](http://technologylibrary.nirmauni.ac.in)
+ - date_published: 2024-12-24T18:23:00.973496+00:00
+
+ ## Institute of Technology, Nirma University | NAAC A+ Grade
+ - [https://technology.nirmauni.ac.in](https://technology.nirmauni.ac.in)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Home - National Institute of Securities Markets (NISM)
+ - [https://nism.ac.in](https://nism.ac.in)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## IIS Windows Server
+ - [https://nita.ac.in](https://nita.ac.in)
+ - date_published: 2022-01-12T07:35:59+00:00
+
+ ## NIT Agartala
+ - [https://oldweb.nita.ac.in](https://oldweb.nita.ac.in)
+ - date_published: 2024-11-19T07:02:02+00:00
+
+ ## The office of the Dean International, Alumni and Corporate Relations (IACR)
+ - [https://iacr.nitc.ac.in](https://iacr.nitc.ac.in)
+ - date_published: 2024-12-24T18:32:01.391725+00:00
+
+ ## Knowledge Resource Portal | NITC
+ - [https://krp.nitc.ac.in](https://krp.nitc.ac.in)
+ - date_published: 2024-12-24T18:32:47.909630+00:00
+
+ ## National Institute of Technology
+ - [https://nitc.ac.in](https://nitc.ac.in)
+ - date_published: 2024-09-11T17:47:05.381978+00:00
+
+ ## Research and Consultancy
+ - [https://randc.nitc.ac.in](https://randc.nitc.ac.in)
+ - date_published: 2024-12-24T18:32:37.201222+00:00
+
+ ## NIT Calicut - Support Desk
+ - [https://ticket.nitc.ac.in](https://ticket.nitc.ac.in)
+ - date_published: 2024-12-24T18:32:51.307576+00:00
+
+ ## Welcome To NIT Goa
+ - [https://nitgoa.ac.in](https://nitgoa.ac.in)
+ - date_published: 2024-09-11T14:33:26+00:00
+
+ ## Dr. B.R. Ambedkar National Institute of Technology, Jalandhar
+ - [https://nitj.ac.in](https://nitj.ac.in)
+ - date_published: 2024-05-29T11:27:17+00:00
+
+ ## NIT Jamshedpur | राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर
+ - [https://nitjsr.ac.in](https://nitjsr.ac.in)
+ - date_published: 2024-09-10T17:02:49+00:00
+
+ ## IRIS
+ - [https://iris.nitk.ac.in](https://iris.nitk.ac.in)
+ - date_published: 2024-12-24T18:35:37.624704+00:00
+
+ ## Central Library NITK Surathkal
+ - [http://library.nitk.ac.in](http://library.nitk.ac.in)
+ - date_published: 2024-12-24T18:36:13.631923+00:00
+
+ ## NITK Surathkal
+ - [http://nitk.ac.in](http://nitk.ac.in)
+ - date_published: 2024-09-11T17:43:11.271249+00:00
+
+ ## NITK Surathkal Virtual Tour | Virtual tour generated by Panotour
+ - [http://vtour.nitk.ac.in](http://vtour.nitk.ac.in)
+ - date_published: 2024-12-24T18:34:11.963808+00:00
+
+ ## National Institute of Technology, Kurukshetra – India, the land of seekers, is at the cusp of becoming Vishwa Guru all over again after 1100 years of subjugation, wars, annexures and humiliation. It is again a free country due to the sacrifices made by our leaders, freedom fighters and has learnt the art of standing tall in the midst of many a challenge of building the nation with its rich diversity, cultures, languages all over again since the last 75 years. Unity in Diversity is our mantra while making our nation stronger in every sphere.
+ - [http://www.nitkkr.ac.in](http://www.nitkkr.ac.in)
+ - date_published: 2024-12-25T00:04:28.212258+00:00
+
+ ## National Institute of Technology, Meghalaya
+ - [https://nitm.ac.in](https://nitm.ac.in)
+ - date_published: 2024-09-11T17:43:28.496777+00:00
+
+ ## Home
+ - [https://uba.nitm.ac.in](https://uba.nitm.ac.in)
+ - date_published: 2024-12-24T18:41:54.713919+00:00
+
+ ## IIS Windows Server
+ - [https://nitmanipur.ac.in](https://nitmanipur.ac.in)
+ - date_published: 2024-09-05T09:22:34+00:00
+
+ ## National Institute of Technology - Mizoram Alumni
+ - [http://alumni.nitmz.ac.in](http://alumni.nitmz.ac.in)
+ - date_published: 2024-12-24T18:42:46.810721+00:00
+
+ ## IIS Windows Server
+ - [https://nitmz.ac.in](https://nitmz.ac.in)
+ - date_published: 2024-09-05T09:22:34+00:00
+
+ ## NIT PATNA | National Institute of Technology Patna
+ - [http://www.nitp.ac.in](http://www.nitp.ac.in)
+ - date_published: 2024-12-25T00:03:33.832508+00:00
+
+ ## AIIR :: NIT Rourkela
+ - [https://alum.nitrkl.ac.in](https://alum.nitrkl.ac.in)
+ - date_published: 2024-12-24T18:44:11.030953+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://mail.nitrkl.ac.in](https://mail.nitrkl.ac.in)
+ - date_published: 2024-12-24T18:45:21.740999+00:00
+
+ ## NIT Rourkela
+ - [https://nitrkl.ac.in](https://nitrkl.ac.in)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## NIT Rourkela
+ - [https://website.nitrkl.ac.in](https://website.nitrkl.ac.in)
+ - date_published: 2024-12-24T18:43:51.376968+00:00
+
+ ## Codeutsava 8.0 - Central India's Largest Coding Event
+ - [https://codeutsava.nitrr.ac.in](https://codeutsava.nitrr.ac.in)
+ - date_published: 2024-09-21T13:09:02+00:00
+ - date_dead_since: 2024-12-24T18:53:37.972639+00:00
+
+ ## ::: National Institute of Technology Raipur :::
+ - [https://nitrr.ac.in](https://nitrr.ac.in)
+ - date_published: 2024-09-11T17:47:11.176277+00:00
+
+ ## CoMSO 2024
+ - [http://comso.nits.ac.in](http://comso.nits.ac.in)
+ - date_published: 2024-08-21T05:24:07+00:00
+
+ ## Emerging Electronics And Automation || 2022
+ - [http://e2a2022.nits.ac.in](http://e2a2022.nits.ac.in)
+ - date_published: 2022-12-11T07:29:52+00:00
+
+ ## ICRABS 2022
+ - [http://icrabs.nits.ac.in](http://icrabs.nits.ac.in)
+ - date_published: 2022-09-26T09:16:42+00:00
+
+ ## MNDCS 2025
+ - [http://mndcs.nits.ac.in](http://mndcs.nits.ac.in)
+ - date_published: 2024-12-06T03:17:27+00:00
+
+ ## SIPCOV 2025
+ - [http://sipcov.nits.ac.in](http://sipcov.nits.ac.in)
+ - date_published: 2024-10-16T00:59:36+00:00
+
+ ## National Institute of Technology, Silchar
+ - [https://www.nits.ac.in](https://www.nits.ac.in)
+ - date_published: 2024-09-11T17:52:50.742009+00:00
+
+ ## NIT Sikkim | Home
+ - [https://nitsikkim.ac.in](https://nitsikkim.ac.in)
+ - date_published: 2024-09-11T17:38:43.733029+00:00
+
+ ## T&P Cell - NIT Sikkim
+ - [https://placement.nitsikkim.ac.in](https://placement.nitsikkim.ac.in)
+ - date_published: 2024-12-24T19:13:09.399583+00:00
+
+ ## NIT Srinagar
+ - [https://nitsri.ac.in](https://nitsri.ac.in)
+ - date_published: 2024-09-11T17:45:23.367351+00:00
+
+ ## NITTTR Chandigarh : एनआईटीटीटीआर चंडीगढ़
+ - [https://nitttrchd.ac.in](https://nitttrchd.ac.in)
+ - date_published: 2024-09-11T17:56:19.835495+00:00
+
+ ## NITTTR, Kolkata
+ - [http://www.nitttrkol.ac.in](http://www.nitttrkol.ac.in)
+ - date_published: 2024-09-11T17:45:04.982003+00:00
+
+ ## National Institute of Technology, Uttarakhand
+ - [https://nituk.ac.in](https://nituk.ac.in)
+ - date_published: 2024-09-11T17:38:37.289888+00:00
+
+ ## National Institute of Technology, Uttarakhand
+ - [https://portfolios.nituk.ac.in](https://portfolios.nituk.ac.in)
+ - date_published: 2024-12-24T19:21:31.106376+00:00
+
+ ## NIT Warangal
+ - [https://nitw.ac.in](https://nitw.ac.in)
+ - date_published: 2024-09-10T14:17:48+00:00
+
+ ## National Law School of India University -
+ - [https://www.nls.ac.in](https://www.nls.ac.in)
+ - date_published: 2024-12-24T12:45:09.106488+00:00
+
+ ## NLUJAA
+ - [http://www.nluassam.ac.in](http://www.nluassam.ac.in)
+ - date_published: 2024-12-24T12:43:40.185567+00:00
+
+ ## National Law University
+ - [http://www.nlujodhpur.ac.in](http://www.nlujodhpur.ac.in)
+ - date_published: 2024-12-24T12:44:34.656021+00:00
+
+ ## National Law University, Nagpur
+ - [http://www.nlunagpur.ac.in](http://www.nlunagpur.ac.in)
+ - date_published: 2024-12-24T12:43:48.435369+00:00
+
+ ## NMEICT | National Mission on Education through Information and Communication Technology
+ - [https://nmeict.ac.in](https://nmeict.ac.in)
+ - date_published: 2024-06-12T11:10:48.645709+00:00
+
+ ## NPTEL IITm
+ - [https://nptel.ac.in](https://nptel.ac.in)
+ - date_published: 2024-06-22T11:32:34.187507+00:00
+
+ ## NTA Exam  | India
+ - [https://exams.nta.ac.in](https://exams.nta.ac.in)
+ - date_published: 2024-07-11T12:44:18+00:00
+
+ ## Fit-India
+ - [https://fitindia.nta.ac.in](https://fitindia.nta.ac.in)
+ - date_published: 2024-12-25T00:28:39.609649+00:00
+
+ ## Parul University Vadodara: Best Private University in Gujarat
+ - [https://paruluniversity.ac.in](https://paruluniversity.ac.in)
+ - date_published: 2024-08-17T23:38:10.696363+00:00
+
+ ## PCE E-classroom
+ - [https://e-classroom.pce.ac.in](https://e-classroom.pce.ac.in)
+ - date_published: 2018-06-11T00:00:00+00:00
+
+ ## PCE | Pillai College of Engineering
+ - [https://pce.ac.in](https://pce.ac.in)
+ - date_published: 2024-06-17T01:57:19.649527+00:00
+
+ ## 2023 - PCE Exam Result
+ - [https://pceexamresults.pce.ac.in](https://pceexamresults.pce.ac.in)
+ - date_published: 2023-06-21T09:11:42+00:00
+
+ ## TPC-PCE
+ - [https://tpc.pce.ac.in](https://tpc.pce.ac.in)
+ - date_published: 2024-05-25T12:21:06+00:00
+
+ ## PCER Panvel Homepage | Pillai College of Education and Research
+ - [http://www.pcerpanvel.ac.in](http://www.pcerpanvel.ac.in)
+ - date_published: 2024-12-24T17:23:04.855925+00:00
+
+ ## PiMSR | Pillai Institute of Management Studies and Research
+ - [https://pimsr.ac.in](https://pimsr.ac.in)
+ - date_published: 2021-06-24T10:40:39+00:00
+
+ ## Finance and Accounts Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://accounts.puchd.ac.in](https://accounts.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:48.000249+00:00
+
+ ## University Admissions - Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://admissions.puchd.ac.in](https://admissions.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:26.399209+00:00
+
+ ## Central Animal House Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://animalhouse.puchd.ac.in](https://animalhouse.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:21.247754+00:00
+
+ ## Bhai Ghanaiya Ji Institute of Health Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://bgjih.puchd.ac.in](https://bgjih.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:36.656663+00:00
+
+ ## Campus Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://campusstudent.puchd.ac.in](https://campusstudent.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:24.163458+00:00
+
+ ## Dr. A.P.J. Abdul Kalam Computer Centre Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://cc.puchd.ac.in](https://cc.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:19.710746+00:00
+
+ ## Centre for Industry Institute Partnership Programme Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://ciipp.puchd.ac.in](https://ciipp.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:43.745674+00:00
+
+ ## Central Placement Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://cpc.puchd.ac.in](https://cpc.puchd.ac.in)
+ - date_published: 2024-12-15T13:01:36.086078+00:00
+
+ ## Industry Academia Book
+ - [https://cpr.puchd.ac.in](https://cpr.puchd.ac.in)
+ - date_published: 2024-12-15T13:00:12.252025+00:00
+
+ ## Chandigarh Region Innovation and Knowledge Cluster (CRIKC).
+ - [https://crikc.puchd.ac.in](https://crikc.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:28.902237+00:00
+
+ ## Centre for Skill Development & Entrepreneurship Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://csde.puchd.ac.in](https://csde.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:01.124194+00:00
+
+ ## Department of Computer Science & Applications Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://dcsa.puchd.ac.in](https://dcsa.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:16.801275+00:00
+
+ ## Panjab University Directory Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://directory.puchd.ac.in](https://directory.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:36.275145+00:00
+
+ ## Dean International Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://dis.puchd.ac.in](https://dis.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:23.143230+00:00
+
+ ## Dean of University Instruction Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://dui.puchd.ac.in](https://dui.puchd.ac.in)
+ - date_published: 2024-12-15T13:01:27.785070+00:00
+
+ ## Entrepreneurship, Employability and Innovation Hub (EEI) – (RUSA-State Project Directorate, Chandigarh)
+ - [https://eei.puchd.ac.in](https://eei.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:58.067171+00:00
+
+ ## Equal Opportunity Cell for Persons with Disabilities Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://eocpwd.puchd.ac.in](https://eocpwd.puchd.ac.in)
+ - date_published: 2024-12-15T12:55:57.135615+00:00
+
+ ## Panjab University Examination Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://exams.puchd.ac.in](https://exams.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:37.742004+00:00
+
+ ## University Forms Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://forms.puchd.ac.in](https://forms.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:42.699354+00:00
+
+ ## Official Website of Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://gallery.puchd.ac.in](https://gallery.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:44.149967+00:00
+
+ ## Panjab University Hostels Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://hostels.puchd.ac.in](https://hostels.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:37.843419+00:00
+
+ ## About  -  Centre for IAS  & Other Competitive Examinations Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://iasc.puchd.ac.in](https://iasc.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:51.453945+00:00
+
+ ## DST Inspire Internship Program Centre Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://inspire.puchd.ac.in](https://inspire.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:26.727694+00:00
+
+ ## University Home
+ - [https://iqac.puchd.ac.in](https://iqac.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:49.306330+00:00
+
+ ## University Jobs Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://jobs.puchd.ac.in](https://jobs.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:14.930548+00:00
+
+ ## A. C. Joshi Library Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://library.puchd.ac.in](https://library.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:35.590098+00:00
+
+ ## National Education Policy Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://nep.puchd.ac.in](https://nep.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:01.595637+00:00
+
+ ## News & Updates - Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://news.puchd.ac.in](https://news.puchd.ac.in)
+ - date_published: 2024-12-13T00:00:00+00:00
+
+ ## Oral History Project | Early Panjab University (1947-1965)
+ - [https://oralhistory.puchd.ac.in](https://oralhistory.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:02.703526+00:00
+
+ ## Permanent Anti-Discrimination Cell for Transgender Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://padcts.puchd.ac.in](https://padcts.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:57.605548+00:00
+
+ ## Welcome to Panjab University Payment Portal ~ Pay Online | Panjab University Online Payment Portal
+ - [https://payonline.puchd.ac.in](https://payonline.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:56.322739+00:00
+
+ ## Department of Physical Education Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://physicaleducation.puchd.ac.in](https://physicaleducation.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:15.353992+00:00
+
+ ## About  -  Publication Bureau Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://publicationbureau.puchd.ac.in](https://publicationbureau.puchd.ac.in)
+ - date_published: 2024-12-15T12:56:59.735388+00:00
+
+ ## Public Relations Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://publicrelations.puchd.ac.in](https://publicrelations.puchd.ac.in)
+ - date_published: 2024-12-15T12:56:57.232779+00:00
+
+ ## Official Website of Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://puchd.ac.in](https://puchd.ac.in)
+ - date_published: 2024-10-30T20:17:45.374946+00:00
+
+ ## Jyotirgamaya: 91.2 MHz - Panjab University Community Radio Station Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://radiostation.puchd.ac.in](https://radiostation.puchd.ac.in)
+ - date_published: 2024-12-15T12:56:53.704934+00:00
+
+ ## Research & Development Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://rdc.puchd.ac.in](https://rdc.puchd.ac.in)
+ - date_published: 2024-12-15T12:56:06.173150+00:00
+
+ ## Registrar's Office Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://registrar.puchd.ac.in](https://registrar.puchd.ac.in)
+ - date_published: 2024-12-15T13:01:06.455544+00:00
+
+ ## Sophisticated Analytical Instrumentation Facility, CIL and UCIM Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://rsic.puchd.ac.in](https://rsic.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:04.984206+00:00
+
+ ## Right to Information (RTI) Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://rti.puchd.ac.in](https://rti.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:22.909032+00:00
+
+ ## SC/ST Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://scst.puchd.ac.in](https://scst.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:42.472527+00:00
+
+ ## Colloquium Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://seminar.puchd.ac.in](https://seminar.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:20.112013+00:00
+
+ ## Senate, Syndicate - Panjab University Administration Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://senatesyndicate.puchd.ac.in](https://senatesyndicate.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:33.155035+00:00
+
+ ## Student Grievances Redressal Committee (SGRC) Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://sgrc.puchd.ac.in](https://sgrc.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:04.634893+00:00
+
+ ## Directorate of Sports Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://sports.puchd.ac.in](https://sports.puchd.ac.in)
+ - date_published: 2024-12-15T13:01:31.512220+00:00
+
+ ## University Tenders  -  University Tenders Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://tenders.puchd.ac.in](https://tenders.puchd.ac.in)
+ - date_published: 2024-12-15T13:00:53.856697+00:00
+
+ ## University Business School Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://ubs.puchd.ac.in](https://ubs.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:14.736584+00:00
+
+ ## Centre for Distance and Online Education Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://usol.puchd.ac.in](https://usol.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:10.858510+00:00
+
+ ## RGU Admissions
+ - [https://admissions.rgu.ac.in](https://admissions.rgu.ac.in)
+ - date_published: 2024-08-23T10:29:48+00:00
+
+ ## Rajiv Gandhi University, Arunachal Pradesh
+ - [https://rgu.ac.in](https://rgu.ac.in)
+ - date_published: 2024-09-11T18:06:48.631466+00:00
+
+ ## Welcome to Department of Computer Science | Department of Computer Science
+ - [https://cs.rkmvu.ac.in](https://cs.rkmvu.ac.in)
+ - date_published: 2019-03-22T06:28:30+00:00
+
+ ## Home Page New - Courses in Indian Spiritual and Cultural Heritage
+ - [https://ish.rkmvu.ac.in](https://ish.rkmvu.ac.in)
+ - date_published: 2024-12-24T19:29:27.084610+00:00
+
+ ## Department of Mathematics , RKMVERI (Deemed University)
+ - [https://maths.rkmvu.ac.in](https://maths.rkmvu.ac.in)
+ - date_published: 2024-12-24T19:28:42.474365+00:00
+
+ ## RKMVERI (Deemed University)
+ - [https://rkmvu.ac.in](https://rkmvu.ac.in)
+ - date_published: 2024-12-24T19:29:34.665349+00:00
+
+ ## Dept. of Sanskrit and Philosophy - RKMVERI (Deemed University)
+ - [https://sanskrit.rkmvu.ac.in](https://sanskrit.rkmvu.ac.in)
+ - date_published: 2024-12-24T19:28:47.954000+00:00
+
+ ## Dept. of Sports Science & Yoga, RKMVERI (Deemed University)
+ - [https://sy.rkmvu.ac.in](https://sy.rkmvu.ac.in)
+ - date_published: 2024-12-24T19:28:53.650799+00:00
+
+ ## RKMVERI (Deemed University) Ranchi Campus
+ - [https://www.rkmvuranchi.ac.in](https://www.rkmvuranchi.ac.in)
+ - date_published: 2024-12-24T19:29:15.253117+00:00
+
+ ## Rajasthan Technical University | Kota Rajasthan
+ - [https://www.rtu.ac.in](https://www.rtu.ac.in)
+ - date_published: 2024-12-24T19:52:29.922840+00:00
+
+ ## Samarth eGov Suite - Docs
+ - [https://docs.samarth.ac.in](https://docs.samarth.ac.in)
+ - date_published: 2024-12-24T09:59:09+00:00
+
+ ## Home | manipuruniv
+ - [https://lms-manipuruniv.samarth.ac.in](https://lms-manipuruniv.samarth.ac.in)
+ - date_published: 2024-12-24T17:19:13+00:00
+
+ ## Login - Samarth eGov Suite
+ - [https://vnit.samarth.ac.in](https://vnit.samarth.ac.in)
+ - date_published: 2024-08-07T17:25:44.540834+00:00
+
+ ## UG/PG Admissions Open 2025-26 @ Sharda University  | The Only Multicultural University in Delhi/NCR
+ - [https://admissions.sharda.ac.in](https://admissions.sharda.ac.in)
+ - date_published: 2024-12-24T19:33:07.295020+00:00
+
+ ## The Official Alumni Network of Sharda University
+ - [https://alumni.sharda.ac.in](https://alumni.sharda.ac.in)
+ - date_published: 2024-12-24T19:33:18.656431+00:00
+
+ ## BDS/MDS Admissions Open 2024-25 | Sharda University
+ - [https://dental.sharda.ac.in](https://dental.sharda.ac.in)
+ - date_published: 2024-12-24T19:33:13.550962+00:00
+
+ ## Family & Couple Counselling Services Portal | Sharda University
+ - [https://fccs.sharda.ac.in](https://fccs.sharda.ac.in)
+ - date_published: 2024-12-24T19:30:12.646224+00:00
+
+ ## Sharda Launchpad
+ - [https://launchpad.sharda.ac.in](https://launchpad.sharda.ac.in)
+ - date_published: 2024-12-24T19:32:48.015159+00:00
+
+ ## MBBS & BDS Admissions Open 2024-25 | Sharda University
+ - [https://medical.sharda.ac.in](https://medical.sharda.ac.in)
+ - date_published: 2024-12-24T19:30:16.648353+00:00
+
+ ## Sharda University - Best Private University in Delhi, NCR
+ - [https://sharda.ac.in](https://sharda.ac.in)
+ - date_published: 2024-07-04T18:56:14.993622+00:00
+
+ ## Sharda Skills
+ - [https://skills.sharda.ac.in](https://skills.sharda.ac.in)
+ - date_published: 2024-12-24T19:33:21.335650+00:00
+
+ ## Slot Booking Portal | Sharda University
+ - [https://slotbooking.sharda.ac.in](https://slotbooking.sharda.ac.in)
+ - date_published: 2024-12-24T19:32:42.650477+00:00
+
+ ## SUAT 2024 - Sharda University Online Admission Test
+ - [https://suat.sharda.ac.in](https://suat.sharda.ac.in)
+ - date_published: 2024-12-24T19:31:28.985347+00:00
+
+ ## Sharda University Agra - Top Private University in AGRA
+ - [https://www.agra.sharda.ac.in](https://www.agra.sharda.ac.in)
+ - date_published: 2024-12-24T19:32:41.089829+00:00
+
+ ## https://sihm.ac.in/
+ - [https://sihm.ac.in](https://sihm.ac.in)
+ - date_published: 2024-08-08T13:10:19.138958+00:00
+
+ ## Central India’s Best NAAC “A” Grade Engineering Colleges in Bhopal, MP | SIRT
+ - [https://www.sirtbhopal.ac.in](https://www.sirtbhopal.ac.in)
+ - date_published: 2024-12-24T19:34:41.593190+00:00
+
+ ## Best Pharmacy College in Bhopal, Madhya Pradesh |SIRTS Pharmacy
+ - [https://sirtspharmacy.ac.in](https://sirtspharmacy.ac.in)
+ - date_published: 2024-09-10T11:07:06.479902+00:00
+
+ ## The Official Alumni Network of Swami Keshvanand Institute of Technology, Management and Gramothan
+ - [https://alumni.skit.ac.in](https://alumni.skit.ac.in)
+ - date_published: 2024-12-24T19:51:22.872608+00:00
+
  ## Home - SKIT Jaipur - NAAC A++ Grade Accredited, Best Engineering College, Best Faculty, Best Placements
  - [https://skit.ac.in](https://skit.ac.in)
  - date_published: 2024-07-14T09:22:43.195069+00:00
@@ -2982,1058 +4031,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## arpedu.in
  - [https://www.arpedu.in](https://www.arpedu.in)
  - date_published: 2024-12-24T19:26:15.713077+00:00
-
- ## Arun Mani J
- - [https://arunmani.in](https://arunmani.in)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Arun Mathai
- - [https://arunmathaisk.in](https://arunmathaisk.in)
- - date_published: 2024-05-09T08:28:06.940701+00:00
-
- ## Home - Dhanked mart
- - [https://aryandhanked.in](https://aryandhanked.in)
- - date_published: 2019-09-25T11:48:25+00:00
-
- ## Association for Harnessing Innovation and Entrepreneurship
- - [https://www.ashine.in](https://www.ashine.in)
- - date_published: 2024-12-24T20:01:54.639344+00:00
-
- ## Young Radical Escapist with Autism
- - [https://ashwinkumar1989.in](https://ashwinkumar1989.in)
- - date_published: 2024-09-03T22:55:40.156045+00:00
-
- ## Home
- - [https://atcm46india.in](https://atcm46india.in)
- - date_published: 2024-06-23T21:48:13.468495+00:00
-
- ## Portable solar generator,Solar installer Delhi,flexible solar panel
- - [https://atonsolar.in](https://atonsolar.in)
- - date_published: 2023-02-01T04:27:56+00:00
-
- ## Audi Sedan | Luxury Sedan | Audi Price | Audi India
- - [https://audi.in](https://audi.in)
- - date_published: 2024-07-19T20:25:42+00:00
-
- ## Audi Approved Plus
- - [https://www.audiapprovedplus.in](https://www.audiapprovedplus.in)
- - date_published: 2024-12-06T08:14:12+00:00
-
- ## Audible India | 30-day Free Trial | Audible.in
- - [https://audible.in](https://audible.in)
- - date_published: 2024-05-27T07:40:28.388998+00:00
-
- ## Help Center Desktop
- - [https://help.audible.in](https://help.audible.in)
- - date_published: 2023-09-03T14:57:28+00:00
-
- ## Audio Academy – Audio Sound Engineering Education Recording Studio Rentals in Bangalore India - Audio Academy
- - [https://audioacademy.in](https://audioacademy.in)
- - date_published: 2018-10-09T14:37:01+00:00
-
- ## Audi Test Drive | Test Drive
- - [https://auditestdrive.in](https://auditestdrive.in)
- - date_published: 2024-12-25T08:34:06.827168+00:00
-
- ## Autodesk empowers innovators everywhere to make the new possible
- - [https://autodesk.in](https://autodesk.in)
- - date_published: 2024-04-25T03:29:45+00:00
-
- ## autojunction.in
- - [http://www.autojunction.in](http://www.autojunction.in)
- - date_published: 2024-12-25T09:31:30.028892+00:00
-
- ## Attention Required! | Cloudflare
- - [http://aviator-game.in](http://aviator-game.in)
- - date_published: 2024-07-14T12:30:20.165394+00:00
-
- ## All Events at One Place | Jobs, Syllabus, Admit Cards, Results, News
- - [https://aview.in](https://aview.in)
- - date_published: 2024-12-24T12:19:35.396779+00:00
-
- ## AWS User Group Kochi
- - [https://awsugkochi.in](https://awsugkochi.in)
- - date_published: 2024-12-25T08:52:04.628015+00:00
-
- ## AWS Community Day Kochi - 2023
- - [https://communityday.awsugkochi.in](https://communityday.awsugkochi.in)
- - date_published: 2024-07-19T20:14:54.054177+00:00
-
- ## Open Demat Account Online: Trading Account Opening – 2 in 1 Account – Axis Direct
- - [https://digitalaccount.axisdirect.in](https://digitalaccount.axisdirect.in)
- - date_published: 2024-12-11T09:20:35+00:00
-
- ## Axis Direct - Login
- - [https://login.axisdirect.in](https://login.axisdirect.in)
- - date_published: 2024-09-16T16:16:41.378462+00:00
-
- ## Open 3-in-1: Banking, Demat & Stock Trading Account - Axis Direct
- - [https://simplehai.axisdirect.in](https://simplehai.axisdirect.in)
- - date_published: 2024-06-14T11:16:30+00:00
-
- ## smallcases on Axis Direct
- - [https://smallcasehelp.axisdirect.in](https://smallcasehelp.axisdirect.in)
- - date_published: 2024-09-16T16:20:31.185160+00:00
- - date_dead_since: 2024-12-25T08:42:26.063952+00:00
-
- ## Logout
- - [https://trading.axisdirect.in](https://trading.axisdirect.in)
- - date_published: 2024-09-16T16:19:11+00:00
-
- ## ayush sharma (づ｡◕‿‿◕｡)づ
- - [https://ayushsharma.in](https://ayushsharma.in)
- - date_published: 2024-09-06T21:36:44.438573+00:00
-
- ## AzarAsk - Technology and Psychology Research
- - [https://azarask.in](https://azarask.in)
- - date_published: 2024-06-25T22:18:31+00:00
-
- ## The Bad Crypto Podcast - The World's Top Bitcoin Podcast
- - [https://badco.in](https://badco.in)
- - date_published: 2024-07-04T10:10:43.196107+00:00
-
- ## Bajaj Finserv: Loans, Cards, Insurance, Investments, Payments and more
- - [https://www.bajajfinserv.in](https://www.bajajfinserv.in)
- - date_published: 2024-12-22T23:31:39.081194+00:00
-
- ## Balasankar C
- - [https://balasankarc.in](https://balasankarc.in)
- - date_published: 2022-11-24T08:53:31+00:00
-
- ## Banggood India: Global Leading Online Shop for Gadgets and Fashion
- - [https://banggood.in](https://banggood.in)
- - date_published: 2024-06-30T02:03:52.300628+00:00
-
- ## Banggood India Mobile: światowy wiodący sklep internetowy z gadżetami i modą
- - [https://m.banggood.in](https://m.banggood.in)
- - date_published: 2024-12-25T08:54:51.546561+00:00
-
- ## Bank information security news, training, education - BankInfoSecurity
- - [https://bankinfosecurity.in](https://bankinfosecurity.in)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## BARE International India: Mystery Shopping Company
- - [https://bareinternational.in](https://bareinternational.in)
- - date_published: 2022-11-01T00:00:00+00:00
-
- ## Mutual Fund Investment - Invest in Mutual Funds Online in India
- - [https://www.barodabnpparibasmf.in](https://www.barodabnpparibasmf.in)
- - date_published: 2024-12-22T23:30:22+00:00
-
- ## Banking Archives - Now Online
- - [http://www.barodapioneer.in](http://www.barodapioneer.in)
- - date_published: 2024-12-14T00:00:00+00:00
-
- ## Andy Baudoin | Associate Director of Technology at Work & Co
- - [https://baudo.in](https://baudo.in)
- - date_published: 2024-04-02T22:11:03+00:00
-
- ## BBC - Home
- - [https://bbc.in](https://bbc.in)
- - date_published: 2024-06-26T08:16:11.941116+00:00
-
- ## Bennett, Coleman & Co. Ltd.
- - [https://bccl.in](https://bccl.in)
- - date_published: 2024-06-26T08:34:42.083292+00:00
-
- ## Beacon | Share content across websites
- - [https://beaconapp.in](https://beaconapp.in)
- - date_published: 2024-06-15T07:58:54.522339+00:00
-
- ## Open Source Ethereum (ETH) Holesky Testnet Explorer - beaconcha.in - 2024
- - [https://holesky.beaconcha.in](https://holesky.beaconcha.in)
- - date_published: 2024-12-26T15:10:36.265690+00:00
-
- ## Becric Casino & Betting - Welcome Offer up to 5000 INR
- - [https://becric1.in](https://becric1.in)
- - date_published: 2024-12-24T19:25:26.412394+00:00
-
- ## BEL | Bharat Electronics Limited
- - [http://bel-india.in](http://bel-india.in)
- - date_published: 2024-12-24T21:03:13.552143+00:00
-
- ## BestWeb Ventures's Blog
- - [https://blog.bestwebventures.in](https://blog.bestwebventures.in)
- - date_published: 2024-12-18T11:35:33.494014+00:00
-
- ## BetterSchooling | Rediscovering The Joy Of Learning
- - [https://betterschooling.in](https://betterschooling.in)
- - date_published: 2024-12-01T02:49:32+00:00
-
- ## Home
- - [https://betway-india.in](https://betway-india.in)
- - date_published: 2024-08-07T21:41:07.303280+00:00
-
- ## BETWAY LOGIN APP DOWNLOAD APK INDIA SPORTS 2024
- - [https://betwayz.in](https://betwayz.in)
- - date_published: 2024-09-06T13:43:50.711747+00:00
-
- ## Innovation Network Empowering Telecom Technologies – Innovation Network
- - [https://www.bharatdigicom.in](https://www.bharatdigicom.in)
- - date_published: 2024-12-24T23:29:38.478644+00:00
-
- ## Bharat IPv6 Forum – Bharat IPv6 Forum
- - [https://bharatipv6forum.in](https://bharatipv6forum.in)
- - date_published: 2024-07-06T23:59:46.148987+00:00
-
- ## Bharat Shakti – Self Reliance in Defence
- - [https://bharatshakti.in](https://bharatshakti.in)
- - date_published: 2024-05-10T10:37:00+00:00
-
- ## Manufacturer of Winch Machine & Electric Hoists by Bhagirath Heavy Transmission, Jhajjar
- - [https://www.bhtindia.in](https://www.bhtindia.in)
- - date_published: 2024-12-25T07:32:20.049576+00:00
-
- ## Binyamin Green
- - [https://binyam.in](https://binyam.in)
- - date_published: 2024-08-08T15:26:19.182124+00:00
-
- ## Where The World Meets Bengal | Biswa Bangla
- - [http://www.biswabangla.in](http://www.biswabangla.in)
- - date_published: 2024-12-25T02:31:20.516050+00:00
-
- ## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
- - [https://bitrix24.in](https://bitrix24.in)
- - date_published: 2024-05-12T03:57:18.339135+00:00
-
- ## bitspook's online home
- - [https://bitspook.in](https://bitspook.in)
- - date_published: 2023-10-25T19:30:19.995909+00:00
-
- ## Bus or carpool? Your pick of rides at low prices. | BlaBlaCar
- - [https://blablacar.in](https://blablacar.in)
- - date_published: 2024-06-15T01:01:12.013253+00:00
-
- ## BlaBlaCar
- - [https://blog.blablacar.in](https://blog.blablacar.in)
- - date_published: 2024-09-15T19:56:16.883025+00:00
-
- ## Bus or carpool? Your pick of rides at low prices. | BlaBlaCar
- - [https://m.blablacar.in](https://m.blablacar.in)
- - date_published: 2024-12-25T09:05:51.201219+00:00
-
- ## Welcome to our website!
- - [https://blackjackguide.in](https://blackjackguide.in)
- - date_published: 2018-07-30T22:04:21+00:00
-
- ## BlackJack Raja: Ultimate Online Casino Home in India
- - [https://blackjackraja.in](https://blackjackraja.in)
- - date_published: 2024-08-07T16:33:05+00:00
-
- ## Master Blackjack at Home - Learn Rules & Strategies
- - [https://blackjackrules.in](https://blackjackrules.in)
- - date_published: 2024-08-07T21:33:25.744990+00:00
-
- ## Blitzwing Main Page
- - [https://blitzw.in](https://blitzw.in)
- - date_published: 2024-08-07T19:31:48+00:00
-
- ## Blockchain For Productivity Forum
- - [https://blockchainforproductivity.in](https://blockchainforproductivity.in)
- - date_published: 2024-07-06T23:59:35.819013+00:00
-
- ## Audio Pervert
- - [https://audiopervert.blogspot.in](https://audiopervert.blogspot.in)
- - date_published: 2024-06-11T03:07:11+00:00
-
- ## Basil
- - [https://basil-soratemplates.blogspot.in](https://basil-soratemplates.blogspot.in)
- - date_published: 2019-08-21T00:00:00+00:00
-
- ## Blogger
- - [http://donsurber.blogspot.in](http://donsurber.blogspot.in)
- - date_published: 2024-12-12T08:18:38.668737+00:00
-
- ## EVA
- - [https://eva-way2themes.blogspot.in](https://eva-way2themes.blogspot.in)
- - date_published: 2015-03-04T00:00:00+00:00
-
- ## EyeforTravel: Online Travel Insights
- - [https://eyefortravelblog.blogspot.in](https://eyefortravelblog.blogspot.in)
- - date_published: 2024-02-22T06:35:50+00:00
-
- ## Foothill Agrarian
- - [https://flyingmule.blogspot.in](https://flyingmule.blogspot.in)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Google Online Security Blog
- - [https://googleonlinesecurity.blogspot.in](https://googleonlinesecurity.blogspot.in)
- - date_published: 2024-10-27T17:31:16+00:00
-
- ## Ἡλληνιστεύκοντος
- - [https://hellenisteukontos.blogspot.in](https://hellenisteukontos.blogspot.in)
- - date_published: 2024-05-07T15:42:24.293166+00:00
-
- ## IIITMG Uthaan
- - [https://iiitmguthaan.blogspot.in](https://iiitmguthaan.blogspot.in)
- - date_published: 2024-12-21T08:24:37+00:00
-
- ## Not PC
- - [https://pc.blogspot.in](https://pc.blogspot.in)
- - date_published: 2024-07-13T09:16:00+00:00
-
- ## SELFBEING
- - [http://svayambhava.blogspot.in](http://svayambhava.blogspot.in)
- - date_published: 2024-11-06T02:49:42+00:00
-
- ## Tek Info Tree
- - [https://tekinfotree.blogspot.in](https://tekinfotree.blogspot.in)
- - date_published: 2024-05-11T16:08:00+00:00
-
- ## Blogger
- - [https://winstonsmithministryoftruth.blogspot.in](https://winstonsmithministryoftruth.blogspot.in)
- - date_published: 2024-09-16T20:19:07.802989+00:00
-
- ## BlueKraft Digital Foundation | Transforming Governance
- - [https://www.bluekraft.in](https://www.bluekraft.in)
- - date_published: 2024-12-24T19:21:17.070477+00:00
-
- ## BOPARAI | Motor Starter | Water Level Controller
- - [http://www.boparai.in](http://www.boparai.in)
- - date_published: 2023-02-19T14:06:01+00:00
-
- ## Bharat Prakashan (Delhi) Limited - Bharat Prakashan (Delhi) Limited
- - [https://bpdl.in](https://bpdl.in)
- - date_published: 2024-05-08T11:20:26.270921+00:00
-
- ## Ecopy of Organiser and Panchjanya Magazines
- - [https://ecopy.bpdl.in](https://ecopy.bpdl.in)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## John Breslin, University of Galway Professor, Startup Co-Founder, Advisor, Board Member, Educator, Engineer, Entrepreneur
- - [https://bresl.in](https://bresl.in)
- - date_published: 2024-06-19T15:41:07+00:00
-
- ## Brides Today: Bridal Dresses, Bridal Wear, Grooming Dresses News and Stories
- - [https://bridestoday.in](https://bridestoday.in)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## British Council | India
- - [https://britishcouncil.in](https://britishcouncil.in)
- - date_published: 2024-09-17T15:38:24+00:00
-
- ## BroSisCo
- - [https://brosisco.in](https://brosisco.in)
- - date_published: 2023-11-29T17:12:31.729602+00:00
- - tags: ['personal']
-
- ## Best Printer, Sewing Machine, Label Printer | Brother India
- - [https://brother.in](https://brother.in)
- - date_published: 2024-05-02T11:35:48.841211+00:00
-
- ## bruise
- - [https://bruise.in](https://bruise.in)
- - date_published: 2024-03-11T10:27:57+00:00
-
- ## Bhushan Shah
- - [https://blog.bshah.in](https://blog.bshah.in)
- - date_published: 2024-08-04T09:17:20+00:00
-
- ## BSides Odisha 2023
- - [https://bsidesodisha.in](https://bsidesodisha.in)
- - date_published: 2024-06-14T07:48:20+00:00
- - date_dead_since: 2024-12-25T09:27:01.976371+00:00
-
- ## Mostbet India Official Online Website — Mostbet Login and Register
- - [https://bslimited.in](https://bslimited.in)
- - date_published: 2024-09-04T15:30:30.035974+00:00
-
- ## Buddhijeev Studios
- - [https://buddhijeev.in](https://buddhijeev.in)
- - date_published: 2024-12-25T09:09:49.992311+00:00
-
- ## SQL-Ease
- - [https://sqlease.buildnship.in](https://sqlease.buildnship.in)
- - date_published: 2023-04-14T03:43:26+00:00
-
- ## Business News - Read Latest Startup, Tech, Markets, Finance, Science News - Business Insider India
- - [https://businessinsider.in](https://businessinsider.in)
- - date_published: 2023-10-25T10:58:21.187120+00:00
-
- ## Business Star
- - [https://www.businessstar.in](https://www.businessstar.in)
- - date_published: 2024-12-24T21:00:13.395310+00:00
-
- ## Business News in Hindi: बिजनेस न्यूज, बिजनेस समाचार, शेयर मार्केट की ताज़ा खबरें, व्यापार समाचार - BT Bazaar
- - [https://bazaar.businesstoday.in](https://bazaar.businesstoday.in)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Business News India: Latest Business News Today, Share Market, Economy
- - [https://businesstoday.in](https://businesstoday.in)
- - date_published: 2023-10-25T19:30:33.199366+00:00
-
- ## Latest Business Economy Breaking News Updates Today in India
- - [https://businessworld.in](https://businessworld.in)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## News & Updates - Indian Startups, Small Businesses, Founders
- - [https://bwdisrupt.businessworld.in](https://bwdisrupt.businessworld.in)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Latest News on India’s Higher Education & Management Studies
- - [https://bweducation.businessworld.in](https://bweducation.businessworld.in)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Buy Magazine Subscription | Online Magazine Store | Discount Magazine Subscription Services | India Mags
- - [http://subscribe.businessworld.in](http://subscribe.businessworld.in)
- - date_published: 2024-12-25T09:29:49.786554+00:00
-
- ## Welcome to mjunction Enterprise Procurement System
- - [https://eps.buyjunction.in](https://eps.buyjunction.in)
- - date_published: 2024-08-08T13:02:20.171030+00:00
-
- ## Latest News & Updates On Human Resources & People Management
- - [https://bwpeople.in](https://bwpeople.in)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## CALVIN
- - [https://calv.in](https://calv.in)
- - date_published: 2018-06-05T23:19:18+00:00
-
- ## CampusMall | College sweatshirts, apparels and t-shirts online/ School apparel online in India
- - [https://cuh.campusmall.in](https://cuh.campusmall.in)
- - date_published: 2024-12-24T12:47:07.907409+00:00
-
- ## CampusMall | College sweatshirts, apparels and t-shirts online/ School apparel online in India
- - [https://iiith.campusmall.in](https://iiith.campusmall.in)
- - date_published: 2024-12-24T13:36:00.147511+00:00
-
- ## CampusMall | College sweatshirts, apparels and t-shirts online/ School apparel online in India
- - [https://iimkashipur.campusmall.in](https://iimkashipur.campusmall.in)
- - date_published: 2024-12-24T14:09:43.921325+00:00
-
- ## UOH CampusMall | College sweatshirts, apparels and t-shirts online/ School apparel online in India
- - [https://uoh.campusmall.in](https://uoh.campusmall.in)
- - date_published: 2024-12-24T20:07:09.083978+00:00
-
- ## Custom Domain by Bitly
- - [https://ca-n.in](https://ca-n.in)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Web Hosting Services | Best hosting India with 24/7 Support
- - [https://cantech.in](https://cantech.in)
- - date_published: 2024-06-29T19:04:46.988853+00:00
-
- ## Capitalmind App: view premium portfolios and manage your account
- - [https://app.capitalmind.in](https://app.capitalmind.in)
- - date_published: 2024-07-08T07:51:36+00:00
-
- ## Capitalmind PMS: Elevate Your Wealth Journey
- - [https://capitalmind.in](https://capitalmind.in)
- - date_published: 2024-04-28T01:39:30.631133+00:00
-
- ## Capitalmind PMS: Elevate Your Wealth Journey
- - [https://content.capitalmind.in](https://content.capitalmind.in)
- - date_published: 2024-04-28T01:39:24.607273+00:00
-
- ## Capitalmind PMS: Elevate Your Wealth Journey
- - [https://pms.capitalmind.in](https://pms.capitalmind.in)
- - date_published: 2024-04-28T01:39:29.660491+00:00
-
- ## Capitalmind
- - [https://premium.capitalmind.in](https://premium.capitalmind.in)
- - date_published: 2024-04-28T01:39:28.214871+00:00
-
- ## Wealth / Progress
- - [https://progress.capitalmind.in](https://progress.capitalmind.in)
- - date_published: 2024-04-28T01:39:26.303176+00:00
-
- ## Discover the Best Software for Your Business
- - [https://capterra.in](https://capterra.in)
- - date_published: 2024-07-19T18:05:06.463437+00:00
-
- ## Home
- - [https://captnemo.in](https://captnemo.in)
- - date_published: 2024-05-09T08:04:57.618789+00:00
-
- ## captn3m0 - Overview
- - [https://github.captnemo.in](https://github.captnemo.in)
- - date_published: 2024-12-25T09:35:08.232951+00:00
-
- ## Steam Community :: Nemo
- - [https://steam.captnemo.in](https://steam.captnemo.in)
- - date_published: 2024-12-25T09:35:13.373584+00:00
-
- ## Infosec careers news, training, education - CareersInfoSecurity
- - [https://www.careersinfosecurity.in](https://www.careersinfosecurity.in)
- - date_published: 2024-12-25T08:55:39.995092+00:00
-
- ## Care Today Fund takes relief to Covid-19 impacted communities with the support of TV Today Network Ltd
- - [https://www.caretoday.in](https://www.caretoday.in)
- - date_published: 2024-05-13T03:27:27.987252+00:00
-
- ## Sell Used Mobile Phones Online in India For Cash | Cashmen
- - [https://cashmen.in](https://cashmen.in)
- - date_published: 2024-07-02T19:01:56.608143+00:00
-
- ## Homepage
- - [http://casinoble.in](http://casinoble.in)
- - date_published: 2024-09-19T20:32:11.893199+00:00
-
- ## Best Online Casinos in India » Top 20 Sites of 2024
- - [https://casinofox.in](https://casinofox.in)
- - date_published: 2024-09-16T05:06:35+00:00
-
- ## Best Online Casinos in India » Top 20 Sites of 2024
- - [https://cdn.casinofox.in](https://cdn.casinofox.in)
- - date_published: 2024-12-25T08:31:05+00:00
-
- ## Best Online Casino Websites in India - Biggest Bonuses [2024 ]
- - [https://casinowebsites.in](https://casinowebsites.in)
- - date_published: 2024-09-19T15:07:50+00:00
-
- ## C-DAC: Centre for Development of Advanced Computing, India
- - [https://cdac.in](https://cdac.in)
- - date_published: 2024-12-25T03:01:53.409880+00:00
-
- ## C-DAC: Centre for Development of Advanced Computing, India
- - [https://www.cdac.in](https://www.cdac.in)
- - date_published: 2024-08-08T16:02:52.725559+00:00
-
- ## CDOTMeet
- - [https://cdotmeet.cdot.in](https://cdotmeet.cdot.in)
- - date_published: 2024-12-25T06:43:55.058142+00:00
-
- ## Central Modern School | Home
- - [https://centralmodernschool.in](https://centralmodernschool.in)
- - date_published: 2024-07-02T21:15:43.903907+00:00
-
- ## Cetaphil India - Number 1 Doctor-recommended Skincare Brand offers Facewash, Cleansers, Moisturizers and Sunscreen
- - [https://www.cetaphil.in](https://www.cetaphil.in)
- - date_published: 2024-10-30T23:03:21.697639+00:00
-
- ## :: CGEWHO ::
- - [https://cgewho.in](https://cgewho.in)
- - date_published: 2024-08-07T10:19:54+00:00
-
- ## Chalkpad - Home
- - [http://www.chalkpad.in](http://www.chalkpad.in)
- - date_published: 2024-12-12T23:19:11.163908+00:00
-
- ## Omniport
- - [https://channeli.in](https://channeli.in)
- - date_published: 2024-06-16T20:15:27+00:00
-
- ## Charles Lin 林夏樾
- - [https://charlesl.in](https://charlesl.in)
- - date_published: 2024-04-09T04:22:33+00:00
-
- ## checkra1n
- - [https://checkra.in](https://checkra.in)
- - date_published: 2024-05-12T04:14:58.749014+00:00
-
- ## छत्तीसगढ़ - Chhattisgarh News in Hindi (छत्तीसगढ़ हिन्दी न्यूज़) - Chhattisgarh Hindi News, Latest छत्तीसगढ़ समाचार, Chhattisgarh की ताज़ा ख़बर - ChhattisgarhTak
- - [https://chhattisgarhtak.in](https://chhattisgarhtak.in)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Chipp.in Tech News and Reviews
- - [https://chipp.in](https://chipp.in)
- - date_published: 2024-03-31T21:02:34.450879+00:00
- - tags: ['tech news']
-
- ## Chris' Full Stack Blog
- - [https://chrisfrew.in](https://chrisfrew.in)
- - date_published: 2024-06-01T05:06:20.041537+00:00
- - tags: ['personal']
-
- ## Employer Brand Agency | Chatter Communications
- - [https://chttr.in](https://chttr.in)
- - date_published: 2024-10-21T08:44:31.349217+00:00
-
- ## CII FOODPRO 2024
- - [https://ciifoodpro.in](https://ciifoodpro.in)
- - date_published: 2024-08-08T16:19:55.794819+00:00
-
- ## Cinny
- - [https://app.cinny.in](https://app.cinny.in)
- - date_published: 2024-12-25T09:55:51.763369+00:00
-
- ## Cinny
- - [https://cinny.in](https://cinny.in)
- - date_published: 2024-09-14T10:24:11.579847+00:00
-
- ## https://cirw.in
- - [https://cirw.in](https://cirw.in)
- - date_published: 2023-10-07T04:27:41+00:00
-
- ## Citações e frases famosas: Extensa coleção de citações, frases e pensamentos
- - [https://citacoes.in](https://citacoes.in)
- - date_published: 2024-07-04T06:31:57.886823+00:00
-
- ## Frases de famosos: La mayor colección de frases, citas, pensamientos y aforismos
- - [https://citas.in](https://citas.in)
- - date_published: 2024-07-04T06:31:53.368234+00:00
-
- ## Citroën
- - [https://citroen.in](https://citroen.in)
- - date_published: 2023-12-11T16:02:57.040160+00:00
-
- ## CivicDataLab | Data, Tech, Design, Social Science
- - [https://civicdatalab.in](https://civicdatalab.in)
- - date_published: 2024-07-16T11:04:01+00:00
-
- ## Jobs at CivicDataLab
- - [https://jobs.civicdatalab.in](https://jobs.civicdatalab.in)
- - date_published: 2024-12-25T09:56:30.893765+00:00
-
- ## Clarin.com
- - [https://clar.in](https://clar.in)
- - date_published: 2024-07-01T15:57:28.627351+00:00
-
- ## Clear | Simplify Finances for Indians | Solutions for e-Invoicing, TDS, GST, ITR Filing
- - [https://clear.in](https://clear.in)
- - date_published: 2024-12-25T09:57:21.518462+00:00
-
- ## Free Sign up with ClearTax.in
- - [https://accounts.cleartax.in](https://accounts.cleartax.in)
- - date_published: 2024-12-25T09:57:04.366138+00:00
-
- ## Income Tax Login | Income Tax efiling in India for FY 2023-24 (AY 2024-25) | ClearTax ITR Filing
- - [https://cleartax.in](https://cleartax.in)
- - date_published: 2024-08-08T12:13:49.164993+00:00
-
- ## ClearTax Chronicle
- - [https://news.cleartax.in](https://news.cleartax.in)
- - date_published: 2024-12-25T09:57:14.747526+00:00
-
- ## Planet Clojure
- - [https://planet.clojure.in](https://planet.clojure.in)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Up with People
- - [https://uwp.cnkonline.in](https://uwp.cnkonline.in)
- - date_published: 2024-07-12T23:25:55.892732+00:00
- - date_dead_since: 2024-12-25T10:41:33.124749+00:00
-
- ## CNLABS | Certification | Interoperability | IPv6 | Security
- - [https://cnlabs.in](https://cnlabs.in)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Condé Nast Traveller India
- - [https://www.cntraveller.in](https://www.cntraveller.in)
- - date_published: 2024-05-08T05:46:19.851606+00:00
-
- ## Coal auctions, coal prices & trends, coal industry news in India
- - [http://www.coaljunction.in](http://www.coaljunction.in)
- - date_published: 2024-12-25T09:32:00.307448+00:00
-
- ## Cock Goblins - Cockgobl.in
- - [https://cockgobl.in](https://cockgobl.in)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Coding Memes
- - [https://www.codeitbro.in](https://www.codeitbro.in)
- - date_published: 2024-12-08T09:29:00+00:00
-
- ## CodeMagnet - Your Magnetic Resource, For Coding Brilliance
- - [https://codemagnet.in](https://codemagnet.in)
- - date_published: 2024-07-19T23:25:46.931938+00:00
-
- ## Inside Out
- - [https://codito.in](https://codito.in)
- - date_published: 2024-06-23T17:34:00.990409+00:00
-
- ## CollegeSpace
- - [https://collegespace.in](https://collegespace.in)
- - date_published: 2024-07-14T10:21:09.844259+00:00
-
- ## Collins India - Explore Publications | HarperCollins
- - [https://collins.in](https://collins.in)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Adhesive Wall Hangers and Wall Hooks | Command™ | 3M India
- - [https://www.command.in](https://www.command.in)
- - date_published: 2024-12-25T07:25:16.400107+00:00
-
- ## Public Cloud Services Comparison
- - [https://comparecloud.in](https://comparecloud.in)
- - date_published: 2022-10-27T07:31:21+00:00
-
- ## Tutorials for GATE CSE -
- - [https://computersciencejunction.in](https://computersciencejunction.in)
- - date_published: 2024-06-29T19:46:14+00:00
-
- ## ConsCent
- - [https://api.conscent.in](https://api.conscent.in)
- - date_published: 2024-05-01T02:03:57.098822+00:00
-
- ## ConsCent
- - [https://user.conscent.in](https://user.conscent.in)
- - date_published: 2024-05-13T03:27:33.804111+00:00
-
- ## Came for the content, stayed for the glow-up!
- - [https://contentondemand.in](https://contentondemand.in)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## CoolHotels.in
- - [https://coolhotels.in](https://coolhotels.in)
- - date_published: 2024-08-08T10:51:47.219810+00:00
-
- ## CoolHotels.in
- - [https://da.coolhotels.in](https://da.coolhotels.in)
- - date_published: 2024-12-25T10:51:06.494494+00:00
-
- ## CoolHotels.in
- - [https://de.coolhotels.in](https://de.coolhotels.in)
- - date_published: 2024-12-25T10:51:14.023773+00:00
-
- ## CoolHotels.in
- - [https://es.coolhotels.in](https://es.coolhotels.in)
- - date_published: 2024-12-25T10:51:03.504733+00:00
-
- ## CoolHotels.in
- - [https://fr.coolhotels.in](https://fr.coolhotels.in)
- - date_published: 2024-12-25T10:51:13.140802+00:00
-
- ## CoolHotels.in
- - [https://it.coolhotels.in](https://it.coolhotels.in)
- - date_published: 2024-12-25T10:51:04.379448+00:00
-
- ## CoolHotels.in
- - [https://pl.coolhotels.in](https://pl.coolhotels.in)
- - date_published: 2024-12-25T10:51:15.234981+00:00
-
- ## CoolHotels.in
- - [https://pt.coolhotels.in](https://pt.coolhotels.in)
- - date_published: 2024-12-25T10:51:11.850805+00:00
-
- ## CoolHotels.in
- - [https://sv.coolhotels.in](https://sv.coolhotels.in)
- - date_published: 2024-12-25T10:51:02.142551+00:00
-
- ## Vasudev Kamath - Random Ramblings
- - [https://copyninja.in](https://copyninja.in)
- - date_published: 2024-03-12T07:16:44.822138+00:00
-
- ## Cosmopolitan India: Celebrities Lifestyle News, Beauty, Fashion and Relationship Tips
- - [https://cosmopolitan.in](https://cosmopolitan.in)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Buy Domain and Hosting Packages for Your Website | Crazy Domains IN
- - [http://crazydomains.in](http://crazydomains.in)
- - date_published: 2024-06-16T08:52:07.277234+00:00
-
- ## All your IPL questions answered, here! | Cricketpedia
- - [https://cricketpedia.in](https://cricketpedia.in)
- - date_published: 2024-09-18T23:18:25.942959+00:00
-
- ## Crime News : Latest क्राइम न्यूज़ In Hindi | CrimeTak
- - [https://crimetak.in](https://crimetak.in)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Latest IT Channel News & Updates - Latest Tech News - CRN India
- - [https://crn.in](https://crn.in)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Crowdin | Localization Management Platform for agile teams
- - [https://crwd.in](https://crwd.in)
- - date_published: 2024-05-14T03:37:20.583432+00:00
-
- ## Cryptography and Surf
- - [https://cryptme.in](https://cryptme.in)
- - date_published: 2024-07-04T18:41:28.672569+00:00
-
- ## CSTEP
- - [https://cstep.in](https://cstep.in)
- - date_published: 2024-07-16T20:41:05.637124+00:00
-
- ## CtrlS - Asia's Largest Rated 4 Data Center & Managed Service Provider
- - [https://ctrls.in](https://ctrls.in)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Chandigarh University (CU) Blog - Best University in India
- - [https://blog.cuchd.in](https://blog.cuchd.in)
- - date_published: 2024-12-15T11:22:22+00:00
-
- ## CUCET Application Form 2025, Registration Form, Scholarships - Chandigarh University Entrance Exam Date
- - [http://cucet.cuchd.in](http://cucet.cuchd.in)
- - date_published: 2024-12-15T14:28:25.929211+00:00
-
- ## Best Private University in Punjab, North India (India) - Chandigarh University
- - [https://cuchd.in](https://cuchd.in)
- - date_published: 2024-10-30T20:26:03.534853+00:00
-
- ## Chandigarh University News
- - [https://news.cuchd.in](https://news.cuchd.in)
- - date_published: 2024-12-12T05:16:47+00:00
-
- ## Affordable Distance Education in Punjab by India’s Best Private University - Chandigarh University
- - [https://www.cuidol.in](https://www.cuidol.in)
- - date_published: 2024-12-15T14:28:29.383021+00:00
-
- ## Cujammu
- - [https://cujammu.in](https://cujammu.in)
- - date_published: 2024-06-06T12:54:28+00:00
-
- ## Best University in Uttar Pradesh (UP) - Chandigarh University Uttar Pradesh Campus
- - [http://www.culko.in](http://www.culko.in)
- - date_published: 2024-12-15T14:28:19.621084+00:00
-
- ## Welcome | CURAJ NO DUES PORTAL
- - [https://www.curaj-erp.in](https://www.curaj-erp.in)
- - date_published: 2024-12-24T12:55:23.333531+00:00
-
- ## Cyber Security
- - [https://blog.cyberbruharmy.in](https://blog.cyberbruharmy.in)
- - date_published: 2024-07-13T06:50:36.113687+00:00
-
- ## CyberBruhArmy
- - [https://course.cyberbruharmy.in](https://course.cyberbruharmy.in)
- - date_published: 2023-10-16T00:00:00+00:00
-
- ## Home
- - [https://cyberbruharmy.in](https://cyberbruharmy.in)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Engage Your Audience with Strategic PR and Integrated Annual Report Design
- - [http://cygnusadvertising.in](http://cygnusadvertising.in)
- - date_published: 2024-12-24T18:42:02.119877+00:00
-
- ## Engage Your Audience with Strategic PR and Integrated Annual Report Design
- - [http://www.cygnusadvertising.in](http://www.cygnusadvertising.in)
- - date_published: 2024-12-24T13:05:53.638494+00:00
-
- ## Pavel Czempin
- - [https://czemp.in](https://czemp.in)
- - date_published: 2024-07-07T07:15:24.522528+00:00
-
- ## dailyO - Trending News, Viral Stories, Video and Photo, Latest News Headlines
- - [https://dailyo.in](https://dailyo.in)
- - date_published: 2024-05-13T03:27:50.116366+00:00
-
- ## Daily Stormer
- - [https://dailystormer.in](https://dailystormer.in)
- - date_published: 2024-05-06T21:17:30.204079+00:00
-
- ## Dailyworld - The First International Newspaper From India!
- - [https://dailyworld.in](https://dailyworld.in)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## dallin - Overview
- - [https://dall.in](https://dall.in)
- - date_published: 2024-07-13T04:03:11.991236+00:00
-
- ## darsa.in
- - [https://darsa.in](https://darsa.in)
- - date_published: 2024-05-11T10:35:17.870438+00:00
-
- ## Data breach detection, prevention and notification - DataBreachToday
- - [https://www.databreachtoday.in](https://www.databreachtoday.in)
- - date_published: 2024-12-25T08:57:39.197458+00:00
-
- ## Sunsui Process Systems
- - [https://dataloggersindia.in](https://dataloggersindia.in)
- - date_published: 2024-06-29T10:53:20+00:00
-
- ## daylin morgan
- - [https://dayl.in](https://dayl.in)
- - date_published: 2024-06-27T20:00:39+00:00
-
- ## Daylin's Git Server
- - [https://git.dayl.in](https://git.dayl.in)
- - date_published: 2024-12-25T10:59:46.367696+00:00
-
- ## Dav Chana
- - [https://i.dc1.in](https://i.dc1.in)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Bulk Purchase on Sport Products | Decathlon Organizations (B2B)
- - [https://b2b.decathlon.in](https://b2b.decathlon.in)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Decathlon Blog: Sports Advice From Experts
- - [https://blog.decathlon.in](https://blog.decathlon.in)
- - date_published: 2024-05-28T00:00:00+00:00
- - date_dead_since: 2024-12-25T11:03:03.815159+00:00
-
- ## Decathlon - Buy Sport Products Online | Download Decathlon App
- - [https://decathlon.in](https://decathlon.in)
- - date_published: 2024-05-01T04:26:23.241811+00:00
-
- ## Careers website Decathlon Sports India Pvt Ltd
- - [https://joinus.decathlon.in](https://joinus.decathlon.in)
- - date_published: 2024-06-15T20:26:59.233038+00:00
-
- ## Careers website Decathlon Sports India Pvt Ltd
- - [https://recruitment.decathlon.in](https://recruitment.decathlon.in)
- - date_published: 2024-09-19T15:49:16.710897+00:00
-
- ## DE-CIX India | World’s Largest Internet Exchange & Peering Hub
- - [https://de-cix.in](https://de-cix.in)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Deepak’s Views
- - [https://deepak365.in](https://deepak365.in)
- - date_published: 2023-12-02T21:17:15.760832+00:00
- - tags: ['personal']
-
- ## Deep Dives
- - [https://deepdives.in](https://deepdives.in)
- - date_published: 2024-06-21T07:07:57.338843+00:00
-
- ## [2000-2020] The Timeline:: DeepRoot GNU/Linux @ 20
- - [https://20.deeproot.in](https://20.deeproot.in)
- - date_published: 2020-08-25T11:20:29+00:00
-
- ## DeepRoot Linux
- - [https://deeproot.in](https://deeproot.in)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## DeepRoot Linux
- - [https://start.deeproot.in](https://start.deeproot.in)
- - date_published: 2024-12-25T11:21:57.456107+00:00
-
- ## Deep Learning ai video analytics Products| DeepVision AI
- - [https://deepvisionai.in](https://deepvisionai.in)
- - date_published: 2024-08-12T09:26:56+00:00
-
- ## Defence News India
- - [https://defence.in](https://defence.in)
- - date_published: 2024-12-25T11:20:11+00:00
-
- ## Defence News
- - [https://defencenews.in](https://defencenews.in)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## ITUWTSA
- - [https://www.delhiwtsa24.in](https://www.delhiwtsa24.in)
- - date_published: 2024-12-24T23:32:05.406286+00:00
-
- ## DoBaSS-UAV
- - [https://www.deltas.in](https://www.deltas.in)
- - date_published: 2024-12-24T14:25:39.760012+00:00
-
- ## Home | Delvin Varghese
- - [https://delv.in](https://delv.in)
- - date_published: 2018-09-17T23:01:53+00:00
-
- ## Designed by Ashwin
- - [https://designedbyashw.in](https://designedbyashw.in)
- - date_published: 2023-03-15T07:15:41+00:00
-
- ## Devin Mancuso – Designer
- - [https://dev.in](https://dev.in)
- - date_published: 2024-07-13T04:28:52.724525+00:00
-
- ## What goes around, comes around -
- - [https://deveshwar.in](https://deveshwar.in)
- - date_published: 2020-05-14T00:00:00+00:00
-
- ## DevKrishna | Personal Website
- - [https://devkrishna.in](https://devkrishna.in)
- - date_published: 2024-08-23T22:45:27+00:00
-
- ## Dev Up
- - [https://devup.in](https://devup.in)
- - date_published: 2021-10-11T19:54:41+00:00
- - tags: ['personal']
-
- ## Dezan Shira & Associates!
- - [http://dezshira.in](http://dezshira.in)
- - date_published: 2024-08-06T07:14:58.724713+00:00
-
- ## Журнал Downgrade
- - [https://dgmag.in](https://dgmag.in)
- - date_published: 2024-04-21T11:26:40+00:00
-
- ## Spice and Flour Mill Machine Manufacturer in Rajkot| Dharti Industries
- - [https://dhartiindustries.in](https://dhartiindustries.in)
- - date_published: 2024-10-15T21:34:18.223640+00:00
-
- ## DigiKey Home
- - [https://digikey.in](https://digikey.in)
- - date_published: 2024-05-01T05:03:06.615947+00:00
-
- ## DIGIMAT Personalized Learning Management Platform
- - [https://www.digimat.in](https://www.digimat.in)
- - date_published: 2024-12-24T07:26:01+00:00
-
- ## Digit: Technology Advice, Product Reviews, Latest News | Digit
- - [https://digit.in](https://digit.in)
- - date_published: 2022-01-18T06:50:00+00:00
-
- ## Magazine Subscriptions - Magazines Subscription | Subscribers | Technology Magazine Online in India
- - [https://store.digit.in](https://store.digit.in)
- - date_published: 2024-12-25T11:26:08.716720+00:00
-
- ## Power Grid
- - [https://specials.digitaltoday.in](https://specials.digitaltoday.in)
- - date_published: 2023-06-09T11:42:37+00:00
-
- ## Dinesh Haribabu
- - [https://dineshharibabu.in](https://dineshharibabu.in)
- - date_published: 2024-05-11T10:18:06.000860+00:00
-
- ## Disney Junior Birthday Book India
- - [https://birthdaybook.disney.in](https://birthdaybook.disney.in)
- - date_published: 2024-06-16T02:06:38.047851+00:00
-
- ## Disney India | The Official Home For All Things Disney
- - [https://disneychannel.disney.in](https://disneychannel.disney.in)
- - date_published: 2024-10-25T10:33:58.392059+00:00
-
- ## Disney India | The Official Home For All Things Disney
- - [https://disney.in](https://disney.in)
- - date_published: 2024-05-01T05:20:06.223210+00:00
-
- ## Division IX, Custom Adventure Design Co. | Travel with a mission
- - [https://divisionix.in](https://divisionix.in)
- - date_published: 2024-12-25T11:32:58.418490+00:00
-
- ## Division IX, Custom Adventure Design Co. | Travel with a mission
- - [https://divix.in](https://divix.in)
- - date_published: 2024-07-04T11:01:37.163224+00:00
-
- ## Order on WhatsApp from DIVS KOMBUCHA | KOREAN KIMCHI | GINGER BEER   & MORE
- - [https://divs.in](https://divs.in)
- - date_published: 2024-07-13T14:58:40.102582+00:00
-
- ## DLF India | Leading Real Estate Developers
- - [https://dlf.in](https://dlf.in)
- - date_published: 2024-10-27T18:51:18.552034+00:00
-
- ## Brand Consulting and Design Services
- - [https://dnm.in](https://dnm.in)
- - date_published: 2024-07-04T07:25:58.642073+00:00
-
- ## DNV.in - When trust matters - DNV
- - [https://dnv.in](https://dnv.in)
- - date_published: 2024-09-04T15:25:55.715987+00:00
-
- ## Post a Job - Create an Event - List a Course at one Place | Docthub.com
- - [https://enterprise.dochub.in](https://enterprise.dochub.in)
- - date_published: 2024-09-25T16:20:43.819010+00:00
-
- ## Microsoft 365-abonnement voor Office-apps | Microsoft 365
- - [https://docs.in](https://docs.in)
- - date_published: 2024-07-23T21:19:27.543662+00:00
-
- ## Status overview
- - [http://downdetector.in](http://downdetector.in)
- - date_published: 2024-04-04T00:00:00+00:00
- - tags: ['down detector']
-
- ## The World's Leading Independent Online Publications - Dr. BGR Publications
- - [http://www.drbgrpublications.in](http://www.drbgrpublications.in)
- - date_published: 2024-10-29T17:50:34.251916+00:00
-
- ## Dr Bio Polymers| Ecofriendly Compostable Bags | Sustainable choice for plastics
- - [https://drbio.in](https://drbio.in)
- - date_published: 2024-10-31T08:47:11.589448+00:00
-
- ## Dr Stomach Liquid – Stomach Problem Medicine
- - [https://drstomachliquid.in](https://drstomachliquid.in)
- - date_published: 2024-04-28T01:31:13.100031+00:00
-
- ## DSCI
- - [https://www.dsci.in](https://www.dsci.in)
- - date_published: 2024-12-17T18:05:41+00:00
-
- ## DTDC
- - [https://www.dtdc.in](https://www.dtdc.in)
- - date_published: 2024-05-01T07:33:36.074239+00:00
-
- ## Design Thinking for Education in India
- - [http://dtedu.in](http://dtedu.in)
- - date_published: 2023-11-25T23:23:21+00:00
 
