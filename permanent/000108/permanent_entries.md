@@ -1,3 +1,133 @@
+ ## Zum Anzeigen anmelden oder registrieren
+ - [https://de-de.facebook.com](https://de-de.facebook.com)
+ - date_published: 2024-04-29T05:49:28.925469+00:00
+
+ ## Log in or sign up to view
+ - [http://de.facebook.com](http://de.facebook.com)
+ - date_published: 2024-07-02T17:41:42.543238+00:00
+
+ ## Log in or sign up to view
+ - [https://design.facebook.com](https://design.facebook.com)
+ - date_published: 2024-07-10T05:31:41.101876+00:00
+
+ ## Error
+ - [https://developers.facebook.com](https://developers.facebook.com)
+ - date_published: 2024-01-09T02:36:22.731833+00:00
+
+ ## Facebook | Error
+ - [https://edge-chat.facebook.com](https://edge-chat.facebook.com)
+ - date_published: 2024-07-25T09:11:37.627551+00:00
+
+ ## Συνδεθείτε ή εγγραφείτε για να δείτε το περιεχόμενο
+ - [https://el-gr.facebook.com](https://el-gr.facebook.com)
+ - date_published: 2024-07-02T23:15:07.444691+00:00
+
+ ## Log in or sign up to view
+ - [https://en-gb.facebook.com](https://en-gb.facebook.com)
+ - date_published: 2024-05-01T04:58:03.913746+00:00
+
+ ## Inicia sesión o regístrate para verlo
+ - [https://es-es.facebook.com](https://es-es.facebook.com)
+ - date_published: 2024-04-28T04:43:23.325203+00:00
+
+ ## Inicia sesión o regístrate para verlo
+ - [https://es-la.facebook.com](https://es-la.facebook.com)
+ - date_published: 2024-06-11T23:14:28.426720+00:00
+
+ ## Facebook
+ - [https://et-ee.facebook.com](https://et-ee.facebook.com)
+ - date_published: 2024-09-04T12:26:12.610193+00:00
+
+ ## Log in or sign up to view
+ - [https://facebook.com](https://facebook.com)
+ - date_published: 2023-12-11T16:53:43.180916+00:00
+ - tags: ['gateway', 'social platform', 'gatekeeper']
+
+ ## Jos haluat nähdä sisällön, kirjaudu sisään tai rekisteröidy
+ - [http://fi-fi.facebook.com](http://fi-fi.facebook.com)
+ - date_published: 2024-06-25T16:34:20.007897+00:00
+
+ ## Connectez-vous ou inscrivez-vous pour voir le contenu
+ - [https://fr-ca.facebook.com](https://fr-ca.facebook.com)
+ - date_published: 2024-08-18T03:02:51.499239+00:00
+
+ ## Connectez-vous ou inscrivez-vous pour voir le contenu
+ - [https://fr-fr.facebook.com](https://fr-fr.facebook.com)
+ - date_published: 2023-12-11T16:11:38.646421+00:00
+
+ ## https://graph.facebook.com
+ - [https://graph.facebook.com](https://graph.facebook.com)
+ - date_published: 2023-12-11T16:53:37.884579+00:00
+
+ ## Facebook - लॉग इन या साइन अप करें
+ - [https://hi-in.facebook.com](https://hi-in.facebook.com)
+ - date_published: 2024-12-19T10:43:23.478051+00:00
+
+ ## A megtekintéshez jelentkezz be vagy regisztrálj.
+ - [https://hu-hu.facebook.com](https://hu-hu.facebook.com)
+ - date_published: 2024-07-08T19:13:39.487576+00:00
+
+ ## Masuk atau Daftar untuk Melihat
+ - [https://id-id.facebook.com](https://id-id.facebook.com)
+ - date_published: 2024-06-19T07:53:31.276117+00:00
+
+ ## Accedi o iscriviti per visualizzare
+ - [https://it-it.facebook.com](https://it-it.facebook.com)
+ - date_published: 2024-05-02T13:58:30.597421+00:00
+
+ ## このページを見るには、ログインまたは登録してください
+ - [https://ja-jp.facebook.com](https://ja-jp.facebook.com)
+ - date_published: 2024-05-06T15:26:59.105532+00:00
+
+ ## Facebook link
+ - [https://l.facebook.com](https://l.facebook.com)
+ - date_published: 2023-12-28T11:22:09+00:00
+ - tags: ['facebook']
+
+ ## Log in or sign up to view
+ - [https://m.facebook.com](https://m.facebook.com)
+ - date_published: 2024-05-08T03:20:14.555564+00:00
+
+ ## Log in or sign up to view
+ - [https://mobile.facebook.com](https://mobile.facebook.com)
+ - date_published: 2024-07-12T03:30:29.486906+00:00
+
+ ## Facebook
+ - [https://ms-my.facebook.com](https://ms-my.facebook.com)
+ - date_published: 2024-10-13T22:49:16.113972+00:00
+
+ ## Logg inn eller registrer deg for å se innholdet
+ - [https://nb-no.facebook.com](https://nb-no.facebook.com)
+ - date_published: 2024-07-03T03:09:01.814947+00:00
+
+ ## Aanmelden of registreren om te bekijken
+ - [https://nl-nl.facebook.com](https://nl-nl.facebook.com)
+ - date_published: 2024-06-16T06:25:46.488979+00:00
+
+ ## Home | Meta Open Source
+ - [https://opensource.facebook.com](https://opensource.facebook.com)
+ - date_published: 2024-04-28T03:45:23.250958+00:00
+
+ ## Log in or sign up to view
+ - [https://pages.facebook.com](https://pages.facebook.com)
+ - date_published: 2024-06-16T06:23:11.521859+00:00
+
+ ## Log in or sign up to view
+ - [https://pay.facebook.com](https://pay.facebook.com)
+ - date_published: 2024-05-02T13:58:22.517560+00:00
+
+ ## Log in or sign up to view
+ - [https://p.facebook.com](https://p.facebook.com)
+ - date_published: 2024-05-04T05:48:55.622353+00:00
+
+ ## Zaloguj się lub zarejestruj, aby wyświetlić
+ - [https://pl-pl.facebook.com](https://pl-pl.facebook.com)
+ - date_published: 2024-05-02T13:58:25.708929+00:00
+
+ ## Entre ou cadastre-se para visualizar
+ - [https://pt-br.facebook.com](https://pt-br.facebook.com)
+ - date_published: 2024-05-02T13:58:26.824753+00:00
+
  ## Facebook
  - [https://pt-pt.facebook.com](https://pt-pt.facebook.com)
  - date_published: 2024-09-05T15:04:51.193326+00:00
@@ -3887,132 +4017,4 @@
  ## Bridgit Mendler Wiki
  - [https://bridgitmendler.fandom.com](https://bridgitmendler.fandom.com)
  - date_published: 2024-06-17T08:13:44+00:00
-
- ## Brigandine Wiki
- - [https://brigandine.fandom.com](https://brigandine.fandom.com)
- - date_published: 2024-05-02T14:47:12.949390+00:00
-
- ## Britney Spears Wiki
- - [https://britneyspears.fandom.com](https://britneyspears.fandom.com)
- - date_published: 2024-06-17T13:32:50+00:00
-
- ## Broforce Wiki
- - [https://broforce.fandom.com](https://broforce.fandom.com)
- - date_published: 2024-05-02T14:17:27.728383+00:00
-
- ## Broken Sword Wiki
- - [https://brokensword.fandom.com](https://brokensword.fandom.com)
- - date_published: 2024-06-17T12:15:27+00:00
-
- ## Brooklyn Nine-Nine Wiki
- - [https://brooklyn99.fandom.com](https://brooklyn99.fandom.com)
- - date_published: 2024-06-17T05:18:23+00:00
-
- ## Brothers in Arms Wiki
- - [https://brothersinarms.fandom.com](https://brothersinarms.fandom.com)
- - date_published: 2024-05-02T14:15:03.704811+00:00
-
- ## Battlestar Galactica Online Wiki
- - [https://bsgo.fandom.com](https://bsgo.fandom.com)
- - date_published: 2024-06-17T07:45:52+00:00
-
- ## BT21 Wiki
- - [https://bt21.fandom.com](https://bt21.fandom.com)
- - date_published: 2024-05-02T14:57:46.497541+00:00
-
- ## Bob The Builder Wiki
- - [https://btb.fandom.com](https://btb.fandom.com)
- - date_published: 2024-09-03T12:53:59+00:00
-
- ## BTS Wiki
- - [https://bts.fandom.com](https://bts.fandom.com)
- - date_published: 2024-10-25T09:49:20+00:00
-
- ## Wiki Index |  | Fandom
- - [https://bttf.fandom.com](https://bttf.fandom.com)
- - date_published: 2024-06-18T21:58:59.972956+00:00
-
- ## Back to the Future The Musical Wiki
- - [https://bttfmusical.fandom.com](https://bttfmusical.fandom.com)
- - date_published: 2024-09-12T17:26:27+00:00
-
- ## Bubble Bobble Wiki
- - [https://bubblebobble.fandom.com](https://bubblebobble.fandom.com)
- - date_published: 2024-05-02T14:17:05.801947+00:00
-
- ## Bubble Gum Simulator Wiki
- - [https://bubble-gum-simulator.fandom.com](https://bubble-gum-simulator.fandom.com)
- - date_published: 2024-10-22T20:38:20+00:00
-
- ## Bubble Guppies Wiki
- - [https://bubbleguppies.fandom.com](https://bubbleguppies.fandom.com)
- - date_published: 2024-06-17T01:12:38+00:00
-
- ## Bubble Guppies Fanon Wiki
- - [https://bubbleguppiesfanon.fandom.com](https://bubbleguppiesfanon.fandom.com)
- - date_published: 2024-10-24T16:49:55+00:00
-
- ## Bubbly Bubble's Wiki
- - [https://bubbly-bubbles.fandom.com](https://bubbly-bubbles.fandom.com)
- - date_published: 2024-10-24T10:44:28+00:00
-
- ## Bubsy Bobcat Wiki
- - [https://bubsy.fandom.com](https://bubsy.fandom.com)
- - date_published: 2024-05-02T14:18:04.362382+00:00
-
- ## Bucket & Skinner's Epic Adventures Wiki
- - [https://bucketskinnersepicadventures.fandom.com](https://bucketskinnersepicadventures.fandom.com)
- - date_published: 2024-06-17T11:40:00+00:00
-
- ## Future Card Buddyfight Wiki
- - [https://buddyfight.fandom.com](https://buddyfight.fandom.com)
- - date_published: 2024-09-03T03:42:07+00:00
-
- ## Buffyverse Wiki
- - [https://buffy.fandom.com](https://buffy.fandom.com)
- - date_published: 2024-05-02T14:25:15.425842+00:00
-
- ## Wiki Index |  | Fandom
- - [https://buffypedia.fandom.com](https://buffypedia.fandom.com)
- - date_published: 2024-06-18T20:31:05.697933+00:00
-
- ## Bug Fables Wiki
- - [https://bugfables.fandom.com](https://bugfables.fandom.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Build King Wiki
- - [https://build-king.fandom.com](https://build-king.fandom.com)
- - date_published: 2024-06-17T08:31:00+00:00
-
- ## BukkitWiki
- - [https://bukkit.fandom.com](https://bukkit.fandom.com)
- - date_published: 2024-09-16T21:59:37+00:00
-
- ## Bulletstorm Wiki
- - [https://bulletstorm.fandom.com](https://bulletstorm.fandom.com)
- - date_published: 2024-05-02T14:13:37.574376+00:00
-
- ## Bullfrog Productions Wiki
- - [https://bullfrogproductions.fandom.com](https://bullfrogproductions.fandom.com)
- - date_published: 2024-06-17T15:42:57+00:00
-
- ## Bumilangit Cinematic Universe Wiki
- - [https://bumilangitcinematicuniverse.fandom.com](https://bumilangitcinematicuniverse.fandom.com)
- - date_published: 2024-06-17T08:21:42+00:00
-
- ## Bumilangit Wiki
- - [https://bumilangit.fandom.com](https://bumilangit.fandom.com)
- - date_published: 2024-05-02T14:32:54.531729+00:00
-
- ## Bungo Stray Dogs Wiki
- - [https://bungostraydogs.fandom.com](https://bungostraydogs.fandom.com)
- - date_published: 2024-10-23T17:19:40+00:00
-
- ## Bunk'd Wiki
- - [https://bunkd.fandom.com](https://bunkd.fandom.com)
- - date_published: 2024-06-05T14:02:24.319766+00:00
-
- ## Bunnicula Wiki
- - [https://bunnicula.fandom.com](https://bunnicula.fandom.com)
- - date_published: 2024-09-03T15:47:28+00:00
 

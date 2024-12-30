@@ -1,3 +1,336 @@
+ ## Pliu's Blog - Teaching and Learning Open Source Development
+ - [https://pliu.wordpress.com](https://pliu.wordpress.com)
+ - date_published: 2024-07-18T12:27:19.836948+00:00
+
+ ## Paul Jacobson's links
+ - [https://pljcbsn.wordpress.com](https://pljcbsn.wordpress.com)
+ - date_published: 2024-07-02T18:27:25+00:00
+
+ ## Please, no hate.
+ - [https://plsnohate.wordpress.com](https://plsnohate.wordpress.com)
+ - date_published: 2024-10-22T18:49:55.604464+00:00
+
+ ## Plucked from the Stacks
+ - [https://pluckedfromthestacks.wordpress.com](https://pluckedfromthestacks.wordpress.com)
+ - date_published: 2024-06-15T10:21:04+00:00
+
+ ## Finding Pluto
+ - [http://plutovian.wordpress.com](http://plutovian.wordpress.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## GSoC PMA
+ - [https://pmagsocproject.wordpress.com](https://pmagsocproject.wordpress.com)
+ - date_published: 2024-06-11T10:31:05.063775+00:00
+
+ ## The Product Manager Handbook
+ - [https://pmhandbook.wordpress.com](https://pmhandbook.wordpress.com)
+ - date_published: 2024-07-03T19:32:12+00:00
+
+ ## The Postnational Monitor
+ - [http://pmsol3.wordpress.com](http://pmsol3.wordpress.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## (pas de titre)
+ - [https://pnpfrance.wordpress.com](https://pnpfrance.wordpress.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Pocket Casts Blog
+ - [https://pocketcastsblog.wordpress.com](https://pocketcastsblog.wordpress.com)
+ - date_published: 2024-05-06T23:31:18.010979+00:00
+
+ ## PoC in TTRPGs
+ - [https://pocttrpg.wordpress.com](https://pocttrpg.wordpress.com)
+ - date_published: 2024-12-19T09:53:15.025394+00:00
+
+ ## A Magia da Poesia
+ - [https://poemassemerros.wordpress.com](https://poemassemerros.wordpress.com)
+ - date_published: 2024-12-18T22:11:43+00:00
+
+ ## tinythoughtspoetry
+ - [http://poemscomdotblog.wordpress.com](http://poemscomdotblog.wordpress.com)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Jasta's Poetry Blog
+ - [http://poetries4.wordpress.com](http://poetries4.wordpress.com)
+ - date_published: 2024-09-17T17:24:40.209166+00:00
+
+ ## Della Luce
+ - [http://poetryfictionsite.wordpress.com](http://poetryfictionsite.wordpress.com)
+ - date_published: 2024-07-15T07:16:36.507986+00:00
+
+ ## Poetry King
+ - [http://poetryking9.wordpress.com](http://poetryking9.wordpress.com)
+ - date_published: 2024-09-17T17:25:44.690884+00:00
+
+ ## Cosmin Pohoata
+ - [http://pohoatza.wordpress.com](http://pohoatza.wordpress.com)
+ - date_published: 2024-06-30T09:11:13+00:00
+
+ ## Pointers Gone Wild
+ - [https://pointersgonewild.wordpress.com](https://pointersgonewild.wordpress.com)
+ - date_published: 2024-05-06T23:31:32.583454+00:00
+
+ ## Adventures in Linux and KDE
+ - [https://pointieststick.wordpress.com](https://pointieststick.wordpress.com)
+ - date_published: 2024-05-06T23:31:46.392590+00:00
+
+ ## Point of Order
+ - [https://pointofordernz.wordpress.com](https://pointofordernz.wordpress.com)
+ - date_published: 2024-10-31T22:38:41.100600+00:00
+
+ ## PokéWalls
+ - [https://pokewalls.wordpress.com](https://pokewalls.wordpress.com)
+ - date_published: 2024-11-29T07:04:38+00:00
+
+ ## polarbearscience
+ - [http://polarbearscience.wordpress.com](http://polarbearscience.wordpress.com)
+ - date_published: 2024-06-28T06:24:12+00:00
+
+ ## polish2english
+ - [http://polish2english.wordpress.com](http://polish2english.wordpress.com)
+ - date_published: 2024-10-21T13:37:20.657491+00:00
+
+ ## Political Behavior
+ - [https://politicalbehavior.wordpress.com](https://politicalbehavior.wordpress.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Political Promise
+ - [http://politicalpromise.wordpress.com](http://politicalpromise.wordpress.com)
+ - date_published: 2024-10-21T11:58:25.818325+00:00
+
+ ## Politics ad Infinitum
+ - [https://politicsadinfinitum.wordpress.com](https://politicsadinfinitum.wordpress.com)
+ - date_published: 2024-10-21T13:01:46.075314+00:00
+
+ ## Politrixie the Political Mistress
+ - [http://politrixie.wordpress.com](http://politrixie.wordpress.com)
+ - date_published: 2024-12-13T03:14:23.939237+00:00
+
+ ## πολλές λέξεις
+ - [http://polleslexeis.wordpress.com](http://polleslexeis.wordpress.com)
+ - date_published: 2024-10-21T18:32:00.900005+00:00
+
+ ## Sito privato
+ - [http://pollycoke.wordpress.com](http://pollycoke.wordpress.com)
+ - date_published: 2024-08-19T10:46:52.265835+00:00
+
+ ## Polskie Muzeum Cyfrowe
+ - [https://polskiemc.wordpress.com](https://polskiemc.wordpress.com)
+ - date_published: 2024-01-17T10:16:31+00:00
+ - tags: ['internet archive']
+
+ ## thefashfamily
+ - [https://polskobudzsie.wordpress.com](https://polskobudzsie.wordpress.com)
+ - date_published: 2024-08-06T22:29:22.503998+00:00
+
+ ## the polylogblog
+ - [https://polylogblog.wordpress.com](https://polylogblog.wordpress.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## The polymath blog
+ - [https://polymathprojects.wordpress.com](https://polymathprojects.wordpress.com)
+ - date_published: 2024-05-07T15:48:09.833584+00:00
+
+ ## pomiedzystronami
+ - [https://pomiedzystronami.wordpress.com](https://pomiedzystronami.wordpress.com)
+ - date_published: 2024-10-26T16:52:48.170643+00:00
+
+ ## Dr Sophie Hay
+ - [https://pompei79.wordpress.com](https://pompei79.wordpress.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Politicians Are Poody Heads
+ - [http://poodyheads.wordpress.com](http://poodyheads.wordpress.com)
+ - date_published: 2024-10-29T19:45:47.669697+00:00
+
+ ## Porta-Livros
+ - [https://portalivros.wordpress.com](https://portalivros.wordpress.com)
+ - date_published: 2024-12-22T08:17:19.217012+00:00
+
+ ## Possibly Wrong
+ - [https://possiblywrong.wordpress.com](https://possiblywrong.wordpress.com)
+ - date_published: 2024-03-13T19:55:59.919955+00:00
+
+ ## Posthegemony
+ - [http://posthegemony.wordpress.com](http://posthegemony.wordpress.com)
+ - date_published: 2024-06-18T11:08:25+00:00
+
+ ## Shih Tzu Central
+ - [http://postongreen.wordpress.com](http://postongreen.wordpress.com)
+ - date_published: 2024-10-21T17:56:37.446181+00:00
+
+ ## Post Pattern
+ - [https://postpatternblog.wordpress.com](https://postpatternblog.wordpress.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Literary Potpourri
+ - [https://potpourri2015.wordpress.com](https://potpourri2015.wordpress.com)
+ - date_published: 2024-06-15T10:21:40.182359+00:00
+
+ ## Poumista
+ - [http://poumista.wordpress.com](http://poumista.wordpress.com)
+ - date_published: 2024-10-21T13:00:42.598115+00:00
+
+ ## Poundcake
+ - [https://poundcakesewing.wordpress.com](https://poundcakesewing.wordpress.com)
+ - date_published: 2024-05-09T07:23:56.446885+00:00
+
+ ## Po Ve Sham - Muki Haklay's personal blog
+ - [https://povesham.wordpress.com](https://povesham.wordpress.com)
+ - date_published: 2024-07-07T17:53:33+00:00
+
+ ## Powder & Page
+ - [https://powderandpage.wordpress.com](https://powderandpage.wordpress.com)
+ - date_published: 2024-12-13T05:04:54.948153+00:00
+
+ ## powersfulmath
+ - [https://powersfulmath.wordpress.com](https://powersfulmath.wordpress.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Powerslave EX
+ - [https://powerslaveex.wordpress.com](https://powerslaveex.wordpress.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Power of Youth
+ - [https://poweryouthindia.wordpress.com](https://poweryouthindia.wordpress.com)
+ - date_published: 2024-09-09T21:55:37.332694+00:00
+
+ ## Pox and prejudice?
+ - [https://poxandprejudice.wordpress.com](https://poxandprejudice.wordpress.com)
+ - date_published: 2024-10-29T18:33:54.187977+00:00
+
+ ## People's War
+ - [https://pplswar.wordpress.com](https://pplswar.wordpress.com)
+ - date_published: 2024-10-21T13:03:18.603323+00:00
+
+ ## Private Site
+ - [http://ppmoody.wordpress.com](http://ppmoody.wordpress.com)
+ - date_published: 2024-06-24T10:18:48.049058+00:00
+
+ ## Praça do Bocage
+ - [https://pracadobocage.wordpress.com](https://pracadobocage.wordpress.com)
+ - date_published: 2024-12-20T08:26:10.509121+00:00
+
+ ## PEN-GAST Teacher Workshop
+ - [https://practicaleducators.wordpress.com](https://practicaleducators.wordpress.com)
+ - date_published: 2024-06-20T03:48:05.987724+00:00
+
+ ## A Practical Guide to Evil
+ - [https://practicalguidetoevil.wordpress.com](https://practicalguidetoevil.wordpress.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## PRAELUDIA MICROCOSMICA
+ - [http://praeludiamicrocosmica.wordpress.com](http://praeludiamicrocosmica.wordpress.com)
+ - date_published: 2024-10-29T18:35:32+00:00
+
+ ## Praetorian Marines
+ - [https://praetorianmarines.wordpress.com](https://praetorianmarines.wordpress.com)
+ - date_published: 2024-10-26T16:18:11.950632+00:00
+
+ ## (pas de titre)
+ - [http://pragmataaep.wordpress.com](http://pragmataaep.wordpress.com)
+ - date_published: 2024-06-30T11:08:03.927355+00:00
+
+ ## Pragmatic Emacs
+ - [https://pragmaticemacs.wordpress.com](https://pragmaticemacs.wordpress.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Pratt Courses
+ - [https://prattcourses.wordpress.com](https://prattcourses.wordpress.com)
+ - date_published: 2024-02-08T16:35:17.664852+00:00
+
+ ## Prat Vemana's Blog
+ - [https://pratvemana.wordpress.com](https://pratvemana.wordpress.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Praxis
+ - [http://praxisblog.wordpress.com](http://praxisblog.wordpress.com)
+ - date_published: 2024-06-30T04:27:06.466596+00:00
+
+ ## PrayogShala
+ - [https://prayogshala.wordpress.com](https://prayogshala.wordpress.com)
+ - date_published: 2024-06-28T20:06:03.388382+00:00
+
+ ## PRDeving – typeof  FUN
+ - [https://prdeving.wordpress.com](https://prdeving.wordpress.com)
+ - date_published: 2023-10-25T18:14:52.804446+00:00
+
+ ## Fred Klonsky
+ - [http://preaprez.wordpress.com](http://preaprez.wordpress.com)
+ - date_published: 2024-06-25T00:11:49+00:00
+
+ ## Predesign for Safe Driving App
+ - [https://predesign.wordpress.com](https://predesign.wordpress.com)
+ - date_published: 2024-06-20T04:05:40.032826+00:00
+
+ ## predictablyunconventional
+ - [https://predictablyunconventional.wordpress.com](https://predictablyunconventional.wordpress.com)
+ - date_published: 2024-10-26T16:18:43.173723+00:00
+
+ ## Writing To Be Read
+ - [https://premkumarrao.wordpress.com](https://premkumarrao.wordpress.com)
+ - date_published: 2024-10-17T23:10:45.122382+00:00
+
+ ## Present Discontent
+ - [http://presentdiscontent.wordpress.com](http://presentdiscontent.wordpress.com)
+ - date_published: 2024-06-27T10:25:29.214481+00:00
+
+ ## Pressed Leaf Reader
+ - [https://pressedleafreader.wordpress.com](https://pressedleafreader.wordpress.com)
+ - date_published: 2024-10-22T18:49:43.356896+00:00
+
+ ## preston history
+ - [https://prestonhistory.wordpress.com](https://prestonhistory.wordpress.com)
+ - date_published: 2024-07-17T05:27:22.505943+00:00
+
+ ## Price Tags
+ - [http://pricetags.wordpress.com](http://pricetags.wordpress.com)
+ - date_published: 2024-12-21T12:43:15+00:00
+
+ ## Nic Prigg's Blog
+ - [https://priggy.wordpress.com](https://priggy.wordpress.com)
+ - date_published: 2024-10-21T15:41:11.633527+00:00
+
+ ## Pythia Guide and PrimaSounds
+ - [https://primasounds.wordpress.com](https://primasounds.wordpress.com)
+ - date_published: 2024-06-16T21:49:32+00:00
+
+ ## Primes2h's Weblog
+ - [https://primes2h.wordpress.com](https://primes2h.wordpress.com)
+ - date_published: 2024-09-21T22:51:08+00:00
+
+ ## The Primordial Truth
+ - [https://primodialtruth.wordpress.com](https://primodialtruth.wordpress.com)
+ - date_published: 2024-12-14T23:11:47.849140+00:00
+
+ ## Age of Dusk
+ - [https://princeofnothingblogs.wordpress.com](https://princeofnothingblogs.wordpress.com)
+ - date_published: 2024-08-18T09:24:09.383432+00:00
+
+ ## Principati di Sangue
+ - [http://principatidisangue.wordpress.com](http://principatidisangue.wordpress.com)
+ - date_published: 2024-12-13T04:46:17.899295+00:00
+
+ ## Prinny's Taylor - Louis Bazalgette (1750-1830)
+ - [http://prinnystaylor.wordpress.com](http://prinnystaylor.wordpress.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## prior probability
+ - [https://priorprobability.wordpress.com](https://priorprobability.wordpress.com)
+ - date_published: 2024-06-30T11:04:53.146113+00:00
+
+ ## Prisoners of Faith
+ - [http://prisonersoffaith.wordpress.com](http://prisonersoffaith.wordpress.com)
+ - date_published: 2024-06-28T21:19:57.809889+00:00
+
+ ## Priya's Learning Centre
+ - [http://priyaslearningcentre.wordpress.com](http://priyaslearningcentre.wordpress.com)
+ - date_published: 2024-07-12T22:36:24.116263+00:00
+
+ ## The Proactionary Transhumanist
+ - [https://proactiontranshuman.wordpress.com](https://proactiontranshuman.wordpress.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
  ## Probably Dance
  - [https://probablydance.wordpress.com](https://probablydance.wordpress.com)
  - date_published: 2024-05-07T09:29:15.413480+00:00
@@ -3676,338 +4009,4 @@
  ## Sea Enchants
  - [http://tawniciacruz.wordpress.com](http://tawniciacruz.wordpress.com)
  - date_published: 2024-09-03T22:56:59.150964+00:00
-
- ## @taylodl's getting IT done
- - [https://taylodl.wordpress.com](https://taylodl.wordpress.com)
- - date_published: 2024-12-25T10:24:33.387120+00:00
-
- ## The Broken of Britain: Project V ~ Twitter Stories
- - [http://tbofbtwitterstories.wordpress.com](http://tbofbtwitterstories.wordpress.com)
- - date_published: 2024-12-27T21:02:33.636788+00:00
-
- ## TC1 Seismometer
- - [https://tc1seismometer.wordpress.com](https://tc1seismometer.wordpress.com)
- - date_published: 2024-05-09T04:23:08.783011+00:00
-
- ## Faith and Wisdom in Science
- - [https://tcbmcleish.wordpress.com](https://tcbmcleish.wordpress.com)
- - date_published: 2024-10-29T18:16:37.142598+00:00
-
- ## ANGELS OF THE LIGHTNING
- - [http://tcfan1.wordpress.com](http://tcfan1.wordpress.com)
- - date_published: 2024-10-25T21:31:01.291148+00:00
-
- ## Shadows of Simplicity
- - [http://tcjpn.wordpress.com](http://tcjpn.wordpress.com)
- - date_published: 2024-06-30T08:26:48.473481+00:00
-
- ## Next Stop
- - [https://tcknextstop.wordpress.com](https://tcknextstop.wordpress.com)
- - date_published: 2024-12-12T04:23:36.078418+00:00
-
- ## Redline: Live to Drive!
- - [http://tcomegna911.wordpress.com](http://tcomegna911.wordpress.com)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Tcrweb's Blog
- - [http://tcrweb.wordpress.com](http://tcrweb.wordpress.com)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## tcs math
- - [https://tcsmath.wordpress.com](https://tcsmath.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## TCS+
- - [http://tcsplus.wordpress.com](http://tcsplus.wordpress.com)
- - date_published: 2024-06-30T11:18:53.665823+00:00
-
- ## Teaching EAP
- - [https://teachingeap.wordpress.com](https://teachingeap.wordpress.com)
- - date_published: 2024-05-02T10:13:22.818681+00:00
-
- ## teaching/math/culture
- - [http://teachingmathculture.wordpress.com](http://teachingmathculture.wordpress.com)
- - date_published: 2024-09-08T00:00:00+00:00
-
- ## Tea in a Teacup
- - [http://teainateacup.wordpress.com](http://teainateacup.wordpress.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## 1001Up
- - [http://team1001up.wordpress.com](http://team1001up.wordpress.com)
- - date_published: 2024-08-20T19:37:52.422396+00:00
-
- ## Teatrekker's Blog
- - [https://teatrekker.wordpress.com](https://teatrekker.wordpress.com)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## T&A: Technology and the Arts
- - [http://techarts.wordpress.com](http://techarts.wordpress.com)
- - date_published: 2024-06-28T14:20:24.343958+00:00
-
- ## Tech Leaves
- - [https://techleaves.wordpress.com](https://techleaves.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Technasma
- - [https://technasma.wordpress.com](https://technasma.wordpress.com)
- - date_published: 2024-12-14T22:04:49.717051+00:00
-
- ## Techne Poiesis
- - [https://technepoesis.wordpress.com](https://technepoesis.wordpress.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Creatures of Thought
- - [https://technicshistory.wordpress.com](https://technicshistory.wordpress.com)
- - date_published: 2024-09-04T01:09:56.967282+00:00
-
- ## technoleracy
- - [http://technoleracy.wordpress.com](http://technoleracy.wordpress.com)
- - date_published: 2024-07-11T15:07:15.601977+00:00
-
- ## Technology mixed with a little Zen
- - [https://technotzen.wordpress.com](https://technotzen.wordpress.com)
- - date_published: 2024-12-25T10:26:20.494291+00:00
-
- ## TechNow Geek
- - [http://technowgeek.wordpress.com](http://technowgeek.wordpress.com)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Tom's Technical Taunt
- - [http://techtaunt.wordpress.com](http://techtaunt.wordpress.com)
- - date_published: 2024-08-18T17:07:16.104918+00:00
-
- ## Humanize Technology
- - [http://techuman.wordpress.com](http://techuman.wordpress.com)
- - date_published: 2024-07-11T16:16:23.415920+00:00
-
- ## Tedious Tantrums
- - [https://tedioustantrums.wordpress.com](https://tedioustantrums.wordpress.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## The Stone and the Shell
- - [https://tedunderwood.wordpress.com](https://tedunderwood.wordpress.com)
- - date_published: 2024-08-19T04:44:22.615782+00:00
-
- ## I was a Teenage Shoegazer
- - [http://teenageshoegazer.wordpress.com](http://teenageshoegazer.wordpress.com)
- - date_published: 2024-06-30T06:16:02.075309+00:00
-
- ## Teens Turning Green Blog
- - [https://teensturninggreenblog.wordpress.com](https://teensturninggreenblog.wordpress.com)
- - date_published: 2024-07-08T13:28:57.656147+00:00
-
- ## TelcoNotes
- - [https://telconotes.wordpress.com](https://telconotes.wordpress.com)
- - date_published: 2024-05-06T13:59:34.687214+00:00
-
- ## 123beta
- - [http://tele64.wordpress.com](http://tele64.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## In the Dark
- - [https://telescoper.wordpress.com](https://telescoper.wordpress.com)
- - date_published: 2024-08-18T20:28:20.601000+00:00
-
- ## teleskopos
- - [http://teleskopos.wordpress.com](http://teleskopos.wordpress.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Television Diary
- - [https://televisiondiary.wordpress.com](https://televisiondiary.wordpress.com)
- - date_published: 2024-12-19T09:39:21.202743+00:00
-
- ## Terry Martin's Meanderings
- - [http://telmartin81.wordpress.com](http://telmartin81.wordpress.com)
- - date_published: 2024-07-09T14:07:41.559947+00:00
-
- ## Tempe
- - [https://tempe.wordpress.com](https://tempe.wordpress.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Temple of Thutmos
- - [https://templeofthutmos552367304.wordpress.com](https://templeofthutmos552367304.wordpress.com)
- - date_published: 2024-10-26T17:52:23.908512+00:00
-
- ## 10-4 Miniatures
- - [http://ten4miniatures.wordpress.com](http://ten4miniatures.wordpress.com)
- - date_published: 2024-12-14T17:44:23.286638+00:00
-
- ## Tendance Coatesy
- - [https://tendancecoatesy.wordpress.com](https://tendancecoatesy.wordpress.com)
- - date_published: 2024-10-21T12:59:37.900352+00:00
-
- ## Ten minutes past deadline
- - [https://tenminutespastdeadline.wordpress.com](https://tenminutespastdeadline.wordpress.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## A Corner of Tenth-Century Europe
- - [https://tenthmedieval.wordpress.com](https://tenthmedieval.wordpress.com)
- - date_published: 2024-06-24T10:31:36.307885+00:00
-
- ## AGENT SWARM
- - [https://terenceblake.wordpress.com](https://terenceblake.wordpress.com)
- - date_published: 2024-04-29T03:27:09.189111+00:00
-
- ## Terraform Industries Blog – gigascale atmospheric hydrocarbon synthesis
- - [https://terraformindustries.wordpress.com](https://terraformindustries.wordpress.com)
- - date_published: 2023-10-25T18:17:21.097085+00:00
-
- ## Terribly Write
- - [http://terriblywrite.wordpress.com](http://terriblywrite.wordpress.com)
- - date_published: 2024-10-19T10:48:41.535752+00:00
-
- ## What's new | Updates on my research and expository papers, discussion of open problems, and other maths-related topics.  By Terence Tao
- - [https://terrytao.wordpress.com](https://terrytao.wordpress.com)
- - date_published: 2023-10-25T09:21:29.530385+00:00
- - tags: ['personal']
-
- ## Testing Clouds at 128bpm
- - [https://testingclouds.wordpress.com](https://testingclouds.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## TeX & Friends
- - [https://texandfriends.wordpress.com](https://texandfriends.wordpress.com)
- - date_published: 2024-08-08T19:02:42.428402+00:00
-
- ## Mechanics Are Easy
- - [http://texarkana23.wordpress.com](http://texarkana23.wordpress.com)
- - date_published: 2024-07-09T14:07:55.120501+00:00
-
- ## Texas Liberal
- - [http://texasliberal.wordpress.com](http://texasliberal.wordpress.com)
- - date_published: 2024-06-27T06:46:19.821935+00:00
-
- ## Subjunctive Software
- - [https://textise.wordpress.com](https://textise.wordpress.com)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## text/plain
- - [https://textplain.wordpress.com](https://textplain.wordpress.com)
- - date_published: 2024-05-06T16:12:33.754517+00:00
-
- ## TGAW
- - [https://tgaw.wordpress.com](https://tgaw.wordpress.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Thomas Goossens' Blog
- - [https://tgoossens.wordpress.com](https://tgoossens.wordpress.com)
- - date_published: 2024-12-25T10:29:33.908752+00:00
-
- ## Thaddy's eventfull being
- - [http://thaddy.wordpress.com](http://thaddy.wordpress.com)
- - date_published: 2024-10-16T10:57:19.270698+00:00
-
- ## Tom Tryfonidis
- - [https://thanost.wordpress.com](https://thanost.wordpress.com)
- - date_published: 2024-07-14T03:10:17.949724+00:00
-
- ## An Ode to Some Beautiful Integrals
- - [https://thatbigwigglysign.wordpress.com](https://thatbigwigglysign.wordpress.com)
- - date_published: 2024-04-30T07:47:26.301287+00:00
-
- ## ELLIE BAUSUM
- - [https://thatelliebausum.wordpress.com](https://thatelliebausum.wordpress.com)
- - date_published: 2024-09-03T23:09:11.079912+00:00
-
- ## That Shotgun Blog
- - [http://thatshotgunblog.wordpress.com](http://thatshotgunblog.wordpress.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Global Health Ideas
- - [http://thdblog.wordpress.com](http://thdblog.wordpress.com)
- - date_published: 2024-11-08T11:34:02.292457+00:00
-
- ## The 1640s Picturebook
- - [https://the1642goodwyfe.wordpress.com](https://the1642goodwyfe.wordpress.com)
- - date_published: 2024-06-24T10:51:43+00:00
-
- ## Yeah I said it
- - [https://theaaaaaa.wordpress.com](https://theaaaaaa.wordpress.com)
- - date_published: 2024-07-18T12:23:08.298728+00:00
-
- ## Accelerated Times
- - [http://theaccelerator.wordpress.com](http://theaccelerator.wordpress.com)
- - date_published: 2024-07-20T18:24:24.764398+00:00
-
- ## TheAccidentalAnarchist
- - [https://theaccidentalacnarchist.wordpress.com](https://theaccidentalacnarchist.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## The ADog Blog
- - [http://theadogblog.wordpress.com](http://theadogblog.wordpress.com)
- - date_published: 2024-09-03T22:54:38.783344+00:00
-
- ## The Adventures of the i-LIMB
- - [http://theadventuresoftheilimb.wordpress.com](http://theadventuresoftheilimb.wordpress.com)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## THE AMES ROOM
- - [http://theamesroom.wordpress.com](http://theamesroom.wordpress.com)
- - date_published: 2024-08-19T21:47:28.545570+00:00
-
- ## the angry women blog
- - [http://theangrywomenblog.wordpress.com](http://theangrywomenblog.wordpress.com)
- - date_published: 2024-10-18T15:11:01.074582+00:00
-
- ## The Anime View
- - [https://theanimeview149171776.wordpress.com](https://theanimeview149171776.wordpress.com)
- - date_published: 2024-09-04T00:45:20+00:00
-
- ## The Antidote
- - [http://theantidote.wordpress.com](http://theantidote.wordpress.com)
- - date_published: 2024-10-19T07:01:49.041329+00:00
-
- ## The Art and Science of Data
- - [https://theartandscienceofdata.wordpress.com](https://theartandscienceofdata.wordpress.com)
- - date_published: 2024-06-27T15:21:37.473425+00:00
-
- ## The Art of Deviance
- - [http://theartofdeviance.wordpress.com](http://theartofdeviance.wordpress.com)
- - date_published: 2024-08-06T05:31:49.994338+00:00
-
- ## Aspie Nomad
- - [http://theaspienomad.wordpress.com](http://theaspienomad.wordpress.com)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## The Astounding Analog Companion
- - [https://theastoundinganalogcompanion.wordpress.com](https://theastoundinganalogcompanion.wordpress.com)
- - date_published: 2024-09-04T01:28:28.416039+00:00
-
- ## Asylum
- - [https://theasylum.wordpress.com](https://theasylum.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The Auditorium: a research culture and researcher development blog
- - [https://theauditoriumdotblog.wordpress.com](https://theauditoriumdotblog.wordpress.com)
- - date_published: 2024-10-19T10:16:12.043350+00:00
-
- ## The Australian Legend
- - [https://theaustralianlegend.wordpress.com](https://theaustralianlegend.wordpress.com)
- - date_published: 2024-09-17T17:24:48+00:00
-
- ## The Autistic Animator's Desk
- - [http://theautisticanimatorsdesk.wordpress.com](http://theautisticanimatorsdesk.wordpress.com)
- - date_published: 2024-09-03T22:45:52.269342+00:00
-
- ## The Autistic Palette
- - [http://theautisticpalette.wordpress.com](http://theautisticpalette.wordpress.com)
- - date_published: 2024-09-03T22:57:04.555996+00:00
-
- ## The Autistic Panda
- - [http://theautisticpanda.wordpress.com](http://theautisticpanda.wordpress.com)
- - date_published: 2024-09-03T23:07:16.431728+00:00
-
- ## The Autistic SuperBlog
- - [http://theautisticsuperblog.wordpress.com](http://theautisticsuperblog.wordpress.com)
- - date_published: 2024-09-03T22:50:11.727730+00:00
-
- ## The-Aut-Vocate by Alice Running
- - [http://theautvocate.wordpress.com](http://theautvocate.wordpress.com)
- - date_published: 2024-09-03T23:01:20.043503+00:00
-
- ## Axol's Blog
- - [https://theaxolot.wordpress.com](https://theaxolot.wordpress.com)
- - date_published: 2024-06-12T21:17:48.730443+00:00
- - tags: ['personal']
 

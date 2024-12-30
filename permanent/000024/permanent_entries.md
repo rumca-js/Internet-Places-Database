@@ -1,3 +1,63 @@
+ ## Staatssekretariat für internationale Finanzfragen SIF - Startseite
+ - [https://www.sif.admin.ch](https://www.sif.admin.ch)
+ - date_published: 2024-07-16T22:16:12.893996+00:00
+
+ ## eStaKa
+ - [https://www.staatskalender.admin.ch](https://www.staatskalender.admin.ch)
+ - date_published: 2023-11-08T17:00:49+00:00
+
+ ## Startseite
+ - [https://www.stelle.admin.ch](https://www.stelle.admin.ch)
+ - date_published: 2024-06-18T14:24:23.639863+00:00
+
+ ## swisstopo – wissen wohin
+ - [https://www.swisstopo.admin.ch](https://www.swisstopo.admin.ch)
+ - date_published: 2024-10-22T08:58:28.659700+00:00
+
+ ## Pagina iniziale UFCS
+ - [https://www.ufcs.admin.ch](https://www.ufcs.admin.ch)
+ - date_published: 2024-10-22T08:58:47.010096+00:00
+
+ ## UID Version: 4.23.0.0
+ - [https://www.uid.admin.ch](https://www.uid.admin.ch)
+ - date_published: 2024-09-18T18:08:45.358730+00:00
+
+ ## Startseite
+ - [https://www.uvek.admin.ch](https://www.uvek.admin.ch)
+ - date_published: 2024-06-18T14:29:51.990919+00:00
+
+ ## Das VBS – Sicherheit für die Schweiz
+ - [https://www.vbs.admin.ch](https://www.vbs.admin.ch)
+ - date_published: 2024-06-18T14:25:18+00:00
+
+ ## Vorbild Energie und Klima
+ - [https://www.vorbild-energie-klima.admin.ch](https://www.vorbild-energie-klima.admin.ch)
+ - date_published: 2024-10-22T08:58:41.932442+00:00
+
+ ## Die Gruppe Verteidigung
+ - [http://www.vtg.admin.ch](http://www.vtg.admin.ch)
+ - date_published: 2024-10-22T08:59:16.675818+00:00
+
+ ## Startseite Internet WBF
+ - [http://www.wbf.admin.ch](http://www.wbf.admin.ch)
+ - date_published: 2024-06-18T14:24:26.391044+00:00
+
+ ## Wettbewerbskommission
+ - [https://www.weko.admin.ch](https://www.weko.admin.ch)
+ - date_published: 2024-10-14T21:50:19.575583+00:00
+
+ ## Bundesamt für Zivildienst ZIVI
+ - [https://www.zivi.admin.ch](https://www.zivi.admin.ch)
+ - date_published: 2024-10-14T21:50:21.893122+00:00
+
+ ## Login
+ - [https://mov.adorsaz.ch](https://mov.adorsaz.ch)
+ - date_published: 2024-07-10T07:54:43.199450+00:00
+
+ ## Preisgekrönte Entgeltabrechnungsdienste und HR-Software | ADP Schweiz
+ - [https://www.adp.ch](https://www.adp.ch)
+ - date_published: 2024-06-16T10:08:37.851142+00:00
+
  ## Welcome to Advance Ticket
  - [https://www.advance-ticket.ch](https://www.advance-ticket.ch)
  - date_published: 2023-04-06T15:35:22+00:00
@@ -3949,64 +4009,4 @@
  ## participer.ge.ch
  - [https://participer.ge.ch](https://participer.ge.ch)
  - date_published: 2024-09-12T17:08:46.446922+00:00
-
- ## Home - The Geneva Academy of International Humanitarian Law and Human Rights
- - [https://www.geneva-academy.ch](https://www.geneva-academy.ch)
- - date_published: 2024-10-18T17:53:42.245828+00:00
-
- ## Geneva Dialogue
- - [https://genevadialogue.ch](https://genevadialogue.ch)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Geneva .NET User Group
- - [https://genevadnug.ch](https://genevadnug.ch)
- - date_published: 2023-01-29T21:37:38+00:00
-
- ## Geneva Jug
- - [https://genevajug.ch](https://genevajug.ch)
- - date_published: 2024-06-24T20:21:01+00:00
-
- ## SAG - Schweizer Allianz Gentechfrei - Home
- - [https://gentechfrei.ch](https://gentechfrei.ch)
- - date_published: 2024-10-29T11:15:32+00:00
-
- ## Régie Immobilière Suisse - Gerofinance | Régie du Rhône
- - [https://www.gerofinance.ch](https://www.gerofinance.ch)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Switzerland's History
- - [http://history-switzerland.geschichte-schweiz.ch](http://history-switzerland.geschichte-schweiz.ch)
- - date_published: 2024-10-21T05:02:08.290820+00:00
-
- ## Lizenzfreie Stock-Fotos, Creative-Bilder und -Vektoren | Bildmaterial aus den Bereichen News, Fashion und Entertainment - Getty Images
- - [https://www.gettyimages.ch](https://www.gettyimages.ch)
- - date_published: 2024-06-20T01:49:12.665189+00:00
-
- ## STP for minorities and indigenous peoples - Society for Threatened Peoples
- - [https://www.gfbv.ch](https://www.gfbv.ch)
- - date_published: 2024-10-28T15:56:03+00:00
-
- ## gfs.bern | Politik- und Kommunikationsforschung
- - [https://www.gfsbern.ch](https://www.gfsbern.ch)
- - date_published: 2019-04-30T08:37:11+00:00
-
- ## Total Commander Forum (Hetzner)
- - [https://www.ghisler.ch](https://www.ghisler.ch)
- - date_published: 2017-03-17T01:03:11+00:00
-
- ## GHSEARCH ✖ Geekhack Group Buys, Preorders, and Interest Checks
- - [https://ghsear.ch](https://ghsear.ch)
- - date_published: 2024-05-09T08:40:17.662442+00:00
-
- ## Internet, TV, Mobile und Festnetztelefonie von GIB
- - [https://www.gib-solutions.ch](https://www.gib-solutions.ch)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Gilead – Creating Possible | Gilead Schweiz
- - [https://www.gileadswitzerland.ch](https://www.gileadswitzerland.ch)
- - date_published: 2024-07-02T04:08:19.547920+00:00
-
- ## Giro Schweiz | Offizieller Giro Online Shop
- - [https://www.giro.ch](https://www.giro.ch)
- - date_published: 2024-09-18T01:48:32.782532+00:00
 

@@ -1,3 +1,387 @@
+ ## Expressive Intelligence Studio Blog | EIS at UC Santa Cruz
+ - [https://eis-blog.soe.ucsc.edu](https://eis-blog.soe.ucsc.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+ - date_dead_since: 2024-12-19T23:57:44.905667+00:00
+
+ ## Home Page | EIS
+ - [https://eis.ucsc.edu](https://eis.ucsc.edu)
+ - date_published: 2021-02-05T23:00:01+00:00
+ - date_dead_since: 2024-12-20T00:04:49.678243+00:00
+
+ ## Baskin School of Engineering – Baskin Engineering provides unique educational opportunities, world-class research with an eye to social responsibility and diversity.
+ - [https://engineering.ucsc.edu](https://engineering.ucsc.edu)
+ - date_published: 2024-07-01T23:06:58+00:00
+
+ ## UC Santa Cruz - Earth & Planetary Sciences
+ - [https://eps.ucsc.edu](https://eps.ucsc.edu)
+ - date_published: 2024-05-07T20:59:32.734118+00:00
+
+ ## Earth and Planetary Science
+ - [https://es.ucsc.edu](https://es.ucsc.edu)
+ - date_published: 2012-05-16T18:38:07+00:00
+
+ ## University of California-Santa Cruz ⋮ Events
+ - [https://events.ucsc.edu](https://events.ucsc.edu)
+ - date_published: 2024-07-01T23:56:09.969959+00:00
+
+ ## UC Santa Cruz Financial Aid Office
+ - [https://financialaid.ucsc.edu](https://financialaid.ucsc.edu)
+ - date_published: 2024-05-07T21:00:16.333368+00:00
+
+ ## FoSSaCS: 12th Int. Conf. on Foundations of Software Science and Computation Structures (FoSSaCS'09)
+ - [http://fossacs09.soe.ucsc.edu](http://fossacs09.soe.ucsc.edu)
+ - date_published: 2024-07-07T10:13:00.080225+00:00
+ - date_dead_since: 2024-12-20T00:16:52.012397+00:00
+
+ ## Genome10k | Unveiling animal diversity
+ - [https://genome10k.soe.ucsc.edu](https://genome10k.soe.ucsc.edu)
+ - date_published: 2024-07-04T10:39:43+00:00
+
+ ## UCSC Genome Browser Home
+ - [https://genome.ucsc.edu](https://genome.ucsc.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Home
+ - [http://getoor.soe.ucsc.edu](http://getoor.soe.ucsc.edu)
+ - date_published: 2024-08-26T10:09:20+00:00
+
+ ## Enhancing student success through philanthropy
+ - [https://giving.ucsc.edu](https://giving.ucsc.edu)
+ - date_published: 2024-07-01T23:54:03.697885+00:00
+
+ ## GPM | SG | Highly ranked Master's degree programs for designing and developing video games and serious games, located in the heart of Silicon Valley
+ - [https://gpm.soe.ucsc.edu](https://gpm.soe.ucsc.edu)
+ - date_published: 2024-06-22T08:39:31+00:00
+
+ ## Graduate School | Grad Admissions UC Santa Cruz
+ - [https://gradadmissions.ucsc.edu](https://gradadmissions.ucsc.edu)
+ - date_published: 2024-07-01T23:53:51.667965+00:00
+
+ ## Graduate Student Commons – Welcome to the GSC!
+ - [https://gradcommons.ucsc.edu](https://gradcommons.ucsc.edu)
+ - date_published: 2024-07-02T01:20:17.461279+00:00
+
+ ## Division of Graduate Studies
+ - [https://graddiv.ucsc.edu](https://graddiv.ucsc.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Home | Graduate Studies
+ - [https://grad.soe.ucsc.edu](https://grad.soe.ucsc.edu)
+ - date_published: 2024-07-01T23:52:12.757532+00:00
+
+ ## Home
+ - [https://hacking4oceans.ucsc.edu](https://hacking4oceans.ucsc.edu)
+ - date_published: 2024-07-20T15:33:52.313506+00:00
+
+ ## UCSC Genome Browser Downloads
+ - [https://hgdownload.soe.ucsc.edu](https://hgdownload.soe.ucsc.edu)
+ - date_published: 2024-07-04T10:39:38.652858+00:00
+
+ ## Student Housing Services
+ - [https://housing.ucsc.edu](https://housing.ucsc.edu)
+ - date_published: 2024-07-02T01:18:55.683149+00:00
+
+ ## Humanities Division
+ - [https://humanities.ucsc.edu](https://humanities.ucsc.edu)
+ - date_published: 2024-07-02T01:19:23.537975+00:00
+
+ ## Information Practices
+ - [https://infopractices.ucsc.edu](https://infopractices.ucsc.edu)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Innovation & Business Engagement Hub – The point of entry for industry partners to connect with discoveries, innovation, resources, and talent
+ - [https://innovation.ucsc.edu](https://innovation.ucsc.edu)
+ - date_published: 2024-07-01T23:55:23.601926+00:00
+
+ ## Inquiry @ UC Santa Cruz
+ - [https://inquiry.ucsc.edu](https://inquiry.ucsc.edu)
+ - date_published: 2024-05-07T21:00:10.499147+00:00
+
+ ## UC Santa Cruz - Information Technology Services
+ - [https://its.ucsc.edu](https://its.ucsc.edu)
+ - date_published: 2024-05-07T20:59:42.623589+00:00
+
+ ## Staff Employment Opportunities at UC Santa Cruz
+ - [https://jobs.ucsc.edu](https://jobs.ucsc.edu)
+ - date_published: 2024-07-01T02:40:33.764598+00:00
+
+ ## Keep Learning
+ - [https://keeplearning.ucsc.edu](https://keeplearning.ucsc.edu)
+ - date_published: 2024-07-02T01:18:47.902854+00:00
+
+ ## Home | Kavli Summer Program in Astrophysics
+ - [https://kspa.soe.ucsc.edu](https://kspa.soe.ucsc.edu)
+ - date_published: 2021-12-12T00:00:00+00:00
+
+ ## UCSC Office of Campus Counsel – The office of Campus Counsel represents the Regents of the University of California and advises the Chancellor and campus leadership in a broad range of legal, regulatory and governance issues.
+ - [https://lex.ucsc.edu](https://lex.ucsc.edu)
+ - date_published: 2024-07-21T06:32:53+00:00
+
+ ## home | University Library
+ - [https://library.ucsc.edu](https://library.ucsc.edu)
+ - date_published: 2024-07-01T23:55:13.499819+00:00
+ - date_dead_since: 2024-12-20T00:25:32.661885+00:00
+
+ ## Off-campus Access Proxy Login
+ - [http://login.oca.ucsc.edu](http://login.oca.ucsc.edu)
+ - date_published: 2024-06-30T01:26:00.127838+00:00
+
+ ## Languages, Systems, and Data Lab @ UCSC
+ - [https://lsd.ucsc.edu](https://lsd.ucsc.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Welcome to UCSC's Undergraduate Tutoring Center!
+ - [https://lss.ucsc.edu](https://lss.ucsc.edu)
+ - date_published: 2024-07-02T01:19:15.978780+00:00
+
+ ## UC Santa Cruz Magazine
+ - [https://magazine.ucsc.edu](https://magazine.ucsc.edu)
+ - date_published: 2024-05-07T20:59:39.177672+00:00
+
+ ## UCSC | Interactive Map
+ - [https://maps.ucsc.edu](https://maps.ucsc.edu)
+ - date_published: 2024-07-01T23:53:26.277148+00:00
+
+ ## Home | Materials Advancement Portal
+ - [https://materials.soe.ucsc.edu](https://materials.soe.ucsc.edu)
+ - date_published: 2013-11-06T12:01:26+00:00
+
+ ## YuJa: Please Sign In
+ - [https://media.ucsc.edu](https://media.ucsc.edu)
+ - date_published: 2024-07-01T23:52:16.858011+00:00
+
+ ## MyUCSC redirect to Login Page
+ - [https://my.ucsc.edu](https://my.ucsc.edu)
+ - date_published: 2019-01-29T22:53:06+00:00
+
+ ## University News & Events
+ - [https://news.ucsc.edu](https://news.ucsc.edu)
+ - date_published: 2023-10-25T19:01:04.525669+00:00
+
+ ## Office of Research – The Office of Research is your point of connection to the innovators and changemakers at UC Santa Cruz.
+ - [https://officeofresearch.ucsc.edu](https://officeofresearch.ucsc.edu)
+ - date_published: 2024-07-01T23:44:46+00:00
+
+ ## The Teaching & Learning Center – We collaborate with campus educators and other partners to inspire the exploration of innovative and accessible teaching practices and technologies that advance equity, foster deep learning, and increase student engagement.
+ - [https://online.ucsc.edu](https://online.ucsc.edu)
+ - date_published: 2024-07-01T23:26:20+00:00
+
+ ## (no title)
+ - [https://paytanlab.ucsc.edu](https://paytanlab.ucsc.edu)
+ - date_published: 2024-07-01T23:53:28.750139+00:00
+
+ ## Website Hosting
+ - [https://people.ucsc.edu](https://people.ucsc.edu)
+ - date_published: 2024-07-01T20:09:49.446559+00:00
+
+ ## Physics Redirection page
+ - [https://physics.ucsc.edu](https://physics.ucsc.edu)
+ - date_published: 2024-05-07T20:59:13.024174+00:00
+
+ ## AIS PISA Application Services
+ - [https://pisa.ucsc.edu](https://pisa.ucsc.edu)
+ - date_published: 2024-01-17T01:02:41+00:00
+
+ ## Planetary and Marine Computing
+ - [https://pmc.ucsc.edu](https://pmc.ucsc.edu)
+ - date_published: 2024-07-01T23:53:12.199166+00:00
+
+ ## Privacy & Information Practices Department
+ - [https://privacy.ucsc.edu](https://privacy.ucsc.edu)
+ - date_published: 2024-04-30T05:50:19.456117+00:00
+
+ ## Welcome - UCSC Academic Recruit
+ - [https://recruit.ucsc.edu](https://recruit.ucsc.edu)
+ - date_published: 2024-07-13T05:02:58.431820+00:00
+
+ ## Office of the Registrar - UCSC
+ - [https://registrar.ucsc.edu](https://registrar.ucsc.edu)
+ - date_published: 2024-07-01T23:55:20.047511+00:00
+
+ ## UC Santa Cruz - Bias Response
+ - [https://reporthate.ucsc.edu](https://reporthate.ucsc.edu)
+ - date_published: 2024-07-01T23:56:04.029160+00:00
+
+ ## UCSC Special Reports
+ - [https://reports.news.ucsc.edu](https://reports.news.ucsc.edu)
+ - date_published: 2024-05-07T21:00:02.527977+00:00
+
+ ## Review Magazine, Fall 2015 - Review Magazine - UC Santa Cruz
+ - [https://review.ucsc.edu](https://review.ucsc.edu)
+ - date_published: 2024-07-01T23:54:00.479441+00:00
+
+ ## Title IX
+ - [https://safe.ucsc.edu](https://safe.ucsc.edu)
+ - date_published: 2024-07-02T01:17:04.373169+00:00
+
+ ## UC Santa Cruz Science – A world-leading research university
+ - [https://science.ucsc.edu](https://science.ucsc.edu)
+ - date_published: 2024-07-02T00:35:22+00:00
+
+ ## SCIPP Redirection page
+ - [https://scipp.ucsc.edu](https://scipp.ucsc.edu)
+ - date_published: 2021-05-05T19:54:49+00:00
+
+ ## Staff Human Resources - University of California, Santa Cruz
+ - [https://shr.ucsc.edu](https://shr.ucsc.edu)
+ - date_published: 2024-07-21T06:53:04.681962+00:00
+
+ ## UCSC Silicon Valley Campus
+ - [https://siliconvalley.ucsc.edu](https://siliconvalley.ucsc.edu)
+ - date_published: 2024-07-01T23:52:09.894076+00:00
+
+ ## UCSC Faculty Website Service
+ - [https://sites.ucsc.edu](https://sites.ucsc.edu)
+ - date_published: 2024-05-07T21:00:04.682580+00:00
+
+ ## ServiceNow
+ - [https://slughub.ucsc.edu](https://slughub.ucsc.edu)
+ - date_published: 2024-07-01T23:54:15.841016+00:00
+
+ ## Welcome to the store
+ - [https://slugstore.ucsc.edu](https://slugstore.ucsc.edu)
+ - date_published: 2024-07-02T01:19:26.000718+00:00
+
+ ## Student Organization Advising & Resources (SOAR)
+ - [https://soar.ucsc.edu](https://soar.ucsc.edu)
+ - date_published: 2024-07-01T23:54:57.417597+00:00
+
+ ## Baskin School of Engineering – Baskin Engineering provides unique educational opportunities, world-class research with an eye to social responsibility and diversity.
+ - [https://soe.ucsc.edu](https://soe.ucsc.edu)
+ - date_published: 2024-06-22T08:09:07+00:00
+
+ ## UC Santa Cruz Special Events
+ - [https://specialevents.ucsc.edu](https://specialevents.ucsc.edu)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Division of Student Affairs and Success
+ - [https://studentservices.ucsc.edu](https://studentservices.ucsc.edu)
+ - date_published: 2024-07-21T06:53:12.846329+00:00
+
+ ## Division of Student Affairs and Success
+ - [https://studentsuccess.ucsc.edu](https://studentsuccess.ucsc.edu)
+ - date_published: 2024-07-01T23:55:06.203495+00:00
+
+ ## Summer Session
+ - [https://summer.ucsc.edu](https://summer.ucsc.edu)
+ - date_published: 2024-05-07T21:00:13.683129+00:00
+
+ ## TAPS Home Page
+ - [https://taps.ucsc.edu](https://taps.ucsc.edu)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Department of Performance | Play | Design || UC Santa Cruz
+ - [https://theater.ucsc.edu](https://theater.ucsc.edu)
+ - date_published: 2024-06-22T08:08:10+00:00
+
+ ## The Teaching & Learning Center – We collaborate with campus educators and other partners to inspire the exploration of innovative and accessible teaching practices and technologies that advance equity, foster deep learning, and increase student engagement.
+ - [https://tlc.ucsc.edu](https://tlc.ucsc.edu)
+ - date_published: 2024-07-01T23:26:20+00:00
+
+ ## Baskin Engineering Toolkit – Toolkit for Baskin Engineering for communicating with internal and external audience
+ - [https://toolkit.engineering.ucsc.edu](https://toolkit.engineering.ucsc.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Toolkit | Your Science Intranet
+ - [https://toolkit.science.ucsc.edu](https://toolkit.science.ucsc.edu)
+ - date_published: 2024-05-07T21:00:07.441148+00:00
+
+ ## UC Santa Cruz – A world-class public research institution comprised of ten residential college communities nestled in the redwood forests and meadows overlooking central California's Monterey Bay.
+ - [https://ucsc.edu](https://ucsc.edu)
+ - date_published: 2024-07-21T06:53:00.126006+00:00
+
+ ## UCSC Geochronology
+ - [https://ucscgeochronology.sites.ucsc.edu](https://ucscgeochronology.sites.ucsc.edu)
+ - date_published: 2024-07-01T23:53:18.615843+00:00
+
+ ## Baskin Engineering Undergraduate Experience – Be bold, be boundless, be a Baskin Engineer
+ - [https://undergrad.engineering.ucsc.edu](https://undergrad.engineering.ucsc.edu)
+ - date_published: 2024-07-01T23:21:19+00:00
+
+ ## Baskin Engineering Undergraduate Experience – Be bold, be boundless, be a Baskin Engineer
+ - [https://undergrad.soe.ucsc.edu](https://undergrad.soe.ucsc.edu)
+ - date_published: 2024-07-01T23:21:19+00:00
+
+ ## Baskin School of Engineering – Baskin Engineering provides unique educational opportunities, world-class research with an eye to social responsibility and diversity.
+ - [https://users.soe.ucsc.edu](https://users.soe.ucsc.edu)
+ - date_published: 2024-06-22T08:09:07+00:00
+
+ ## UC Santa Cruz Postdocs Association (USPA)
+ - [https://uspa.ucsc.edu](https://uspa.ucsc.edu)
+ - date_published: 2024-07-02T00:27:47+00:00
+
+ ## Example Site:  Vantage Theme #1 – Just another UCSC Faculty WordPress site
+ - [https://vantagesample.sites.ucsc.edu](https://vantagesample.sites.ucsc.edu)
+ - date_published: 2024-06-30T04:18:50+00:00
+
+ ## Veronica Terriquez – Associate Professor of Sociology
+ - [https://vterriquez.sites.ucsc.edu](https://vterriquez.sites.ucsc.edu)
+ - date_published: 2024-02-08T18:45:33.632313+00:00
+
+ ## Web Assets
+ - [https://webassets.ucsc.edu](https://webassets.ucsc.edu)
+ - date_published: 2024-05-07T20:59:58.077369+00:00
+
+ ## Earth and Planetary Science
+ - [https://websites.pmc.ucsc.edu](https://websites.pmc.ucsc.edu)
+ - date_published: 2012-05-16T18:38:07+00:00
+
+ ## Planetary and Marine Computing
+ - [https://wiki.pmc.ucsc.edu](https://wiki.pmc.ucsc.edu)
+ - date_published: 2024-07-01T23:52:59.436486+00:00
+
+ ## Astronomy and Astrophysics
+ - [https://www.astro.ucsc.edu](https://www.astro.ucsc.edu)
+ - date_published: 2024-05-07T20:59:35.539856+00:00
+
+ ## Chemistry & Biochemistry
+ - [https://www.chemistry.ucsc.edu](https://www.chemistry.ucsc.edu)
+ - date_published: 2024-10-19T04:47:25.894279+00:00
+
+ ## UCSC Silicon Valley Extension
+ - [https://ucsc-extension.edu](https://ucsc-extension.edu)
+ - date_published: 2024-07-01T23:54:38.478868+00:00
+
+ ## UC San Diego Academic Affairs
+ - [https://academicaffairs.ucsd.edu](https://academicaffairs.ucsd.edu)
+ - date_published: 2024-04-24T14:45:51+00:00
+
+ ## Academic Connections
+ - [https://academicconnections.ucsd.edu](https://academicconnections.ucsd.edu)
+ - date_published: 2024-07-01T17:17:41+00:00
+
+ ## Academic Integrity
+ - [https://academicintegrity.ucsd.edu](https://academicintegrity.ucsd.edu)
+ - date_published: 2024-05-22T18:09:14+00:00
+
+ ## Academic Achievement Service
+ - [https://academicsupport.ucsd.edu](https://academicsupport.ucsd.edu)
+ - date_published: 2024-09-19T15:54:27+00:00
+
+ ## Accessibility
+ - [https://accessibility.ucsd.edu](https://accessibility.ucsd.edu)
+ - date_published: 2024-01-08T21:48:26+00:00
+
+ ## Accreditation
+ - [https://accreditation.ucsd.edu](https://accreditation.ucsd.edu)
+ - date_published: 2024-03-26T19:41:22+00:00
+
+ ## UCSD IT Service Portal - Information Technology
+ - [http://acsweb.ucsd.edu](http://acsweb.ucsd.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## IT Services
+ - [https://act.ucsd.edu](https://act.ucsd.edu)
+ - date_published: 2024-06-29T07:42:12+00:00
+
+ ## Admissions
+ - [https://admissions.ucsd.edu](https://admissions.ucsd.edu)
+ - date_published: 2024-06-11T19:06:51+00:00
+
+ ## Advancement
+ - [https://advancement.ucsd.edu](https://advancement.ucsd.edu)
+ - date_published: 2024-04-12T23:23:12+00:00
+
  ## IIS Windows Server
  - [https://adweb.ucsd.edu](https://adweb.ucsd.edu)
  - date_published: 2020-05-21T03:31:30+00:00
@@ -3623,384 +4007,4 @@
  ## TechReady Illinois - Jumpstart and advance your tech career
  - [https://techready.uillinois.edu](https://techready.uillinois.edu)
  - date_published: 2024-07-13T18:42:48.854140+00:00
-
- ## UIF | University of Illinois Foundation
- - [https://uif.uillinois.edu](https://uif.uillinois.edu)
- - date_published: 2024-04-30T04:56:45.328381+00:00
-
- ## Home - University of Illinois System
- - [https://uillinois.edu](https://uillinois.edu)
- - date_published: 2024-05-07T21:14:51.814206+00:00
-
- ## Home | University Senates Conference
- - [https://usc.uillinois.edu](https://usc.uillinois.edu)
- - date_published: 2024-07-02T01:09:12+00:00
-
- ## Home - EVPAA
- - [https://vpaa.uillinois.edu](https://vpaa.uillinois.edu)
- - date_published: 2024-04-30T04:57:25.699666+00:00
-
- ## web.uillinois.edu
- - [https://web.uillinois.edu](https://web.uillinois.edu)
- - date_published: 2024-07-02T02:39:04.115132+00:00
-
- ## Home
- - [https://www.aits.uillinois.edu](https://www.aits.uillinois.edu)
- - date_published: 2024-07-02T02:39:02.496053+00:00
-
- ## Home
- - [https://www.bot.uillinois.edu](https://www.bot.uillinois.edu)
- - date_published: 2024-07-02T02:39:08.385572+00:00
-
- ## Home
- - [https://www.ethics.uillinois.edu](https://www.ethics.uillinois.edu)
- - date_published: 2024-07-02T02:50:38.072676+00:00
-
- ## Welcome
- - [https://www.hr.uillinois.edu](https://www.hr.uillinois.edu)
- - date_published: 2024-07-02T02:38:59.589794+00:00
-
- ## IGPA - The University of Illinois System is the people’s university, and IGPA is the people’s policy think tank.
- - [http://www.igpa.uillinois.edu](http://www.igpa.uillinois.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Online Courses Catalogue
- - [http://www.online.uillinois.edu](http://www.online.uillinois.edu)
- - date_published: 2024-07-02T02:40:25.050258+00:00
-
- ## University of Illinois > University Office for Planning and Budgeting
- - [http://www.pb.uillinois.edu](http://www.pb.uillinois.edu)
- - date_published: 2024-07-21T22:34:39.205408+00:00
-
- ## UI Press | University of Illinois
- - [https://www.press.uillinois.edu](https://www.press.uillinois.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home
- - [http://www.uaps.uillinois.edu](http://www.uaps.uillinois.edu)
- - date_published: 2024-07-21T22:34:52.378127+00:00
-
- ## Christel DeHaan Center for Global Engagement - University of Indianapolis
- - [https://archlab.uindy.edu](https://archlab.uindy.edu)
- - date_published: 2024-05-07T15:19:04.853289+00:00
-
- ## Admissions - University of Indianapolis
- - [https://attend.uindy.edu](https://attend.uindy.edu)
- - date_published: 2024-06-21T18:37:28+00:00
-
- ## Events - UIndy 360
- - [https://events.uindy.edu](https://events.uindy.edu)
- - date_published: 2024-06-30T05:15:32.847777+00:00
-
- ## Event Calendar - University of Indianapolis
- - [https://getinvolved.uindy.edu](https://getinvolved.uindy.edu)
- - date_published: 2024-06-30T05:15:46.486086+00:00
-
- ## Careers | Job Application
- - [https://hrjobs.uindy.edu](https://hrjobs.uindy.edu)
- - date_published: 2024-06-30T05:15:36.415018+00:00
-
- ## University of Indianapolis
- - [https://map.uindy.edu](https://map.uindy.edu)
- - date_published: 2024-06-30T05:15:38.430458+00:00
-
- ## Sign in to your account
- - [https://my.uindy.edu](https://my.uindy.edu)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Home - UIndy 360
- - [https://news.uindy.edu](https://news.uindy.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## University of Indianapolis
- - [http://uindy.edu](http://uindy.edu)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## YOU INDY – University of Indianapolis – UIndy thrives with you.
- - [https://you.uindy.edu](https://you.uindy.edu)
- - date_published: 2024-06-30T05:15:42.622266+00:00
-
- ## Admissions | The University of Iowa
- - [https://admissions.uiowa.edu](https://admissions.uiowa.edu)
- - date_published: 2024-07-02T02:15:48+00:00
-
- ## IIS Windows Server
- - [https://apps.dentistry.uiowa.edu](https://apps.dentistry.uiowa.edu)
- - date_published: 2023-06-20T19:41:02+00:00
-
- ## University of Iowa Assets
- - [https://assets.uiowa.edu](https://assets.uiowa.edu)
- - date_published: 2017-06-09T16:03:35+00:00
-
- ## Brand Manual | The University of Iowa
- - [https://brand.uiowa.edu](https://brand.uiowa.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Pomerantz Career Center | The University of Iowa
- - [https://careers.uiowa.edu](https://careers.uiowa.edu)
- - date_published: 2024-07-02T02:01:18+00:00
-
- ## The University of Iowa 2024-25 General Catalog < University of Iowa
- - [http://catalog.registrar.uiowa.edu](http://catalog.registrar.uiowa.edu)
- - date_published: 2024-07-01T13:13:11+00:00
-
- ## College of Liberal Arts and Sciences | The University of Iowa
- - [https://clas.uiowa.edu](https://clas.uiowa.edu)
- - date_published: 2024-05-07T21:15:56.514442+00:00
-
- ## Content Hub
- - [https://content.uiowa.edu](https://content.uiowa.edu)
- - date_published: 2024-07-02T02:33:44+00:00
-
- ## Novel Coronavirus (COVID-19) | The University of Iowa
- - [https://coronavirus.uiowa.edu](https://coronavirus.uiowa.edu)
- - date_published: 2024-06-24T22:55:49+00:00
-
- ## College of Dentistry and Dental Clinics | The University of Iowa
- - [https://dentistry.uiowa.edu](https://dentistry.uiowa.edu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Welcome to The University of Iowa Libraries | The University of Iowa Libraries
- - [http://digital.lib.uiowa.edu](http://digital.lib.uiowa.edu)
- - date_published: 2024-06-24T08:20:26+00:00
-
- ## Distance and Online Education | The University of Iowa
- - [https://distance.uiowa.edu](https://distance.uiowa.edu)
- - date_published: 2024-06-28T16:58:34+00:00
-
- ## Home The University of Iowa Division of Access, Opportunity, and Diversity
- - [https://diversity.uiowa.edu](https://diversity.uiowa.edu)
- - date_published: 2024-10-18T22:21:12.530925+00:00
-
- ## College of Liberal Arts and Sciences | The University of Iowa
- - [https://divms.uiowa.edu](https://divms.uiowa.edu)
- - date_published: 2024-10-15T21:12:56+00:00
-
- ## Emergency Information | The University of Iowa
- - [https://emergency.uiowa.edu](https://emergency.uiowa.edu)
- - date_published: 2024-07-02T00:52:11+00:00
-
- ## Events Calendar
- - [https://events.uiowa.edu](https://events.uiowa.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Free Speech at Iowa | The University of Iowa
- - [https://freespeech.uiowa.edu](https://freespeech.uiowa.edu)
- - date_published: 2024-06-24T23:12:18+00:00
-
- ## Graduate Admissions | The University of Iowa
- - [https://grad.admissions.uiowa.edu](https://grad.admissions.uiowa.edu)
- - date_published: 2024-06-27T20:03:43+00:00
-
- ## Homecoming | The University of Iowa
- - [https://homecoming.uiowa.edu](https://homecoming.uiowa.edu)
- - date_published: 2024-10-28T02:03:52+00:00
-
- ## Index of /
- - [http://homepage.divms.uiowa.edu](http://homepage.divms.uiowa.edu)
- - date_published: 2024-06-23T20:20:35.063395+00:00
-
- ## Index of /
- - [https://homepage.math.uiowa.edu](https://homepage.math.uiowa.edu)
- - date_published: 2024-06-17T03:14:06.021919+00:00
-
- ## University of Iowa HawkID Login
- - [https://hris.uiowa.edu](https://hris.uiowa.edu)
- - date_published: 2024-05-07T21:15:40.272963+00:00
-
- ## University Human Resources | The University of Iowa
- - [https://hr.uiowa.edu](https://hr.uiowa.edu)
- - date_published: 2024-07-01T22:05:37+00:00
-
- ## ICON
- - [https://icon.uiowa.edu](https://icon.uiowa.edu)
- - date_published: 2024-07-02T02:50:57.913890+00:00
-
- ## The Larned A. Waterman Iowa Nonprofit Resource Center | Striving to help Iowa’s charitable nonprofit organizations become more effective in building their communities.
- - [http://inrc.law.uiowa.edu](http://inrc.law.uiowa.edu)
- - date_published: 2024-07-15T01:40:40+00:00
-
- ## Instructional Resources and Lecture Demonstrations | Department of Physics & Astronomy | College of Liberal Arts & Sciences | The University of Iowa
- - [https://instructional-resources.physics.uiowa.edu](https://instructional-resources.physics.uiowa.edu)
- - date_published: 2024-07-02T02:53:39+00:00
-
- ## College of Dentistry and Dental Clinics IntraDent | A Tradition of Excellence Since 1882
- - [https://intradent.dentistry.uiowa.edu](https://intradent.dentistry.uiowa.edu)
- - date_published: 2024-07-02T01:14:37+00:00
-
- ## Information Technology Services | Connecting Campus
- - [https://its.uiowa.edu](https://its.uiowa.edu)
- - date_published: 2024-07-02T02:05:38+00:00
-
- ## Jobs @ Uiowa
- - [https://jobs.uiowa.edu](https://jobs.uiowa.edu)
- - date_published: 2024-05-07T21:15:52.716987+00:00
-
- ## School of Journalism and Mass Communication | College of Liberal Arts and Sciences | The University of Iowa
- - [https://journalism.uiowa.edu](https://journalism.uiowa.edu)
- - date_published: 2024-07-16T18:22:34+00:00
-
- ## The University of Iowa - College of Law
- - [https://law.uiowa.edu](https://law.uiowa.edu)
- - date_published: 2024-10-18T22:21:14.375335+00:00
-
- ## University of Iowa
- - [https://maps.uiowa.edu](https://maps.uiowa.edu)
- - date_published: 2024-07-02T02:50:55.939386+00:00
-
- ## Carver College of Medicine
- - [https://medicine.uiowa.edu](https://medicine.uiowa.edu)
- - date_published: 2024-05-07T21:15:54.496687+00:00
-
- ## Yannick Meurice | The University of Iowa
- - [https://meurice.sites.uiowa.edu](https://meurice.sites.uiowa.edu)
- - date_published: 2024-02-08T17:59:53.820467+00:00
-
- ## Home - MyUI
- - [https://myui.uiowa.edu](https://myui.uiowa.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Native American Council | The University of Iowa
- - [https://nativeamericancouncil.org.uiowa.edu](https://nativeamericancouncil.org.uiowa.edu)
- - date_published: 2024-05-07T21:15:22.740154+00:00
-
- ## Iowa Now | The University of Iowa
- - [https://now.uiowa.edu](https://now.uiowa.edu)
- - date_published: 2023-11-19T05:08:59.202397+00:00
-
- ## Sign In
- - [https://office365.uiowa.edu](https://office365.uiowa.edu)
- - date_published: 2024-05-07T21:15:34.590089+00:00
-
- ## Policy Manual |
- - [https://opsmanual.uiowa.edu](https://opsmanual.uiowa.edu)
- - date_published: 2024-05-07T21:15:19.104730+00:00
-
- ## Office of Strategic Communication | The University of Iowa
- - [https://osc.uiowa.edu](https://osc.uiowa.edu)
- - date_published: 2024-05-07T21:15:28.143264+00:00
-
- ## Exan DoctorAccess
- - [https://patientaccess.dentistry.uiowa.edu](https://patientaccess.dentistry.uiowa.edu)
- - date_published: 2024-07-02T02:53:54.180310+00:00
-
- ## Physics and Astronomy | College of Liberal Arts and Sciences | The University of Iowa
- - [https://physics.uiowa.edu](https://physics.uiowa.edu)
- - date_published: 2024-05-07T21:15:21.211087+00:00
-
- ## University of Iowa Libraries Publishing
- - [https://pubs.lib.uiowa.edu](https://pubs.lib.uiowa.edu)
- - date_published: 2024-08-11T22:23:11.256498+00:00
-
- ## Office of the Registrar |
- - [https://registrar.uiowa.edu](https://registrar.uiowa.edu)
- - date_published: 2024-07-02T02:30:46+00:00
-
- ## CLAS Resource Site | The University of Iowa
- - [https://resource.clas.uiowa.edu](https://resource.clas.uiowa.edu)
- - date_published: 2024-07-02T02:45:42+00:00
-
- ## Search | The University of Iowa | The University of Iowa
- - [https://search.uiowa.edu](https://search.uiowa.edu)
- - date_published: 2024-10-15T17:35:14+00:00
-
- ## SiteNow | The University of Iowa
- - [https://sitenow.uiowa.edu](https://sitenow.uiowa.edu)
- - date_published: 2024-07-01T00:16:48+00:00
-
- ## This is UIowa
- - [https://stories.uiowa.edu](https://stories.uiowa.edu)
- - date_published: 2024-07-02T02:12:00+00:00
-
- ## CLAS Strategic Plan | College of Liberal Arts and Sciences | The University of Iowa
- - [https://strategicplan.clas.uiowa.edu](https://strategicplan.clas.uiowa.edu)
- - date_published: 2024-07-01T16:00:06+00:00
-
- ## Student Health | Division of Student Life | The University of Iowa
- - [https://studenthealth.uiowa.edu](https://studenthealth.uiowa.edu)
- - date_published: 2024-06-28T05:07:53+00:00
-
- ## University Billing Office |
- - [https://ubill.fo.uiowa.edu](https://ubill.fo.uiowa.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## The University of Iowa | The University of Iowa
- - [https://uiowa.edu](https://uiowa.edu)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## uisps.org.uiowa.edu | The University of Iowa
- - [https://uisps.org.uiowa.edu](https://uisps.org.uiowa.edu)
- - date_published: 2024-07-01T14:59:30+00:00
-
- ## University of Iowa HawkID Login
- - [https://workflow.uiowa.edu](https://workflow.uiowa.edu)
- - date_published: 2024-07-02T02:53:14.334171+00:00
-
- ## Applied Mathematical & Computational Sciences | Graduate College | The University of Iowa
- - [http://www.amcs.uiowa.edu](http://www.amcs.uiowa.edu)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Computer Science | College of Liberal Arts and Sciences | The University of Iowa
- - [http://www.cs.uiowa.edu](http://www.cs.uiowa.edu)
- - date_published: 2024-08-18T18:08:36+00:00
-
- ## Facilities Management | The University of Iowa
- - [https://www.facilities.uiowa.edu](https://www.facilities.uiowa.edu)
- - date_published: 2024-07-01T22:59:41+00:00
-
- ## Graduate College | The University of Iowa
- - [https://www.grad.uiowa.edu](https://www.grad.uiowa.edu)
- - date_published: 2024-07-02T02:08:43+00:00
-
- ## University Libraries | The University of Iowa
- - [https://www.lib.uiowa.edu](https://www.lib.uiowa.edu)
- - date_published: 2024-07-02T02:50:54.208911+00:00
-
- ## Mathematics | College of Liberal Arts and Sciences | The University of Iowa
- - [http://www.math.uiowa.edu](http://www.math.uiowa.edu)
- - date_published: 2024-10-16T06:26:39+00:00
-
- ## University of Iowa HawkID Login
- - [https://www.maui.uiowa.edu](https://www.maui.uiowa.edu)
- - date_published: 2024-07-02T02:51:28.225747+00:00
-
- ## UIowa Radio and Plasma Wave Group
- - [http://www-pw.physics.uiowa.edu](http://www-pw.physics.uiowa.edu)
- - date_published: 2024-10-21T05:11:21.062136+00:00
-
- ## Statistics and Actuarial Science | College of Liberal Arts and Sciences | The University of Iowa
- - [http://www.stat.uiowa.edu](http://www.stat.uiowa.edu)
- - date_published: 2024-10-16T06:27:10+00:00
-
- ## Admission & Aid | University of Illinois Springfield
- - [https://apply.uis.edu](https://apply.uis.edu)
- - date_published: 2024-07-02T01:30:00+00:00
-
- ## University of Illinois Springfield - UIS Login Service
- - [https://apps.uis.edu](https://apps.uis.edu)
- - date_published: 2024-07-02T02:49:51.912122+00:00
-
- ## Continuing & Professional Education | University of Illinois Springfield
- - [https://cape.uis.edu](https://cape.uis.edu)
- - date_published: 2024-07-01T22:56:01+00:00
-
- ## Webtools
- - [https://forms.uofi.uis.edu](https://forms.uofi.uis.edu)
- - date_published: 2023-12-05T19:47:55+00:00
-
- ## Make Your Gift – University of Illinois at Springfield
- - [https://giving.uis.edu](https://giving.uis.edu)
- - date_published: 2024-07-02T02:50:19.031779+00:00
-
- ## Webtools | Short URLs
- - [https://go.uis.edu](https://go.uis.edu)
- - date_published: 2019-05-08T16:06:02+00:00
-
- ## System Login |  University of Illinois System
- - [http://icardwallet.uis.edu](http://icardwallet.uis.edu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Career Opportunities at UIS | University of Illinois Springfield
- - [https://jobs.uis.edu](https://jobs.uis.edu)
- - date_published: 2024-07-02T01:36:08+00:00
 

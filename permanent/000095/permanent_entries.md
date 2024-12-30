@@ -1,3 +1,115 @@
+ ## Domain-Driven Design Europe 2017
+ - [https://2017.dddeurope.com](https://2017.dddeurope.com)
+ - date_published: 2021-03-21T10:06:04+00:00
+
+ ## Domain-Driven Design Europe 2018
+ - [https://2018.dddeurope.com](https://2018.dddeurope.com)
+ - date_published: 2021-09-18T12:48:30+00:00
+
+ ## Domain-Driven Design Europe 2019
+ - [https://2019.dddeurope.com](https://2019.dddeurope.com)
+ - date_published: 2021-09-18T13:38:11+00:00
+
+ ## Domain-Driven Design Europe 2020
+ - [https://2020.dddeurope.com](https://2020.dddeurope.com)
+ - date_published: 2021-09-18T15:59:42+00:00
+
+ ## DDD Europe 2022 - Software Modelling & Design Conference
+ - [https://2022.dddeurope.com](https://2022.dddeurope.com)
+ - date_published: 2022-09-23T09:42:54+00:00
+
+ ## DDD Europe 2023 - Software Modelling & Design Conference
+ - [https://2023.dddeurope.com](https://2023.dddeurope.com)
+ - date_published: 2023-07-03T11:48:20+00:00
+
+ ## DDD Europe 2024 - Software Modelling & Design Conference
+ - [https://2024.dddeurope.com](https://2024.dddeurope.com)
+ - date_published: 2024-06-11T09:25:28+00:00
+
+ ## DDD Europe 2025 - Software Modelling & Design Conference
+ - [https://2025.dddeurope.com](https://2025.dddeurope.com)
+ - date_published: 2024-06-19T11:57:56+00:00
+
+ ## Domain-Driven Design Europe
+ - [https://dddeurope.com](https://dddeurope.com)
+ - date_published: 2024-05-07T14:29:10.693378+00:00
+
+ ## Domain-Driven Design Europe Mailing List
+ - [https://newsletter.dddeurope.com](https://newsletter.dddeurope.com)
+ - date_published: 2021-12-15T13:45:49+00:00
+
+ ## DDD Europe Open Space
+ - [https://openspace.dddeurope.com](https://openspace.dddeurope.com)
+ - date_published: 2021-05-26T08:03:35+00:00
+
+ ## Roll tabletop roleplaying dice | dddice
+ - [https://dddice.com](https://dddice.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## DDD Melbourne | 16th March 2024
+ - [https://dddmelbourne.com](https://dddmelbourne.com)
+ - date_published: 2024-05-01T00:29:59.956034+00:00
+
+ ## D Dees – Power Of Art
+ - [http://www.ddees.com](http://www.ddees.com)
+ - date_published: 2022-02-24T00:00:00+00:00
+
+ ## DD-ENT
+ - [http://www.dd-ent.com](http://www.dd-ent.com)
+ - date_published: 2024-07-08T19:39:00.782874+00:00
+
+ ## Plausible · Web analytics
+ - [https://analytics.ddevi.com](https://analytics.ddevi.com)
+ - date_published: 2024-12-15T04:07:33.554833+00:00
+
+ ## Devi | AI Social Media Leads Monitoring and Outreach Tool
+ - [https://ddevi.com](https://ddevi.com)
+ - date_published: 2024-06-19T19:42:20.527768+00:00
+
+ ## AI Website & Landing pages in 10 seconds | Free 100 years hosting | No drag & drop - just a click
+ - [https://website.ddevi.com](https://website.ddevi.com)
+ - date_published: 2024-12-15T04:07:24.725374+00:00
+
+ ## DDIntel | Justin Chan, Ph.D. | Substack
+ - [https://www.ddintel.com](https://www.ddintel.com)
+ - date_published: 2024-06-19T23:45:39.727929+00:00
+
+ ## Dr. Dobb's | Good stuff for serious developers: Programming Tools, Code, C++, Java, HTML5, Cloud, Mobile, Testing
+ - [https://ddj.com](https://ddj.com)
+ - date_published: 2024-05-15T14:26:22.258656+00:00
+
+ ## Dayton Dutch Lions FC
+ - [https://ddlfc.com](https://ddlfc.com)
+ - date_published: 2024-12-16T16:49:53.022546+00:00
+
+ ## Daniel D. McKinnon
+ - [https://ddmckinnon.com](https://ddmckinnon.com)
+ - date_published: 2024-01-26T01:12:23.544977+00:00
+
+ ## AI Data Storage & Management Solutions - DDN
+ - [https://www.ddn.com](https://www.ddn.com)
+ - date_published: 2024-09-02T11:48:25.420061+00:00
+
+ ## Double-Digit Numerics - Quantitative Analysis, Research, and Algorithms (Data Science)
+ - [https://ddnum.com](https://ddnum.com)
+ - date_published: 2024-04-29T07:05:09.285121+00:00
+
+ ## Home | Dungeons & Dragons Online
+ - [https://ddo.com](https://ddo.com)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Dungeons & Dragons Online Forums
+ - [https://forums.ddo.com](https://forums.ddo.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Agencja Influencer Marketingu | - Agencja DDOB
+ - [https://agencja.ddob.com](https://agencja.ddob.com)
+ - date_published: 2024-10-22T21:11:30.393264+00:00
+
+ ## Datadog: Log In
+ - [https://app.ddog-gov.com](https://app.ddog-gov.com)
+ - date_published: 2024-06-15T17:47:38.545019+00:00
+
  ## Datadog Govcloud Status
  - [https://status.ddog-gov.com](https://status.ddog-gov.com)
  - date_published: 2024-06-15T17:47:30.204669+00:00
@@ -2113,6 +2225,10 @@
  - [https://defenceiq.com](https://defenceiq.com)
  - date_published: 2024-05-07T23:37:23.948422+00:00
 
+ ## Defence Leaders
+ - [https://www.defenceleaders.com](https://www.defenceleaders.com)
+ - date_published: 2024-12-29T23:07:25.647306+00:00
+
  ## Defence Review Asia | Defence Business|Asia-Pacific
  - [https://defencereviewasia.com](https://defencereviewasia.com)
  - date_published: 2024-06-25T00:00:00+00:00
@@ -3957,121 +4073,4 @@
  ## reveal.js
  - [https://slides.dennybiasiolli.com](https://slides.dennybiasiolli.com)
  - date_published: 2024-04-18T14:54:20+00:00
-
- ## Denny's Blog
- - [https://dennybritz.com](https://dennybritz.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [http://order.dennys.com](http://order.dennys.com)
- - date_published: 2024-09-16T17:58:07.653291+00:00
-
- ## Billy The Kid Country
- - [https://dennyweb.com](https://dennyweb.com)
- - date_published: 2017-08-23T00:59:30+00:00
-
- ## Deno Deploy
- - [https://dash.deno.com](https://dash.deno.com)
- - date_published: 2024-05-01T04:43:39.651856+00:00
-
- ## Deno, The next-generation JavaScript runtime
- - [https://deno.com](https://deno.com)
- - date_published: 2023-10-25T13:49:13.631224+00:00
-
- ## Deno: the easiest, most secure JavaScript runtime | Deno Docs
- - [https://docs.deno.com](https://docs.deno.com)
- - date_published: 2024-05-01T04:43:07.711949+00:00
-
- ## Deno Merch
- - [https://merch.deno.com](https://merch.deno.com)
- - date_published: 2024-05-01T04:43:21.930238+00:00
-
- ## Denodo login
- - [https://auth.denodo.com](https://auth.denodo.com)
- - date_published: 2024-10-14T10:21:08.056840+00:00
-
- ## Community
- - [https://community.denodo.com](https://community.denodo.com)
- - date_published: 2024-06-16T20:24:08.341429+00:00
-
- ## Denodo - The leading platform for delivering data in the language and speed of business
- - [https://denodo.com](https://denodo.com)
- - date_published: 2024-10-14T09:43:26+00:00
-
- ## Denodo Careers
- - [https://jobs.denodo.com](https://jobs.denodo.com)
- - date_published: 2024-06-16T20:23:58.845820+00:00
-
- ## Denodo - The leading platform for delivering data in the language and speed of business
- - [https://pages.denodo.com](https://pages.denodo.com)
- - date_published: 2024-10-14T09:43:26+00:00
-
- ## UCM
- - [https://partners.denodo.com](https://partners.denodo.com)
- - date_published: 2024-06-16T20:24:03.273325+00:00
-
- ## Search | Denodo
- - [https://search.denodo.com](https://search.denodo.com)
- - date_published: 2024-10-14T10:21:05.420823+00:00
-
- ## Support Site | Denodo Support Site
- - [https://support.denodo.com](https://support.denodo.com)
- - date_published: 2024-06-16T20:24:00.390100+00:00
-
- ## Home
- - [https://denofgeek.com](https://denofgeek.com)
- - date_published: 2024-04-30T00:00:00+00:00
- - tags: ['news', 'games', 'fantasy', 'movies']
-
- ## denolyrics.com
- - [https://denolyrics.com](https://denolyrics.com)
- - date_published: 2024-06-19T21:06:18.112129+00:00
-
- ## Denomination Differences
- - [https://denominationdifferences.com](https://denominationdifferences.com)
- - date_published: 2024-08-18T22:54:34.690250+00:00
-
- ## Denon™ Home Theater | Enhance the Entertainment Experience
- - [http://denon.com](http://denon.com)
- - date_published: 2024-05-04T14:33:53.314081+00:00
-
- ## Manuals Server
- - [http://manuals.denon.com](http://manuals.denon.com)
- - date_published: 2022-11-16T14:04:48+00:00
-
- ## Professional DJ Equipment | Denon DJ | Embrace The Future
- - [https://denondj.com](https://denondj.com)
- - date_published: 2024-04-10T16:12:30+00:00
-
- ## Denon Professional - Professional-grade Audio/Video Recording, Playback and Signal Distribution
- - [https://denonpro.com](https://denonpro.com)
- - date_published: 2024-08-07T17:38:23+00:00
-
- ## Deno Status
- - [https://denostatus.com](https://denostatus.com)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Laboratory Equipment | Life Science Technologies | DeNovix
- - [https://denovix.com](https://denovix.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## 15 เว็บพนันออนไลน์ยอดนิยมในปี 2024: คัดสรรมาเพื่อคุณ!
- - [http://www.denovojournal.com](http://www.denovojournal.com)
- - date_published: 2024-10-29T17:06:54.096010+00:00
-
- ## Dense Discovery
- - [https://densediscovery.com](https://densediscovery.com)
- - date_published: 2024-06-27T12:42:29.009011+00:00
-
- ## Dense Discovery Index
- - [https://index.densediscovery.com](https://index.densediscovery.com)
- - date_published: 2024-05-06T21:28:44.540004+00:00
-
- ## DENSO Global Website
- - [https://www.denso.com](https://www.denso.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## DENSO TEN
- - [https://www.denso-ten.com](https://www.denso-ten.com)
- - date_published: 2024-06-19T06:16:07+00:00
 

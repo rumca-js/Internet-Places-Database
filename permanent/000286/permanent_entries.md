@@ -1,3 +1,383 @@
+ ## Video on Demand
+ - [https://vod.video.cornell.edu](https://vod.video.cornell.edu)
+ - date_published: 2024-08-11T11:10:12+00:00
+
+ ## Voter Registration & Election Information | Cornell University
+ - [https://vote.cornell.edu](https://vote.cornell.edu)
+ - date_published: 2024-07-22T05:30:11.999173+00:00
+
+ ## Select Login Provider for WCM Central
+ - [https://wcmcentral.weill.cornell.edu](https://wcmcentral.weill.cornell.edu)
+ - date_published: 2024-07-22T05:29:57.895235+00:00
+
+ ## Cornell University Web Login
+ - [http://webfin2.cornell.edu](http://webfin2.cornell.edu)
+ - date_published: 2024-07-22T05:18:10.427398+00:00
+
+ ## Sign in - Matomo
+ - [https://webstats.library.cornell.edu](https://webstats.library.cornell.edu)
+ - date_published: 2024-04-30T03:59:17.110526+00:00
+
+ ## Weill Cornell Medicine
+ - [https://weill.cornell.edu](https://weill.cornell.edu)
+ - date_published: 2024-04-30T03:58:56.072448+00:00
+
+ ## Home
+ - [https://westchester.cce.cornell.edu](https://westchester.cce.cornell.edu)
+ - date_published: 2024-02-08T16:32:16.758861+00:00
+
+ ## Cornell K. Lisa Yang Center for Wildlife Health
+ - [https://wildlife.cornell.edu](https://wildlife.cornell.edu)
+ - date_published: 2024-06-17T10:40:19+00:00
+
+ ## Welcome to LII
+ - [http://www4.law.cornell.edu](http://www4.law.cornell.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## AEP | School of Applied & Engineering Physics
+ - [https://www.aep.cornell.edu](https://www.aep.cornell.edu)
+ - date_published: 2024-07-01T14:46:05+00:00
+
+ ## Welcome to the Department of Animal Science
+ - [http://www.ansci.cornell.edu](http://www.ansci.cornell.edu)
+ - date_published: 2024-12-13T02:47:52+00:00
+
+ ## Home | Cornell Atkinson Center for Sustainability
+ - [https://www.atkinson.cornell.edu](https://www.atkinson.cornell.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Cornell Institute of Biotechnology | Cornell University
+ - [https://www.biotech.cornell.edu](https://www.biotech.cornell.edu)
+ - date_published: 2024-07-12T16:24:01+00:00
+
+ ## Meinig School of Biomedical Engineering
+ - [https://www.bme.cornell.edu](https://www.bme.cornell.edu)
+ - date_published: 2024-07-22T04:30:53+00:00
+
+ ## Cornell Center for Materials Research - Cornell University
+ - [http://www.ccmr.cornell.edu](http://www.ccmr.cornell.edu)
+ - date_published: 2024-10-19T07:06:08.184342+00:00
+
+ ## Home
+ - [https://www.cornellpress.cornell.edu](https://www.cornellpress.cornell.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Computer Systems Laboratory – Cornell University
+ - [http://www.csl.cornell.edu](http://www.csl.cornell.edu)
+ - date_published: 2024-07-01T19:39:41.914103+00:00
+
+ ## Cornell Police
+ - [https://www.cupolice.cornell.edu](https://www.cupolice.cornell.edu)
+ - date_published: 2024-07-22T05:25:40.587071+00:00
+
+ ## Cornell University Division of Financial Services |
+ - [https://www.dfa.cornell.edu](https://www.dfa.cornell.edu)
+ - date_published: 2024-07-22T04:42:46+00:00
+
+ ## College of Human Ecology
+ - [https://www.human.cornell.edu](https://www.human.cornell.edu)
+ - date_published: 2024-07-22T04:35:38+00:00
+
+ ## Homepage
+ - [https://www.johnson.cornell.edu](https://www.johnson.cornell.edu)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Login
+ - [https://www.list.cornell.edu](https://www.list.cornell.edu)
+ - date_published: 2024-07-22T05:23:55.903899+00:00
+
+ ## Sibley School of Mechanical and Aerospace Engineering
+ - [https://www.mae.cornell.edu](https://www.mae.cornell.edu)
+ - date_published: 2024-09-18T22:41:37+00:00
+
+ ## Microbiome Core Sequencing | Weill Cornell Medicine | New York
+ - [https://www.microbiome.weill.cornell.edu](https://www.microbiome.weill.cornell.edu)
+ - date_published: 2024-07-22T05:29:04.224909+00:00
+
+ ## PiTech | Influencing Technology for Positive Societal Outcomes
+ - [https://www.pi.tech.cornell.edu](https://www.pi.tech.cornell.edu)
+ - date_published: 2024-07-03T12:49:57.793521+00:00
+
+ ## Cornell Student Essentials
+ - [https://www.studentessentials.cornell.edu](https://www.studentessentials.cornell.edu)
+ - date_published: 2024-08-06T17:30:07.071455+00:00
+
+ ## CVM Homepage
+ - [https://www.vet.cornell.edu](https://www.vet.cornell.edu)
+ - date_published: 2024-06-17T10:40:18.221695+00:00
+
+ ## Welcome | Children and Youth Safety at Cornell
+ - [https://youthsafety.cornell.edu](https://youthsafety.cornell.edu)
+ - date_published: 2024-07-16T18:54:54+00:00
+
+ ## Cal Poly Pomona
+ - [https://apps.cpp.edu](https://apps.cpp.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home - ASI Cal Poly Pomona
+ - [http://asi.cpp.edu](http://asi.cpp.edu)
+ - date_published: 2021-05-15T00:49:06+00:00
+
+ ## Home - Bronco Magazine - Cal Poly Pomona
+ - [https://broncomag.cpp.edu](https://broncomag.cpp.edu)
+ - date_published: 2024-07-08T14:42:46.558845+00:00
+
+ ## Cal Poly Pomona - Modern Campus Catalog™
+ - [https://catalog.cpp.edu](https://catalog.cpp.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Cal Poly Pomona
+ - [https://cpp.edu](https://cpp.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Cal Poly Pomona Campus Map
+ - [https://maps.cpp.edu](https://maps.cpp.edu)
+ - date_published: 2024-07-08T14:43:09.354391+00:00
+
+ ## CPP Signon - Loading Session Information
+ - [https://my.cpp.edu](https://my.cpp.edu)
+ - date_published: 2024-07-08T14:43:14.896856+00:00
+
+ ## News
+ - [https://polycentric.cpp.edu](https://polycentric.cpp.edu)
+ - date_published: 2024-07-08T14:43:12.234495+00:00
+
+ ## Chicago Public Schools
+ - [https://cps.edu](https://cps.edu)
+ - date_published: 2024-08-19T21:33:25.005007+00:00
+
+ ## Home | Cranbrook Academy of Art
+ - [https://cranbrookart.edu](https://cranbrookart.edu)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Alumni and Friends
+ - [https://alumni.creighton.edu](https://alumni.creighton.edu)
+ - date_published: 2024-03-21T13:48:27.589991+00:00
+
+ ## Identity Manager Dashboard
+ - [https://ami.creighton.edu](https://ami.creighton.edu)
+ - date_published: 2022-09-27T22:36:38+00:00
+
+ ## Job Opportunities at Creighton University
+ - [https://careers.creighton.edu](https://careers.creighton.edu)
+ - date_published: 2024-05-11T09:09:27.228448+00:00
+
+ ## Admissions & Aid
+ - [https://choose.creighton.edu](https://choose.creighton.edu)
+ - date_published: 2024-07-13T23:43:38+00:00
+
+ ## Human Resources
+ - [https://hr.creighton.edu](https://hr.creighton.edu)
+ - date_published: 2024-07-13T23:37:39+00:00
+
+ ## MyCreighton | Creighton University
+ - [https://my.creighton.edu](https://my.creighton.edu)
+ - date_published: 2024-07-13T22:58:13+00:00
+
+ ## Creighton University | A private, Jesuit university
+ - [https://www.creighton.edu](https://www.creighton.edu)
+ - date_published: 2024-05-11T09:09:24.432042+00:00
+
+ ## CRL | Search Home
+ - [http://catalog.crl.edu](http://catalog.crl.edu)
+ - date_published: 2024-09-13T20:00:12.197377+00:00
+
+ ## Center for Research Libraries
+ - [https://crl.edu](https://crl.edu)
+ - date_published: 2024-06-14T02:53:13+00:00
+
+ ## Title index | CRL Digital Delivery System
+ - [http://ddsnext.crl.edu](http://ddsnext.crl.edu)
+ - date_published: 2024-09-13T20:00:17.716275+00:00
+
+ ## Welcome | eDesiderata
+ - [http://edesiderata.crl.edu](http://edesiderata.crl.edu)
+ - date_published: 2024-09-13T17:53:15+00:00
+
+ ## Welcome | global Collections
+ - [http://gcollections.crl.edu](http://gcollections.crl.edu)
+ - date_published: 2024-09-13T20:00:20+00:00
+
+ ## ICON - International Coalition on Newspapers
+ - [http://icon.crl.edu](http://icon.crl.edu)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## LIBLICENSE
+ - [http://liblicense.crl.edu](http://liblicense.crl.edu)
+ - date_published: 2024-09-13T20:00:13.524378+00:00
+
+ ## PAPR - Print Archive and Preservation Registry
+ - [http://papr.crl.edu](http://papr.crl.edu)
+ - date_published: 2024-09-13T20:00:24.754549+00:00
+
+ ## Two Colleges. One Vision.
+ - [https://csbsju.edu](https://csbsju.edu)
+ - date_published: 2024-11-21T07:37:53+00:00
+
+ ## Cold Spring Harbor Laboratory | Cold Spring Harbor Laboratory
+ - [https://cshl.edu](https://cshl.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Current Exchange
+ - [https://currentexchange.cshl.edu](https://currentexchange.cshl.edu)
+ - date_published: 2024-07-22T17:36:05.477144+00:00
+
+ ## CSHL DNA Learning Center
+ - [https://dnalc.cshl.edu](https://dnalc.cshl.edu)
+ - date_published: 2024-04-30T04:00:53.330803+00:00
+
+ ## Donate to CSHL
+ - [https://give.cshl.edu](https://give.cshl.edu)
+ - date_published: 2024-04-30T04:00:55.301180+00:00
+
+ ## Library | Cold Spring Harbor Laboratory
+ - [http://library.cshl.edu](http://library.cshl.edu)
+ - date_published: 2024-10-29T18:44:14.718208+00:00
+
+ ## Cold Spring Harbor Laboratory - Scientific Meetings & Courses Program
+ - [https://meetings.cshl.edu](https://meetings.cshl.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## CSHL Leading Strand
+ - [http://theleadingstrand.cshl.edu](http://theleadingstrand.cshl.edu)
+ - date_published: 2024-07-22T17:36:12.054990+00:00
+
+ ## College of Southern Nevada - Modern Campus Catalog™
+ - [https://catalog.csn.edu](https://catalog.csn.edu)
+ - date_published: 2024-10-27T21:19:04.703241+00:00
+
+ ## CSN
+ - [https://www.csn.edu](https://www.csn.edu)
+ - date_published: 2022-03-03T17:59:22+00:00
+
+ ## Home | California State University, Bakersfield
+ - [https://csub.edu](https://csub.edu)
+ - date_published: 2024-08-18T10:38:33.468290+00:00
+
+ - [https://www2.csudh.edu](https://www2.csudh.edu)
+ - date_published: 2024-01-09T02:58:55.600628+00:00
+
+ ## CSU East Bay - Modern Campus Catalog™
+ - [https://catalog.csueastbay.edu](https://catalog.csueastbay.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## California State University, East Bay
+ - [https://www.csueastbay.edu](https://www.csueastbay.edu)
+ - date_published: 2024-07-01T23:49:35.346206+00:00
+
+ ## Fresno State Directory
+ - [https://directory.csufresno.edu](https://directory.csufresno.edu)
+ - date_published: 2024-09-15T11:08:06.101427+00:00
+
+ ## Fresno State
+ - [https://www.csufresno.edu](https://www.csufresno.edu)
+ - date_published: 2024-12-22T02:15:41.809934+00:00
+
+ ## Home
+ - [https://csuglobal.edu](https://csuglobal.edu)
+ - date_published: 2024-07-21T16:09:01+00:00
+
+ ## Homepage
+ - [https://www.csulb.edu](https://www.csulb.edu)
+ - date_published: 2024-09-06T21:35:54+00:00
+
+ ## California State University Monterey Bay - Acalog ACMS™
+ - [https://catalog.csumb.edu](https://catalog.csumb.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | California State University Monterey Bay
+ - [https://csumb.edu](https://csumb.edu)
+ - date_published: 2024-07-01T23:49:41.315322+00:00
+
+ ## Online Master of Business Administration Degree | CSUMB
+ - [https://mba.csumb.edu](https://mba.csumb.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## CSUN University Library Digital Collection
+ - [https://digital-collections.csun.edu](https://digital-collections.csun.edu)
+ - date_published: 2024-08-19T05:02:39+00:00
+
+ ## California State University, Northridge
+ - [https://www.csun.edu](https://www.csun.edu)
+ - date_published: 2024-10-11T19:03:48+00:00
+
+ ## Cleveland State University
+ - [https://csuohio.edu](https://csuohio.edu)
+ - date_published: 2024-08-10T23:44:55+00:00
+
+ ## Colorado State University Pueblo |  | CSU Pueblo
+ - [https://www.csupueblo.edu](https://www.csupueblo.edu)
+ - date_published: 2024-07-22T06:09:32.193456+00:00
+
+ ## Research Portal
+ - [https://scholars.csus.edu](https://scholars.csus.edu)
+ - date_published: 2024-07-03T14:00:00+00:00
+
+ ## California State University, Sacramento
+ - [https://www.csus.edu](https://www.csus.edu)
+ - date_published: 2024-07-03T09:40:33.868941+00:00
+
+ ## California State University, San Bernardino | CSUSB
+ - [https://www.csusb.edu](https://www.csusb.edu)
+ - date_published: 2024-10-19T04:12:14.972855+00:00
+
+ ## Home | California State University Stanislaus
+ - [http://www.csustan.edu](http://www.csustan.edu)
+ - date_published: 2024-07-14T02:33:10+00:00
+
+ ## August 2020 - CSU System Magazine
+ - [https://archive.magazine.csusystem.edu](https://archive.magazine.csusystem.edu)
+ - date_published: 2024-07-22T06:09:26.330084+00:00
+
+ ## We are Colorado | Colorado State University System
+ - [https://csusystem.edu](https://csusystem.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## STATE | The Magazine of the Colorado State University System
+ - [https://magazine.csusystem.edu](https://magazine.csusystem.edu)
+ - date_published: 2024-04-30T03:47:49.898303+00:00
+
+ ## CSCU - Welcome to CSCU
+ - [https://www.ct.edu](https://www.ct.edu)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Columbia Theological Seminary – Admissions – Theological Seminary
+ - [https://admissions.ctsnet.edu](https://admissions.ctsnet.edu)
+ - date_published: 2024-07-07T05:53:55.068487+00:00
+ - tags: ['theological seminary']
+
+ ## Come to Columbia - Columbia Theological Seminary
+ - [https://apply.ctsnet.edu](https://apply.ctsnet.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## John Bulow Campbell Library catalog
+ - [https://library.ctsnet.edu](https://library.ctsnet.edu)
+ - date_published: 2024-07-07T05:53:50.165989+00:00
+
+ ## Columbia Theological Seminary | Seminary School | Atlanta, GA
+ - [https://www.ctsnet.edu](https://www.ctsnet.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## CU Connections
+ - [https://connections.cu.edu](https://connections.cu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## University of Colorado
+ - [https://cu.edu](https://cu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Giving to CU |
+ - [https://giving.cu.edu](https://giving.cu.edu)
+ - date_published: 2024-04-30T04:01:56.155045+00:00
+
+ ## My.CU - Campus Portal Selection - University of Colorado
+ - [https://my.cu.edu](https://my.cu.edu)
+ - date_published: 2024-08-11T02:44:03.365392+00:00
+
+ ## CU Online Programs
+ - [https://online.cu.edu](https://online.cu.edu)
+ - date_published: 2024-07-22T04:12:53+00:00
+
  ## Error
  - [https://ping.prod.cu.edu](https://ping.prod.cu.edu)
  - date_published: 2024-07-22T06:10:16.529495+00:00
@@ -3619,384 +3999,4 @@
  ## Office of Human Resources
  - [https://hr.fsu.edu](https://hr.fsu.edu)
  - date_published: 2024-04-30T04:15:36.866397+00:00
-
- ## Welcome to the FSU Drupal Site
- - [https://hub.research.fsu.edu](https://hub.research.fsu.edu)
- - date_published: 2024-07-14T18:34:50+00:00
-
- ## FSU International Programs
- - [https://international.fsu.edu](https://international.fsu.edu)
- - date_published: 2024-07-22T03:54:39.721097+00:00
-
- ## Office of Institutional Research - Florida State University
- - [https://ir.fsu.edu](https://ir.fsu.edu)
- - date_published: 2024-04-30T04:16:22.769660+00:00
-
- ## Information Technology Services
- - [https://its.fsu.edu](https://its.fsu.edu)
- - date_published: 2024-04-30T04:15:21.474295+00:00
-
- ## Apache Tomcat/9.0.8
- - [https://java.odl.fsu.edu](https://java.odl.fsu.edu)
- - date_published: 2024-07-22T04:14:31.687251+00:00
-
- ## Careers at Florida State | Office of Human Resources
- - [https://jobs.fsu.edu](https://jobs.fsu.edu)
- - date_published: 2024-04-30T04:15:57.303544+00:00
-
- ## Welcome | PS LINKS
- - [https://jobs.omni.fsu.edu](https://jobs.omni.fsu.edu)
- - date_published: 2024-07-22T04:00:10.249855+00:00
-
- ## Welcome to the FSU Drupal Site
- - [https://knowmore.fsu.edu](https://knowmore.fsu.edu)
- - date_published: 2024-04-30T04:15:15.133854+00:00
-
- ## College of Law
- - [http://law.fsu.edu](http://law.fsu.edu)
- - date_published: 2024-07-19T21:25:35+00:00
-
- ## The Florida State Conference Center | The Florida State Conference Center
- - [https://learningforlife.fsu.edu](https://learningforlife.fsu.edu)
- - date_published: 2024-07-22T04:12:46.037873+00:00
-
- ## Home | University Libraries
- - [https://lib.fsu.edu](https://lib.fsu.edu)
- - date_published: 2024-04-30T04:15:42.474759+00:00
-
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [https://library.law.fsu.edu](https://library.law.fsu.edu)
- - date_published: 2021-07-12T19:36:32+00:00
-
- ## NHMFL
- - [https://magnet.fsu.edu](https://magnet.fsu.edu)
- - date_published: 2020-09-15T15:29:36+00:00
-
- ## Florida State University College of Medicine | College of Medicine
- - [http://med.fsu.edu](http://med.fsu.edu)
- - date_published: 2024-07-21T22:35:54+00:00
-
- ## Florida State University College of Music
- - [https://music.fsu.edu](https://music.fsu.edu)
- - date_published: 2020-08-11T18:12:53+00:00
-
- ## Home
- - [https://mytag.fsu.edu](https://mytag.fsu.edu)
- - date_published: 2024-07-14T18:33:00+00:00
-
- ## Home - Florida State University News
- - [https://news.fsu.edu](https://news.fsu.edu)
- - date_published: 2023-10-25T11:22:28.015942+00:00
-
- ## College of Nursing
- - [https://nursing.fsu.edu](https://nursing.fsu.edu)
- - date_published: 2024-07-21T19:36:57+00:00
-
- ## Office of Digital Learning
- - [https://odl.fsu.edu](https://odl.fsu.edu)
- - date_published: 2024-07-19T18:18:24+00:00
-
- ## Office of Graduate Fellowships and Awards
- - [https://ogfa.fsu.edu](https://ogfa.fsu.edu)
- - date_published: 2024-07-16T14:07:29+00:00
-
- ## Login to oneFSU
- - [https://one.fsu.edu](https://one.fsu.edu)
- - date_published: 2024-07-14T16:24:02.394386+00:00
-
- ## FSU Panama City
- - [https://pc.fsu.edu](https://pc.fsu.edu)
- - date_published: 2024-07-17T18:53:37+00:00
-
- ## Florida State University Police Department
- - [https://police.fsu.edu](https://police.fsu.edu)
- - date_published: 2024-07-14T18:47:34+00:00
-
- ## Regulations and Policies
- - [https://policies.fsu.edu](https://policies.fsu.edu)
- - date_published: 2024-04-30T04:15:30.322533+00:00
-
- ## Home | Policies and Procedures
- - [http://policies.vpfa.fsu.edu](http://policies.vpfa.fsu.edu)
- - date_published: 2024-07-22T03:54:00.924782+00:00
-
- ## A Preeminent Florida University
- - [https://preeminence.fsu.edu](https://preeminence.fsu.edu)
- - date_published: 2024-04-30T04:15:35.067434+00:00
-
- ## Office of the Provost
- - [http://provost.fsu.edu](http://provost.fsu.edu)
- - date_published: 2024-07-15T19:29:45+00:00
-
- ## University Registrar
- - [https://registrar.fsu.edu](https://registrar.fsu.edu)
- - date_published: 2024-04-30T04:15:04.655930+00:00
-
- ## Regulations and Policies
- - [https://regulations.fsu.edu](https://regulations.fsu.edu)
- - date_published: 2024-04-30T04:16:33.117206+00:00
-
- ## report.fsu.edu
- - [https://report.fsu.edu](https://report.fsu.edu)
- - date_published: 2024-07-14T18:59:52+00:00
-
- ## Office of Research | FSU Office of Research
- - [https://research.fsu.edu](https://research.fsu.edu)
- - date_published: 2024-04-30T04:16:18.063722+00:00
-
- ## Ask
- - [https://servicecenter.fsu.edu](https://servicecenter.fsu.edu)
- - date_published: 2023-07-23T03:54:11+00:00
-
- ## Welcome to the FSU Drupal Site
- - [https://smr.fsu.edu](https://smr.fsu.edu)
- - date_published: 2024-04-30T04:15:09.836276+00:00
-
- ## Department of Statistics
- - [https://stat.fsu.edu](https://stat.fsu.edu)
- - date_published: 2024-07-15T21:28:36+00:00
-
- ## Loading...
- - [https://status.fsu.edu](https://status.fsu.edu)
- - date_published: 2024-06-27T07:29:53+00:00
-
- ## Stay Healthy FSU
- - [https://stayhealthy.fsu.edu](https://stayhealthy.fsu.edu)
- - date_published: 2024-07-21T19:51:07+00:00
-
- ## 2023-2027 - Strategic Plan
- - [https://strategicplan.fsu.edu](https://strategicplan.fsu.edu)
- - date_published: 2024-04-30T04:16:28.861521+00:00
-
- ## Division of Student Affairs
- - [https://studentaffairs.fsu.edu](https://studentaffairs.fsu.edu)
- - date_published: 2024-07-22T01:19:40+00:00
-
- ## Student Business Services
- - [https://studentbusiness.fsu.edu](https://studentbusiness.fsu.edu)
- - date_published: 2024-07-21T01:11:02+00:00
-
- ## Systems Group | Computer Science Systems Group
- - [https://system.cs.fsu.edu](https://system.cs.fsu.edu)
- - date_published: 2024-07-14T16:24:00.202442+00:00
-
- ## Technology Enhanced Classrooms | Florida State University
- - [https://tecs.fsu.edu](https://tecs.fsu.edu)
- - date_published: 2024-07-22T04:13:15.680143+00:00
-
- ## FSU Testing Center
- - [https://testing.fsu.edu](https://testing.fsu.edu)
- - date_published: 2024-07-17T17:21:44+00:00
-
- ## The Center for Leadership & Service
- - [https://thecenter.fsu.edu](https://thecenter.fsu.edu)
- - date_published: 2024-07-19T20:57:15+00:00
-
- ## Ticketing | Opening Nights
- - [https://tickets.openingnights.fsu.edu](https://tickets.openingnights.fsu.edu)
- - date_published: 2024-08-20T05:03:19.063253+00:00
-
- ## Transfer Student Services
- - [https://transferstudents.fsu.edu](https://transferstudents.fsu.edu)
- - date_published: 2024-07-18T18:10:13+00:00
-
- ## Home | Transportation & Parking Services
- - [https://transportation.fsu.edu](https://transportation.fsu.edu)
- - date_published: 2024-07-22T03:56:25.906240+00:00
-
- ## Tutoring Resources at FSU
- - [https://tutoring.fsu.edu](https://tutoring.fsu.edu)
- - date_published: 2024-04-30T04:15:25.549853+00:00
-
- ## University Health Services
- - [https://uhs.fsu.edu](https://uhs.fsu.edu)
- - date_published: 2024-07-19T21:59:33+00:00
-
- ## University Communications
- - [https://unicomm.fsu.edu](https://unicomm.fsu.edu)
- - date_published: 2024-04-30T04:16:34.766458+00:00
-
- ## FSU Student Union
- - [https://union.fsu.edu](https://union.fsu.edu)
- - date_published: 2024-07-15T18:47:14+00:00
-
- ## Homepage | Vires, Artes, Mores
- - [https://vam.fsu.edu](https://vam.fsu.edu)
- - date_published: 2024-07-20T05:34:44+00:00
-
- ## Student Veterans Center
- - [https://veterans.fsu.edu](https://veterans.fsu.edu)
- - date_published: 2024-04-30T04:15:16.770484+00:00
-
- ## Main Index
- - [https://visit.fsu.edu](https://visit.fsu.edu)
- - date_published: 2024-04-30T04:16:26.950490+00:00
-
- ## Home page (used as placeholder)
- - [https://vpfa.fsu.edu](https://vpfa.fsu.edu)
- - date_published: 2024-07-14T18:12:28+00:00
-
- ## Florida State University
- - [https://webmail.fsu.edu](https://webmail.fsu.edu)
- - date_published: 2024-04-30T04:16:31.602816+00:00
-
- ## Test
- - [https://webservices.its.fsu.edu](https://webservices.its.fsu.edu)
- - date_published: 2024-07-20T22:28:47.371813+00:00
-
- ## Writing Resources
- - [https://wr.english.fsu.edu](https://wr.english.fsu.edu)
- - date_published: 2024-07-14T18:47:58+00:00
-
- ## CEFA | Center for Economic Forecasting and Analysis
- - [http://www.cefa.fsu.edu](http://www.cefa.fsu.edu)
- - date_published: 2024-07-14T18:25:05+00:00
-
- ## FAMU-FSU
- - [https://www.eng.famu.fsu.edu](https://www.eng.famu.fsu.edu)
- - date_published: 2024-07-19T19:41:35+00:00
-
- ## Facilities
- - [https://www.facilities.fsu.edu](https://www.facilities.fsu.edu)
- - date_published: 2024-07-22T04:02:48.183407+00:00
-
- ## FREAC - Florida Resources and Environmental Analysis Center
- - [http://www.freac.fsu.edu](http://www.freac.fsu.edu)
- - date_published: 2022-05-12T18:41:58+00:00
-
- ## The Florida State University High Energy Physics Group
- - [http://www.hep.fsu.edu](http://www.hep.fsu.edu)
- - date_published: 2024-06-22T09:00:51.510924+00:00
-
- ## NWRDC | Florida's Cloud Broker
- - [https://www.nwrdc.fsu.edu](https://www.nwrdc.fsu.edu)
- - date_published: 2024-12-17T14:19:19+00:00
-
- ## Seminole 100
- - [https://www.seminole100.fsu.edu](https://www.seminole100.fsu.edu)
- - date_published: 2024-08-11T11:25:06.326116+00:00
-
- ## Sustainable Campus
- - [http://www.sustainablecampus.fsu.edu](http://www.sustainablecampus.fsu.edu)
- - date_published: 2024-07-18T18:15:43+00:00
-
- ## Titans Return: COVID-19 Recovery | California State University, Fullerton
- - [http://coronavirus.fullerton.edu](http://coronavirus.fullerton.edu)
- - date_published: 2024-07-22T03:53:42.073040+00:00
-
- - [https://escatter11.fullerton.edu](https://escatter11.fullerton.edu)
- - date_published: 2016-04-25T04:44:24+00:00
- - tags: ['math']
-
- ## California State University, Fullerton
- - [https://fullerton.edu](https://fullerton.edu)
- - date_published: 2024-07-22T03:53:47.579855+00:00
-
- ## College of Humanities and Social Sciences - College of Humanities and Social Sciences | CSUF
- - [http://hss.fullerton.edu](http://hss.fullerton.edu)
- - date_published: 2024-07-22T03:53:45.062146+00:00
-
- ## CSUF Psychology Department Research and Teaching Materials
- - [https://psych.fullerton.edu](https://psych.fullerton.edu)
- - date_published: 2022-08-31T19:03:55+00:00
-
- ## Department of Psychology - Department of Psychology | CSUF
- - [https://psychology.fullerton.edu](https://psychology.fullerton.edu)
- - date_published: 2024-04-30T04:16:47.286500+00:00
-
- ## Explore Full Sail University - Full Sail University
- - [https://go.fullsail.edu](https://go.fullsail.edu)
- - date_published: 2024-12-23T11:25:58.946147+00:00
-
- ## Cierpliwości...
- - [https://www.fullsail.edu](https://www.fullsail.edu)
- - date_published: 2024-06-30T01:29:45.339767+00:00
-
- ## Home
- - [https://www.furman.edu](https://www.furman.edu)
- - date_published: 2024-12-23T13:53:37.293073+00:00
-
- ## Gallaudet University Press
- - [https://gupress.gallaudet.edu](https://gupress.gallaudet.edu)
- - date_published: 2024-10-29T03:02:45+00:00
-
- ## Home | Gannon University
- - [http://www.gannon.edu](http://www.gannon.edu)
- - date_published: 2024-06-28T14:31:15.872176+00:00
-
- ## Home | Office of Academic Effectiveness
- - [https://academiceffectiveness.gatech.edu](https://academiceffectiveness.gatech.edu)
- - date_published: 2024-07-18T12:53:02+00:00
-
- ## Improving Administrative Services | Administrative Excellence
- - [https://adminx.gatech.edu](https://adminx.gatech.edu)
- - date_published: 2024-10-11T21:33:31+00:00
-
- ## Welcome! | Undergraduate Admission
- - [https://admission.gatech.edu](https://admission.gatech.edu)
- - date_published: 2024-04-30T04:19:34.744531+00:00
-
- ## Homepage | Advising & Transition
- - [https://advising.gatech.edu](https://advising.gatech.edu)
- - date_published: 2024-06-13T15:15:15+00:00
-
- ## Administration and Finance | Georgia Institute of Technology
- - [https://af.gatech.edu](https://af.gatech.edu)
- - date_published: 2024-06-14T21:39:27+00:00
-
- ## Harnessing the Power of AI | AI at Georgia Tech
- - [https://ai.gatech.edu](https://ai.gatech.edu)
- - date_published: 2024-07-22T03:45:43.409433+00:00
-
- ## AI Unplugged
- - [https://aiunplugged.lmc.gatech.edu](https://aiunplugged.lmc.gatech.edu)
- - date_published: 2024-05-07T18:50:14.524497+00:00
-
- ## Home | Master of Science in Analytics
- - [https://analytics.gatech.edu](https://analytics.gatech.edu)
- - date_published: 2024-07-02T04:12:57+00:00
-
- ## Welcome! | Undergraduate Admission
- - [https://application.gatech.edu](https://application.gatech.edu)
- - date_published: 2024-07-22T03:09:54.472689+00:00
-
- ## Home | Georgia Tech Algorithm and Randomness Center (ARC)
- - [https://arc.gatech.edu](https://arc.gatech.edu)
- - date_published: 2024-06-13T18:15:03+00:00
-
- ## Home | School of Architecture
- - [https://arch.gatech.edu](https://arch.gatech.edu)
- - date_published: 2024-07-18T19:32:16+00:00
-
- ## Home | ARTS
- - [https://arts.gatech.edu](https://arts.gatech.edu)
- - date_published: 2024-04-30T04:19:07.870298+00:00
-
- ## GT SSO or Guest Redirect - Administrative Services
- - [https://asc.gatech.edu](https://asc.gatech.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Education Abroad
- - [http://atlas.gatech.edu](http://atlas.gatech.edu)
- - date_published: 2024-07-22T03:18:12.617418+00:00
-
- ## Home | School of Building Construction
- - [https://bc.gatech.edu](https://bc.gatech.edu)
- - date_published: 2024-07-10T15:57:49+00:00
-
- ## Employee Benefits
- - [https://benefits.hr.gatech.edu](https://benefits.hr.gatech.edu)
- - date_published: 2024-07-22T03:36:41+00:00
-
- ## Custom Domain by Bitly
- - [https://b.gatech.edu](https://b.gatech.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home | Briaerean Honor Society | Georgia Institute of Technology | Atlanta, GA
- - [https://bhs.gatech.edu](https://bhs.gatech.edu)
- - date_published: 2024-07-22T02:10:29+00:00
-
- ## Welcome | Bioinformatics
- - [https://bioinformatics.gatech.edu](https://bioinformatics.gatech.edu)
- - date_published: 2024-07-22T03:12:04.060270+00:00
 

@@ -1,3 +1,91 @@
+ ## Library Management System - Libraries Automation System - Biblionix
+ - [https://biblionix.com](https://biblionix.com)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Bibliopolis | We build the tools of the trade
+ - [https://bibliopolis.com](https://bibliopolis.com)
+ - date_published: 2024-05-08T03:14:40.148097+00:00
+
+ ## The BiblioSanctum
+ - [https://bibliosanctum.com](https://bibliosanctum.com)
+ - date_published: 2024-10-25T19:26:36.203219+00:00
+
+ ## La Bibliothèque russe et slave - Littérature russe et slave
+ - [https://bibliotheque-russe-et-slave.com](https://bibliotheque-russe-et-slave.com)
+ - date_published: 2024-12-20T09:00:21.407445+00:00
+
+ ## Bibliotica
+ - [http://bibliotica.com](http://bibliotica.com)
+ - date_published: 2024-12-11T12:34:45.340780+00:00
+
+ ## bibox-web-ssr
+ - [https://www.bibox.com](https://www.bibox.com)
+ - date_published: 2024-12-15T09:14:28.448459+00:00
+
+ ## The Definitive Guide to BibTeX - BibTeX.com
+ - [https://bibtex.com](https://bibtex.com)
+ - date_published: 2023-10-13T07:56:08+00:00
+
+ ## Bica for Figma
+ - [https://bicaforfigma.com](https://bicaforfigma.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## But I'm A Cat Person
+ - [https://bicatperson.com](https://bicatperson.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## �r�b�N�J����.com | �Ɠd��p�\�R������p�i�Ȃǉ��ł����� �r�b�N�J�����̌����ʔ̃T�C�g
+ - [https://www.biccamera.com](https://www.biccamera.com)
+ - date_published: 2024-08-07T21:14:30+00:00
+
+ ## Home
+ - [https://www.bic-media.com](https://www.bic-media.com)
+ - date_published: 2024-09-19T19:00:27+00:00
+
+ ## Biconomy | Buy/Sell Bitcoin, Ether and Altcoins | Cryptocurrency Exchange | BIT
+ - [https://www.biconomy.com](https://www.biconomy.com)
+ - date_published: 2024-06-20T03:33:01+00:00
+
+ ## Welcome at BICS.com - your partner for enterprise communication
+ - [https://www.bics.com](https://www.bics.com)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## Home
+ - [https://bicyclecards.com](https://bicyclecards.com)
+ - date_published: 2024-04-28T02:51:25.850852+00:00
+
+ ## Bicycle Film Festival
+ - [https://www.bicyclefilmfestival.com](https://www.bicyclefilmfestival.com)
+ - date_published: 2024-07-09T15:14:08.473924+00:00
+
+ ## Bicycle For Your Mind
+ - [https://bicycleforyourmind.com](https://bicycleforyourmind.com)
+ - date_published: 2024-12-27T14:03:11.864346+00:00
+
+ ## Injured in a Bicycle Crash? We Can Help - Bicycle Law
+ - [https://bicyclelaw.com](https://bicyclelaw.com)
+ - date_published: 2024-10-22T22:28:23.422692+00:00
+
+ ## Home - Bicycle Odyssey
+ - [http://bicycleodyssey.com](http://bicycleodyssey.com)
+ - date_published: 2023-07-17T13:35:05+00:00
+
+ ## Bicycle Retailer & Industry News
+ - [https://bicycleretailer.com](https://bicycleretailer.com)
+ - date_published: 2023-10-25T14:21:33.230031+00:00
+
+ ## Bicycle Rolling Resistance: Tire Rolling Resistance Tests and More
+ - [https://bicyclerollingresistance.com](https://bicyclerollingresistance.com)
+ - date_published: 2024-05-15T07:54:38+00:00
+
+ ## Sign in - Matomo
+ - [https://mas.bicyclerollingresistance.com](https://mas.bicyclerollingresistance.com)
+ - date_published: 2024-07-19T04:18:55.607868+00:00
+
+ ## Bicycle Safety: How to Not Get Hit by Cars
+ - [https://bicyclesafe.com](https://bicyclesafe.com)
+ - date_published: 2024-08-19T20:38:17.426172+00:00
+
  ## Bicycle Universe - The Ultimate Resource For Bike Commuters!
  - [https://bicycleuniverse.com](https://bicycleuniverse.com)
  - date_published: 2021-03-17T13:48:08+00:00
@@ -3938,92 +4026,4 @@
  ## Bitmotive
  - [https://bitmotive.com](https://bitmotive.com)
  - date_published: 2024-12-15T18:26:09.909350+00:00
-
- ## Solutions to encode, play and analyze video - Bitmovin
- - [https://bitmovin.com](https://bitmovin.com)
- - date_published: 2024-01-09T02:30:28.819555+00:00
-
- ## Bitmovin Community
- - [http://community.bitmovin.com](http://community.bitmovin.com)
- - date_published: 2024-06-18T12:10:14.844943+00:00
-
- ## Bitmovin Dashboard
- - [https://dashboard.bitmovin.com](https://dashboard.bitmovin.com)
- - date_published: 2024-06-18T09:30:44+00:00
-
- ## Bitmovin Docs
- - [https://developer.bitmovin.com](https://developer.bitmovin.com)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Bitmovin Inc Status
- - [https://status.bitmovin.com](https://status.bitmovin.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Bitnami
- - [https://bitnami.com](https://bitnami.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Bitnami Blog
- - [https://blog.bitnami.com](https://blog.bitnami.com)
- - date_published: 2023-10-25T13:02:11.353143+00:00
-
- ## Bitnami Helm Charts
- - [https://charts.bitnami.com](https://charts.bitnami.com)
- - date_published: 2024-08-07T09:13:46+00:00
-
- ## Bitnami Documentation
- - [https://docs.bitnami.com](https://docs.bitnami.com)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Cory House
- - [https://www.bitnative.com](https://www.bitnative.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Bitnomial Exchange
- - [https://bitnomial.com](https://bitnomial.com)
- - date_published: 2024-06-14T20:50:40+00:00
-
- ## Bitcoin ATMs - anonymous cryptocurrency ATMs ✅
- - [http://www.bitomat.com](http://www.bitomat.com)
- - date_published: 2024-09-22T00:00:00+00:00
-
- ## Bitovi - Digital Product Consulting
- - [https://bitovi.com](https://bitovi.com)
- - date_published: 2024-07-14T10:11:08+00:00
-
- ## Bitovi
- - [https://forums.bitovi.com](https://forums.bitovi.com)
- - date_published: 2024-07-14T11:08:52.098115+00:00
-
- ## BitOwl Productions
- - [http://bitowl.com](http://bitowl.com)
- - date_published: 2024-07-11T16:54:18.166658+00:00
-
- ## BitPay: The Best Crypto App to Pay with Crypto + Accept Payments
- - [https://bitpay.com](https://bitpay.com)
- - date_published: 2024-04-30T06:29:41.216803+00:00
-
- ## BitPay Brand Guide
- - [https://brand.bitpay.com](https://brand.bitpay.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## BitPay Inc Status
- - [https://status.bitpay.com](https://status.bitpay.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## BitPay Support
- - [https://support.bitpay.com](https://support.bitpay.com)
- - date_published: 2014-05-02T00:00:00+00:00
-
- ## Informationstechnik – Technische White Papers — IT Webcasts  / Informationen — de.Bitpipe.com
- - [https://de.bitpipe.com](https://de.bitpipe.com)
- - date_published: 2024-09-09T20:03:29.568087+00:00
-
- ## Tecnología de la Información—White Papers Técnicos—IT Webcasts/Información—es.Bitpipe.com
- - [https://es.bitpipe.com](https://es.bitpipe.com)
- - date_published: 2024-09-09T20:03:45.674193+00:00
-
- ## 정보 기술 – 기술 백서 — IT 웹캐스트/정보 — kr.Bitpipe.com
- - [https://kr.bitpipe.com](https://kr.bitpipe.com)
- - date_published: 2024-09-09T20:03:44.607244+00:00
 

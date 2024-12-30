@@ -1,3 +1,59 @@
+ ## University of Saskatchewan - Library
+ - [https://drc.usask.ca](https://drc.usask.ca)
+ - date_published: 2024-10-29T18:45:26.871793+00:00
+
+ ## About the Campaign - Giving to USask
+ - [https://give.usask.ca](https://give.usask.ca)
+ - date_published: 2024-09-15T13:01:20.317791+00:00
+
+ ## Indigenous Engagement - Office of the Vice-Provost Indigenous Engagement
+ - [https://indigenous.usask.ca](https://indigenous.usask.ca)
+ - date_published: 2024-09-15T13:01:12.015234+00:00
+
+ ## Usask Art Gallery - USask Art Galleries | University of Saskatchewan
+ - [https://kagcag.usask.ca](https://kagcag.usask.ca)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## University of Saskatchewan - Library
+ - [http://library.usask.ca](http://library.usask.ca)
+ - date_published: 2024-12-25T07:55:48.804255+00:00
+
+ ## University of Saskatchewan
+ - [https://limestone.usask.ca](https://limestone.usask.ca)
+ - date_published: 2024-09-15T13:01:14.750326+00:00
+
+ ## News
+ - [https://news.usask.ca](https://news.usask.ca)
+ - date_published: 2024-09-15T13:01:18.586679+00:00
+
+ ## PAWS - University of Saskatchewan
+ - [https://paws.usask.ca](https://paws.usask.ca)
+ - date_published: 2024-06-20T05:48:10+00:00
+
+ ## Access and Privacy - Legal Office
+ - [https://privacy.usask.ca](https://privacy.usask.ca)
+ - date_published: 2024-09-15T13:01:23.213015+00:00
+
+ ## Search - University of Saskatchewan
+ - [https://search.usask.ca](https://search.usask.ca)
+ - date_published: 2024-09-15T13:00:56.099541+00:00
+
+ ## Students
+ - [https://students.usask.ca](https://students.usask.ca)
+ - date_published: 2024-09-15T13:01:28.207037+00:00
+
+ ## Faculty Relations - Vice-Provost, Faculty Relations
+ - [https://vpfaculty.usask.ca](https://vpfaculty.usask.ca)
+ - date_published: 2024-09-15T13:01:03.796595+00:00
+
+ ## Wellness
+ - [https://wellness.usask.ca](https://wellness.usask.ca)
+ - date_published: 2024-09-15T13:01:10.199304+00:00
+
+ ## Department of Computer Science
+ - [https://www.cs.usask.ca](https://www.cs.usask.ca)
+ - date_published: 2024-06-29T03:19:26.005459+00:00
+
  ## University of Saskatchewan
  - [http://www.usask.ca](http://www.usask.ca)
  - date_published: 2024-09-15T13:01:01.962502+00:00
@@ -1259,6 +1315,10 @@
  ## Vibrant Content
  - [https://www.vibrantcontent.ca](https://www.vibrantcontent.ca)
  - date_published: 2024-09-12T19:00:54.140817+00:00
+
+ ## Cough Medicine, Cold Medicine, Flu Relief & Allergy Medicine  - Vicks
+ - [https://vicks.ca](https://vicks.ca)
+ - date_published: 2024-10-08T08:54:20+00:00
 
  ## Have Your Say
  - [https://engage.victoria.ca](https://engage.victoria.ca)
@@ -3949,64 +4009,4 @@
  ## Казино Украины онлайн 2024 | Отзывы, рекомендации экспертов
  - [https://toprating.casino](https://toprating.casino)
  - date_published: 2024-06-16T13:58:06+00:00
-
- ## Utländska Casino
- - [https://xn--utlndska-2za.casino](https://xn--utlndska-2za.casino)
- - date_published: 2024-07-19T05:38:59+00:00
-
- ## La botiga oficial de TV3 i Catalunya Ràdio - CCMA
- - [https://botiga.3cat.cat](https://botiga.3cat.cat)
- - date_published: 2024-10-25T10:32:47.147158+00:00
-
- ## Espai Selecció
- - [https://seleccio.3cat.cat](https://seleccio.3cat.cat)
- - date_published: 2024-10-25T10:32:48.634933+00:00
-
- ## 3Cat, la plataforma digital de continguts en català i de qualitat
- - [https://www.3cat.cat](https://www.3cat.cat)
- - date_published: 2024-07-04T03:53:45.997712+00:00
-
- ## Abadia de Montserrat
- - [https://abadiamontserrat.cat](https://abadiamontserrat.cat)
- - date_published: 2024-09-17T21:14:55.486009+00:00
-
- ## Abadia de Montserrat, gestión integral de venta de entradas
- - [https://reserves.abadiamontserrat.cat](https://reserves.abadiamontserrat.cat)
- - date_published: 2024-09-17T10:33:43+00:00
-
- ## Associació Catalana d'Universitats Públiques | ACUP
- - [https://acup.cat](https://acup.cat)
- - date_published: 2024-05-07T21:59:15.254400+00:00
-
- ## Airbnb | Lloguers vacacionals, casetes, cases a la platja i molt més
- - [https://airbnb.cat](https://airbnb.cat)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## La Xarxa+
- - [http://www.alacarta.cat](http://www.alacarta.cat)
- - date_published: 2024-08-01T10:20:39+00:00
-
- ## albertguillaumes.cat
- - [http://albertguillaumes.cat](http://albertguillaumes.cat)
- - date_published: 2020-09-09T20:53:03+00:00
-
- ## Estacions i intercanviadors - albertguillaumes.cat
- - [http://estacions.albertguillaumes.cat](http://estacions.albertguillaumes.cat)
- - date_published: 2024-02-15T11:35:12+00:00
-
- ## Metro Stations and Transfers
- - [http://stations.albertguillaumes.cat](http://stations.albertguillaumes.cat)
- - date_published: 2024-03-08T00:20:19+00:00
-
- ## Diccionari Amazic-Català
- - [http://www.amazic.cat](http://www.amazic.cat)
- - date_published: 2024-07-02T10:14:51.050372+00:00
-
- ## Inici
- - [https://amicsdemontserrat.cat](https://amicsdemontserrat.cat)
- - date_published: 2024-09-17T21:14:31.913295+00:00
-
- ## Inici | AREA
- - [http://www.areaverda.cat](http://www.areaverda.cat)
- - date_published: 2024-09-17T05:31:45+00:00
 

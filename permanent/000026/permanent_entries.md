@@ -1,3 +1,63 @@
+ ## Kaltura - Everything Video
+ - [https://api.cast.switch.ch](https://api.cast.switch.ch)
+ - date_published: 2024-07-16T22:30:45.943143+00:00
+
+ ## SWITCH edu-ID Login
+ - [https://drive.switch.ch](https://drive.switch.ch)
+ - date_published: 2024-05-12T07:15:00.403905+00:00
+
+ ## Mantis - Hexapod Testnet
+ - [https://mantis.switch.ch](https://mantis.switch.ch)
+ - date_published: 2022-05-26T06:50:27+00:00
+
+ ## mirror.switch.ch
+ - [http://mirror.switch.ch](http://mirror.switch.ch)
+ - date_published: 2023-06-30T09:56:37+00:00
+
+ ## Switch Tube
+ - [https://tube.switch.ch](https://tube.switch.ch)
+ - date_published: 2024-07-16T22:32:18.804240+00:00
+
+ ## Organisation Selection
+ - [https://wayf.switch.ch](https://wayf.switch.ch)
+ - date_published: 2024-07-21T05:26:49.911021+00:00
+
+ ## planet symlink
+ - [https://planet.symlink.ch](https://planet.symlink.ch)
+ - date_published: 2024-06-30T21:13:04+00:00
+
+ ## Sympany. All the insurance you need. Swiss health insurance
+ - [https://www.sympany.ch](https://www.sympany.ch)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Opto-electronic instrumentation for Space and Industrial Applications :: GA-Synopta GmbH
+ - [http://www.synopta.ch](http://www.synopta.ch)
+ - date_published: 2024-07-16T22:03:16.529401+00:00
+
+ ## Stellen bei der Schwyzer Kantonalbank
+ - [https://jobs.szkb.ch](https://jobs.szkb.ch)
+ - date_published: 2024-06-16T06:11:51.412250+00:00
+
+ ## Schwyzer Kantonalbank - Gut beraten, Schwyzer Art
+ - [http://szkb.ch](http://szkb.ch)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Login E-Banking - Schwyzer Kantonalbank
+ - [https://wwwsec.szkb.ch](https://wwwsec.szkb.ch)
+ - date_published: 2024-06-16T06:11:48.250951+00:00
+
+ ## St. Galler Tagblatt | Nachrichten für die Ostschweiz
+ - [https://www.tagblatt.ch](https://www.tagblatt.ch)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Home - Tagblatt der Stadt Zürich
+ - [https://www.tagblattzuerich.ch](https://www.tagblattzuerich.ch)
+ - date_published: 2024-06-27T10:56:28.238383+00:00
+
+ ## Agenda - Tages-Anzeiger
+ - [https://agenda.tagesanzeiger.ch](https://agenda.tagesanzeiger.ch)
+ - date_published: 2024-04-30T06:13:13.396498+00:00
+
  ## Einen Moment bitte, die Ausgabe wird geladen...
  - [http://epaper.tagesanzeiger.ch](http://epaper.tagesanzeiger.ch)
  - date_published: 2024-07-21T05:27:27.792498+00:00
@@ -3959,64 +4019,4 @@ Fakultät | Universität Basel
  ## Ticketpro
  - [https://www.ticketpro.cl](https://www.ticketpro.cl)
  - date_published: 2024-07-03T09:15:42.167890+00:00
-
- ## Tienda Santillana Online
- - [https://www.tiendasantillana.cl](https://www.tiendasantillana.cl)
- - date_published: 2024-09-13T11:32:25.714861+00:00
-
- ## Top Doctors | Para tu tranquilidad, sólo los mejores médicos | Top Doctors
- - [https://www.topdoctors.cl](https://www.topdoctors.cl)
- - date_published: 2024-09-06T12:45:38.230897+00:00
-
- ## Attention Required! | Cloudflare
- - [https://scotiabank.trabajando.cl](https://scotiabank.trabajando.cl)
- - date_published: 2024-09-28T21:31:41.216867+00:00
-
- ## Tripadvisor: más de mil millones de opiniones y aportes sobre hoteles, atracciones, restaurantes y más
- - [https://www.tripadvisor.cl](https://www.tripadvisor.cl)
- - date_published: 2024-06-23T09:27:14.676295+00:00
-
- ## trivago.cl - Compare hotel prices worldwide
- - [https://www.trivago.cl](https://www.trivago.cl)
- - date_published: 2024-09-04T11:20:29.418043+00:00
-
- ## Televisión Nacional de Chile | TVN
- - [http://www.tvn.cl](http://www.tvn.cl)
- - date_published: 2024-07-12T22:06:20.583269+00:00
-
- ## Inicio - Instituto de estudios Urbanos y Territoriales UC
- - [https://estudiosurbanos.uc.cl](https://estudiosurbanos.uc.cl)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## INICIO
- - [http://imc.uc.cl](http://imc.uc.cl)
- - date_published: 2024-08-07T17:08:42+00:00
-
- ## Pablo Barcelo - IMC, PUC Chile
- - [https://pbarcelo.ing.uc.cl](https://pbarcelo.ing.uc.cl)
- - date_published: 2022-11-07T14:53:56+00:00
-
- ## Inicio - Ingeniería UC
- - [https://www.ing.uc.cl](https://www.ing.uc.cl)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Facultad de Matemáticas UC
- - [http://www.mat.uc.cl](http://www.mat.uc.cl)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## UC CHRISTUS
- - [https://www.ucchristus.cl](https://www.ucchristus.cl)
- - date_published: 2024-12-15T20:07:32.642843+00:00
-
- ## Agronomía - Facultad de Ciencias Agronómicas - Universidad de Chile
- - [https://agronomia.uchile.cl](https://agronomia.uchile.cl)
- - date_published: 2024-08-07T17:06:31.897870+00:00
-
- ## Facultad de Artes - Facultad de Artes - Universidad de Chile
- - [https://artes.uchile.cl](https://artes.uchile.cl)
- - date_published: 2024-08-07T17:08:06.938808+00:00
-
- ## Iniciativa Beauchef Cambio Climático – Beauchef se Compromete
- - [https://bcc.ing.uchile.cl](https://bcc.ing.uchile.cl)
- - date_published: 2024-08-07T17:06:55.448778+00:00
 

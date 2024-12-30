@@ -1,3 +1,383 @@
+ ## UIF | University of Illinois Foundation
+ - [https://uif.uillinois.edu](https://uif.uillinois.edu)
+ - date_published: 2024-04-30T04:56:45.328381+00:00
+
+ ## Home - University of Illinois System
+ - [https://uillinois.edu](https://uillinois.edu)
+ - date_published: 2024-05-07T21:14:51.814206+00:00
+
+ ## Home | University Senates Conference
+ - [https://usc.uillinois.edu](https://usc.uillinois.edu)
+ - date_published: 2024-07-02T01:09:12+00:00
+
+ ## Home - EVPAA
+ - [https://vpaa.uillinois.edu](https://vpaa.uillinois.edu)
+ - date_published: 2024-04-30T04:57:25.699666+00:00
+
+ ## web.uillinois.edu
+ - [https://web.uillinois.edu](https://web.uillinois.edu)
+ - date_published: 2024-07-02T02:39:04.115132+00:00
+
+ ## Home
+ - [https://www.aits.uillinois.edu](https://www.aits.uillinois.edu)
+ - date_published: 2024-07-02T02:39:02.496053+00:00
+
+ ## Home
+ - [https://www.bot.uillinois.edu](https://www.bot.uillinois.edu)
+ - date_published: 2024-07-02T02:39:08.385572+00:00
+
+ ## Home
+ - [https://www.ethics.uillinois.edu](https://www.ethics.uillinois.edu)
+ - date_published: 2024-07-02T02:50:38.072676+00:00
+
+ ## Welcome
+ - [https://www.hr.uillinois.edu](https://www.hr.uillinois.edu)
+ - date_published: 2024-07-02T02:38:59.589794+00:00
+
+ ## IGPA - The University of Illinois System is the people’s university, and IGPA is the people’s policy think tank.
+ - [http://www.igpa.uillinois.edu](http://www.igpa.uillinois.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Online Courses Catalogue
+ - [http://www.online.uillinois.edu](http://www.online.uillinois.edu)
+ - date_published: 2024-07-02T02:40:25.050258+00:00
+
+ ## University of Illinois > University Office for Planning and Budgeting
+ - [http://www.pb.uillinois.edu](http://www.pb.uillinois.edu)
+ - date_published: 2024-07-21T22:34:39.205408+00:00
+
+ ## UI Press | University of Illinois
+ - [https://www.press.uillinois.edu](https://www.press.uillinois.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home
+ - [http://www.uaps.uillinois.edu](http://www.uaps.uillinois.edu)
+ - date_published: 2024-07-21T22:34:52.378127+00:00
+
+ ## Christel DeHaan Center for Global Engagement - University of Indianapolis
+ - [https://archlab.uindy.edu](https://archlab.uindy.edu)
+ - date_published: 2024-05-07T15:19:04.853289+00:00
+
+ ## Admissions - University of Indianapolis
+ - [https://attend.uindy.edu](https://attend.uindy.edu)
+ - date_published: 2024-06-21T18:37:28+00:00
+
+ ## Events - UIndy 360
+ - [https://events.uindy.edu](https://events.uindy.edu)
+ - date_published: 2024-06-30T05:15:32.847777+00:00
+
+ ## Event Calendar - University of Indianapolis
+ - [https://getinvolved.uindy.edu](https://getinvolved.uindy.edu)
+ - date_published: 2024-06-30T05:15:46.486086+00:00
+
+ ## Careers | Job Application
+ - [https://hrjobs.uindy.edu](https://hrjobs.uindy.edu)
+ - date_published: 2024-06-30T05:15:36.415018+00:00
+
+ ## University of Indianapolis
+ - [https://map.uindy.edu](https://map.uindy.edu)
+ - date_published: 2024-06-30T05:15:38.430458+00:00
+
+ ## Sign in to your account
+ - [https://my.uindy.edu](https://my.uindy.edu)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Home - UIndy 360
+ - [https://news.uindy.edu](https://news.uindy.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## University of Indianapolis
+ - [http://uindy.edu](http://uindy.edu)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## YOU INDY – University of Indianapolis – UIndy thrives with you.
+ - [https://you.uindy.edu](https://you.uindy.edu)
+ - date_published: 2024-06-30T05:15:42.622266+00:00
+
+ ## Admissions | The University of Iowa
+ - [https://admissions.uiowa.edu](https://admissions.uiowa.edu)
+ - date_published: 2024-07-02T02:15:48+00:00
+
+ ## IIS Windows Server
+ - [https://apps.dentistry.uiowa.edu](https://apps.dentistry.uiowa.edu)
+ - date_published: 2023-06-20T19:41:02+00:00
+
+ ## University of Iowa Assets
+ - [https://assets.uiowa.edu](https://assets.uiowa.edu)
+ - date_published: 2017-06-09T16:03:35+00:00
+
+ ## Brand Manual | The University of Iowa
+ - [https://brand.uiowa.edu](https://brand.uiowa.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Pomerantz Career Center | The University of Iowa
+ - [https://careers.uiowa.edu](https://careers.uiowa.edu)
+ - date_published: 2024-07-02T02:01:18+00:00
+
+ ## The University of Iowa 2024-25 General Catalog < University of Iowa
+ - [http://catalog.registrar.uiowa.edu](http://catalog.registrar.uiowa.edu)
+ - date_published: 2024-07-01T13:13:11+00:00
+
+ ## College of Liberal Arts and Sciences | The University of Iowa
+ - [https://clas.uiowa.edu](https://clas.uiowa.edu)
+ - date_published: 2024-05-07T21:15:56.514442+00:00
+
+ ## Content Hub
+ - [https://content.uiowa.edu](https://content.uiowa.edu)
+ - date_published: 2024-07-02T02:33:44+00:00
+
+ ## Novel Coronavirus (COVID-19) | The University of Iowa
+ - [https://coronavirus.uiowa.edu](https://coronavirus.uiowa.edu)
+ - date_published: 2024-06-24T22:55:49+00:00
+
+ ## College of Dentistry and Dental Clinics | The University of Iowa
+ - [https://dentistry.uiowa.edu](https://dentistry.uiowa.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Welcome to The University of Iowa Libraries | The University of Iowa Libraries
+ - [http://digital.lib.uiowa.edu](http://digital.lib.uiowa.edu)
+ - date_published: 2024-06-24T08:20:26+00:00
+
+ ## Distance and Online Education | The University of Iowa
+ - [https://distance.uiowa.edu](https://distance.uiowa.edu)
+ - date_published: 2024-06-28T16:58:34+00:00
+
+ ## Home The University of Iowa Division of Access, Opportunity, and Diversity
+ - [https://diversity.uiowa.edu](https://diversity.uiowa.edu)
+ - date_published: 2024-10-18T22:21:12.530925+00:00
+
+ ## College of Liberal Arts and Sciences | The University of Iowa
+ - [https://divms.uiowa.edu](https://divms.uiowa.edu)
+ - date_published: 2024-10-15T21:12:56+00:00
+
+ ## Emergency Information | The University of Iowa
+ - [https://emergency.uiowa.edu](https://emergency.uiowa.edu)
+ - date_published: 2024-07-02T00:52:11+00:00
+
+ ## Events Calendar
+ - [https://events.uiowa.edu](https://events.uiowa.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Free Speech at Iowa | The University of Iowa
+ - [https://freespeech.uiowa.edu](https://freespeech.uiowa.edu)
+ - date_published: 2024-06-24T23:12:18+00:00
+
+ ## Graduate Admissions | The University of Iowa
+ - [https://grad.admissions.uiowa.edu](https://grad.admissions.uiowa.edu)
+ - date_published: 2024-06-27T20:03:43+00:00
+
+ ## Homecoming | The University of Iowa
+ - [https://homecoming.uiowa.edu](https://homecoming.uiowa.edu)
+ - date_published: 2024-10-28T02:03:52+00:00
+
+ ## Index of /
+ - [http://homepage.divms.uiowa.edu](http://homepage.divms.uiowa.edu)
+ - date_published: 2024-06-23T20:20:35.063395+00:00
+
+ ## Index of /
+ - [https://homepage.math.uiowa.edu](https://homepage.math.uiowa.edu)
+ - date_published: 2024-06-17T03:14:06.021919+00:00
+
+ ## University of Iowa HawkID Login
+ - [https://hris.uiowa.edu](https://hris.uiowa.edu)
+ - date_published: 2024-05-07T21:15:40.272963+00:00
+
+ ## University Human Resources | The University of Iowa
+ - [https://hr.uiowa.edu](https://hr.uiowa.edu)
+ - date_published: 2024-07-01T22:05:37+00:00
+
+ ## ICON
+ - [https://icon.uiowa.edu](https://icon.uiowa.edu)
+ - date_published: 2024-07-02T02:50:57.913890+00:00
+
+ ## The Larned A. Waterman Iowa Nonprofit Resource Center | Striving to help Iowa’s charitable nonprofit organizations become more effective in building their communities.
+ - [http://inrc.law.uiowa.edu](http://inrc.law.uiowa.edu)
+ - date_published: 2024-07-15T01:40:40+00:00
+
+ ## Instructional Resources and Lecture Demonstrations | Department of Physics & Astronomy | College of Liberal Arts & Sciences | The University of Iowa
+ - [https://instructional-resources.physics.uiowa.edu](https://instructional-resources.physics.uiowa.edu)
+ - date_published: 2024-07-02T02:53:39+00:00
+
+ ## College of Dentistry and Dental Clinics IntraDent | A Tradition of Excellence Since 1882
+ - [https://intradent.dentistry.uiowa.edu](https://intradent.dentistry.uiowa.edu)
+ - date_published: 2024-07-02T01:14:37+00:00
+
+ ## Information Technology Services | Connecting Campus
+ - [https://its.uiowa.edu](https://its.uiowa.edu)
+ - date_published: 2024-07-02T02:05:38+00:00
+
+ ## Jobs @ Uiowa
+ - [https://jobs.uiowa.edu](https://jobs.uiowa.edu)
+ - date_published: 2024-05-07T21:15:52.716987+00:00
+
+ ## School of Journalism and Mass Communication | College of Liberal Arts and Sciences | The University of Iowa
+ - [https://journalism.uiowa.edu](https://journalism.uiowa.edu)
+ - date_published: 2024-07-16T18:22:34+00:00
+
+ ## The University of Iowa - College of Law
+ - [https://law.uiowa.edu](https://law.uiowa.edu)
+ - date_published: 2024-10-18T22:21:14.375335+00:00
+
+ ## University of Iowa
+ - [https://maps.uiowa.edu](https://maps.uiowa.edu)
+ - date_published: 2024-07-02T02:50:55.939386+00:00
+
+ ## Carver College of Medicine
+ - [https://medicine.uiowa.edu](https://medicine.uiowa.edu)
+ - date_published: 2024-05-07T21:15:54.496687+00:00
+
+ ## Yannick Meurice | The University of Iowa
+ - [https://meurice.sites.uiowa.edu](https://meurice.sites.uiowa.edu)
+ - date_published: 2024-02-08T17:59:53.820467+00:00
+
+ ## Home - MyUI
+ - [https://myui.uiowa.edu](https://myui.uiowa.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Native American Council | The University of Iowa
+ - [https://nativeamericancouncil.org.uiowa.edu](https://nativeamericancouncil.org.uiowa.edu)
+ - date_published: 2024-05-07T21:15:22.740154+00:00
+
+ ## Iowa Now | The University of Iowa
+ - [https://now.uiowa.edu](https://now.uiowa.edu)
+ - date_published: 2023-11-19T05:08:59.202397+00:00
+
+ ## Sign In
+ - [https://office365.uiowa.edu](https://office365.uiowa.edu)
+ - date_published: 2024-05-07T21:15:34.590089+00:00
+
+ ## Policy Manual |
+ - [https://opsmanual.uiowa.edu](https://opsmanual.uiowa.edu)
+ - date_published: 2024-05-07T21:15:19.104730+00:00
+
+ ## Office of Strategic Communication | The University of Iowa
+ - [https://osc.uiowa.edu](https://osc.uiowa.edu)
+ - date_published: 2024-05-07T21:15:28.143264+00:00
+
+ ## Exan DoctorAccess
+ - [https://patientaccess.dentistry.uiowa.edu](https://patientaccess.dentistry.uiowa.edu)
+ - date_published: 2024-07-02T02:53:54.180310+00:00
+
+ ## Physics and Astronomy | College of Liberal Arts and Sciences | The University of Iowa
+ - [https://physics.uiowa.edu](https://physics.uiowa.edu)
+ - date_published: 2024-05-07T21:15:21.211087+00:00
+
+ ## University of Iowa Libraries Publishing
+ - [https://pubs.lib.uiowa.edu](https://pubs.lib.uiowa.edu)
+ - date_published: 2024-08-11T22:23:11.256498+00:00
+
+ ## Office of the Registrar |
+ - [https://registrar.uiowa.edu](https://registrar.uiowa.edu)
+ - date_published: 2024-07-02T02:30:46+00:00
+
+ ## CLAS Resource Site | The University of Iowa
+ - [https://resource.clas.uiowa.edu](https://resource.clas.uiowa.edu)
+ - date_published: 2024-07-02T02:45:42+00:00
+
+ ## Search | The University of Iowa | The University of Iowa
+ - [https://search.uiowa.edu](https://search.uiowa.edu)
+ - date_published: 2024-10-15T17:35:14+00:00
+
+ ## SiteNow | The University of Iowa
+ - [https://sitenow.uiowa.edu](https://sitenow.uiowa.edu)
+ - date_published: 2024-07-01T00:16:48+00:00
+
+ ## This is UIowa
+ - [https://stories.uiowa.edu](https://stories.uiowa.edu)
+ - date_published: 2024-07-02T02:12:00+00:00
+
+ ## CLAS Strategic Plan | College of Liberal Arts and Sciences | The University of Iowa
+ - [https://strategicplan.clas.uiowa.edu](https://strategicplan.clas.uiowa.edu)
+ - date_published: 2024-07-01T16:00:06+00:00
+
+ ## Student Health | Division of Student Life | The University of Iowa
+ - [https://studenthealth.uiowa.edu](https://studenthealth.uiowa.edu)
+ - date_published: 2024-06-28T05:07:53+00:00
+
+ ## University Billing Office |
+ - [https://ubill.fo.uiowa.edu](https://ubill.fo.uiowa.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## The University of Iowa | The University of Iowa
+ - [https://uiowa.edu](https://uiowa.edu)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## uisps.org.uiowa.edu | The University of Iowa
+ - [https://uisps.org.uiowa.edu](https://uisps.org.uiowa.edu)
+ - date_published: 2024-07-01T14:59:30+00:00
+
+ ## University of Iowa HawkID Login
+ - [https://workflow.uiowa.edu](https://workflow.uiowa.edu)
+ - date_published: 2024-07-02T02:53:14.334171+00:00
+
+ ## Applied Mathematical & Computational Sciences | Graduate College | The University of Iowa
+ - [http://www.amcs.uiowa.edu](http://www.amcs.uiowa.edu)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Computer Science | College of Liberal Arts and Sciences | The University of Iowa
+ - [http://www.cs.uiowa.edu](http://www.cs.uiowa.edu)
+ - date_published: 2024-08-18T18:08:36+00:00
+
+ ## Facilities Management | The University of Iowa
+ - [https://www.facilities.uiowa.edu](https://www.facilities.uiowa.edu)
+ - date_published: 2024-07-01T22:59:41+00:00
+
+ ## Graduate College | The University of Iowa
+ - [https://www.grad.uiowa.edu](https://www.grad.uiowa.edu)
+ - date_published: 2024-07-02T02:08:43+00:00
+
+ ## University Libraries | The University of Iowa
+ - [https://www.lib.uiowa.edu](https://www.lib.uiowa.edu)
+ - date_published: 2024-07-02T02:50:54.208911+00:00
+
+ ## Mathematics | College of Liberal Arts and Sciences | The University of Iowa
+ - [http://www.math.uiowa.edu](http://www.math.uiowa.edu)
+ - date_published: 2024-10-16T06:26:39+00:00
+
+ ## University of Iowa HawkID Login
+ - [https://www.maui.uiowa.edu](https://www.maui.uiowa.edu)
+ - date_published: 2024-07-02T02:51:28.225747+00:00
+
+ ## UIowa Radio and Plasma Wave Group
+ - [http://www-pw.physics.uiowa.edu](http://www-pw.physics.uiowa.edu)
+ - date_published: 2024-10-21T05:11:21.062136+00:00
+
+ ## Statistics and Actuarial Science | College of Liberal Arts and Sciences | The University of Iowa
+ - [http://www.stat.uiowa.edu](http://www.stat.uiowa.edu)
+ - date_published: 2024-10-16T06:27:10+00:00
+
+ ## Admission & Aid | University of Illinois Springfield
+ - [https://apply.uis.edu](https://apply.uis.edu)
+ - date_published: 2024-07-02T01:30:00+00:00
+
+ ## University of Illinois Springfield - UIS Login Service
+ - [https://apps.uis.edu](https://apps.uis.edu)
+ - date_published: 2024-07-02T02:49:51.912122+00:00
+
+ ## Continuing & Professional Education | University of Illinois Springfield
+ - [https://cape.uis.edu](https://cape.uis.edu)
+ - date_published: 2024-07-01T22:56:01+00:00
+
+ ## Webtools
+ - [https://forms.uofi.uis.edu](https://forms.uofi.uis.edu)
+ - date_published: 2023-12-05T19:47:55+00:00
+
+ ## Make Your Gift – University of Illinois at Springfield
+ - [https://giving.uis.edu](https://giving.uis.edu)
+ - date_published: 2024-07-02T02:50:19.031779+00:00
+
+ ## Webtools | Short URLs
+ - [https://go.uis.edu](https://go.uis.edu)
+ - date_published: 2019-05-08T16:06:02+00:00
+
+ ## System Login |  University of Illinois System
+ - [http://icardwallet.uis.edu](http://icardwallet.uis.edu)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Career Opportunities at UIS | University of Illinois Springfield
+ - [https://jobs.uis.edu](https://jobs.uis.edu)
+ - date_published: 2024-07-02T01:36:08+00:00
+
  ## Brookens Library | University of Illinois Springfield
  - [https://library.uis.edu](https://library.uis.edu)
  - date_published: 2024-07-02T01:36:43+00:00
@@ -3625,385 +4005,4 @@ Center for Information Technology Integration
  ## The Women's Center | The Women's Center
  - [http://womenscenter.umn.edu](http://womenscenter.umn.edu)
  - date_published: 2024-07-10T15:46:24+00:00
-
- ## Homepage | University of Minnesota Crookston
- - [http://www1.crk.umn.edu](http://www1.crk.umn.edu)
- - date_published: 2024-07-02T03:55:19+00:00
-
- ## University of Minnesota Twin Cities
- - [http://www1.umn.edu](http://www1.umn.edu)
- - date_published: 2024-07-01T15:25:12+00:00
-
- ## University of Minnesota Morris
- - [https://www4.morris.umn.edu](https://www4.morris.umn.edu)
- - date_published: 2024-05-11T07:55:15.375707+00:00
-
- ## Home
- - [http://www.cbi.umn.edu](http://www.cbi.umn.edu)
- - date_published: 2024-10-29T18:44:51+00:00
-
- ## Home
- - [http://www.cege.umn.edu](http://www.cege.umn.edu)
- - date_published: 2024-12-12T04:11:35+00:00
-
- ## Home - UMN Libraries News & Events
- - [https://www.continuum.umn.edu](https://www.continuum.umn.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Home
- - [http://www.cs.umn.edu](http://www.cs.umn.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Search UMN Twin Cities | Search UMN
- - [http://www.directory.umn.edu](http://www.directory.umn.edu)
- - date_published: 2024-06-12T14:07:18+00:00
-
- ## College of Science & Engineering
- - [https://www.dtc.umn.edu](https://www.dtc.umn.edu)
- - date_published: 2024-05-11T07:08:34.033624+00:00
-
- ## Home
- - [https://www.esci.umn.edu](https://www.esci.umn.edu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Home
- - [http://www.ftpi.umn.edu](http://www.ftpi.umn.edu)
- - date_published: 2024-06-29T11:49:33+00:00
-
- ## Hubert H. Humphrey School of Public Affairs | Hubert H. Humphrey School of Public Affairs
- - [https://www.hhh.umn.edu](https://www.hhh.umn.edu)
- - date_published: 2024-07-02T21:10:22+00:00
-
- ## Home
- - [http://www.ima.umn.edu](http://www.ima.umn.edu)
- - date_published: 2024-06-29T11:27:53+00:00
-
- ## Home | University of Minnesota Law School
- - [http://www.law.umn.edu](http://www.law.umn.edu)
- - date_published: 2024-06-15T22:48:03+00:00
-
- ## Finding Solutions to Minnesota’s Aquatic Invasive Species Problems | Minnesota Aquatic Invasive Species Research Center (MAISRC)
- - [https://www.maisrc.umn.edu](https://www.maisrc.umn.edu)
- - date_published: 2024-07-03T17:08:07+00:00
-
- ## ECE
- - [http://www-mount.ece.umn.edu](http://www-mount.ece.umn.edu)
- - date_published: 2007-12-05T21:32:51+00:00
-
- ## Home | Minnesota Supercomputing Institute
- - [http://www.msi.umn.edu](http://www.msi.umn.edu)
- - date_published: 2024-07-01T13:20:21+00:00
-
- ## Northrop Inspires
- - [https://www.northrop.umn.edu](https://www.northrop.umn.edu)
- - date_published: 2024-07-05T19:48:43+00:00
-
- ## Department of Pediatrics
- - [https://www.pediatrics.umn.edu](https://www.pediatrics.umn.edu)
- - date_published: 2024-06-27T00:15:46+00:00
-
- ## Homepage
- - [https://www.pharmacy.umn.edu](https://www.pharmacy.umn.edu)
- - date_published: 2024-07-12T18:21:35+00:00
-
- ## Introduction | Scientific Computing
- - [http://www.scicomp.umn.edu](http://www.scicomp.umn.edu)
- - date_published: 2024-06-12T14:32:53+00:00
-
- ## Department of Sociology
- - [http://www.soc.umn.edu](http://www.soc.umn.edu)
- - date_published: 2024-09-09T22:11:37+00:00
-
- ## Index of /
- - [http://www-users.cselabs.umn.edu](http://www-users.cselabs.umn.edu)
- - date_published: 2024-07-15T07:09:15.269350+00:00
-
- ## Index of /
- - [https://www-users.cse.umn.edu](https://www-users.cse.umn.edu)
- - date_published: 2023-08-16T00:00:00+00:00
-
- ## Index of /
- - [https://www-users.cs.umn.edu](https://www-users.cs.umn.edu)
- - date_published: 2023-08-16T00:00:00+00:00
-
- ## Index of /
- - [http://www-users.math.umn.edu](http://www-users.math.umn.edu)
- - date_published: 2023-08-16T00:00:00+00:00
-
- ## Z
- - [https://z.umn.edu](https://z.umn.edu)
- - date_published: 2024-05-07T21:32:12.111832+00:00
-
- ## University of Maine at Presque Isle
- - [https://www.umpi.edu](https://www.umpi.edu)
- - date_published: 2024-07-02T03:47:49.244563+00:00
-
- ## Index Page
- - [https://access.myview.umsl.edu](https://access.myview.umsl.edu)
- - date_published: 2023-10-19T17:59:57+00:00
-
- ## Applications | UMSL
- - [https://apply.umsl.edu](https://apply.umsl.edu)
- - date_published: 2024-11-21T21:50:57+00:00
-
- ## UMSL Blogs
- - [https://blogs.umsl.edu](https://blogs.umsl.edu)
- - date_published: 2024-10-16T05:00:23.895793+00:00
-
- ## Events Calendar
- - [https://calendar.umsl.edu](https://calendar.umsl.edu)
- - date_published: 2024-10-16T05:01:27.734119+00:00
-
- ## UMSL Community Connect
- - [https://community.umsl.edu](https://community.umsl.edu)
- - date_published: 2024-10-16T04:00:41+00:00
-
- ## Attention Required! | Cloudflare
- - [https://giving.umsl.edu](https://giving.umsl.edu)
- - date_published: 2024-10-16T05:01:30.331591+00:00
-
- ## Sign in to your account
- - [https://myview.umsl.edu](https://myview.umsl.edu)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## University of Missouri–St. Louis
- - [https://www.umsl.edu](https://www.umsl.edu)
- - date_published: 2024-06-13T14:07:16+00:00
-
- ## One canvas - Missouri Online | Office of eLearning | UM System
- - [https://canvas.umsystem.edu](https://canvas.umsystem.edu)
- - date_published: 2024-01-24T23:29:29+00:00
-
- ## eResources | lso.umsystem.edu
- - [http://lso.umsystem.edu](http://lso.umsystem.edu)
- - date_published: 2024-08-20T04:50:02+00:00
-
- ## MOspace Home
- - [https://mospace.umsystem.edu](https://mospace.umsystem.edu)
- - date_published: 2024-05-23T21:58:47.088507+00:00
-
- ## Sign in to your account
- - [https://myhr.umsystem.edu](https://myhr.umsystem.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Welcome | NextGen Precision Health
- - [https://precisionhealth.umsystem.edu](https://precisionhealth.umsystem.edu)
- - date_published: 2024-06-28T21:23:47+00:00
-
- ## Sign in to your account
- - [https://umkc.umsystem.edu](https://umkc.umsystem.edu)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## University of Missouri System
- - [https://umsystem.edu](https://umsystem.edu)
- - date_published: 2024-05-07T19:32:14.949908+00:00
-
- ## UM Web Applications
- - [https://webapps.umsystem.edu](https://webapps.umsystem.edu)
- - date_published: 2024-07-01T14:56:51.428973+00:00
-
- ## Admissions
- - [https://apply.umt.edu](https://apply.umt.edu)
- - date_published: 2024-07-07T10:43:16.674525+00:00
-
- ## Events
- - [https://grizhub-events.apps.umt.edu](https://grizhub-events.apps.umt.edu)
- - date_published: 2024-07-07T10:43:05.454726+00:00
-
- ## Images
- - [https://images.apps.umt.edu](https://images.apps.umt.edu)
- - date_published: 2024-07-07T10:43:07.302111+00:00
-
- ## Map - University of Montana
- - [http://map.umt.edu](http://map.umt.edu)
- - date_published: 2024-07-07T10:43:19.045376+00:00
-
- ## University of Montana | Public Flagship in Missoula
- - [https://umt.edu](https://umt.edu)
- - date_published: 2024-05-08T10:33:27.321299+00:00
-
- ## University of Mary Washington
- - [http://umw.edu](http://umw.edu)
- - date_published: 2024-07-04T09:43:36.836762+00:00
-
- ## Undergraduate Admissions
- - [https://admissions.unc.edu](https://admissions.unc.edu)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Adobe Creative Cloud - Software Distribution -
- - [https://adobe.unc.edu](https://adobe.unc.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home - UNC Advising
- - [https://advising.unc.edu](https://advising.unc.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Home - African Studies Center
- - [https://africa.unc.edu](https://africa.unc.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Alert Carolina – UNC-Chapel Hill
- - [https://alertcarolina.unc.edu](https://alertcarolina.unc.edu)
- - date_published: 2024-05-07T21:38:30.980249+00:00
-
- ## Carolina Alumni
- - [https://alumni.unc.edu](https://alumni.unc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## American Diplomacy Est 1996
- - [https://americandiplomacy.web.unc.edu](https://americandiplomacy.web.unc.edu)
- - date_published: 2024-07-03T17:15:56.132058+00:00
-
- ## Sign in - Matomo
- - [https://analytics.lib.unc.edu](https://analytics.lib.unc.edu)
- - date_published: 2024-06-24T10:35:29.043627+00:00
-
- ## Home - Finance and Operations
- - [https://apps.fo.unc.edu](https://apps.fo.unc.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Applied Physical Sciences
- - [https://aps.unc.edu](https://aps.unc.edu)
- - date_published: 2024-07-01T02:54:12.972296+00:00
-
- ## Area Studies
- - [https://areastudies.unc.edu](https://areastudies.unc.edu)
- - date_published: 2024-07-02T04:33:45.419658+00:00
-
- ## Homepage - Asian and Middle Eastern Studies
- - [https://asianstudies.unc.edu](https://asianstudies.unc.edu)
- - date_published: 2024-07-02T04:33:42.108707+00:00
-
- ## Home - Auxiliary Services
- - [https://aux-services.unc.edu](https://aux-services.unc.edu)
- - date_published: 2024-07-02T04:22:23.901206+00:00
-
- ## Board of Trustees - Board of Trustees
- - [https://bot.unc.edu](https://bot.unc.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## LibCal -
-        University of North Carolina Chapel Hill
- - [https://calendar.lib.unc.edu](https://calendar.lib.unc.edu)
- - date_published: 2024-06-24T10:35:21.392892+00:00
-
- ## Events Calendar
- - [https://calendar.unc.edu](https://calendar.unc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## UNC Campus Recreation
- - [https://campusrec.unc.edu](https://campusrec.unc.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home - Campus Safety
- - [https://campussafety.unc.edu](https://campussafety.unc.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Mental Health Resources and Support at UNC
- - [https://care.unc.edu](https://care.unc.edu)
- - date_published: 2024-07-02T04:26:04.109062+00:00
-
- ## Home - Carolina Asia Center
- - [https://carolinaasiacenter.unc.edu](https://carolinaasiacenter.unc.edu)
- - date_published: 2024-07-02T04:20:44.553896+00:00
-
- ## Home - Carolina Next
- - [https://carolinanext.unc.edu](https://carolinanext.unc.edu)
- - date_published: 2024-05-07T21:39:18.369412+00:00
-
- ## Carolina Together - The University of North Carolina at Chapel Hill
- - [https://carolinatogether.unc.edu](https://carolinatogether.unc.edu)
- - date_published: 2024-07-02T04:20:37.818303+00:00
-
- ## Carolina Union
- - [https://carolinaunion.unc.edu](https://carolinaunion.unc.edu)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## College of Arts and Sciences Business Operations
- - [https://casbo.unc.edu](https://casbo.unc.edu)
- - date_published: 2024-07-02T04:20:56.595751+00:00
-
- ## UNC-Chapel Hill Libraries Catalog
- - [https://catalog.lib.unc.edu](https://catalog.lib.unc.edu)
- - date_published: 2024-06-24T10:35:15.341785+00:00
-
- ## The University of North Carolina at Chapel Hill Catalog < University of North Carolina at Chapel Hill
- - [https://catalog.unc.edu](https://catalog.unc.edu)
- - date_published: 2024-06-25T18:55:16+00:00
-
- ## Home - Carolina Center for Public Service
- - [https://ccps.unc.edu](https://ccps.unc.edu)
- - date_published: 2024-07-02T04:31:34.986290+00:00
-
- ## Welcome to cambdridge.lib.unc.edu
- - [https://cdn.lib.unc.edu](https://cdn.lib.unc.edu)
- - date_published: 2016-06-27T13:41:46+00:00
-
- ## Home - Chancellor's Science Scholars
- - [https://chancellorssciencescholars.unc.edu](https://chancellorssciencescholars.unc.edu)
- - date_published: 2024-07-02T04:20:32.524420+00:00
-
- ## UNC-Chapel Hill Chancellor
- - [https://chancellor.unc.edu](https://chancellor.unc.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home - The Center for Information, Technology, and Public Life (CITAP)
- - [https://citap.unc.edu](https://citap.unc.edu)
- - date_published: 2023-12-18T00:00:00+00:00
-
- ## Home - North Carolina Collaboratory
- - [https://collaboratory.unc.edu](https://collaboratory.unc.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## College of Arts and Sciences News Archive – Just another CASDev Sites site
- - [https://collegearchive.unc.edu](https://collegearchive.unc.edu)
- - date_published: 2019-12-20T00:00:00+00:00
-
- ## Home - College of Arts and Sciences
- - [https://college.unc.edu](https://college.unc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## UNC-Chapel Hill Commencement
- - [http://commencement.unc.edu](http://commencement.unc.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Connect Carolina
- - [https://connectcarolina.sites.unc.edu](https://connectcarolina.sites.unc.edu)
- - date_published: 2024-07-02T04:33:33.316336+00:00
-
- ## Connect Carolina
- - [https://connectcarolina.unc.edu](https://connectcarolina.unc.edu)
- - date_published: 2024-05-07T21:39:00.075708+00:00
-
- ## Institute for Convergent Science
- - [https://convergent.unc.edu](https://convergent.unc.edu)
- - date_published: 2024-07-02T04:20:34.977162+00:00
-
- ## The Center for Slavic, Eurasian and East European Studies
- - [https://cseees.unc.edu](https://cseees.unc.edu)
- - date_published: 2024-07-02T04:20:43.573279+00:00
-
- ## Department of Computer Science - Computer Science
- - [https://cs.unc.edu](https://cs.unc.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## The Office Of Undergraduate Curricula
- - [https://curricula.unc.edu](https://curricula.unc.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Data Governance at UNC
- - [https://datagov.unc.edu](https://datagov.unc.edu)
- - date_published: 2024-07-02T04:33:28.022733+00:00
-
- ## Research and Support
- - [https://dc.lib.unc.edu](https://dc.lib.unc.edu)
- - date_published: 2024-10-18T16:13:38.720181+00:00
-
- ## UNC-Chapel Hill Single Sign-On
- - [https://devnet.unc.edu](https://devnet.unc.edu)
- - date_published: 2024-07-02T04:25:14.758122+00:00
-
- ## Digital Accessibility Office
- - [https://digitalaccessibility.unc.edu](https://digitalaccessibility.unc.edu)
- - date_published: 2024-06-24T10:35:25.051596+00:00
 

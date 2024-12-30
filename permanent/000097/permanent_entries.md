@@ -1,3 +1,122 @@
+ ## /dev/nonsense
+ - [https://devnonsense.com](https://devnonsense.com)
+ - date_published: 2023-10-25T13:51:05.256311+00:00
+
+ ## GoatCounter
+ - [https://karma.devnonsense.com](https://karma.devnonsense.com)
+ - date_published: 2024-05-01T04:49:26.373365+00:00
+
+ ## Dev Notes
+ - [https://www.devnotesdaily.com](https://www.devnotesdaily.com)
+ - date_published: 2024-11-23T01:49:59+00:00
+
+ ## Devographics
+ - [http://devographics.com](http://devographics.com)
+ - date_published: 2024-08-11T08:40:11.702337+00:00
+
+ ## Devographics Surveys
+ - [https://survey.devographics.com](https://survey.devographics.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Devolutions Portal
+ - [https://portal.devolutions.com](https://portal.devolutions.com)
+ - date_published: 2024-05-07T18:10:46+00:00
+
+ ## Devolutions Send - End to End encrypted password share
+ - [http://send.devolutions.com](http://send.devolutions.com)
+ - date_published: 2024-06-13T19:08:05+00:00
+
+ ## Devolver Digital
+ - [https://devolverdigital.com](https://devolverdigital.com)
+ - date_published: 2024-06-18T06:00:34.787966+00:00
+ - tags: ['video game developer']
+
+ ## The Devolver Digital Forkcast
+ - [https://forkcast.devolverdigital.com](https://forkcast.devolverdigital.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Devolver Digital - Influencers Hub
+ - [https://influencers.devolverdigital.com](https://influencers.devolverdigital.com)
+ - date_published: 2024-06-21T13:13:47.843061+00:00
+
+ ## Home
+ - [https://investors.devolverdigital.com](https://investors.devolverdigital.com)
+ - date_published: 2024-06-21T13:13:46.669594+00:00
+
+ ## Devolver Digital
+ - [https://legal.devolverdigital.com](https://legal.devolverdigital.com)
+ - date_published: 2024-06-21T13:13:59.107909+00:00
+
+ ## Devolver Digital Official Merchandise Store
+ - [https://merch.devolverdigital.com](https://merch.devolverdigital.com)
+ - date_published: 2024-06-21T13:14:05.075341+00:00
+
+ ## Devolver Digital - Game Pitch Submission
+ - [https://pitch.devolverdigital.com](https://pitch.devolverdigital.com)
+ - date_published: 2024-06-21T13:13:44.824476+00:00
+
+ ## Devolver Direct 2024: Volvy's 15th Birthday Party
+ - [https://devolverdirect.com](https://devolverdirect.com)
+ - date_published: 2024-06-21T13:14:02.590205+00:00
+ - tags: ['convention']
+
+ ## Boutique DEVOME
+ - [https://boutique.devome.com](https://boutique.devome.com)
+ - date_published: 2024-10-31T06:04:25.129063+00:00
+
+ ## DEVOME
+ - [https://grr.devome.com](https://grr.devome.com)
+ - date_published: 2024-06-19T22:35:22+00:00
+
+ ## Devon Dundee
+ - [https://devondundee.com](https://devondundee.com)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Home - DE Digital
+ - [https://www.devoneddydigital.com](https://www.devoneddydigital.com)
+ - date_published: 2022-04-03T00:00:00+00:00
+
+ ## 500
+ - [https://i2-prod.devonlive.com](https://i2-prod.devonlive.com)
+ - date_published: 2024-05-02T11:22:16.005893+00:00
+
+ ## Devon Live - Latest local news, sport & business from Devon
+ - [https://www.devonlive.com](https://www.devonlive.com)
+ - date_published: 2024-09-03T23:18:15.917538+00:00
+
+ ## Devon Rowland Photography
+ - [https://gallery.devonrowland.com](https://gallery.devonrowland.com)
+ - date_published: 2024-09-16T07:36:24.881024+00:00
+
+ ## Sequence Structure Function | Devon Stork | Substack
+ - [https://www.devonstork.com](https://www.devonstork.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## DEVONtechnologies | Home
+ - [http://www.devon-technologies.com](http://www.devon-technologies.com)
+ - date_published: 2024-07-07T06:36:25.381550+00:00
+
+ ## DEVONtechnologies | Home
+ - [https://www.devontechnologies.com](https://www.devontechnologies.com)
+ - date_published: 2024-10-14T15:54:36.304133+00:00
+
+ ## Dev On Track!
+ - [https://blog.devontrack.com](https://blog.devontrack.com)
+ - date_published: 2024-05-24T02:37:01+00:00
+ - tags: ['personal']
+
+ ## Devon's  clippings
+ - [https://clippings.devonzuegel.com](https://clippings.devonzuegel.com)
+ - date_published: 2024-09-15T13:57:26.709567+00:00
+
+ ## devonzuegel.com
+ - [https://devonzuegel.com](https://devonzuegel.com)
+ - date_published: 2023-10-25T13:51:08.835756+00:00
+
+ ## DEV-OPENCART.COM - Дополнения и шаблоны для CMS Opencart всех версий!
+ - [https://dev-opencart.com](https://dev-opencart.com)
+ - date_published: 2024-07-08T19:11:48.544777+00:00
+
  ## Devopix
  - [https://devopix.com](https://devopix.com)
  - date_published: 2024-07-23T23:42:56.493861+00:00
@@ -3925,121 +4044,4 @@ A blog about programming, distributed systems and others
  ## Dirty Shirley Cocktails
  - [https://dirtyshirley.com](https://dirtyshirley.com)
  - date_published: 2024-06-15T19:55:21.385489+00:00
-
- ## Dirty South Radio Online @dirtysouthradio | Dirty South Radio Online @dirtysouthradio
- - [https://dirtysouthradioonline.com](https://dirtysouthradioonline.com)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## สล็อตเว็บตรง วอเลท ไม่มีขั้นต่ำ เว็บตรง อันดับ 1 เว็บสล็อต แตกง่ายที่สุด
- - [https://dirtyunicorns.com](https://dirtyunicorns.com)
- - date_published: 2024-10-27T07:45:06.809703+00:00
-
- ## DirtyWarez
- - [https://forum.dirtywarez.com](https://forum.dirtywarez.com)
- - date_published: 2024-11-07T09:23:58+00:00
- - tags: ['piracy']
-
- ## Disability Driving Instructors | Find a specialist driving instructor
- - [https://www.disabilitydrivinginstructors.com](https://www.disabilitydrivinginstructors.com)
- - date_published: 2024-05-02T12:10:03.492577+00:00
-
- ## New Home | Disability Horizons
- - [http://disabilityhorizons.com](http://disabilityhorizons.com)
- - date_published: 2024-12-27T21:05:08.921885+00:00
-
- ## Home
- - [https://www.disabilityinnovation.com](https://www.disabilityinnovation.com)
- - date_published: 2024-10-20T22:27:57.154978+00:00
-
- ## North Carolina Personal Injury Attorney | The Bishop Law Firm
- - [https://www.disabilitylawfirmnc.com](https://www.disabilitylawfirmnc.com)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Disability News Service
- - [https://www.disabilitynewsservice.com](https://www.disabilitynewsservice.com)
- - date_published: 2024-10-21T15:14:28.738314+00:00
-
- ## home-new - Shaw Trust Disability Power 100
- - [https://disabilitypower100.com](https://disabilitypower100.com)
- - date_published: 2023-06-29T14:27:19+00:00
-
- ## Join - Disability Scoop
- - [https://account.disabilityscoop.com](https://account.disabilityscoop.com)
- - date_published: 2024-10-20T09:05:49.754832+00:00
-
- ## Disability Scoop Jobs - Careers for Disability Professionals
- - [https://jobs.disabilityscoop.com](https://jobs.disabilityscoop.com)
- - date_published: 2024-10-20T09:05:50.717064+00:00
-
- ## Disability Scoop - The Premier Source for Developmental Disability News
- - [https://www.disabilityscoop.com](https://www.disabilityscoop.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Disability Visibility Project
- - [https://disabilityvisibilityproject.com](https://disabilityvisibilityproject.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Disabled World - Disability News and Information
- - [https://www.disabled-world.com](https://www.disabled-world.com)
- - date_published: 2024-08-05T17:52:25.798335+00:00
-
- ## Disappearing Moment
- - [https://disappearingmoment.com](https://disappearingmoment.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Disarme Grafico
- - [https://disarmegrafico.com](https://disarmegrafico.com)
- - date_published: 2024-05-10T02:48:50.110651+00:00
-
- ## Disarm Russia
- - [https://disarmrussia.com](https://disarmrussia.com)
- - date_published: 2024-04-03T20:35:42+00:00
-
- ## Add new Australian volcanic activity to the list of worries…
- - [https://disassociated.com](https://disassociated.com)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Disaster Avoidance Experts | Dr. Gleb Tsipursky
- - [https://disasteravoidanceexperts.com](https://disasteravoidanceexperts.com)
- - date_published: 2017-05-05T08:38:55+00:00
-
- ## Disasterpeace
- - [http://disasterpeace.com](http://disasterpeace.com)
- - date_published: 2024-01-28T14:06:47+00:00
-
- ## Standstill, by Disasterpeace
- - [https://music.disasterpeace.com](https://music.disasterpeace.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Disaster Relief Trials
- - [https://disasterrelieftrials.com](https://disasterrelieftrials.com)
- - date_published: 2024-09-15T10:30:44.997325+00:00
-
- ## Discord Servers | Discord Server List
- - [https://discadia.com](https://discadia.com)
- - date_published: 2024-06-17T08:20:18+00:00
-
- ## Discardia
- - [http://www.discardia.com](http://www.discardia.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Discard Studies
- - [https://discardstudies.com](https://discardstudies.com)
- - date_published: 2024-06-28T16:18:03.597226+00:00
-
- ## Discerning Cyclist: Find the Best Urban Cycling Clothing
- - [https://discerningcyclist.com](https://discerningcyclist.com)
- - date_published: 2024-05-09T06:23:17.887840+00:00
-
- ## Discerning Cyclist
- - [https://go.discerningcyclist.com](https://go.discerningcyclist.com)
- - date_published: 2024-07-09T19:55:14.871135+00:00
-
- ## Beautiful Cycling Art: Designs and Illustrations by Discerning Cyclist
- - [https://shop.discerningcyclist.com](https://shop.discerningcyclist.com)
- - date_published: 2024-07-09T19:55:12.101878+00:00
-
- ## Discerning Dad
- - [https://discerning-dad.com](https://discerning-dad.com)
- - date_published: 2024-07-04T18:08:56.347672+00:00
 

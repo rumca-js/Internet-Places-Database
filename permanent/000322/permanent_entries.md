@@ -1,3 +1,475 @@
+ ## Home Page
+ - [https://wwwtest.erg.cuhk.edu.hk](https://wwwtest.erg.cuhk.edu.hk)
+ - date_published: 2014-11-14T08:17:46+00:00
+
+ ## My JSP 'index.jsp' starting page
+ - [https://bus.hkbu.edu.hk](https://bus.hkbu.edu.hk)
+ - date_published: 2024-07-03T05:33:55.264676+00:00
+
+ ## Communication and Public Relations Office (CPRO) -  HKBU
+ - [http://cpro.hkbu.edu.hk](http://cpro.hkbu.edu.hk)
+ - date_published: 2024-10-14T23:13:49+00:00
+
+ ## Untitled Document
+ - [http://curs.hkbu.edu.hk](http://curs.hkbu.edu.hk)
+ - date_published: 2023-09-20T08:20:40+00:00
+
+ ## Hong Kong Baptist University – HKBU
+ - [https://hkbu.edu.hk](https://hkbu.edu.hk)
+ - date_published: 2024-05-08T00:27:03.526201+00:00
+
+ ## Homepage | HKUST Connect
+ - [https://connect.hkust.edu.hk](https://connect.hkust.edu.hk)
+ - date_published: 2024-08-07T14:38:02+00:00
+
+ ## Department of Computer Science and Engineering - HKUST
+ - [https://cse.hkust.edu.hk](https://cse.hkust.edu.hk)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Home | The Robot Explorer Cup
+ - [https://elcp.hkust.edu.hk](https://elcp.hkust.edu.hk)
+ - date_published: 2024-08-07T14:36:17.863733+00:00
+
+ ## Faculty Profiles | The Hong Kong University of Science and Technology
+ - [https://facultyprofiles.hkust.edu.hk](https://facultyprofiles.hkust.edu.hk)
+ - date_published: 2024-08-07T14:37:00.754340+00:00
+
+ ## Home | The Hong Kong University of Science and Technology
+ - [https://hkust.edu.hk](https://hkust.edu.hk)
+ - date_published: 2024-06-22T10:21:37+00:00
+
+ ## Home | DIVISION OF HUMANITIES
+ - [https://huma.hkust.edu.hk](https://huma.hkust.edu.hk)
+ - date_published: 2024-08-07T14:37:40.998416+00:00
+
+ ## Home | HKUST Jockey Club Institute for Advanced Study
+ - [https://ias.hkust.edu.hk](https://ias.hkust.edu.hk)
+ - date_published: 2024-08-07T14:36:25.772448+00:00
+
+ ## Home | Division of Integrative Systems and Design
+ - [https://isd.hkust.edu.hk](https://isd.hkust.edu.hk)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Home | HKUST Undergraduate Admissions
+ - [https://join.hkust.edu.hk](https://join.hkust.edu.hk)
+ - date_published: 2024-08-07T14:37:24.876405+00:00
+
+ ## Home | The Hong Kong University of Science and Technology
+ - [https://marketing.mba.hkust.edu.hk](https://marketing.mba.hkust.edu.hk)
+ - date_published: 2024-06-20T14:28:04+00:00
+
+ ## Homepage | HKUST Department of Management
+ - [https://mgmt.hkust.edu.hk](https://mgmt.hkust.edu.hk)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## Home | HKUST PRAISE-HK
+ - [https://praise.hkust.edu.hk](https://praise.hkust.edu.hk)
+ - date_published: 2024-08-07T14:30:08.267169+00:00
+
+ ## Academic Registry | HKUST - Academic Registry
+ - [https://registry.hkust.edu.hk](https://registry.hkust.edu.hk)
+ - date_published: 2024-08-07T11:31:59+00:00
+
+ ## Home | South China Research Center
+ - [https://schina.hkust.edu.hk](https://schina.hkust.edu.hk)
+ - date_published: 2024-08-07T14:37:21.649635+00:00
+
+ ## HKUST ENGINEERING | HKUST School of Engineering
+ - [https://seng.hkust.edu.hk](https://seng.hkust.edu.hk)
+ - date_published: 2024-08-07T14:30:27.865526+00:00
+
+ ## Home | HKUST Shaw Auditorium
+ - [https://shaw-auditorium.hkust.edu.hk](https://shaw-auditorium.hkust.edu.hk)
+ - date_published: 2024-08-07T14:36:39.594541+00:00
+
+ ## Home | HKUST Strategic Plan
+ - [https://strategicplan.hkust.edu.hk](https://strategicplan.hkust.edu.hk)
+ - date_published: 2024-08-07T14:36:31.952021+00:00
+
+ ## Home | HKUST Underwater Robot Competition
+ - [https://uwrobot.hkust.edu.hk](https://uwrobot.hkust.edu.hk)
+ - date_published: 2024-08-07T14:29:40.668675+00:00
+
+ ## JUPAS
+ - [https://www.jupas.edu.hk](https://www.jupas.edu.hk)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Lingnan University – A research-focused liberal arts university in Hong Kong
+ - [https://www.ln.edu.hk](https://www.ln.edu.hk)
+ - date_published: 2024-06-17T18:18:42.785657+00:00
+
+ ## HKSH Ming Hua Theological College
+ - [http://www.minghua.edu.hk](http://www.minghua.edu.hk)
+ - date_published: 2024-06-28T21:19:35.262182+00:00
+
+ ## Welcom to COMP's Personal Webpage Server
+ - [https://asiaccs2021.comp.polyu.edu.hk](https://asiaccs2021.comp.polyu.edu.hk)
+ - date_published: 2016-11-28T04:13:02+00:00
+
+ ## Welcom to COMP's Personal Webpage Server
+ - [http://www4.comp.polyu.edu.hk](http://www4.comp.polyu.edu.hk)
+ - date_published: 2016-11-28T04:13:02+00:00
+
+ ## The Hong Kong Polytechnic University (PolyU)
+ - [https://www.polyu.edu.hk](https://www.polyu.edu.hk)
+ - date_published: 2024-07-01T22:48:08.223690+00:00
+
+ ## Home | Brand Hong Kong - Asia’s World City
+ - [https://www.brandhk.gov.hk](https://www.brandhk.gov.hk)
+ - date_published: 2024-09-12T08:06:36+00:00
+
+ ## Commerce and Economic Development Bureau
+ - [https://www.cedb.gov.hk](https://www.cedb.gov.hk)
+ - date_published: 2023-05-15T09:19:33+00:00
+
+ ## Food and Environmental Hygiene Department é£ç©ç°å¢è¡çç½²
+ - [https://www.cfs.gov.hk](https://www.cfs.gov.hk)
+ - date_published: 2018-01-19T07:54:44+00:00
+
+ ## Constitutional and Mainland Affairs Bureau  | æ¿å¶åå§å°äºåå±
+ - [https://www.cmab.gov.hk](https://www.cmab.gov.hk)
+ - date_published: 2023-01-13T03:12:28+00:00
+
+ ## Hong Kong e-Legislation
+ - [https://www.elegislation.gov.hk](https://www.elegislation.gov.hk)
+ - date_published: 2024-06-30T03:47:30.997654+00:00
+
+ ## 中华人民共和国外交部驻香港特别行政区特派员公署
+ - [http://www.fmcoprc.gov.hk](http://www.fmcoprc.gov.hk)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Government Logistics Department | 政府物流服務署
+ - [https://www.gld.gov.hk](https://www.gld.gov.hk)
+ - date_published: 2022-08-12T08:11:34+00:00
+
+ ## Hong Kong Economic and Trade Office, Berlin
+ - [https://www.hketoberlin.gov.hk](https://www.hketoberlin.gov.hk)
+ - date_published: 2024-07-14T05:27:33.032695+00:00
+
+ ## Hong Kong Monetary Authority
+ - [https://apidocs.hkma.gov.hk](https://apidocs.hkma.gov.hk)
+ - date_published: 2024-03-28T04:02:04+00:00
+
+ ## Hong Kong Monetary Authority - Register of Securities Staff of AIs
+ - [https://apps.hkma.gov.hk](https://apps.hkma.gov.hk)
+ - date_published: 2024-09-23T14:01:51+00:00
+
+ ## HKMA – DFSA Joint Climate Finance Conference
+ - [https://hkma-dfsa-climatefinanceconference.hkma.gov.hk](https://hkma-dfsa-climatefinanceconference.hkma.gov.hk)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Hong Kong Monetary Authority
+ - [https://vpr.hkma.gov.hk](https://vpr.hkma.gov.hk)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Hong Kong Monetary Authority
+ - [https://www.hkma.gov.hk](https://www.hkma.gov.hk)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## 香港政府資訊中心 | Government Information Centre
+ - [https://www.info.gov.hk](https://www.info.gov.hk)
+ - date_published: 2010-06-03T05:00:00+00:00
+
+ ## Home | InvestHK - Government Department of Foreign Direct Investment
+ - [https://investhk.gov.hk](https://investhk.gov.hk)
+ - date_published: 2024-09-24T16:09:49+00:00
+
+ ## OGCIO : 政府資訊科技總監辦公室
+ - [https://www.ogcio.gov.hk](https://www.ogcio.gov.hk)
+ - date_published: 2020-01-10T00:00:00+00:00
+
+ ## GovHK - one-stop portal of the Hong Kong SAR Government / 香港政府一站通
+ - [https://www.gov.hk](https://www.gov.hk)
+ - date_published: 2024-06-28T21:49:58.805784+00:00
+
+ ## 3DM游戏商城_Steam官方正版游戏
+ - [https://www.3dmgame.hk](https://www.3dmgame.hk)
+ - date_published: 2024-11-08T21:48:30.815989+00:00
+
+ ## Animaker，在雲端免費製作動畫影片
+ - [https://animaker.hk](https://animaker.hk)
+ - date_published: 2023-12-13T18:04:08+00:00
+
+ ## ΔRΔBICΔ HONG KONG
+ - [https://arabicacoffee.hk](https://arabicacoffee.hk)
+ - date_published: 2024-09-10T08:07:16.261531+00:00
+
+ ## 百度百科_全球領先的中文百科全書
+ - [https://baike.baidu.hk](https://baike.baidu.hk)
+ - date_published: 2024-06-29T03:17:04.705905+00:00
+
+ ## Barnebys: an online auction search engine for Art, Antiques & Collectibles!
+ - [https://www.barnebys.hk](https://www.barnebys.hk)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Rare Rugged Phones & Tablets & Smartphones  - Blackview
+ - [https://www.blackview.hk](https://www.blackview.hk)
+ - date_published: 2024-09-30T11:18:16.154332+00:00
+
+ ## 大腳看香港
+ - [http://boot.hk](http://boot.hk)
+ - date_published: 2024-09-03T21:01:02.765146+00:00
+
+ ## 主頁  | Business Wire
+ - [https://www.businesswire.hk](https://www.businesswire.hk)
+ - date_published: 2024-05-08T04:02:32.986609+00:00
+
+ ## Citroën Origins
+ - [http://www.citroenorigins.hk](http://www.citroenorigins.hk)
+ - date_published: 2024-07-04T07:39:27+00:00
+
+ ## Centre for Perceptual and Interactive Intelligence (CPII)
+ - [https://cpii.hk](https://cpii.hk)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Buy Domain and Hosting Packages for Your Website | CrazyDomains HK
+ - [https://www.crazydomains.hk](https://www.crazydomains.hk)
+ - date_published: 2024-12-25T10:52:22.833892+00:00
+
+ ## The Chinese University of Hong Kong
+ - [https://cuhk.hk](https://cuhk.hk)
+ - date_published: 2009-12-14T09:42:15+00:00
+
+ ## Hong Kong Cyberport Management Company Limited - Home
+ - [https://cyberport.hk](https://cyberport.hk)
+ - date_published: 2024-09-25T12:49:12.465090+00:00
+
+ ## Careers at Deliveroo - Discover a career full of possibility
+ - [https://careers.deliveroo.hk](https://careers.deliveroo.hk)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Deliveroo
+ - [https://deliveroo.hk](https://deliveroo.hk)
+ - date_published: 2024-10-11T14:46:02.112048+00:00
+
+ ## DigiKey Home
+ - [https://digikey.hk](https://digikey.hk)
+ - date_published: 2024-05-01T05:03:31.120175+00:00
+
+ ## Home - Dimsum Daily
+ - [https://www.dimsumdaily.hk](https://www.dimsumdaily.hk)
+ - date_published: 2024-06-30T03:47:00.458209+00:00
+
+ ## Status overview
+ - [https://downdetector.hk](https://downdetector.hk)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## 電競椅 | 家用遊戲椅 | 辦公人體工學椅 | DXRacer
+ - [https://www.dxracer.hk](https://www.dxracer.hk)
+ - date_published: 2024-07-03T12:26:30.990124+00:00
+
+ ## Dyson 香港 | 官方網站 | 網上商店
+ - [https://www.dyson.hk](https://www.dyson.hk)
+ - date_published: 2024-07-07T01:57:25.444782+00:00
+
+ ## 經濟一週
+ - [https://www.edigest.hk](https://www.edigest.hk)
+ - date_published: 2024-12-19T12:12:25.170546+00:00
+
+ ## Finance Jobs, Banking and Tech Jobs - Hong Kong - eFinancialCareers
+ - [https://www.efinancialcareers.hk](https://www.efinancialcareers.hk)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Data Center Company & Enterprise Network Technologies | Equinix
+ - [https://www.equinix.hk](https://www.equinix.hk)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Eventbrite
+ - [https://eventbrite.hk](https://eventbrite.hk)
+ - date_published: 2024-05-12T05:55:30.746543+00:00
+
+ ## Hong Kong FinTech Week | 28 Oct - 1 Nov 2024
+ - [http://fintechweek.hk](http://fintechweek.hk)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## 在线雇佣威客&寻找自由职业工作
+ - [https://www.freelancer.hk](https://www.freelancer.hk)
+ - date_published: 2024-06-16T12:00:42.668068+00:00
+
+ ## FXStreet 外匯街.外匯市場
+ - [https://www.fxstreet.hk](https://www.fxstreet.hk)
+ - date_published: 2024-06-20T22:01:47.924644+00:00
+
+ ## 免版稅照片檔、創意圖片及向量圖形 | 新聞、時尚及娛樂影像 - Getty Images
+ - [https://www.gettyimages.hk](https://www.gettyimages.hk)
+ - date_published: 2024-06-20T01:49:10.788860+00:00
+
+ ## Global Fast Track 2024, Fast-track Your Next Success!
+ - [https://www.globalfasttrack.hk](https://www.globalfasttrack.hk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Shenzhen GPD Technology Co., Ltd. - GPD Pocket 3 GPD WIN 4 GPD WIN Max 2 GPD WIN Mini GPD MicroPC GamePad Headheld Game Console Video Game Play Mini Laptop
+ - [https://gpd.hk](https://gpd.hk)
+ - date_published: 2024-06-15T07:22:57.623278+00:00
+
+ ## Hiwonder
+ - [https://www.hiwonder.hk](https://www.hiwonder.hk)
+ - date_published: 2024-08-18T23:00:39.112887+00:00
+
+ ## HKEXnews
+ - [https://www1.hkexnews.hk](https://www1.hkexnews.hk)
+ - date_published: 2024-05-31T03:53:41+00:00
+
+ ## HKEXnews
+ - [https://www2.hkexnews.hk](https://www2.hkexnews.hk)
+ - date_published: 2024-05-31T03:53:41+00:00
+
+ ## HKEXnews
+ - [http://www.hkexnews.hk](http://www.hkexnews.hk)
+ - date_published: 2024-05-31T03:53:41+00:00
+
+ ## AIIFL
+ - [https://aiifl.law.hku.hk](https://aiifl.law.hku.hk)
+ - date_published: 2024-06-30T04:00:09.733438+00:00
+
+ ## HKU IDS - HKU Musketeers Foundation Institute of Data Science
+ - [https://datascience.hku.hk](https://datascience.hku.hk)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## HKU Faculty of Architecture | HKURBANLABS
+ - [https://fac.arch.hku.hk](https://fac.arch.hku.hk)
+ - date_published: 2024-05-08T11:44:26.478020+00:00
+
+ ## | HKU Graduate School
+ - [https://gradsch.hku.hk](https://gradsch.hku.hk)
+ - date_published: 2024-08-07T16:28:13.830119+00:00
+
+ ## The University of Hong Kong (HKU)
+ - [https://hku.hk](https://hku.hk)
+ - date_published: 2024-09-18T16:17:13+00:00
+
+ ## MPH | MPH - HKU School of Public Health | Hong Kong
+ - [https://mph.sph.hku.hk](https://mph.sph.hku.hk)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## HKU NLP Group
+ - [https://nlp.cs.hku.hk](https://nlp.cs.hku.hk)
+ - date_published: 2022-10-28T13:30:16+00:00
+
+ ## HKU Legal Scholarship Blog
+ - [http://researchblog.law.hku.hk](http://researchblog.law.hku.hk)
+ - date_published: 2024-06-29T03:00:31+00:00
+
+ ## School of Public Health of the University of Hong Kong
+ - [https://sph.hku.hk](https://sph.hku.hk)
+ - date_published: 2024-06-15T18:57:28.126577+00:00
+
+ ## THE BUILDING SOCIETY 建造社 - THE BUILDING SOCIETY 建造社
+ - [https://thebuildingsociety.arch.hku.hk](https://thebuildingsociety.arch.hku.hk)
+ - date_published: 2024-07-08T15:06:24.851585+00:00
+
+ ## HKU Faculty of Architecture | HKURBANLABS
+ - [https://www.arch.hku.hk](https://www.arch.hku.hk)
+ - date_published: 2024-07-08T15:06:20.712551+00:00
+
+ ## Home
+ - [https://www.cs.hku.hk](https://www.cs.hku.hk)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## BASc(GHD) - HKU School of Public Health | Hong Kong
+ - [https://www.ghd.sph.hku.hk](https://www.ghd.sph.hku.hk)
+ - date_published: 2024-09-18T23:29:51.962370+00:00
+
+ ## Home - HKU Business School
+ - [https://www.hkubs.hku.hk](https://www.hkubs.hku.hk)
+ - date_published: 2019-01-18T06:45:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://www-journals-uchicago-edu.eproxy.lib.hku.hk](https://www-journals-uchicago-edu.eproxy.lib.hku.hk)
+ - date_published: 2024-06-30T04:01:12.545900+00:00
+
+ ## HKU | Minor in Kinesiology | Hong Kong
+ - [https://www.kinesiology.sph.hku.hk](https://www.kinesiology.sph.hku.hk)
+ - date_published: 2024-09-18T23:30:07.378049+00:00
+
+ ## Home - Faculty of Law, The University of Hong Kong
+ - [https://www.law.hku.hk](https://www.law.hku.hk)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## HKU Li Ka Shing Faculty of Medicine | 香港大學李嘉誠醫學院
+ - [https://www.med.hku.hk](https://www.med.hku.hk)
+ - date_published: 2024-09-18T23:30:11.177290+00:00
+
+ ## Home | Student Project |SPH
+ - [https://www.students-sharing-with-local-community.sph.hku.hk](https://www.students-sharing-with-local-community.sph.hku.hk)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Fintech
+ - [https://www.hongkong-fintech.hk](https://www.hongkong-fintech.hk)
+ - date_published: 2024-06-14T13:03:07+00:00
+
+ ## Small Business Web Hosting | Best Web Hosting | HostPapa
+ - [https://www.hostpapa.hk](https://www.hostpapa.hk)
+ - date_published: 2024-07-24T19:07:03+00:00
+
+ ## 欢迎指南
+ - [https://www.hotfrog.hk](https://www.hotfrog.hk)
+ - date_published: 2024-06-29T16:52:01.016083+00:00
+
+ ## 国际银行账号（IBAN）校验工具：国际银行账号验证
+ - [https://www.iban.hk](https://www.iban.hk)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## IBM HTTP Server
+ - [https://infinity.icicibank.hk](https://infinity.icicibank.hk)
+ - date_published: 2024-04-18T05:17:00+00:00
+
+ ## ICICI Bank Hong Kong|Personal Banking|Corporate Banking|Financial Services
+ - [https://www.icicibank.hk](https://www.icicibank.hk)
+ - date_published: 2024-06-11T21:26:47+00:00
+
+ ## 京东国际_海外购_海外购物网_100%正品保证-京东
+ - [https://www.jd.hk](https://www.jd.hk)
+ - date_published: 2024-07-14T22:25:59.903942+00:00
+
+ ## jon.hk
+ - [https://jon.hk](https://jon.hk)
+ - date_published: 2023-10-25T19:28:01.121455+00:00
+
+ ## lrs
+ - [http://legalref.judiciary.hk](http://legalref.judiciary.hk)
+ - date_published: 2010-03-01T01:45:31+00:00
+
+ ## Jurlique HK 香港 | 澳洲天然護膚品 | 花卉水 | 護手霜 | 水精華
+ - [https://www.jurlique.hk](https://www.jurlique.hk)
+ - date_published: 2024-10-20T22:52:42.921905+00:00
+
+ ## 長橋證券（香港）- 美股開户_港股開户_港股行情_美股行情 - 港美股免佣 - Longbridge
+ - [https://longbridge.hk](https://longbridge.hk)
+ - date_published: 2024-08-15T07:37:52+00:00
+
+ ## Official Website | Maserati HK
+ - [http://www.maserati.hk](http://www.maserati.hk)
+ - date_published: 2024-07-12T05:01:26+00:00
+
+ ## Minisforum CN -- 迷你主機
+ - [https://minisforum.hk](https://minisforum.hk)
+ - date_published: 2024-07-20T15:15:40.093539+00:00
+
+ ## M-Labs
+ - [https://m-labs.hk](https://m-labs.hk)
+ - date_published: 2024-12-21T23:44:39.741007+00:00
+
+ ## 半導體與電子元件代理商 - 貿澤電子Mouser Electronics 香港
+ - [https://www.mouser.hk](https://www.mouser.hk)
+ - date_published: 2024-07-01T20:56:21.551429+00:00
+
+ ## Mozilla Hong Kong – 香港 Mozilla 社群
+ - [https://moz.hk](https://moz.hk)
+ - date_published: 2024-07-07T10:02:01.091369+00:00
+
+ ## 所有 Netflix 电影和剧集 - OnNetflix.hk
+ - [https://www.onnetflix.hk](https://www.onnetflix.hk)
+ - date_published: 2024-09-02T11:18:42.615071+00:00
+
+ ## Restaurants and Restaurant Bookings | OpenTable
+ - [https://www.opentable.hk](https://www.opentable.hk)
+ - date_published: 2024-06-30T12:08:20.077677+00:00
+
+ ## Technology and Business Training
+ - [https://oreilly.hk](https://oreilly.hk)
+ - date_published: 2024-05-06T22:10:39.930329+00:00
+
  ## Hong Kong Public Holidays - PublicHolidays.hk
  - [https://publicholidays.hk](https://publicholidays.hk)
  - date_published: 2024-06-05T00:00:00+00:00
@@ -1123,7 +1595,7 @@
  - date_published: 2024-05-04T12:04:10.866696+00:00
 
  ## Ukraine Support Alliance at Stanford
- - [https://www.standwithukraine.how](https://www.standwithukraine.how)
+ - [https://standwithukraine.how](https://standwithukraine.how)
  - date_published: 2024-08-18T22:58:30.108263+00:00
 
  ## Welcome - Taubyte Documentation
@@ -1142,13 +1614,14 @@
  ## wilkie writes a thing
  - [https://wilkie.how](https://wilkie.how)
  - date_published: 2022-11-21T21:52:20+00:00
+ - date_dead_since: 2024-12-29T12:13:18.745505+00:00
 
  ## 3M Science. Applied to Life.™ | 3M (East) AG Podružnica Republika Hrvatska
- - [https://www.3m.com.hr](https://www.3m.com.hr)
+ - [https://3m.com.hr](https://3m.com.hr)
  - date_published: 2024-08-06T10:38:41.445047+00:00
 
  ## GGlam – Kozmetika i ljepota svaki dan
- - [http://www.glitter-glam.com.hr](http://www.glitter-glam.com.hr)
+ - [https://glitter-glam.com.hr](https://glitter-glam.com.hr)
  - date_published: 2024-06-20T01:33:10.556158+00:00
 
  ## Besplatno obiteljsko stablo, genealogija, obiteljska povijest i DNK testiranje
@@ -1168,11 +1641,11 @@
  - date_published: 2024-06-28T07:24:30+00:00
 
  ## PERI sistemi oplata i skela
- - [https://www.peri.com.hr](https://www.peri.com.hr)
+ - [https://peri.com.hr](https://peri.com.hr)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Radio Sunce Split - najsunčaniji radio na svitu i okolici | Slušajte nas na 90,9 i 92,9
- - [https://www.radiosunce.com.hr](https://www.radiosunce.com.hr)
+ - [https://radiosunce.com.hr](https://radiosunce.com.hr)
  - date_published: 2024-01-17T13:10:46+00:00
 
  ## SPARTOO | Obuća, odjeća i torbe | Besplatna dostava *.
@@ -1192,7 +1665,7 @@
  - date_published: 2024-05-12T04:00:07.013711+00:00
 
  ## ZEISS Hrvatska
- - [https://www.zeiss.com.hr](https://www.zeiss.com.hr)
+ - [https://zeiss.com.hr](https://zeiss.com.hr)
  - date_published: 2024-09-16T07:56:13.324519+00:00
 
  ## JoomBoos.24sata.hr
@@ -1200,8 +1673,12 @@
  - date_published: 2024-09-24T22:13:35.505436+00:00
 
  ## Udruga 3. zmaj
- - [http://3zmaj.hr](http://3zmaj.hr)
+ - [https://3zmaj.hr](https://3zmaj.hr)
  - date_published: 2024-10-28T08:27:27.233900+00:00
+
+ ## AAI@EduHr | Autentikacijska i autorizacijska infrastruktura sustava znanosti i visokog obrazovanja u Republici Hrvatskoj
+ - [https://aaiedu.hr](https://aaiedu.hr)
+ - date_published: 2024-01-25T00:00:00+00:00
 
  ## AAI@EduHr administracija
  - [https://administracija.aaiedu.hr](https://administracija.aaiedu.hr)
@@ -1219,17 +1696,17 @@
  - [https://registar.aaiedu.hr](https://registar.aaiedu.hr)
  - date_published: 2024-06-16T14:38:26.131105+00:00
 
- ## AAI@EduHr | Autentikacijska i autorizacijska infrastruktura sustava znanosti i visokog obrazovanja u Republici Hrvatskoj
- - [https://www.aaiedu.hr](https://www.aaiedu.hr)
- - date_published: 2024-01-25T00:00:00+00:00
+ ## Moda online sa više od >1500 top modnih marki | ABOUT YOU
+ - [https://aboutyou.hr](https://aboutyou.hr)
+ - date_published: 2024-09-17T19:55:18+00:00
 
  ## Moda online sa više od >1500 top modnih marki | ABOUT YOU
  - [https://m.aboutyou.hr](https://m.aboutyou.hr)
  - date_published: 2024-09-17T19:55:18+00:00
 
- ## Moda online sa više od >1500 top modnih marki | ABOUT YOU
- - [https://www.aboutyou.hr](https://www.aboutyou.hr)
- - date_published: 2024-09-17T19:55:18+00:00
+ ## Addiko Bank Hrvatska
+ - [https://addiko.hr](https://addiko.hr)
+ - date_published: 2024-04-12T00:00:00+00:00
 
  ## Addiko eBank
  - [https://ebank.addiko.hr](https://ebank.addiko.hr)
@@ -1251,10 +1728,6 @@
  - [https://virtualnaposlovnica.addiko.hr](https://virtualnaposlovnica.addiko.hr)
  - date_published: 2022-09-06T07:08:02+00:00
 
- ## Addiko Bank Hrvatska
- - [https://www.addiko.hr](https://www.addiko.hr)
- - date_published: 2024-04-12T00:00:00+00:00
-
  ## Home page
  - [http://www.adecco.hr](http://www.adecco.hr)
  - date_published: 2024-10-29T04:28:48.917275+00:00
@@ -1272,19 +1745,19 @@
  - date_published: 2024-08-11T15:42:53.115643+00:00
 
  ## Alatnica Mikuš
- - [http://alatnicamikus.hr](http://alatnicamikus.hr)
+ - [https://alatnicamikus.hr](https://alatnicamikus.hr)
  - date_published: 2024-07-18T06:36:08.922855+00:00
 
  ## Alfa Romeo
- - [https://www.alfaromeo.hr](https://www.alfaromeo.hr)
+ - [https://alfaromeo.hr](https://alfaromeo.hr)
  - date_published: 2024-06-07T22:35:30+00:00
 
  ## Budi izvrstan u onom što voliš. Zaiskri!
- - [https://www.algebra.hr](https://www.algebra.hr)
+ - [https://algebra.hr](https://algebra.hr)
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## Agencija za mobilnost i programe EU
- - [https://www.ampeu.hr](https://www.ampeu.hr)
+ - [https://ampeu.hr](https://ampeu.hr)
  - date_published: 2024-09-15T20:57:57.918003+00:00
 
  ## ArtKvart – Umjetnost, kultura i društvena zbivanja
@@ -1312,15 +1785,15 @@
  - date_published: 2024-09-15T19:55:32.192458+00:00
 
  ## AntonioR DevLog
- - [http://antonior-software.blogspot.hr](http://antonior-software.blogspot.hr)
+ - [https://antonior-software.blogspot.hr](https://antonior-software.blogspot.hr)
  - date_published: 2024-06-24T15:30:09+00:00
 
  ## Gardens of Hecate
- - [http://gardensofhecate.blogspot.hr](http://gardensofhecate.blogspot.hr)
+ - [https://gardensofhecate.blogspot.hr](https://gardensofhecate.blogspot.hr)
  - date_published: 2024-03-13T04:32:08+00:00
 
  ## Službena BMW web stranica: Premium vozila i inovacije
- - [http://www.bmw.hr](http://www.bmw.hr)
+ - [https://bmw.hr](https://bmw.hr)
  - date_published: 2024-10-02T11:12:17.552230+00:00
 
  ## Come work with us.
@@ -1520,7 +1993,7 @@
  - date_published: 2024-07-02T22:05:33.388305+00:00
 
  ## Status Page | Breezy HR
- - [http://status.breezy.hr](http://status.breezy.hr)
+ - [https://status.breezy.hr](https://status.breezy.hr)
  - date_published: 2024-07-14T05:08:22+00:00
 
  ## Join our growing team!
@@ -1552,7 +2025,7 @@
  - date_published: 2024-06-17T21:03:50.607770+00:00
 
  ## Uredski uređaji | poslovna rješenja | Brother
- - [https://www.brother.hr](https://www.brother.hr)
+ - [https://brother.hr](https://brother.hr)
  - date_published: 2024-05-02T11:29:54.034222+00:00
 
  ## Burin
@@ -1564,11 +2037,11 @@
  - date_published: 2023-09-07T15:50:32+00:00
 
  ## HRVATSKI ZRAKOPLOVNI SAVEZ
- - [https://www.caf.hr](https://www.caf.hr)
+ - [https://caf.hr](https://caf.hr)
  - date_published: 2024-09-24T00:00:00+00:00
 
  ## Hrvatska akademska i istraživačka mreža – CARNET
- - [http://www.carnet.hr](http://www.carnet.hr)
+ - [https://carnet.hr](https://carnet.hr)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## Online Klađenje u HR | Najbolji Casino Za Igru - | 2024 ✅
@@ -1576,7 +2049,7 @@
  - date_published: 2024-09-19T20:32:31.323214+00:00
 
  ## CBA
- - [https://www.cba.hr](https://www.cba.hr)
+ - [https://cba.hr](https://cba.hr)
  - date_published: 2024-09-24T22:11:19.736931+00:00
 
  ## Bella Centar zdravlja i ljepote
@@ -1600,7 +2073,7 @@
  - date_published: 2023-03-13T08:38:41+00:00
 
  ## Linkbynet - En construction
- - [https://www.citroenorigins.hr](https://www.citroenorigins.hr)
+ - [https://citroenorigins.hr](https://citroenorigins.hr)
  - date_published: 2018-04-18T13:00:13+00:00
 
  ## Nacionalna zaklada za razvoj civilnoga društva
@@ -1608,15 +2081,15 @@
  - date_published: 2023-07-03T17:32:31+00:00
 
  ## Combis | We create together
- - [https://www.combis.hr](https://www.combis.hr)
+ - [https://combis.hr](https://combis.hr)
  - date_published: 2024-08-29T00:00:00+00:00
 
  ## Conrad Electronic | All parts of success
- - [https://www.conrad.hr](https://www.conrad.hr)
+ - [https://conrad.hr](https://conrad.hr)
  - date_published: 2024-08-18T15:21:35.429872+00:00
 
  ## Facebook
- - [http://www.continental-film.hr](http://www.continental-film.hr)
+ - [https://continental-film.hr](https://continental-film.hr)
  - date_published: 2024-07-28T04:00:20.941117+00:00
 
  ## HRVATSKA BURZA ELEKTRIČNE ENERGIJE - HRVATSKA BURZA ELEKTRIČNE ENERGIJE d.o.o. - cropex.hr
@@ -1628,7 +2101,7 @@
  - date_published: 2024-12-15T12:33:58.556622+00:00
 
  ## DALMACIJA DANAS - obala, otoci, Zagora. Najnovije vijesti iz Dalmacije
- - [https://www.dalmacijadanas.hr](https://www.dalmacijadanas.hr)
+ - [https://dalmacijadanas.hr](https://dalmacijadanas.hr)
  - date_published: 2024-04-27T00:00:00+00:00
 
  ## Decathlon | Sportska obuća, sportska odjeća i sportska oprema
@@ -1645,7 +2118,7 @@
 
  ## Digital assets — Gateway to cryptocurrencies and blockchain
       infrastructure
- - [https://www.digital-assets.hr](https://www.digital-assets.hr)
+ - [https://digital-assets.hr](https://digital-assets.hr)
  - date_published: 2024-05-28T10:13:12+00:00
 
  ## Home
@@ -1661,15 +2134,15 @@
  - date_published: 2024-05-04T07:26:42.970278+00:00
 
  ## DITDOT - Kreativnost, software development i konzalting
- - [https://www.ditdot.hr](https://www.ditdot.hr)
+ - [https://ditdot.hr](https://ditdot.hr)
  - date_published: 2024-09-04T14:58:41.912500+00:00
 
  ## dizzy.hr = mobile + tablet + web + cloud
- - [https://www.dizzy.hr](https://www.dizzy.hr)
+ - [https://dizzy.hr](https://dizzy.hr)
  - date_published: 2024-06-20T05:54:13.056568+00:00
 
  ## DNV.hr - When trust matters - DNV
- - [https://www.dnv.hr](https://www.dnv.hr)
+ - [https://dnv.hr](https://dnv.hr)
  - date_published: 2024-09-04T15:26:12.943456+00:00
 
  ## DOOR | Društvo za oblikovanje održivog razvoja
@@ -1681,15 +2154,15 @@
  - date_published: 2024-05-12T00:00:00+00:00
 
  ## Početna - DuList
- - [http://www.dulist.hr](http://www.dulist.hr)
+ - [https://dulist.hr](https://dulist.hr)
  - date_published: 2024-09-18T00:00:00+00:00
 
  ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
- - [https://www.duracell.hr](https://www.duracell.hr)
+ - [https://duracell.hr](https://duracell.hr)
  - date_published: 1970-01-01T00:00:00+00:00
 
  ## Dyson Hrvatska | Službeno web-mjesto
- - [https://www.dyson.hr](https://www.dyson.hr)
+ - [https://dyson.hr](https://dyson.hr)
  - date_published: 2024-07-07T01:55:59.692292+00:00
 
  ## Ecommerce Bridge Hrvatska
@@ -1701,7 +2174,7 @@
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## eduroam.hr - Naslovnica
- - [https://www.eduroam.hr](https://www.eduroam.hr)
+ - [https://eduroam.hr](https://eduroam.hr)
  - date_published: 2024-10-09T12:32:55.752805+00:00
 
  ## Home - Hotels in Croatia
@@ -1713,12 +2186,16 @@
  - date_published: 2024-06-15T03:28:05.891308+00:00
 
  ## Entrio.hr - Ulaznice za koncerte, festivale i događanja
- - [https://www.entrio.hr](https://www.entrio.hr)
+ - [https://entrio.hr](https://entrio.hr)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Ericsson Nikola Tesla d.d. - Naslovnica
- - [https://www.ericsson.hr](https://www.ericsson.hr)
+ - [https://ericsson.hr](https://ericsson.hr)
  - date_published: 2024-09-24T22:08:55.994446+00:00
+
+ ## Građanstvo
+ - [https://erstebank.hr](https://erstebank.hr)
+ - date_published: 2024-05-01T06:31:46.979544+00:00
 
  ## George
  - [https://george.erstebank.hr](https://george.erstebank.hr)
@@ -1728,28 +2205,24 @@
  - [https://netbanking.erstebank.hr](https://netbanking.erstebank.hr)
  - date_published: 2024-06-16T10:51:21.906214+00:00
 
- ## Građanstvo
- - [https://www.erstebank.hr](https://www.erstebank.hr)
- - date_published: 2024-05-01T06:31:46.979544+00:00
+ ## Naslovnica
+ - [https://erstecardclub.hr](https://erstecardclub.hr)
+ - date_published: 2024-10-02T11:11:03.043773+00:00
 
  ## Naslovnica
- - [https://www.erstecardclub.hr](https://www.erstecardclub.hr)
- - date_published: 2024-10-02T11:11:03.043773+00:00
+ - [https://ersteleasing.hr](https://ersteleasing.hr)
+ - date_published: 2024-06-16T10:51:20.760633+00:00
 
  ## NOVA Online
  - [https://novaonline.ersteleasing.hr](https://novaonline.ersteleasing.hr)
  - date_published: 2024-03-13T10:50:20+00:00
 
- ## Naslovnica
- - [https://www.ersteleasing.hr](https://www.ersteleasing.hr)
- - date_published: 2024-06-16T10:51:20.760633+00:00
-
  ## Oops! Error 403
- - [http://www.ersteleasingstore.hr](http://www.ersteleasingstore.hr)
+ - [https://ersteleasingstore.hr](https://ersteleasingstore.hr)
  - date_published: 2024-10-02T00:00:00+00:00
 
  ## Naslovnica
- - [http://www.ersteprivatebanking.hr](http://www.ersteprivatebanking.hr)
+ - [https://ersteprivatebanking.hr](https://ersteprivatebanking.hr)
  - date_published: 2024-06-16T10:51:18.185768+00:00
 
  ## Erwo d.o.o.
@@ -1757,27 +2230,27 @@
  - date_published: 2024-12-23T12:00:49+00:00
 
  ## - Učinkoviti ljudski potencijali
- - [http://www.esf.hr](http://www.esf.hr)
+ - [https://esf.hr](https://esf.hr)
  - date_published: 2024-06-28T21:40:23.179466+00:00
 
  ## Etigroup
- - [https://www.eti.hr](https://www.eti.hr)
+ - [https://eti.hr](https://eti.hr)
  - date_published: 2024-09-02T14:24:29+00:00
 
  ## europazagradane.hr
- - [http://europazagradane.hr](http://europazagradane.hr)
+ - [https://europazagradane.hr](https://europazagradane.hr)
  - date_published: 2024-06-28T21:40:24.116499+00:00
 
  ## Ulaznice za koncerte, sport, kulturne i ostale događaje ~ Kupi ulaznice na Eventim
- - [https://www.eventim.hr](https://www.eventim.hr)
+ - [https://eventim.hr](https://eventim.hr)
  - date_published: 2024-07-20T00:00:00+00:00
 
  ## HOTLab (HR)
- - [http://hotlab.fer.hr](http://hotlab.fer.hr)
+ - [https://hotlab.fer.hr](https://hotlab.fer.hr)
  - date_published: 2024-08-19T07:15:28.943491+00:00
 
  ## FERATA - Sinjski portal
- - [http://ferata.hr](http://ferata.hr)
+ - [https://ferata.hr](https://ferata.hr)
  - date_published: 2024-09-24T14:31:49+00:00
 
  ## Home - Fest d.o.o.
@@ -1785,11 +2258,11 @@
  - date_published: 2017-02-01T00:00:00+00:00
 
  ## Fiat Hrvatska
- - [https://www.fiat.hr](https://www.fiat.hr)
+ - [https://fiat.hr](https://fiat.hr)
  - date_published: 2024-06-07T22:07:07+00:00
 
  ## Početna - Fiat Professional
- - [https://www.fiatprofessional.hr](https://www.fiatprofessional.hr)
+ - [https://fiatprofessional.hr](https://fiatprofessional.hr)
  - date_published: 2015-07-12T14:50:38+00:00
 
  ## CROSS
@@ -1797,11 +2270,11 @@
  - date_published: 2024-03-04T00:00:00+00:00
 
  ## Flatio - Short, mid and long-term rentals for digital nomads
- - [https://www.flatio.hr](https://www.flatio.hr)
+ - [https://flatio.hr](https://flatio.hr)
  - date_published: 2024-06-25T17:39:16.388101+00:00
 
  ## Jeftina putovanja autobusom | FlixBus
- - [https://www.flixbus.hr](https://www.flixbus.hr)
+ - [https://flixbus.hr](https://flixbus.hr)
  - date_published: 2024-06-28T10:09:44+00:00
 
  ## Floralis
@@ -1817,11 +2290,11 @@
  - date_published: 2024-10-29T20:51:10.415624+00:00
 
  ## Ford Hrvatska | Ford Hrvatska
- - [http://www.ford.hr](http://www.ford.hr)
+ - [https://www.ford.hr](https://www.ford.hr)
  - date_published: 2024-06-19T16:59:34.749574+00:00
 
  ## FranklinCovey: The World's Most Trusted Leadership Company
- - [https://www.franklincovey.hr](https://www.franklincovey.hr)
+ - [https://franklincovey.hr](https://franklincovey.hr)
  - date_published: 2022-05-09T00:00:00+00:00
 
  ## Frigo Plus – Smart and Natural Cooling
@@ -1833,11 +2306,11 @@
  - date_published: 2024-06-29T08:56:05.532277+00:00
 
  ## Gamershop.hr - Internet trgovina za hrvatske gamere
- - [https://www.gamershop.hr](https://www.gamershop.hr)
+ - [https://gamershop.hr](https://gamershop.hr)
  - date_published: 2024-09-16T02:19:55+00:00
 
  ## Garnier - Proizvodi za njegu kože i kose
- - [http://www.garnier.hr](http://www.garnier.hr)
+ - [https://garnier.hr](https://garnier.hr)
  - date_published: 2024-10-20T22:50:56.954582+00:00
 
  ## Glami.hr - Volimo modu
@@ -1845,11 +2318,11 @@
  - date_published: 2024-12-14T05:24:34.593883+00:00
 
  ## Go2Digital | Digitalno vanjsko oglašavanje
- - [https://www.go2digital.hr](https://www.go2digital.hr)
+ - [https://go2digital.hr](https://go2digital.hr)
  - date_published: 2024-07-22T12:00:39.857997+00:00
 
  ## Gomibo.hr - All phones and accessories
- - [https://www.gomibo.hr](https://www.gomibo.hr)
+ - [https://gomibo.hr](https://gomibo.hr)
  - date_published: 2024-10-21T22:24:25.220113+00:00
 
  ## Edukatalog Gonga
@@ -1864,13 +2337,13 @@
  - [https://pro-fact.gong.hr](https://pro-fact.gong.hr)
  - date_published: 2022-03-25T11:50:21+00:00
 
+ ## Google
+ - [https://google.hr](https://google.hr)
+ - date_published: 2024-06-21T22:24:49.053343+00:00
+
  ## Zanim przejdziesz do Map Google
  - [https://maps.google.hr](https://maps.google.hr)
  - date_published: 2024-07-20T07:41:27.172306+00:00
-
- ## Google
- - [https://www.google.hr](https://www.google.hr)
- - date_published: 2024-06-21T22:24:49.053343+00:00
 
  ## Naslovna
  - [https://udruge.gov.hr](https://udruge.gov.hr)
@@ -1881,7 +2354,7 @@
  - date_published: 2024-09-24T22:10:41.556176+00:00
 
  ## Index of /
- - [http://www.gradskiradiotrogir.hr](http://www.gradskiradiotrogir.hr)
+ - [https://gradskiradiotrogir.hr](https://gradskiradiotrogir.hr)
  - date_published: 2019-01-21T00:00:00+00:00
 
  ## HAMAG BICRO | Hrvatska agencija za malo gospodarstvo i investicije
@@ -1889,11 +2362,11 @@
  - date_published: 2024-08-17T23:40:33+00:00
 
  ## HANFA / Hrvatska agencija za nadzor financijskih usluga
- - [https://www.hanfa.hr](https://www.hanfa.hr)
+ - [https://hanfa.hr](https://hanfa.hr)
  - date_published: 2024-09-24T22:09:57.805246+00:00
 
  ## Početak
- - [https://www.henkel.hr](https://www.henkel.hr)
+ - [https://henkel.hr](https://henkel.hr)
  - date_published: 2024-10-18T20:18:26.288965+00:00
 
  ## Hercul
@@ -1901,7 +2374,7 @@
  - date_published: 2024-09-27T13:53:06+00:00
 
  ## Početna stranica
- - [https://www.hilti.hr](https://www.hilti.hr)
+ - [https://hilti.hr](https://hilti.hr)
  - date_published: 2024-06-20T07:27:29.886864+00:00
 
  ## Lawyers | Hrdalo & Krnic Law Firm | Zagreb
@@ -1909,7 +2382,7 @@
  - date_published: 2024-09-24T22:14:25.494849+00:00
 
  ## Hrvatski košarkaški savez
- - [https://www.hks-cbf.hr](https://www.hks-cbf.hr)
+ - [https://hks-cbf.hr](https://hks-cbf.hr)
  - date_published: 2024-09-06T00:00:00+00:00
 
  ## Početna - HMS - Hrvatski motociklistički savez
@@ -1921,7 +2394,7 @@
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## Prijavite se na Hostinger
- - [https://auth.hostinger.hr](https://auth.hostinger.hr)
+ - [http://auth.hostinger.hr](http://auth.hostinger.hr)
  - date_published: 2024-07-13T16:42:23.985231+00:00
 
  ## Hosting Platforma Stvorena Za Vas - Krenite Online Uz Hostinger
@@ -1989,7 +2462,7 @@
  - date_published: 2024-09-24T22:11:17.790709+00:00
 
  ## Naslovnica
- - [http://www.t.ht.hr](http://www.t.ht.hr)
+ - [https://t.ht.hr](https://t.ht.hr)
  - date_published: 2024-07-06T23:58:49.691751+00:00
 
  ## Početna stranica - Hrvatski teniski savez
@@ -2005,7 +2478,7 @@
  - date_published: 2024-09-24T22:10:24.585865+00:00
 
  ## IBAN Provjera - Validacija Međunarodnog Broja Bankovnog Računa
- - [https://www.iban.hr](https://www.iban.hr)
+ - [https://iban.hr](https://iban.hr)
  - date_published: 2024-08-30T00:00:00+00:00
 
  ## Home
@@ -2013,7 +2486,7 @@
  - date_published: 2024-09-24T22:08:54.078049+00:00
 
  ## ID MEDIT - medicina i tehnologija
- - [https://www.id-medit.hr](https://www.id-medit.hr)
+ - [https://id-medit.hr](https://id-medit.hr)
  - date_published: 2024-06-20T01:33:08.475469+00:00
 
  ## Obavijesti
@@ -2025,7 +2498,7 @@
  - date_published: 2024-05-01T07:57:04.781917+00:00
 
  ## energy chains, polymer bearings, flexible cable, &amp; linear slides
- - [https://www.igus.hr](https://www.igus.hr)
+ - [http://igus.hr](http://igus.hr)
  - date_published: 2024-08-06T23:12:48.101644+00:00
 
  ## Hrvatski web hosting, Managed VPS, Reseller | InfoNET hosting
@@ -2037,31 +2510,31 @@
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## InSoft | Design & Development Agency | Izrada web stranica, web aplikacija, mobilnih aplaikacija
- - [https://www.insoft.hr](https://www.insoft.hr)
+ - [https://insoft.hr](https://insoft.hr)
  - date_published: 2024-07-20T13:59:13.000775+00:00
 
  ## Institut Ruđer Bošković
- - [https://www.irb.hr](https://www.irb.hr)
+ - [https://irb.hr](https://irb.hr)
  - date_published: 2024-10-14T23:13:53.688169+00:00
 
  ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
- - [https://www.jack-wolfskin.hr](https://www.jack-wolfskin.hr)
+ - [https://jack-wolfskin.hr](https://jack-wolfskin.hr)
  - date_published: 2024-07-14T12:15:14.264124+00:00
 
  ## Jeep Hrvatska - Jeep Hrvatska
- - [https://www.jeep.hr](https://www.jeep.hr)
+ - [https://jeep.hr](https://jeep.hr)
  - date_published: 2015-07-12T13:50:38+00:00
+
+ ## Naslovnica
+ - [https://jutarnji.hr](https://jutarnji.hr)
+ - date_published: 2024-07-01T09:11:44.605957+00:00
 
  ## HanzaMedia
  - [https://online.jutarnji.hr](https://online.jutarnji.hr)
  - date_published: 2024-07-22T11:59:49.614189+00:00
 
- ## Naslovnica
- - [https://www.jutarnji.hr](https://www.jutarnji.hr)
- - date_published: 2024-07-01T09:11:44.605957+00:00
-
  ## Kaufland – biraj najbolje za sebe!
- - [https://www.kaufland.hr](https://www.kaufland.hr)
+ - [https://kaufland.hr](https://kaufland.hr)
  - date_published: 2024-06-25T19:02:56.618494+00:00
 
  ## KEKS Pay - aplikacija za brzo slanje i primanje novca - bez naknada
@@ -2081,12 +2554,13 @@
  - date_published: 2024-12-12T23:43:43.584637+00:00
 
  ## Lidl Hrvatska
- - [https://www.lidl.hr](https://www.lidl.hr)
+ - [https://lidl.hr](https://lidl.hr)
  - date_published: 2024-06-25T19:01:55.092626+00:00
 
  ## Linker - Content Discovery Platform
  - [https://linker.hr](https://linker.hr)
  - date_published: 2024-08-18T14:06:00.898598+00:00
+ - date_dead_since: 2024-12-29T12:43:31.614713+00:00
 
  ## ClickVOX
  - [https://clickvox.links.hr](https://clickvox.links.hr)
@@ -2097,7 +2571,7 @@
  - date_published: 2024-06-15T03:28:58.346108+00:00
 
  ## LiveAgent | Jednostavan softver korisničke podrške za timove
- - [https://www.liveagent.hr](https://www.liveagent.hr)
+ - [https://liveagent.hr](https://liveagent.hr)
  - date_published: 2024-10-19T20:26:51.153838+00:00
 
  ## LEGO® Store Hrvatska
@@ -2105,11 +2579,11 @@
  - date_published: 2024-07-03T16:45:14.232991+00:00
 
  ## MALL.HR | Sigurna i povoljna online kupnja
- - [https://www.mall.hr](https://www.mall.hr)
+ - [https://mall.hr](https://mall.hr)
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## Mastercard - globalna tehnološka kompanija u industriji plaćanja
- - [https://www.mastercard.hr](https://www.mastercard.hr)
+ - [https://mastercard.hr](https://mastercard.hr)
  - date_published: 2024-09-13T02:01:20+00:00
 
  ## Krediti na jednom mjestu - Asistent pri dolasku do najpovoljnijeg kredita
@@ -2129,7 +2603,7 @@
  - date_published: 2024-05-10T06:54:57.767937+00:00
 
  ## Agencija za mobilnost i programe EU
- - [http://www.mobilnost.hr](http://www.mobilnost.hr)
+ - [https://mobilnost.hr](https://mobilnost.hr)
  - date_published: 2024-09-15T20:58:14.104946+00:00
 
  ## TV Program - MojTV.hr - Najopširniji tjedni TV raspored za 180+ kanala
@@ -2137,7 +2611,7 @@
  - date_published: 2024-04-29T05:01:48.294999+00:00
 
  ## Morski HR
- - [http://morski.hr](http://morski.hr)
+ - [https://morski.hr](https://morski.hr)
  - date_published: 2024-09-24T22:11:04.105800+00:00
 
  ## Možemo! Karlovac - Početna - Možemo! Karlovac
@@ -2149,7 +2623,7 @@
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## Možemo! Osijek - Mijenjajmo zajedno!
- - [http://osijek.mozemo.hr](http://osijek.mozemo.hr)
+ - [https://osijek.mozemo.hr](https://osijek.mozemo.hr)
  - date_published: 2024-07-13T00:04:23.043868+00:00
 
  ## Možemo!
@@ -2169,11 +2643,11 @@
  - date_published: 2022-02-12T00:00:00+00:00
 
  ## Možemo! Rijeka - Mijenjajmo zajedno!
- - [https://www.mozemorijeka.hr](https://www.mozemorijeka.hr)
+ - [https://mozemorijeka.hr](https://mozemorijeka.hr)
  - date_published: 2021-05-17T00:00:00+00:00
 
  ## Muzej Suvremene Umjetnosti, Zagreb
- - [http://www.msu.hr](http://www.msu.hr)
+ - [https://msu.hr](https://msu.hr)
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## Forbes Hrvatska - Biznis. Uspjeh. Forbes
@@ -2201,11 +2675,11 @@
  - date_published: 2024-09-02T11:16:03.635187+00:00
 
  ## NAIS - Niko Airport Information System
- - [https://www.nais.hr](https://www.nais.hr)
+ - [https://nais.hr](https://nais.hr)
  - date_published: 2024-07-15T04:37:35.507562+00:00
 
  ## Nestlé Početna stranica
- - [http://www.nestle.hr](http://www.nestle.hr)
+ - [https://www.nestle.hr](https://www.nestle.hr)
  - date_published: 2024-09-14T21:07:40+00:00
 
  ## Gradimo digitalno | netmedia
@@ -2221,15 +2695,15 @@
  - date_published: 2024-05-12T05:11:42.470770+00:00
 
  ## Web dućan -  Nort d.o.o.
- - [http://www.nort.hr](http://www.nort.hr)
+ - [https://nort.hr](https://nort.hr)
  - date_published: 2024-09-26T10:32:02.025008+00:00
 
  ## Početna - Novi list
- - [https://www.novilist.hr](https://www.novilist.hr)
+ - [https://novilist.hr](https://novilist.hr)
  - date_published: 2024-01-07T00:00:00+00:00
 
  ## Opel Hrvatska | Nova osobna i gospodarska vozila
- - [https://www.opel.hr](https://www.opel.hr)
+ - [https://opel.hr](https://opel.hr)
  - date_published: 2024-07-11T09:49:05+00:00
 
  ## Hrvatska udruga za otvorene sustave i Internet
@@ -2245,7 +2719,7 @@
  - date_published: 2024-05-07T23:46:50.940243+00:00
 
  ## ExaByte - Naslovnica
- - [http://www.orion-web.hr](http://www.orion-web.hr)
+ - [https://orion-web.hr](https://orion-web.hr)
  - date_published: 2024-08-11T15:38:29+00:00
 
  ## OTP banka Internet bankarstvo
@@ -2257,7 +2731,7 @@
  - date_published: 2024-06-14T21:07:55+00:00
 
  ## Trgovina za slagalice, društvene igre, audio, gaming dodatke i igračke | Ozone.hr
- - [https://www.ozone.hr](https://www.ozone.hr)
+ - [https://ozone.hr](https://ozone.hr)
  - date_published: 2024-10-17T07:12:34.660414+00:00
 
  ## Parlametar
@@ -2265,15 +2739,15 @@
  - date_published: 2024-05-15T00:00:00+00:00
 
  ## PBZ | Građani
- - [http://www.pbz.hr](http://www.pbz.hr)
+ - [https://pbz.hr](https://pbz.hr)
  - date_published: 2024-09-23T00:00:00+00:00
 
  ## PES creative factory
- - [https://www.pes.hr](https://www.pes.hr)
+ - [https://pes.hr](https://pes.hr)
  - date_published: 2024-08-18T08:41:19.127980+00:00
 
  ## Petrol | Energija za život
- - [https://www.petrol.hr](https://www.petrol.hr)
+ - [https://petrol.hr](https://petrol.hr)
  - date_published: 2024-07-21T04:29:32.994721+00:00
 
  ## Philips - Hrvatska
@@ -2301,7 +2775,7 @@
  - date_published: 2024-12-23T21:55:03.378426+00:00
 
  ## Radio Dalmacija - Sve Bitno
- - [https://www.radiodalmacija.hr](https://www.radiodalmacija.hr)
+ - [https://radiodalmacija.hr](https://radiodalmacija.hr)
  - date_published: 2024-06-16T04:19:34.822452+00:00
 
  ## Otvoreni natječaji
@@ -2313,11 +2787,11 @@
  - date_published: 2024-10-31T17:02:32.954385+00:00
 
  ## RBA - Raiffeisenbank Hrvatska
- - [https://www.rba.hr](https://www.rba.hr)
+ - [https://rba.hr](https://rba.hr)
  - date_published: 2024-07-22T12:00:33.658038+00:00
 
  ## Home - Remisija
- - [http://www.remisija.hr](http://www.remisija.hr)
+ - [https://remisija.hr](https://remisija.hr)
  - date_published: 2023-02-05T00:00:00+00:00
 
  ## Sage HR Knowledge Base
@@ -2337,7 +2811,7 @@
  - date_published: 2024-08-19T12:55:56.790674+00:00
 
  ## Simplify – The South African enterprise grade cloud-based ATS system for all companies – Simplify – The South African enterprise grade cloud-based ATS system for all companies
- - [https://www.simplify.hr](https://www.simplify.hr)
+ - [https://simplify.hr](https://simplify.hr)
  - date_published: 2024-09-03T23:22:15.856793+00:00
 
  ## Zeitz Museum of Contemporary Art Africa
@@ -2362,7 +2836,7 @@
  - date_published: 2024-04-29T07:18:58.686026+00:00
 
  ## Sony Hrvatska | Najnovije vijesti iz područja tehnologije | Elektronika | Zabava
- - [http://www.sony.hr](http://www.sony.hr)
+ - [https://sony.hr](https://sony.hr)
  - date_published: 2024-10-21T07:37:21.992716+00:00
 
  ## SophosLab - Site
@@ -2374,11 +2848,11 @@
  - date_published: 2024-09-24T22:05:11.116471+00:00
 
  ## Split Parking d.o.o.
- - [https://www.splitparking.hr](https://www.splitparking.hr)
+ - [https://splitparking.hr](https://splitparking.hr)
  - date_published: 2024-09-24T22:11:16.013011+00:00
 
  ## Ponuda nekretnina Split  - Hrvatska - Splitski vali
- - [https://www.splitskivali.hr](https://www.splitskivali.hr)
+ - [https://splitskivali.hr](https://splitskivali.hr)
  - date_published: 2024-09-24T22:10:59.433571+00:00
 
  ## ZOSOSIJEK - ZOS
@@ -2402,11 +2876,11 @@
  - date_published: 2024-07-29T00:00:00+00:00
 
  ## Srđ je Grad – stranka Srđ je Grad
- - [https://www.srdjegrad.hr](https://www.srdjegrad.hr)
+ - [https://srdjegrad.hr](https://srdjegrad.hr)
  - date_published: 2024-07-13T00:04:26.647176+00:00
 
  ## Statkraft Croatia
- - [https://www.statkraft.hr](https://www.statkraft.hr)
+ - [https://statkraft.hr](https://statkraft.hr)
  - date_published: 2024-04-05T00:00:00+00:00
 
  ## StoneBlock – Blockchain Association
@@ -2438,7 +2912,7 @@
  - date_published: 2024-06-15T03:29:54+00:00
 
  ## Home
- - [http://systich.hr](http://systich.hr)
+ - [https://systich.hr](https://systich.hr)
  - date_published: 2024-07-08T18:21:55.040181+00:00
 
  ## Home
@@ -2450,7 +2924,7 @@
  - date_published: 2024-01-17T00:00:00+00:00
 
  ## Taxi
- - [https://www.taxivodice.hr](https://www.taxivodice.hr)
+ - [https://taxivodice.hr](https://taxivodice.hr)
  - date_published: 2024-10-21T19:42:20.006344+00:00
 
  ## Hey, I'm imgproxy!
@@ -2461,13 +2935,13 @@
  - [https://talk.telegram.hr](https://talk.telegram.hr)
  - date_published: 2024-09-24T22:11:34.117748+00:00
 
+ ## Telegram.hr
+ - [https://telegram.hr](https://telegram.hr)
+ - date_published: 2024-06-16T04:19:30.087916+00:00
+
  ## Telesport.hr
  - [https://telesport.telegram.hr](https://telesport.telegram.hr)
  - date_published: 2024-09-24T22:11:35.774224+00:00
-
- ## Telegram.hr
- - [https://www.telegram.hr](https://www.telegram.hr)
- - date_published: 2024-06-16T04:19:30.087916+00:00
 
  ## Telegram Media Grupa
  - [https://telegramgrupa.hr](https://telegramgrupa.hr)
@@ -2486,24 +2960,28 @@
  - date_published: 2024-09-24T22:14:31.342014+00:00
 
  ## TOYOTA u Hrvatskoj. Saznajte sve o Toyota modelima.
- - [https://www.toyota.hr](https://www.toyota.hr)
+ - [https://toyota.hr](https://toyota.hr)
  - date_published: 2024-02-28T00:00:00+00:00
 
  ## III. gimnazija, Split – Prirodoslovno-matematička gimnazija
- - [http://www.trema.hr](http://www.trema.hr)
+ - [https://trema.hr](https://trema.hr)
  - date_published: 2024-09-24T22:08:29.919964+00:00
 
  ## trivago.hr - Compare hotel prices worldwide
- - [https://www.trivago.hr](https://www.trivago.hr)
+ - [https://trivago.hr](https://trivago.hr)
  - date_published: 2024-09-04T11:19:57.985476+00:00
+
+ ## Fakultet primijenjene matematike i informatike
+ - [https://mathos.unios.hr](https://mathos.unios.hr)
+ - date_published: 2024-07-03T10:32:42.087825+00:00
 
  ## Osijek Competitive Programming Camp
  - [https://ocpc.mathos.unios.hr](https://ocpc.mathos.unios.hr)
  - date_published: 2024-07-03T10:32:47.899836+00:00
 
- ## Fakultet primijenjene matematike i informatike
- - [https://www.mathos.unios.hr](https://www.mathos.unios.hr)
- - date_published: 2024-07-03T10:32:42.087825+00:00
+ ## Naslovnica - Fakultet informatike i digitalnih tehnologija
+ - [https://inf.uniri.hr](https://inf.uniri.hr)
+ - date_published: 2024-09-04T03:59:13+00:00
 
  ## Medicinski Fakultet u Rijeci – MEDRI
  - [https://medri.uniri.hr](https://medri.uniri.hr)
@@ -2517,36 +2995,32 @@
  - [https://uniri.hr](https://uniri.hr)
  - date_published: 2024-10-30T20:16:52.232786+00:00
 
- ## Naslovnica - Fakultet informatike i digitalnih tehnologija
- - [https://www.inf.uniri.hr](https://www.inf.uniri.hr)
- - date_published: 2024-09-04T03:59:13+00:00
-
  ## FESB
- - [https://www.fesb.unist.hr](https://www.fesb.unist.hr)
+ - [https://fesb.unist.hr](https://fesb.unist.hr)
  - date_published: 2017-01-26T11:15:23+00:00
 
  ## Naslovna - Prirodoslovno-matematički fakultet u Splitu
- - [http://www.pmfst.unist.hr](http://www.pmfst.unist.hr)
+ - [https://pmfst.unist.hr](https://pmfst.unist.hr)
  - date_published: 2024-09-10T00:00:00+00:00
 
  ## Fakultet elektrotehnike i računarstva
- - [http://fer.unizg.hr](http://fer.unizg.hr)
+ - [https://fer.unizg.hr](https://fer.unizg.hr)
  - date_published: 2024-07-31T00:00:00+00:00
 
  ## FF Open Press - izdanja Filozofskog fakulteta u Zagrebu u otvorenom pristupu
  - [https://openbooks.ffzg.unizg.hr](https://openbooks.ffzg.unizg.hr)
  - date_published: 2024-07-04T13:16:13.641845+00:00
 
+ ## Naslovna - Pravni fakultet Sveučilišta u Zagrebu
+ - [https://pravo.unizg.hr](https://pravo.unizg.hr)
+ - date_published: 2023-07-04T09:44:40+00:00
+
  ## Smotra Sveučilišta u Zagrebu
  - [http://smotra.unizg.hr](http://smotra.unizg.hr)
  - date_published: 2024-12-15T13:24:36.302050+00:00
 
- ## Naslovna - Pravni fakultet Sveučilišta u Zagrebu
- - [https://www.pravo.unizg.hr](https://www.pravo.unizg.hr)
- - date_published: 2024-10-18T21:08:53.634138+00:00
-
  ## Srce | Sveučilišni računski centar (Srce)
- - [https://www.srce.unizg.hr](https://www.srce.unizg.hr)
+ - [https://srce.unizg.hr](https://srce.unizg.hr)
  - date_published: 2024-06-16T14:38:24.228236+00:00
 
  ## Sveučilište u Zagrebu
@@ -2556,6 +3030,10 @@
  ## Vodovod Split
  - [https://moj.vik-split.hr](https://moj.vik-split.hr)
  - date_published: 2023-03-09T08:04:05+00:00
+
+ ## Vinted | Prodavajte i kupujte odjeću, obuću i modne dodatke
+ - [https://www.vinted.hr](https://www.vinted.hr)
+ - date_published: 2024-12-29T22:37:00.433710+00:00
 
  ## Home » Visit Dubrovnik
  - [https://visitdubrovnik.hr](https://visitdubrovnik.hr)
@@ -2578,7 +3056,7 @@
  - date_published: 2024-10-31T00:47:22.520412+00:00
 
  ## Woodsign | iOS App Development
- - [http://woodsign.hr](http://woodsign.hr)
+ - [https://woodsign.hr](https://woodsign.hr)
  - date_published: 2024-07-04T06:32:25.932287+00:00
 
  ## wpd Adria je regionalni developer projekata obnovljivih izvora energij
@@ -2590,7 +3068,7 @@
  - date_published: 2024-03-26T12:16:53+00:00
 
  ## Zagrebačka banka d.d.
- - [https://www.zaba.hr](https://www.zaba.hr)
+ - [https://zaba.hr](https://zaba.hr)
  - date_published: 2021-09-09T12:33:11+00:00
 
  ## Pulser
@@ -2610,11 +3088,11 @@
  - date_published: 2024-06-15T03:32:23.187816+00:00
 
  ## Početna - Žene i mediji
- - [https://www.zeneimediji.hr](https://www.zeneimediji.hr)
+ - [https://zeneimediji.hr](https://zeneimediji.hr)
  - date_published: 2024-09-24T22:11:24.777718+00:00
 
  ## Home - ZICER
- - [https://www.zicer.hr](https://www.zicer.hr)
+ - [https://zicer.hr](https://zicer.hr)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Zoetis
@@ -2626,20 +3104,22 @@
  - date_published: 2024-09-26T11:23:49.652183+00:00
 
  ## Hrana i oprema za kućne ljubimce online - zooplus
- - [https://www.zooplus.hr](https://www.zooplus.hr)
+ - [https://zooplus.hr](https://zooplus.hr)
  - date_published: 2024-06-16T06:27:40.022009+00:00
 
  ## Zrno Soli Restaurant | Michelin Guide Croatia 2018., 2019., 2020., 2021., 2022., 2023.
- - [https://www.zrnosoli.hr](https://www.zrnosoli.hr)
+ - [https://zrnosoli.hr](https://zrnosoli.hr)
  - date_published: 2024-08-28T07:21:42+00:00
 
  ## Making software better without sacrificing user experience.
  - [https://bt.ht](https://bt.ht)
  - date_published: 2023-10-25T19:28:21.149097+00:00
+ - date_dead_since: 2024-12-29T13:02:43.773710+00:00
 
  ## Shinobi Website | A text-based, RSS focused blogging "system"
  - [https://shinobi.bt.ht](https://shinobi.bt.ht)
  - date_published: 2023-10-25T19:28:22.061141+00:00
+ - date_dead_since: 2024-12-29T13:02:44.603407+00:00
 
  ## Charlie Hothersall-Thomas
  - [https://charlie.ht](https://charlie.ht)
@@ -2657,13 +3137,13 @@
  - [https://vlad.git.ht](https://vlad.git.ht)
  - date_published: 2024-08-19T03:24:58.308012+00:00
 
+ ## Google
+ - [https://google.ht](https://google.ht)
+ - date_published: 2024-06-21T22:25:58.181134+00:00
+
  ## Zanim przejdziesz do Map Google
  - [https://maps.google.ht](https://maps.google.ht)
  - date_published: 2024-07-20T07:38:52.036734+00:00
-
- ## Google
- - [https://www.google.ht](https://www.google.ht)
- - date_published: 2024-06-21T22:25:58.181134+00:00
 
  ## Insight Timer - #1 Free Meditation App for Sleep, Relax & More
  - [https://insig.ht](https://insig.ht)
@@ -2720,6 +3200,7 @@
  ## Statement regarding the ongoing SourceHut outage
  - [https://outage.sr.ht](https://outage.sr.ht)
  - date_published: 2024-01-12T10:26:28.064983+00:00
+ - date_dead_since: 2024-12-29T13:03:21.596714+00:00
 
  ## paste.sr.ht
  - [https://paste.sr.ht](https://paste.sr.ht)
@@ -2751,7 +3232,7 @@
  - date_published: 2024-04-28T05:58:49.971085+00:00
 
  ## zz.ht
- - [https://zz.ht](https://zz.ht)
+ - [http://zz.ht](http://zz.ht)
  - date_published: 2024-06-23T17:52:40.778592+00:00
 
  ## Webtárhely, VPS, Domain, Szerver hosting
@@ -2763,7 +3244,7 @@
  - date_published: 2024-06-15T20:09:42.394640+00:00
 
  ## EF Education First | Magyarország
- - [https://www.ef.co.hu](https://www.ef.co.hu)
+ - [https://ef.co.hu](https://ef.co.hu)
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## 20Y
@@ -2771,7 +3252,7 @@
  - date_published: 2022-05-31T08:07:58+00:00
 
  ## 220volt.hu - fényképezőgépek és tartozékok áruháza
- - [http://www.220volt.hu](http://www.220volt.hu)
+ - [https://220volt.hu](https://220volt.hu)
  - date_published: 2024-07-13T13:39:05+00:00
 
  ## National Geographic | Magyarország
@@ -2779,7 +3260,7 @@
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## 3M Science. Applied to Life.™ | 3M Magyarország
- - [https://www.3mmagyarorszag.hu](https://www.3mmagyarorszag.hu)
+ - [https://3mmagyarorszag.hu](https://3mmagyarorszag.hu)
  - date_published: 2024-08-06T10:37:41.770193+00:00
 
  ## 4iG Nyrt. - Partner a digitális megújulásban
@@ -2787,19 +3268,19 @@
  - date_published: 2024-09-04T04:21:58.063102+00:00
 
  ## PlayIT Store - Videójáték webáruház
- - [http://576kb.hu](http://576kb.hu)
+ - [https://576kb.hu](https://576kb.hu)
  - date_published: 2024-06-15T03:29:48+00:00
 
  ## Abarth Magyarország
- - [https://www.abarth.hu](https://www.abarth.hu)
+ - [https://abarth.hu](https://abarth.hu)
  - date_published: 2024-07-10T18:05:32+00:00
 
  ## Online divat 1500 legnépszerűbb márkától | ABOUT YOU
- - [https://m.aboutyou.hu](https://m.aboutyou.hu)
+ - [https://aboutyou.hu](https://aboutyou.hu)
  - date_published: 2024-09-17T20:28:31+00:00
 
  ## Online divat 1500 legnépszerűbb márkától | ABOUT YOU
- - [https://www.aboutyou.hu](https://www.aboutyou.hu)
+ - [https://m.aboutyou.hu](https://m.aboutyou.hu)
  - date_published: 2024-09-17T20:28:31+00:00
 
  ## ACE Telecom | Egyszerűen csak működik
@@ -2831,7 +3312,7 @@
  - date_published: 2024-08-11T15:39:52.760825+00:00
 
  ## Antenna Hungária
- - [https://www.ahrt.hu](https://www.ahrt.hu)
+ - [https://ahrt.hu](https://ahrt.hu)
  - date_published: 2024-09-04T04:21:55.188684+00:00
 
  ## Airbnb | Nyaralók, víkendházak, strandközeli házak és egyebek
@@ -2845,59 +3326,60 @@
  ## Redirecting...
  - [https://web.akademiai.hu](https://web.akademiai.hu)
  - date_published: 2024-05-09T06:32:19.593235+00:00
+ - date_dead_since: 2024-12-29T13:09:44.065217+00:00
 
  ## Sportautó, SUV és crossover | Alfa Romeo
- - [https://www.alfaromeo.hu](https://www.alfaromeo.hu)
+ - [https://alfaromeo.hu](https://alfaromeo.hu)
  - date_published: 2024-06-18T09:40:28+00:00
 
  ## Alza.hu – Kényelmes és biztonságos vásárlás | Alza.hu
- - [https://www.alza.hu](https://www.alza.hu)
+ - [http://alza.hu](http://alza.hu)
  - date_published: 2024-09-16T02:46:12.563783+00:00
 
  ## Ambrits Tamás – fotógalériája
- - [https://www.ambrits.hu](https://www.ambrits.hu)
+ - [https://ambrits.hu](https://ambrits.hu)
  - date_published: 2024-06-20T04:58:14.691009+00:00
 
  ## amiga.hu
- - [http://amiga.hu](http://amiga.hu)
+ - [https://amiga.hu](https://amiga.hu)
  - date_published: 2024-07-08T19:30:11+00:00
 
  ## Apróhirdetés
- - [http://apro.amiga.hu](http://apro.amiga.hu)
+ - [https://apro.amiga.hu](https://apro.amiga.hu)
  - date_published: 2024-07-08T19:12:21.304941+00:00
 
  ## Index of /
- - [http://amigamania.amigaspirit.hu](http://amigamania.amigaspirit.hu)
+ - [https://amigamania.amigaspirit.hu](https://amigamania.amigaspirit.hu)
  - date_published: 2024-07-08T19:13:27.177922+00:00
  - tags: ['amiga mania']
 
  ## amigaspirit.hu
- - [http://amigaspirit.hu](http://amigaspirit.hu)
+ - [https://amigaspirit.hu](https://amigaspirit.hu)
  - date_published: 2023-12-11T18:55:28.039900+00:00
  - tags: ['amiga']
 
  ## Index of /
- - [http://dh1.amigaspirit.hu](http://dh1.amigaspirit.hu)
+ - [https://dh1.amigaspirit.hu](https://dh1.amigaspirit.hu)
  - date_published: 2024-07-08T19:38:36.920187+00:00
 
  ## amigaspirit.hu fórum
- - [http://forum.amigaspirit.hu](http://forum.amigaspirit.hu)
+ - [https://forum.amigaspirit.hu](https://forum.amigaspirit.hu)
  - date_published: 2024-07-08T19:13:17.613118+00:00
 
  ## Amiga Klub – amigaspirit.hu - pegasos.hu Wiki
- - [http://klub.amigaspirit.hu](http://klub.amigaspirit.hu)
+ - [https://klub.amigaspirit.hu](https://klub.amigaspirit.hu)
  - date_published: 2022-03-07T02:38:01+00:00
 
  ## amigaspirit.hu - pegasos.hu Wiki
- - [http://wiki.amigaspirit.hu](http://wiki.amigaspirit.hu)
+ - [https://wiki.amigaspirit.hu](https://wiki.amigaspirit.hu)
  - date_published: 2022-03-07T02:38:01+00:00
 
  ## AmigaVilag.hu | AmigaVilag.hu | Internetes blog. Magyar elektro art portál!
- - [http://www.amigavilag.hu](http://www.amigavilag.hu)
+ - [https://amigavilag.hu](https://amigavilag.hu)
  - date_published: 2024-07-08T19:38:09.982125+00:00
 
  ## Apowersoft - Multimédiás megoldások üzleti és mindennapi igényekre fejlesztve
- - [https://www.apowersoft.hu](https://www.apowersoft.hu)
+ - [https://apowersoft.hu](https://apowersoft.hu)
  - date_published: 2024-06-23T16:06:03.364245+00:00
 
  ## AQUA Webáruház - Számíthatsz ránk!
@@ -2905,11 +3387,11 @@
  - date_published: 2024-10-17T07:15:21.042500+00:00
 
  ## Cloud Computing, PRO & VPS Servers, Storage & Backup | ArubaCloud.hu
- - [https://www.arubacloud.hu](https://www.arubacloud.hu)
+ - [https://arubacloud.hu](https://arubacloud.hu)
  - date_published: 2024-10-21T10:01:58.469571+00:00
 
  ## Árukereső.hu
- - [https://www.arukereso.hu](https://www.arukereso.hu)
+ - [https://arukereso.hu](https://arukereso.hu)
  - date_published: 2024-09-16T02:19:27.136963+00:00
 
  ## ÁruMánia műszaki webáruház - Műszaki cikkek, mobiltelefon, tablet, szerszám, szórakoztató elektronika
@@ -2917,12 +3399,13 @@
  - date_published: 2024-11-08T13:06:57.219558+00:00
 
  ## Astronet.hu - Horoszkóp, Asztrológia, Ezotéria
- - [https://www.astronet.hu](https://www.astronet.hu)
+ - [https://astronet.hu](https://astronet.hu)
  - date_published: 2024-09-04T04:21:15.605900+00:00
 
  ## Maintenance
  - [https://asvanytan.hu](https://asvanytan.hu)
  - date_published: 2023-08-16T12:46:04+00:00
+ - date_dead_since: 2024-12-29T13:12:00.688790+00:00
 
  ## ATLAS FOR MEN - A kültéri ruházat és kiegészítők szakértője
  - [https://atlasformen.hu](https://atlasformen.hu)
@@ -2933,7 +3416,7 @@
  - date_published: 2024-09-04T17:35:07.709211+00:00
 
  ## Tényfeltárás, oknyomozás, adatújságírás - Átlátszó
- - [http://www.atlatszo.hu](http://www.atlatszo.hu)
+ - [https://atlatszo.hu](https://atlatszo.hu)
  - date_published: 2024-10-18T06:21:53.340909+00:00
 
  ## Webtárhely, VPS, Domain, Szerver hosting • ATW.hu
@@ -2980,6 +3463,7 @@
  ## Index of /
  - [http://www.autobild.hu](http://www.autobild.hu)
  - date_published: 2024-07-24T22:35:22.443674+00:00
+ - date_dead_since: 2024-12-29T13:15:02.208424+00:00
 
  ## autoDNA Partneri Program
  - [https://afilio.autodna.hu](https://afilio.autodna.hu)
@@ -2994,11 +3478,11 @@
  - date_published: 2024-07-13T19:19:22.282521+00:00
 
  ## Autó-Motor
- - [https://www.automotor.hu](https://www.automotor.hu)
+ - [https://automotor.hu](https://automotor.hu)
  - date_published: 2024-09-04T04:06:23+00:00
 
  ## The Golden Road to Avonlea - fanpage for RTA fans
- - [http://avonlea.hu](http://avonlea.hu)
+ - [https://avonlea.hu](https://avonlea.hu)
  - date_published: 2024-06-18T21:38:52.302290+00:00
 
  ## Balaton Piknik 2024
@@ -3010,7 +3494,7 @@
  - date_published: 2022-11-10T09:17:11+00:00
 
  ## Blank page
- - [https://azenkertem.bama.hu](https://azenkertem.bama.hu)
+ - [http://azenkertem.bama.hu](http://azenkertem.bama.hu)
  - date_published: 2024-09-04T04:20:43.150363+00:00
 
  ## 🎉Szavazzon Az év színészére!🎉
@@ -3018,7 +3502,7 @@
  - date_published: 2024-09-04T04:20:50.707520+00:00
 
  ## BAMA - Baranya vármegyei hírportál
- - [https://bama.hu](https://bama.hu)
+ - [http://bama.hu](http://bama.hu)
  - date_published: 2024-06-01T05:14:17.650923+00:00
 
  ## Napilap - BAMA - Napilap
@@ -3030,11 +3514,11 @@
  - date_published: 2024-05-13T03:09:52.565726+00:00
 
  ## BAON - Bács-Kiskun vármegyei hírportál
- - [https://www.baon.hu](https://www.baon.hu)
+ - [https://baon.hu](https://baon.hu)
  - date_published: 2024-09-04T04:20:13.768775+00:00
 
  ## Barba Negra
- - [https://www.barbanegra.hu](https://www.barbanegra.hu)
+ - [https://barbanegra.hu](https://barbanegra.hu)
  - date_published: 2024-07-20T14:52:00.121304+00:00
 
  ## ! Kannabisz- és marihuánamagok | BARNEYS FARM® Seed Bank
@@ -3042,7 +3526,7 @@
  - date_published: 2024-12-11T11:58:25.150662+00:00
 
  ## Főoldal - Barré Technologies Zrt.
- - [https://www.barre.hu](https://www.barre.hu)
+ - [https://barre.hu](https://barre.hu)
  - date_published: 2024-07-26T00:00:00+00:00
 
  ## Danubius Média
@@ -3054,19 +3538,19 @@
  - date_published: 2024-02-08T17:57:51.449601+00:00
 
  ## BEOL - Békés vármegyei hírportál
- - [https://www.beol.hu](https://www.beol.hu)
+ - [http://beol.hu](http://beol.hu)
  - date_published: 2024-09-04T04:19:42.432299+00:00
 
  ## Élelmiszertermelés és forgalmazás | Bidfood.cz
- - [https://www.bidfood.hu](https://www.bidfood.hu)
+ - [https://bidfood.hu](https://bidfood.hu)
  - date_published: 2024-10-15T13:56:16+00:00
 
  ## BioIntelligence Site
- - [http://biointelligence.hu](http://biointelligence.hu)
+ - [https://biointelligence.hu](https://biointelligence.hu)
  - date_published: 2022-01-09T20:16:56+00:00
 
  ## Magyar Bitcoin Portál | Bitcoin és kriptopénz kereskedés
- - [http://bitcoin.hu](http://bitcoin.hu)
+ - [https://bitcoin.hu](https://bitcoin.hu)
  - date_published: 2024-07-08T19:39:09.472505+00:00
 
  ## Busz- és telekocsiutak kedvező áron.  | BlaBlaCar
@@ -3078,7 +3562,7 @@
  - date_published: 2024-09-15T19:55:48.120161+00:00
 
  ## Blikk
- - [https://www.blikk.hu](https://www.blikk.hu)
+ - [https://blikk.hu](https://blikk.hu)
  - date_published: 2015-10-14T12:17:00+00:00
 
  ## Vegetáriánus és vega ételek
@@ -3150,7 +3634,7 @@
  - date_published: 2024-09-02T00:00:00+00:00
 
  ## Fővárosi Blog
- - [http://fovarosi.blog.hu](http://fovarosi.blog.hu)
+ - [https://fovarosi.blog.hu](https://fovarosi.blog.hu)
  - date_published: 2024-06-24T00:00:00+00:00
 
  ## FREEDEE BLOG
@@ -3271,15 +3755,15 @@
  - date_published: 2024-09-02T00:00:00+00:00
 
  ## Alien Explorations
- - [http://alienexplorations.blogspot.hu](http://alienexplorations.blogspot.hu)
+ - [https://alienexplorations.blogspot.hu](https://alienexplorations.blogspot.hu)
  - date_published: 2024-10-24T09:07:19+00:00
 
  ## Poemas del río Wang
- - [http://riowang.blogspot.hu](http://riowang.blogspot.hu)
+ - [https://riowang.blogspot.hu](https://riowang.blogspot.hu)
  - date_published: 2024-08-19T11:09:51+00:00
 
  ## NLP Meetup - Számítógépes Nyelvészet
- - [http://szamitogepesnyelveszet.blogspot.hu](http://szamitogepesnyelveszet.blogspot.hu)
+ - [https://szamitogepesnyelveszet.blogspot.hu](https://szamitogepesnyelveszet.blogspot.hu)
  - date_published: 2024-03-05T23:00:29+00:00
 
  ## Főoldal | BME központi portál
@@ -3306,6 +3790,10 @@
  - [https://konferencia.simonyi.bme.hu](https://konferencia.simonyi.bme.hu)
  - date_published: 2024-06-01T05:14:21.381074+00:00
 
+ ## Mesterséges Intelligencia és Rendszertervezés Tanszék | Budapesti Műszaki és Gazdaságtudományi Egyetem (BME), Villamosmérnöki és Informatikai Kar (VIK)
+ - [https://mit.bme.hu](https://mit.bme.hu)
+ - date_published: 2024-07-10T08:08:45+00:00
+
  ## BME VIK - Főoldal
  - [https://portal.vik.bme.hu](https://portal.vik.bme.hu)
  - date_published: 2024-07-10T08:08:39.956382+00:00
@@ -3331,35 +3819,31 @@
  - date_published: 2024-06-17T08:52:17.323036+00:00
 
  ## webmail.eik.bme.hu
- - [http://webmail.eik.bme.hu](http://webmail.eik.bme.hu)
+ - [https://webmail.eik.bme.hu](https://webmail.eik.bme.hu)
  - date_published: 2019-01-31T15:59:00+00:00
 
- ## Mesterséges Intelligencia és Rendszertervezés Tanszék | Budapesti Műszaki és Gazdaságtudományi Egyetem (BME), Villamosmérnöki és Informatikai Kar (VIK)
- - [https://www.mit.bme.hu](https://www.mit.bme.hu)
- - date_published: 2024-07-10T08:08:45+00:00
-
  ## zero.eik.bme.hu
- - [http://zero.eik.bme.hu](http://zero.eik.bme.hu)
+ - [https://zero.eik.bme.hu](https://zero.eik.bme.hu)
  - date_published: 2020-03-17T09:29:25+00:00
 
  ## BMW
- - [https://www.bmw-wallis.hu](https://www.bmw-wallis.hu)
+ - [https://bmw-wallis.hu](https://bmw-wallis.hu)
  - date_published: 2024-07-03T06:35:31.640522+00:00
 
  ## Üdvözöllek honlapomon!
- - [http://www.bogex.hu](http://www.bogex.hu)
+ - [https://bogex.hu](https://bogex.hu)
  - date_published: 2024-07-08T19:38:51.215280+00:00
 
  ## BOON - Borsod-Abaúj-Zemplén vármegyei hírportál
- - [https://www.boon.hu](https://www.boon.hu)
+ - [https://boon.hu](https://boon.hu)
  - date_published: 2024-09-04T04:20:02.624800+00:00
 
  ## BorsOnline - Aktuális – Celeb – Sport – Test és Lélek
- - [https://www.borsonline.hu](https://www.borsonline.hu)
+ - [https://borsonline.hu](https://borsonline.hu)
  - date_published: 2024-09-04T04:21:10.640718+00:00
 
  ## Kezdőlap
- - [https://www.bosch.hu](https://www.bosch.hu)
+ - [https://bosch.hu](https://bosch.hu)
  - date_published: 2024-06-22T03:15:03+00:00
 
  ## Brother Online
@@ -3387,19 +3871,19 @@
  - date_published: 2024-05-07T23:39:59.191614+00:00
 
  ## C3 - videóarchívum és médiaművészeti gyűjtemény katalógus
- - [http://catalog.c3.hu](http://catalog.c3.hu)
+ - [https://catalog.c3.hu](https://catalog.c3.hu)
  - date_published: 2024-07-02T22:29:18.881261+00:00
 
  ## Domainregisztráció - C3
- - [http://domreg.c3.hu](http://domreg.c3.hu)
+ - [https://domreg.c3.hu](https://domreg.c3.hu)
  - date_published: 2024-07-02T22:29:23.605563+00:00
 
  ## Freemail bejelentkezés
- - [http://freemail.c3.hu](http://freemail.c3.hu)
+ - [https://freemail.c3.hu](https://freemail.c3.hu)
  - date_published: 2024-07-02T22:29:16.094275+00:00
 
  ## Welcome! Willkommen! Bienvenue!
- - [http://homepage.c3.hu](http://homepage.c3.hu)
+ - [https://homepage.c3.hu](https://homepage.c3.hu)
  - date_published: 2022-05-02T08:40:38+00:00
 
  ## Google
@@ -3407,15 +3891,15 @@
  - date_published: 2024-07-02T22:29:14.388171+00:00
 
  ## Formáld a világod! <19 2023
- - [http://verseny.c3.hu](http://verseny.c3.hu)
+ - [https://verseny.c3.hu](https://verseny.c3.hu)
  - date_published: 2024-07-02T22:29:20.473489+00:00
 
  ## Cartoonito | Rajzfilmek ovisoknak, játékok és foglalkozások a Cartoonito gyerekcsatornáról
- - [https://www.cartoonito.hu](https://www.cartoonito.hu)
+ - [https://cartoonito.hu](https://cartoonito.hu)
  - date_published: 2024-09-20T18:01:29.976149+00:00
 
  ## Homepage
- - [https://casinoble.hu](https://casinoble.hu)
+ - [http://casinoble.hu](http://casinoble.hu)
  - date_published: 2024-09-19T20:32:02.321646+00:00
 
  ## Home | ecom2
@@ -3423,11 +3907,11 @@
  - date_published: 2024-09-16T02:19:44.315937+00:00
 
  ## Units | CEU People
- - [http://people.ceu.hu](http://people.ceu.hu)
+ - [https://people.ceu.hu](https://people.ceu.hu)
  - date_published: 2024-06-17T10:56:14+00:00
 
  ## CIB Bank - Magánszemélyek
- - [http://www.cib.hu](http://www.cib.hu)
+ - [https://cib.hu](https://cib.hu)
  - date_published: 2024-09-23T00:00:00+00:00
 
  ## Új autók | Személygépkocsik és haszongépjárművek | Szerviz | Citroën
@@ -3459,31 +3943,31 @@
  - date_published: 2024-05-10T04:41:22.720018+00:00
 
  ## Linkbynet - En construction
- - [https://www.citroenorigins.hu](https://www.citroenorigins.hu)
+ - [https://citroenorigins.hu](https://citroenorigins.hu)
  - date_published: 2018-04-18T13:00:13+00:00
 
  ## ClickShop webáruház
- - [http://clickshop.hu](http://clickshop.hu)
+ - [https://clickshop.hu](https://clickshop.hu)
  - date_published: 2024-07-13T09:34:18+00:00
 
  ## Climate FieldView
  - [https://climatefieldview.hu](https://climatefieldview.hu)
- - date_published: 2024-10-22T21:35:25.341539+00:00
+ - date_published: 2024-09-26T10:37:42+00:00
 
  ## Kezdőoldal - CashMan online számlázás, készletkezelés, könyvelés
- - [https://www.cmfx.hu](https://www.cmfx.hu)
+ - [https://cmfx.hu](https://cmfx.hu)
  - date_published: 2024-06-04T00:00:00+00:00
 
  ## Cofidis Magyarország - Személyi kölcsön hitelkalkulátora
- - [https://www.cofidis.hu](https://www.cofidis.hu)
+ - [https://cofidis.hu](https://cofidis.hu)
  - date_published: 2024-10-07T00:00:00+00:00
 
  ## COMMONLINE
- - [http://commonline.hu](http://commonline.hu)
+ - [https://commonline.hu](https://commonline.hu)
  - date_published: 2024-07-21T06:07:17.974540+00:00
 
  ## Conrad Electronic | All parts of success
- - [https://www.conrad.hu](https://www.conrad.hu)
+ - [https://conrad.hu](https://conrad.hu)
  - date_published: 2024-08-18T15:21:31.540969+00:00
 
  ## conspiracy | beyond.expectations
@@ -3496,7 +3980,7 @@
  - date_published: 2024-05-08T06:51:50.717807+00:00
 
  ## Createvent
- - [http://www.createvent.hu](http://www.createvent.hu)
+ - [https://createvent.hu](https://createvent.hu)
  - date_published: 2020-08-27T08:44:35+00:00
 
  ## CrySyS Blog
@@ -3508,11 +3992,11 @@
  - date_published: 2024-07-15T04:50:23.684821+00:00
 
  ## cubussapiens.hu
- - [http://cubussapiens.hu](http://cubussapiens.hu)
+ - [https://cubussapiens.hu](https://cubussapiens.hu)
  - date_published: 2024-07-18T12:19:47.808471+00:00
 
  ## Au pair munka Amerikában  | Cultural Care
- - [https://www.culturalcare.hu](https://www.culturalcare.hu)
+ - [https://culturalcare.hu](https://culturalcare.hu)
  - date_published: 2024-03-21T00:00:00+00:00
 
  ## CutPro
@@ -3528,486 +4012,10 @@
  - date_published: 2024-06-22T22:12:13.774589+00:00
 
  ## Czakó Gábor
- - [https://www.czakogabor.hu](https://www.czakogabor.hu)
+ - [https://czakogabor.hu](https://czakogabor.hu)
  - date_published: 2024-09-04T04:24:41.728941+00:00
 
  ## Random thoughts of Peter 'CzP' Czanik
  - [https://peter.czanik.hu](https://peter.czanik.hu)
  - date_published: 2023-10-25T19:28:27.255307+00:00
-
- ## Szalay Dakar Team - Kövess minket a sivatagba!
- - [http://dakar.hu](http://dakar.hu)
- - date_published: 2024-09-04T17:34:36.429431+00:00
-
- ## Das Blog - A használt autós blog
- - [https://dasblog.hu](https://dasblog.hu)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Szerver-hosting
- - [https://dataland.hu](https://dataland.hu)
- - date_published: 2024-09-04T17:34:40.640755+00:00
-
- ## Facebook
- - [https://chatbot.decathlon.hu](https://chatbot.decathlon.hu)
- - date_published: 2024-09-19T13:36:17.324471+00:00
-
- ## Decathlon webáruház - 75 sport egy helyen
- - [https://decathlon.hu](https://decathlon.hu)
- - date_published: 2024-06-15T20:23:18.251462+00:00
-
- ## Termékbérlés bárhol | Decathlon Rent
- - [https://rent.decathlon.hu](https://rent.decathlon.hu)
- - date_published: 2024-09-19T13:36:19.930116+00:00
-
- ## Üdvözlünk a Decathlon karbantartási és javítási oldalán
- - [https://support.decathlon.hu](https://support.decathlon.hu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Online Tőzsdei Kereskedés | Alacsony Árak|Kereskedés|DEGIRO
- - [https://www.degiro.hu](https://www.degiro.hu)
- - date_published: 2024-01-11T14:29:48+00:00
-
- ## DELMAGYAR - Csongrád-Csanád vármegyei hírportál
- - [https://www.delmagyar.hu](https://www.delmagyar.hu)
- - date_published: 2024-09-04T04:20:59.351785+00:00
-
- ## Deutsche Telekom IT Solutions | Life is for sharing
- - [https://www.deutschetelekomitsolutions.hu](https://www.deutschetelekomitsolutions.hu)
- - date_published: 2024-06-21T10:46:13+00:00
-
- ## A maják tévedtek. A világvége 2011-ben jött el.
- - [http://scenergy.dfmk.hu](http://scenergy.dfmk.hu)
- - date_published: 2011-02-02T01:20:24+00:00
-
- ## Üdvözöljük weboldalunkon! - Deák Ferenc Megyei és Városi Könyvtár
- - [http://www.dfmk.hu](http://www.dfmk.hu)
- - date_published: 2024-07-08T19:39:18.042491+00:00
-
- ## Gél lakk és Műköröm Alapanyagok - Diamond Nails
- - [https://www.diamondnails.hu](https://www.diamondnails.hu)
- - date_published: 2024-07-11T17:39:58+00:00
-
- ## Dianetika: A szellemi egészség modern tudománya
- - [https://www.dianetics.hu](https://www.dianetics.hu)
- - date_published: 2024-06-17T16:42:31.308081+00:00
-
- ## Dianetika: A szellemi egészség modern tudománya
- - [http://www.dianetika.hu](http://www.dianetika.hu)
- - date_published: 2024-09-04T18:52:41.374850+00:00
-
- ## Diéta és Fitnesz
- - [https://dietaesfitnesz.hu](https://dietaesfitnesz.hu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## DigiKey Home
- - [https://digikey.hu](https://digikey.hu)
- - date_published: 2024-05-01T05:04:29.183562+00:00
-
- ## DiMail.hu Hírlevélküldő Adminisztrációs felület
- - [https://admin.dimail.hu](https://admin.dimail.hu)
- - date_published: 2024-06-20T04:57:57.768062+00:00
-
- ## Disney Magyarország | A Disney hivatalos weboldala
- - [https://disney.hu](https://disney.hu)
- - date_published: 2024-06-16T01:50:38.455738+00:00
-
- ## Dívány
- - [https://divany.hu](https://divany.hu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## DKT | Digitális Közönségmérési Tanács | Budapest
- - [https://www.dkt.hu](https://www.dkt.hu)
- - date_published: 2024-06-25T21:30:36.471407+00:00
-
- ## DNV.hu - Safer Smarter Greener - DNV
- - [https://www.dnv.hu](https://www.dnv.hu)
- - date_published: 2024-09-04T15:26:09.074272+00:00
-
- ## Állapot áttekintése
- - [https://downdetector.hu](https://downdetector.hu)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Drogriporter
- - [http://www.drogriporter.hu](http://www.drogriporter.hu)
- - date_published: 2024-10-21T13:07:22.879549+00:00
-
- ## DUOL - dunaújvárosi hírportál
- - [https://www.duol.hu](https://www.duol.hu)
- - date_published: 2024-09-04T04:20:24.222648+00:00
-
- ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
- - [https://www.duracell.hu](https://www.duracell.hu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Dylan Hu
- - [https://dylan.hu](https://dylan.hu)
- - date_published: 2024-09-13T18:09:18.595428+00:00
-
- ## Dyson Magyarország | A Dyson technológia | Dyson.hu
- - [https://www.dyson.hu](https://www.dyson.hu)
- - date_published: 2024-07-07T01:56:50.955341+00:00
-
- ## ebau.hu
- - [https://ebau.hu](https://ebau.hu)
- - date_published: 2024-07-12T16:11:12.994584+00:00
-
- ## Ecommerce Expo 2025
- - [https://www.ecomexpo.hu](https://www.ecomexpo.hu)
- - date_published: 2024-12-11T11:03:18+00:00
-
- ## Ecommerce Bridge Magyarország
- - [https://www.ecommercebridge.hu](https://www.ecommercebridge.hu)
- - date_published: 2024-12-14T03:34:54.448326+00:00
-
- ## Extreme Digital Kapcsolat | eMAG Help
- - [https://edigital.hu](https://edigital.hu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## eduline.hu
- - [https://eduline.hu](https://eduline.hu)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## eduline.hu - Főoldal
- - [https://m.eduline.hu](https://m.eduline.hu)
- - date_published: 2024-07-17T07:04:59.824072+00:00
-
- ## Eduline Online Tanfolyamok
- - [https://onlinetanfolyam.eduline.hu](https://onlinetanfolyam.eduline.hu)
- - date_published: 2024-07-17T07:05:08.647517+00:00
-
- ## Effie Awards Hungary 2023
- - [https://www.effie.hu](https://www.effie.hu)
- - date_published: 2024-06-20T07:16:35.130501+00:00
-
- ## EIZO | High-end monitorok
- - [https://www.eizo.hu](https://www.eizo.hu)
- - date_published: 2024-07-09T06:59:49.977313+00:00
-
- ## A magyar e-kereskedelem sajátosságai és trendjei - ekerstat.hu
- - [https://ekerstat.hu](https://ekerstat.hu)
- - date_published: 2024-12-15T12:11:14.425691+00:00
-
- ## Page Redirection
- - [https://atomcsill.elte.hu](https://atomcsill.elte.hu)
- - date_published: 2020-09-27T17:59:25+00:00
-
- ## Eötvös Loránd Tudományegyetem
- - [https://elte.hu](https://elte.hu)
- - date_published: 2024-09-04T04:27:20.804318+00:00
-
- ## ELTE Informatikai Kar
- - [https://inf.elte.hu](https://inf.elte.hu)
- - date_published: 2024-08-18T02:48:33.254899+00:00
-
- ## BIÖP -- ELTE BTK Bölcsészettudományi Informatika Önálló Program
- - [https://magyar-irodalom.elte.hu](https://magyar-irodalom.elte.hu)
- - date_published: 2023-09-12T08:49:18+00:00
-
- ## TéTéKás Nyúz
- - [http://nyuz.elte.hu](http://nyuz.elte.hu)
- - date_published: 2024-06-30T03:02:03.881384+00:00
-
- ## ELTE Társadalomtudományi Kar
- - [http://tatk.elte.hu](http://tatk.elte.hu)
- - date_published: 2024-06-22T13:19:08.851383+00:00
-
- ## ELTE Természettudományi Kar
- - [http://ttk.elte.hu](http://ttk.elte.hu)
- - date_published: 2024-06-30T03:02:02.287891+00:00
-
- ## www.cs.elte.hu - Matematikai Intézet
- - [https://web.cs.elte.hu](https://web.cs.elte.hu)
- - date_published: 2024-05-07T15:02:18.846648+00:00
-
- ## ELTE Bölcsészettudományi Kar
- - [https://www.btk.elte.hu](https://www.btk.elte.hu)
- - date_published: 2024-09-04T04:24:44.180558+00:00
-
- ## Üdvözöljük a Matematikai Intézet weboldalán!
- - [https://www.cs.elte.hu](https://www.cs.elte.hu)
- - date_published: 2014-11-21T00:00:00+00:00
-
- ## Üdvözöljük a Matematikai Intézet weboldalán!
- - [http://www.math.elte.hu](http://www.math.elte.hu)
- - date_published: 2014-11-21T00:00:00+00:00
-
- ## ELTEbook webáruház
- - [https://eltebook.hu](https://eltebook.hu)
- - date_published: 2024-09-04T01:37:11+00:00
-
- ## E-mail megerősítése regisztráljon - eMAG Marketplace Sellers
- - [https://marketplace-leads.emag.hu](https://marketplace-leads.emag.hu)
- - date_published: 2024-09-16T02:23:34.683992+00:00
-
- ## eMAG.hu - Találj rá a keresés örömére
- - [https://www.emag.hu](https://www.emag.hu)
- - date_published: 2024-09-16T02:23:31.742310+00:00
-
- ## ENERGIAKLUB
- - [https://energiaklub.hu](https://energiaklub.hu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## https://www.facebook.com/eotvoskiado
- - [https://eotvoskiado.hu](https://eotvoskiado.hu)
- - date_published: 2023-11-10T00:00:00+00:00
-
- ## EPAM | Promising job for IT-professionals and young specialists
- - [https://careers.epam.hu](https://careers.epam.hu)
- - date_published: 2024-07-04T12:20:28.746524+00:00
-
- ## Gergo Erdi -- Érdi Gergő -- ERDI Gergo -- Cactus
- - [http://gergo.erdi.hu](http://gergo.erdi.hu)
- - date_published: 2024-01-07T13:35:42+00:00
-
- ## Magánszemélyek
- - [https://www.erstebank.hu](https://www.erstebank.hu)
- - date_published: 2024-10-02T11:11:06.318493+00:00
-
- ## Eschenbach | kezdőlap
- - [https://www.eschenbach-optik.hu](https://www.eschenbach-optik.hu)
- - date_published: 2024-12-14T04:12:48.418189+00:00
-
- ## Etigroup
- - [https://www.eti-hu.hu](https://www.eti-hu.hu)
- - date_published: 2024-09-02T14:24:11+00:00
-
- ## EU PÁLYÁZATI PORTÁL - Uniós pályázatok
- - [http://eupalyazatiportal.hu](http://eupalyazatiportal.hu)
- - date_published: 2024-09-12T14:52:03.638218+00:00
-
- ## Eurodesk - Találd meg nálunk, amit keresel
- - [http://www.eurodesk.hu](http://www.eurodesk.hu)
- - date_published: 2024-09-15T20:57:55.910309+00:00
-
- ## Euronics Műszaki Webáruház
- - [https://euronics.hu](https://euronics.hu)
- - date_published: 2024-06-15T03:30:16.697675+00:00
-
- ## Főoldal - Euronics Karrier
- - [https://karrier.euronics.hu](https://karrier.euronics.hu)
- - date_published: 2024-09-16T02:28:54.564713+00:00
-
- ## Sporthírek, élő közvetítések és eredmények - Eurosport
- - [https://eurosport.hu](https://eurosport.hu)
- - date_published: 2024-05-10T05:28:12.783060+00:00
-
- ## Koncertjegy, Jegyrendelés, Jegyvásárlás, Jegyiroda online Ticket Express ~  Eventim
- - [https://www.eventim.hu](https://www.eventim.hu)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## EWTN | Élő igazság. Katolikus élet.
- - [https://ewtn.hu](https://ewtn.hu)
- - date_published: 2024-07-04T03:00:01.511526+00:00
-
- ## exindex – kortárs képzőművészeti folyóirat
- - [http://www.exindex.hu](http://www.exindex.hu)
- - date_published: 2024-07-02T21:54:20+00:00
-
- ## Találja meg a képzést az ön számára | FANUC AKADÉMIA
- - [https://fanuc-academy.hu](https://fanuc-academy.hu)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Femina.hu - Énidő. Veled.
- - [https://femina.hu](https://femina.hu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## FEOL - Fejér vármegyei hírportál
- - [https://www.feol.hu](https://www.feol.hu)
- - date_published: 2024-09-04T04:19:52.170246+00:00
-
- ## Fesztivál FM - Minden egyről szól
- - [https://fesztivalfm.hu](https://fesztivalfm.hu)
- - date_published: 2023-01-13T15:53:41+00:00
-
- ## Civil Kerekasztal a Fenntartható Fejlődési Célokért
- - [http://ffcelok.hu](http://ffcelok.hu)
- - date_published: 2024-07-08T13:26:24.767563+00:00
-
- ## Fiat hivatalos weboldal - Új autók, promóciók és mobilitás
- - [https://www.fiat.hu](https://www.fiat.hu)
- - date_published: 2024-06-18T13:24:54+00:00
-
- ## A Fiatalok az Emberi Jogokért szervezete:  Az emberi jogok története videó, információ, hírek, oktatói csomag és könyvek
- - [http://www.fiatalokazemberijogokert.hu](http://www.fiatalokazemberijogokert.hu)
- - date_published: 2024-08-29T11:01:04+00:00
-
- ## Figyelo.hu
- - [https://figyelo.hu](https://figyelo.hu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## FilmBooster.hu
- - [https://www.filmbooster.hu](https://www.filmbooster.hu)
- - date_published: 2024-10-03T08:24:21.919490+00:00
-
- ## FIZI Themes
- - [http://fizithemes.hu](http://fizithemes.hu)
- - date_published: 2024-06-18T15:48:48.869040+00:00
-
- ## Flatio - Bérlés digitális nomádoknak minden időtartamra
- - [https://www.flatio.hu](https://www.flatio.hu)
- - date_published: 2024-06-25T17:49:49.448233+00:00
-
- ## Európa felfedezése busszal → FlixBus
- - [https://www.flixbus.hu](https://www.flixbus.hu)
- - date_published: 2024-06-28T10:09:47+00:00
-
- ## Csatlakozz a Föld órájához! - A Föld órája
- - [https://foldoraja.hu](https://foldoraja.hu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Főoldal - Forbes.hu
- - [https://forbes.hu](https://forbes.hu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## A Ford Magyarország hivatalos weboldala | Ford HU
- - [https://www.ford.hu](https://www.ford.hu)
- - date_published: 2024-06-19T10:57:45+00:00
-
- ## Fortepan — Főoldal
- - [https://fortepan.hu](https://fortepan.hu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [http://fos.hu](http://fos.hu)
- - date_published: 2024-09-04T04:14:14.053830+00:00
-
- ## Index of /
- - [https://cdn.foxpost.hu](https://cdn.foxpost.hu)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Belföldi csomagfeladás gyorsan és olcsón - FOXPOST
- - [https://foxpost.hu](https://foxpost.hu)
- - date_published: 2024-10-17T07:15:25.971650+00:00
-
- ## FranklinCovey: Világelső az eredményességfejlesztésben
- - [https://www.franklincovey.hu](https://www.franklincovey.hu)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## frank zhu
- - [https://frankz.hu](https://frankz.hu)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## Főoldal - Ember és Szabadság
- - [http://www.freedommag.hu](http://www.freedommag.hu)
- - date_published: 2024-09-04T11:11:21+00:00
-
- ## Alkalmazzon szabadúszókat és találjon freelance munkákat online
- - [https://www.freelancer.hu](https://www.freelancer.hu)
- - date_published: 2024-06-16T12:00:05.859222+00:00
-
- ## Freemail bejelentkezés
- - [https://accounts.freemail.hu](https://accounts.freemail.hu)
- - date_published: 2024-09-04T04:20:49.130937+00:00
-
- ## Freemail bejelentkezés
- - [https://freemail.hu](https://freemail.hu)
- - date_published: 2024-09-04T04:31:38.124463+00:00
-
- ## Software & Services
- - [http://www.freeweb.hu](http://www.freeweb.hu)
- - date_published: 2024-07-08T19:38:39.983089+00:00
-
- ## Family Frost
- - [http://frost.hu](http://frost.hu)
- - date_published: 2024-09-04T17:35:06.734447+00:00
-
- ## FUNCTION 2023 / September 8-10 / Budapest
- - [http://www.function.hu](http://www.function.hu)
- - date_published: 2024-07-08T19:39:31.867758+00:00
-
- ## „Fűts okosan!” a tisztább levegőért
- - [http://www.futsokosankampany.hu](http://www.futsokosankampany.hu)
- - date_published: 2024-08-08T15:05:48.861699+00:00
-
- ## FREEWEB - beavatkozás szükséges!
- - [http://winuae.fw.hu](http://winuae.fw.hu)
- - date_published: 2019-08-02T10:18:22+00:00
-
- ## Home
- - [https://www.fxstreet.hu](https://www.fxstreet.hu)
- - date_published: 2024-06-20T22:01:00.874775+00:00
-
- ## G7.hu - Gazdasági Hírmagazin
- - [https://g7.hu](https://g7.hu)
- - date_published: 2024-08-18T12:40:45.986027+00:00
-
- ## Hajápolás, bőrápolás és hajfestés, természetesen! | Garnier
- - [http://www.garnier.hu](http://www.garnier.hu)
- - date_published: 2024-10-20T22:50:58.530649+00:00
-
- ## Homepage
- - [http://www.gemius.hu](http://www.gemius.hu)
- - date_published: 2024-06-25T20:20:45+00:00
-
- ## Glami.hu - Szeretjük a divatot
- - [https://www.glami.hu](https://www.glami.hu)
- - date_published: 2024-12-14T05:24:29.121016+00:00
-
- ## Glamour
- - [https://www.glamour.hu](https://www.glamour.hu)
- - date_published: 2020-10-21T12:24:00+00:00
-
- ## Glamour
- - [http://www.glamouronline.hu](http://www.glamouronline.hu)
- - date_published: 2020-10-21T12:24:00+00:00
-
- ## Golem keyboard project
- - [https://golem.hu](https://golem.hu)
- - date_published: 2024-05-09T08:40:07.753190+00:00
-
- ## Gomibo.hu - All phones and accessories
- - [https://www.gomibo.hu](https://www.gomibo.hu)
- - date_published: 2024-10-21T22:25:54.607153+00:00
-
- ## Grafika Google
- - [http://images.google.hu](http://images.google.hu)
- - date_published: 2024-06-28T15:31:17.187127+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.hu](https://maps.google.hu)
- - date_published: 2024-07-20T07:39:33.684797+00:00
-
- ## Google Scholar
- - [https://scholar.google.hu](https://scholar.google.hu)
- - date_published: 2024-05-14T03:32:06.871566+00:00
-
- ## Google
- - [https://www.google.hu](https://www.google.hu)
- - date_published: 2024-06-21T22:23:19.022306+00:00
-
- ## Magyar Turisztikai Ügynökség
- - [https://mtu.gov.hu](https://mtu.gov.hu)
- - date_published: 2024-07-15T04:50:17.763467+00:00
-
- ## Nyitóoldal - Nébih
- - [https://portal.nebih.gov.hu](https://portal.nebih.gov.hu)
- - date_published: 2024-07-13T17:43:43.560795+00:00
-
- ## Pályázati Portál
- - [https://www.palyazat.gov.hu](https://www.palyazat.gov.hu)
- - date_published: 2024-07-12T06:40:52.350446+00:00
-
- ## UNKP | Az ÚNKP-ról
- - [https://www.unkp.gov.hu](https://www.unkp.gov.hu)
- - date_published: 2024-07-10T08:08:56.220445+00:00
-
- ## Greenstic | Elviteles ételes dobozok, műanyagmentes éttermi csomagolás
- - [https://greenstic.hu](https://greenstic.hu)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## grinstodon
- - [https://mastodon.grin.hu](https://mastodon.grin.hu)
- - date_published: 2024-08-18T02:48:31.788772+00:00
-
- ## Grizly | Grizly
- - [https://www.grizly.hu](https://www.grizly.hu)
- - date_published: 2024-12-14T05:43:22.901438+00:00
-
- ## Growth Magazin | Substack
- - [https://app.growthmagazin.hu](https://app.growthmagazin.hu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Aktivitás a legfontosabb
- - [https://hacktivity.hu](https://hacktivity.hu)
- - date_published: 2024-06-07T00:00:00+00:00
 

@@ -2338,6 +2338,10 @@
  - [https://smol.ai](https://smol.ai)
  - date_published: 2024-05-06T14:05:19.835873+00:00
 
+ ## Smry | AI Summarizer and Free Paywall Remover
+ - [https://www.smry.ai](https://www.smry.ai)
+ - date_published: 2024-12-29T08:54:41.793814+00:00
+
  ## smudge.ai
  - [https://smudge.ai](https://smudge.ai)
  - date_published: 2024-05-17T01:38:28.050648+00:00
@@ -4015,8 +4019,4 @@
  ## Undermind
  - [https://app.undermind.ai](https://app.undermind.ai)
  - date_published: 2024-01-24T17:05:57.127775+00:00
-
- ## Undermind - Radically better research and discovery
- - [https://undermind.ai](https://undermind.ai)
- - date_published: 2024-09-06T18:55:51.966945+00:00
 

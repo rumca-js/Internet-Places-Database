@@ -1,3 +1,63 @@
+ ## Banca Virtual - Banco de Bogotá
+ - [https://virtual.bancodebogota.co](https://virtual.bancodebogota.co)
+ - date_published: 2024-08-09T03:15:33+00:00
+
+ ## Crédito de Vivienda - Banco de Bogotá presenta Vivienda Digital
+ - [https://viviendadigital.bancodebogota.co](https://viviendadigital.bancodebogota.co)
+ - date_published: 2024-11-21T23:38:06+00:00
+
+ ## BancyCo (formerly known as Benjamin Rivers Inc.)
+ - [https://www.bancy.co](https://www.bancy.co)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## barry johnson | visual artist
+ - [http://www.barryjohnson.co](http://www.barryjohnson.co)
+ - date_published: 2024-07-04T16:31:32.129196+00:00
+
+ ## Baseten | Machine learning infrastructure
+ - [https://app.baseten.co](https://app.baseten.co)
+ - date_published: 2024-04-30T06:29:14.386103+00:00
+
+ ## Deploy AI models in production
+ - [https://baseten.co](https://baseten.co)
+ - date_published: 2024-04-30T06:29:08.440816+00:00
+
+ ## Fine-tune and deploy open source models
+ - [https://blueprint.baseten.co](https://blueprint.baseten.co)
+ - date_published: 2024-04-30T06:29:05.889858+00:00
+
+ ## ChatLLaMA – A ChatGPT style chatbot for Facebook's LLaMA
+ - [https://chatllama.baseten.co](https://chatllama.baseten.co)
+ - date_published: 2023-10-25T12:16:42.917090+00:00
+
+ ## Welcome to Baseten! - Baseten
+ - [https://docs.baseten.co](https://docs.baseten.co)
+ - date_published: 2024-04-30T06:29:12.763026+00:00
+
+ ## Welcome to Baseten! - Baseten
+ - [https://docs.blueprint.baseten.co](https://docs.blueprint.baseten.co)
+ - date_published: 2024-09-09T13:41:41.111624+00:00
+
+ ## Baseten Status
+ - [https://status.baseten.co](https://status.baseten.co)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Welcome to Truss - Truss
+ - [https://truss.baseten.co](https://truss.baseten.co)
+ - date_published: 2024-04-30T06:29:09.626791+00:00
+
+ ## Basketful Co
+ - [https://bonsai.basketful.co](https://bonsai.basketful.co)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Batch Processing | Jareau | Substack
+ - [https://www.batchprocessing.co](https://www.batchprocessing.co)
+ - date_published: 2024-04-29T07:28:15.429371+00:00
+
+ ## GhostWorld.co
+ - [https://www.battlefieldamerica.co](https://www.battlefieldamerica.co)
+ - date_published: 2024-07-03T18:58:18.927422+00:00
+
  ## Baukunst: The Art of Building
  - [http://baukunst.co](http://baukunst.co)
  - date_published: 2024-06-18T07:25:21.896551+00:00
@@ -3963,64 +4023,4 @@
  ## VIRGINIA COMMONWEALTH UNIVERSITY
  - [https://vcu.exposure.co](https://vcu.exposure.co)
  - date_published: 2024-07-02T13:03:33.084539+00:00
-
- ## Wildlife Stories on Exposure
- - [https://wildlife.exposure.co](https://wildlife.exposure.co)
- - date_published: 2024-07-15T06:18:14.417314+00:00
-
- ## WWF Asia-Pacific
- - [https://wwfasiapacific.exposure.co](https://wwfasiapacific.exposure.co)
- - date_published: 2024-07-03T02:52:46.075230+00:00
-
- ## WWF: together possible
- - [https://wwf.exposure.co](https://wwf.exposure.co)
- - date_published: 2024-07-15T06:18:01.446102+00:00
-
- ## WWF-Viet Nam on Exposure
- - [https://wwf-vietnam.exposure.co](https://wwf-vietnam.exposure.co)
- - date_published: 2024-07-03T02:39:48.827159+00:00
-
- ## Reputedfirms - Verified Business Reviews & Ratings
- - [https://extract.co](https://extract.co)
- - date_published: 2024-07-04T12:13:17.961958+00:00
-
- ## Vision Care at the Speed of Sight
- - [https://eyebot.co](https://eyebot.co)
- - date_published: 2024-10-31T12:21:41.703245+00:00
-
- ## https://links.fable.co
- - [https://links.fable.co](https://links.fable.co)
- - date_published: 2023-11-20T16:24:00.649414+00:00
-
- ## Face Index
- - [https://www.faceindex.co](https://www.faceindex.co)
- - date_published: 2024-07-16T18:03:03.386737+00:00
-
- ## FacilPass | Peajes electrónicos y ágiles por toda Colombia
- - [https://www.facilpass.co](https://www.facilpass.co)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Factorial - El Software de Recursos Humanos todo en uno
- - [https://factorialhr.co](https://factorialhr.co)
- - date_published: 2024-08-10T23:21:33.935591+00:00
-
- ## Tinybird - Job offers, offices and team
- - [https://tinybird.factorialhr.co](https://tinybird.factorialhr.co)
- - date_published: 2024-06-11T21:16:42.673044+00:00
-
- ## FairHQ: Workplace Diversity & Inclusion Strategy & Data Tool
- - [https://fairhq.co](https://fairhq.co)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Post Purchase Surveys for Attribution - Fairing
- - [https://fairing.co](https://fairing.co)
- - date_published: 2024-09-21T23:07:14.526893+00:00
-
- ## Fairmint: One Link, One Line - Fundraising Simplified
- - [https://www.fairmint.co](https://www.fairmint.co)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Falkus.co - Software Adventures
- - [https://falkus.co](https://falkus.co)
- - date_published: 2024-04-20T00:00:00+00:00
 

@@ -1,3 +1,245 @@
+ ## SoftServ | Services
+ - [https://softserv.scientist.com](https://softserv.scientist.com)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Home — Scientist Rebellion
+ - [https://scientistrebellion.com](https://scientistrebellion.com)
+ - date_published: 2024-07-15T06:22:50.573586+00:00
+
+ ## scientium.com
+ - [http://www.scientium.com](http://www.scientium.com)
+ - date_published: 2024-07-02T14:46:07.343651+00:00
+
+ ## Open Access Peer Reviewed Journals | Science and Education Publishing: Home
+ - [https://sciepub.com](https://sciepub.com)
+ - date_published: 2024-05-07T19:53:43.606350+00:00
+
+ ## Moulin à scie St-Joseph des Érables en Beauce
+ - [https://scieriegeorgeslessard.com](https://scieriegeorgeslessard.com)
+ - date_published: 2024-12-23T12:02:07+00:00
+
+ ## Home
+ - [https://sciex.com](https://sciex.com)
+ - date_published: 2024-06-21T20:54:32.491560+00:00
+
+ ## SYFY Official Site
+ - [http://www.scifi.com](http://www.scifi.com)
+ - date_published: 2024-06-22T03:20:06+00:00
+
+ ## scificorridorarchive.com
+ - [https://scificorridorarchive.com](https://scificorridorarchive.com)
+ - date_published: 2024-09-20T10:35:03.494139+00:00
+
+ ## SciFiction - All Things Science Fiction and Beyond
+ - [https://scifiction.com](https://scifiction.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Sci-Fi Movie News & Forums: Alien, Godzilla, Jurassic World & More - Scified
+ - [https://scified.com](https://scified.com)
+ - date_published: 2024-05-07T14:02:10+00:00
+ - tags: ['science fiction']
+
+ ## IDEAS AND INSPIRATION FOR SCIENCE FICTION WRITERS
+ - [http://www.scifiideas.com](http://www.scifiideas.com)
+ - date_published: 2024-10-21T17:44:56.317164+00:00
+
+ ## Sci-fi interfaces
+ - [https://scifiinterfaces.com](https://scifiinterfaces.com)
+ - date_published: 2023-12-14T07:38:40.007550+00:00
+
+ ## Sci-Fi-O-Rama
+ - [http://www.sci-fi-o-rama.com](http://www.sci-fi-o-rama.com)
+ - date_published: 2024-12-13T04:14:51.777125+00:00
+
+ ## KC Grifant
+ - [https://scifiwri.com](https://scifiwri.com)
+ - date_published: 2024-06-19T09:41:56.104117+00:00
+
+ ## John C. Wright's Journal » Fancies, Drollery and Fiction from honorary Houyhnhnm and antic Science Fiction Writer John C. Wright
+ - [http://scifiwright.com](http://scifiwright.com)
+ - date_published: 2024-08-19T09:41:33.283824+00:00
+
+ ## Scifn
+ - [https://scifn.com](https://scifn.com)
+ - date_published: 2024-06-16T03:53:01.131819+00:00
+
+ ## Wrong page
+ - [http://scikit-learn.com](http://scikit-learn.com)
+ - date_published: 2023-01-09T21:21:39+00:00
+
+ ## Scilan
+ - [https://scilan.com](https://scilan.com)
+ - date_published: 2024-06-19T17:14:20.658386+00:00
+
+ ## Tagebücher der Wissenschaft
+ - [http://www.scilogs.com](http://www.scilogs.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Ediciones Profesionales de la Información - EPI
+ - [https://www.scimagoepi.com](https://www.scimagoepi.com)
+ - date_published: 2024-10-19T23:02:57.326777+00:00
+
+ ## SCImago IBER: Ibero-American Science and Technology Ranking
+ - [https://www.scimagoiber.com](https://www.scimagoiber.com)
+ - date_published: 2024-10-19T23:02:53.561361+00:00
+
+ ## Institutions and University Rankings | Scimago
+ - [https://www.scimagoir.com](https://www.scimagoir.com)
+ - date_published: 2024-06-17T17:06:27.612884+00:00
+
+ ## Scimago Journal & Country Rank
+ - [https://www.scimagojr.com](https://www.scimagojr.com)
+ - date_published: 2024-05-08T08:42:43.079889+00:00
+
+ ## SCImago Diseñamos y desarrollamos soluciones analíticas de ciencia, tecnología e innovación
+ - [https://www.scimagolab.com](https://www.scimagolab.com)
+ - date_published: 2024-10-11T07:20:09+00:00
+
+ ## SCImago Media Rankings
+ - [https://www.scimagomedia.com](https://www.scimagomedia.com)
+ - date_published: 2024-10-19T23:02:50.536268+00:00
+
+ ## Sci.News: Breaking Science News
+ - [http://www.sci-news.com](http://www.sci-news.com)
+ - date_published: 2024-07-03T13:52:09+00:00
+
+ ## - S.I.Lex -
+ - [https://scinfolex.com](https://scinfolex.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## About Scion Cider - SCION CIDER
+ - [https://www.scionciderbar.com](https://www.scionciderbar.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Gaming & Horse Racing In Columbus, Ohio - Eldorado Scioto Downs
+ - [https://www.sciotodowns.com](https://www.sciotodowns.com)
+ - date_published: 2023-04-10T00:00:00+00:00
+
+ ## SCIPHD -
+ - [https://sciphd.com](https://sciphd.com)
+ - date_published: 2024-07-22T08:22:46.053084+00:00
+
+ ## Sci Phi Journal - Laureate of the European SF Award for Best Magazine
+ - [https://www.sciphijournal.com](https://www.sciphijournal.com)
+ - date_published: 2024-08-19T12:54:16.231976+00:00
+
+ ## World Journal of Biology and Biotechnology
+ - [http://sciplatform.com](http://sciplatform.com)
+ - date_published: 2024-10-29T17:04:54.402892+00:00
+
+ ## American Science & Surplus
+ - [http://www.sciplus.com](http://www.sciplus.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://sciprofiles.com](https://sciprofiles.com)
+ - date_published: 2024-05-04T14:58:55.925629+00:00
+
+ ## SciProgramming - Home
+ - [https://sciprogramming.com](https://sciprogramming.com)
+ - date_published: 2023-10-25T16:59:15.991666+00:00
+
+ ## Top arXiv papers
+ - [https://scirate.com](https://scirate.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Game Making Software - Construct 3 ★★★★★
+ - [https://www.scirra.com](https://www.scirra.com)
+ - date_published: 2024-10-24T13:22:03.282006+00:00
+
+ ## SciRuby
+ - [http://sciruby.com](http://sciruby.com)
+ - date_published: 2021-02-21T07:22:49+00:00
+
+ ## Elsevier | An Information Analytics Business
+ - [http://www.scirus.com](http://www.scirus.com)
+ - date_published: 2024-06-23T01:31:41.969161+00:00
+
+ ## Home
+ - [http://scisafari.com](http://scisafari.com)
+ - date_published: 2024-05-09T12:17:53+00:00
+
+ ## Lab Safety & Inventory for EHS & Ops | SciShield (BioRAFT)
+ - [https://www.scishield.com](https://www.scishield.com)
+ - date_published: 2024-10-18T18:21:11.954770+00:00
+
+ ## ScissorMix 15: Oldish
+ - [http://www.scissorkick.com](http://www.scissorkick.com)
+ - date_published: 2024-10-21T05:28:32.532705+00:00
+
+ ## Free & Premium WordPress Blog themes 2019 by Scissor Themes
+ - [https://scissorthemes.com](https://scissorthemes.com)
+ - date_published: 2024-10-27T22:48:32.657312+00:00
+
+ ## Scissor Themes Support for WordPress Theme and Plugins
+ - [http://support.scissorthemes.com](http://support.scissorthemes.com)
+ - date_published: 2024-10-27T22:48:43.616359+00:00
+
+ ## SciStarter - SciStarter
+ - [https://scistarter.com](https://scistarter.com)
+ - date_published: 2024-05-09T04:11:26.821324+00:00
+
+ ## Use AI To Summarize Scientific Articles - SciSummary
+ - [https://scisummary.com](https://scisummary.com)
+ - date_published: 2024-06-19T21:08:01.585843+00:00
+
+ ## Open Access Journals | Open Access Publications
+ - [http://www.scitcentral.com](http://www.scitcentral.com)
+ - date_published: 2024-10-29T17:33:24.337458+00:00
+
+ ## Science Atlas - in the light of the science! | 2024
+ - [http://scitechc.com](http://scitechc.com)
+ - date_published: 2024-10-29T17:28:49.343627+00:00
+
+ ## SciTechDaily - Science, Space and Technology News 2023
+ - [https://scitechdaily.com](https://scitechdaily.com)
+ - date_published: 2023-10-25T10:11:08.449489+00:00
+
+ ## SciTechnol | International Publisher of Science and Technology
+ - [http://scitechnol.com](http://scitechnol.com)
+ - date_published: 2024-10-29T17:49:08.160890+00:00
+
+ ## Home - Science and Technology Policy Academy
+ - [https://scitechpolicyacademy.com](https://scitechpolicyacademy.com)
+ - date_published: 2024-10-19T04:00:43.162087+00:00
+
+ ## Scitechz
+ - [http://scitechz.com](http://scitechz.com)
+ - date_published: 2024-10-29T17:43:15.317703+00:00
+
+ ## Science and Technology Publishing
+ - [http://www.scitecpub.com](http://www.scitecpub.com)
+ - date_published: 2024-10-29T16:44:38.141510+00:00
+
+ ## Sciter Documentation | Sciter
+ - [https://docs.sciter.com](https://docs.sciter.com)
+ - date_published: 2024-03-03T15:32:45+00:00
+
+ ## Sciter Notes – Take your notes… back home.
+ - [https://notes.sciter.com](https://notes.sciter.com)
+ - date_published: 2024-04-29T02:30:45.890734+00:00
+
+ ## Quark – HTML/CSS/script Application Compiler
+ - [https://quark.sciter.com](https://quark.sciter.com)
+ - date_published: 2024-04-29T02:30:37.098236+00:00
+
+ ## sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application
+ - [https://sciter.com](https://sciter.com)
+ - date_published: 2023-10-25T16:59:18.546109+00:00
+
+ ## SCITEVENTS
+ - [http://www.scitevents.com](http://www.scitevents.com)
+ - date_published: 2024-07-07T10:12:02.382595+00:00
+
+ ## Scitizen,  a collaborative news publishing initiative by scientists, for everyone.
+ - [http://scitizen.com](http://scitizen.com)
+ - date_published: 2024-08-18T20:15:44.324003+00:00
+
+ ## SciURLs – A neat science news aggregator
+ - [https://sciurls.com](https://sciurls.com)
+ - date_published: 2024-04-09T20:07:45.984325+00:00
+ - tags: ['link aggregator', 'science news']
+
  ## SciVal
  - [https://scival.com](https://scival.com)
  - date_published: 2024-06-15T06:31:10.997504+00:00
@@ -929,6 +1171,10 @@ Scopus - Welcome to Scopus
  ## Scott Ritter Extra | Jeff Norman | Substack
  - [https://scottritterextra.com](https://scottritterextra.com)
  - date_published: 2024-12-20T08:23:19.733734+00:00
+
+ ## Scott Larson
+ - [https://www.scottrlarson.com](https://www.scottrlarson.com)
+ - date_published: 2024-12-29T20:28:13.342654+00:00
 
  ## Scott Rossi
  - [https://scottrossiphoto.com](https://scottrossiphoto.com)
@@ -3812,249 +4058,4 @@ Scopus - Welcome to Scopus
  ## Home | SecProject
  - [https://www.secproject.com](https://www.secproject.com)
  - date_published: 1970-01-01T00:00:00+00:00
-
- ## Deodorants & Antiperspirants For Women | Secret
- - [https://secret.com](https://secret.com)
- - date_published: 2024-06-12T11:33:40+00:00
-
- ## Secret Art of Science
- - [https://secretartofscience.com](https://secretartofscience.com)
- - date_published: 2022-01-22T17:11:18+00:00
-
- ## Secret Canada - A freedom of information project from The Globe and Mail
- - [https://www.secretcanada.com](https://www.secretcanada.com)
- - date_published: 2024-06-24T08:15:21.823127+00:00
-
- ## 看中国新闻网|中国新闻|禁闻|海外华人|内幕新闻|历史秘闻|中文报纸|中文媒体
- - [https://secretchina.com](https://secretchina.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Secret City Records | Montreal Based Record Label
- - [https://boutique.secretcityrecords.com](https://boutique.secretcityrecords.com)
- - date_published: 2024-12-03T07:31:02.196645+00:00
- - tags: ['blacklist', 'blocklist']
-
- ## Secret City Records | Montreal Based Record Label |  Secret City Records
- - [https://secretcityrecords.com](https://secretcityrecords.com)
- - date_published: 2024-12-03T03:25:24+00:00
-
- ## Secret Cow Level | Moo, dude.
- - [http://secretcowlevel.com](http://secretcowlevel.com)
- - date_published: 2024-02-28T00:30:28+00:00
-
- ## İş İlanları & Kariyer Fırsatları Secretcv.com’da!
- - [https://www.secretcv.com](https://www.secretcv.com)
- - date_published: 2024-10-19T13:33:09.169136+00:00
-
- ## Attention Required! | Cloudflare
- - [http://www.secretfriendsociety.com](http://www.secretfriendsociety.com)
- - date_published: 2024-07-17T10:01:08.477115+00:00
-
- ## The Secret History of Mac Gaming
- - [https://secrethistoryofmacgaming.com](https://secrethistoryofmacgaming.com)
- - date_published: 2024-08-06T04:14:18.718399+00:00
-
- ## Secret Hitler
- - [http://www.secrethitler.com](http://www.secrethitler.com)
- - date_published: 2024-06-28T16:59:25.170512+00:00
-
- ## Desodorantes y Antitranspirantes para mujeres | Secret LA
- - [https://www.secret-la.com](https://www.secret-la.com)
- - date_published: 2024-12-05T11:37:16+00:00
-
- ## The Secret Library Podcast | Book Alchemy | Caroline Donahue | Substack
- - [https://www.secretlibrarypodcast.com](https://www.secretlibrarypodcast.com)
- - date_published: 2024-05-02T10:22:15.182515+00:00
-
- ## The Secret Life Of Machines Home Page
- - [https://secretlifeofmachines.com](https://secretlifeofmachines.com)
- - date_published: 2020-06-22T15:48:07+00:00
-
- ## Secret Llama
- - [https://secretllama.com](https://secretllama.com)
- - date_published: 2024-05-04T10:15:50.975904+00:00
-
- ## Secret Mission DC: a fun and interactive scavenger hunt around the city
- - [https://secretmissiondc.com](https://secretmissiondc.com)
- - date_published: 2023-10-25T17:01:13.451456+00:00
-
- ## Cierpliwości...
- - [https://secretnodes.com](https://secretnodes.com)
- - date_published: 2024-05-08T00:01:22.705164+00:00
-
- ## Secret Retreats
- - [https://www.secret-retreats.com](https://www.secret-retreats.com)
- - date_published: 2024-12-15T00:25:36.138978+00:00
-
- ## Secret San Francisco - Your Complete Guide To Things To Do In San Francisco
- - [https://secretsanfrancisco.com](https://secretsanfrancisco.com)
- - date_published: 2023-10-25T17:01:15.070667+00:00
-
- ## Secret Search Engine Labs - The Alternative Search Engine
- - [http://secretsearchenginelabs.com](http://secretsearchenginelabs.com)
- - date_published: 2024-06-29T01:58:08.279794+00:00
-
- ## Not Found: 404 | secretsocietywars.com
- - [https://secretsocietywars.com](https://secretsocietywars.com)
- - date_published: 2024-07-18T17:24:55.720922+00:00
-
- ## Secrets of Success Affiliates
- - [https://jv.secretsofsuccess.com](https://jv.secretsofsuccess.com)
- - date_published: 2024-04-29T02:59:46.026439+00:00
-
- ## Secrets of Success: Mindset, Habits & Personal Development
- - [https://secretsofsuccess.com](https://secretsofsuccess.com)
- - date_published: 2024-04-29T02:59:44.722504+00:00
-
- ## Real Prop Firm & Forex Trading Reviews | SecretsToTrading101
- - [https://www.secretstotrading101.com](https://www.secretstotrading101.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Jason Nelson- Digital Art and Poetry Wonderments and Creatures
- - [http://www.secrettechnology.com](http://www.secrettechnology.com)
- - date_published: 2017-07-17T04:09:16+00:00
-
- ## Southeastern Conference
- - [https://secsports.com](https://secsports.com)
- - date_published: 2024-06-17T09:35:25.303233+00:00
-
- ## SEC Gear & Gifts, SEC Football, Basketball and Baseball Merchandise, Southeastern Conference Clothing | SEC Store
- - [https://www.secstore.com](https://www.secstore.com)
- - date_published: 2024-06-17T09:36:28.505934+00:00
-
- ## Official Site for SEC Championship Tickets
- - [https://secticketoffice.com](https://secticketoffice.com)
- - date_published: 2024-06-05T16:47:59+00:00
-
- ## Certificate Management Solutions & SSL Certificates
- - [http://sectigo.com](http://sectigo.com)
- - date_published: 2024-06-18T09:19:33+00:00
-
- ## Knowledge Base | Sectigo
- - [https://support.sectigo.com](https://support.sectigo.com)
- - date_published: 1990-01-01T00:00:00+00:00
-
- ## Section 101
- - [https://section101.com](https://section101.com)
- - date_published: 2024-12-21T10:41:22.913914+00:00
-
- ## Unlimited, MBA-quality online business education | Section
- - [https://section4.com](https://section4.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Unlimited, MBA-quality online business education | Section
- - [https://www.sectionschool.com](https://www.sectionschool.com)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## SECTION 35
- - [https://www.sectionthirtyfive.com](https://www.sectionthirtyfive.com)
- - date_published: 2024-08-06T03:01:07.439641+00:00
-
- ## SEC Title IX
- - [https://sec-titleix.com](https://sec-titleix.com)
- - date_published: 2024-06-17T09:35:38.179867+00:00
-
- ## Sectorgame - Index page
- - [http://www.sectorgame.com](http://www.sectorgame.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Service Electric Cable TV & Communications - Bringing People Together since 1948
- - [http://www.sectv.com](http://www.sectv.com)
- - date_published: 2024-06-27T20:07:12+00:00
-
- ## Secuencia Grafica
- - [http://secuenciagrafica.com](http://secuenciagrafica.com)
- - date_published: 2023-11-08T23:09:25+00:00
-
- ## Home
- - [http://www.secugen.com](http://www.secugen.com)
- - date_published: 2024-08-19T13:20:08.953142+00:00
-
- ## |s|e|c|u|l|a|r|   |p|i|n|e|a|p|p|l|e|
- - [https://secularpineapple.com](https://secularpineapple.com)
- - date_published: 2021-10-14T18:49:32+00:00
-
- ## SecuMailer 3.0
- - [https://secumailer.com](https://secumailer.com)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Schutz digitaler Infrastrukturen | secunet AG
- - [https://secunet.com](https://secunet.com)
- - date_published: 2024-08-18T02:48:45.106278+00:00
-
- ## Secunetics
- - [https://www.secunetics.com](https://www.secunetics.com)
- - date_published: 2024-05-04T15:41:15.265372+00:00
-
- ## About Secunia Research | Flexera
- - [http://secunia.com](http://secunia.com)
- - date_published: 2024-09-03T23:15:24+00:00
-
- ## Secura - Insight Into Your Digital Security
- - [https://www.secura.com](https://www.secura.com)
- - date_published: 2024-10-16T10:15:01.521041+00:00
-
- ## Integrated Privileged Access Governance Platform | PAM Built on Zero-Trust Security
- - [https://www.securden.com](https://www.securden.com)
- - date_published: 2024-09-07T05:34:39+00:00
-
- ## SecureAuth - Workforce and Customer Identity & Access Management
- - [https://secureauth.com](https://secureauth.com)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## securebanklogin.com - Sign In
- - [https://authq.securebanklogin.com](https://authq.securebanklogin.com)
- - date_published: 2024-07-10T03:53:42.234596+00:00
-
- ## securebanklogin.com - Sign In
- - [https://auth.securebanklogin.com](https://auth.securebanklogin.com)
- - date_published: 2024-07-10T03:53:39.518530+00:00
-
- ## Primis Bank Secure Mail
- - [https://051409278.securebanksolutions.com](https://051409278.securebanksolutions.com)
- - date_published: 2024-07-10T04:11:07.476316+00:00
-
- ## SalemFive Secure Mail
- - [https://211370558.securebanksolutions.com](https://211370558.securebanksolutions.com)
- - date_published: 2024-07-10T04:27:20.828305+00:00
-
- ## Fast & Free Bulk IP & Domain Lookup
- - [https://bulkip.secureblink.com](https://bulkip.secureblink.com)
- - date_published: 2024-04-29T03:00:02.026843+00:00
-
- ## Heuristic Application Security Management Platform | Secure Blink
- - [http://secureblink.com](http://secureblink.com)
- - date_published: 2023-10-25T17:01:18.017496+00:00
-
- ## Threatspy | Heuristic Application Security Management Platform
- - [https://threatspy.secureblink.com](https://threatspy.secureblink.com)
- - date_published: 2024-04-29T02:59:52.505036+00:00
-
- ## Login to Commercial Tenant Portal to manage your leasing needs
- - [https://www.securecafe3.com](https://www.securecafe3.com)
- - date_published: 2024-06-30T11:39:08.605891+00:00
-
- ## SecureCheats - The Best Call of Duty Hacks For PC Games
- - [https://securecheats.com](https://securecheats.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://stats.secure-chrislands.com](https://stats.secure-chrislands.com)
- - date_published: 2024-06-21T15:05:22.971987+00:00
-
- ## CXO Events | Empowering Leadership by CXOsync
- - [https://www.secureciso.com](https://www.secureciso.com)
- - date_published: 2024-12-23T07:17:00.045565+00:00
-
- ## Secure Code Learning for Developers | Secure Code Warrior
- - [https://www.securecodewarrior.com](https://www.securecodewarrior.com)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## CIC Web Browser Gateway - Sign On
- - [https://www.securecontinfo.com](https://www.securecontinfo.com)
- - date_published: 2024-07-15T05:09:46.369394+00:00
-
- ## Introduction - Building Secure Contracts
- - [https://secure-contracts.com](https://secure-contracts.com)
- - date_published: 2024-05-06T20:15:54.036586+00:00
 

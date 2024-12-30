@@ -1,3 +1,103 @@
+ ## Welcome to careers at Cognizant
+ - [https://careers.cognizant.com](https://careers.cognizant.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://investors.cognizant.com](https://investors.cognizant.com)
+ - date_published: 2024-06-23T02:21:22.961044+00:00
+
+ ## Cognizant News & Events | Cognizant Press Releases - Cognizant Technology Solutions
+ - [https://news.cognizant.com](https://news.cognizant.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Talent Authentication
+ - [https://talentacquisition.cognizant.com](https://talentacquisition.cognizant.com)
+ - date_published: 2024-06-23T02:21:03.213913+00:00
+
+ ## Home
+ - [https://www.cognizant.com](https://www.cognizant.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Cognizin: Think. Focus. Citicoline.
+ - [https://cognizin.com](https://cognizin.com)
+ - date_published: 2024-08-11T08:54:01.719530+00:00
+
+ ## Home - Cognosos
+ - [https://cognosos.com](https://cognosos.com)
+ - date_published: 2024-06-19T06:48:39+00:00
+
+ ## Homepage
+ - [https://www.cognyte.com](https://www.cognyte.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Empower yourself with financial literacy
+ - [https://www.cogoldrust.com](https://www.cogoldrust.com)
+ - date_published: 2024-08-06T09:41:43.721555+00:00
+
+ ## Home - Cogora
+ - [https://cogora.com](https://cogora.com)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Cogram
+ - [https://app.cogram.com](https://app.cogram.com)
+ - date_published: 2024-10-29T11:54:01+00:00
+
+ ## Cogram - AI for project and client work, online and in the field.
+ - [https://cogram.com](https://cogram.com)
+ - date_published: 2024-10-29T17:28:09+00:00
+
+ ## Cogs AI
+ - [https://www.cogs-ai.com](https://www.cogs-ai.com)
+ - date_published: 2024-12-25T18:38:58.508946+00:00
+
+ ## Coheed and Cambria | Official Website
+ - [https://www.coheedandcambria.com](https://www.coheedandcambria.com)
+ - date_published: 2024-08-10T15:30:10+00:00
+
+ ## Home
+ - [https://cohere.com](https://cohere.com)
+ - date_published: 2024-02-13T17:40:53.507525+00:00
+
+ ## Login | Cohere
+ - [https://coral.cohere.com](https://coral.cohere.com)
+ - date_published: 2024-07-04T09:45:28.896241+00:00
+
+ ## Login | Cohere
+ - [https://dashboard.cohere.com](https://dashboard.cohere.com)
+ - date_published: 2024-05-08T05:51:36.850686+00:00
+
+ ## Cohere Enteprise Group
+ - [https://docs.cohere.com](https://docs.cohere.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Cohere Inc | Trust Center
+ - [https://trustcenter.cohere.com](https://trustcenter.cohere.com)
+ - date_published: 2024-05-08T05:51:40.286485+00:00
+
+ ## Context by Cohere
+ - [https://txt.cohere.com](https://txt.cohere.com)
+ - date_published: 2023-10-25T13:29:30.418945+00:00
+
+ ## Coherent Labs - Cross-Platform Game UI Middleware
+ - [https://coherent-labs.com](https://coherent-labs.com)
+ - date_published: 2024-04-28T05:58:53.532559+00:00
+
+ ## Coherent Labs Documentation
+ - [https://docs.coherent-labs.com](https://docs.coherent-labs.com)
+ - date_published: 2024-08-05T13:15:15+00:00
+
+ ## Custom Software Development & Engineering Company
+ - [https://coherentsolutions.com](https://coherentsolutions.com)
+ - date_published: 2024-05-09T08:30:23.315634+00:00
+
+ ## AI-powered data security and management | Cohesity
+ - [https://www.cohesity.com](https://www.cohesity.com)
+ - date_published: 2024-12-23T07:18:38.134010+00:00
+
+ ## COHLE LAB
+ - [https://cohlelab.com](https://cohlelab.com)
+ - date_published: 2024-05-11T10:47:58.298445+00:00
+
  ## Home
  - [https://www.cohnreznick.com](https://www.cohnreznick.com)
  - date_published: 2024-09-17T19:05:43+00:00
@@ -3940,105 +4040,4 @@ Colyvan's Homepage
  ## Home | Complete Farmer
  - [https://www.completefarmer.com](https://www.completefarmer.com)
  - date_published: 2024-06-13T13:50:34+00:00
-
- ## Complete Genomics: Driving Genomics Forward Today
- - [https://completegenomics.com](https://completegenomics.com)
- - date_published: 2023-08-29T11:05:06+00:00
-
- ## Complete Genomics, LLC
- - [https://shop.completegenomics.com](https://shop.completegenomics.com)
- - date_published: 2024-09-02T15:33:09.088562+00:00
-
- ## Complete Hermetics
- - [https://www.completehermetics.com](https://www.completehermetics.com)
- - date_published: 2024-12-19T05:20:04+00:00
-
- ## Complete Music Update: the music business explained
- - [https://completemusicupdate.com](https://completemusicupdate.com)
- - date_published: 2023-10-25T10:17:15.256759+00:00
-
- ## Complete Python
- - [https://completepython.com](https://completepython.com)
- - date_published: 2024-01-23T22:27:01.354667+00:00
- - tags: ['python']
-
- ## Complete Review - Entrance to the Complete Review
- - [https://complete-review.com](https://complete-review.com)
- - date_published: 2002-02-02T00:00:00+00:00
-
- ## Compare SEO Tools
- - [https://seotools.completeseofunnel.com](https://seotools.completeseofunnel.com)
- - date_published: 2024-07-16T16:57:20.834932+00:00
-
- ## Registrant WHOIS contact information verification | Namecheap.com
- - [http://completevb.com](http://completevb.com)
- - date_published: 2024-06-03T13:01:44.111167+00:00
-
- ## Bóng Đá Trực Tuyến - Tỷ số bóng đá trực tuyến, Tỷ sốbóng đa, kết quả bóng đa
- - [http://completewaveguide.com](http://completewaveguide.com)
- - date_published: 2024-08-18T03:42:14.780255+00:00
-
- ## Austin SEO Company - Complete SEO
- - [https://completewebresources.com](https://completewebresources.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## MARKETING COMPLETION FUND
- - [https://www.completionfund.com](https://www.completionfund.com)
- - date_published: 2024-09-24T21:50:10.406048+00:00
-
- ## Complex | Music, Sneakers, Pop Culture, News & Shows
- - [https://www.complex.com](https://www.complex.com)
- - date_published: 2024-06-23T13:07:44.482628+00:00
-
- ## Complex Analysis
- - [https://complex-analysis.com](https://complex-analysis.com)
- - date_published: 2024-04-30T07:34:32.397716+00:00
-
- ## Complexity Zoo
- - [https://complexityzoo.com](https://complexityzoo.com)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Complexly
- - [https://complexly.com](https://complexly.com)
- - date_published: 2021-10-22T00:00:00+00:00
-
- ## Complex Systems
- - [https://www.complexsystemspodcast.com](https://www.complexsystemspodcast.com)
- - date_published: 2024-08-18T20:42:18.691838+00:00
-
- ## SAI360
- - [https://secure.compliance360.com](https://secure.compliance360.com)
- - date_published: 2024-08-08T22:19:24.505927+00:00
-
- ## ComplianceCow - ComplianceCow
- - [https://compliancecow.com](https://compliancecow.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## GRC Software | Governance Risk & Compliance Software | NAVEX UK
- - [https://www.compliance-helpline.com](https://www.compliance-helpline.com)
- - date_published: 2024-07-01T14:56:58.589803+00:00
-
- ## Login
- - [https://www.compliance-link.com](https://www.compliance-link.com)
- - date_published: 2024-08-05T22:41:13.614734+00:00
-
- ## Leading Patient Privacy and Security | CompliancePro Solutions
- - [https://complianceprosolutions.com](https://complianceprosolutions.com)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Compliance Protection Plan
- - [https://www.complianceprotectionplan.com](https://www.complianceprotectionplan.com)
- - date_published: 2024-09-29T20:55:09.580433+00:00
-
- ## AD: Frontend
- - [https://account.complianceweek.com](https://account.complianceweek.com)
- - date_published: 2024-05-08T06:12:26.027493+00:00
-
- ## Compliance Week | News, Events & Thought Leadership for the Chief Compliance Officer
- - [https://complianceweek.com](https://complianceweek.com)
- - date_published: 2023-10-25T13:32:26.382565+00:00
-
- ## Compliance Week's Cyber Risk & Data Privacy Summit |  A Compliance Week Conference
- - [https://cyberrisk.complianceweek.com](https://cyberrisk.complianceweek.com)
- - date_published: 2024-05-08T06:12:36.745554+00:00
 

@@ -1,13 +1,489 @@
+ ## Szalay Dakar Team - Kövess minket a sivatagba!
+ - [https://dakar.hu](https://dakar.hu)
+ - date_published: 2024-09-04T17:34:36.429431+00:00
+
+ ## Das Blog - A használt autós blog
+ - [https://dasblog.hu](https://dasblog.hu)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Szerver-hosting
+ - [https://dataland.hu](https://dataland.hu)
+ - date_published: 2024-09-04T17:34:40.640755+00:00
+
+ ## Facebook
+ - [http://chatbot.decathlon.hu](http://chatbot.decathlon.hu)
+ - date_published: 2024-09-19T13:36:17.324471+00:00
+
+ ## Decathlon webáruház - 75 sport egy helyen
+ - [https://decathlon.hu](https://decathlon.hu)
+ - date_published: 2024-06-15T20:23:18.251462+00:00
+
+ ## Termékbérlés bárhol | Decathlon Rent
+ - [https://rent.decathlon.hu](https://rent.decathlon.hu)
+ - date_published: 2024-09-19T13:36:19.930116+00:00
+
+ ## Üdvözlünk a Decathlon karbantartási és javítási oldalán
+ - [https://support.decathlon.hu](https://support.decathlon.hu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Online Tőzsdei Kereskedés | Alacsony Árak|Kereskedés|DEGIRO
+ - [https://degiro.hu](https://degiro.hu)
+ - date_published: 2024-01-11T14:29:48+00:00
+
+ ## DELMAGYAR - Csongrád-Csanád vármegyei hírportál
+ - [http://delmagyar.hu](http://delmagyar.hu)
+ - date_published: 2024-09-04T04:20:59.351785+00:00
+
+ ## Deutsche Telekom IT Solutions | Life is for sharing
+ - [https://deutschetelekomitsolutions.hu](https://deutschetelekomitsolutions.hu)
+ - date_published: 2024-06-21T10:46:13+00:00
+
+ ## Üdvözöljük weboldalunkon! - Deák Ferenc Megyei és Városi Könyvtár
+ - [https://dfmk.hu](https://dfmk.hu)
+ - date_published: 2024-07-08T19:39:18.042491+00:00
+
+ ## A maják tévedtek. A világvége 2011-ben jött el.
+ - [https://scenergy.dfmk.hu](https://scenergy.dfmk.hu)
+ - date_published: 2011-02-02T01:20:24+00:00
+
+ ## Gél lakk és Műköröm Alapanyagok - Diamond Nails
+ - [https://diamondnails.hu](https://diamondnails.hu)
+ - date_published: 2024-07-11T17:39:58+00:00
+
+ ## Dianetika: A szellemi egészség modern tudománya
+ - [https://dianetics.hu](https://dianetics.hu)
+ - date_published: 2024-06-17T16:42:31.308081+00:00
+
+ ## Dianetika: A szellemi egészség modern tudománya
+ - [https://www.dianetika.hu](https://www.dianetika.hu)
+ - date_published: 2024-09-04T18:52:41.374850+00:00
+
+ ## Diéta és Fitnesz
+ - [https://dietaesfitnesz.hu](https://dietaesfitnesz.hu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## DigiKey Home
+ - [https://digikey.hu](https://digikey.hu)
+ - date_published: 2024-05-01T05:04:29.183562+00:00
+
+ ## DiMail.hu Hírlevélküldő Adminisztrációs felület
+ - [https://admin.dimail.hu](https://admin.dimail.hu)
+ - date_published: 2024-06-20T04:57:57.768062+00:00
+
+ ## Disney Magyarország | A Disney hivatalos weboldala
+ - [https://disney.hu](https://disney.hu)
+ - date_published: 2024-06-16T01:50:38.455738+00:00
+
+ ## Dívány
+ - [https://divany.hu](https://divany.hu)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## DKT | Digitális Közönségmérési Tanács | Budapest
+ - [https://dkt.hu](https://dkt.hu)
+ - date_published: 2024-06-25T21:30:36.471407+00:00
+
+ ## DNV.hu - Safer Smarter Greener - DNV
+ - [https://dnv.hu](https://dnv.hu)
+ - date_published: 2024-09-04T15:26:09.074272+00:00
+
+ ## Állapot áttekintése
+ - [https://downdetector.hu](https://downdetector.hu)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Drogriporter
+ - [https://drogriporter.hu](https://drogriporter.hu)
+ - date_published: 2024-10-21T13:07:22.879549+00:00
+
+ ## DUOL - dunaújvárosi hírportál
+ - [http://duol.hu](http://duol.hu)
+ - date_published: 2024-09-04T04:20:24.222648+00:00
+
+ ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
+ - [https://duracell.hu](https://duracell.hu)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Dylan Hu
+ - [https://dylan.hu](https://dylan.hu)
+ - date_published: 2024-09-13T18:09:18.595428+00:00
+
+ ## Dyson Magyarország | A Dyson technológia | Dyson.hu
+ - [https://dyson.hu](https://dyson.hu)
+ - date_published: 2024-07-07T01:56:50.955341+00:00
+
+ ## ebau.hu
+ - [https://ebau.hu](https://ebau.hu)
+ - date_published: 2024-07-12T16:11:12.994584+00:00
+
+ ## Ecommerce Expo 2025
+ - [https://www.ecomexpo.hu](https://www.ecomexpo.hu)
+ - date_published: 2024-12-11T11:03:18+00:00
+
+ ## Ecommerce Bridge Magyarország
+ - [https://www.ecommercebridge.hu](https://www.ecommercebridge.hu)
+ - date_published: 2024-12-14T03:34:54.448326+00:00
+
+ ## Extreme Digital Kapcsolat | eMAG Help
+ - [https://edigital.hu](https://edigital.hu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## eduline.hu
+ - [https://eduline.hu](https://eduline.hu)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## eduline.hu - Főoldal
+ - [https://m.eduline.hu](https://m.eduline.hu)
+ - date_published: 2024-07-17T07:04:59.824072+00:00
+
+ ## Eduline Online Tanfolyamok
+ - [https://onlinetanfolyam.eduline.hu](https://onlinetanfolyam.eduline.hu)
+ - date_published: 2024-07-17T07:05:08.647517+00:00
+
+ ## Effie Awards Hungary 2023
+ - [https://effie.hu](https://effie.hu)
+ - date_published: 2024-06-20T07:16:35.130501+00:00
+
+ ## EIZO | High-end monitorok
+ - [https://eizo.hu](https://eizo.hu)
+ - date_published: 2024-07-09T06:59:49.977313+00:00
+
+ ## A magyar e-kereskedelem sajátosságai és trendjei - ekerstat.hu
+ - [https://ekerstat.hu](https://ekerstat.hu)
+ - date_published: 2024-12-15T12:11:14.425691+00:00
+
+ ## Page Redirection
+ - [https://atomcsill.elte.hu](https://atomcsill.elte.hu)
+ - date_published: 2020-09-27T17:59:25+00:00
+
+ ## ELTE Bölcsészettudományi Kar
+ - [https://btk.elte.hu](https://btk.elte.hu)
+ - date_published: 2024-09-04T04:24:44.180558+00:00
+
+ ## Eötvös Loránd Tudományegyetem
+ - [https://elte.hu](https://elte.hu)
+ - date_published: 2024-09-04T04:27:20.804318+00:00
+
+ ## ELTE Informatikai Kar
+ - [https://inf.elte.hu](https://inf.elte.hu)
+ - date_published: 2024-08-18T02:48:33.254899+00:00
+
+ ## BIÖP -- ELTE BTK Bölcsészettudományi Informatika Önálló Program
+ - [https://magyar-irodalom.elte.hu](https://magyar-irodalom.elte.hu)
+ - date_published: 2023-09-12T08:49:18+00:00
+
+ ## TéTéKás Nyúz
+ - [https://nyuz.elte.hu](https://nyuz.elte.hu)
+ - date_published: 2024-06-30T03:02:03.881384+00:00
+
+ ## ELTE Társadalomtudományi Kar
+ - [https://tatk.elte.hu](https://tatk.elte.hu)
+ - date_published: 2024-06-22T13:19:08.851383+00:00
+
+ ## ELTE Természettudományi Kar
+ - [https://ttk.elte.hu](https://ttk.elte.hu)
+ - date_published: 2024-06-30T03:02:02.287891+00:00
+
+ ## www.cs.elte.hu - Matematikai Intézet
+ - [https://web.cs.elte.hu](https://web.cs.elte.hu)
+ - date_published: 2024-05-07T15:02:18.846648+00:00
+
+ ## Üdvözöljük a Matematikai Intézet weboldalán!
+ - [https://www.cs.elte.hu](https://www.cs.elte.hu)
+ - date_published: 2014-11-21T00:00:00+00:00
+
+ ## Üdvözöljük a Matematikai Intézet weboldalán!
+ - [https://www.math.elte.hu](https://www.math.elte.hu)
+ - date_published: 2014-11-21T00:00:00+00:00
+
+ ## ELTEbook webáruház
+ - [https://eltebook.hu](https://eltebook.hu)
+ - date_published: 2024-09-04T01:37:11+00:00
+
+ ## eMAG.hu - Találj rá a keresés örömére
+ - [https://emag.hu](https://emag.hu)
+ - date_published: 2024-09-16T02:23:31.742310+00:00
+
+ ## E-mail megerősítése regisztráljon - eMAG Marketplace Sellers
+ - [https://marketplace-leads.emag.hu](https://marketplace-leads.emag.hu)
+ - date_published: 2024-09-16T02:23:34.683992+00:00
+
+ ## ENERGIAKLUB
+ - [https://energiaklub.hu](https://energiaklub.hu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## https://www.facebook.com/eotvoskiado
+ - [https://eotvoskiado.hu](https://eotvoskiado.hu)
+ - date_published: 2023-11-10T00:00:00+00:00
+
+ ## EPAM | Promising job for IT-professionals and young specialists
+ - [https://careers.epam.hu](https://careers.epam.hu)
+ - date_published: 2024-07-04T12:20:28.746524+00:00
+
+ ## Gergo Erdi -- Érdi Gergő -- ERDI Gergo -- Cactus
+ - [https://gergo.erdi.hu](https://gergo.erdi.hu)
+ - date_published: 2024-01-07T13:35:42+00:00
+
+ ## Magánszemélyek
+ - [https://erstebank.hu](https://erstebank.hu)
+ - date_published: 2024-10-02T11:11:06.318493+00:00
+
+ ## Eschenbach | kezdőlap
+ - [https://www.eschenbach-optik.hu](https://www.eschenbach-optik.hu)
+ - date_published: 2024-12-14T04:12:48.418189+00:00
+
+ ## Etigroup
+ - [https://eti-hu.hu](https://eti-hu.hu)
+ - date_published: 2024-09-02T14:24:11+00:00
+
+ ## EU PÁLYÁZATI PORTÁL - Uniós pályázatok
+ - [https://eupalyazatiportal.hu](https://eupalyazatiportal.hu)
+ - date_published: 2024-09-12T14:52:03.638218+00:00
+
+ ## Eurodesk - Találd meg nálunk, amit keresel
+ - [https://eurodesk.hu](https://eurodesk.hu)
+ - date_published: 2024-09-15T20:57:55.910309+00:00
+
+ ## Euronics Műszaki Webáruház
+ - [https://euronics.hu](https://euronics.hu)
+ - date_published: 2024-06-15T03:30:16.697675+00:00
+
+ ## Főoldal - Euronics Karrier
+ - [https://karrier.euronics.hu](https://karrier.euronics.hu)
+ - date_published: 2024-09-16T02:28:54.564713+00:00
+
+ ## Sporthírek, élő közvetítések és eredmények - Eurosport
+ - [https://eurosport.hu](https://eurosport.hu)
+ - date_published: 2024-05-10T05:28:12.783060+00:00
+
+ ## Koncertjegy, Jegyrendelés, Jegyvásárlás, Jegyiroda online Ticket Express ~  Eventim
+ - [https://eventim.hu](https://eventim.hu)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## EWTN | Élő igazság. Katolikus élet.
+ - [https://ewtn.hu](https://ewtn.hu)
+ - date_published: 2024-07-04T03:00:01.511526+00:00
+
+ ## exindex – kortárs képzőművészeti folyóirat
+ - [https://exindex.hu](https://exindex.hu)
+ - date_published: 2024-07-02T21:54:20+00:00
+
+ ## Találja meg a képzést az ön számára | FANUC AKADÉMIA
+ - [https://fanuc-academy.hu](https://fanuc-academy.hu)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Femina.hu - Énidő. Veled.
+ - [https://femina.hu](https://femina.hu)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## FEOL - Fejér vármegyei hírportál
+ - [http://feol.hu](http://feol.hu)
+ - date_published: 2024-09-04T04:19:52.170246+00:00
+
+ ## Fesztivál FM - Minden egyről szól
+ - [https://fesztivalfm.hu](https://fesztivalfm.hu)
+ - date_published: 2023-01-13T15:53:41+00:00
+
+ ## Civil Kerekasztal a Fenntartható Fejlődési Célokért
+ - [https://ffcelok.hu](https://ffcelok.hu)
+ - date_published: 2024-07-08T13:26:24.767563+00:00
+
+ ## Fiat hivatalos weboldal - Új autók, promóciók és mobilitás
+ - [https://fiat.hu](https://fiat.hu)
+ - date_published: 2024-06-18T13:24:54+00:00
+
+ ## A Fiatalok az Emberi Jogokért szervezete:  Az emberi jogok története videó, információ, hírek, oktatói csomag és könyvek
+ - [https://fiatalokazemberijogokert.hu](https://fiatalokazemberijogokert.hu)
+ - date_published: 2024-08-29T11:01:04+00:00
+
+ ## Figyelo.hu
+ - [https://figyelo.hu](https://figyelo.hu)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## FilmBooster.hu
+ - [https://filmbooster.hu](https://filmbooster.hu)
+ - date_published: 2024-10-03T08:24:21.919490+00:00
+
+ ## FIZI Themes
+ - [https://fizithemes.hu](https://fizithemes.hu)
+ - date_published: 2024-06-18T15:48:48.869040+00:00
+
+ ## Flatio - Bérlés digitális nomádoknak minden időtartamra
+ - [https://flatio.hu](https://flatio.hu)
+ - date_published: 2024-06-25T17:49:49.448233+00:00
+
+ ## Európa felfedezése busszal → FlixBus
+ - [https://flixbus.hu](https://flixbus.hu)
+ - date_published: 2024-06-28T10:09:47+00:00
+
+ ## Csatlakozz a Föld órájához! - A Föld órája
+ - [https://foldoraja.hu](https://foldoraja.hu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Főoldal - Forbes.hu
+ - [https://forbes.hu](https://forbes.hu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## A Ford Magyarország hivatalos weboldala | Ford HU
+ - [https://www.ford.hu](https://www.ford.hu)
+ - date_published: 2024-06-19T10:57:45+00:00
+
+ ## Fortepan — Főoldal
+ - [https://fortepan.hu](https://fortepan.hu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://fos.hu](http://fos.hu)
+ - date_published: 2024-09-04T04:14:14.053830+00:00
+
+ ## Index of /
+ - [https://cdn.foxpost.hu](https://cdn.foxpost.hu)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Belföldi csomagfeladás gyorsan és olcsón - FOXPOST
+ - [https://foxpost.hu](https://foxpost.hu)
+ - date_published: 2024-10-17T07:15:25.971650+00:00
+
+ ## FranklinCovey: Világelső az eredményességfejlesztésben
+ - [https://franklincovey.hu](https://franklincovey.hu)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## frank zhu
+ - [https://frankz.hu](https://frankz.hu)
+ - date_published: 2023-01-01T00:00:00+00:00
+
+ ## Főoldal - Ember és Szabadság
+ - [https://freedommag.hu](https://freedommag.hu)
+ - date_published: 2024-09-04T11:11:21+00:00
+
+ ## Alkalmazzon szabadúszókat és találjon freelance munkákat online
+ - [https://freelancer.hu](https://freelancer.hu)
+ - date_published: 2024-06-16T12:00:05.859222+00:00
+
+ ## Freemail bejelentkezés
+ - [https://accounts.freemail.hu](https://accounts.freemail.hu)
+ - date_published: 2024-09-04T04:20:49.130937+00:00
+
+ ## Freemail bejelentkezés
+ - [https://freemail.hu](https://freemail.hu)
+ - date_published: 2024-09-04T04:31:38.124463+00:00
+
+ ## Software & Services
+ - [http://freeweb.hu](http://freeweb.hu)
+ - date_published: 2024-07-08T19:38:39.983089+00:00
+
+ ## Family Frost
+ - [https://frost.hu](https://frost.hu)
+ - date_published: 2024-09-04T17:35:06.734447+00:00
+
+ ## FUNCTION 2023 / September 8-10 / Budapest
+ - [https://function.hu](https://function.hu)
+ - date_published: 2024-07-08T19:39:31.867758+00:00
+
+ ## „Fűts okosan!” a tisztább levegőért
+ - [https://futsokosankampany.hu](https://futsokosankampany.hu)
+ - date_published: 2024-08-08T15:05:48.861699+00:00
+
+ ## FREEWEB - beavatkozás szükséges!
+ - [http://winuae.fw.hu](http://winuae.fw.hu)
+ - date_published: 2019-08-02T10:18:22+00:00
+
+ ## Home
+ - [https://fxstreet.hu](https://fxstreet.hu)
+ - date_published: 2024-06-20T22:01:00.874775+00:00
+
+ ## G7.hu - Gazdasági Hírmagazin
+ - [https://g7.hu](https://g7.hu)
+ - date_published: 2024-08-18T12:40:45.986027+00:00
+
+ ## Hajápolás, bőrápolás és hajfestés, természetesen! | Garnier
+ - [https://garnier.hu](https://garnier.hu)
+ - date_published: 2024-10-20T22:50:58.530649+00:00
+
+ ## Homepage
+ - [https://gemius.hu](https://gemius.hu)
+ - date_published: 2024-06-25T20:20:45+00:00
+
+ ## Glami.hu - Szeretjük a divatot
+ - [https://www.glami.hu](https://www.glami.hu)
+ - date_published: 2024-12-14T05:24:29.121016+00:00
+
+ ## Glamour
+ - [https://glamour.hu](https://glamour.hu)
+ - date_published: 2020-10-21T12:24:00+00:00
+
+ ## Glamour
+ - [https://glamouronline.hu](https://glamouronline.hu)
+ - date_published: 2020-10-21T12:24:00+00:00
+
+ ## Golem keyboard project
+ - [https://golem.hu](https://golem.hu)
+ - date_published: 2024-05-09T08:40:07.753190+00:00
+
+ ## Gomibo.hu - All phones and accessories
+ - [https://gomibo.hu](https://gomibo.hu)
+ - date_published: 2024-10-21T22:25:54.607153+00:00
+
+ ## Google
+ - [https://google.hu](https://google.hu)
+ - date_published: 2024-06-21T22:23:19.022306+00:00
+
+ ## Grafika Google
+ - [https://images.google.hu](https://images.google.hu)
+ - date_published: 2024-06-28T15:31:17.187127+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.hu](https://maps.google.hu)
+ - date_published: 2024-07-20T07:39:33.684797+00:00
+
+ ## Google Scholar
+ - [https://scholar.google.hu](https://scholar.google.hu)
+ - date_published: 2024-05-14T03:32:06.871566+00:00
+
+ ## Magyar Turisztikai Ügynökség
+ - [https://mtu.gov.hu](https://mtu.gov.hu)
+ - date_published: 2024-07-15T04:50:17.763467+00:00
+
+ ## Pályázati Portál
+ - [https://palyazat.gov.hu](https://palyazat.gov.hu)
+ - date_published: 2024-07-12T06:40:52.350446+00:00
+
+ ## Nyitóoldal - Nébih
+ - [https://portal.nebih.gov.hu](https://portal.nebih.gov.hu)
+ - date_published: 2024-07-13T17:43:43.560795+00:00
+
+ ## UNKP | Az ÚNKP-ról
+ - [https://unkp.gov.hu](https://unkp.gov.hu)
+ - date_published: 2024-07-10T08:08:56.220445+00:00
+
+ ## Greenstic | Elviteles ételes dobozok, műanyagmentes éttermi csomagolás
+ - [https://greenstic.hu](https://greenstic.hu)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## grinstodon
+ - [https://mastodon.grin.hu](https://mastodon.grin.hu)
+ - date_published: 2024-08-18T02:48:31.788772+00:00
+
+ ## Grizly | Grizly
+ - [https://www.grizly.hu](https://www.grizly.hu)
+ - date_published: 2024-12-14T05:43:22.901438+00:00
+
+ ## Growth Magazin | Substack
+ - [https://app.growthmagazin.hu](https://app.growthmagazin.hu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Aktivitás a legfontosabb
+ - [https://hacktivity.hu](https://hacktivity.hu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
  ## HAON - Hajdú-Bihar vármegyei hírportál
- - [https://www.haon.hu](https://www.haon.hu)
+ - [https://haon.hu](https://haon.hu)
  - date_published: 2024-09-04T04:20:20.947513+00:00
 
  ## Használtautó.hu - eladó használt és új autó kereső
- - [https://egerut.hasznaltauto.hu](https://egerut.hasznaltauto.hu)
+ - [http://egerut.hasznaltauto.hu](http://egerut.hasznaltauto.hu)
  - date_published: 2024-07-12T06:40:04.624338+00:00
 
  ## Használtautó.hu - eladó használt és új autó kereső
- - [http://www.hasznaltauto.hu](http://www.hasznaltauto.hu)
+ - [https://hasznaltauto.hu](https://hasznaltauto.hu)
  - date_published: 2024-09-04T17:34:53.463009+00:00
 
  ## Főoldal - Helló Magyar
@@ -15,15 +491,15 @@
  - date_published: 2024-05-01T03:32:05.762391+00:00
 
  ## Kezdőlap
- - [https://www.henkel.hu](https://www.henkel.hu)
+ - [https://henkel.hu](https://henkel.hu)
  - date_published: 2024-10-18T20:17:03.898133+00:00
 
  ## HEOL - Heves vármegyei hírportál
- - [https://www.heol.hu](https://www.heol.hu)
+ - [http://heol.hu](http://heol.hu)
  - date_published: 2024-09-04T04:20:07.434659+00:00
 
  ## Hilti.hu
- - [https://www.hilti.hu](https://www.hilti.hu)
+ - [https://hilti.hu](https://hilti.hu)
  - date_published: 2024-06-20T07:26:36.716134+00:00
 
  ## Nyitóoldal | Hír FM
@@ -37,6 +513,7 @@
  ## hirvilag.hu
  - [https://hirvilag.hu](https://hirvilag.hu)
  - date_published: 2024-09-04T04:21:20.082583+00:00
+ - date_dead_since: 2024-12-29T14:06:51.420557+00:00
 
  ## Horváth Loránd oldala!
  - [https://hlorand.hu](https://hlorand.hu)
@@ -48,11 +525,11 @@
  - date_published: 2024-08-15T00:00:00+00:00
 
  ## Joco's personal page
- - [http://joco.homeserver.hu](http://joco.homeserver.hu)
+ - [https://joco.homeserver.hu](https://joco.homeserver.hu)
  - date_published: 2003-07-17T13:19:08+00:00
 
  ## Primo
- - [http://www.primo.homeserver.hu](http://www.primo.homeserver.hu)
+ - [https://primo.homeserver.hu](https://primo.homeserver.hu)
  - date_published: 2004-03-29T17:54:03+00:00
 
  ## Web hosting Európában, web hosting csak 1,99 € | Hostico
@@ -72,7 +549,7 @@
  - date_published: 2024-07-10T07:16:21.314259+00:00
 
  ## Címlap | HUP
- - [http://hup.hu](http://hup.hu)
+ - [https://hup.hu](https://hup.hu)
  - date_published: 2024-08-18T00:00:00+00:00
 
  ## A mű
@@ -98,7 +575,7 @@
 
  ## Welcome to nginx on Debian!
  - [https://images.hvg.hu](https://images.hvg.hu)
- - date_published: 2024-05-13T03:09:37.247065+00:00
+ - date_published: 2016-10-27T18:22:42+00:00
 
  ## kulcs.hvg.hu
  - [https://kulcs.hvg.hu](https://kulcs.hvg.hu)
@@ -149,7 +626,7 @@
  - date_published: 2024-05-13T03:08:49.878054+00:00
 
  ## HVGKlubkártya – Több van a kártyáján mint gondolná
- - [http://hvgklubkartya.hu](http://hvgklubkartya.hu)
+ - [https://hvgklubkartya.hu](https://hvgklubkartya.hu)
  - date_published: 2024-07-17T07:04:52.949939+00:00
 
  ## HVG Könyvek Kiadó, az online könyvesbolt
@@ -165,7 +642,7 @@
  - date_published: 2020-06-22T04:38:06+00:00
 
  ## IBAN Checker: Nemzetközi bankszámlaszám érvényesítése
- - [https://www.iban.hu](https://www.iban.hu)
+ - [https://iban.hu](https://iban.hu)
  - date_published: 2024-08-30T00:00:00+00:00
 
  ## ICF Tech Hungary - We are hiring!
@@ -173,7 +650,7 @@
  - date_published: 2024-01-12T00:00:00+00:00
 
  ## Kezdőlap
- - [https://www.i-com.hu](https://www.i-com.hu)
+ - [https://i-com.hu](https://i-com.hu)
  - date_published: 2024-09-15T12:15:43.652919+00:00
 
  ## Idea Alapítvány
@@ -193,7 +670,7 @@
  - date_published: 2024-05-12T00:00:00+00:00
 
  ## igus® energialáncok, flexibilis kábelek, műanyag csapágyak
- - [https://www.igus.hu](https://www.igus.hu)
+ - [https://igus.hu](https://igus.hu)
  - date_published: 2024-08-06T23:12:08.273024+00:00
 
  ## Inda-Labs Zrt.
@@ -201,11 +678,11 @@
  - date_published: 2024-09-04T04:24:25.461408+00:00
 
  ## Indafax.hu
- - [http://indafax.hu](http://indafax.hu)
+ - [https://indafax.hu](https://indafax.hu)
  - date_published: 2024-09-04T04:24:23.039611+00:00
 
  ## Indafotó címlap
- - [http://indafoto.hu](http://indafoto.hu)
+ - [https://indafoto.hu](https://indafoto.hu)
  - date_published: 2024-09-04T04:24:04.772895+00:00
 
  ## Értékesítés
@@ -221,11 +698,11 @@
  - date_published: 2024-09-04T04:24:18.406049+00:00
 
  ## Index Fórum
- - [http://forum.index.hu](http://forum.index.hu)
+ - [https://forum.index.hu](https://forum.index.hu)
  - date_published: 2024-09-04T04:24:16.633172+00:00
 
  ## Index - friss hírek, események, tények
- - [http://index.hu](http://index.hu)
+ - [https://index.hu](https://index.hu)
  - date_published: 2024-06-30T03:01:15.382422+00:00
 
  ## Index - friss hírek, események, tények
@@ -237,7 +714,7 @@
  - date_published: 2024-06-14T18:44:01.694031+00:00
 
  ## ingatlanbazar.hu - Ingatlan, albérlet, lakás, ház, telek hirdetés
- - [https://www.ingatlanbazar.hu](https://www.ingatlanbazar.hu)
+ - [https://ingatlanbazar.hu](https://ingatlanbazar.hu)
  - date_published: 2024-09-04T04:20:31.830630+00:00
 
  ## Ingatlantajolo.hu | Ingatlantájoló.hu | Ingatlan Kereső‎
@@ -245,35 +722,35 @@
  - date_published: 2024-09-15T00:00:00+00:00
 
  ## Home | Interactive Brokers Central Europe
- - [https://www.interactivebrokers.hu](https://www.interactivebrokers.hu)
+ - [https://interactivebrokers.hu](https://interactivebrokers.hu)
  - date_published: 2024-06-16T16:41:55.911880+00:00
 
  ## Intercom Zrt.
- - [http://www.intercom.hu](http://www.intercom.hu)
- - date_published: 2024-07-28T10:10:40.535221+00:00
+ - [https://intercom.hu](https://intercom.hu)
+ - date_published: 2018-06-05T09:58:00+00:00
 
  ## Iparigrafika
  - [https://iparigrafika.hu](https://iparigrafika.hu)
  - date_published: 2024-04-29T18:26:29.994756+00:00
 
  ## iPon - hardver és szoftver hírek, tesztek, webshop, fórum
- - [http://ipon.hu](http://ipon.hu)
+ - [https://ipon.hu](https://ipon.hu)
  - date_published: 2024-07-13T13:32:21.711668+00:00
 
  ## RFID rendszer bevezetés buktatói | Blog | Smartindy
- - [http://www.ishm2006.hu](http://www.ishm2006.hu)
+ - [https://ishm2006.hu](https://ishm2006.hu)
  - date_published: 2022-02-08T01:44:45+00:00
 
  ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
- - [https://www.jack-wolfskin.hu](https://www.jack-wolfskin.hu)
+ - [https://jack-wolfskin.hu](https://jack-wolfskin.hu)
  - date_published: 2024-07-14T12:15:56.692220+00:00
 
  ## Cipő, ruházat és kiegészítő | JD Sports
- - [https://www.jdsports.hu](https://www.jdsports.hu)
+ - [https://jdsports.hu](https://jdsports.hu)
  - date_published: 2024-10-21T02:20:58.015154+00:00
 
  ## Jeep® Magyarország
- - [https://www.jeep.hu](https://www.jeep.hu)
+ - [https://jeep.hu](https://jeep.hu)
  - date_published: 2024-06-18T16:06:00+00:00
 
  ## Jeep Owners Club Hungary
@@ -298,7 +775,7 @@
  - tags: ['personal']
 
  ## Kare24 online bútoráruház – Egyedi design minden lakásba.
- - [https://www.kare24.hu](https://www.kare24.hu)
+ - [https://kare24.hu](https://kare24.hu)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Álláshirdetések - Decathlon Karrier Portál
@@ -306,7 +783,7 @@
  - date_published: 2024-09-19T13:36:39.523397+00:00
 
  ## Kaspersky kiberbiztonsági megoldások otthoni és üzleti felhasználásra | Kaspersky
- - [https://www.kaspersky.hu](https://www.kaspersky.hu)
+ - [https://kaspersky.hu](https://kaspersky.hu)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Online Kaszinó Magyarország ⚡️ Legjobb Kaszinói Magyarország
@@ -314,7 +791,7 @@
  - date_published: 2024-12-13T15:33:12+00:00
 
  ## KEMMA - Komárom-Esztergom vármegyei hírportál
- - [https://www.kemma.hu](https://www.kemma.hu)
+ - [http://kemma.hu](http://kemma.hu)
  - date_published: 2024-09-04T04:20:18.679572+00:00
 
  ## EGYÜTTMŰKÖDÉS - KENO Energy
@@ -322,7 +799,7 @@
  - date_published: 2024-09-26T05:29:09+00:00
 
  ## Magyar Kerékpárosklub
- - [http://kerekparosklub.hu](http://kerekparosklub.hu)
+ - [https://kerekparosklub.hu](https://kerekparosklub.hu)
  - date_published: 2024-09-04T17:34:55.473825+00:00
 
  ## kibu.hu
@@ -334,7 +811,7 @@
  - date_published: 2024-05-03T00:00:00+00:00
 
  ## KISALFOLD - Győr-Moson-Sopron vármegyei hírportál
- - [https://www.kisalfold.hu](https://www.kisalfold.hu)
+ - [http://kisalfold.hu](http://kisalfold.hu)
  - date_published: 2024-09-04T04:20:57.011848+00:00
 
  ## Knorr-Bremse
@@ -342,15 +819,15 @@
  - date_published: 2021-07-15T15:52:48+00:00
 
  ## Használtautó, új autó kereső, eladó használtautók
- - [https://kocsi.hu](https://kocsi.hu)
+ - [http://kocsi.hu](http://kocsi.hu)
  - date_published: 2024-09-04T17:35:09.390688+00:00
 
  ## Középiskolai Matematikai és Fizikai Lapok Informatika rovattal (KöMaL)
- - [https://www.komal.hu](https://www.komal.hu)
+ - [https://komal.hu](https://komal.hu)
  - date_published: 2024-07-02T23:57:01.786135+00:00
 
  ## Konecranes
- - [https://www.konecranes.hu](https://www.konecranes.hu)
+ - [https://konecranes.hu](https://konecranes.hu)
  - date_published: 2024-05-04T09:59:26.881991+00:00
 
  ## Playstation - XBOX - Nintendo - Konzolkiraly.hu
@@ -386,23 +863,23 @@
  - date_published: 2024-07-08T13:26:26.116753+00:00
 
  ## Kwikfit Autószerviz - Kwik Fit Márkafüggetlen Gumi- és Autószervizhálózat
- - [https://www.kwikfit.hu](https://www.kwikfit.hu)
+ - [https://kwikfit.hu](https://kwikfit.hu)
  - date_published: 2024-10-20T17:10:53.279068+00:00
 
  ## Lakáskultúra magazin - A legújabb lakberendezési trendek, kreatív ötletek
- - [https://www.lakaskultura.hu](https://www.lakaskultura.hu)
+ - [https://lakaskultura.hu](https://lakaskultura.hu)
  - date_published: 2024-09-04T04:20:26.007094+00:00
 
  ## Lancia
- - [http://www.lancia.hu](http://www.lancia.hu)
+ - [https://www.lancia.hu](https://www.lancia.hu)
  - date_published: 2017-03-13T08:56:06+00:00
 
  ## Land Rover | Prémium szabadidőjárművek és terepjárók | Land Rover Magyarország
- - [https://www.landrover.hu](https://www.landrover.hu)
+ - [https://landrover.hu](https://landrover.hu)
  - date_published: 2024-07-09T17:13:10.818457+00:00
 
  ## Versenypolitika lap - Megbízható válaszok profiktól
- - [http://versenypolitika.lap.hu](http://versenypolitika.lap.hu)
+ - [https://versenypolitika.lap.hu](https://versenypolitika.lap.hu)
  - date_published: 2024-10-18T19:14:35.356598+00:00
 
  ## Lapcentrum
@@ -410,11 +887,11 @@
  - date_published: 2024-09-04T04:19:44.104408+00:00
 
  ## Lapot.hu
- - [https://www.lapot.hu](https://www.lapot.hu)
+ - [https://lapot.hu](https://lapot.hu)
  - date_published: 2024-06-20T07:16:44.462022+00:00
 
  ## Lealkudtuk
- - [https://www.lealkudtuk.hu](https://www.lealkudtuk.hu)
+ - [https://lealkudtuk.hu](https://lealkudtuk.hu)
  - date_published: 2024-09-04T04:23:41.723404+00:00
 
  ## Оnlіnе Kaszinó Маgуаrоrszágоn 2024 ✔️ Lеgálіs és Меgbízhаtó Kaszinók
@@ -422,7 +899,7 @@
  - date_published: 2024-05-26T15:29:08+00:00
 
  ## Commodore LCD
- - [http://commodore-lcd.lgb.hu](http://commodore-lcd.lgb.hu)
+ - [https://commodore-lcd.lgb.hu](https://commodore-lcd.lgb.hu)
  - date_published: 2019-11-20T08:04:07+00:00
 
  ## LGB's github page
@@ -430,24 +907,24 @@
  - date_published: 2020-02-05T08:04:43+00:00
 
  ## | Lufthansa Systems
- - [https://www.lhsystems.hu](https://www.lhsystems.hu)
+ - [https://lhsystems.hu](https://lhsystems.hu)
  - date_published: 2024-06-14T07:39:58+00:00
 
  ## libreoffice.hu – Libreoffice – A magyar közösség honlapja
- - [http://libreoffice.hu](http://libreoffice.hu)
+ - [https://libreoffice.hu](https://libreoffice.hu)
  - date_published: 2023-08-21T00:00:00+00:00
 
  ## Lidl.hu | Minden jót, jó áron!
- - [https://www.lidl.hu](https://www.lidl.hu)
+ - [https://lidl.hu](https://lidl.hu)
  - date_published: 2024-06-25T19:03:04.570622+00:00
+
+ ## Life.hu az élet női oldala
+ - [https://life.hu](https://life.hu)
+ - date_published: 2024-09-04T04:19:40.526961+00:00
 
  ## SHE - A stílusos, gondolkodó nő.
  - [https://she.life.hu](https://she.life.hu)
  - date_published: 2024-09-04T04:20:53.828541+00:00
-
- ## Life.hu az élet női oldala
- - [https://www.life.hu](https://www.life.hu)
- - date_published: 2024-09-04T04:19:40.526961+00:00
 
  ## Személyre szabott Balaton. Tervezz velünk! | LikeBalaton
  - [https://likebalaton.hu](https://likebalaton.hu)
@@ -462,7 +939,7 @@
  - date_published: 2024-12-20T17:00:27.263343+00:00
 
  ## Kezdőlap
- - [https://www.liveagent.hu](https://www.liveagent.hu)
+ - [https://liveagent.hu](https://liveagent.hu)
  - date_published: 2024-10-19T20:26:42.901242+00:00
 
  ## Koncert jegyek, turné időpontok és információk  | Live Nation Magyarország
@@ -470,11 +947,11 @@
  - date_published: 2024-12-22T15:09:05.554939+00:00
 
  ## LKA.hu
- - [http://www.lka.hu](http://www.lka.hu)
+ - [https://lka.hu](https://lka.hu)
  - date_published: 2011-01-03T00:29:59+00:00
 
  ## L. Ron Hubbard – A Dianetics és a Scientology Alapítója
- - [https://www.lronhubbard.hu](https://www.lronhubbard.hu)
+ - [https://lronhubbard.hu](https://lronhubbard.hu)
  - date_published: 2024-06-06T19:38:53.615961+00:00
 
  ## Gona
@@ -490,7 +967,7 @@
  - date_published: 2024-06-22T08:41:38+00:00
 
  ## Magyar Narancs
- - [http://magyarnarancs.hu](http://magyarnarancs.hu)
+ - [https://magyarnarancs.hu](https://magyarnarancs.hu)
  - date_published: 2024-07-03T22:21:27.554034+00:00
 
  ## Magyar Nemzet | Polgári napilap és hírportál
@@ -502,11 +979,11 @@
  - date_published: 2024-09-04T04:26:04+00:00
 
  ## maiUtazás.hu: Szállás és hotel kuponok, akciós utazási ajánlatok
- - [https://www.maiutazas.hu](https://www.maiutazas.hu)
+ - [https://maiutazas.hu](https://maiutazas.hu)
  - date_published: 2024-10-18T04:02:18.430238+00:00
 
  ## MALL.HU - Konyha, Elektronika, Fotó, PC és notebook, Barkács, Játékok, Óra
- - [https://www.mall.hu](https://www.mall.hu)
+ - [http://mall.hu](http://mall.hu)
  - date_published: 2024-06-04T00:00:00+00:00
 
  ## EGY ÉV SZOLGÁLAT
@@ -530,7 +1007,7 @@
  - date_published: 2024-05-09T08:58:45.755299+00:00
 
  ## marketing.hu | Magyar Marketing Szövetség
- - [https://www.marketing.hu](https://www.marketing.hu)
+ - [https://marketing.hu](https://marketing.hu)
  - date_published: 2024-06-25T21:30:31.259837+00:00
 
  ## Home | Márk Mihályi
@@ -542,19 +1019,19 @@
  - date_published: 2024-06-20T07:16:36.425767+00:00
 
  ## Rényi Alfréd Matematikai Kutatóintézet
- - [http://www.math-inst.hu](http://www.math-inst.hu)
+ - [https://math-inst.hu](https://math-inst.hu)
  - date_published: 2024-07-01T14:45:53.753915+00:00
 
  ## Welcome to Mazak
- - [http://www.mazakeu.hu](http://www.mazakeu.hu)
+ - [https://www.mazakeu.hu](https://www.mazakeu.hu)
  - date_published: 2024-07-16T17:31:57.210953+00:00
 
  ## Magazin Centrum
- - [https://www.mc.hu](https://www.mc.hu)
+ - [https://mc.hu](https://mc.hu)
  - date_published: 2024-10-14T22:45:28.979827+00:00
 
  ## Magyar Demoscene Egyesület
- - [http://www.md1.hu](http://www.md1.hu)
+ - [https://md1.hu](https://md1.hu)
  - date_published: 2024-05-09T00:00:00+00:00
 
  ## Mediadyn Kft.
@@ -574,7 +1051,7 @@
  - date_published: 2024-09-04T04:21:33.525399+00:00
 
  ## Magántanítás. Keresel vagy ajánlasz magántanítást? | Meet'n'learn.hu
- - [https://www.meetnlearn.hu](https://www.meetnlearn.hu)
+ - [https://meetnlearn.hu](https://meetnlearn.hu)
  - date_published: 2024-09-04T05:20:20.706113+00:00
 
  ## MegaByte.hu | Programozás és informatika oktatóportál
@@ -582,7 +1059,7 @@
  - date_published: 2024-09-04T04:15:33.188259+00:00
 
  ## Smart Home és prémium laptop alkatrészek a Mentor-Market.hu-n
- - [https://www.mentor-market.hu](https://www.mentor-market.hu)
+ - [https://mentor-market.hu](https://mentor-market.hu)
  - date_published: 2024-07-13T12:10:57.133531+00:00
 
  ## MeRSZ - Akadémiai Kiadó
@@ -598,7 +1075,7 @@
  - date_published: 2024-08-08T15:05:55.704699+00:00
 
  ## KLIMADAT térinformatikai rendszer
- - [http://klimadat.met.hu](http://klimadat.met.hu)
+ - [https://klimadat.met.hu](https://klimadat.met.hu)
  - date_published: 2024-08-08T15:05:50.000922+00:00
 
  ## Országos Légszennyezettségi Mérőhálózat
@@ -606,7 +1083,7 @@
  - date_published: 2024-08-08T15:05:59.006384+00:00
 
  ## HungaroMet Meteora
- - [http://meteora.met.hu](http://meteora.met.hu)
+ - [https://meteora.met.hu](https://meteora.met.hu)
  - date_published: 2024-02-13T03:44:45+00:00
 
  ## met.hu - HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt.
@@ -614,7 +1091,7 @@
  - date_published: 2024-04-28T00:23:18+00:00
 
  ## Meta Consulting – Create value from data
- - [https://www.metaconsulting.hu](https://www.metaconsulting.hu)
+ - [https://metaconsulting.hu](https://metaconsulting.hu)
  - date_published: 2024-06-22T13:19:35.105675+00:00
 
  ## Családi Ház és Lakásfelújítás, Generálkivitelezés | METE Építő
@@ -622,7 +1099,7 @@
  - date_published: 2024-10-20T12:51:03.291693+00:00
 
  ## Főoldal
- - [https://www.metlife.hu](https://www.metlife.hu)
+ - [https://metlife.hu](https://metlife.hu)
  - date_published: 2024-07-19T16:39:36+00:00
 
  ## Metropol - Az utca hangja. Hiteles tartalom | metropol.hu
@@ -643,7 +1120,7 @@
  - tags: ['personal']
 
  ## Mindmegette
- - [https://www.mindmegette.hu](https://www.mindmegette.hu)
+ - [https://mindmegette.hu](https://mindmegette.hu)
  - date_published: 2024-09-04T04:20:03.872657+00:00
 
  ## Nyitólap HU - Orbán Viktor
@@ -651,7 +1128,7 @@
  - date_published: 2022-11-09T17:21:52+00:00
 
  ## MixIt
- - [https://www.mixit.hu](https://www.mixit.hu)
+ - [https://mixit.hu](https://mixit.hu)
  - date_published: 2024-07-17T11:57:05+00:00
 
  ## M&M Translation Services
@@ -699,7 +1176,7 @@
  - date_published: 2024-09-16T03:57:20.024582+00:00
 
  ## A Drogmentes Világért Alapítvány hivatalos weboldala: Tények a felnőttek és fiatalok kábítószer-használatáról, drogokról szóló irodalom, oktatás
- - [http://www.mondjnemetadrogokra.hu](http://www.mondjnemetadrogokra.hu)
+ - [https://mondjnemetadrogokra.hu](https://mondjnemetadrogokra.hu)
  - date_published: 2024-09-04T17:56:39.012602+00:00
 
  ## Főoldal - MoonShot
@@ -707,11 +1184,11 @@
  - date_published: 2024-05-08T09:59:31.238322+00:00
 
  ## MorphoLogic - Kezdőlap
- - [https://www.morphologic.hu](https://www.morphologic.hu)
+ - [https://morphologic.hu](https://morphologic.hu)
  - date_published: 2024-09-04T04:27:21+00:00
 
  ## Főoldal
- - [https://www.motibooks.hu](https://www.motibooks.hu)
+ - [https://motibooks.hu](https://motibooks.hu)
  - date_published: 2024-02-13T00:00:00+00:00
 
  ## Mozaikkereső - az ország egyik legnagyobb nyereményjátéka
@@ -723,7 +1200,7 @@
  - date_published: 2024-05-08T10:17:16.729228+00:00
 
  ## Entering MPlayer homepage
- - [http://lists.mplayerhq.hu](http://lists.mplayerhq.hu)
+ - [https://lists.mplayerhq.hu](https://lists.mplayerhq.hu)
  - date_published: 2011-04-22T00:49:13+00:00
 
  ## Entering MPlayer homepage
@@ -748,7 +1225,7 @@
  - date_published: 2024-07-21T22:50:27.458373+00:00
 
  ## Címoldal
- - [http://mta.hu](http://mta.hu)
+ - [https://mta.hu](https://mta.hu)
  - date_published: 2024-06-30T03:01:56.014452+00:00
 
  ## MyCite2Frontend
@@ -764,7 +1241,7 @@
  - date_published: 2024-10-30T07:56:20.324510+00:00
 
  ## A Hatóságról - Nemzeti Adatvédelmi és Információszabadság Hatóság
- - [http://www.naih.hu](http://www.naih.hu)
+ - [https://naih.hu](https://naih.hu)
  - date_published: 2024-10-19T21:13:29.718911+00:00
 
  ## Totalcar autós népítélet -
@@ -776,11 +1253,11 @@
  - date_published: 2023-12-18T10:02:11.561136+00:00
 
  ## Főoldal
- - [http://www.nestle.hu](http://www.nestle.hu)
+ - [https://www.nestle.hu](https://www.nestle.hu)
  - date_published: 2024-09-14T20:21:51+00:00
 
  ## Netrisk: Biztosítás egyszerűen | Kötelező, Casco, Utasbiztosítás
- - [http://www.netrisk.hu](http://www.netrisk.hu)
+ - [https://netrisk.hu](https://netrisk.hu)
  - date_published: 2024-09-02T00:00:00+00:00
 
  ## newbalance.hu - New Balance cipő, ruházat és kiegészítők futáshoz
@@ -788,19 +1265,19 @@
  - date_published: 2024-04-25T00:00:00+00:00
 
  ## Newcomer · Prepare for the Ultimate Adventure!
- - [http://www.newcomer.hu](http://www.newcomer.hu)
+ - [https://newcomer.hu](https://newcomer.hu)
  - date_published: 2013-01-15T17:17:54+00:00
 
  ## New Era Publications International ApS
- - [https://www.newerapublications.hu](https://www.newerapublications.hu)
+ - [https://newerapublications.hu](https://newerapublications.hu)
  - date_published: 2024-09-04T18:45:10.961877+00:00
 
  ## Kezdőoldal – Nextent Informatika Zrt.
- - [https://www.nextent.hu](https://www.nextent.hu)
+ - [https://nextent.hu](https://nextent.hu)
  - date_published: 2024-06-22T13:19:21+00:00
 
  ## MailEnable Web Mail
- - [https://www.nexus.hu](https://www.nexus.hu)
+ - [https://nexus.hu](https://nexus.hu)
  - date_published: 2024-09-04T04:24:45.510771+00:00
 
  ## Nyitólap - NFI
@@ -808,15 +1285,15 @@
  - date_published: 2024-07-21T06:20:56.808425+00:00
 
  ## National Geographic | Magyarország
- - [http://www.ng.hu](http://www.ng.hu)
+ - [https://ng.hu](https://ng.hu)
  - date_published: 2024-05-22T00:00:00+00:00
 
  ## Nhood Hungary | Vegyes ingatlanszolgáltató társaság, aki három pozitív hatásra törekszik fejlesztései során.
- - [https://www.nhood.hu](https://www.nhood.hu)
+ - [https://nhood.hu](https://nhood.hu)
  - date_published: 2024-09-16T02:50:01.953053+00:00
 
  ## Nemzeti Jogszabálytár – Magyar Közlöny Lap- és Könyvkiadó
- - [http://njt.hu](http://njt.hu)
+ - [https://njt.hu](https://njt.hu)
  - date_published: 2024-06-30T00:00:00+00:00
 
  ## NMHH – hivatalos honlap
@@ -824,7 +1301,7 @@
  - date_published: 2024-09-15T12:15:40.592425+00:00
 
  ## NOOL - Nógrád vármegyei hírportál
- - [https://www.nool.hu](https://www.nool.hu)
+ - [http://nool.hu](http://nool.hu)
  - date_published: 2024-09-04T04:21:05.595805+00:00
 
  ## nop.hu
@@ -832,35 +1309,35 @@
  - date_published: 2024-09-14T08:50:07.676148+00:00
 
  ## Nova Services
- - [https://www.novaservices.hu](https://www.novaservices.hu)
+ - [https://novaservices.hu](https://novaservices.hu)
  - date_published: 2024-09-02T00:00:00+00:00
 
  ## TERMÉKEINK |
- - [http://nutrilab.hu](http://nutrilab.hu)
+ - [https://nutrilab.hu](https://nutrilab.hu)
  - date_published: 2024-10-17T20:57:28.242955+00:00
 
  ## OBI barkács- és webáruház – Ami az otthonába és a kertbe kell
- - [https://www.obi.hu](https://www.obi.hu)
+ - [https://obi.hu](https://obi.hu)
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## Oddwords
- - [http://oddwords.hu](http://oddwords.hu)
+ - [https://oddwords.hu](https://oddwords.hu)
  - date_published: 2024-06-18T18:20:05+00:00
 
  ## Opel Magyarország | új modellek, ajánlatok
- - [https://www.opel.hu](https://www.opel.hu)
+ - [https://opel.hu](https://opel.hu)
  - date_published: 2024-07-11T14:49:16+00:00
 
  ## ORIGO
- - [https://www.origo.hu](https://www.origo.hu)
+ - [https://origo.hu](https://origo.hu)
  - date_published: 2024-09-04T04:19:48.072049+00:00
 
  ## Az Ország Boltja 2023
- - [https://www.orszagboltja.hu](https://www.orszagboltja.hu)
+ - [https://orszagboltja.hu](https://orszagboltja.hu)
  - date_published: 2024-10-17T07:16:46.267060+00:00
 
  ## Oldschool computer - Retrocomputer játékok, felhasználói programok
- - [http://oscomp.hu](http://oscomp.hu)
+ - [https://oscomp.hu](https://oscomp.hu)
  - date_published: 2024-07-08T19:12:15.754656+00:00
 
  ## Országos Széchényi Könyvtár
@@ -868,15 +1345,15 @@
  - date_published: 2024-09-04T04:31:38+00:00
 
  ## OTDT OTDT | OTDK
- - [http://otdt.hu](http://otdt.hu)
+ - [https://otdt.hu](https://otdt.hu)
  - date_published: 2024-06-30T03:01:51.987600+00:00
 
  ## Igényelj számlát mobilappal!
- - [https://www.otpbank.hu](https://www.otpbank.hu)
+ - [https://otpbank.hu](https://otpbank.hu)
  - date_published: 2024-09-03T14:30:09+00:00
 
  ## OTP Otthon
- - [https://www.otpotthon.hu](https://www.otpotthon.hu)
+ - [https://otpotthon.hu](https://otpotthon.hu)
  - date_published: 2024-08-14T13:32:09+00:00
 
  ## Otthontérkép Magazin - Lakásválasztással kapcsolatos információk, adatok, segítségek egy helyen.
@@ -888,23 +1365,23 @@
  - date_published: 2024-10-28T22:53:08+00:00
 
  ## ParaRadio
- - [http://www.pararadio.hu](http://www.pararadio.hu)
+ - [https://pararadio.hu](https://pararadio.hu)
  - date_published: 2008-01-14T14:35:42+00:00
 
  ## PartnerPro.hu - affiliate-hirdetési partnerprogram
- - [https://www.partnerpro.hu](https://www.partnerpro.hu)
+ - [https://partnerpro.hu](https://partnerpro.hu)
  - date_published: 2024-09-04T04:23:36.575235+00:00
 
  ## Online és bankkártyás fizetés bevezetése egyszerűen - Fizetési kapu
- - [https://www.paymentgateway.hu](https://www.paymentgateway.hu)
+ - [https://paymentgateway.hu](https://paymentgateway.hu)
  - date_published: 2024-07-17T07:04:46.403336+00:00
 
  ## pegasos.hu
- - [http://www.pegasos.hu](http://www.pegasos.hu)
+ - [https://pegasos.hu](https://pegasos.hu)
  - date_published: 2024-07-08T19:13:18.751197+00:00
 
  ## Pénzcentrum.hu
- - [https://www.penzcentrum.hu](https://www.penzcentrum.hu)
+ - [https://penzcentrum.hu](https://penzcentrum.hu)
  - date_published: 2024-09-15T12:15:39.584275+00:00
 
  ## Főoldal
@@ -920,7 +1397,7 @@
  - date_published: 2024-05-09T07:51:54.589265+00:00
 
  ## Zsalu, Állvány, Mérnöki szolgáltatás - PERI
- - [https://www.peri.hu](https://www.peri.hu)
+ - [https://peri.hu](https://peri.hu)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## YunoHost Portal
@@ -928,7 +1405,7 @@
  - date_published: 2024-05-09T08:23:35.119588+00:00
 
  ## PlayGoSmart
- - [https://www.pgs.hu](https://www.pgs.hu)
+ - [https://pgs.hu](https://pgs.hu)
  - date_published: 2024-09-16T02:32:40.925160+00:00
 
  ## Philips - Magyarország | Philips
@@ -936,11 +1413,11 @@
  - date_published: 2024-10-31T02:21:16+00:00
 
  ## PihiPakk.hu - Élmények csomagban
- - [https://www.pihipakk.hu](https://www.pihipakk.hu)
+ - [https://pihipakk.hu](https://pihipakk.hu)
  - date_published: 2024-10-18T04:01:58.442152+00:00
 
  ## Gamer PC & laptop | webáruház & bemutatóterem | Pixel.hu
- - [http://pixel.hu](http://pixel.hu)
+ - [https://pixel.hu](https://pixel.hu)
  - date_published: 2024-07-13T00:00:00+00:00
 
  ## Countly
@@ -948,11 +1425,11 @@
  - date_published: 2024-07-09T20:15:53.589159+00:00
 
  ## Főoldal
- - [http://platinumshop.hu](http://platinumshop.hu)
+ - [https://platinumshop.hu](https://platinumshop.hu)
  - date_published: 2024-06-17T05:40:56+00:00
 
  ## PC és konzol videojáték webáruház • Play 24/7
- - [http://play247.hu](http://play247.hu)
+ - [https://play247.hu](https://play247.hu)
  - date_published: 2024-06-17T05:42:05.795450+00:00
 
  ## A férfi legjobb oldala.
@@ -960,7 +1437,7 @@
  - date_published: 2024-06-28T19:34:23.480231+00:00
 
  ## PlayIT Store - Videójáték webáruház
- - [https://www.playitstore.hu](https://www.playitstore.hu)
+ - [https://playitstore.hu](https://playitstore.hu)
  - date_published: 2024-09-16T02:27:27+00:00
 
  ## pocketbook
@@ -984,19 +1461,19 @@
  - date_published: 2024-09-15T12:15:42.091208+00:00
 
  ## Portfolio.hu - Online gazdasági újság
- - [https://www.portfolio.hu](https://www.portfolio.hu)
+ - [https://portfolio.hu](https://portfolio.hu)
  - date_published: 2024-09-15T12:15:50.368214+00:00
 
  ## Magyar Posta Zrt. - Nyitó
- - [https://www.posta.hu](https://www.posta.hu)
+ - [https://posta.hu](https://posta.hu)
  - date_published: 2024-10-17T07:15:19.460405+00:00
 
  ## A Legjobb Partnerszoftver Platform 2023 | Post Affiliate Pro
- - [https://www.postaffiliatepro.hu](https://www.postaffiliatepro.hu)
+ - [https://postaffiliatepro.hu](https://postaffiliatepro.hu)
  - date_published: 2024-10-20T11:07:41.564499+00:00
 
  ## PRAE.HU - a művészeti portál
- - [http://www.prae.hu](http://www.prae.hu)
+ - [https://prae.hu](https://prae.hu)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Praktiker webshop - online barkácsáruház
@@ -1004,15 +1481,15 @@
  - date_published: 2024-12-24T08:53:41.855345+00:00
 
  ## Index - Prima Primissima
- - [http://primissima.hu](http://primissima.hu)
+ - [https://primissima.hu](https://primissima.hu)
  - date_published: 2024-05-16T00:00:00+00:00
 
  ## Prolan Irányítástechnikai Zrt. Prolan Cégcsoport
- - [https://www.prolan.hu](https://www.prolan.hu)
+ - [https://prolan.hu](https://prolan.hu)
  - date_published: 2024-04-18T00:00:00+00:00
 
  ## Quantum Mirror | Főoldal
- - [http://quantum-mirror.hu](http://quantum-mirror.hu)
+ - [https://quantum-mirror.hu](https://quantum-mirror.hu)
  - date_published: 2024-05-16T10:59:54+00:00
 
  ## Rádió 1 Gong: Rádió 1 - Csak igazi mai sláger megy! | Rádió 1 Gong
@@ -1024,7 +1501,7 @@
  - date_published: 2024-10-16T10:55:03+00:00
 
  ## Ratz Tanár Úr Életműdíj
- - [http://www.ratztanarurdij.hu](http://www.ratztanarurdij.hu)
+ - [https://ratztanarurdij.hu](https://ratztanarurdij.hu)
  - date_published: 2024-06-30T03:01:11.192811+00:00
 
  ## Reblog.hu főoldal
@@ -1048,15 +1525,15 @@
  - date_published: 2024-05-06T17:57:35.074332+00:00
 
  ## Reneszánsz Kőfaragó Zrt.
- - [http://www.reneszansz.hu](http://www.reneszansz.hu)
+ - [https://reneszansz.hu](https://reneszansz.hu)
  - date_published: 2024-09-04T17:34:32.592078+00:00
 
  ## rentIT - the eventIT company, since 1996. - rentIT
- - [https://www.rentit.hu](https://www.rentit.hu)
+ - [https://rentit.hu](https://rentit.hu)
  - date_published: 2024-06-22T09:18:08.494504+00:00
 
  ## Rényi Alfréd Matematikai Kutatóintézet
- - [http://www.renyi.hu](http://www.renyi.hu)
+ - [https://renyi.hu](https://renyi.hu)
  - date_published: 2024-07-01T06:17:14.467739+00:00
 
  ## Repropress.hu
@@ -1064,11 +1541,11 @@
  - date_published: 2024-06-20T07:16:04.422902+00:00
 
  ## restu.hu
- - [https://www.restu.hu](https://www.restu.hu)
+ - [https://restu.hu](https://restu.hu)
  - date_published: 2024-07-03T20:04:41.134515+00:00
 
  ## ReTRoTiMe | << Retro számítógépek és konzolok lelőhelye és információs bázisa >>
- - [http://www.retrotime.hu](http://www.retrotime.hu)
+ - [https://retrotime.hu](https://retrotime.hu)
  - date_published: 2024-07-08T19:38:18.594519+00:00
 
  ## Ringier
@@ -1096,7 +1573,7 @@
  - date_published: 2024-12-21T01:21:43.648150+00:00
 
  ## Scene.hu
- - [http://www.scene.hu](http://www.scene.hu)
+ - [https://scene.hu](https://scene.hu)
  - date_published: 2024-07-03T04:34:57.102558+00:00
 
  ## 😺 | schdesign
@@ -1104,11 +1581,11 @@
  - date_published: 2024-09-04T04:21:51.837521+00:00
 
  ## A Szcientológia vallás – Háttér, teológia és vallási gyakorlat
- - [https://www.scientologyvallas.hu](https://www.scientologyvallas.hu)
+ - [https://scientologyvallas.hu](https://scientologyvallas.hu)
  - date_published: 2024-06-06T19:41:15.595562+00:00
 
  ## Global Negotiation Consultancy, Global Negotiation Training | Scotwork Hungary
- - [https://www.scotwork.hu](https://www.scotwork.hu)
+ - [https://scotwork.hu](https://scotwork.hu)
  - date_published: 2024-06-18T09:42:37.101613+00:00
 
  ## SELFIE360.hu | 360 selfiegép bérlése, 360 photo booth
@@ -1116,7 +1593,7 @@
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## SelfiePARTY.hu ⋆ Selfie gép, fotógép bérlése esküvőre, rendezvényre
- - [https://www.selfieparty.hu](https://www.selfieparty.hu)
+ - [https://selfieparty.hu](https://selfieparty.hu)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## Semmelweis Egyetem
@@ -1124,11 +1601,11 @@
  - date_published: 2024-07-10T08:08:51.062157+00:00
 
  ## Webtar.hu
- - [http://semmi.hu](http://semmi.hu)
+ - [https://semmi.hu](https://semmi.hu)
  - date_published: 2020-01-22T15:59:35+00:00
 
  ## Mi vagyunk a világ vezető minőségellenőrző, vizsgáló és tanúsító vállalata.
- - [https://www.sgs.hu](https://www.sgs.hu)
+ - [https://sgs.hu](https://sgs.hu)
  - date_published: 2024-09-10T12:52:33.820180+00:00
 
  ## Frissítési lista - Shoprenter
@@ -1160,11 +1637,11 @@
  - date_published: 2024-12-15T12:10:52.419889+00:00
 
  ## Shoptet: Webáruház bérlés 30 nap ingyenes próbaidőszakkal
- - [https://www.shoptet.hu](https://www.shoptet.hu)
+ - [https://shoptet.hu](https://shoptet.hu)
  - date_published: 2024-10-18T03:47:31.250955+00:00
 
  ## SIMPLE
- - [http://simplepartner.hu](http://simplepartner.hu)
+ - [https://simplepartner.hu](https://simplepartner.hu)
  - date_published: 2016-10-19T13:17:31+00:00
 
  ## Autókölcsönzés, autóbérlés, tartós bérlet | SIXT
@@ -1172,15 +1649,15 @@
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## Skanska in Hungary | www.skanska.hu
- - [https://www.skanska.hu](https://www.skanska.hu)
+ - [https://skanska.hu](https://skanska.hu)
  - date_published: 2024-06-29T00:00:00+00:00
 
  ## Olcsó repülőjegyek összehasonlítása és foglalás bárhova | Skyscanner
- - [https://www.skyscanner.hu](https://www.skyscanner.hu)
+ - [https://skyscanner.hu](https://skyscanner.hu)
  - date_published: 2024-07-10T03:24:11.101647+00:00
 
  ## Főoldal - SkyShield
- - [http://www.skyshield.hu](http://www.skyshield.hu)
+ - [https://skyshield.hu](https://skyshield.hu)
  - date_published: 2021-10-13T11:39:54+00:00
 
  ## SMARTZILLA - Okosotthon és Okoseszköz webáruház
@@ -1188,11 +1665,11 @@
  - date_published: 2024-10-17T14:11:15.091583+00:00
 
  ## SONLINE - Somogy vármegyei hírportál
- - [https://www.sonline.hu](https://www.sonline.hu)
+ - [http://sonline.hu](http://sonline.hu)
  - date_published: 2024-09-04T04:20:28.622372+00:00
 
  ## Sony Magyarország | Legújabb technológiai hírek | Elektronika | Szórakoztatás
- - [http://www.sony.hu](http://www.sony.hu)
+ - [https://sony.hu](https://sony.hu)
  - date_published: 2024-10-21T07:37:51.158530+00:00
 
  ## Semmelweis Egyetem
@@ -1204,7 +1681,7 @@
  - date_published: 2024-09-11T18:35:02.445337+00:00
 
  ## Starity.hu - Sztárok. Tőled. Neked.
- - [https://starity.hu](https://starity.hu)
+ - [http://starity.hu](http://starity.hu)
  - date_published: 2024-06-29T17:56:47.098097+00:00
 
  ## Przyczyny smogu i zapobieganie | Stop Smog – Go Hybrid
@@ -1212,7 +1689,7 @@
  - date_published: 2020-11-09T16:40:17+00:00
 
  ## Főoldal - Stratis
- - [https://www.stratis.hu](https://www.stratis.hu)
+ - [https://stratis.hu](https://stratis.hu)
  - date_published: 2022-09-07T00:00:00+00:00
 
  ## Sun Team Studio | Reklámajándékok stsreklamajandek.hu
@@ -1240,7 +1717,7 @@
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## Free Photos, Clipart, Vectors, PSD, & Icons | FreeImages
- - [http://www.sxc.hu](http://www.sxc.hu)
+ - [https://sxc.hu](https://sxc.hu)
  - date_published: 2024-06-25T22:27:26.181143+00:00
 
  ## Szabad Föld
@@ -1248,7 +1725,7 @@
  - date_published: 2024-09-04T04:20:45.799838+00:00
 
  ## Hotel kuponok, 30-70%-os kedvezmények!
- - [https://www.szallasguru.hu](https://www.szallasguru.hu)
+ - [https://szallasguru.hu](https://szallasguru.hu)
  - date_published: 2024-10-18T04:01:54.685646+00:00
 
  ## Kezdőoldal | SZAMI Group
@@ -1265,43 +1742,43 @@
  - tags: ['personal']
 
  ## Győr | Széchenyi István Egyetem - University of Győr | Magyarország
- - [http://uni.sze.hu](http://uni.sze.hu)
+ - [https://uni.sze.hu](https://uni.sze.hu)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Szentkirályi ásványvíz
- - [http://szentkiralyi.hu](http://szentkiralyi.hu)
+ - [https://szentkiralyi.hu](https://szentkiralyi.hu)
  - date_published: 2024-09-04T17:34:56.927782+00:00
 
  ## aMule Forum - Index
- - [http://forum.amule.szerverem.hu](http://forum.amule.szerverem.hu)
+ - [https://forum.amule.szerverem.hu](https://forum.amule.szerverem.hu)
  - date_published: 2024-09-02T00:00:00+00:00
 
  ## Gazdaság- és Társadalomtudományi Kar |
- - [http://gtk.szie.hu](http://gtk.szie.hu)
+ - [https://gtk.szie.hu](https://gtk.szie.hu)
  - date_published: 2024-06-30T02:57:22+00:00
 
  ## Szikra Mozgalom
- - [https://www.szikramozgalom.hu](https://www.szikramozgalom.hu)
+ - [https://szikramozgalom.hu](https://szikramozgalom.hu)
  - date_published: 2024-08-02T18:00:22.508084+00:00
 
  ## Szittyózium
- - [http://www.szittyozium.hu](http://www.szittyozium.hu)
+ - [https://szittyozium.hu](https://szittyozium.hu)
  - date_published: 2024-07-08T19:38:30.059741+00:00
 
  ## Zoltán Szegedy-Maszák
- - [http://www.szmz.hu](http://www.szmz.hu)
+ - [https://szmz.hu](https://szmz.hu)
  - date_published: 2021-11-03T18:23:25+00:00
 
  ## SZOLJON - Jász-Nagykun-Szolnok vármegyei hírportál
- - [https://www.szoljon.hu](https://www.szoljon.hu)
+ - [https://szoljon.hu](https://szoljon.hu)
  - date_published: 2024-09-04T04:20:36.662850+00:00
 
  ## SZON - Szabolcs-Szatmár-Bereg vármegyei hírportál
- - [https://www.szon.hu](https://www.szon.hu)
+ - [http://szon.hu](http://szon.hu)
  - date_published: 2024-09-04T04:21:26.245644+00:00
 
  ## Számítástechnikai és Automatizálási Kutatóintézet (SZTAKI)
- - [http://www.sztaki.hu](http://www.sztaki.hu)
+ - [https://sztaki.hu](https://sztaki.hu)
  - date_published: 2024-07-08T18:51:40.526150+00:00
 
  ## Home - Televele Médiapedagógiai Műhely Egyesület
@@ -1333,7 +1810,7 @@
  - date_published: 2024-09-04T04:20:52.549672+00:00
 
  ## TEOL - Tolna vármegyei hírportál
- - [https://www.teol.hu](https://www.teol.hu)
+ - [http://teol.hu](http://teol.hu)
  - date_published: 2024-09-04T04:21:01.336034+00:00
 
  ## Terebess Online
@@ -1345,15 +1822,15 @@
  - date_published: 2024-10-07T21:39:05.762976+00:00
 
  ## TeszVesz online piactér: Vásárlás, aukció, közösség
- - [https://www.teszvesz.hu](https://www.teszvesz.hu)
+ - [https://teszvesz.hu](https://teszvesz.hu)
  - date_published: 2024-09-04T04:23:38.308077+00:00
 
  ## Főoldal
- - [https://www.thyssenkrupp.hu](https://www.thyssenkrupp.hu)
+ - [https://thyssenkrupp.hu](https://thyssenkrupp.hu)
  - date_published: 2024-07-10T08:08:36.568917+00:00
 
  ## Ticketportal belépőjegyek karnyújtásra
- - [https://www.ticketportal.hu](https://www.ticketportal.hu)
+ - [https://ticketportal.hu](https://ticketportal.hu)
  - date_published: 2024-07-24T05:19:57.256709+00:00
 
  ## Tilos Rádió
@@ -1373,11 +1850,11 @@
  - date_published: 2024-09-04T00:00:00+00:00
 
  ## Total Commander ...a magyar oldal
- - [https://www.totalcommander.hu](https://www.totalcommander.hu)
+ - [https://totalcommander.hu](https://totalcommander.hu)
  - date_published: 2023-09-01T00:00:00+00:00
 
  ## Toyota autók - Modellek, árak és ajánlatok
- - [https://www.toyota.hu](https://www.toyota.hu)
+ - [https://toyota.hu](https://toyota.hu)
  - date_published: 2024-02-28T00:00:00+00:00
 
  ## Toyota finanszírozás – Pénzügyek Toyota minőségben
@@ -1543,6 +2020,10 @@
  ## Fehérvár FC hivatalos weboldala - Official website |... | fehervarfc.hu
  - [http://www.ww.vidi.hu](http://www.ww.vidi.hu)
  - date_published: 2024-12-28T06:45:26.624594+00:00
+
+ ## Vinted | Ruhák, cipők és kiegészítők eladása és vásárlása
+ - [https://www.vinted.hu](https://www.vinted.hu)
+ - date_published: 2024-12-29T22:36:42.441585+00:00
 
  ## Virtuális melléklet - Akadémiai Kiadó
  - [https://www.virtualismelleklet.hu](https://www.virtualismelleklet.hu)
@@ -3527,485 +4008,4 @@
  ## RAMA REPOSITORY
  - [http://rama.kemdikbud.go.id](http://rama.kemdikbud.go.id)
  - date_published: 2024-10-30T06:23:55.938547+00:00
-
- ## SINTA - Science and Technology Index
- - [https://sinta.kemdikbud.go.id](https://sinta.kemdikbud.go.id)
- - date_published: 2024-06-19T18:38:45.902756+00:00
-
- ## ULT DIY – Unit Layanan Terpadu  UPT Kemendikbud di Wilayah D.I. Yogyakarta
- - [http://ult-diy.kemdikbud.go.id](http://ult-diy.kemdikbud.go.id)
- - date_published: 2024-06-20T09:03:59.746446+00:00
-
- ## LPDP - Lembaga Pengelola Dana Pendidikan
- - [https://lpdp.kemenkeu.go.id](https://lpdp.kemenkeu.go.id)
- - date_published: 2024-06-20T09:02:28+00:00
-
- ## Kementerian Komunikasi dan Informatika
- - [https://www.kominfo.go.id](https://www.kominfo.go.id)
- - date_published: 2024-10-11T12:24:26.917581+00:00
-
- ## komisiinformasi | Home
- - [https://komisiinformasi.go.id](https://komisiinformasi.go.id)
- - date_published: 2024-10-11T13:18:36.740390+00:00
-
- ## Komnas HAM
- - [https://www.komnasham.go.id](https://www.komnasham.go.id)
- - date_published: 2024-10-30T06:03:58.898043+00:00
-
- ## KPK SIG 2.0
- - [https://gol.kpk.go.id](https://gol.kpk.go.id)
- - date_published: 2024-10-11T09:58:40+00:00
-
- ## DPRD Kabupaten Kutai Barat – Website Resmi
- - [https://dprd.kutaibaratkab.go.id](https://dprd.kutaibaratkab.go.id)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## LAPOR! - Layanan Aspirasi dan Pengaduan Online Rakyat
- - [https://lapor.go.id](https://lapor.go.id)
- - date_published: 2024-10-11T12:24:31.924848+00:00
-
- ## Selamat datang - Lebak DISADA
- - [https://disada.lebakkab.go.id](https://disada.lebakkab.go.id)
- - date_published: 2019-06-02T00:00:00+00:00
-
- ## DiskominfoSP Kabupaten Lebak
- - [https://diskominfosp.lebakkab.go.id](https://diskominfosp.lebakkab.go.id)
- - date_published: 2024-10-11T12:24:13.304237+00:00
-
- ## Lebakkab.go.id | Portal Resmi Kabupaten Lebak
- - [https://lebakkab.go.id](https://lebakkab.go.id)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## Situs Resmi | Situs Resmi Satpol PP dan Damkar Kabupaten Lebak
- - [https://polpp-damkar.lebakkab.go.id](https://polpp-damkar.lebakkab.go.id)
- - date_published: 2024-06-16T15:29:25+00:00
-
- ## Website Resmi RSUD dr. R. Soedjono Selong
- - [https://rsud.lomboktimurkab.go.id](https://rsud.lomboktimurkab.go.id)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## NADIN-e - Pemerintah Kabupaten Lumajang
- - [https://nadine2021.lumajangkab.go.id](https://nadine2021.lumajangkab.go.id)
- - date_published: 2024-12-24T16:34:46.951971+00:00
-
- ## DESA KORONCIA
- - [https://koroncia.desa.luwutimurkab.go.id](https://koroncia.desa.luwutimurkab.go.id)
- - date_published: 2024-06-16T15:31:44.711028+00:00
-
- ## Badan Kepegawaian & Pengembangan Sumber Daya Manusia Kabupaten Melawi - Kepegawaian, Pengembangan Sumber Daya Manusia, Kalimantan Barat, Indonesia
- - [https://bkpsdm.melawikab.go.id](https://bkpsdm.melawikab.go.id)
- - date_published: 2024-05-04T05:47:40.543552+00:00
-
- ## Beranda | Kementerian Lingkungan Hidup Dan Kehutanan
- - [https://www.menlhk.go.id](https://www.menlhk.go.id)
- - date_published: 2024-12-21T11:50:30.451035+00:00
-
- ## Beranda
- - [https://menpan.go.id](https://menpan.go.id)
- - date_published: 2024-10-11T11:29:16+00:00
-
- ## Sistem Informasi Pelayanan Publik
- - [https://sippn.menpan.go.id](https://sippn.menpan.go.id)
- - date_published: 2024-10-11T00:00:00+00:00
-
- ## Login | Direktorat Jenderal Pajak
- - [https://djponline.pajak.go.id](https://djponline.pajak.go.id)
- - date_published: 2024-06-19T07:53:58.853238+00:00
-
- ## Pengadilan Agama Tanjung Karang - Kota Bandar Lampung || Provinsi Lampung
- - [https://pa-tanjungkarang.go.id](https://pa-tanjungkarang.go.id)
- - date_published: 2024-10-11T00:00:00+00:00
-
- ## SIPP
- - [http://sipp.pn-kendal.go.id](http://sipp.pn-kendal.go.id)
- - date_published: 2024-10-11T12:56:19.399173+00:00
-
- ## Kementerian PUPR
- - [https://www.pu.go.id](https://www.pu.go.id)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Dinas Dukcapil Kabupaten Seluma – Selumaku Selumamu Jugo Besamo Kito Alapka
- - [https://dukcapil.selumakab.go.id](https://dukcapil.selumakab.go.id)
- - date_published: 2024-06-16T15:28:45.260356+00:00
-
- ## Website Resmi Kabupaten Seluma
- - [https://mc.selumakab.go.id](https://mc.selumakab.go.id)
- - date_published: 2024-10-11T12:15:38.739809+00:00
-
- ## e-bagor - Bagian Organisasi Sekretariat Daerah Kabupaten Kepulauan Sitaro
- - [https://e-bagor.sitarokab.go.id](https://e-bagor.sitarokab.go.id)
- - date_published: 2024-10-11T12:08:15.462636+00:00
-
- ## BKPSDM Kabupaten Tanah Laut
- - [https://bkpsdm.tanahlautkab.go.id](https://bkpsdm.tanahlautkab.go.id)
- - date_published: 2024-06-16T15:30:02.855416+00:00
-
- ## SKD CPNS 2018
- - [http://cpns.bkpsdm.tanahlautkab.go.id](http://cpns.bkpsdm.tanahlautkab.go.id)
- - date_published: 2024-10-11T12:44:14.161993+00:00
-
- ## Sistem Informasi Diklat Aparatur
- - [http://sida.bkpsdm.tanahlautkab.go.id](http://sida.bkpsdm.tanahlautkab.go.id)
- - date_published: 2024-10-11T12:44:06.789899+00:00
-
- ## Aadi Desai
- - [https://8bitsqu.id](https://8bitsqu.id)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Data Keluaran Toto Macau INFITOTO Hari Ini dan Data Terkini
- - [https://adigunawan.id](https://adigunawan.id)
- - date_published: 2024-11-09T05:03:54+00:00
-
- ## AllDomains
- - [https://alldomains.id](https://alldomains.id)
- - date_published: 2024-08-06T16:20:03.161545+00:00
-
- ## AltaFocus Media Center
- - [https://altafocus.id](https://altafocus.id)
- - date_published: 2023-09-02T18:16:08+00:00
-
- ## Aneroid | Applications by Andrew Miskelly
- - [https://anero.id](https://anero.id)
- - date_published: 2024-05-17T07:27:50+00:00
-
- ## Home | Animo
- - [https://animo.id](https://animo.id)
- - date_published: 2024-04-15T15:28:10+00:00
-
- ## Demo | Animo Self-Sovereign Identity Demo
- - [https://demo.animo.id](https://demo.animo.id)
- - date_published: 2023-08-17T07:51:15+00:00
-
- ## Ariadne Identity
- - [https://ariadne.id](https://ariadne.id)
- - date_published: 2023-09-14T09:31:40+00:00
-
- ## ĀutOS - the Operating System of yourself.
- - [https://aut.id](https://aut.id)
- - date_published: 2024-06-16T03:35:52.115246+00:00
-
- ## AZERO.ID – Domain Service on Aleph Zero
- - [https://azero.id](https://azero.id)
- - date_published: 2024-10-30T21:16:56.239996+00:00
-
- ## Martin Baillie
- - [https://martin.baillie.id](https://martin.baillie.id)
- - date_published: 2021-10-28T11:55:41+00:00
-
- ## BIDANG IPW
- - [https://bappedalitbangkabbanggai.id](https://bappedalitbangkabbanggai.id)
- - date_published: 2020-08-09T05:49:29+00:00
-
- ## BCA - Senantiasa di sisi Anda
- - [https://bca.id](https://bca.id)
- - date_published: 2024-06-16T08:21:47.494152+00:00
-
- ## Beautynesia - Website Gaya Hidup Perempuan Indonesia
- - [https://www.beautynesia.id](https://www.beautynesia.id)
- - date_published: 2024-06-28T15:56:19.748037+00:00
-
- ## By Benny
- - [https://benny.id](https://benny.id)
- - date_published: 2024-01-08T07:26:12.846132+00:00
-
- ## berbuatbaik.id - Fundraising Platform, Dana 100% Disalurkan
- - [https://berbuatbaik.id](https://berbuatbaik.id)
- - date_published: 2024-06-28T15:54:47.722084+00:00
-
- ## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
- - [https://bitrix24.id](https://bitrix24.id)
- - date_published: 2024-05-12T03:57:32.772819+00:00
-
- ## BOSVEGAS⚡ SITUS TERBESAR SCATTER HITAM MAHJONG WAYS VIRAL
- - [https://bkpsdmpaniai.id](https://bkpsdmpaniai.id)
- - date_published: 2024-06-02T04:45:52+00:00
-
- ## BTV - Bersatu Menginspirasi
- - [https://btv.id](https://btv.id)
- - date_published: 2024-05-09T06:11:19.208840+00:00
-
- ## B Universe - Bersatu Menginspirasi
- - [https://b-universe.id](https://b-universe.id)
- - date_published: 2024-04-18T04:07:12+00:00
-
- ## CNA.id: Berita Indonesia, Asia dan Dunia
- - [https://cna.id](https://cna.id)
- - date_published: 2024-05-08T04:49:15.135577+00:00
-
- ## Buy Domain and Hosting Packages for Your Website | Indonesia
- - [https://www.crazydomains.id](https://www.crazydomains.id)
- - date_published: 2024-12-25T10:55:18.797855+00:00
-
- ## Crunch.id | Domain Sale Breakdowns
- - [https://crunch.id](https://crunch.id)
- - date_published: 2021-11-29T10:58:57+00:00
-
- ## CXO Media | Welcome to CXO Media
- - [https://www.cxomedia.id](https://www.cxomedia.id)
- - date_published: 2024-06-28T15:54:51.790527+00:00
-
- ## d.id - Building protocols for all human.
- - [https://d.id](https://d.id)
- - date_published: 2024-07-15T11:13:17.728686+00:00
-
- ## DailySocial.id - Situs Berita Startup, Digitalisasi UMKM, dan Inovasi Teknologi di Indonesia.
- - [https://dailysocial.id](https://dailysocial.id)
- - date_published: 2024-08-17T22:43:19.344222+00:00
-
- ## DBS Bank | Indonesia
- - [https://www.dbs.id](https://www.dbs.id)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## DENSUSTOTO | Raih Kemenangan Terbesar Di Situs Resmi Densus Toto
- - [https://densustotokuat.id](https://densustotokuat.id)
- - date_published: 2024-10-19T06:36:14.053995+00:00
-
- ## BESAR888 # Nikmati Jackpot dan Peluang Kemenangan di Situs Game Online Terbaik!
- - [https://desaindah.id](https://desaindah.id)
- - date_published: 2024-10-18T15:00:41.373955+00:00
-
- ## d.id - Building protocols for all human.
- - [https://did.id](https://did.id)
- - date_published: 2024-08-18T15:19:22+00:00
-
- ## ASET DIGITAL
- - [http://digitalaset.id](http://digitalaset.id)
- - date_published: 2024-09-10T13:55:34.804274+00:00
-
- ## Disney.id | The official home for all things Disney
- - [http://apps.disney.id](http://apps.disney.id)
- - date_published: 2024-06-16T02:25:25.877658+00:00
-
- ## Disney.id | The official home for all things Disney
- - [http://characters.disney.id](http://characters.disney.id)
- - date_published: 2024-06-16T02:27:01.005540+00:00
-
- ## Disney.id | The official home for all things Disney
- - [https://disney.id](https://disney.id)
- - date_published: 2024-05-01T05:26:57.359666+00:00
-
- ## Disney.id | The official home for all things Disney
- - [http://events.disney.id](http://events.disney.id)
- - date_published: 2024-06-16T02:27:02.443266+00:00
-
- ## Disney.id | The official home for all things Disney
- - [http://games.disney.id](http://games.disney.id)
- - date_published: 2024-06-16T02:25:33.679999+00:00
-
- ## Disney Movies | The Official Disney Films from Disney - Disney Indonesia
- - [https://movies.disney.id](https://movies.disney.id)
- - date_published: 2024-06-16T02:25:27.655423+00:00
-
- ## Disney.id | The official home for all things Disney
- - [https://tv.disney.id](https://tv.disney.id)
- - date_published: 2024-06-16T02:26:57.486225+00:00
-
- ## Disney.id | The official home for all things Disney
- - [https://video.disney.id](https://video.disney.id)
- - date_published: 2024-06-16T02:27:04.955648+00:00
-
- ## Upload & Share PDF | DocDroid
- - [https://docdro.id](https://docdro.id)
- - date_published: 2024-06-28T18:35:51.246873+00:00
-
- ## Cari, Bandingkan & Pesan kebutuhan medis | Dokku
- - [https://www.dokku.id](https://www.dokku.id)
- - date_published: 2024-06-23T14:06:27.897833+00:00
-
- ## Ikhtisar status
- - [https://downdetector.id](https://downdetector.id)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Jasa Proofreading Jurnal dan jasa editing, Jasa Tesis, Jasa Publikasi Jurnal | Editage Indonesia
- - [https://www.editage.id](https://www.editage.id)
- - date_published: 2024-10-29T20:42:27.533015+00:00
-
- ## Eris – DataMarketing
- - [https://eris.id](https://eris.id)
- - date_published: 2024-05-06T18:03:12.300604+00:00
-
- ## ErlanggaPedia
- - [https://erlanggapedia.id](https://erlanggapedia.id)
- - date_published: 2024-05-04T05:47:27.517891+00:00
-
- ## Indonesia Property - 1,845 Condos & Houses For Sale | FazWaz.id
- - [https://www.fazwaz.id](https://www.fazwaz.id)
- - date_published: 2024-01-28T00:00:00+00:00
-
- ## Actirise | Advertising Technology
- - [https://www.flashb.id](https://www.flashb.id)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## GIANT | Giantbicyclesid
- - [https://www.giantbicycle.id](https://www.giantbicycle.id)
- - date_published: 2024-09-18T02:01:16.777264+00:00
-
- ## Login - KG Media ID
- - [https://account.grid.id](https://account.grid.id)
- - date_published: 2024-10-14T22:59:16.766931+00:00
-
- ## adjar.ID - Situs Tentang Materi Pelajaran
- - [https://adjar.grid.id](https://adjar.grid.id)
- - date_published: 2024-10-14T22:59:08.786273+00:00
-
- ## Bobo.ID - Teman Bermain dan Belajar
- - [https://bobo.grid.id](https://bobo.grid.id)
- - date_published: 2024-10-14T22:58:56.113606+00:00
-
- ## Cerdasbelanja.id - Serba - serbi Info Belanja
- - [https://cerdasbelanja.grid.id](https://cerdasbelanja.grid.id)
- - date_published: 2024-10-14T22:59:04.908783+00:00
-
- ## Situs Untuk Perempuan Muda - CewekBanget.ID
- - [https://cewekbanget.grid.id](https://cewekbanget.grid.id)
- - date_published: 2024-10-14T22:56:46.740563+00:00
-
- ## GridFame.id - Berita, Informasi & Tips Tentang Finance
- - [https://fame.grid.id](https://fame.grid.id)
- - date_published: 2024-10-14T22:57:33.006756+00:00
-
- ## Fotokita - Berita Foto Dengan Fakta Sebenarnya
- - [https://fotokita.grid.id](https://fotokita.grid.id)
- - date_published: 2024-10-14T22:59:02.538343+00:00
-
- ## GridGames.id - Berita Tentang Dunia Games & eSport
- - [https://games.grid.id](https://games.grid.id)
- - date_published: 2024-10-14T22:58:01.215356+00:00
-
- ## Celebrity Breaking News - Berita Artis Terkini Hari Ini - Grid.ID
- - [https://grid.id](https://grid.id)
- - date_published: 2024-10-14T22:56:48.943414+00:00
-
- ## Situs Remaja Cowok
- - [https://hai.grid.id](https://hai.grid.id)
- - date_published: 2024-10-14T22:57:35.476350+00:00
-
- ## Inspiring Better Health - Gridhealth.id
- - [https://health.grid.id](https://health.grid.id)
- - date_published: 2024-10-14T22:58:39.223616+00:00
-
- ## GridHits.id - Berita TerHits dari Dunia Hiburan
- - [https://hits.grid.id](https://hits.grid.id)
- - date_published: 2024-10-14T22:59:19.448651+00:00
-
- ## Grid Hot - Seputar peristiwa terkini
- - [https://hot.grid.id](https://hot.grid.id)
- - date_published: 2024-10-14T22:59:10.474452+00:00
-
- ## Berita Entertainment TerHype, Terkini Dan Terpercaya
- - [https://hype.grid.id](https://hype.grid.id)
- - date_published: 2024-10-14T22:58:45.126366+00:00
-
- ## iDEA Online - Inspirasi Dalam Mempercantik Hunian
- - [https://idea.grid.id](https://idea.grid.id)
- - date_published: 2024-10-14T22:57:48.367687+00:00
-
- ## Discover Possibilities in Industry 4.0 Era - Infokomputer Online
- - [https://infokomputer.grid.id](https://infokomputer.grid.id)
- - date_published: 2024-10-14T22:59:06.704764+00:00
-
- ## Smart And Inspiring - Intisari Online
- - [https://intisari.grid.id](https://intisari.grid.id)
- - date_published: 2024-10-14T22:56:39.020744+00:00
-
- ## Grid Kids - Situs Pembelajaran Anak Terlengkap
- - [https://kids.grid.id](https://kids.grid.id)
- - date_published: 2024-10-14T22:59:12.375827+00:00
-
- ## Kitchenesia - Appetizing Recipes, Indonesian Way
- - [https://kitchenesia.grid.id](https://kitchenesia.grid.id)
- - date_published: 2024-10-14T22:59:27.378968+00:00
-
- ## Makemac - Berita Terupdate Tentang Produk Apple & iOS
- - [https://makemac.grid.id](https://makemac.grid.id)
- - date_published: 2024-10-14T22:59:30.232199+00:00
-
- ## For Moms and Everything that Matters - Nakita.ID
- - [https://nakita.grid.id](https://nakita.grid.id)
- - date_published: 2024-10-14T22:57:23.718618+00:00
-
- ## National Geographic Indonesia
- - [https://nationalgeographic.grid.id](https://nationalgeographic.grid.id)
- - date_published: 2024-06-16T22:12:27.062044+00:00
-
- ## Tren Dan Berita Terkini Dunia Teknologi - Nextren.grid.id
- - [https://nextren.grid.id](https://nextren.grid.id)
- - date_published: 2024-10-14T22:57:28.458107+00:00
-
- ## NOVA - Sahabat Perempuan Indonesia yang Berani dan Mandiri
- - [https://nova.grid.id](https://nova.grid.id)
- - date_published: 2024-10-14T22:58:03.494647+00:00
-
- ## Female-style Automotive - Otofemale.id
- - [https://otofemale.grid.id](https://otofemale.grid.id)
- - date_published: 2024-10-14T22:56:54.874364+00:00
-
- ## Smart And Inspiring - Intisari Plus
- - [https://plus.intisari.grid.id](https://plus.intisari.grid.id)
- - date_published: 2024-10-14T22:57:05.448254+00:00
-
- ## Fakta dan Informasi Di Balik Tren yang Sedang Viral
- - [https://pop.grid.id](https://pop.grid.id)
- - date_published: 2024-10-14T22:57:39.964239+00:00
-
- ## Resep Masak Lengkap, Mudah, Teruji dan anti gagal
- - [https://sajiansedap.grid.id](https://sajiansedap.grid.id)
- - date_published: 2024-10-14T22:58:19.194488+00:00
-
- ## Nama di Balik Peristiwa - Sosok.ID
- - [https://sosok.grid.id](https://sosok.grid.id)
- - date_published: 2024-10-14T22:57:57.162704+00:00
-
- ## Grid Star - Informasi Update Kebijakan Pemerintah
- - [https://star.grid.id](https://star.grid.id)
- - date_published: 2024-10-14T22:58:05.685917+00:00
-
- ## Beauty For Everyone - Stylo.ID
- - [https://stylo.grid.id](https://stylo.grid.id)
- - date_published: 2024-10-14T22:58:43.289537+00:00
-
- ## Memberikan Informasi Unik dan Hiburan - Suar.id
- - [https://suar.grid.id](https://suar.grid.id)
- - date_published: 2024-10-14T22:58:21.794713+00:00
-
- ## Grid Video - Video Trending, Terkini & Terpercaya
- - [https://video.grid.id](https://video.grid.id)
- - date_published: 2024-10-14T22:57:08.795172+00:00
-
- ## Wiken.id - Menjadikan Hidup Penuh Warna di Saat Libur
- - [https://wiken.grid.id](https://wiken.grid.id)
- - date_published: 2024-10-14T22:57:54.603964+00:00
-
- ## Grid Store
- - [https://www.gridstore.id](https://www.gridstore.id)
- - date_published: 2024-10-14T22:58:16.194267+00:00
-
- ## GoTo Logistics - The Key to Your Seamless Logistics Experience
- - [https://gtl.id](https://gtl.id)
- - date_published: 2024-10-17T17:10:12.619705+00:00
-
- ## Halo JPN | Beranda
- - [https://halojpn.id](https://halojpn.id)
- - date_published: 2024-10-11T11:01:13.637826+00:00
-
- ## HitPaw Video Editor Online - Mulai Hidup Kreatif dari Sekarang
- - [https://online.hitpaw.id](https://online.hitpaw.id)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Holonym Foundation
- - [https://www.holonym.id](https://www.holonym.id)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Home - Humaid Alqasimi
- - [https://huma.id](https://huma.id)
- - date_published: 1970-01-01T00:00:01+00:00
- - tags: ['personal']
-
- ## Home | Humanitarian ID
- - [https://about.humanitarian.id](https://about.humanitarian.id)
- - date_published: 2024-03-28T15:29:32+00:00
-
- ## Humanitarian ID
- - [https://auth.humanitarian.id](https://auth.humanitarian.id)
- - date_published: 2024-04-28T02:24:18.356640+00:00
 

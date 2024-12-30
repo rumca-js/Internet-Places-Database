@@ -1,3 +1,55 @@
+ ## Pessoa física
+ - [https://santanderassetmanagement.com.br](https://santanderassetmanagement.com.br)
+ - date_published: 2024-09-29T20:18:56.320164+00:00
+
+ ## Portal Financiamento
+ - [https://www.cliente.santanderfinanciamentos.com.br](https://www.cliente.santanderfinanciamentos.com.br)
+ - date_published: 2024-05-27T21:44:33+00:00
+
+ ## Página Inicial - Santander: Portal de Imprensa
+ - [https://santanderimprensa.com.br](https://santanderimprensa.com.br)
+ - date_published: 2024-06-16T09:15:49.479703+00:00
+
+ ## Programa Avançar Santander: Conteúdos exclusivos para o empreendedor
+ - [https://santandernegocioseempresas.com.br](https://santandernegocioseempresas.com.br)
+ - date_published: 2024-06-16T09:16:23.819379+00:00
+
+ ## Internet Banking
+ - [https://www.santandernetibe.com.br](https://www.santandernetibe.com.br)
+ - date_published: 2024-06-16T09:15:50.970917+00:00
+
+ ## Santillana
+ - [https://santillana.com.br](https://santillana.com.br)
+ - date_published: 2024-06-12T13:06:22.843415+00:00
+
+ ## SUSTENTABILIDADE SANTILLANA
+ - [https://sustentabilidade.santillana.com.br](https://sustentabilidade.santillana.com.br)
+ - date_published: 2024-09-10T05:46:05+00:00
+
+ ## Training Platform
+ - [https://formacoes.santillanaeducacao.com.br](https://formacoes.santillanaeducacao.com.br)
+ - date_published: 2024-09-13T10:27:49.620573+00:00
+
+ ## Santillana Educação - Soluções que transformam a sua escola
+ - [https://www.santillanaeducacao.com.br](https://www.santillanaeducacao.com.br)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Portal Santillana
+ - [https://santillanaespanol.com.br](https://santillanaespanol.com.br)
+ - date_published: 2024-06-12T13:04:16.037536+00:00
+
+ ## Sapient AG2 | Consultoria de Customer Experience
+ - [https://sapientag2.com.br](https://sapientag2.com.br)
+ - date_published: 2024-04-11T14:41:21+00:00
+
+ ## Seja Vegano
+ - [http://www.sejavegano.com.br](http://www.sejavegano.com.br)
+ - date_published: 2023-05-26T14:11:58+00:00
+
+ ## Sempre um Papo | 2024 | Ano 38
+ - [http://www.sempreumpapo.com.br](http://www.sempreumpapo.com.br)
+ - date_published: 2024-12-20T10:13:05.977511+00:00
+
  ## Serasa Experian - Consulte Soluções Para Empresas
  - [https://www.serasaexperian.com.br](https://www.serasaexperian.com.br)
  - date_published: 2024-06-20T00:00:00+00:00
@@ -797,6 +849,10 @@
  ## Viajar com Alê
  - [https://viajarcomale.com.br](https://viajarcomale.com.br)
  - date_published: 2024-06-15T08:39:39.759369+00:00
+
+ ## Remédios para Tosse, Resfriado e Gripe | Vick Brasil
+ - [https://www.vick-medicamentos.com.br](https://www.vick-medicamentos.com.br)
+ - date_published: 2024-12-13T11:12:28+00:00
 
  ## Vida de autônomo
  - [https://vidadeautonomo.com.br](https://vidadeautonomo.com.br)
@@ -3953,60 +4009,4 @@
  ## Ariel Katz
  - [http://arielkatz.ca](http://arielkatz.ca)
  - date_published: 2024-10-22T21:49:37.691158+00:00
-
- ## Home | Arizona Hard
- - [https://www.arizonahard.ca](https://www.arizonahard.ca)
- - date_published: 2024-09-16T06:54:35.173613+00:00
-
- ## A Rocha Canada - A Rocha
- - [https://arocha.ca](https://arocha.ca)
- - date_published: 2024-12-21T09:52:12+00:00
-
- ## The ArQuives Digital Exhibitions
- - [https://digitalexhibitions.arquives.ca](https://digitalexhibitions.arquives.ca)
- - date_published: 2024-06-27T02:51:03.550831+00:00
-
- ## Ars Medica
- - [http://www.ars-medica.ca](http://www.ars-medica.ca)
- - date_published: 2024-06-24T09:33:40.227600+00:00
-
- ## art aggregate
- - [https://www.artaggregate.ca](https://www.artaggregate.ca)
- - date_published: 2024-07-15T03:53:56.050751+00:00
-
- ## Home | Arthritis Society Canada
- - [https://arthritis.ca](https://arthritis.ca)
- - date_published: 2024-06-28T12:08:12.188114+00:00
-
- ## Capa | Canadian Arthritis Patient Alliance
- - [http://arthritispatient.ca](http://arthritispatient.ca)
- - date_published: 2024-06-28T11:54:28.514753+00:00
-
- ## Fine Art Printing Canada • Art Ink Print
- - [https://www.artinkprint.ca](https://www.artinkprint.ca)
- - date_published: 2022-12-12T19:17:43+00:00
-
- ## Arts & Letters Club
- - [https://www.artsandlettersclub.ca](https://www.artsandlettersclub.ca)
- - date_published: 2024-08-06T19:12:40.465633+00:00
-
- ## ICI ARTV chaîne de télévision culturelle
- - [http://ici.artv.ca](http://ici.artv.ca)
- - date_published: 2024-07-10T05:32:11.843695+00:00
-
- ## A School, A Park 2018
- - [http://a-school-a-park.ca](http://a-school-a-park.ca)
- - date_published: 2019-05-17T15:25:41+00:00
-
- ## Asia Pacific Foundation of Canada
- - [https://www.asiapacific.ca](https://www.asiapacific.ca)
- - date_published: 2024-12-25T21:51:17.722166+00:00
-
- ## David Asper Centre for Constitutional Rights | Facutly of Law, University of TorontoDavid Asper Centre for Constitutional Rights
- - [http://www.aspercentre.ca](http://www.aspercentre.ca)
- - date_published: 2024-07-21T08:21:14.120616+00:00
-
- ## Le Canada sous les étoiles | Canada under the stars
- - [http://astro-canada.ca](http://astro-canada.ca)
- - date_published: 2024-08-18T20:23:33.085002+00:00
 

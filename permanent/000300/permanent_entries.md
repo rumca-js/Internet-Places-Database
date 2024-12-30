@@ -1,3 +1,383 @@
+ ## Home | The University of Tulsa
+ - [https://online.utulsa.edu](https://online.utulsa.edu)
+ - date_published: 2024-07-12T18:48:12+00:00
+
+ ## Sign in to your account
+ - [https://sso.utulsa.edu](https://sso.utulsa.edu)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Tyler Moore, Tandy Professor of Cyber Security and Information Assurance, The University of Tulsa
+ - [https://tylermoore.ens.utulsa.edu](https://tylermoore.ens.utulsa.edu)
+ - date_published: 2024-04-15T19:40:34+00:00
+
+ ## The University of Tulsa
+ - [https://utulsa.edu](https://utulsa.edu)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Admissions | | The University of Vermont
+ - [https://admissions.uvm.edu](https://admissions.uvm.edu)
+ - date_published: 2024-05-07T22:16:11.053453+00:00
+
+ ## Frequently Asked Questions: Home - LibAnswers
+ - [https://askalibrarian.uvm.edu](https://askalibrarian.uvm.edu)
+ - date_published: 2024-07-02T12:28:10.413735+00:00
+
+ ## The University of Vermont
+ - [https://bb.uvm.edu](https://bb.uvm.edu)
+ - date_published: 2024-02-23T16:58:52+00:00
+
+ ## Login - UVM Brightspace
+ - [https://brightspace.uvm.edu](https://brightspace.uvm.edu)
+ - date_published: 2024-07-02T12:29:46.941800+00:00
+
+ ## Chris Danforth
+ - [https://cdanfort.w3.uvm.edu](https://cdanfort.w3.uvm.edu)
+ - date_published: 2024-05-19T23:34:51+00:00
+
+ ## THE UNIVERSITY OF VERMONT LIBRARIES | Digital Collections
+ - [https://cdi.uvm.edu](https://cdi.uvm.edu)
+ - date_published: 2024-07-02T12:28:25+00:00
+
+ ## The University of Vermont
+ - [https://content.uvm.edu](https://content.uvm.edu)
+ - date_published: 2024-07-02T12:27:37+00:00
+
+ ## Dana Health Sciences Library | Dana Health Sciences Library
+ - [https://dana.uvm.edu](https://dana.uvm.edu)
+ - date_published: 2024-07-02T12:28:32.097131+00:00
+
+ ## The University of Vermont -- WebAuth
+ - [https://go.uvm.edu](https://go.uvm.edu)
+ - date_published: 2024-07-02T12:29:18.919688+00:00
+
+ ## IIS Windows Server
+ - [https://illiad.uvm.edu](https://illiad.uvm.edu)
+ - date_published: 2019-06-14T16:07:30+00:00
+
+ ## UVM Professional and Continuing Education - University of Vermont
+ - [https://learn.uvm.edu](https://learn.uvm.edu)
+ - date_published: 2023-03-27T17:19:15+00:00
+
+ ## Howe Library | Howe Library
+ - [https://library.uvm.edu](https://library.uvm.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://login.ezproxy.uvm.edu](https://login.ezproxy.uvm.edu)
+ - date_published: 2024-07-02T12:28:23.936048+00:00
+
+ ## The University of Vermont -- WebAuth
+ - [https://mail.uvm.edu](https://mail.uvm.edu)
+ - date_published: 2024-07-02T12:29:45.468024+00:00
+
+ ## Larner College of Medicine at The University of Vermont
+ - [https://med.uvm.edu](https://med.uvm.edu)
+ - date_published: 2024-05-07T22:16:35.188877+00:00
+
+ ## The University of Vermont -- WebAuth
+ - [https://myuvm.uvm.edu](https://myuvm.uvm.edu)
+ - date_published: 2024-05-07T22:16:20.017634+00:00
+
+ ## Peter Sheridan Dodds
+ - [https://pdodds.w3.uvm.edu](https://pdodds.w3.uvm.edu)
+ - date_published: 2023-09-11T20:10:44+00:00
+
+ ## University of Vermont ScholarWorks
+ - [http://scholarworks.uvm.edu](http://scholarworks.uvm.edu)
+ - date_published: 2024-07-02T12:28:08.536005+00:00
+
+ ## SFX Version 4 for Linux by Ex Libris
+ - [http://sfx.uvm.edu](http://sfx.uvm.edu)
+ - date_published: 2014-12-16T08:20:08+00:00
+
+ ## Silver Special Collections Library | Silver Special Collections Library
+ - [https://specialcollections.uvm.edu](https://specialcollections.uvm.edu)
+ - date_published: 2024-07-02T12:28:19.245882+00:00
+
+ ## Taras I.Lakoba - University Of Vermont
+ - [https://tlakoba.w3.uvm.edu](https://tlakoba.w3.uvm.edu)
+ - date_published: 2023-10-25T19:05:38.861859+00:00
+
+ ## Welcome | The UVM Bookstore
+ - [https://uvmbookstore.uvm.edu](https://uvmbookstore.uvm.edu)
+ - date_published: 2024-07-02T12:27:42.119097+00:00
+
+ ## UVM Homepage | The University of Vermont
+ - [https://uvmd10.drup2.uvm.edu](https://uvmd10.drup2.uvm.edu)
+ - date_published: 2024-07-02T12:27:40.062966+00:00
+
+ ## The University of Vermont
+ - [https://uvmd9.drup2.uvm.edu](https://uvmd9.drup2.uvm.edu)
+ - date_published: 2024-05-07T22:16:46.865139+00:00
+
+ ## The University of Vermont
+ - [https://uvmd9.uvm.edu](https://uvmd9.uvm.edu)
+ - date_published: 2024-05-07T22:16:08.189149+00:00
+
+ ## https://www.uvm.edu
+ - [https://uvm.edu](https://uvm.edu)
+ - date_published: 2024-01-09T03:28:49.823820+00:00
+
+ ## UVM Libraries Catalog
+ - [http://voyager.uvm.edu](http://voyager.uvm.edu)
+ - date_published: 2024-01-12T19:55:06+00:00
+
+ ## Home Page
+ - [https://www.alumni.uvm.edu](https://www.alumni.uvm.edu)
+ - date_published: 2024-05-07T22:16:44.573691+00:00
+
+ ## Utah Valley University | Utah Valley University
+ - [http://www.uvu.edu](http://www.uvu.edu)
+ - date_published: 2024-10-18T05:53:23.671870+00:00
+
+ ## News
+ - [http://ads-institute.uw.edu](http://ads-institute.uw.edu)
+ - date_published: 2020-11-17T05:45:28+00:00
+
+ ## College of Arts & Sciences | University of Washington
+ - [https://artsci.uw.edu](https://artsci.uw.edu)
+ - date_published: 2024-06-29T21:13:11+00:00
+
+ ## ArtsUW Events | Arts Events
+ - [https://artsevents.uw.edu](https://artsevents.uw.edu)
+ - date_published: 2024-07-02T13:43:35.865644+00:00
+
+ ## Default - AskUs
+ - [https://ask.lib.uw.edu](https://ask.lib.uw.edu)
+ - date_published: 2024-07-02T13:49:08.291911+00:00
+
+ ## Department of Atmospheric and Climate Science | An academic department of the University of Washington College of the Environment
+ - [https://atmos.uw.edu](https://atmos.uw.edu)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Behavioral Data Science - Home
+ - [http://bdata.uw.edu](http://bdata.uw.edu)
+ - date_published: 2023-10-17T23:52:31+00:00
+
+ ## UW NetID sign-in
+ - [http://canvas.uw.edu](http://canvas.uw.edu)
+ - date_published: 2024-07-02T13:48:31.918662+00:00
+
+ ## Home page
+ - [https://ciso.uw.edu](https://ciso.uw.edu)
+ - date_published: 2024-06-16T09:31:37.044666+00:00
+
+ ## CJMD | Center for Journalism, Media & Democracy - UW Communications
+ - [https://cjmd.com.uw.edu](https://cjmd.com.uw.edu)
+ - date_published: 2024-07-21T07:18:45.118484+00:00
+
+ ## Communication Leadership Degrees
+ - [https://commlead.uw.edu](https://commlead.uw.edu)
+ - date_published: 2024-04-30T05:44:29.669517+00:00
+
+ ## Main Home
+ - [https://comotion.uw.edu](https://comotion.uw.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Department of Communication
+ - [https://com.uw.edu](https://com.uw.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## ConnectedLib
+ - [https://connectedlib.ischool.uw.edu](https://connectedlib.ischool.uw.edu)
+ - date_published: 2024-07-01T22:53:22.553368+00:00
+
+ ## UW Facilities Home | UW Facilities
+ - [https://cpd.uw.edu](https://cpd.uw.edu)
+ - date_published: 2024-07-02T13:46:59.216397+00:00
+
+ ## CREATE
+ - [https://create.uw.edu](https://create.uw.edu)
+ - date_published: 2024-07-02T13:32:38.296442+00:00
+
+ ## UW Center for Speech & Debate
+ - [https://csd.com.uw.edu](https://csd.com.uw.edu)
+ - date_published: 2024-07-21T07:18:41.956748+00:00
+
+ ## Welcome to Paul G. Allen School of Computer Science & Engineering | Paul G. Allen School of Computer Science & Engineering
+ - [https://cse.uw.edu](https://cse.uw.edu)
+ - date_published: 2024-07-01T19:52:49.242137+00:00
+
+ ## Campus Sustainability Fund | Campus Sustainability Fund (CSF)
+ - [https://csf.uw.edu](https://csf.uw.edu)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Digital Fabrication at UW - DFab
+ - [https://dfab.uw.edu](https://dfab.uw.edu)
+ - date_published: 2021-10-18T00:00:00+00:00
+
+ ## Departments | University of Washington Tacoma Directory
+ - [https://directory.tacoma.uw.edu](https://directory.tacoma.uw.edu)
+ - date_published: 2024-07-02T07:27:38+00:00
+
+ ## UW Faculty/Staff/Student Directory
+ - [https://directory.uw.edu](https://directory.uw.edu)
+ - date_published: 2024-05-07T22:27:48.475503+00:00
+
+ ## HCI & Design at the University of Washington
+ - [http://dub.uw.edu](http://dub.uw.edu)
+ - date_published: 2024-06-27T21:54:25+00:00
+
+ ## Home | Emergency Site | Information School | University of Washington
+ - [https://emergency.ischool.uw.edu](https://emergency.ischool.uw.edu)
+ - date_published: 2024-03-20T23:41:22+00:00
+
+ ## Home – Your source for Workday support
+ - [https://employeehelp.workday.uw.edu](https://employeehelp.workday.uw.edu)
+ - date_published: 2024-05-07T22:27:55.830226+00:00
+
+ ## University of Washington College of Engineering
+ - [https://engr.uw.edu](https://engr.uw.edu)
+ - date_published: 2024-06-15T17:36:41.392027+00:00
+
+ ## Home
+ - [https://environment.uw.edu](https://environment.uw.edu)
+ - date_published: 2024-07-02T13:19:36+00:00
+
+ ## UW Facilities Home | UW Facilities
+ - [https://facilities.uw.edu](https://facilities.uw.edu)
+ - date_published: 2024-07-02T13:45:35.502419+00:00
+
+ ## Welcome to UW Finance | UW Finance
+ - [https://finance.uw.edu](https://finance.uw.edu)
+ - date_published: 2024-05-07T22:27:25.446993+00:00
+
+ ## Foster School of Business | Foster School of Business
+ - [https://foster.uw.edu](https://foster.uw.edu)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## UW Graduate School
+ - [https://grad.uw.edu](https://grad.uw.edu)
+ - date_published: 2024-07-02T13:33:02.348485+00:00
+
+ ## UW Sustainability
+ - [https://green.uw.edu](https://green.uw.edu)
+ - date_published: 2024-07-02T13:24:39+00:00
+
+ ## Library Guides
+ - [http://guides.lib.uw.edu](http://guides.lib.uw.edu)
+ - date_published: 2024-07-02T13:48:56.131305+00:00
+
+ ## Human Centered Design & Engineering
+ - [https://hcde.uw.edu](https://hcde.uw.edu)
+ - date_published: 2024-04-30T05:44:54.438685+00:00
+
+ ## Housing & Food Services - UW HFS
+ - [https://hfs.uw.edu](https://hfs.uw.edu)
+ - date_published: 2024-05-07T22:27:30.814550+00:00
+
+ ## Human Resources
+ - [http://hr.uw.edu](http://hr.uw.edu)
+ - date_published: 2024-07-02T13:45:32.475882+00:00
+
+ ## Home
+ - [https://hsl.uw.edu](https://hsl.uw.edu)
+ - date_published: 2024-07-02T13:48:54.572610+00:00
+
+ ## International Arctic Buoy Programme
+ - [http://iabp.apl.uw.edu](http://iabp.apl.uw.edu)
+ - date_published: 2022-04-27T23:12:55+00:00
+
+ ## UW NetID sign-in
+ - [https://identity.uw.edu](https://identity.uw.edu)
+ - date_published: 2024-07-02T13:20:59.890101+00:00
+
+ ## UW NetID sign-in
+ - [https://insideuwit.uw.edu](https://insideuwit.uw.edu)
+ - date_published: 2024-06-16T09:31:35.127902+00:00
+
+ ## UW NetID sign-in
+ - [https://internal.com.uw.edu](https://internal.com.uw.edu)
+ - date_published: 2024-07-21T07:18:50.140523+00:00
+
+ ## Information School | University of Washington
+ - [https://ischool.uw.edu](https://ischool.uw.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Home – Your source for Workday support
+ - [https://isc.uw.edu](https://isc.uw.edu)
+ - date_published: 2024-06-15T17:26:23+00:00
+
+ ## IT Connect
+ - [https://itconnect.uw.edu](https://itconnect.uw.edu)
+ - date_published: 2024-05-01T06:18:38.389467+00:00
+
+ ## iSchool Knowledge Base | University of Washington Information School
+ - [http://kb.ischool.uw.edu](http://kb.ischool.uw.edu)
+ - date_published: 2024-08-06T17:05:40+00:00
+
+ ## Website: Homepage: Home
+ - [https://lib.law.uw.edu](https://lib.law.uw.edu)
+ - date_published: 2024-10-18T22:26:28.956566+00:00
+
+ ## University of Washington Libraries
+ - [https://lib.uw.edu](https://lib.uw.edu)
+ - date_published: 2024-05-07T22:27:43.859911+00:00
+
+ ## Sign in to your account
+ - [https://metadata.uw.edu](https://metadata.uw.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home - Multicultural Outreach & Recruitment
+ - [https://mor.uw.edu](https://mor.uw.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## UW NetID sign-in
+ - [https://myhfs.housing.uw.edu](https://myhfs.housing.uw.edu)
+ - date_published: 2024-07-02T13:47:22.873056+00:00
+
+ ## UW NetID sign-in
+ - [https://my.uw.edu](https://my.uw.edu)
+ - date_published: 2024-05-07T22:26:52.137801+00:00
+
+ ## Home Page - UW Medicine | Newsroom
+ - [https://newsroom.uw.edu](https://newsroom.uw.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - UW Professional & Continuing Education
+ - [https://pce.uw.edu](https://pce.uw.edu)
+ - date_published: 2024-05-07T22:27:33.421412+00:00
+
+ ## This Page has moved
+ - [https://people.ece.uw.edu](https://people.ece.uw.edu)
+ - date_published: 2024-06-22T09:50:04.754965+00:00
+
+ ## Together We Will
+ - [https://privacy.uw.edu](https://privacy.uw.edu)
+ - date_published: 2024-06-16T09:31:38.528070+00:00
+
+ ## Polar Science Center
+ - [https://psc.apl.uw.edu](https://psc.apl.uw.edu)
+ - date_published: 2024-05-07T15:32:13.441621+00:00
+
+ ## UW Reality Lab
+ - [https://realitylab.uw.edu](https://realitylab.uw.edu)
+ - date_published: 2023-04-13T00:25:08+00:00
+
+ ## Discover · UW Scout
+ - [https://scout.uw.edu](https://scout.uw.edu)
+ - date_published: 2024-07-02T13:49:25.154859+00:00
+
+ ## Welcome
+ - [https://sites.uw.edu](https://sites.uw.edu)
+ - date_published: 2024-07-01T23:10:16.844728+00:00
+
+ ## UW Online - Integrated Social Sciences Bachelor’s Degree
+ - [https://socialsciencesonline.uw.edu](https://socialsciencesonline.uw.edu)
+ - date_published: 2024-04-29T05:28:47.102153+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.ipd.uw.edu](https://stats.ipd.uw.edu)
+ - date_published: 2024-07-01T23:10:12.510972+00:00
+
+ ## Home | University of Washington Department of Statistics
+ - [https://stat.uw.edu](https://stat.uw.edu)
+ - date_published: 2024-07-01T23:44:37+00:00
+
+ ## UW Sustainability
+ - [https://sustainability.uw.edu](https://sustainability.uw.edu)
+ - date_published: 2024-05-07T22:26:50.061737+00:00
+
  ## UW Tacoma Home | About UW Tacoma | University of Washington Tacoma
  - [https://tacoma.uw.edu](https://tacoma.uw.edu)
  - date_published: 2024-07-01T23:53:25+00:00
@@ -3620,384 +4000,4 @@
  ## Home - Wellesley College
  - [https://www.wellesley.edu](https://www.wellesley.edu)
  - date_published: 2024-06-30T09:29:51.355461+00:00
-
- ## Dan Licata's Home Page
- - [http://dlicata.web.wesleyan.edu](http://dlicata.web.wesleyan.edu)
- - date_published: 2024-01-28T12:38:52+00:00
-
- ## Welcome to Wesleyan University - Middletown, Connecticut - Wesleyan University
- - [https://wesleyan.edu](https://wesleyan.edu)
- - date_published: 2024-07-19T16:50:07.377737+00:00
-
- ## Events Calendar - Western Colorado University
- - [https://events.western.edu](https://events.western.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## West Liberty University: Affordable Public College Near Wheeling, WV
- - [http://westliberty.edu](http://westliberty.edu)
- - date_published: 2024-06-28T14:21:16.754880+00:00
-
- ## Westminster College
- - [http://www.westminster.edu](http://www.westminster.edu)
- - date_published: 2024-06-28T14:17:49.731120+00:00
-
- ## Home | Westmont College
- - [https://www.westmont.edu](https://www.westmont.edu)
- - date_published: 2024-10-31T07:59:57.594004+00:00
-
- ## Admissions | United States Military Academy West Point
- - [https://apply.westpoint.edu](https://apply.westpoint.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Candidate Portal
- - [https://candidate.westpoint.edu](https://candidate.westpoint.edu)
- - date_published: 2024-05-07T22:28:16.305626+00:00
-
- ## Combating Terrorism Center – CTC at West Point
- - [https://ctc.westpoint.edu](https://ctc.westpoint.edu)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## West Point Field Force
- - [https://fieldforce.westpoint.edu](https://fieldforce.westpoint.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Lieber Institute for Law and Land Warfare | West Point
- - [https://lieber.westpoint.edu](https://lieber.westpoint.edu)
- - date_published: 2024-10-18T17:53:30.564465+00:00
-
- ## Modern War Institute
- - [https://mwi.westpoint.edu](https://mwi.westpoint.edu)
- - date_published: 2024-05-07T18:20:21.746678+00:00
-
- ## West Point Congressional Nominations
- - [https://nominations.westpoint.edu](https://nominations.westpoint.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Character Carved in Stone
- - [https://visit.westpoint.edu](https://visit.westpoint.edu)
- - date_published: 2024-07-01T03:21:24.597964+00:00
-
- ## The U.S. Military Academy at West Point | United States Military Academy West Point
- - [https://westpoint.edu](https://westpoint.edu)
- - date_published: 2024-01-09T03:28:59.603602+00:00
-
- ## West Valley College, Saratoga CA
- - [http://instruct.westvalley.edu](http://instruct.westvalley.edu)
- - date_published: 2024-06-29T22:25:49.943418+00:00
-
- ## About | Wake Forest University
- - [https://about.wfu.edu](https://about.wfu.edu)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Undergraduate Admissions | Wake Forest University
- - [https://admissions.wfu.edu](https://admissions.wfu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Alumni | Wake Forest School of Law
- - [http://alumni.law.wfu.edu](http://alumni.law.wfu.edu)
- - date_published: 2024-07-01T06:40:11.855959+00:00
-
- ## Alumni Personal & Career Development Center | Wake Forest University
- - [https://alumni.opcd.wfu.edu](https://alumni.opcd.wfu.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Alumni | Wake Forest University
- - [https://alumni.wfu.edu](https://alumni.wfu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Wake Forest University
- - [https://apply.admissions.wfu.edu](https://apply.admissions.wfu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home
- - [https://apply.business.wfu.edu](https://apply.business.wfu.edu)
- - date_published: 2024-07-02T14:15:18.055671+00:00
-
- ## Center for Global Programs and Studies
- - [https://apply.studyabroad.wfu.edu](https://apply.studyabroad.wfu.edu)
- - date_published: 2024-07-02T14:15:01.855633+00:00
-
- ## Wake The Arts—the Arts are alive at Wake Forest University.
- - [https://arts.wfu.edu](https://arts.wfu.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home < Wake Forest University
- - [https://bulletin.wfu.edu](https://bulletin.wfu.edu)
- - date_published: 2024-02-08T16:51:06.053971+00:00
-
- ## Home
- - [https://business.wfu.edu](https://business.wfu.edu)
- - date_published: 2024-07-01T06:40:08.093920+00:00
-
- ## Division of Campus Life | Wake Forest University
- - [https://campuslife.wfu.edu](https://campuslife.wfu.edu)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## Campus Recreation - Campus Recreation
- - [https://campusrec.wfu.edu](https://campusrec.wfu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Center for Market Readiness and Employment Wake Forest University
- - [https://career.business.wfu.edu](https://career.business.wfu.edu)
- - date_published: 2024-07-01T06:39:17.827082+00:00
-
- ## Office of Personal & Career Development | Wake Forest University
- - [https://career.opcd.wfu.edu](https://career.opcd.wfu.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Log In ‹ Chairs & Directors Resources — WordPress
- - [https://chairs.college.wfu.edu](https://chairs.college.wfu.edu)
- - date_published: 2024-07-02T14:15:55.552948+00:00
-
- ## Who We Are - Office of the Chaplain
- - [https://chaplain.wfu.edu](https://chaplain.wfu.edu)
- - date_published: 2024-07-01T20:12:42+00:00
-
- ## Home - Wake Forest University Charlotte Center
- - [https://charlotte.wfu.edu](https://charlotte.wfu.edu)
- - date_published: 2024-06-30T22:55:21+00:00
-
- ## Undergraduate College - Undergraduate College
- - [https://college.wfu.edu](https://college.wfu.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Campus Health
- - [https://coronavirus.wfu.edu](https://coronavirus.wfu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## University Counseling Center - University Counseling Center
- - [https://counselingcenter.wfu.edu](https://counselingcenter.wfu.edu)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Divinity Board of Visitors | Wake Forest University
- - [https://dbov.divinity.wfu.edu](https://dbov.divinity.wfu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Office of Diversity & Inclusion | Wake Forest University
- - [https://diversity.wfu.edu](https://diversity.wfu.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Wake Forest University School of Divinity - Home
- - [https://divinity.wfu.edu](https://divinity.wfu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Center for Entrepreneurship - Center for Entrepreneurship
- - [https://entrepreneurship.wfu.edu](https://entrepreneurship.wfu.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Events Calendar - Wake Forest University Events
- - [https://events.wfu.edu](https://events.wfu.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home - Faculty Senate
- - [https://facultysenate.wfu.edu](https://facultysenate.wfu.edu)
- - date_published: 2024-06-30T17:47:54+00:00
-
- ## Home - The Faith COMPASS Center
- - [https://faithcompass.wfu.edu](https://faithcompass.wfu.edu)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Financial Aid | Wake Forest School of Law
- - [https://financialaid.law.wfu.edu](https://financialaid.law.wfu.edu)
- - date_published: 2024-07-02T14:05:23.224543+00:00
-
- ## Student Financial Aid | Wake Forest University
- - [https://financialaid.wfu.edu](https://financialaid.wfu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Giving Opportunities - New | Giving Opportunities | Wake Forest University
- - [https://giving.wfu.edu](https://giving.wfu.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Global Wake Forest - Global Wake Forest
- - [https://global.wfu.edu](https://global.wfu.edu)
- - date_published: 2024-06-27T17:06:26+00:00
-
- ## Graduate School of Arts & Sciences | Wake Forest University
- - [https://graduate.wfu.edu](https://graduate.wfu.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Graduate Student Association | Wake Forest University
- - [https://gsa.graduate.wfu.edu](https://gsa.graduate.wfu.edu)
- - date_published: 2023-03-06T00:00:00+00:00
-
- ## Welcome - Human Resources
- - [https://hr.wfu.edu](https://hr.wfu.edu)
- - date_published: 2024-05-07T22:29:03.306091+00:00
-
- ## Wake Forest University Pre-College - Summer Immersion Program
- - [https://immersion.summer.wfu.edu](https://immersion.summer.wfu.edu)
- - date_published: 2024-06-30T19:04:48+00:00
-
- ## Home | Inside WFU - news for the Wake Forest community
- - [https://inside.wfu.edu](https://inside.wfu.edu)
- - date_published: 2024-06-30T19:42:36+00:00
-
- ## Graduate School of Arts & Sciences | Wake Forest University
- - [http://internal.graduate.wfu.edu](http://internal.graduate.wfu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Home - Information Systems
- - [https://is.wfu.edu](https://is.wfu.edu)
- - date_published: 2024-07-01T17:19:52+00:00
-
- ## Wake Forest Law
- - [https://law.wfu.edu](https://law.wfu.edu)
- - date_published: 2024-07-01T06:39:02+00:00
-
- ## The Program for Leadership and Character at Wake Forest University
- - [https://leadershipandcharacter.wfu.edu](https://leadershipandcharacter.wfu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Wake Forest Magazine | The alumni magazine of Wake Forest University
- - [https://magazine.wfu.edu](https://magazine.wfu.edu)
- - date_published: 2024-06-28T06:12:35+00:00
-
- ## Campus Map | Wake Forest University
- - [https://map.wfu.edu](https://map.wfu.edu)
- - date_published: 2024-07-01T04:49:09+00:00
-
- ## Home - Mentoring Resource Center
- - [https://mentoring.opcd.wfu.edu](https://mentoring.opcd.wfu.edu)
- - date_published: 2024-06-29T17:31:09+00:00
-
- ## Sign in - Google Accounts
- - [https://netpartner.powerfaids.deacnet.wfu.edu](https://netpartner.powerfaids.deacnet.wfu.edu)
- - date_published: 2024-07-02T14:05:20.168259+00:00
-
- ## Wake Forest News | Wake Forest University
- - [https://news.wfu.edu](https://news.wfu.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Office of Personal & Career Development | Wake Forest University
- - [https://opcd.wfu.edu](https://opcd.wfu.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Pro Humanitate - Our Motto Means More
- - [https://ourmottomeansmore.wfu.edu](https://ourmottomeansmore.wfu.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Campus Health
- - [https://ourwayforward.wfu.edu](https://ourwayforward.wfu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Parents & Families | Wake Forest University
- - [https://parents.wfu.edu](https://parents.wfu.edu)
- - date_published: 2024-06-28T18:19:27+00:00
-
- ## Home - Transportation and Parking Services
- - [https://parking.wfu.edu](https://parking.wfu.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Professional Development Center - Human Resources
- - [http://pdc.wfu.edu](http://pdc.wfu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## People Search - Wake Forest University
- - [https://peoplesearch.wfu.edu](https://peoplesearch.wfu.edu)
- - date_published: 2024-07-02T14:05:33.877608+00:00
-
- ## Philosophy | Wake Forest University
- - [http://philosophy.wfu.edu](http://philosophy.wfu.edu)
- - date_published: 2024-06-23T09:42:11.571785+00:00
-
- ## University Police | Wake Forest University
- - [https://police.wfu.edu](https://police.wfu.edu)
- - date_published: 2024-07-01T18:21:58+00:00
-
- ## Policy Listing - University Policy Library
- - [https://policy.wfu.edu](https://policy.wfu.edu)
- - date_published: 2024-07-01T14:12:10+00:00
-
- ## Homepage - Wake Forest Pre-College Programs
- - [https://precollege.wfu.edu](https://precollege.wfu.edu)
- - date_published: 2024-06-28T12:24:06+00:00
-
- ## Prehealth @ WFU – Prehealth Professions @ WFU
- - [http://prehealth.wfu.edu](http://prehealth.wfu.edu)
- - date_published: 2024-07-01T06:39:22.392994+00:00
-
- ## Pre-Law Advising | Wake Forest University
- - [https://prelaw.wfu.edu](https://prelaw.wfu.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Office of the President | Wake Forest University
- - [https://president.wfu.edu](https://president.wfu.edu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Pre-Wall Street Career Track - Pre-Wall Street Career Track
- - [https://prewallstreetcareertrack.wfu.edu](https://prewallstreetcareertrack.wfu.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Provost Office Homepage - Office of the Provost
- - [https://provost.wfu.edu](https://provost.wfu.edu)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Office of the University Registrar | Wake Forest University
- - [https://registrar.wfu.edu](https://registrar.wfu.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Research at Wake Forest University | Wake Forest University
- - [https://research.wfu.edu](https://research.wfu.edu)
- - date_published: 2024-06-29T11:20:26+00:00
-
- ## Staff Advisory Council - Staff Advisory Council
- - [https://sac.wfu.edu](https://sac.wfu.edu)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Deacon Health | Wake Forest University
- - [https://shs.wfu.edu](https://shs.wfu.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home - Social Media
- - [https://social.wfu.edu](https://social.wfu.edu)
- - date_published: 2024-05-07T22:28:45.337154+00:00
-
- ## Home Page
- - [https://sps.wfu.edu](https://sps.wfu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Wake Forest University Status
- - [https://status.is.wfu.edu](https://status.is.wfu.edu)
- - date_published: 2024-07-02T14:13:32.006500+00:00
-
- ## Student Employment | Wake Forest University
- - [https://studentemployment.wfu.edu](https://studentemployment.wfu.edu)
- - date_published: 2024-07-02T13:07:50+00:00
-
- ## WFU - Study Abroad | Engage in your world class experience. Study Abroad.
- - [https://studyabroad.wfu.edu](https://studyabroad.wfu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## About Us - Office of Wellbeing
- - [https://thrive.wfu.edu](https://thrive.wfu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Wake Alert
- - [https://wakealert.wfu.edu](https://wakealert.wfu.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Wake Downtown | Wake Forest University
- - [https://wakedowntown.wfu.edu](https://wakedowntown.wfu.edu)
- - date_published: 2024-06-27T14:33:07+00:00
-
- ## Wake Alert
- - [https://wakeready.wfu.edu](https://wakeready.wfu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home - Wake Washington Center
- - [https://washington.wfu.edu](https://washington.wfu.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Webcam | Wake Forest University
- - [https://webcam.wfu.edu](https://webcam.wfu.edu)
- - date_published: 2024-06-27T15:08:17+00:00
-
- ## Wake Forest University
- - [https://wfu.edu](https://wfu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## WFU | Wake Information Network
- - [https://win.wfu.edu](https://win.wfu.edu)
- - date_published: 2021-03-10T15:19:10+00:00
 

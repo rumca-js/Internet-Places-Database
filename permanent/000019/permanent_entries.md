@@ -1,3 +1,59 @@
+ ## Home | Arizona Hard
+ - [https://www.arizonahard.ca](https://www.arizonahard.ca)
+ - date_published: 2024-09-16T06:54:35.173613+00:00
+
+ ## A Rocha Canada - A Rocha
+ - [https://arocha.ca](https://arocha.ca)
+ - date_published: 2024-12-21T09:52:12+00:00
+
+ ## The ArQuives Digital Exhibitions
+ - [https://digitalexhibitions.arquives.ca](https://digitalexhibitions.arquives.ca)
+ - date_published: 2024-06-27T02:51:03.550831+00:00
+
+ ## Ars Medica
+ - [http://www.ars-medica.ca](http://www.ars-medica.ca)
+ - date_published: 2024-06-24T09:33:40.227600+00:00
+
+ ## art aggregate
+ - [https://www.artaggregate.ca](https://www.artaggregate.ca)
+ - date_published: 2024-07-15T03:53:56.050751+00:00
+
+ ## Home | Arthritis Society Canada
+ - [https://arthritis.ca](https://arthritis.ca)
+ - date_published: 2024-06-28T12:08:12.188114+00:00
+
+ ## Capa | Canadian Arthritis Patient Alliance
+ - [http://arthritispatient.ca](http://arthritispatient.ca)
+ - date_published: 2024-06-28T11:54:28.514753+00:00
+
+ ## Fine Art Printing Canada • Art Ink Print
+ - [https://www.artinkprint.ca](https://www.artinkprint.ca)
+ - date_published: 2022-12-12T19:17:43+00:00
+
+ ## Arts & Letters Club
+ - [https://www.artsandlettersclub.ca](https://www.artsandlettersclub.ca)
+ - date_published: 2024-08-06T19:12:40.465633+00:00
+
+ ## ICI ARTV chaîne de télévision culturelle
+ - [http://ici.artv.ca](http://ici.artv.ca)
+ - date_published: 2024-07-10T05:32:11.843695+00:00
+
+ ## A School, A Park 2018
+ - [http://a-school-a-park.ca](http://a-school-a-park.ca)
+ - date_published: 2019-05-17T15:25:41+00:00
+
+ ## Asia Pacific Foundation of Canada
+ - [https://www.asiapacific.ca](https://www.asiapacific.ca)
+ - date_published: 2024-12-25T21:51:17.722166+00:00
+
+ ## David Asper Centre for Constitutional Rights | Facutly of Law, University of TorontoDavid Asper Centre for Constitutional Rights
+ - [http://www.aspercentre.ca](http://www.aspercentre.ca)
+ - date_published: 2024-07-21T08:21:14.120616+00:00
+
+ ## Le Canada sous les étoiles | Canada under the stars
+ - [http://astro-canada.ca](http://astro-canada.ca)
+ - date_published: 2024-08-18T20:23:33.085002+00:00
+
  ## ATD Quart Monde Canada | Agir Tous pour la Dignité et pour un monde sans pauvreté
  - [http://www.atdquartmonde.ca](http://www.atdquartmonde.ca)
  - date_published: 2024-07-13T19:49:30.974113+00:00
@@ -3972,60 +4028,4 @@
  ## Home | Great Place to Work® Canada
  - [https://greatplacetowork.ca](https://greatplacetowork.ca)
  - date_published: 2024-06-12T00:00:00+00:00
-
- ## HOME - Great West Media
- - [https://greatwest.ca](https://greatwest.ca)
- - date_published: 2024-04-28T05:09:54.916751+00:00
-
- ## GreenGeeks: Web Hosting Canada - Fast, Scalable & Eco-friendly
- - [https://www.greengeeks.ca](https://www.greengeeks.ca)
- - date_published: 2024-06-27T14:25:29.576937+00:00
-
- ## GreenShift is under construction
- - [http://greenshift.ca](http://greenshift.ca)
- - date_published: 2024-12-23T11:54:32.692151+00:00
-
- ## Greg Chetcuti
- - [https://greg.ca](https://greg.ca)
- - date_published: 2024-12-04T18:44:21+00:00
-
- ## mastodon.greg.ca
- - [https://mastodon.greg.ca](https://mastodon.greg.ca)
- - date_published: 2024-12-19T10:33:25.308529+00:00
-
- ## Gregory Hammond — Websites, accessibility & more
- - [https://gregoryhammond.ca](https://gregoryhammond.ca)
- - date_published: 2024-06-18T12:42:59.748413+00:00
-
- ## Gregory Schmidt
- - [https://www.gregoryschmidt.ca](https://www.gregoryschmidt.ca)
- - date_published: 2024-07-16T12:43:50.322187+00:00
-
- ## FlixBus welcomes Greyhound Canada Travelers
- - [http://www.greyhound.ca](http://www.greyhound.ca)
- - date_published: 2024-10-11T08:22:04.146529+00:00
-
- ## The Grimoire
- - [https://grimoire.ca](https://grimoire.ca)
- - date_published: 2024-08-31T00:52:26+00:00
-
- ## Grinhaus Law Firm - Integrity In Your Corner
- - [https://grinhauslaw.ca](https://grinhauslaw.ca)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Grocery Tracker
- - [https://grocerytracker.ca](https://grocerytracker.ca)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Groupon® Official Site | Online Shopping Deals and Coupons | Save Up to 70% off
- - [https://www.groupon.ca](https://www.groupon.ca)
- - date_published: 2024-10-22T21:36:43.466670+00:00
-
- ## Digital Marketing Agency | Digital Marketing Strategy | GrowthEngine
- - [https://www.growthengine.ca](https://www.growthengine.ca)
- - date_published: 2024-10-17T23:24:31.810801+00:00
-
- ## GrUVi - Home
- - [https://gruvi.ca](https://gruvi.ca)
- - date_published: 2024-04-22T00:00:00+00:00
 

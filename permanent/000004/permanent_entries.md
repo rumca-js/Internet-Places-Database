@@ -1,3 +1,7 @@
+ ## Undermind - Radically better research and discovery
+ - [https://undermind.ai](https://undermind.ai)
+ - date_published: 2024-09-06T18:55:51.966945+00:00
+
  ## Infinite Ground Truth / understand.ai
  - [https://understand.ai](https://understand.ai)
  - date_published: 2024-07-12T07:20:02.502457+00:00
@@ -4016,8 +4020,4 @@ Creative Solutions
  ## DigiPDF by La Digitale
  - [https://digipdf.app](https://digipdf.app)
  - date_published: 2024-10-31T05:03:36.955929+00:00
-
- ## Digistorm by La Digitale
- - [https://digistorm.app](https://digistorm.app)
- - date_published: 2024-06-19T22:35:03.515046+00:00
 

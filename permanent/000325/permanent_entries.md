@@ -1,3 +1,488 @@
+ ## Whelehans Wines | Great Wines, Great Taste
+ - [http://whelehanswines.ie](http://whelehanswines.ie)
+ - date_published: 2024-07-13T19:40:34.318240+00:00
+
+ ## Chris.Wilk.ie
+ - [https://wilk.ie](https://wilk.ie)
+ - date_published: 2018-07-24T10:13:48+00:00
+
+ ## Waterford Winterval 2024 - Ireland's Christmas Festival
+ - [http://www.winterval.ie](http://www.winterval.ie)
+ - date_published: 2024-10-25T10:36:15+00:00
+
+ ## The Workwear Department Embroidery & Screenprinting, Athy, Co. Kildare
+ - [http://workweardept.ie](http://workweardept.ie)
+ - date_published: 2024-07-01T08:45:04.422051+00:00
+
+ ## Home - Writing.ie
+ - [https://writing.ie](https://writing.ie)
+ - date_published: 2023-11-20T17:24:19.164149+00:00
+
+ ## Yelp
+ - [https://m.yelp.ie](https://m.yelp.ie)
+ - date_published: 2024-07-01T07:10:03.555696+00:00
+
+ ## Yelp
+ - [https://yelp.ie](https://yelp.ie)
+ - date_published: 2024-07-01T07:05:04.083550+00:00
+
+ ## York IE Fuel
+ - [https://fuel.york.ie](https://fuel.york.ie)
+ - date_published: 2024-05-07T14:19:49.540425+00:00
+
+ ## York IE
+ - [https://york.ie](https://york.ie)
+ - date_published: 2019-07-10T14:46:23+00:00
+
+ ## Plus Size Women's Clothing & Fashion | Ireland
+ - [https://www.yoursclothing.ie](https://www.yoursclothing.ie)
+ - date_published: 2024-10-21T02:14:08.072387+00:00
+
+ ## What Are Human Rights? Defined • Youth for Human Rights Campaign
+ - [https://www.youthforhumanrights.ie](https://www.youthforhumanrights.ie)
+ - date_published: 2024-09-04T18:05:14.474574+00:00
+
+ ## YUKÕ Toyota Car Club. Drive a Toyota by the hour in Dublin.
+ - [https://www.yuko.ie](https://www.yuko.ie)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Shop Shoes, Fashion & Accessories Online | Zalando IE
+ - [https://www.zalando.ie](https://www.zalando.ie)
+ - date_published: 2024-09-26T20:34:10.665585+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.ie](https://www2.zoetis.ie)
+ - date_published: 2024-06-27T09:52:47+00:00
+
+ ## Support
+ - [https://support.zooplus.ie](https://support.zooplus.ie)
+ - date_published: 2024-09-26T11:23:25.755365+00:00
+
+ ## Pet Supplies, Pet Food, and Pet Products on Sale Now at zooplus
+ - [https://www.zooplus.ie](https://www.zooplus.ie)
+ - date_published: 2024-06-16T06:27:36.576500+00:00
+
+ ## ADAMS Academy Fellowship
+ - [https://adams.academy.ac.il](https://adams.academy.ac.il)
+ - date_published: 2024-10-27T12:08:57.980689+00:00
+
+ ## HE Homepage | The Ben-Gurion ARCHIVE
+ - [https://bengurionarchive.bgu.ac.il](https://bengurionarchive.bgu.ac.il)
+ - date_published: 2024-05-11T09:08:03.273270+00:00
+
+ ## אוניברסיטת בן-גוריון בנגב - ברוכים הבאים וברוכות הבאות
+ - [https://bgu.ac.il](https://bgu.ac.il)
+ - date_published: 2024-03-21T13:48:25.965232+00:00
+
+ ## Ben-Gurion University Research Portal
+ - [https://cris.bgu.ac.il](https://cris.bgu.ac.il)
+ - date_published: 2024-05-11T09:09:17.410173+00:00
+
+ ## Home - Cyber @ Ben-Gurion University
+ - [https://cyber.bgu.ac.il](https://cyber.bgu.ac.il)
+ - date_published: 2024-12-25T20:15:29.470522+00:00
+
+ ## Exp BGU
+ - [https://ethicscomm.bgu.ac.il](https://ethicscomm.bgu.ac.il)
+ - date_published: 2023-04-17T10:48:42+00:00
+
+ ## hilanauth.bgu.ac.il
+ - [https://hilanauth.bgu.ac.il](https://hilanauth.bgu.ac.il)
+ - date_published: 2024-05-11T09:09:20.088917+00:00
+
+ ## אוניברסיטת בן-גוריון בנגב - ברוכים הבאים וברוכות הבאות
+ - [https://in.bgu.ac.il](https://in.bgu.ac.il)
+ - date_published: 2024-05-11T09:07:53.770890+00:00
+
+ ## STS Login - Forms Authentication
+ - [https://k2prod.bgu.ac.il](https://k2prod.bgu.ac.il)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Library Guides List
+ - [https://libguides.bgu.ac.il](https://libguides.bgu.ac.il)
+ - date_published: 2024-05-11T09:09:18.620856+00:00
+
+ ## Home - MSIH
+ - [https://msih.bgu.ac.il](https://msih.bgu.ac.il)
+ - date_published: 2024-05-11T09:09:10.805582+00:00
+
+ ## IIS Windows Server
+ - [https://phonebook.bgu.ac.il](https://phonebook.bgu.ac.il)
+ - date_published: 2021-05-30T13:54:30+00:00
+
+ ## ברוכים הבאים לפורטל הסטודנטים אוניברסיטת בן גוריון
+ - [https://portal.bgu.ac.il](https://portal.bgu.ac.il)
+ - date_published: 2024-05-11T09:09:20.881577+00:00
+
+ ## BGU Radio
+ - [http://radio.bgu.ac.il](http://radio.bgu.ac.il)
+ - date_published: 2019-10-25T07:50:44+00:00
+
+ ## אתר התשלומים של אוניברסיטת בן גוריון
+ - [https://shop.bgu.ac.il](https://shop.bgu.ac.il)
+ - date_published: 2024-05-11T09:08:40.917910+00:00
+
+ ## Yazamut 360° | Entrepreneurship Center
+ - [https://yazamut360.bgu.ac.il](https://yazamut360.bgu.ac.il)
+ - date_published: 2024-05-11T09:08:38.706062+00:00
+
+ ## דף הבית | המזכירות האקדמית
+ - [https://acad-sec.biu.ac.il](https://acad-sec.biu.ac.il)
+ - date_published: 2024-08-07T15:14:25.474164+00:00
+
+ ## אקדימה בר-אילן
+ - [https://akadima.biu.ac.il](https://akadima.biu.ac.il)
+ - date_published: 2024-08-07T15:14:56.171675+00:00
+
+ ## אוניברסיטת בר אילן
+ - [https://biu.ac.il](https://biu.ac.il)
+ - date_published: 2024-04-28T03:45:46.331322+00:00
+
+ ## דקן הסטודנטים | אוניברסיטת בר-אילן
+ - [https://dean.biu.ac.il](https://dean.biu.ac.il)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## היחידה לאנגלית כשפה זרה | אוניברסיטת בר-אילן
+ - [https://efl.biu.ac.il](https://efl.biu.ac.il)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## e-Pay | מערכת תשלומים מקוונת
+ - [https://epay.biu.ac.il](https://epay.biu.ac.il)
+ - date_published: 2024-08-07T15:14:45.679004+00:00
+
+ ## בית הספר ללימודים מתקדמים | אוניברסיטת בר-אילן
+ - [https://graduate-school.biu.ac.il](https://graduate-school.biu.ac.il)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## משאבי אנוש בר-אילן | אגף משאבי אנוש  | אוניברסיטת בר-אילן
+ - [https://hr-minhali.biu.ac.il](https://hr-minhali.biu.ac.il)
+ - date_published: 2024-08-07T13:44:03+00:00
+
+ ## אגף תקשוב | אוניברסיטת בר-אילן
+ - [https://ict.biu.ac.il](https://ict.biu.ac.il)
+ - date_published: 2024-08-07T15:14:17.669827+00:00
+
+ ## אינ-בר
+ - [https://inbar.biu.ac.il](https://inbar.biu.ac.il)
+ - date_published: 2024-08-07T15:14:29.686985+00:00
+
+ ## אגף למידה והוראה | אוניברסיטת בר-אילן
+ - [https://learning-and-teaching.biu.ac.il](https://learning-and-teaching.biu.ac.il)
+ - date_published: 2024-08-07T15:11:50.906981+00:00
+
+ ## מערך הספריות והמידע | אוניברסיטת בר-אילן
+ - [https://lib.biu.ac.il](https://lib.biu.ac.il)
+ - date_published: 2024-08-07T15:14:27.877419+00:00
+
+ ## Sign in to your account
+ - [https://mybiu.biu.ac.il](https://mybiu.biu.ac.il)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Log in
+ - [https://sites.biu.ac.il](https://sites.biu.ac.il)
+ - date_published: 2024-08-07T15:11:47.406112+00:00
+
+ ## Access Gateway
+ - [https://sspr.biu.ac.il](https://sspr.biu.ac.il)
+ - date_published: 2024-08-07T15:12:04.371649+00:00
+
+ ## מנהל הסטודנטים | אוניברסיטת בר-אילן
+ - [https://stuad.biu.ac.il](https://stuad.biu.ac.il)
+ - date_published: 2024-08-07T15:13:25.785486+00:00
+
+ ## אגף תפעול | אוניברסיטת בר-אילן
+ - [https://tiful.biu.ac.il](https://tiful.biu.ac.il)
+ - date_published: 2024-08-07T15:14:19.641472+00:00
+
+ ## Test Page for the HTTP Server on AlmaLinux
+ - [https://u.cs.biu.ac.il](https://u.cs.biu.ac.il)
+ - date_published: 2021-10-09T17:49:21+00:00
+
+ ## Caesarea Rothschild Institute
+ - [http://www.cri.haifa.ac.il](http://www.cri.haifa.ac.il)
+ - date_published: 2024-08-11T22:07:26.880477+00:00
+
+ ## אוניברסיטת חיפה - לימודי תואר ראשון, שני ותארים מתקדמים
+ - [https://www.haifa.ac.il](https://www.haifa.ac.il)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## The Institute of Archaeology
+ - [https://archaeology.huji.ac.il](https://archaeology.huji.ac.il)
+ - date_published: 2024-07-13T03:31:18+00:00
+
+ ## The Rachel and Selim Benin School of Computer Science and Engineering | The Hebrew University.
+ - [https://cs.huji.ac.il](https://cs.huji.ac.il)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## en.new.huji
+ - [https://en.huji.ac.il](https://en.huji.ac.il)
+ - date_published: 2024-07-13T03:15:31+00:00
+
+ ## Israel Institute for Advanced Studies
+ - [https://iias.huji.ac.il](https://iias.huji.ac.il)
+ - date_published: 2024-06-30T11:22:36+00:00
+
+ ## Jerusalem Journal of Archaeology
+ - [https://jjar.huji.ac.il](https://jjar.huji.ac.il)
+ - date_published: 2023-10-25T19:29:26.869067+00:00
+ - tags: ['archaeology']
+
+ ## Einstein Institute of Mathematics @ The Hebrew University - lead to new site
+ - [https://ma.huji.ac.il](https://ma.huji.ac.il)
+ - date_published: 2024-05-07T15:55:11.909224+00:00
+
+ ## HUJImail
+ - [https://mail.huji.ac.il](https://mail.huji.ac.il)
+ - date_published: 2024-08-11T07:52:00.327356+00:00
+
+ ## האוניברסיטה העברית בירושלים
+ - [https://new.huji.ac.il](https://new.huji.ac.il)
+ - date_published: 2024-07-13T03:57:19.560610+00:00
+
+ ## דף הבית | HUJI OpenScholar
+ - [https://openscholar.huji.ac.il](https://openscholar.huji.ac.il)
+ - date_published: 2024-07-13T03:11:13+00:00
+
+ ## The Rachel and Selim Benin School of Computer Science and Engineering | The Hebrew University.
+ - [https://pages.cs.huji.ac.il](https://pages.cs.huji.ac.il)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## The Racah Institute of Physics
+ - [http://www.phys.huji.ac.il](http://www.phys.huji.ac.il)
+ - date_published: 2024-07-22T07:03:59+00:00
+
+ ## המזכירות האקדמית
+ - [https://acad-sec.tau.ac.il](https://acad-sec.tau.ac.il)
+ - date_published: 2024-07-24T07:57:38.975902+00:00
+
+ ## معلومات للمهتمين
+ - [https://ar-go.tau.ac.il](https://ar-go.tau.ac.il)
+ - date_published: 2024-07-24T07:57:49.409302+00:00
+
+ ## הפקולטה לאמנויות
+ - [http://arts.tau.ac.il](http://arts.tau.ac.il)
+ - date_published: 2024-07-24T07:57:22.079294+00:00
+
+ ## Board of Governors
+ - [https://bog.tau.ac.il](https://bog.tau.ac.il)
+ - date_published: 2024-08-19T00:37:51+00:00
+
+ ## לומדים תמיד - לימודים אקדמיים לבעלי תואר
+ - [https://bprepared.tau.ac.il](https://bprepared.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## המרכז לפיתוח קריירה
+ - [http://career.tau.ac.il](http://career.tau.ac.il)
+ - date_published: 2024-10-20T01:25:07.322251+00:00
+
+ ## 特拉维夫大学中文官网
+ - [https://china.tau.ac.il](https://china.tau.ac.il)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## הפקולטה לניהול ע"ש קולר
+ - [https://coller.tau.ac.il](https://coller.tau.ac.il)
+ - date_published: 2024-07-24T07:57:41.975833+00:00
+
+ ## כלים שלובים
+ - [https://core.tau.ac.il](https://core.tau.ac.il)
+ - date_published: 2024-07-24T07:58:26.248859+00:00
+
+ ## Tel Aviv University
+ - [https://cris.tau.ac.il](https://cris.tau.ac.il)
+ - date_published: 2024-07-24T07:58:00.162282+00:00
+
+ ## בית הספר למדעי המחשב
+ - [https://cs.tau.ac.il](https://cs.tau.ac.il)
+ - date_published: 2024-04-28T03:53:34.736097+00:00
+
+ ## The AI and Data Science Center
+ - [https://datascience.tau.ac.il](https://datascience.tau.ac.il)
+ - date_published: 2024-07-24T07:58:35.358522+00:00
+
+ ## הדקאנט להצלחת הסטודנטים והסטודנטיות
+ - [http://deanstudents.tau.ac.il](http://deanstudents.tau.ac.il)
+ - date_published: 2024-07-24T07:57:36.545699+00:00
+
+ ## Virtual TAU - פדגוגיה דיגיטלית
+ - [https://digital.tau.ac.il](https://digital.tau.ac.il)
+ - date_published: 2024-07-24T07:57:32.444500+00:00
+
+ ## הנציבות לשוויון, מגוון וקהילה
+ - [https://diversity.tau.ac.il](https://diversity.tau.ac.il)
+ - date_published: 2024-07-24T07:58:06.207241+00:00
+
+ ## Tel Aviv University Alumni Organization
+ - [https://en-alumni.tau.ac.il](https://en-alumni.tau.ac.il)
+ - date_published: 2024-08-19T03:21:22.398815+00:00
+
+ ## Faculty of the Arts
+ - [http://en-arts.tau.ac.il](http://en-arts.tau.ac.il)
+ - date_published: 2024-08-18T21:03:04+00:00
+
+ ## BioMed @ TAU
+ - [https://en-biomed.tau.ac.il](https://en-biomed.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## School of Management
+ - [http://en-coller.tau.ac.il](http://en-coller.tau.ac.il)
+ - date_published: 2024-08-18T21:07:07+00:00
+
+ ## Faculty of Exact Sciences
+ - [https://en.cs.tau.ac.il](https://en.cs.tau.ac.il)
+ - date_published: 2024-07-02T21:59:03+00:00
+
+ ## The Iby and Aladar Fleischman Faculty of Engineering
+ - [https://en-engineering.tau.ac.il](https://en-engineering.tau.ac.il)
+ - date_published: 2024-08-18T21:36:35+00:00
+
+ ## Renewable Energy Research Center
+ - [https://energy.tau.ac.il](https://energy.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Edmond J. Safra Center for Ethics
+ - [https://en-ethics.tau.ac.il](https://en-ethics.tau.ac.il)
+ - date_published: 2024-07-21T23:24:30+00:00
+
+ ## Faculty of Exact Sciences
+ - [https://en-exact-sciences.m.tau.ac.il](https://en-exact-sciences.m.tau.ac.il)
+ - date_published: 2024-10-20T01:26:00.829013+00:00
+
+ ## Faculty of Exact Sciences
+ - [https://en-exact-sciences.tau.ac.il](https://en-exact-sciences.tau.ac.il)
+ - date_published: 2024-06-21T06:14:29+00:00
+
+ ## ברוכים הבאים לפקולטה להנדסה
+ - [https://engineering.tau.ac.il](https://engineering.tau.ac.il)
+ - date_published: 2024-07-24T07:58:05.012304+00:00
+
+ ## main site frontpage - english
+ - [https://english.m.tau.ac.il](https://english.m.tau.ac.il)
+ - date_published: 2024-08-19T00:06:11+00:00
+
+ ## Tel Aviv University | Tel Aviv University
+ - [https://english.tau.ac.il](https://english.tau.ac.il)
+ - date_published: 2023-10-25T19:29:32.967224+00:00
+
+ ## Registration for Programs in Hebrew
+ - [https://en-go.tau.ac.il](https://en-go.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Faculty
+ - [https://en-humanities.tau.ac.il](https://en-humanities.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Law Faculty
+ - [https://en-law.m.tau.ac.il](https://en-law.m.tau.ac.il)
+ - date_published: 2024-07-21T21:12:50+00:00
+
+ ## Law Faculty
+ - [https://en-law.tau.ac.il](https://en-law.tau.ac.il)
+ - date_published: 2024-04-30T04:44:23.960232+00:00
+
+ ## Tel Aviv University Libraries
+ - [https://en-libraries.tau.ac.il](https://en-libraries.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## The George S. Wise Faculty of Life Sciences
+ - [https://en-lifesci.tau.ac.il](https://en-lifesci.tau.ac.il)
+ - date_published: 2024-08-18T21:13:58+00:00
+
+ ## Faculty of Medical & Health Sciences
+ - [https://en-med.tau.ac.il](https://en-med.tau.ac.il)
+ - date_published: 2024-08-18T21:13:14+00:00
+
+ ## Tel Aviv University Climate Crisis Initiative
+ - [https://en-planetzero.tau.ac.il](https://en-planetzero.tau.ac.il)
+ - date_published: 2024-08-19T01:23:44+00:00
+
+ ## Sagol School of Neuroscience
+ - [https://en-sagol.tau.ac.il](https://en-sagol.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## The Neiman Library of Exact Sciences & Engineering
+ - [https://en-scilib.tau.ac.il](https://en-scilib.tau.ac.il)
+ - date_published: 2024-10-20T01:23:43.188126+00:00
+
+ ## Faculty of Social Sciences
+ - [http://en-social-sciences.tau.ac.il](http://en-social-sciences.tau.ac.il)
+ - date_published: 2024-08-18T22:23:52+00:00
+
+ ## יזמות דף הבית
+ - [http://enter.tau.ac.il](http://enter.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## הפקולטה למדעים מדויקים
+ - [https://exact-sciences.m.tau.ac.il](https://exact-sciences.m.tau.ac.il)
+ - date_published: 2024-08-07T11:31:03+00:00
+
+ ## הפקולטה למדעים מדויקים
+ - [http://exact-sciences.tau.ac.il](http://exact-sciences.tau.ac.il)
+ - date_published: 2024-07-24T07:58:39.079052+00:00
+
+ ## התכנית הבין-תחומית לתלמידים מצטיינים
+ - [https://excellent.tau.ac.il](https://excellent.tau.ac.il)
+ - date_published: 2024-07-24T07:58:08.737051+00:00
+
+ ## כדאי לדעת
+ - [https://goodtoknow.tau.ac.il](https://goodtoknow.tau.ac.il)
+ - date_published: 2024-10-20T01:23:31.646767+00:00
+
+ ## דף הבית
+ - [https://go.tau.ac.il](https://go.tau.ac.il)
+ - date_published: 2024-07-24T07:58:13.056866+00:00
+
+ ## Green Campus
+ - [https://greencampus-en.tau.ac.il](https://greencampus-en.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## קמפוס ירוק
+ - [https://greencampus.tau.ac.il](https://greencampus.tau.ac.il)
+ - date_published: 2024-07-24T07:58:20.519857+00:00
+
+ ## קמפוס בטוח - מניעה וטיפול בהטרדה מינית
+ - [https://harassment-prevention.tau.ac.il](https://harassment-prevention.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## הזירה
+ - [https://hazira.tau.ac.il](https://hazira.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## מכון הרצג
+ - [https://herczeg-institute.tau.ac.il](https://herczeg-institute.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## צימבליסטה
+ - [http://heritage.tau.ac.il](http://heritage.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## הפקולטה למדעי הרוח
+ - [https://humanities.tau.ac.il](https://humanities.tau.ac.il)
+ - date_published: 2024-07-24T07:57:54.501850+00:00
+
+ ## cyber center
+ - [https://icrc.tau.ac.il](https://icrc.tau.ac.il)
+ - date_published: 2024-08-18T23:26:57+00:00
+
+ ## המרכז לקשרי תעשייה
+ - [https://ilc.tau.ac.il](https://ilc.tau.ac.il)
+ - date_published: 2024-08-07T14:27:05+00:00
+
+ ## קורסים משלבי עשייה
+ - [https://impact.tau.ac.il](https://impact.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## הדקאנט לחדשנות בהוראה ובלמידה
+ - [https://innovative-learning.tau.ac.il](https://innovative-learning.tau.ac.il)
+ - date_published: 2024-07-24T07:58:15.206717+00:00
+
+ ## TAU International
+ - [https://international.tau.ac.il](https://international.tau.ac.il)
+ - date_published: 2024-07-21T21:13:18+00:00
+
+ ## היחידה ללימודי שפות
+ - [http://languages.tau.ac.il](http://languages.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
  ## הפקולטה למשפטים ע"ש בוכמן
  - [https://law.tau.ac.il](https://law.tau.ac.il)
  - date_published: 2024-07-21T22:16:55+00:00
@@ -3533,488 +4018,4 @@ Indian Institute of Science, Bangalore
  ## Home
  - [https://crf.iitd.ac.in](https://crf.iitd.ac.in)
  - date_published: 2024-11-20T11:25:12+00:00
-
- ## CSC IIT DELHI
- - [http://csc.iitd.ac.in](http://csc.iitd.ac.in)
- - date_published: 2024-12-24T14:44:24.724815+00:00
-
- ## Department of Computer Science and Engineering, IIT Delhi
- - [https://cse.iitd.ac.in](https://cse.iitd.ac.in)
- - date_published: 2024-05-04T15:26:32.945675+00:00
-
- ## CS Theory @IITD
- - [https://cstheory.iitd.ac.in](https://cstheory.iitd.ac.in)
- - date_published: 2024-02-08T11:34:33+00:00
-
- ## Department of Energy Science and Engineering :: IIT Delhi
- - [https://dese.iitd.ac.in](https://dese.iitd.ac.in)
- - date_published: 2024-12-24T14:46:30.649184+00:00
-
- ## IIT Delhi Diamond Jubilee Year
- - [https://diamond.iitd.ac.in](https://diamond.iitd.ac.in)
- - date_published: 2024-12-24T14:50:42.566873+00:00
-
- ## Portal Selection :: Indian Institute of Technology Delhi
- - [https://ecampus.iitd.ac.in](https://ecampus.iitd.ac.in)
- - date_published: 2024-09-13T18:18:49.816436+00:00
-
- ## Department of Electrical Engineering :: IIT Delhi
- - [https://ee.iitd.ac.in](https://ee.iitd.ac.in)
- - date_published: 2024-12-24T14:48:29.921861+00:00
-
- ## Endowment:: IIT Delhi
- - [https://endowment.iitd.ac.in](https://endowment.iitd.ac.in)
- - date_published: 2024-12-24T14:59:15.319275+00:00
-
- ## Home Page : IIT Delhi
- - [https://home.iitd.ac.in](https://home.iitd.ac.in)
- - date_published: 2024-07-04T10:25:12.979845+00:00
-
- ## Home Page : IIT Delhi
- - [https://iitd.ac.in](https://iitd.ac.in)
- - date_published: 2024-06-22T09:14:52.689160+00:00
-
- ## Infrastructure Unit | Indian Institute of Technology Delhi
- - [https://infra.iitd.ac.in](https://infra.iitd.ac.in)
- - date_published: 2024-09-13T18:18:30+00:00
-
- ## IoE:: Indian Institute of Technology Delhi
- - [https://ioe.iitd.ac.in](https://ioe.iitd.ac.in)
- - date_published: 2024-12-24T14:47:59.790377+00:00
-
- ## JAM 2025 IIT Delhi Official Website
- - [https://jam2025.iitd.ac.in](https://jam2025.iitd.ac.in)
- - date_published: 2024-12-24T15:26:23.289113+00:00
-
- ## Department of Mechanical Engineering :: IIT Delhi
- - [https://mech.iitd.ac.in](https://mech.iitd.ac.in)
- - date_published: 2024-12-24T14:47:29.228633+00:00
-
- ## IIT Delhi Moodle for 2024-2025: Log in to the site
- - [https://moodle.iitd.ac.in](https://moodle.iitd.ac.in)
- - date_published: 2024-09-13T18:18:58.085473+00:00
-
- ## Department of Materials Science and Engineering :: IIT Delhi
- - [https://mse.iitd.ac.in](https://mse.iitd.ac.in)
- - date_published: 2024-12-24T14:49:24.620430+00:00
-
- ## NYCU & IITD
- - [https://nycu.iitd.ac.in](https://nycu.iitd.ac.in)
- - date_published: 2024-12-24T14:52:03.875413+00:00
-
- ## ODI IIT DELHI
- - [https://odi.iitd.ac.in](https://odi.iitd.ac.in)
- - date_published: 2024-12-24T14:46:44.827843+00:00
-
- ## PhD Programme@CSE/SIT
- - [https://phd.cse.iitd.ac.in](https://phd.cse.iitd.ac.in)
- - date_published: 2024-06-06T10:42:47+00:00
-
- ## Robotics Club | IITD
- - [https://roboticsclub.iitd.ac.in](https://roboticsclub.iitd.ac.in)
- - date_published: 2024-12-24T14:47:47.449068+00:00
-
- ## IITD Yardi ScAI
- - [https://scai.iitd.ac.in](https://scai.iitd.ac.in)
- - date_published: 2024-12-24T14:47:45.049604+00:00
-
- ## SeNSE :: IIT Delhi
- - [https://sense.iitd.ac.in](https://sense.iitd.ac.in)
- - date_published: 2024-12-24T14:59:19.834245+00:00
-
- ## SIRE IIT DELHI
- - [https://sire.iitd.ac.in](https://sire.iitd.ac.in)
- - date_published: 2024-12-24T14:48:13.553469+00:00
-
- ## Amar Nath and Shashi Khosla School of Information Technology :: IIT Delhi
- - [https://sit.iitd.ac.in](https://sit.iitd.ac.in)
- - date_published: 2024-12-24T14:49:00.428520+00:00
-
- ## School of Public Policy :: IIT Delhi
- - [https://spp.iitd.ac.in](https://spp.iitd.ac.in)
- - date_published: 2024-12-24T14:48:07.319463+00:00
-
- ## Student Affairs
- - [https://studentaffairs.iitd.ac.in](https://studentaffairs.iitd.ac.in)
- - date_published: 2024-09-09T06:11:16+00:00
-
- ## HPC-IITD
- - [https://supercomputing.iitd.ac.in](https://supercomputing.iitd.ac.in)
- - date_published: 2024-12-24T14:46:35.236185+00:00
-
- ## Department of Textile and Fibre Engineering :: IIT Delhi
- - [https://textile.iitd.ac.in](https://textile.iitd.ac.in)
- - date_published: 2024-12-24T14:48:58.730870+00:00
-
- ## TimeTable Website :: IIT Delhi
- - [http://timetable.iitd.ac.in](http://timetable.iitd.ac.in)
- - date_published: 2024-12-24T14:44:14.072000+00:00
-
- ## IIT Delhi - Login
- - [https://webmail.iitd.ac.in](https://webmail.iitd.ac.in)
- - date_published: 2024-09-13T18:21:07.267424+00:00
-
- ## EICT | IITG : Electronics and ICT Academy
- - [https://eict.iitg.ac.in](https://eict.iitg.ac.in)
- - date_published: 2024-12-24T15:06:32.077882+00:00
-
- ## Indian Institute of Technology Guwahati
- - [https://iitg.ac.in](https://iitg.ac.in)
- - date_published: 2024-07-10T05:44:29.239585+00:00
-
- ## Art@IITGN, IIT Gandhinagar
- - [https://art.iitgn.ac.in](https://art.iitgn.ac.in)
- - date_published: 2024-12-24T15:08:10.795435+00:00
-
- ## Archaeological Sciences Centre | IIT Gandhinagar
- - [https://asc.iitgn.ac.in](https://asc.iitgn.ac.in)
- - date_published: 2024-12-24T15:12:43.994508+00:00
-
- ## Campus | IIT Gandhinagar
- - [https://campus.iitgn.ac.in](https://campus.iitgn.ac.in)
- - date_published: 2024-03-14T12:08:02+00:00
-
- ## Home | Center For Creative Learning
- - [https://ccl.iitgn.ac.in](https://ccl.iitgn.ac.in)
- - date_published: 2024-12-24T15:07:20.500306+00:00
-
- ## Chemical Engineering | IIT Gandhinagar
- - [https://che.iitgn.ac.in](https://che.iitgn.ac.in)
- - date_published: 2024-12-24T15:11:07.681546+00:00
-
- ## IITGN-Earth Science
- - [https://es.iitgn.ac.in](https://es.iitgn.ac.in)
- - date_published: 2024-12-17T05:05:23+00:00
-
- ## IIT Gandhinagar | Home
- - [https://iitgn.ac.in](https://iitgn.ac.in)
- - date_published: 2024-09-11T17:46:47.956357+00:00
-
- ## IMS
- - [http://ims.iitgn.ac.in](http://ims.iitgn.ac.in)
- - date_published: 2024-09-02T12:18:30+00:00
-
- ## Library | IIT Gandhinagar
- - [https://library.iitgn.ac.in](https://library.iitgn.ac.in)
- - date_published: 2024-12-24T15:10:36.447876+00:00
-
- ## Mathematics | IIT Gandhinagar
- - [https://math.iitgn.ac.in](https://math.iitgn.ac.in)
- - date_published: 2024-12-24T15:10:13.566921+00:00
-
- ## Mechanical Engineering | IIT Gandhinagar
- - [https://me.iitgn.ac.in](https://me.iitgn.ac.in)
- - date_published: 2024-12-24T15:07:23.933801+00:00
-
- ## MSE | IITGN
- - [https://mse.iitgn.ac.in](https://mse.iitgn.ac.in)
- - date_published: 2024-12-24T15:11:05.163790+00:00
-
- ## Physics | IIT Gandhinagar
- - [https://physics.iitgn.ac.in](https://physics.iitgn.ac.in)
- - date_published: 2024-12-24T15:07:28.144571+00:00
-
- ## IIT Gandhinagar · Student Life
- - [https://students.iitgn.ac.in](https://students.iitgn.ac.in)
- - date_published: 2022-07-01T12:17:06+00:00
-
- ## CCE | Home | IIT Hyderabad
- - [https://cce.iith.ac.in](https://cce.iith.ac.in)
- - date_published: 2024-12-23T10:38:47+00:00
-
- ## Committee for Gender Concerns
- - [http://cgc.iith.ac.in](http://cgc.iith.ac.in)
- - date_published: 2024-12-24T15:13:29.003904+00:00
-
- ## EBSB IITH
- - [https://ebsb.iith.ac.in](https://ebsb.iith.ac.in)
- - date_published: 2024-11-18T16:31:02+00:00
-
- ## Giving to IIT Hyderabad | Alumni Support
- - [https://giving.iith.ac.in](https://giving.iith.ac.in)
- - date_published: 2024-12-24T15:14:13.928482+00:00
-
- ## Home
- - [https://hospital.iith.ac.in](https://hospital.iith.ac.in)
- - date_published: 2024-12-24T15:13:44.934881+00:00
-
- ## HCU
- - [http://hostel.iith.ac.in](http://hostel.iith.ac.in)
- - date_published: 2024-12-24T15:14:15.792116+00:00
-
- ## Home
- - [https://iith.ac.in](https://iith.ac.in)
- - date_published: 2024-06-22T12:51:03+00:00
-
- ## Library Home
- - [https://library.iith.ac.in](https://library.iith.ac.in)
- - date_published: 2024-12-02T15:06:38+00:00
-
- ## Office of Career Services - IITH
- - [https://ocs.iith.ac.in](https://ocs.iith.ac.in)
- - date_published: 2024-11-28T15:43:43+00:00
-
- ## Discover cutting-edge research at IIT Hyderabad
- - [https://research.iith.ac.in](https://research.iith.ac.in)
- - date_published: 2024-12-24T15:13:39.749143+00:00
-
- ## Sunshine
- - [https://sunshine.iith.ac.in](https://sunshine.iith.ac.in)
- - date_published: 2024-12-24T15:13:33.972624+00:00
-
- ## IITI DRISHTI CPS Foundation | Technology Innovation HUB
- - [http://drishticps.iiti.ac.in](http://drishticps.iiti.ac.in)
- - date_published: 2024-12-24T15:14:57.002806+00:00
-
- ## EBSB| IIT Indore
- - [http://ebsb.iiti.ac.in](http://ebsb.iiti.ac.in)
- - date_published: 2024-02-13T06:17:20+00:00
-
- ## Infrastructure Development Office | IIT Indore
- - [https://ido.iiti.ac.in](https://ido.iiti.ac.in)
- - date_published: 2024-12-24T15:15:20.379794+00:00
-
- ## IIT Indore, भारतीय प्रौद्योगिकी संस्थान इंदौर
- - [https://iiti.ac.in](https://iiti.ac.in)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## INTER IIT SPORTS MEET
- - [https://interiit2024.iiti.ac.in](https://interiit2024.iiti.ac.in)
- - date_published: 2024-12-24T15:14:53.835712+00:00
-
- ## International Relations | IIT Indore
- - [http://ir.iiti.ac.in](http://ir.iiti.ac.in)
- - date_published: 2024-12-01T18:32:35+00:00
-
- ## CSE IIT Jodhpur
- - [http://cse.iitj.ac.in](http://cse.iitj.ac.in)
- - date_published: 2024-12-24T15:16:43+00:00
-
- ## IITJ-Indian Institute of Technology Jodhpur
- - [http://home.iitj.ac.in](http://home.iitj.ac.in)
- - date_published: 2024-08-07T15:23:59.300389+00:00
-
- ## IITJ-Indian Institute of Technology Jodhpur
- - [https://iitj.ac.in](https://iitj.ac.in)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## S.R. Ranganathan Learning Hub, IIT Jodhpur
- - [http://library.iitj.ac.in](http://library.iitj.ac.in)
- - date_published: 2024-12-16T09:19:25+00:00
-
- ## MME IIT Jodhpur
- - [https://mme.iitj.ac.in](https://mme.iitj.ac.in)
- - date_published: 2024-12-24T15:21:28.129971+00:00
-
- ## Rishabh Centre for Research and Innovation in Clean Energy – Rishabh Centre for Research and Innovation in Clean Energy
- - [https://rishabh-clean-energy.iitj.ac.in](https://rishabh-clean-energy.iitj.ac.in)
- - date_published: 2024-12-24T15:16:56.147100+00:00
-
- ## Office of Training and Placement, IIT Jodhpur
- - [http://spc.iitj.ac.in](http://spc.iitj.ac.in)
- - date_published: 2024-12-06T14:39:42+00:00
-
- ## Student Wellbeing Committee - IIT Jodhpur
- - [http://swc.iitj.ac.in](http://swc.iitj.ac.in)
- - date_published: 2024-12-24T15:17:21.864140+00:00
-
- ## IIT Jammu
- - [https://www.iitjammu.ac.in](https://www.iitjammu.ac.in)
- - date_published: 2024-12-18T06:42:12+00:00
-
- ## National Blockchain Project
- - [https://blockchain.cse.iitk.ac.in](https://blockchain.cse.iitk.ac.in)
- - date_published: 2023-05-29T08:25:41+00:00
-
- ## CER - Centre for Energy Regulation
- - [https://cer.iitk.ac.in](https://cer.iitk.ac.in)
- - date_published: 2024-12-24T15:25:47.595540+00:00
-
- ## CSE - IIT Kanpur
- - [https://cse.iitk.ac.in](https://cse.iitk.ac.in)
- - date_published: 2024-06-20T09:19:18+00:00
-
- ## IIT Kanpur Masters Degree: Learn from the Best, Excel in Your Career
- - [https://emasters.iitk.ac.in](https://emasters.iitk.ac.in)
- - date_published: 2024-12-16T14:23:37.032462+00:00
-
- ## GATE-JAM | IIT Kanpur
- - [https://gate.iitk.ac.in](https://gate.iitk.ac.in)
- - date_published: 2024-12-24T18:42:24.619807+00:00
-
- ## IIT Kanpur
- - [https://iitk.ac.in](https://iitk.ac.in)
- - date_published: 2024-12-24T15:22:50.263393+00:00
-
- ## GATE-JAM | IIT Kanpur
- - [https://jam.iitk.ac.in](https://jam.iitk.ac.in)
- - date_published: 2024-12-24T15:22:05.096383+00:00
-
- ## IITK-LTURA | Home
- - [https://ra-latrobe.iitk.ac.in](https://ra-latrobe.iitk.ac.in)
- - date_published: 2024-12-24T15:26:19.497329+00:00
-
- ## Students' Placement Office, IIT Kanpur
- - [https://spo.iitk.ac.in](https://spo.iitk.ac.in)
- - date_published: 2024-12-24T15:26:41.991697+00:00
-
- ## IIT Kanpur
- - [https://www.iitk.ac.in](https://www.iitk.ac.in)
- - date_published: 2024-06-22T10:00:29.156567+00:00
-
- ## NDLI Club
- - [https://club.ndl.iitkgp.ac.in](https://club.ndl.iitkgp.ac.in)
- - date_published: 2022-09-16T16:14:31+00:00
-
- ## GATE 2022 Official Site
- - [https://gate.iitkgp.ac.in](https://gate.iitkgp.ac.in)
- - date_published: 2024-07-20T08:07:00+00:00
-
- ## Global Initiative of Academic Networks GIAN)
- - [https://gian.iitkgp.ac.in](https://gian.iitkgp.ac.in)
- - date_published: 2024-12-24T12:53:47.909550+00:00
-
- ## National Digital Library of India (NDLI)
- - [https://ndl.iitkgp.ac.in](https://ndl.iitkgp.ac.in)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Indian Institute of Technology Kharagpur | IIT KGP
- - [https://www.iitkgp.ac.in](https://www.iitkgp.ac.in)
- - date_published: 2024-12-24T15:27:51.870833+00:00
-
- ## Office of Alumni & Corporate Relations
- - [https://acr.iitm.ac.in](https://acr.iitm.ac.in)
- - date_published: 2024-10-15T14:07:50.353555+00:00
-
- ## Centre for Responsible AI
- - [https://cerai.iitm.ac.in](https://cerai.iitm.ac.in)
- - date_published: 2024-08-06T11:00:25+00:00
-
- ## Code
- - [https://code.iitm.ac.in](https://code.iitm.ac.in)
- - date_published: 2024-10-15T14:00:33+00:00
-
- ## IIT Courses
- - [https://courses.iitm.ac.in](https://courses.iitm.ac.in)
- - date_published: 2024-12-24T15:34:19+00:00
-
- ## Cryo-EM
- - [https://cryoem.iitm.ac.in](https://cryoem.iitm.ac.in)
- - date_published: 2024-06-16T23:35:29.012980+00:00
-
- ## Department of Computer Science & Engineering
- - [https://cse.iitm.ac.in](https://cse.iitm.ac.in)
- - date_published: 2024-07-04T10:25:16.234812+00:00
-
- ## Wadhwani School of Data Science & AI
- - [https://dsai.iitm.ac.in](https://dsai.iitm.ac.in)
- - date_published: 2024-06-16T23:35:12.043525+00:00
-
- ## Department of Engineering Design, Indian Institute of Technology Madras
- - [https://ed.iitm.ac.in](https://ed.iitm.ac.in)
- - date_published: 2024-05-01T08:17:12.179261+00:00
-
- ## Equipment Reservation System, IIT Madras
- - [https://ers.iitm.ac.in](https://ers.iitm.ac.in)
- - date_published: 2024-10-15T14:13:50.093266+00:00
-
- ## Faculty Recruitment Portal
- - [https://facapp.iitm.ac.in](https://facapp.iitm.ac.in)
- - date_published: 2024-04-08T05:18:41+00:00
-
- ## Office of Global Engagement | IITM
- - [https://ge.iitm.ac.in](https://ge.iitm.ac.in)
- - date_published: 2024-06-16T23:35:16.062248+00:00
-
- ## Office of Industrial Consultancy and Sponsored Research, Indian Institute of Technology Madras
- - [https://icandsr.iitm.ac.in](https://icandsr.iitm.ac.in)
- - date_published: 2024-12-24T15:33:44.679058+00:00
-
- ## Centre for Industrial Consultancy Portals
- - [https://icsrpis.iitm.ac.in](https://icsrpis.iitm.ac.in)
- - date_published: 2024-07-25T11:47:10+00:00
-
- ## IOE-IITM Research Initatives
- - [https://ioe.iitm.ac.in](https://ioe.iitm.ac.in)
- - date_published: 2023-12-01T11:16:58+00:00
-
- ## Endowment Fund Raising | Joy of Giving | Fund on Research Projects
- - [https://joyofgiving.alumni.iitm.ac.in](https://joyofgiving.alumni.iitm.ac.in)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Department of Medical Sciences & Technology, Indian Institute of Technology Madras | Bringing Engineering to Life
- - [https://mst.iitm.ac.in](https://mst.iitm.ac.in)
- - date_published: 2024-06-16T23:35:37.522060+00:00
-
- ## Placement
- - [http://placement.iitm.ac.in](http://placement.iitm.ac.in)
- - date_published: 2024-12-24T15:34:12.793486+00:00
-
- ## Home | Robert Bosch Centre for Data Science and Artificial Intelligence
- - [https://rbcdsai.iitm.ac.in](https://rbcdsai.iitm.ac.in)
- - date_published: 2024-12-24T07:01:21+00:00
-
- ## Home | IIT Madras Research Park
- - [http://respark.iitm.ac.in](http://respark.iitm.ac.in)
- - date_published: 2024-12-24T15:34:32.923006+00:00
-
- ## Women's forum
- - [https://womensforum.iitm.ac.in](https://womensforum.iitm.ac.in)
- - date_published: 2024-06-16T23:35:20.838395+00:00
-
- ## Wadhwani School of Data Science & AI
- - [https://wsai.iitm.ac.in](https://wsai.iitm.ac.in)
- - date_published: 2024-10-15T14:07:59.696009+00:00
-
- ## IITM-Department of Aerospace Engineering
- - [http://www.ae.iitm.ac.in](http://www.ae.iitm.ac.in)
- - date_published: 2024-10-23T11:20:26+00:00
-
- ## Indian Institute of Technology Madras
- - [https://www.iitm.ac.in](https://www.iitm.ac.in)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## IIT Madras Zanzibar Campus | Empower Your Future with IIT
- - [https://zanzibar.iitm.ac.in](https://zanzibar.iitm.ac.in)
- - date_published: 2024-12-24T15:42:02.200511+00:00
-
- ## Ph.D. Joint Degree Programme (JDP)
- - [https://alliance.iitmandi.ac.in](https://alliance.iitmandi.ac.in)
- - date_published: 2024-12-24T15:37:55.179257+00:00
-
- ## CCE-IIT Mandi
- - [https://cce.iitmandi.ac.in](https://cce.iitmandi.ac.in)
- - date_published: 2024-12-24T15:37:53.562688+00:00
-
- ## CHCI - Centre for Human, Computer Interaction.
- - [https://chci.iitmandi.ac.in](https://chci.iitmandi.ac.in)
- - date_published: 2024-12-24T15:35:09.165369+00:00
-
- ## Digital and Computing Services - IIT Mandi
- - [https://dcs.iitmandi.ac.in](https://dcs.iitmandi.ac.in)
- - date_published: 2024-12-24T15:40:28.944500+00:00
-
- ## Indian Institute of Technology Mandi
- - [https://iitmandi.ac.in](https://iitmandi.ac.in)
- - date_published: 2024-09-11T17:48:39.811147+00:00
-
- ## IKSMHA | IIT Mandi
- - [https://iksmha.iitmandi.ac.in](https://iksmha.iitmandi.ac.in)
- - date_published: 2024-12-24T15:35:18.027840+00:00
-
- ## LMS IIT Mandi
- - [https://lms.iitmandi.ac.in](https://lms.iitmandi.ac.in)
- - date_published: 2024-12-24T15:39:15+00:00
-
- ## IIT Madras Zanzibar Campus | Empower Your Future with IIT
- - [https://iitmz.ac.in](https://iitmz.ac.in)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Home
- - [https://academics.iitp.ac.in](https://academics.iitp.ac.in)
- - date_published: 2024-12-24T15:41:36+00:00
-
- ## COE IIT Patna
- - [https://coe.iitp.ac.in](https://coe.iitp.ac.in)
- - date_published: 2024-12-24T15:43:30.260458+00:00
 

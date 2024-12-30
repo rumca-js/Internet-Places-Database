@@ -1,3 +1,171 @@
+ ## Subscribe to Giant in the Playground on Gumroad
+ - [https://richburlew.gumroad.com](https://richburlew.gumroad.com)
+ - date_published: 2024-06-30T02:03:14.166623+00:00
+
+ ## Subscribe to PowerMinutes on Gumroad
+ - [https://roadmaptoyourdream.gumroad.com](https://roadmaptoyourdream.gumroad.com)
+ - date_published: 2024-09-16T07:17:11.864823+00:00
+
+ ## Roger Swannell
+ - [https://rogerswannell.gumroad.com](https://rogerswannell.gumroad.com)
+ - date_published: 2023-10-16T00:00:00+00:00
+
+ ## Subscribe to rubgape on Gumroad
+ - [https://rubgape.gumroad.com](https://rubgape.gumroad.com)
+ - date_published: 2024-07-07T07:35:54.952393+00:00
+
+ ## Sam and Fuzzy Digital Swagorarium
+ - [http://samandfuzzy.gumroad.com](http://samandfuzzy.gumroad.com)
+ - date_published: 2024-12-27T20:35:00.396011+00:00
+
+ ## Subscribe to John Allison on Gumroad
+ - [https://scarygoround.gumroad.com](https://scarygoround.gumroad.com)
+ - date_published: 2024-05-13T03:17:44.775748+00:00
+
+ ## Scott Nesbitt
+ - [https://scottnesbitt.gumroad.com](https://scottnesbitt.gumroad.com)
+ - date_published: 2024-05-10T06:18:11.962943+00:00
+
+ ## Max
+ - [https://shottr.gumroad.com](https://shottr.gumroad.com)
+ - date_published: 2024-06-23T07:03:13.665376+00:00
+
+ ## Subscribe to Shruti Balasa on Gumroad
+ - [https://shrutibalasa.gumroad.com](https://shrutibalasa.gumroad.com)
+ - date_published: 2024-06-23T14:22:51.261440+00:00
+
+ ## Subscribe to Siakula on Gumroad
+ - [https://siakula.gumroad.com](https://siakula.gumroad.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## SILENT COMICS
+ - [https://silentcomics.gumroad.com](https://silentcomics.gumroad.com)
+ - date_published: 2024-05-10T06:27:39.217858+00:00
+
+ ## simonschreibt
+ - [https://simonschreibt.gumroad.com](https://simonschreibt.gumroad.com)
+ - date_published: 2024-04-29T06:44:37.289045+00:00
+
+ ## Subscribe to Nat Bennett
+ - [https://simplermachines.gumroad.com](https://simplermachines.gumroad.com)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Subscribe to Simply Superior on Gumroad
+ - [https://simplysuperior.gumroad.com](https://simplysuperior.gumroad.com)
+ - date_published: 2024-12-27T01:08:27.050276+00:00
+
+ ## Subscribe to SKIENTIA on Gumroad
+ - [https://skientia.gumroad.com](https://skientia.gumroad.com)
+ - date_published: 2024-06-11T17:51:47.126798+00:00
+
+ ## Subscribe to SkullForge Studios  on Gumroad
+ - [https://skullforgestudios.gumroad.com](https://skullforgestudios.gumroad.com)
+ - date_published: 2024-10-26T18:20:01.747574+00:00
+
+ ## Jelle Smeets
+ - [https://smeetsmeister.gumroad.com](https://smeetsmeister.gumroad.com)
+ - date_published: 2024-07-14T09:09:32.823200+00:00
+
+ ## Subscribe to Snowdrop.design on Gumroad
+ - [https://snowdropdesign.gumroad.com](https://snowdropdesign.gumroad.com)
+ - date_published: 2024-07-09T19:02:08.185161+00:00
+
+ ## Rafal Pastuszak · Sonnet
+ - [https://sonnet.gumroad.com](https://sonnet.gumroad.com)
+ - date_published: 2024-06-22T22:32:23.716449+00:00
+
+ ## Startupvisors
+ - [https://startupvisors.gumroad.com](https://startupvisors.gumroad.com)
+ - date_published: 2024-06-19T21:36:15.522387+00:00
+
+ ## Stephen Ajulu
+ - [https://stephenajulu.gumroad.com](https://stephenajulu.gumroad.com)
+ - date_published: 2024-07-02T19:32:09.645736+00:00
+
+ ## Subscribe to Steph Smith on Gumroad
+ - [https://stephsmithio.gumroad.com](https://stephsmithio.gumroad.com)
+ - date_published: 2024-06-22T22:47:24.828107+00:00
+
+ ## Steve Chepp
+ - [https://stevechepp.gumroad.com](https://stevechepp.gumroad.com)
+ - date_published: 2024-06-18T16:14:10.273512+00:00
+
+ ## Tabletop Terrain
+ - [https://tabletopterrain.gumroad.com](https://tabletopterrain.gumroad.com)
+ - date_published: 2024-12-16T10:55:16.540592+00:00
+
+ ## Tailus UI
+ - [https://tailus.gumroad.com](https://tailus.gumroad.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Takis Athanassiou
+ - [https://takis.gumroad.com](https://takis.gumroad.com)
+ - date_published: 2024-05-10T06:25:47.324257+00:00
+
+ ## Subscribe to Tatyworks on Gumroad
+ - [https://tatyworks.gumroad.com](https://tatyworks.gumroad.com)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Nithin 🦹‍♂️
+ - [https://thebinarybot.gumroad.com](https://thebinarybot.gumroad.com)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Subscribe to The Phoblographer on Gumroad
+ - [https://thephoblographer.gumroad.com](https://thephoblographer.gumroad.com)
+ - date_published: 2024-06-28T17:11:56.419371+00:00
+
+ ## Subscribe to The Psychedelic Blog on Gumroad
+ - [https://thepsychedelicblog.gumroad.com](https://thepsychedelicblog.gumroad.com)
+ - date_published: 2024-05-13T02:44:44.309963+00:00
+
+ ## Subscribe to Thomas Palef on Gumroad
+ - [https://thomaspalef.gumroad.com](https://thomaspalef.gumroad.com)
+ - date_published: 2024-09-04T07:51:13.925888+00:00
+
+ ## Subscribe to totempole666 on Gumroad
+ - [https://totempole666.gumroad.com](https://totempole666.gumroad.com)
+ - date_published: 2024-07-17T13:20:00.057167+00:00
+
+ ## Trevor Flowers at Transmutable
+ - [https://transmutable.gumroad.com](https://transmutable.gumroad.com)
+ - date_published: 2023-10-25T14:53:01.739690+00:00
+
+ ## Subscribe to Trident Miniatures on Gumroad
+ - [https://tridentstudio.gumroad.com](https://tridentstudio.gumroad.com)
+ - date_published: 2024-09-13T19:40:59.851922+00:00
+
+ ## Subscribe to Triple Cord Productions on Gumroad
+ - [https://triplecordproduction.gumroad.com](https://triplecordproduction.gumroad.com)
+ - date_published: 2024-07-17T05:41:15.847532+00:00
+
+ ## Panos
+ - [https://tsamoudakis.gumroad.com](https://tsamoudakis.gumroad.com)
+ - date_published: 2024-12-12T06:25:07.817595+00:00
+
+ ## Machato
+ - [https://untimelyunicorn.gumroad.com](https://untimelyunicorn.gumroad.com)
+ - date_published: 2023-10-25T14:53:02.889118+00:00
+
+ ## Subscribe to Utku Sen on Gumroad
+ - [https://utkusen.gumroad.com](https://utkusen.gumroad.com)
+ - date_published: 2024-07-13T14:13:24.138143+00:00
+
+ ## Very Little Gravitas
+ - [https://verylittlegravitas.gumroad.com](https://verylittlegravitas.gumroad.com)
+ - date_published: 2024-05-01T03:57:56.510303+00:00
+
+ ## Subscribe to Victoria Kurichenko on Gumroad
+ - [https://victoriakurichenko.gumroad.com](https://victoriakurichenko.gumroad.com)
+ - date_published: 2024-09-15T19:38:38.996883+00:00
+
+ ## Subscribe to Vive Virtual on Gumroad
+ - [https://vivevirtual.gumroad.com](https://vivevirtual.gumroad.com)
+ - date_published: 2024-10-30T23:15:16.114928+00:00
+
+ ## Subscribe to VoidStar Security LLC
+ - [https://voidmalt.gumroad.com](https://voidmalt.gumroad.com)
+ - date_published: 2024-06-29T14:04:49.519325+00:00
+
  ## Subscribe to webdevcody@gmail.com
  - [https://webdevcody.gumroad.com](https://webdevcody.gumroad.com)
  - date_published: 2024-12-28T06:18:56.197048+00:00
@@ -3872,173 +4040,4 @@
  ## happy potato
  - [https://www.happypotato.com](https://www.happypotato.com)
  - date_published: 2024-07-13T12:51:49.148816+00:00
-
- ## Returns
- - [https://eloquii-returns.happyreturns.com](https://eloquii-returns.happyreturns.com)
- - date_published: 2024-09-26T18:22:01.037092+00:00
-
- ## Returns
- - [https://filsonunfailing.happyreturns.com](https://filsonunfailing.happyreturns.com)
- - date_published: 2024-06-19T09:45:58.057408+00:00
-
- ## Returns software and reverse logistics for  e-commerce merchants
- - [https://happyreturns.com](https://happyreturns.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## HappyReturns Locations
- - [https://locations.happyreturns.com](https://locations.happyreturns.com)
- - date_published: 2024-10-10T19:53:36.687780+00:00
-
- ## Returns
- - [https://mypillow.happyreturns.com](https://mypillow.happyreturns.com)
- - date_published: 2024-07-03T18:59:13.016406+00:00
-
- ## Find the right Happy Returns Agency
- - [https://partners.happyreturns.com](https://partners.happyreturns.com)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Returns software and reverse logistics for  e-commerce merchants
- - [https://retailers.happyreturns.com](https://retailers.happyreturns.com)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## Happy Returns - Privacy Policy
- - [https://www.privacypolicy.happyreturns.com](https://www.privacypolicy.happyreturns.com)
- - date_published: 2024-10-10T19:54:32.669047+00:00
-
- ## Happy Scale - Tame the Scale!
- - [http://happyscale.com](http://happyscale.com)
- - date_published: 2024-07-10T08:11:25.919428+00:00
-
- ## Happy Scribe: Audio Transcription & Video Subtitles
- - [https://happyscribe.com](https://happyscribe.com)
- - date_published: 2024-05-11T11:33:43.818247+00:00
-
- ## Happy Scribe Help Center
- - [https://help.happyscribe.com](https://help.happyscribe.com)
- - date_published: 2024-07-14T15:02:59.379687+00:00
-
- ## Happy Scribe Status
- - [https://status.happyscribe.com](https://status.happyscribe.com)
- - date_published: 2024-07-14T15:03:01.266568+00:00
-
- ## Home
- - [https://www.happysperm.com](https://www.happysperm.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## HappySprout | Every gardener's happy place
- - [https://happysprout.com](https://happysprout.com)
- - date_published: 2024-06-16T01:17:24.755202+00:00
-
- ## HappyTezos | Tezos Baker | Tezos Delegation Service
- - [https://www.happytezos.com](https://www.happytezos.com)
- - date_published: 2024-09-25T13:06:50.291207+00:00
-
- ## Happy To Translate | Effectively engage with customers who speak little or no English
- - [http://www.happytotranslate.com](http://www.happytotranslate.com)
- - date_published: 2024-07-02T22:45:25.420221+00:00
-
- ## Happy Up Inc | Clayton, MO & Edwardsville, IL | Toys & Games for All
- - [https://shop.happyupinc.com](https://shop.happyupinc.com)
- - date_published: 2024-06-17T09:59:44.732203+00:00
-
- ## Home | Happy Up Inc.
- - [https://www.happyupinc.com](https://www.happyupinc.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## HAProxy Technologies | World's Fastest Load Balancer
- - [https://cdn.haproxy.com](https://cdn.haproxy.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## HAProxy Technologies | World's Fastest Load Balancer
- - [https://haproxy.com](https://haproxy.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Loading...
- - [https://my.haproxy.com](https://my.haproxy.com)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Haptic Gloves G1 - Gloves for virtual reality and robotics | HaptX
- - [https://haptx.com](https://haptx.com)
- - date_published: 2023-11-27T16:15:21+00:00
- - tags: ['virtual reality']
-
- ## HaptX Customer Support
- - [https://support.haptx.com](https://support.haptx.com)
- - date_published: 2024-07-19T21:57:24+00:00
-
- ## Be Hapyyr - A Fediverse Server
- - [https://hapyyr.com](https://hapyyr.com)
- - date_published: 2024-12-14T05:48:24.696740+00:00
-
- ## Haradev Ntity Explorer
- - [https://blockscout.haradev.com](https://blockscout.haradev.com)
- - date_published: 2024-09-23T23:58:10.360199+00:00
-
- ## harald koeck
- - [http://www.harald-koeck.com](http://www.harald-koeck.com)
- - date_published: 2023-05-17T02:44:30+00:00
-
- ## Haraldur Thorleifsson
- - [https://haraldurthorleifsson.com](https://haraldurthorleifsson.com)
- - date_published: 2024-10-28T03:03:59.349467+00:00
-
- ## Sarah Ahn – St. Louis based designer with a focus on UX design and studio arts
- - [https://haramahn.com](https://haramahn.com)
- - date_published: 2024-01-31T21:02:26.008394+00:00
-
- ## Haranga – Haranga Resources
- - [https://haranga.com](https://haranga.com)
- - date_published: 2024-09-16T22:00:00.671598+00:00
-
- ## 🇦🇿 Haranı aldıq? - 🗺️ Canlı xəritə
- - [https://haranialdiq.com](https://haranialdiq.com)
- - date_published: 2024-08-11T11:09:34.389956+00:00
-
- ## The Harberger Tax
- - [https://harbergertax.com](https://harbergertax.com)
- - date_published: 2024-04-28T04:55:19.448742+00:00
-
- ## Home - Harbes Family Farm
- - [https://harbesfamilyfarm.com](https://harbesfamilyfarm.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Home - The Harbor Entrepreneur Center
- - [https://harborec.com](https://harborec.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home - Harbor Light Brewing
- - [https://harborlightbrewing.com](https://harborlightbrewing.com)
- - date_published: 2024-06-15T11:01:54.652794+00:00
-
- ## Harbor Lockers
- - [https://community.harborlockers.com](https://community.harborlockers.com)
- - date_published: 2024-06-27T13:19:51.436201+00:00
-
- ## Harbor Console
- - [https://console.sandbox.harborlockers.com](https://console.sandbox.harborlockers.com)
- - date_published: 2024-03-07T11:37:57+00:00
-
- ## Welcome to Harbor Documentation! — harbor-docs  documentation
- - [https://docs.harborlockers.com](https://docs.harborlockers.com)
- - date_published: 2024-06-24T19:49:23+00:00
-
- ## Harbor Lockers
- - [https://harborlockers.com](https://harborlockers.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Harborlockers
- - [https://status.harborlockers.com](https://status.harborlockers.com)
- - date_published: 2024-06-27T13:19:52.940758+00:00
-
- ## Harbor Lockers
- - [https://store.harborlockers.com](https://store.harborlockers.com)
- - date_published: 2024-06-27T13:19:58.988274+00:00
-
- ## Harbor Review
- - [https://www.harbor-review.com](https://www.harbor-review.com)
- - date_published: 2024-09-14T23:46:08.224111+00:00
-
- ## Harbor Type | Fonts made in Brazil
- - [https://www.harbortype.com](https://www.harbortype.com)
- - date_published: 2024-10-29T14:02:53.531333+00:00
 

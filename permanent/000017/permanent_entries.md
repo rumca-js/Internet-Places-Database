@@ -1,3 +1,55 @@
+ ## Portal da PUCRS
+ - [https://www.pucrs.br](https://www.pucrs.br)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Rede-Rio | Rede Acadêmica do Rio de Janeiro
+ - [https://rederio.br](https://rederio.br)
+ - date_published: 2024-07-07T06:42:03.092211+00:00
+
+ ## Registro.br
+ - [https://registro.br](https://registro.br)
+ - date_published: 2024-05-01T06:42:03.573779+00:00
+
+ ## Home • Escola Superior de Redes
+ - [https://esr.rnp.br](https://esr.rnp.br)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## RNP - Início
+ - [http://rnp.br](http://rnp.br)
+ - date_published: 2024-09-18T19:02:49+00:00
+
+ ## PoP-RS
+ - [https://www.pop-rs.rnp.br](https://www.pop-rs.rnp.br)
+ - date_published: 2024-06-15T17:37:44.884605+00:00
+
+ ## Simepar
+ - [http://simepar.br](http://simepar.br)
+ - date_published: 2019-04-07T04:52:17+00:00
+
+ ## Softex
+ - [https://ftp.softex.br](https://ftp.softex.br)
+ - date_published: 2019-03-20T14:08:27+00:00
+
+ ## Página Inicial
+ - [http://cert-rs.tche.br](http://cert-rs.tche.br)
+ - date_published: 2024-06-15T17:37:40+00:00
+
+ ## Documento sem título
+ - [https://gtrh.tche.br](https://gtrh.tche.br)
+ - date_published: 2005-01-05T13:22:24+00:00
+
+ ## Rede Tchê
+ - [https://www2.tche.br](https://www2.tche.br)
+ - date_published: 2024-09-18T20:10:42.892933+00:00
+
+ ## Universidade de Caxias do Sul - UCS
+ - [http://www.ucs.br](http://www.ucs.br)
+ - date_published: 2024-12-24T09:38:31.963535+00:00
+
+ ## Home
+ - [https://www.uema.br](https://www.uema.br)
+ - date_published: 2024-09-11T16:29:00.846537+00:00
+
  ## UEMAnet | Site do Núcleo de Tecnologias para Educação
  - [http://www.uemanet.uema.br](http://www.uemanet.uema.br)
  - date_published: 2024-09-11T16:28:53.366554+00:00
@@ -3959,56 +4011,4 @@ Educação
  ## Soluções Santander para você. Abrir conta corrente, pedir cartão de crédito, solicitar empréstimo e mais.
  - [https://santander.com.br](https://santander.com.br)
  - date_published: 2024-06-14T15:56:47+00:00
-
- ## Pessoa física
- - [https://santanderassetmanagement.com.br](https://santanderassetmanagement.com.br)
- - date_published: 2024-09-29T20:18:56.320164+00:00
-
- ## Portal Financiamento
- - [https://www.cliente.santanderfinanciamentos.com.br](https://www.cliente.santanderfinanciamentos.com.br)
- - date_published: 2024-05-27T21:44:33+00:00
-
- ## Página Inicial - Santander: Portal de Imprensa
- - [https://santanderimprensa.com.br](https://santanderimprensa.com.br)
- - date_published: 2024-06-16T09:15:49.479703+00:00
-
- ## Programa Avançar Santander: Conteúdos exclusivos para o empreendedor
- - [https://santandernegocioseempresas.com.br](https://santandernegocioseempresas.com.br)
- - date_published: 2024-06-16T09:16:23.819379+00:00
-
- ## Internet Banking
- - [https://www.santandernetibe.com.br](https://www.santandernetibe.com.br)
- - date_published: 2024-06-16T09:15:50.970917+00:00
-
- ## Santillana
- - [https://santillana.com.br](https://santillana.com.br)
- - date_published: 2024-06-12T13:06:22.843415+00:00
-
- ## SUSTENTABILIDADE SANTILLANA
- - [https://sustentabilidade.santillana.com.br](https://sustentabilidade.santillana.com.br)
- - date_published: 2024-09-10T05:46:05+00:00
-
- ## Training Platform
- - [https://formacoes.santillanaeducacao.com.br](https://formacoes.santillanaeducacao.com.br)
- - date_published: 2024-09-13T10:27:49.620573+00:00
-
- ## Santillana Educação - Soluções que transformam a sua escola
- - [https://www.santillanaeducacao.com.br](https://www.santillanaeducacao.com.br)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Portal Santillana
- - [https://santillanaespanol.com.br](https://santillanaespanol.com.br)
- - date_published: 2024-06-12T13:04:16.037536+00:00
-
- ## Sapient AG2 | Consultoria de Customer Experience
- - [https://sapientag2.com.br](https://sapientag2.com.br)
- - date_published: 2024-04-11T14:41:21+00:00
-
- ## Seja Vegano
- - [http://www.sejavegano.com.br](http://www.sejavegano.com.br)
- - date_published: 2023-05-26T14:11:58+00:00
-
- ## Sempre um Papo | 2024 | Ano 38
- - [http://www.sempreumpapo.com.br](http://www.sempreumpapo.com.br)
- - date_published: 2024-12-20T10:13:05.977511+00:00
 

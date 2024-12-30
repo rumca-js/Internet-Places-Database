@@ -1,3 +1,35 @@
+ ## Your best source of stimulating Poppers | Poppers-Shop.at
+ - [http://www.poppers-shop.at](http://www.poppers-shop.at)
+ - date_published: 2024-11-16T20:59:57.585879+00:00
+
+ ## Porsche Shop
+ - [https://e-shop.porsche.at](https://e-shop.porsche.at)
+ - date_published: 2024-06-28T19:28:05.112788+00:00
+
+ ## Porsche Österreich
+ - [https://porsche.at](https://porsche.at)
+ - date_published: 2024-05-06T23:42:42.808368+00:00
+
+ ## Willkommen - Porsche Club Verband Österreich
+ - [http://porsche-club-verband.at](http://porsche-club-verband.at)
+ - date_published: 2024-06-28T19:28:11+00:00
+
+ ## Post AG - PostAG
+ - [https://www.post.at](https://www.post.at)
+ - date_published: 2024-06-25T22:51:38.809616+00:00
+
+ ## Postbus
+ - [https://www.postbus.at](https://www.postbus.at)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Postgraduate Center
+ - [http://www.postgraduatecenter.at](http://www.postgraduatecenter.at)
+ - date_published: 2024-10-14T23:57:31.524274+00:00
+
+ ## IT-Schulungen in Voll- und Teilzeit | Online und Präsenz
+ - [https://ppedv.at](https://ppedv.at)
+ - date_published: 2024-07-20T22:11:03.288348+00:00
+
  ## Institut Suchtprävention: Wir bieten das Wissen zum Tun.
  - [https://www.praevention.at](https://www.praevention.at)
  - date_published: 2024-07-18T08:12:42.784629+00:00
@@ -903,6 +935,10 @@
  ## Viertelfestival Startseite 2024 - Viertelfestival Niederösterreich
  - [https://viertelfestival-noe.at](https://viertelfestival-noe.at)
  - date_published: 2024-05-31T19:49:33.679876+00:00
+
+ ## Vinted | Verkaufe und kaufe Kleidung, Schuhe und Accessoires
+ - [https://www.vinted.at](https://www.vinted.at)
+ - date_published: 2024-12-29T22:36:57.458896+00:00
 
  ## Visa, einer der vertrauenswürdigen Marktführer im digitalen Zahlungsverkehr
  - [https://visaeurope.at](https://visaeurope.at)
@@ -2023,11 +2059,11 @@
  - date_published: 2024-09-18T22:00:32.644810+00:00
 
  ## 1800Tools4U
- - [https://www.1800tools4u.com.au](https://www.1800tools4u.com.au)
+ - [https://1800tools4u.com.au](https://1800tools4u.com.au)
  - date_published: 2024-10-20T14:58:25.488484+00:00
 
  ## Electrician Melbourne - Electrical Services | 181 Electrical
- - [https://www.181electrical.com.au](https://www.181electrical.com.au)
+ - [https://181electrical.com.au](https://181electrical.com.au)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## the 200ok weblog
@@ -2055,11 +2091,11 @@
  - date_published: 2024-06-14T22:57:09.311813+00:00
 
  ## 2GB - Sydney's premier news and talk radio station - 2GB
- - [http://www.2gb.com.au](http://www.2gb.com.au)
+ - [http://2gb.com.au](http://2gb.com.au)
  - date_published: 2024-07-12T07:53:23.275348+00:00
 
  ## Radio 2LT | Midwest Radio Network
- - [http://www.2lt.com.au](http://www.2lt.com.au)
+ - [https://www.2lt.com.au](https://www.2lt.com.au)
  - date_published: 2024-07-13T22:49:12.728849+00:00
 
  ## Welcome to 2 Ton Digital
@@ -2071,7 +2107,7 @@
  - date_published: 2024-09-04T04:41:33.071854+00:00
 
  ## 313 Halifax Street, Adelaide - shared creative co-working office space
- - [http://www.313halifax.com.au](http://www.313halifax.com.au)
+ - [https://313halifax.com.au](https://313halifax.com.au)
  - date_published: 2024-05-16T04:30:53+00:00
 
  ## 3AW - Melbourne's favourite news and talk station - 3AW
@@ -2079,7 +2115,7 @@
  - date_published: 2024-05-10T04:59:44.539799+00:00
 
  ## 3M Science. Applied to Life. | 3M Australia
- - [https://www.3m.com.au](https://www.3m.com.au)
+ - [https://3m.com.au](https://3m.com.au)
  - date_published: 2024-08-06T10:41:15.308533+00:00
 
  ## 4BC - Brisbane's premier news and talk radio station
@@ -2103,7 +2139,7 @@
  - date_published: 2024-08-11T14:51:52.487127+00:00
 
  ## 7news
- - [https://support.7news.com.au](https://support.7news.com.au)
+ - [http://support.7news.com.au](http://support.7news.com.au)
  - date_published: 2024-08-11T14:52:22.048417+00:00
 
  ## TV Guide Tonight - What's On Television in Australia
@@ -2125,6 +2161,7 @@
  ## 9Now - Watch Channel 9 Live and On Demand
  - [https://stream.9now.com.au](https://stream.9now.com.au)
  - date_published: 2024-07-12T07:48:15.766622+00:00
+ - date_dead_since: 2024-12-29T15:05:24.728750+00:00
 
  ## Australian TV Guide - All TV Show times, All Channels - 9Entertainment
  - [https://tvguide.9now.com.au](https://tvguide.9now.com.au)
@@ -2151,11 +2188,11 @@
  - date_published: 2024-08-14T02:58:18+00:00
 
  ## AAPNews - Access the latest news from AAP, Australia’s only independent news agency
- - [https://www.aapnews.com.au](https://www.aapnews.com.au)
+ - [https://aapnews.com.au](https://aapnews.com.au)
  - date_published: 2024-08-19T11:27:40.501870+00:00
 
  ## Australian Business Aviation Association – Supporting Business Aviation Australia
- - [http://www.abaa.com.au](http://www.abaa.com.au)
+ - [https://abaa.com.au](https://abaa.com.au)
  - date_published: 2024-10-11T22:51:41.167351+00:00
 
  ## Home
@@ -2171,7 +2208,7 @@
  - date_published: 2024-08-01T00:00:00+00:00
 
  ## Home - Austbrokers Terrace Insurance | Adelaide | Melbourne
- - [https://www.abterrace.com.au](https://www.abterrace.com.au)
+ - [https://abterrace.com.au](https://abterrace.com.au)
  - date_published: 2024-01-14T00:00:00+00:00
 
  ## Home
@@ -2181,9 +2218,10 @@
  ## Experts in designing a better planet | ACCIONA | Business as unusual
  - [https://acciona.com.au](https://acciona.com.au)
  - date_published: 2024-05-20T00:00:00+00:00
+ - date_dead_since: 2024-12-29T15:07:55.465859+00:00
 
  ## Accountants Daily
- - [https://www.accountantsdaily.com.au](https://www.accountantsdaily.com.au)
+ - [https://accountantsdaily.com.au](https://accountantsdaily.com.au)
  - date_published: 2024-10-23T06:28:04.217464+00:00
 
  ## Accounting Times
@@ -2235,7 +2273,7 @@
  - date_published: 2024-12-21T02:13:31.221658+00:00
 
  ## An Actual Freedom From The Human Condition
- - [http://actualfreedom.com.au](http://actualfreedom.com.au)
+ - [https://actualfreedom.com.au](https://actualfreedom.com.au)
  - date_published: 2024-09-13T13:03:10+00:00
 
  ## Homepage - AD1 Holdings
@@ -2267,7 +2305,7 @@
  - date_published: 2024-10-29T04:27:46.006561+00:00
 
  ## Home of the performing arts in South Australia.
- - [http://www.adelaidefestivalcentre.com.au](http://www.adelaidefestivalcentre.com.au)
+ - [https://adelaidefestivalcentre.com.au](https://adelaidefestivalcentre.com.au)
  - date_published: 2024-08-07T09:10:27.955473+00:00
 
  ## Home | Adelaide Giants Baseball
@@ -2283,7 +2321,7 @@
  - date_published: 2024-12-21T03:07:51.796490+00:00
 
  ## Makers of fine games
- - [http://www.a-d-g.com.au](http://www.a-d-g.com.au)
+ - [https://a-d-g.com.au](https://a-d-g.com.au)
  - date_published: 2024-07-02T21:44:39.416334+00:00
 
  ## Powering Australia’s leading off-the-plan property platforms – AD Group
@@ -2291,15 +2329,15 @@
  - date_published: 2024-12-21T08:16:07.853013+00:00
 
  ## adidas Official Website | adidas Australia
- - [https://www.adidas.com.au](https://www.adidas.com.au)
+ - [https://adidas.com.au](https://adidas.com.au)
  - date_published: 2024-07-14T12:14:27.007934+00:00
 
  ## AdOnline Login - Book Classified Ads Online.
- - [https://www.adonline.com.au](https://www.adonline.com.au)
+ - [https://adonline.com.au](https://adonline.com.au)
  - date_published: 2024-09-16T08:13:03.789262+00:00
 
  ## Adore Beauty | Australia's Leading Online Beauty Store
- - [https://www.adorebeauty.com.au](https://www.adorebeauty.com.au)
+ - [https://adorebeauty.com.au](https://adorebeauty.com.au)
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## ADP Login
@@ -2315,7 +2353,7 @@
  - date_published: 2024-12-21T08:52:21.962266+00:00
 
  ## ADVANCE™ Pet Food
- - [https://www.advancepet.com.au](https://www.advancepet.com.au)
+ - [https://advancepet.com.au](https://advancepet.com.au)
  - date_published: 2024-10-14T14:45:59.694749+00:00
 
  ## Adventure Entertainment - Shop
@@ -2327,7 +2365,7 @@
  - date_published: 2024-09-17T23:33:08.118299+00:00
 
  ## Financial Service Innovation News - Adviser Innovation
- - [https://www.adviserinnovation.com.au](https://www.adviserinnovation.com.au)
+ - [https://adviserinnovation.com.au](https://adviserinnovation.com.au)
  - date_published: 2024-10-23T06:28:44.384851+00:00
 
  ## Australian Energy Market Operator
@@ -2355,23 +2393,23 @@
  - date_published: 2024-05-10T00:00:00+00:00
 
  ## Aetherworks
+ - [https://aetherworks.com.au](https://aetherworks.com.au)
+ - date_published: 2022-12-07T01:19:22+00:00
+
+ ## Aetherworks
  - [https://store.aetherworks.com.au](https://store.aetherworks.com.au)
  - date_published: 2024-05-04T06:15:39.081280+00:00
 
  ## Aetherworks Support
- - [http://support.aetherworks.com.au](http://support.aetherworks.com.au)
+ - [https://support.aetherworks.com.au](https://support.aetherworks.com.au)
  - date_published: 2024-06-19T15:06:50.706524+00:00
-
- ## Aetherworks
- - [https://www.aetherworks.com.au](https://www.aetherworks.com.au)
- - date_published: 2022-12-07T01:19:22+00:00
 
  ## Quality Affordable Wholefoods located in Lismore and Coffs Harbour, NSW.
  - [https://affordablewholefoods.com.au](https://affordablewholefoods.com.au)
  - date_published: 2014-07-08T12:35:21+00:00
 
  ## AFL - News, Videos, Fixtures, Scores & Results - AFL.com.au
- - [https://www.afl.com.au](https://www.afl.com.au)
+ - [https://afl.com.au](https://afl.com.au)
  - date_published: 2024-09-30T18:49:17.590423+00:00
 
  ## Buy Now Pay Later with Afterpay
@@ -2379,15 +2417,15 @@
  - date_published: 2024-12-20T17:18:42.688488+00:00
 
  ## AGIG | Australian Gas Infrastructure Group
- - [https://www.agig.com.au](https://www.agig.com.au)
+ - [https://agig.com.au](https://agig.com.au)
  - date_published: 2024-09-16T21:41:06.440526+00:00
 
  ## AgileAus
- - [http://www.agileaustralia.com.au](http://www.agileaustralia.com.au)
+ - [https://agileaustralia.com.au](https://agileaustralia.com.au)
  - date_published: 2024-03-18T00:23:18+00:00
 
  ## Agile Market Intelligence - Drive growth with insight
- - [https://www.agilemarketintelligence.com.au](https://www.agilemarketintelligence.com.au)
+ - [https://agilemarketintelligence.com.au](https://agilemarketintelligence.com.au)
  - date_published: 2024-10-23T06:28:46.094549+00:00
 
  ## AgriFutures Australia | Home
@@ -2398,7 +2436,7 @@
   
   
     | Australia
- - [https://www.aia.com.au](https://www.aia.com.au)
+ - [https://aia.com.au](https://aia.com.au)
  - date_published: 2024-08-14T00:00:00+00:00
 
  ## The Australia India Chamber of Commerce
@@ -2406,11 +2444,11 @@
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## Home - AICD
- - [https://www.aicd.com.au](https://www.aicd.com.au)
+ - [https://aicd.com.au](https://aicd.com.au)
  - date_published: 2024-08-18T10:02:47.753397+00:00
 
  ## AIC Mines
- - [https://www.aicmines.com.au](https://www.aicmines.com.au)
+ - [https://aicmines.com.au](https://aicmines.com.au)
  - date_published: 2024-09-16T22:10:59.143674+00:00
 
  ## Buy Bitcoin Brisbane and Melbourne. Swap and sell with Ainslie.
@@ -2430,7 +2468,7 @@
  - date_published: 2024-12-20T17:21:41.181524+00:00
 
  ## Home
- - [https://www.airnzagent.com.au](https://www.airnzagent.com.au)
+ - [https://airnzagent.com.au](https://airnzagent.com.au)
  - date_published: 2024-09-19T21:51:14+00:00
 
  ## Airport Link - AirportLink
@@ -2438,7 +2476,7 @@
  - date_published: 2024-12-21T05:31:38.812702+00:00
 
  ## Home
- - [https://www.aisummit.com.au](https://www.aisummit.com.au)
+ - [https://aisummit.com.au](https://aisummit.com.au)
  - date_published: 2024-10-23T06:29:16.974071+00:00
 
  ## Home
@@ -2450,7 +2488,7 @@
  - date_published: 2024-09-04T02:13:43.910140+00:00
 
  ## Australia-Korea Business Council
- - [https://www.akbc.com.au](https://www.akbc.com.au)
+ - [https://akbc.com.au](https://akbc.com.au)
  - date_published: 2024-09-04T02:13:37.903484+00:00
 
  ## The Albany Advertiser
@@ -2482,7 +2520,7 @@
  - date_published: 2024-08-06T20:02:37.504333+00:00
 
  ## Alfa Romeo Australia
- - [https://www.alfaromeo.com.au](https://www.alfaromeo.com.au)
+ - [https://alfaromeo.com.au](https://alfaromeo.com.au)
  - date_published: 2024-06-19T08:57:58.912233+00:00
 
  ## André's Homepage
@@ -2490,7 +2528,7 @@
  - date_published: 2024-07-11T07:48:05.934693+00:00
 
  ## Alicanto Minerals – Mineral Exploration Company
- - [https://www.alicantominerals.com.au](https://www.alicantominerals.com.au)
+ - [https://alicantominerals.com.au](https://alicantominerals.com.au)
  - date_published: 2024-09-16T22:08:08.727194+00:00
 
  ## Alice Queen - Listed Australian Gold & Copper Exploration
@@ -2498,7 +2536,7 @@
  - date_published: 2024-08-01T00:00:00+00:00
 
  ## Home - Alice Springs News
- - [https://www.alicespringsnews.com.au](https://www.alicespringsnews.com.au)
+ - [https://alicespringsnews.com.au](https://alicespringsnews.com.au)
  - date_published: 2021-07-02T06:28:42+00:00
 
  ## My Protection Plan - Protecting Home and Property Buyers - ALI Group
@@ -2522,11 +2560,11 @@
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## allbirds.com.au
- - [https://www.allbirds.com.au](https://www.allbirds.com.au)
+ - [https://allbirds.com.au](https://allbirds.com.au)
  - date_published: 2024-06-29T05:20:38.383759+00:00
 
  ## Door Security Systems | Access Control Systems | Allegion AUS
- - [https://www.allegion.com.au](https://www.allegion.com.au)
+ - [https://allegion.com.au](https://allegion.com.au)
  - date_published: 2024-07-09T04:22:49+00:00
 
  ## Real Estate & Properties for Sale | Allhomes
@@ -2534,7 +2572,7 @@
  - date_published: 2024-06-15T05:51:01.204930+00:00
 
  ## Allhomes
- - [https://help.allhomes.com.au](https://help.allhomes.com.au)
+ - [http://help.allhomes.com.au](http://help.allhomes.com.au)
  - date_published: 2024-08-01T00:00:00+00:00
 
  ## Allrecipes | Recipes, How-Tos, Videos and More
@@ -2597,13 +2635,13 @@
  - [https://app.amber.com.au](https://app.amber.com.au)
  - date_published: 2012-01-01T00:00:00+00:00
 
+ ## Home - Australian Mountain Bike
+ - [https://ambmag.com.au](https://ambmag.com.au)
+ - date_published: 2024-09-16T00:00:00+00:00
+
  ## Australian Mountain Bike - Subscribe
  - [https://subscribe.ambmag.com.au](https://subscribe.ambmag.com.au)
  - date_published: 2024-09-17T23:33:32.136414+00:00
-
- ## Home - Australian Mountain Bike
- - [https://www.ambmag.com.au](https://www.ambmag.com.au)
- - date_published: 2024-09-16T00:00:00+00:00
 
  ## AMP – Banking, home loans, super, retirement & financial advice
  - [https://amp.com.au](https://amp.com.au)
@@ -2614,27 +2652,27 @@
  - date_published: 2024-12-20T18:50:21.379461+00:00
 
  ## Home | Ampel Audio Sydney
- - [https://www.ampel.com.au](https://www.ampel.com.au)
+ - [https://ampel.com.au](https://ampel.com.au)
  - date_published: 1970-01-01T00:00:00+00:00
 
  ## My Blog | My WordPress Blog
- - [http://ampersandmagazine.com.au](http://ampersandmagazine.com.au)
+ - [https://ampersandmagazine.com.au](https://ampersandmagazine.com.au)
  - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Attention Metrics - Amplified Intelligence
+ - [https://amplifiedintelligence.com.au](https://amplifiedintelligence.com.au)
+ - date_published: 2024-01-28T00:00:00+00:00
 
  ## Knowledge Base
  - [https://help.amplifiedintelligence.com.au](https://help.amplifiedintelligence.com.au)
  - date_published: 2024-06-21T07:06:05+00:00
-
- ## Attention Metrics - Amplified Intelligence
- - [https://www.amplifiedintelligence.com.au](https://www.amplifiedintelligence.com.au)
- - date_published: 2024-01-28T00:00:00+00:00
 
  ## Augusta-Margaret River Times
  - [https://www.amrtimes.com.au](https://www.amrtimes.com.au)
  - date_published: 2024-12-21T07:00:57.298821+00:00
 
  ## Ancestry® | Genealogy, Family Trees & Family History Records
- - [https://www.ancestry.com.au](https://www.ancestry.com.au)
+ - [https://ancestry.com.au](https://ancestry.com.au)
  - date_published: 2024-07-26T21:16:59+00:00
 
  ## Andrew Bayliss - Mav3rik | LinkedIn
@@ -2642,7 +2680,7 @@
  - date_published: 2024-01-07T08:44:51.422537+00:00
 
  ## Anime Inferno
- - [https://www.animeinferno.com.au](https://www.animeinferno.com.au)
+ - [https://animeinferno.com.au](https://animeinferno.com.au)
  - date_published: 2024-04-28T04:41:59.840167+00:00
  - tags: ['manga', 'anime']
 
@@ -2663,7 +2701,7 @@
  - date_published: 2022-05-13T15:08:13+00:00
 
  ## ANZ Personal – Bank accounts, home loans, credit cards & more
- - [https://www.anz.com.au](https://www.anz.com.au)
+ - [https://anz.com.au](https://anz.com.au)
  - date_published: 2024-04-22T00:00:00+00:00
 
  ## Home - ANZ Smart Choice Super
@@ -2707,7 +2745,7 @@
  - date_published: 2024-09-06T03:55:18+00:00
 
  ## ARBS 2026: Australia's HVAC&R and Building Services Event
- - [https://www.arbs.com.au](https://www.arbs.com.au)
+ - [https://arbs.com.au](https://arbs.com.au)
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## Archie Rose Distilling Co.
@@ -2715,16 +2753,16 @@
  - date_published: 2024-12-20T17:03:36.188728+00:00
 
  ## Home - Ardiden Limited
- - [https://www.ardiden.com.au](https://www.ardiden.com.au)
+ - [https://ardiden.com.au](https://ardiden.com.au)
  - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Are Media | Digital, Magazine & Print Advertising
+ - [https://aremedia.com.au](https://aremedia.com.au)
+ - date_published: 2024-06-05T00:00:00+00:00
 
  ## Project Express
  - [https://prod.digital.aremedia.com.au](https://prod.digital.aremedia.com.au)
  - date_published: 2024-12-20T20:02:50.276979+00:00
-
- ## Are Media | Digital, Magazine & Print Advertising
- - [https://www.aremedia.com.au](https://www.aremedia.com.au)
- - date_published: 2024-06-05T00:00:00+00:00
 
  ## Argent Minerals Limited (ASX:ARD) - Junior Australian Mining Company | Silver, Gold, Zinc
  - [https://argentminerals.com.au](https://argentminerals.com.au)
@@ -2735,7 +2773,7 @@
  - date_published: 2024-12-21T05:32:38+00:00
 
  ## Argon - Adelaide Web Development & Design, Digital Marketing, Hosting Services
- - [http://www.argondesign.com.au](http://www.argondesign.com.au)
+ - [https://argondesign.com.au](https://argondesign.com.au)
  - date_published: 2024-08-26T02:20:03+00:00
 
  ## Ariat Australia
@@ -2763,7 +2801,7 @@
  - date_published: 2024-07-13T03:47:10.789239+00:00
 
  ## ARNnet - The voice of the Australian IT channel - ARN
- - [https://www.arnnet.com.au](https://www.arnnet.com.au)
+ - [https://arnnet.com.au](https://arnnet.com.au)
  - date_published: 2024-03-19T00:00:00+00:00
 
  ## Artemis Resources – Gold, copper & lithium focused resources company
@@ -2771,7 +2809,7 @@
  - date_published: 2024-08-31T01:18:37+00:00
 
  ## ART FOR ALL | Fairfield Primary School's annual art show
- - [https://www.artforall.com.au](https://www.artforall.com.au)
+ - [https://artforall.com.au](https://artforall.com.au)
  - date_published: 2024-09-08T00:00:00+00:00
 
  ## Art Guide Australia
@@ -2787,7 +2825,7 @@
  - date_published: 2024-05-04T09:41:51.002024+00:00
 
  ## ArtsHub: The Australian Arts Industry Hub - News, Jobs, Events
- - [https://www.artshub.com.au](https://www.artshub.com.au)
+ - [https://artshub.com.au](https://artshub.com.au)
  - date_published: 2024-09-18T00:00:00+00:00
 
  ## Arts In Maroondah
@@ -2815,7 +2853,7 @@
  - date_published: 2024-12-21T06:54:55.955107+00:00
 
  ## Luxury Performance Cars | Audi Australia Official Website
- - [https://www.audi.com.au](https://www.audi.com.au)
+ - [https://audi.com.au](https://audi.com.au)
  - date_published: 2024-07-19T20:25:32+00:00
 
  ## Audiobook Free Trial | Audible Australia | Audible.com.au
@@ -2831,7 +2869,7 @@
  - date_published: 2022-01-13T06:55:52+00:00
 
  ## Auric Mining Owning Munda, Jeffery’s Find and Spargoville Gold Projects
- - [https://www.auricmining.com.au](https://www.auricmining.com.au)
+ - [https://auricmining.com.au](https://auricmining.com.au)
  - date_published: 2024-04-18T00:00:00+00:00
 
  ## Auris Minerals - Exploring for Copper & Gold in the Bryah Basin, WA
@@ -2847,7 +2885,7 @@
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Home - Aurum Resources
- - [https://www.aurumres.com.au](https://www.aurumres.com.au)
+ - [https://aurumres.com.au](https://aurumres.com.au)
  - date_published: 2024-09-03T00:00:00+00:00
 
  ## Ausbil
@@ -2859,11 +2897,11 @@
  - date_published: 2019-01-14T16:03:59+00:00
 
  ## AUS-e-TUTE for astute science students
- - [http://www.ausetute.com.au](http://www.ausetute.com.au)
- - date_published: 2024-10-19T05:26:56.005196+00:00
+ - [https://ausetute.com.au](https://ausetute.com.au)
+ - date_published: 2024-07-06T05:34:59+00:00
 
  ## Ausfilm - Connecting film & TV makers worldwide to Australia
- - [https://www.ausfilm.com.au](https://www.ausfilm.com.au)
+ - [https://ausfilm.com.au](https://ausfilm.com.au)
  - date_published: 2024-10-25T10:33:09.457060+00:00
 
  ## Personal, Business, Enterprise & Government solutions
@@ -2893,21 +2931,23 @@
  ## Broadband and mobile plans - Australia Post
  - [https://auspostmobile.com.au](https://auspostmobile.com.au)
  - date_published: 2024-06-16T08:17:18.338878+00:00
+ - date_dead_since: 2024-12-29T15:26:54.852325+00:00
 
  ## aussiearcade.com.au
  - [https://aussiearcade.com.au](https://aussiearcade.com.au)
  - date_published: 2024-04-28T04:42:11.524709+00:00
 
  ## Home - Australian Bloggers
- - [http://www.aussiebloggers.com.au](http://www.aussiebloggers.com.au)
+ - [https://aussiebloggers.com.au](https://aussiebloggers.com.au)
  - date_published: 2024-04-04T00:00:00+00:00
 
  ## ApplyDirect.Recruitment.Web
  - [https://joinus.austcommunitymedia.com.au](https://joinus.austcommunitymedia.com.au)
  - date_published: 2024-05-09T06:38:29.093536+00:00
+ - date_dead_since: 2024-12-29T15:27:14.281142+00:00
 
  ## Australian Gold and Copper Limited - Australian Gold and Copper Limited
- - [https://www.austgoldcopper.com.au](https://www.austgoldcopper.com.au)
+ - [https://austgoldcopper.com.au](https://austgoldcopper.com.au)
  - date_published: 2024-05-10T00:00:00+00:00
 
  ## Austin Metals Limited
@@ -2919,7 +2959,7 @@
  - date_published: 2024-12-21T03:07:24.360884+00:00
 
  ## Australian Aviation – Australia's Leading News Source in Aviation
- - [http://australianaviation.com.au](http://australianaviation.com.au)
+ - [https://australianaviation.com.au](https://australianaviation.com.au)
  - date_published: 2024-07-09T21:51:34.346375+00:00
 
  ## Home - Australian Avocados
@@ -2935,7 +2975,7 @@
  - date_published: 2024-04-29T03:04:52.509221+00:00
 
  ## Australian Coupons
- - [https://www.australiancoupons.com.au](https://www.australiancoupons.com.au)
+ - [https://australiancoupons.com.au](https://australiancoupons.com.au)
  - date_published: 2024-07-08T22:42:04+00:00
 
  ## Australian Crosswords
@@ -2961,17 +3001,18 @@
  ## Labor Shop
  - [https://shop.australianlabor.com.au](https://shop.australianlabor.com.au)
  - date_published: 2024-09-16T00:00:00+00:00
+ - date_dead_since: 2024-12-29T15:29:32.706405+00:00
 
  ## Australian Mining
- - [https://www.australianmining.com.au](https://www.australianmining.com.au)
+ - [https://australianmining.com.au](https://australianmining.com.au)
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## Australian Philanthropic Services — Make the most of your giving
- - [http://australianphilanthropicservices.com.au](http://australianphilanthropicservices.com.au)
+ - [https://australianphilanthropicservices.com.au](https://australianphilanthropicservices.com.au)
  - date_published: 2024-02-23T00:00:00+00:00
 
  ## Australian Resources & Investment
- - [https://www.australianresourcesandinvestment.com.au](https://www.australianresourcesandinvestment.com.au)
+ - [https://australianresourcesandinvestment.com.au](https://australianresourcesandinvestment.com.au)
  - date_published: 2024-09-09T18:15:32+00:00
 
  ## Australian Retirement Trust | Superannuation | Super fund
@@ -2979,7 +3020,7 @@
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Home
- - [https://www.australiansteel.com.au](https://www.australiansteel.com.au)
+ - [https://australiansteel.com.au](https://australiansteel.com.au)
  - date_published: 2024-10-19T10:05:38.361047+00:00
 
  ## Australian Unity |  Insurance, Banking, Financial Advice, Retirement Living, Health Insurance & Wellbeing
@@ -2995,7 +3036,7 @@
  - date_published: 2024-09-27T10:41:04.979437+00:00
 
  ## Australia United Mining
- - [http://www.australiaunitedmining.com.au](http://www.australiaunitedmining.com.au)
+ - [https://australiaunitedmining.com.au](https://australiaunitedmining.com.au)
  - date_published: 2024-04-04T00:00:00+00:00
 
  ## Australian Cosmetics & Makeup for Sale Online | Australis
@@ -3027,15 +3068,15 @@
  - date_published: 2024-09-13T18:47:47.284014+00:00
 
  ## Auto Edge (Version 5.0)
- - [https://www.autoedgenet.com.au](https://www.autoedgenet.com.au)
+ - [https://autoedgenet.com.au](https://autoedgenet.com.au)
  - date_published: 2024-09-26T17:29:48.505999+00:00
 
  ## Auto & General
- - [https://www.autogeneral.com.au](https://www.autogeneral.com.au)
+ - [https://autogeneral.com.au](https://autogeneral.com.au)
  - date_published: 2024-07-09T20:56:44.604895+00:00
 
  ## Instantly Book Australia's Best Auto Experts
- - [https://www.autoguru.com.au](https://www.autoguru.com.au)
+ - [https://autoguru.com.au](https://autoguru.com.au)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Automatic Heating : Commercial Heating and Cooling Systems
@@ -3067,7 +3108,7 @@
  - date_published: 2024-05-08T06:31:14.947443+00:00
 
  ## Under construction - Awesome site in the making!
- - [http://aviatormag.com.au](http://aviatormag.com.au)
+ - [https://aviatormag.com.au](https://aviatormag.com.au)
  - date_published: 2024-06-30T00:47:18+00:00
 
  ## Home - Avid Reader
@@ -3079,7 +3120,7 @@
  - date_published: 2024-06-14T05:04:15+00:00
 
  ## Avis Travel Agents and Wholesalers
- - [http://www.avistravelagents.com.au](http://www.avistravelagents.com.au)
+ - [https://avistravelagents.com.au](https://avistravelagents.com.au)
  - date_published: 2024-10-16T15:19:38.090732+00:00
 
  ## Member
@@ -3111,7 +3152,7 @@
  - date_published: 2024-12-20T20:46:27+00:00
 
  ## B&T - Home
- - [https://www.bandt.com.au](https://www.bandt.com.au)
+ - [https://bandt.com.au](https://bandt.com.au)
  - date_published: 2024-09-25T10:51:56.517590+00:00
 
  ## Alvvays
@@ -3127,7 +3168,7 @@
  - date_published: 2024-12-07T18:33:38.415506+00:00
 
  ## Luxury Accommodation NSW | Holiday Accommodation | Bannisters Hotels
- - [https://www.bannisters.com.au](https://www.bannisters.com.au)
+ - [https://bannisters.com.au](https://bannisters.com.au)
  - date_published: 2024-10-14T14:54:31.622815+00:00
 
  ## Pilliga Pottery Creative Farmstay
@@ -3155,7 +3196,7 @@
  - date_published: 2024-12-20T19:43:55.828592+00:00
 
  ## Batemans Bay news, sport and weather | Bay Post-Moruya Examiner | Batemans Bay, NSW
- - [https://www.batemansbaypost.com.au](https://www.batemansbaypost.com.au)
+ - [https://batemansbaypost.com.au](https://batemansbaypost.com.au)
  - date_published: 2024-07-09T20:53:22+00:00
 
  ## Home - Black Cat Syndicate
@@ -3163,7 +3204,7 @@
  - date_published: 2024-08-27T00:00:00+00:00
 
  ## BDO Australia | Audit | Tax | Advisory
- - [https://www.bdo.com.au](https://www.bdo.com.au)
+ - [https://bdo.com.au](https://bdo.com.au)
  - date_published: 2024-10-11T22:05:21.056075+00:00
 
  ## Busselton-Dunsborough Times
@@ -3179,7 +3220,7 @@
  - date_published: 2020-02-26T12:47:32+00:00
 
  ## Australia's Home of Men's Grooming Products - Shop Online
- - [https://www.beardandblade.com.au](https://www.beardandblade.com.au)
+ - [https://beardandblade.com.au](https://beardandblade.com.au)
  - date_published: 2024-09-16T04:17:22.524179+00:00
 
  ## BearLamp
@@ -3191,15 +3232,15 @@
  - date_published: 2024-06-16T02:27:26.344654+00:00
 
  ## BEAUTYcrew
- - [https://www.beautycrew.com.au](https://www.beautycrew.com.au)
+ - [https://beautycrew.com.au](https://beautycrew.com.au)
  - date_published: 2024-06-07T00:00:00+00:00
 
  ## Beauty Expo Australia
- - [http://www.beautyexpoaustralia.com.au](http://www.beautyexpoaustralia.com.au)
+ - [https://beautyexpoaustralia.com.au](https://beautyexpoaustralia.com.au)
  - date_published: 2024-08-07T05:42:36+00:00
 
  ## Home
- - [https://www.beautyheaven.com.au](https://www.beautyheaven.com.au)
+ - [https://beautyheaven.com.au](https://beautyheaven.com.au)
  - date_published: 2024-06-27T12:27:22.816571+00:00
 
  ## Furniture | Lounge Suites | Furniture Stores - Focus on Furniture
@@ -3215,24 +3256,24 @@
  - date_published: 2024-04-04T00:00:00+00:00
 
  ## Bega Cheese
- - [https://www.begacheese.com.au](https://www.begacheese.com.au)
+ - [https://begacheese.com.au](https://begacheese.com.au)
  - date_published: 2024-08-21T04:24:23+00:00
 
  ## Bega news, sport and weather | Bega District News | Bega, NSW
- - [https://www.begadistrictnews.com.au](https://www.begadistrictnews.com.au)
+ - [https://begadistrictnews.com.au](https://begadistrictnews.com.au)
  - date_published: 2024-07-09T20:54:24+00:00
 
  ## Bellevue Gold | ASX:BGL | Australia | Gold Mine | Gold
  - [https://bellevuegold.com.au](https://bellevuegold.com.au)
  - date_published: 2024-09-02T00:00:00+00:00
 
+ ## Bendigo Adelaide
+ - [https://bendigoadelaide.com.au](https://bendigoadelaide.com.au)
+ - date_published: 2024-10-21T04:16:57.304089+00:00
+
  ## Homepage
  - [https://careers-ext.bendigoadelaide.com.au](https://careers-ext.bendigoadelaide.com.au)
  - date_published: 2024-10-21T04:16:53.192801+00:00
-
- ## Bendigo Adelaide
- - [https://www.bendigoadelaide.com.au](https://www.bendigoadelaide.com.au)
- - date_published: 2024-10-21T04:16:57.304089+00:00
 
  ## Bendigo news, sport and weather | Bendigo Advertiser | Bendigo, VIC
  - [https://www.bendigoadvertiser.com.au](https://www.bendigoadvertiser.com.au)
@@ -3243,7 +3284,7 @@
  - date_published: 2024-12-20T18:26:36+00:00
 
  ## Bendigo Bank for all your personal and business banking needs
- - [http://bendigobank.com.au](http://bendigobank.com.au)
+ - [https://bendigobank.com.au](https://bendigobank.com.au)
  - date_published: 2024-06-18T09:28:21.589096+00:00
 
  ## Log in to Trading Platform
@@ -3275,7 +3316,7 @@
  - date_published: 2024-05-02T07:53:41.042684+00:00
 
  ## Better Homes and Gardens: DIY, Renovation, Gardening & Recipes
- - [https://www.bhg.com.au](https://www.bhg.com.au)
+ - [https://bhg.com.au](https://bhg.com.au)
  - date_published: 2024-06-27T12:26:57.471684+00:00
 
  ## Bicycle Network | Making bike riding easier for everyone
@@ -3287,11 +3328,11 @@
  - date_published: 2024-12-20T05:41:30+00:00
 
  ## Enterprise ecommerce, simplified. | BigCommerce
- - [https://www.bigcommerce.com.au](https://www.bigcommerce.com.au)
+ - [https://bigcommerce.com.au](https://bigcommerce.com.au)
  - date_published: 2024-07-08T12:40:38.915285+00:00
 
  ## Australia's Biggest Morning Tea | 23 May 2024 | Cancer Council
- - [https://www.biggestmorningtea.com.au](https://www.biggestmorningtea.com.au)
+ - [https://biggestmorningtea.com.au](https://biggestmorningtea.com.au)
  - date_published: 2024-05-23T00:00:00+00:00
 
  ## Buy big taste Big Rick's Bar-B-Q Sauces online in Australia
@@ -3303,41 +3344,42 @@
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## BIG W | Every day's a big day
- - [https://www.bigw.com.au](https://www.bigw.com.au)
+ - [https://bigw.com.au](https://bigw.com.au)
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Photo Printing - Your Trusted Photo Printing Store Online
- - [https://www.bigwphotos.com.au](https://www.bigwphotos.com.au)
+ - [https://bigwphotos.com.au](https://bigwphotos.com.au)
  - date_published: 2024-06-16T15:04:37.560799+00:00
 
  ## REVS / PPSR Bike History Check - Get a BikeFacts History report for added peace of
     mind - BikeFacts.com.au
- - [https://www.bikefacts.com.au](https://www.bikefacts.com.au)
+ - [https://bikefacts.com.au](https://bikefacts.com.au)
  - date_published: 2024-09-26T17:30:36.680162+00:00
 
  ## Used Motorcycle For Sale - Buy and Sell Motorcycles Australia
- - [https://www.bikesales.com.au](https://www.bikesales.com.au)
+ - [https://bikesales.com.au](https://bikesales.com.au)
  - date_published: 2024-09-26T17:31:00.598638+00:00
 
  ## 170 Russell | Melbourne's Best Live Music Venue
  - [http://www.billboardthevenue.com.au](http://www.billboardthevenue.com.au)
  - date_published: 2024-10-21T04:04:39.110978+00:00
+ - date_dead_since: 2024-12-29T15:39:16.967801+00:00
+
+ ## Australian Server Hosting made easy. | BinaryLane Australia
+ - [https://binarylane.com.au](https://binarylane.com.au)
+ - date_published: 2024-05-01T07:01:17.703680+00:00
 
  ## BinaryLane - Looking Glass
- - [http://lg.binarylane.com.au](http://lg.binarylane.com.au)
+ - [https://lg.binarylane.com.au](https://lg.binarylane.com.au)
  - date_published: 2024-06-16T14:37:39.431479+00:00
 
  ## Binary Lane Status
- - [http://status.binarylane.com.au](http://status.binarylane.com.au)
+ - [https://status.binarylane.com.au](https://status.binarylane.com.au)
  - date_published: 2024-06-16T14:37:30.480845+00:00
 
  ## Support
  - [https://support.binarylane.com.au](https://support.binarylane.com.au)
  - date_published: 2024-06-16T14:37:44.612425+00:00
-
- ## Australian Server Hosting made easy. | BinaryLane Australia
- - [https://www.binarylane.com.au](https://www.binarylane.com.au)
- - date_published: 2024-05-01T07:01:17.703680+00:00
 
  ## Bindi Mwerre Anthurre Artists: Beautiful Art Made Proper Way
  - [https://bindiart.com.au](https://bindiart.com.au)
@@ -3352,7 +3394,7 @@
  - date_published: 2023-02-26T07:24:58+00:00
 
  ## Biosecurity Symposium – Gold Coast 2024
- - [https://www.biosym.com.au](https://www.biosym.com.au)
+ - [https://biosym.com.au](https://biosym.com.au)
  - date_published: 2024-07-20T21:48:23.603200+00:00
 
  ## Bisley Workwear Australia | Online Workwear & Safety Wear Clothing
@@ -3360,11 +3402,11 @@
  - date_published: 2024-12-20T22:32:24+00:00
 
  ## Business IT - Make technology work for your business
- - [https://www.bit.com.au](https://www.bit.com.au)
+ - [https://bit.com.au](https://bit.com.au)
  - date_published: 2024-08-19T11:20:24.847047+00:00
 
  ## Bitdefender - Global Leader in Cybersecurity Software
- - [https://www.bitdefender.com.au](https://www.bitdefender.com.au)
+ - [https://bitdefender.com.au](https://bitdefender.com.au)
  - date_published: 2024-07-20T02:26:25.840897+00:00
 
  ## Home - Black Hide Queens Wharf
@@ -3384,7 +3426,7 @@
  - date_published: 2024-05-08T09:15:22.860139+00:00
 
  ## Family Friendly Reference since 1995, Information and Guides. Sites selected by a human and provided free by The Black Stump
- - [https://www.blackstump.com.au](https://www.blackstump.com.au)
+ - [https://blackstump.com.au](https://blackstump.com.au)
  - date_published: 2024-06-21T10:25:45+00:00
 
  ## Blacktown International Sports Park (BISP)
@@ -3392,7 +3434,7 @@
  - date_published: 2024-12-21T05:33:27.354210+00:00
 
  ## Dance Shoes | Dancewear | Activewear | Bloch Australia
- - [https://www.bloch.com.au](https://www.bloch.com.au)
+ - [https://bloch.com.au](https://bloch.com.au)
  - date_published: 2024-08-14T00:00:00+00:00
 
  ## Blockchain Week 2024 - Blockchain Week
@@ -3408,7 +3450,7 @@
  - date_published: 2024-06-28T23:16:13+00:00
 
  ## AGL -- A bumbling monster
- - [http://agl-oz.blogspot.com.au](http://agl-oz.blogspot.com.au)
+ - [https://agl-oz.blogspot.com.au](https://agl-oz.blogspot.com.au)
  - date_published: 2024-02-20T20:42:24+00:00
 
  ## Epsilon's Amiga Blog
@@ -3416,11 +3458,15 @@
  - date_published: 2024-02-25T06:44:30+00:00
 
  ## GREENIE WATCH
- - [http://antigreen.blogspot.com.au](http://antigreen.blogspot.com.au)
+ - [https://antigreen.blogspot.com.au](https://antigreen.blogspot.com.au)
  - date_published: 2024-09-16T00:00:00+00:00
 
+ ## Beneath The Mire
+ - [https://beneaththemirehobby.blogspot.com.au](https://beneaththemirehobby.blogspot.com.au)
+ - date_published: 2024-10-09T18:02:42+00:00
+
  ## Angel's Blog
- - [http://cheleguanaco.blogspot.com.au](http://cheleguanaco.blogspot.com.au)
+ - [https://cheleguanaco.blogspot.com.au](https://cheleguanaco.blogspot.com.au)
  - date_published: 2024-08-12T10:25:51+00:00
 
  ## Cloverfield Clues
@@ -3428,15 +3474,15 @@
  - date_published: 2024-10-17T21:00:11+00:00
 
  ## Dagmar Schellenberger is an operatic genius
- - [http://dagdres.blogspot.com.au](http://dagdres.blogspot.com.au)
+ - [https://dagdres.blogspot.com.au](https://dagdres.blogspot.com.au)
  - date_published: 2024-03-05T07:26:06+00:00
 
  ## A Hobbyist's Blog
- - [http://darthgus.blogspot.com.au](http://darthgus.blogspot.com.au)
+ - [https://darthgus.blogspot.com.au](https://darthgus.blogspot.com.au)
  - date_published: 2024-09-02T00:11:01+00:00
 
  ## Art Pics
- - [http://freeamazingpics.blogspot.com.au](http://freeamazingpics.blogspot.com.au)
+ - [https://freeamazingpics.blogspot.com.au](https://freeamazingpics.blogspot.com.au)
  - date_published: 2024-03-13T15:24:00+00:00
 
  ## Rab's Geekly Digest
@@ -3444,15 +3490,15 @@
  - date_published: 2024-12-11T23:09:52+00:00
 
  ## The Keyword
- - [http://googleblog.blogspot.com.au](http://googleblog.blogspot.com.au)
+ - [https://googleblog.blogspot.com.au](https://googleblog.blogspot.com.au)
  - date_published: 2024-07-13T11:06:43.034921+00:00
 
  ## Grog's Gamut
- - [http://grogsgamut.blogspot.com.au](http://grogsgamut.blogspot.com.au)
+ - [https://grogsgamut.blogspot.com.au](https://grogsgamut.blogspot.com.au)
  - date_published: 2024-07-04T05:46:12+00:00
 
  ## Nie znaleziono bloga
- - [http://gurudumps.blogspot.com.au](http://gurudumps.blogspot.com.au)
+ - [https://gurudumps.blogspot.com.au](https://gurudumps.blogspot.com.au)
  - date_published: 2024-09-15T09:05:53.325410+00:00
 
  ## Hammer 'n Brush
@@ -3460,19 +3506,19 @@
  - date_published: 2024-10-09T02:49:03+00:00
 
  ## Ἡλληνιστεύκοντος
- - [http://hellenisteukontos.blogspot.com.au](http://hellenisteukontos.blogspot.com.au)
+ - [https://hellenisteukontos.blogspot.com.au](https://hellenisteukontos.blogspot.com.au)
  - date_published: 2024-06-28T16:25:52+00:00
 
  ## To be continued ....
- - [http://jonjayray1.blogspot.com.au](http://jonjayray1.blogspot.com.au)
+ - [https://jonjayray1.blogspot.com.au](https://jonjayray1.blogspot.com.au)
  - date_published: 2024-06-27T07:36:24+00:00
 
  ## My alternative Wikipedia
- - [http://jrwik.blogspot.com.au](http://jrwik.blogspot.com.au)
+ - [https://jrwik.blogspot.com.au](https://jrwik.blogspot.com.au)
  - date_published: 2024-06-09T05:45:53+00:00
 
  ## Typo of the day for librarians
- - [http://librarytypos.blogspot.com.au](http://librarytypos.blogspot.com.au)
+ - [https://librarytypos.blogspot.com.au](https://librarytypos.blogspot.com.au)
  - date_published: 2024-02-07T02:17:54+00:00
 
  ## Martin Kemp's This and That
@@ -3480,23 +3526,23 @@
  - date_published: 2024-09-10T11:58:08+00:00
 
  ## Laughing at "New Matilda"
- - [http://matlaugh.blogspot.com.au](http://matlaugh.blogspot.com.au)
+ - [https://matlaugh.blogspot.com.au](https://matlaugh.blogspot.com.au)
  - date_published: 2024-03-12T22:23:59+00:00
 
  ## HellRideHellYeah
- - [http://mavoui.blogspot.com.au](http://mavoui.blogspot.com.au)
+ - [https://mavoui.blogspot.com.au](https://mavoui.blogspot.com.au)
  - date_published: 2024-04-13T02:04:27+00:00
 
  ## Messengers Booker (and more)
- - [http://messybooker.blogspot.com.au](http://messybooker.blogspot.com.au)
+ - [https://messybooker.blogspot.com.au](https://messybooker.blogspot.com.au)
  - date_published: 2024-09-13T12:17:38+00:00
 
  ## Mordian 7th Regiment
- - [http://mordian7th.blogspot.com.au](http://mordian7th.blogspot.com.au)
+ - [https://mordian7th.blogspot.com.au](https://mordian7th.blogspot.com.au)
  - date_published: 2024-10-24T21:41:04+00:00
 
  ## Faeit 212
- - [http://natfka.blogspot.com.au](http://natfka.blogspot.com.au)
+ - [https://natfka.blogspot.com.au](https://natfka.blogspot.com.au)
  - date_published: 2024-10-25T01:18:01+00:00
 
  ## opɯdʒɯlɯklɑr
@@ -3504,7 +3550,7 @@
  - date_published: 2024-06-14T01:32:51+00:00
 
  ## Reassembler - Emulation & Decompilation
- - [http://reassembler.blogspot.com.au](http://reassembler.blogspot.com.au)
+ - [https://reassembler.blogspot.com.au](https://reassembler.blogspot.com.au)
  - date_published: 2024-07-22T11:40:24+00:00
 
  ## The Splintered Mind
@@ -3516,19 +3562,19 @@
  - date_published: 2024-06-01T06:22:30+00:00
 
  ## SOCIALIZED MEDICINE
- - [http://socglory.blogspot.com.au](http://socglory.blogspot.com.au)
+ - [https://socglory.blogspot.com.au](https://socglory.blogspot.com.au)
  - date_published: 2024-03-08T02:31:34+00:00
 
  ## CORAL REEF COMPENDIUM
- - [http://stgeorgeoz.blogspot.com.au](http://stgeorgeoz.blogspot.com.au)
+ - [https://stgeorgeoz.blogspot.com.au](https://stgeorgeoz.blogspot.com.au)
  - date_published: 2023-11-15T16:48:30+00:00
 
  ## Terrain For Hippos
- - [http://terrainforhippos.blogspot.com.au](http://terrainforhippos.blogspot.com.au)
+ - [https://terrainforhippos.blogspot.com.au](https://terrainforhippos.blogspot.com.au)
  - date_published: 2024-10-07T05:17:51+00:00
 
  ## Tony's Reading List
- - [http://tonysreadinglist.blogspot.com.au](http://tonysreadinglist.blogspot.com.au)
+ - [https://tonysreadinglist.blogspot.com.au](https://tonysreadinglist.blogspot.com.au)
  - date_published: 2024-09-05T20:58:17+00:00
 
  ## VK1DI's Blog
@@ -3536,7 +3582,7 @@
  - date_published: 2024-06-22T08:09:23+00:00
 
  ## IQ Compendium
- - [http://vodafrauds.blogspot.com.au](http://vodafrauds.blogspot.com.au)
+ - [https://vodafrauds.blogspot.com.au](https://vodafrauds.blogspot.com.au)
  - date_published: 2024-03-05T11:08:36+00:00
 
  ## Witchfinder In General
@@ -3544,19 +3590,15 @@
  - date_published: 2024-09-07T21:53:12+00:00
 
  ## Wolf Howling
- - [http://wolfhowling.blogspot.com.au](http://wolfhowling.blogspot.com.au)
+ - [https://wolfhowling.blogspot.com.au](https://wolfhowling.blogspot.com.au)
  - date_published: 2024-06-06T12:21:19+00:00
-
- ## Beneath The Mire
- - [http://www.beneaththemirehobby.blogspot.com.au](http://www.beneaththemirehobby.blogspot.com.au)
- - date_published: 2024-10-09T18:02:42+00:00
 
  ## SATIN MASK
  - [http://www.saturnmasque.blogspot.com.au](http://www.saturnmasque.blogspot.com.au)
  - date_published: 2024-10-05T03:10:39+00:00
 
  ## Paralipomena (3)
- - [http://xtractsof.blogspot.com.au](http://xtractsof.blogspot.com.au)
+ - [https://xtractsof.blogspot.com.au](https://xtractsof.blogspot.com.au)
  - date_published: 2024-03-13T15:17:20+00:00
 
  ## Buy Online Framed Wall Art & Canvas Prints In Australia | Blue Horizon Prints
@@ -3584,7 +3626,7 @@
  - date_published: 2024-09-10T00:00:00+00:00
 
  ## BMG Resources
- - [http://www.bmgl.com.au](http://www.bmgl.com.au)
+ - [https://bmgl.com.au](https://bmgl.com.au)
  - date_published: 2024-09-16T22:27:21+00:00
 
  ## Basketball NSW | BNSW
@@ -3593,15 +3635,15 @@
 
  ## REVS / PPSR Boat History Check - Get a Boatfacts History report for added peace of
     mind - BoatFacts.com.au
- - [https://www.boatfacts.com.au](https://www.boatfacts.com.au)
+ - [https://boatfacts.com.au](https://boatfacts.com.au)
  - date_published: 2024-09-26T17:30:38.947851+00:00
 
  ## New & Used Boat Sales - Find Boats For Sale Online - boatsales.com.au
- - [https://www.boatsales.com.au](https://www.boatsales.com.au)
+ - [https://boatsales.com.au](https://boatsales.com.au)
  - date_published: 2024-09-26T17:31:25.563106+00:00
 
  ## Home
- - [https://www.bodenclothing.com.au](https://www.bodenclothing.com.au)
+ - [http://bodenclothing.com.au](http://bodenclothing.com.au)
  - date_published: 2024-10-21T01:56:30.586135+00:00
 
  ## body+soul | Australia&#039;s home of health and happiness
@@ -3640,9 +3682,10 @@
  ## Booktopia | Investor Centre
  - [https://investors.booktopia.com.au](https://investors.booktopia.com.au)
  - date_published: 2024-07-03T18:36:00.644249+00:00
+ - date_dead_since: 2024-12-29T15:48:26.982357+00:00
 
  ## Boomerang Books | Australia's Online Independent Bookstore
- - [http://www.boomerangbooks.com.au](http://www.boomerangbooks.com.au)
+ - [https://boomerangbooks.com.au](https://boomerangbooks.com.au)
  - date_published: 2024-10-27T18:34:53.089093+00:00
 
  ## Prepaid Mobile SIM Only Plans - Boost Mobile
@@ -3650,39 +3693,39 @@
  - date_published: 2024-08-18T03:38:42.479869+00:00
 
  ## Distinctive banking for medical professionals
- - [https://www.boqspecialist.com.au](https://www.boqspecialist.com.au)
+ - [https://boqspecialist.com.au](https://boqspecialist.com.au)
  - date_published: 2024-09-17T03:57:18+00:00
 
  ## Quality, Sustainable Home Appliances | Bosch
- - [https://www.bosch-home.com.au](https://www.bosch-home.com.au)
+ - [https://bosch-home.com.au](https://bosch-home.com.au)
  - date_published: 2024-06-16T21:36:30.425322+00:00
 
  ## Home
- - [https://www.bountyparents.com.au](https://www.bountyparents.com.au)
+ - [https://bountyparents.com.au](https://bountyparents.com.au)
  - date_published: 2024-06-27T12:26:17.869005+00:00
 
  ## Bovalina Olive Oil Group - Home
- - [https://www.bovalinagroup.com.au](https://www.bovalinagroup.com.au)
+ - [https://bovalinagroup.com.au](https://bovalinagroup.com.au)
  - date_published: 2024-07-02T17:13:11.189821+00:00
 
  ## Commonwealth Bank Group - BPOINT
- - [https://www.bpoint.com.au](https://www.bpoint.com.au)
+ - [https://bpoint.com.au](https://bpoint.com.au)
  - date_published: 2017-08-13T23:20:32+00:00
 
  ## Brad's House Restumping & Levelling | Toowoomba QLD Raising Reblocking
- - [http://www.bradshouserestumping.com.au](http://www.bradshouserestumping.com.au)
+ - [https://bradshouserestumping.com.au](https://bradshouserestumping.com.au)
  - date_published: 2024-06-18T06:31:54.099798+00:00
 
  ## Braidwood news, sport and weather | Braidwood Times | Braidwood, NSW
- - [https://www.braidwoodtimes.com.au](https://www.braidwoodtimes.com.au)
+ - [https://braidwoodtimes.com.au](https://braidwoodtimes.com.au)
  - date_published: 2024-08-18T00:00:00+00:00
 
  ## Bravecto Australia | Parasite Protection For Dogs & Cats
- - [https://www.bravecto.com.au](https://www.bravecto.com.au)
+ - [https://bravecto.com.au](https://bravecto.com.au)
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Bravus Australia | Bravus
- - [https://www.bravus.com.au](https://www.bravus.com.au)
+ - [http://bravus.com.au](http://bravus.com.au)
  - date_published: 2024-07-30T00:00:00+00:00
 
  ## Breakfast Creek Lifestyle Precinct - A Collection of Shining Stars
@@ -3694,11 +3737,11 @@
  - date_published: 2024-12-21T08:08:45.836963+00:00
 
  ## Brentos – Australian Art by Illustrator and Author Brent Turner
- - [https://www.brentos.com.au](https://www.brentos.com.au)
+ - [https://brentos.com.au](https://brentos.com.au)
  - date_published: 2024-08-06T03:44:28.681985+00:00
 
  ## Brightstar Resources Limited - Gold Development Company
- - [http://www.brightstarresources.com.au](http://www.brightstarresources.com.au)
+ - [https://brightstarresources.com.au](https://brightstarresources.com.au)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## Home | Brisbane Bandits
@@ -3718,11 +3761,11 @@
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## Brisbane Times
- - [http://discover.brisbanetimes.com.au](http://discover.brisbanetimes.com.au)
+ - [https://discover.brisbanetimes.com.au](https://discover.brisbanetimes.com.au)
  - date_published: 2024-09-16T08:17:53.528566+00:00
 
  ## Brisbane Times
- - [https://help.brisbanetimes.com.au](https://help.brisbanetimes.com.au)
+ - [http://help.brisbanetimes.com.au](http://help.brisbanetimes.com.au)
  - date_published: 2024-09-16T08:17:04.386349+00:00
 
  ## Brisbane Times
@@ -3742,7 +3785,7 @@
  - date_published: 2024-05-08T03:45:43.934377+00:00
 
  ## Broadsheet
- - [https://www.broadsheet.com.au](https://www.broadsheet.com.au)
+ - [https://broadsheet.com.au](https://broadsheet.com.au)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## Mortgage News for Industry Professionals | Australian Broker News
@@ -3752,6 +3795,10 @@
  ## Broome Advertiser
  - [https://www.broomead.com.au](https://www.broomead.com.au)
  - date_published: 2024-12-21T06:58:40.243991+00:00
+
+ ## Brother Australia | Official Website
+ - [https://brother.com.au](https://brother.com.au)
+ - date_published: 2024-05-02T11:25:30.456382+00:00
 
  ## Office Printers and Business Printers in Australia: Brother Australia
  - [https://corpsolutions.brother.com.au](https://corpsolutions.brother.com.au)
@@ -3765,16 +3812,13 @@
  - [https://info.brother.com.au](https://info.brother.com.au)
  - date_published: 2024-10-20T12:15:11.243702+00:00
 
- ## Brother Australia | Official Website
- - [https://www.brother.com.au](https://www.brother.com.au)
- - date_published: 2024-05-02T11:25:30.456382+00:00
-
  ## 50 years experience supporting advisers | BT
  - [https://bt.com.au](https://bt.com.au)
  - date_published: 2024-02-02T00:00:00+00:00
+ - date_dead_since: 2024-12-29T16:00:15.889909+00:00
 
  ## BuddeComm Telecoms and Digital Economy Research Overview
- - [https://www.budde.com.au](https://www.budde.com.au)
+ - [http://budde.com.au](http://budde.com.au)
  - date_published: 2024-09-25T17:20:31+00:00
 
  ## Cheap Car Hire Australia | Budget Car Rental
@@ -3782,11 +3826,11 @@
  - date_published: 2024-07-19T05:08:11+00:00
 
  ## Budget Direct Insurance | 2024 Insurer of the Year
- - [https://www.budgetdirect.com.au](https://www.budgetdirect.com.au)
+ - [https://budgetdirect.com.au](https://budgetdirect.com.au)
  - date_published: 2024-07-09T20:56:42.195280+00:00
 
  ## Australian Bulk Handling Review
- - [https://www.bulkhandlingreview.com.au](https://www.bulkhandlingreview.com.au)
+ - [https://bulkhandlingreview.com.au](https://bulkhandlingreview.com.au)
  - date_published: 2024-09-09T05:53:38+00:00
 
  ## Bunbury Herald
@@ -3814,11 +3858,11 @@
  - date_published: 2024-07-09T20:53:42.408170+00:00
 
  ## Business Insider Polska
- - [https://www.businessinsider.com.au](https://www.businessinsider.com.au)
+ - [https://businessinsider.com.au](https://businessinsider.com.au)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Australasian Bus and Coach
- - [https://www.busnews.com.au](https://www.busnews.com.au)
+ - [https://busnews.com.au](https://busnews.com.au)
  - date_published: 2024-07-18T00:00:00+00:00
 
  ## Butterfields - Air Conditioning, Electrical & Plumbing
@@ -3826,7 +3870,7 @@
  - date_published: 2024-12-21T02:13:16.494317+00:00
 
  ## buttonbar.com.au
- - [https://www.buttonbar.com.au](https://www.buttonbar.com.au)
+ - [https://buttonbar.com.au](https://buttonbar.com.au)
  - date_published: 2024-07-10T03:42:08.792400+00:00
 
  ## BY.ARTISANS
@@ -3846,8 +3890,8 @@
  - date_published: 2024-06-15T18:25:56.722991+00:00
 
  ## Caer Australis - Celtic Traditions, Myth and History
- - [http://caeraustralis.com.au](http://caeraustralis.com.au)
- - date_published: 2024-10-21T05:25:47.641605+00:00
+ - [https://caeraustralis.com.au](https://caeraustralis.com.au)
+ - date_published: 2021-04-27T00:06:13+00:00
 
  ## Mineral & Porcelain Kitchen Benchtops | Caesarstone AU
  - [https://www.caesarstone.com.au](https://www.caesarstone.com.au)
@@ -3858,7 +3902,7 @@
  - date_published: 2024-12-21T03:48:14.362376+00:00
 
  ## CafePress | Best merchandise to express yourself
- - [https://www.cafepress.com.au](https://www.cafepress.com.au)
+ - [https://cafepress.com.au](https://cafepress.com.au)
  - date_published: 2024-07-03T17:42:46.094326+00:00
 
  ## Caitlin Johnstone
@@ -3866,7 +3910,7 @@
  - date_published: 2024-12-20T09:15:21.009201+00:00
 
  ## Melbourne's leading Digital Agency - Calico
- - [https://www.calicoagency.com.au](https://www.calicoagency.com.au)
+ - [https://calicoagency.com.au](https://calicoagency.com.au)
  - date_published: 2024-05-30T00:00:00+00:00
 
  ## Brisbane's Premier Latin Restaurant • Cálida South Bank
@@ -3910,7 +3954,7 @@
  - date_published: 2024-12-21T00:47:49.629639+00:00
 
  ## Access to this page has been denied.
- - [http://www.canstar.com.au](http://www.canstar.com.au)
+ - [https://canstar.com.au](https://canstar.com.au)
  - date_published: 2024-06-16T16:52:29.415898+00:00
 
  ## Canstar Blue | Compare Energy, NBN, Mobile & More
@@ -3926,15 +3970,15 @@
  - date_published: 2024-12-21T07:43:53.876877+00:00
 
  ## Find Software
- - [https://www.capterra.com.au](https://www.capterra.com.au)
+ - [https://capterra.com.au](https://capterra.com.au)
  - date_published: 2024-07-15T05:37:49.868116+00:00
 
  ## Event Management Company | Event Planning | Captivate Events
- - [https://www.captivateevents.com.au](https://www.captivateevents.com.au)
+ - [https://captivateevents.com.au](https://captivateevents.com.au)
  - date_published: 2024-10-23T06:29:14.555781+00:00
 
  ## New & Used Caravans, Campers, Motorhomes & RVs - caravancampingsales.com.au
- - [https://www.caravancampingsales.com.au](https://www.caravancampingsales.com.au)
+ - [https://caravancampingsales.com.au](https://caravancampingsales.com.au)
  - date_published: 2024-09-12T00:00:00+00:00
 
  ## Subscribe or Buy Your Next Car | carbar Australia
@@ -3958,7 +4002,7 @@
  - date_published: 2024-06-29T00:00:00+00:00
 
  ## REVS / PPSR Car History Check - Get a vehicle history report for added peace of mind - CarFacts.com.au
- - [https://www.carfacts.com.au](https://www.carfacts.com.au)
+ - [https://carfacts.com.au](https://carfacts.com.au)
  - date_published: 2024-09-26T17:30:42.754945+00:00
 
  ## Carnaby Resources Limited - A Leading Australian Exploration Company
@@ -3966,7 +4010,7 @@
  - date_published: 2024-09-16T22:13:51.073100+00:00
 
  ## Carnival Cruise Line Australia - Cruise to Australia, South Pacific + More!
- - [https://www.carnival.com.au](https://www.carnival.com.au)
+ - [https://carnival.com.au](https://carnival.com.au)
  - date_published: 2024-08-05T20:38:18+00:00
 
  ## Toowoomba Carnival of Flowers
@@ -3978,42 +4022,6 @@
  - date_published: 2024-09-12T00:00:00+00:00
 
  ## carsales | Australia’s No.1 Car Website – carsales.com.au
- - [https://www.carsales.com.au](https://www.carsales.com.au)
+ - [https://carsales.com.au](https://carsales.com.au)
  - date_published: 2024-09-26T17:31:07.148539+00:00
-
- ## carsguide.com.au - more than just another classifieds website
- - [https://www.carsguide.com.au](https://www.carsguide.com.au)
- - date_published: 2024-07-04T07:16:12+00:00
-
- ## CAS - Compass Assurance Services
- - [https://cas.com.au](https://cas.com.au)
- - date_published: 2024-06-22T20:53:25+00:00
-
- ## Cash For Cars Adelaide Up to $9,999 & Free Car Removal
- - [https://cash-4-cars.com.au](https://cash-4-cars.com.au)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Caspin Resources – Caspin Resources Limited (ASX Code: CPN)
- - [https://www.caspin.com.au](https://www.caspin.com.au)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Catalina Resources
- - [https://www.catalinaresources.com.au](https://www.catalinaresources.com.au)
- - date_published: 2024-09-16T22:28:03.070151+00:00
-
- ## Catalyst Metals • ASX:CYL
- - [https://catalystmetals.com.au](https://catalystmetals.com.au)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Great daily deals at Australia's favourite superstore | Catch.com.au
- - [https://www.catch.com.au](https://www.catch.com.au)
- - date_published: 2024-12-20T22:11:34.208899+00:00
-
- ## Cavalier Resources – Cavalier Resources
- - [https://www.cavalierresources.com.au](https://www.cavalierresources.com.au)
- - date_published: 2024-09-16T22:29:51.455325+00:00
-
- ## Home - CBF
- - [https://cbf.com.au](https://cbf.com.au)
- - date_published: 2024-06-18T06:31:48.486504+00:00
 

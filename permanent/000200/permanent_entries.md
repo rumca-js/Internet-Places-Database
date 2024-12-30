@@ -1,3 +1,245 @@
+ ## Login - Santillana
+ - [https://identity.santillanaconnect.com](https://identity.santillanaconnect.com)
+ - date_published: 2024-06-12T12:53:42.577066+00:00
+
+ ## Identity Provider
+ - [https://www.santillanaconnect.com](https://www.santillanaconnect.com)
+ - date_published: 2024-07-02T09:05:00+00:00
+
+ ## Santillana Familias – Un espacio creado para ti, donde encontrarás información sobre el proceso de compra online, activación de códigos de acceso, horarios de atención, puntos de venta y mucho más. ¡Todo lo que necesitas saber para estar informado por campaña escolar!
+ - [http://santillanafamilias.com](http://santillanafamilias.com)
+ - date_published: 2024-09-13T10:41:16.615859+00:00
+
+ ## Accueil - Santillana Français
+ - [http://www.santillanafrancais.com](http://www.santillanafrancais.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## SantillanaTiendaVirtual.com - Busqueda de listas escolares
+ - [https://www.santillanatiendavirtual.com](https://www.santillanatiendavirtual.com)
+ - date_published: 2024-12-09T21:01:13.819612+00:00
+
+ ## Santillana Transforma
+ - [https://santillanatransforma.com](https://santillanatransforma.com)
+ - date_published: 2024-08-09T23:56:26+00:00
+
+ ## Vista Higher Learning
+ - [http://www.santillanausa.com](http://www.santillanausa.com)
+ - date_published: 2024-09-12T21:12:44.959341+00:00
+
+ ## Santini Cycling | Cycling Clothing | Made in Italy
+ - [https://www.santinicycling.com](https://www.santinicycling.com)
+ - date_published: 2024-12-15T23:04:06.892005+00:00
+
+ ## Santi Younger
+ - [https://santiyounger.com](https://santiyounger.com)
+ - date_published: 2023-12-17T16:42:23.109435+00:00
+ - tags: ['personal']
+
+ ## SANTONIAN Industries
+ - [https://www.santonianindustries.com](https://www.santonianindustries.com)
+ - date_published: 2024-10-25T10:54:59.759392+00:00
+
+ ## Santuari el Miracle
+ - [http://santuarielmiracle.com](http://santuarielmiracle.com)
+ - date_published: 2024-09-17T21:14:34.895542+00:00
+
+ ## Sanwa-America | Multimeters, Clamp Meters, Voltage Testers Light Meter
+ - [https://www.sanwa-america.com](https://www.sanwa-america.com)
+ - date_published: 2024-07-15T04:13:04.948904+00:00
+
+ ## 撮影-照明-特機レンタル・ポスプロ | 三和グループ - 三和映材社・三和プロライト・ProCam Inc. (東京・大阪・京都・韓国)
+ - [http://www.sanwa-group.com](http://www.sanwa-group.com)
+ - date_published: 2024-07-02T07:22:33+00:00
+
+ ## SANWA Technologies
+ - [http://www.sanwa-us.com](http://www.sanwa-us.com)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## 香蕉加速器【官方网站】
+ - [https://www.sanweizw.com](https://www.sanweizw.com)
+ - date_published: 2024-12-25T08:16:57+00:00
+
+ ## psiyum – GoatCounter
+ - [https://gc.sanyamkapoor.com](https://gc.sanyamkapoor.com)
+ - date_published: 2024-09-04T03:42:54.892306+00:00
+
+ ## About
+ - [https://sanyamkapoor.com](https://sanyamkapoor.com)
+ - date_published: 2020-06-07T03:02:00+00:00
+
+ ## Sanyam Kapoor, Inc. status
+ - [https://status.sanyamkapoor.com](https://status.sanyamkapoor.com)
+ - date_published: 2024-09-04T03:42:55.722159+00:00
+
+ ## 青岛三益塑料机械有限公司
+ - [http://www.sanyisj.com](http://www.sanyisj.com)
+ - date_published: 2024-06-28T17:13:54.196431+00:00
+
+ ## Reclaim Hosting
+ - [http://saoicht.com](http://saoicht.com)
+ - date_published: 2016-12-30T13:26:36+00:00
+
+ ## Swagger UI
+ - [https://playerbeta.octopus.saooti.com](https://playerbeta.octopus.saooti.com)
+ - date_published: 1970-01-01T00:00:01+00:00
+
+ ## SAP ID Service: Log On
+ - [https://accounts.sap.com](https://accounts.sap.com)
+ - date_published: 2024-07-14T21:32:07.196792+00:00
+
+ ## SAP Community
+ - [https://answers.sap.com](https://answers.sap.com)
+ - date_published: 2024-07-14T21:32:00.171369+00:00
+
+ ## All SAP Community Blogs | SAP Community
+ - [https://blogs.sap.com](https://blogs.sap.com)
+ - date_published: 2024-07-14T21:32:02.074845+00:00
+
+ ## SAP Community
+ - [https://community.sap.com](https://community.sap.com)
+ - date_published: 2024-05-12T04:01:03.964874+00:00
+
+ ## Customer experience (CX) and customer relationship management
+ - [https://cx.sap.com](https://cx.sap.com)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Digital Library
+ - [https://dam.sap.com](https://dam.sap.com)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## SAP Developer Center | Official Resources for SAP Developers
+ - [https://developers.sap.com](https://developers.sap.com)
+ - date_published: 2024-05-12T04:01:05.170232+00:00
+
+ ## SAP Events
+ - [http://events.sap.com](http://events.sap.com)
+ - date_published: 2024-07-14T21:32:06.150826+00:00
+
+ ## SAP Community
+ - [https://groups.community.sap.com](https://groups.community.sap.com)
+ - date_published: 2024-07-14T21:31:31.189814+00:00
+
+ ## SAP Help Portal
+ - [https://help.sap.com](https://help.sap.com)
+ - date_published: 2024-05-08T04:29:48.985394+00:00
+
+ ## SAP Business Accelerator Hub
+ - [https://hub.sap.com](https://hub.sap.com)
+ - date_published: 2024-05-09T08:44:13.892091+00:00
+
+ ## SAP Insights
+ - [https://insights.sap.com](https://insights.sap.com)
+ - date_published: 2024-07-14T21:31:22.729054+00:00
+
+ ## Jobs at SAP | SAP Careers
+ - [https://jobs.sap.com](https://jobs.sap.com)
+ - date_published: 2024-04-29T06:57:09.835280+00:00
+
+ ## Learn SAP skills | SAP Learning
+ - [https://learning.sap.com](https://learning.sap.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## SAP for Me - Your digital companion along your whole SAP customer journey
+ - [https://me.sap.com](https://me.sap.com)
+ - date_published: 2024-07-11T09:34:46+00:00
+
+ ## SAP News Center
+ - [https://news.sap.com](https://news.sap.com)
+ - date_published: 2024-05-12T04:01:01.264197+00:00
+
+ ## Browse Topics | SAP Community
+ - [https://pages.community.sap.com](https://pages.community.sap.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## SAP Partner Portal | welcome
+ - [https://partneredge.sap.com](https://partneredge.sap.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## SAP Software Solutions | Business Applications and Technology
+ - [https://sap.com](https://sap.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+ - tags: ['erp']
+
+ ## SAP Community
+ - [http://scn.sap.com](http://scn.sap.com)
+ - date_published: 2024-07-10T05:26:08.432712+00:00
+
+ ## SAP Store | Buy Online from the Digital SAP Marketplace
+ - [https://store.sap.com](https://store.sap.com)
+ - date_published: 2024-10-30T19:11:07.584707+00:00
+
+ ## SAP Support Portal Home
+ - [https://support.sap.com](https://support.sap.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## SAPUI5 SDK - Demo Kit
+ - [https://ui5.sap.com](https://ui5.sap.com)
+ - date_published: 2024-06-18T14:18:14+00:00
+
+ ## SAP Help Portal
+ - [https://wiki.scn.sap.com](https://wiki.scn.sap.com)
+ - date_published: 2024-07-12T21:14:30+00:00
+
+ ## Sapan Bodiwala
+ - [https://sapanbodiwala.com](https://sapanbodiwala.com)
+ - date_published: 2024-05-11T10:21:38.816207+00:00
+
+ ## Sapcoi Holdings LLC - Official Site
+ - [https://sapcoi.com](https://sapcoi.com)
+ - date_published: 2024-10-30T15:26:04+00:00
+
+ ## SAP Software Solutions | Business Applications and Technology
+ - [http://www.sapdatacenter.com](http://www.sapdatacenter.com)
+ - date_published: 2024-10-19T15:04:29.947201+00:00
+
+ ## SAP Fioneer | World-class software solutions for financial services
+ - [https://www.sapfioneer.com](https://www.sapfioneer.com)
+ - date_published: 2024-10-31T10:00:06+00:00
+
+ ## SaphirNews.com | Quotidien d'actualité | Islam et Musulmans de France
+ - [http://www.saphirnews.com](http://www.saphirnews.com)
+ - date_published: 2024-10-21T18:17:11.742362+00:00
+
+ ## Sapien
+ - [https://sapienphp.com](https://sapienphp.com)
+ - date_published: 2022-02-25T21:13:11+00:00
+
+ ## Publicis Sapient | Digital Business Transformation & Consulting
+ - [http://www.sapientnitro.com](http://www.sapientnitro.com)
+ - date_published: 2024-10-30T12:09:54+00:00
+
+ ## SapkowskiBooks.com - Discover & Buy The Witcher books from Sapkowski
+ - [https://sapkowskibooks.com](https://sapkowskibooks.com)
+ - date_published: 2023-11-13T12:57:51.679449+00:00
+
+ ## Sapling from Meta | Sapling
+ - [https://sapling-scm.com](https://sapling-scm.com)
+ - date_published: 2024-07-23T21:54:09.199687+00:00
+
+ ## SaponiQx: Increasing Access to Vaccines
+ - [https://saponiqx.com](https://saponiqx.com)
+ - date_published: 2024-10-16T18:59:06.769917+00:00
+
+ ## Sapos y Princesas: Artículos, actividades y planes en familia
+ - [https://saposyprincesas.com](https://saposyprincesas.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Sappharad.com - Projects
+ - [https://projects.sappharad.com](https://projects.sappharad.com)
+ - date_published: 2021-09-03T01:16:17+00:00
+
+ ## S365 MRF Hub
+ - [https://healthcomp.sapphiremrfhub.com](https://healthcomp.sapphiremrfhub.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Sapphire Swan
+ - [http://www.sapphireswan.com](http://www.sapphireswan.com)
+ - date_published: 2010-01-16T07:28:36+00:00
+
+ ## Sapphire Ventures
+ - [https://sapphireventures.com](https://sapphireventures.com)
+ - date_published: 2024-09-04T00:00:00+00:00
+
  ## Novotalk - talk for life
  - [http://sappi.com](http://sappi.com)
  - date_published: 2023-06-13T07:57:36+00:00
@@ -3794,246 +4036,4 @@ Scribbles
  ## The world’s Leading AI-Powered R&D Marketplace
  - [https://scientist.com](https://scientist.com)
  - date_published: 2024-10-30T15:20:36+00:00
-
- ## SoftServ | Services
- - [https://softserv.scientist.com](https://softserv.scientist.com)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Home — Scientist Rebellion
- - [https://scientistrebellion.com](https://scientistrebellion.com)
- - date_published: 2024-07-15T06:22:50.573586+00:00
-
- ## scientium.com
- - [http://www.scientium.com](http://www.scientium.com)
- - date_published: 2024-07-02T14:46:07.343651+00:00
-
- ## Open Access Peer Reviewed Journals | Science and Education Publishing: Home
- - [https://sciepub.com](https://sciepub.com)
- - date_published: 2024-05-07T19:53:43.606350+00:00
-
- ## Moulin à scie St-Joseph des Érables en Beauce
- - [https://scieriegeorgeslessard.com](https://scieriegeorgeslessard.com)
- - date_published: 2024-12-23T12:02:07+00:00
-
- ## Home
- - [https://sciex.com](https://sciex.com)
- - date_published: 2024-06-21T20:54:32.491560+00:00
-
- ## SYFY Official Site
- - [http://www.scifi.com](http://www.scifi.com)
- - date_published: 2024-06-22T03:20:06+00:00
-
- ## scificorridorarchive.com
- - [https://scificorridorarchive.com](https://scificorridorarchive.com)
- - date_published: 2024-09-20T10:35:03.494139+00:00
-
- ## SciFiction - All Things Science Fiction and Beyond
- - [https://scifiction.com](https://scifiction.com)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Sci-Fi Movie News & Forums: Alien, Godzilla, Jurassic World & More - Scified
- - [https://scified.com](https://scified.com)
- - date_published: 2024-05-07T14:02:10+00:00
- - tags: ['science fiction']
-
- ## IDEAS AND INSPIRATION FOR SCIENCE FICTION WRITERS
- - [http://www.scifiideas.com](http://www.scifiideas.com)
- - date_published: 2024-10-21T17:44:56.317164+00:00
-
- ## Sci-fi interfaces
- - [https://scifiinterfaces.com](https://scifiinterfaces.com)
- - date_published: 2023-12-14T07:38:40.007550+00:00
-
- ## Sci-Fi-O-Rama
- - [http://www.sci-fi-o-rama.com](http://www.sci-fi-o-rama.com)
- - date_published: 2024-12-13T04:14:51.777125+00:00
-
- ## KC Grifant
- - [https://scifiwri.com](https://scifiwri.com)
- - date_published: 2024-06-19T09:41:56.104117+00:00
-
- ## John C. Wright's Journal » Fancies, Drollery and Fiction from honorary Houyhnhnm and antic Science Fiction Writer John C. Wright
- - [http://scifiwright.com](http://scifiwright.com)
- - date_published: 2024-08-19T09:41:33.283824+00:00
-
- ## Scifn
- - [https://scifn.com](https://scifn.com)
- - date_published: 2024-06-16T03:53:01.131819+00:00
-
- ## Wrong page
- - [http://scikit-learn.com](http://scikit-learn.com)
- - date_published: 2023-01-09T21:21:39+00:00
-
- ## Scilan
- - [https://scilan.com](https://scilan.com)
- - date_published: 2024-06-19T17:14:20.658386+00:00
-
- ## Tagebücher der Wissenschaft
- - [http://www.scilogs.com](http://www.scilogs.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Ediciones Profesionales de la Información - EPI
- - [https://www.scimagoepi.com](https://www.scimagoepi.com)
- - date_published: 2024-10-19T23:02:57.326777+00:00
-
- ## SCImago IBER: Ibero-American Science and Technology Ranking
- - [https://www.scimagoiber.com](https://www.scimagoiber.com)
- - date_published: 2024-10-19T23:02:53.561361+00:00
-
- ## Institutions and University Rankings | Scimago
- - [https://www.scimagoir.com](https://www.scimagoir.com)
- - date_published: 2024-06-17T17:06:27.612884+00:00
-
- ## Scimago Journal & Country Rank
- - [https://www.scimagojr.com](https://www.scimagojr.com)
- - date_published: 2024-05-08T08:42:43.079889+00:00
-
- ## SCImago Diseñamos y desarrollamos soluciones analíticas de ciencia, tecnología e innovación
- - [https://www.scimagolab.com](https://www.scimagolab.com)
- - date_published: 2024-10-11T07:20:09+00:00
-
- ## SCImago Media Rankings
- - [https://www.scimagomedia.com](https://www.scimagomedia.com)
- - date_published: 2024-10-19T23:02:50.536268+00:00
-
- ## Sci.News: Breaking Science News
- - [http://www.sci-news.com](http://www.sci-news.com)
- - date_published: 2024-07-03T13:52:09+00:00
-
- ## - S.I.Lex -
- - [https://scinfolex.com](https://scinfolex.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## About Scion Cider - SCION CIDER
- - [https://www.scionciderbar.com](https://www.scionciderbar.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Gaming & Horse Racing In Columbus, Ohio - Eldorado Scioto Downs
- - [https://www.sciotodowns.com](https://www.sciotodowns.com)
- - date_published: 2023-04-10T00:00:00+00:00
-
- ## SCIPHD -
- - [https://sciphd.com](https://sciphd.com)
- - date_published: 2024-07-22T08:22:46.053084+00:00
-
- ## Sci Phi Journal - Laureate of the European SF Award for Best Magazine
- - [https://www.sciphijournal.com](https://www.sciphijournal.com)
- - date_published: 2024-08-19T12:54:16.231976+00:00
-
- ## World Journal of Biology and Biotechnology
- - [http://sciplatform.com](http://sciplatform.com)
- - date_published: 2024-10-29T17:04:54.402892+00:00
-
- ## American Science & Surplus
- - [http://www.sciplus.com](http://www.sciplus.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://sciprofiles.com](https://sciprofiles.com)
- - date_published: 2024-05-04T14:58:55.925629+00:00
-
- ## SciProgramming - Home
- - [https://sciprogramming.com](https://sciprogramming.com)
- - date_published: 2023-10-25T16:59:15.991666+00:00
-
- ## Top arXiv papers
- - [https://scirate.com](https://scirate.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Game Making Software - Construct 3 ★★★★★
- - [https://www.scirra.com](https://www.scirra.com)
- - date_published: 2024-10-24T13:22:03.282006+00:00
-
- ## SciRuby
- - [http://sciruby.com](http://sciruby.com)
- - date_published: 2021-02-21T07:22:49+00:00
-
- ## Elsevier | An Information Analytics Business
- - [http://www.scirus.com](http://www.scirus.com)
- - date_published: 2024-06-23T01:31:41.969161+00:00
-
- ## Home
- - [http://scisafari.com](http://scisafari.com)
- - date_published: 2024-05-09T12:17:53+00:00
-
- ## Lab Safety & Inventory for EHS & Ops | SciShield (BioRAFT)
- - [https://www.scishield.com](https://www.scishield.com)
- - date_published: 2024-10-18T18:21:11.954770+00:00
-
- ## ScissorMix 15: Oldish
- - [http://www.scissorkick.com](http://www.scissorkick.com)
- - date_published: 2024-10-21T05:28:32.532705+00:00
-
- ## Free & Premium WordPress Blog themes 2019 by Scissor Themes
- - [https://scissorthemes.com](https://scissorthemes.com)
- - date_published: 2024-10-27T22:48:32.657312+00:00
-
- ## Scissor Themes Support for WordPress Theme and Plugins
- - [http://support.scissorthemes.com](http://support.scissorthemes.com)
- - date_published: 2024-10-27T22:48:43.616359+00:00
-
- ## SciStarter - SciStarter
- - [https://scistarter.com](https://scistarter.com)
- - date_published: 2024-05-09T04:11:26.821324+00:00
-
- ## Use AI To Summarize Scientific Articles - SciSummary
- - [https://scisummary.com](https://scisummary.com)
- - date_published: 2024-06-19T21:08:01.585843+00:00
-
- ## Open Access Journals | Open Access Publications
- - [http://www.scitcentral.com](http://www.scitcentral.com)
- - date_published: 2024-10-29T17:33:24.337458+00:00
-
- ## Science Atlas - in the light of the science! | 2024
- - [http://scitechc.com](http://scitechc.com)
- - date_published: 2024-10-29T17:28:49.343627+00:00
-
- ## SciTechDaily - Science, Space and Technology News 2023
- - [https://scitechdaily.com](https://scitechdaily.com)
- - date_published: 2023-10-25T10:11:08.449489+00:00
-
- ## SciTechnol | International Publisher of Science and Technology
- - [http://scitechnol.com](http://scitechnol.com)
- - date_published: 2024-10-29T17:49:08.160890+00:00
-
- ## Home - Science and Technology Policy Academy
- - [https://scitechpolicyacademy.com](https://scitechpolicyacademy.com)
- - date_published: 2024-10-19T04:00:43.162087+00:00
-
- ## Scitechz
- - [http://scitechz.com](http://scitechz.com)
- - date_published: 2024-10-29T17:43:15.317703+00:00
-
- ## Science and Technology Publishing
- - [http://www.scitecpub.com](http://www.scitecpub.com)
- - date_published: 2024-10-29T16:44:38.141510+00:00
-
- ## Sciter Documentation | Sciter
- - [https://docs.sciter.com](https://docs.sciter.com)
- - date_published: 2024-03-03T15:32:45+00:00
-
- ## Sciter Notes – Take your notes… back home.
- - [https://notes.sciter.com](https://notes.sciter.com)
- - date_published: 2024-04-29T02:30:45.890734+00:00
-
- ## Quark – HTML/CSS/script Application Compiler
- - [https://quark.sciter.com](https://quark.sciter.com)
- - date_published: 2024-04-29T02:30:37.098236+00:00
-
- ## sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application
- - [https://sciter.com](https://sciter.com)
- - date_published: 2023-10-25T16:59:18.546109+00:00
-
- ## SCITEVENTS
- - [http://www.scitevents.com](http://www.scitevents.com)
- - date_published: 2024-07-07T10:12:02.382595+00:00
-
- ## Scitizen,  a collaborative news publishing initiative by scientists, for everyone.
- - [http://scitizen.com](http://scitizen.com)
- - date_published: 2024-08-18T20:15:44.324003+00:00
-
- ## SciURLs – A neat science news aggregator
- - [https://sciurls.com](https://sciurls.com)
- - date_published: 2024-04-09T20:07:45.984325+00:00
- - tags: ['link aggregator', 'science news']
 
