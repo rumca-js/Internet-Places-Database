@@ -1,3 +1,43 @@
+ ## Document
+ - [https://doc.notebookjs.app](https://doc.notebookjs.app)
+ - date_published: 2021-10-05T12:46:53+00:00
+
+ ## Show HN: NotesHub: cross-platform, Markdown-based note-taking app
+ - [https://about.noteshub.app](https://about.noteshub.app)
+ - date_published: 2024-10-11T12:37:37+00:00
+
+ ## Nova
+ - [https://docs.nova.app](https://docs.nova.app)
+ - date_published: 2023-12-20T01:05:44+00:00
+
+ ## Nova
+ - [https://nova.app](https://nova.app)
+ - date_published: 2024-05-22T19:02:18+00:00
+
+ ## NOW Tracker – the best free portfolio tracker by ChangeNOW
+ - [https://nowtracker.app](https://nowtracker.app)
+ - date_published: 2024-06-30T06:03:56.607868+00:00
+
+ ## Nozbe
+ - [https://nozbe.app](https://nozbe.app)
+ - date_published: 2024-08-05T17:59:05.218398+00:00
+
+ ## Nsec.app - Nostr Key Storage and Remote Signer
+ - [https://nsec.app](https://nsec.app)
+ - date_published: 2024-04-16T13:02:24+00:00
+
+ ## Beautiful calculator for Mac
+ - [https://numi.app](https://numi.app)
+ - date_published: 2024-07-24T07:59:46.533075+00:00
+
+ ## Log in | Nx Cloud
+ - [https://cloud.nx.app](https://cloud.nx.app)
+ - date_published: 2024-04-30T02:04:24.365167+00:00
+
+ ## Fast CI · Built for Monorepos
+ - [https://nx.app](https://nx.app)
+ - date_published: 2024-02-23T00:00:00+00:00
+
  ## Trust Center
  - [https://security.nx.app](https://security.nx.app)
  - date_published: 2024-09-04T14:31:18.212025+00:00
@@ -1378,6 +1418,10 @@
  ## Save Money & Earn Rewards
  - [https://www.shopruby.app](https://www.shopruby.app)
  - date_published: 2024-10-30T21:10:05.477926+00:00
+
+ ## Shortcat: Universal command palette for your Mac | Shortcat
+ - [https://shortcat.app](https://shortcat.app)
+ - date_published: 2024-11-14T17:25:12+00:00
 
  ## Home - URL Shortener
  - [https://shortenurl.app](https://shortenurl.app)
@@ -3981,48 +4025,4 @@
  ## Open Graph Image as a Service
  - [https://nichesss-images.vercel.app](https://nichesss-images.vercel.app)
  - date_published: 2024-10-20T00:38:48+00:00
-
- ## Nikhil Henry
- - [https://nikhilhenry.vercel.app](https://nikhilhenry.vercel.app)
- - date_published: 2024-08-08T15:07:38.641841+00:00
-
- ## Northendlab | Astro Blog Theme
- - [https://northendlab-light-astro.vercel.app](https://northendlab-light-astro.vercel.app)
- - date_published: 2024-06-21T23:48:46.626162+00:00
-
- ## Now. Powered by Northrop Grumman - Now. Powered by Northrop Grumman
- - [https://northrop-grumman-bk5vn9mnx-agencyq-ngc.vercel.app](https://northrop-grumman-bk5vn9mnx-agencyq-ngc.vercel.app)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Publish Nostr Event Deletions!
- - [https://nostr-delete.vercel.app](https://nostr-delete.vercel.app)
- - date_published: 2024-08-18T22:03:43.761548+00:00
-
- ## Nostrends | What's trending on Nostr?
- - [https://nostrends.vercel.app](https://nostrends.vercel.app)
- - date_published: 2024-08-18T22:03:33.902175+00:00
-
- ## Notes
- - [https://notes-ibnmaghreb.vercel.app](https://notes-ibnmaghreb.vercel.app)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Hanii – Developer,Writer,Course Creator
- - [https://nothanii.vercel.app](https://nothanii.vercel.app)
- - date_published: 2024-10-30T15:27:50.738472+00:00
-
- ## Notion Widgets
- - [https://notion-with-widgets.vercel.app](https://notion-with-widgets.vercel.app)
- - date_published: 2024-07-14T09:43:30.176121+00:00
-
- ## NSS SVNIT
- - [https://nss-website-nss-svnits-projects.vercel.app](https://nss-website-nss-svnits-projects.vercel.app)
- - date_published: 2024-12-18T20:14:36+00:00
-
- ## Nunflix: The Ultimate Comprehensive Guide to Free High-Quality Streaming in 2024
- - [https://nunflix-info.vercel.app](https://nunflix-info.vercel.app)
- - date_published: 2024-10-24T15:30:34+00:00
-
- ## OctoArt
- - [https://octoart.vercel.app](https://octoart.vercel.app)
- - date_published: 2023-10-30T18:59:23.812847+00:00
 

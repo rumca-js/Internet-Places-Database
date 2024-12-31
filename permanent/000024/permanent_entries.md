@@ -1,3 +1,211 @@
+ ## Bundesamt für Raumentwicklung ARE
+ - [https://www.are.admin.ch](https://www.are.admin.ch)
+ - date_published: 2024-10-22T08:59:29.119376+00:00
+
+ ## Bundesamt für Strassen (ASTRA)
+ - [https://www.astra.admin.ch](https://www.astra.admin.ch)
+ - date_published: 2024-10-22T08:59:20.412589+00:00
+
+ ## BACS Startseite
+ - [https://www.bacs.admin.ch](https://www.bacs.admin.ch)
+ - date_published: 2024-10-22T08:58:48.685817+00:00
+
+ ## Bundesamt für Umwelt - Startseite
+ - [https://www.bafu.admin.ch](https://www.bafu.admin.ch)
+ - date_published: 2024-10-14T22:03:59.849827+00:00
+
+ ## Bundesamt für Gesundheit BAG
+ - [https://www.bag.admin.ch](https://www.bag.admin.ch)
+ - date_published: 2024-07-16T22:16:43.518954+00:00
+
+ ## Bundesamt für Kultur
+ - [https://www.bak.admin.ch](https://www.bak.admin.ch)
+ - date_published: 2024-04-30T06:00:07.295934+00:00
+
+ ## BAKOM
+ - [http://www.bakom.admin.ch](http://www.bakom.admin.ch)
+ - date_published: 2024-10-22T08:58:54.708794+00:00
+
+ ## Schweizerisches Bundesarchiv BAR
+ - [https://www.bar.admin.ch](https://www.bar.admin.ch)
+ - date_published: 2024-07-16T22:16:37.439380+00:00
+
+ ## Das BASPO fördert den Schweizer Sport
+ - [http://www.baspo.admin.ch](http://www.baspo.admin.ch)
+ - date_published: 2024-10-22T08:58:37.772650+00:00
+
+ ## Bundesamt für Verkehr BAV - Startseite
+ - [https://www.bav.admin.ch](https://www.bav.admin.ch)
+ - date_published: 2024-10-22T08:56:54.141226+00:00
+
+ ## Bundesamt für Zoll und Grenzsicherheit
+ - [https://www.bazg.admin.ch](https://www.bazg.admin.ch)
+ - date_published: 2024-10-22T08:59:36.584602+00:00
+
+ ## Bundesamt für Zivilluftfahrt (BAZL)
+ - [http://www.bazl.admin.ch](http://www.bazl.admin.ch)
+ - date_published: 2024-10-22T08:58:16.788171+00:00
+
+ ## Bundesamt für Bauten und Logistik
+ - [https://www.bbl.admin.ch](https://www.bbl.admin.ch)
+ - date_published: 2024-07-16T22:16:19.395956+00:00
+
+ ## Bundesamt für Statistik
+ - [https://www.bfs.admin.ch](https://www.bfs.admin.ch)
+ - date_published: 2024-05-12T07:17:04.137605+00:00
+
+ ## Bibliothek am Guisanplatz – Die Leitbibliothek der Bundesverwaltung und Armee
+ - [http://www.big.admin.ch](http://www.big.admin.ch)
+ - date_published: 2024-10-22T08:58:50.562021+00:00
+
+ ## Bundesamt für Informatik und Telekommunikation BIT
+ - [https://www.bit.admin.ch](https://www.bit.admin.ch)
+ - date_published: 2024-07-16T22:16:26.021813+00:00
+
+ ## Startseite
+ - [https://www.bk.admin.ch](https://www.bk.admin.ch)
+ - date_published: 2024-05-12T07:24:37.110619+00:00
+
+ ## Bundesamt für Lebensmittelsicherheit und Veterinärwesen
+ - [https://www.blv.admin.ch](https://www.blv.admin.ch)
+ - date_published: 2024-07-13T17:43:06.529272+00:00
+
+ ## BLW
+ - [https://www.blw.admin.ch](https://www.blw.admin.ch)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## BSV-Online
+ - [https://www.bsv.admin.ch](https://www.bsv.admin.ch)
+ - date_published: 2024-07-16T22:16:51.398712+00:00
+
+ ## Startseite
+ - [https://www.bwl.admin.ch](https://www.bwl.admin.ch)
+ - date_published: 2024-10-14T21:50:26.980842+00:00
+
+ ## Bundesamt für Wohnungswesen BWO
+ - [https://www.bwo.admin.ch](https://www.bwo.admin.ch)
+ - date_published: 2024-10-14T21:50:28.696553+00:00
+
+ ## Startseite
+ - [https://www.comcom.admin.ch](https://www.comcom.admin.ch)
+ - date_published: 2024-10-22T08:59:23.746120+00:00
+
+ ## Rechtliches
+ - [http://www.disclaimer.admin.ch](http://www.disclaimer.admin.ch)
+ - date_published: 2024-07-21T06:26:37.969789+00:00
+
+ ## Gleichstellung der Geschlechter in allen Lebensbereichen
+ - [https://www.ebg.admin.ch](https://www.ebg.admin.ch)
+ - date_published: 2024-07-16T22:14:38+00:00
+
+ ## Eidgenössisches Departement des Innern
+ - [https://www.edi.admin.ch](https://www.edi.admin.ch)
+ - date_published: 2024-06-18T14:29:50.071937+00:00
+
+ ## Startseite
+ - [https://www.edoeb.admin.ch](https://www.edoeb.admin.ch)
+ - date_published: 2024-06-17T13:21:21.343528+00:00
+
+ ## EFD Startseite
+ - [http://www.efd.admin.ch](http://www.efd.admin.ch)
+ - date_published: 2024-06-18T14:29:53.504409+00:00
+
+ ## Startseite - EFK
+ - [http://www.efk.admin.ch](http://www.efk.admin.ch)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## index
+ - [https://www.efv.admin.ch](https://www.efv.admin.ch)
+ - date_published: 2024-07-16T22:16:17.841930+00:00
+
+ ## Elektronische Identität E-ID
+ - [https://www.eid.admin.ch](https://www.eid.admin.ch)
+ - date_published: 2024-10-22T08:57:51.369702+00:00
+
+ ## Startseite EJPD
+ - [http://www.ejpd.admin.ch](http://www.ejpd.admin.ch)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## ElCom
+ - [https://www.elcom.admin.ch](https://www.elcom.admin.ch)
+ - date_published: 2024-10-22T08:58:13.786559+00:00
+
+ ## Eidgenössisches Personalamt
+ - [https://www.epa.admin.ch](https://www.epa.admin.ch)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Eidgenössische Schiedskommission ESchK
+ - [https://www.eschk.admin.ch](https://www.eschk.admin.ch)
+ - date_published: 2024-10-22T08:57:48.524025+00:00
+
+ ## Eidgenössische Steuerverwaltung ESTV
+ - [https://www.estv.admin.ch](https://www.estv.admin.ch)
+ - date_published: 2024-07-16T22:16:16.095202+00:00
+
+ ## Experimentelle Statistiken des BFS
+ - [https://www.experimental.bfs.admin.ch](https://www.experimental.bfs.admin.ch)
+ - date_published: 2024-07-16T22:16:54.280420+00:00
+
+ ## Bundesamt für Zoll und Grenzsicherheit
+ - [http://www.ezv.admin.ch](http://www.ezv.admin.ch)
+ - date_published: 2024-07-16T22:16:24.006351+00:00
+
+ ## Startseite
+ - [https://www.konsum.admin.ch](https://www.konsum.admin.ch)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Startseite - MeteoSchweiz
+ - [https://www.meteoschweiz.admin.ch](https://www.meteoschweiz.admin.ch)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Page d'accueil - MétéoSuisse
+ - [https://www.meteosuisse.admin.ch](https://www.meteosuisse.admin.ch)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Pagina di partenza - MeteoSvizzera
+ - [https://www.meteosvizzera.admin.ch](https://www.meteosvizzera.admin.ch)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## BACS Startseite
+ - [https://www.ncsc.admin.ch](https://www.ncsc.admin.ch)
+ - date_published: 2024-10-22T08:57:04.620528+00:00
+
+ ## Nachrichtendienst des Bundes
+ - [http://www.ndb.admin.ch](http://www.ndb.admin.ch)
+ - date_published: 2024-10-22T08:59:31.264948+00:00
+
+ ## Nationale Kommission zur Verhütung von Folter
+ - [https://www.nkvf.admin.ch](https://www.nkvf.admin.ch)
+ - date_published: 2024-10-22T08:57:42.819142+00:00
+
+ ## Militärjustiz
+ - [http://www.oa.admin.ch](http://www.oa.admin.ch)
+ - date_published: 2024-10-22T08:58:40.183039+00:00
+
+ ## Page d'accueil OFCS
+ - [https://www.ofcs.admin.ch](https://www.ofcs.admin.ch)
+ - date_published: 2024-10-22T08:58:21.358486+00:00
+
+ ## Startseite
+ - [https://www.plurilingua.admin.ch](https://www.plurilingua.admin.ch)
+ - date_published: 2024-07-16T22:15:14+00:00
+
+ ## Preisüberwacher
+ - [https://www.preisueberwacher.admin.ch](https://www.preisueberwacher.admin.ch)
+ - date_published: 2024-10-14T21:50:16.201268+00:00
+
+ ## Im Brennpunkt
+ - [https://www.sbfi.admin.ch](https://www.sbfi.admin.ch)
+ - date_published: 2024-06-16T22:07:22.700220+00:00
+
+ ## Staatssekretariat für Wirtschaft SECO
+ - [https://www.seco.admin.ch](https://www.seco.admin.ch)
+ - date_published: 2024-10-14T21:49:53.808007+00:00
+
+ ## Staatssekretariat für Sicherheitspolitik SEPOS
+ - [https://www.sepos.admin.ch](https://www.sepos.admin.ch)
+ - date_published: 2024-10-22T08:58:22.490278+00:00
+
  ## Staatssekretariat für internationale Finanzfragen SIF - Startseite
  - [https://www.sif.admin.ch](https://www.sif.admin.ch)
  - date_published: 2024-07-16T22:16:12.893996+00:00
@@ -3799,214 +4007,4 @@
  ## Sito ufficiale di Ford Svizzera | Ford CH
  - [http://www.it.ford.ch](http://www.it.ford.ch)
  - date_published: 2024-06-19T13:44:50+00:00
-
- ## Ford Accessoires en ligne
- - [https://ford-accessoires.ch](https://ford-accessoires.ch)
- - date_published: 2024-10-29T21:27:21.025718+00:00
-
- ## Ford Pro™ | Nutzfahrzeuge, Services & Telematik
- - [https://www.fordpro.ch](https://www.fordpro.ch)
- - date_published: 2024-10-29T21:50:33.170656+00:00
-
- ## Ford Online-Zubehörkatalog
- - [https://www.ford-zubehoer.ch](https://www.ford-zubehoer.ch)
- - date_published: 2024-10-29T21:34:26.511585+00:00
-
- ## Formation Continue Unil EPFL
- - [http://www.formation-continue-unil-epfl.ch](http://www.formation-continue-unil-epfl.ch)
- - date_published: 2024-07-16T22:29:19.097830+00:00
-
- ## Forme
- - [https://www.forme.ch](https://www.forme.ch)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## FTW/Home
- - [https://forthewin.ch](https://forthewin.ch)
- - date_published: 2024-09-23T13:29:35.805288+00:00
-
- ## Forum EPFL - Le plus grand salon de recrutement d'Europe
- - [https://forum-epfl.ch](https://forum-epfl.ch)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## ForumEPFL - Login
- - [https://platform.forumepfl.ch](https://platform.forumepfl.ch)
- - date_published: 2024-07-16T22:48:58.119657+00:00
-
- ## fotointern.ch – Tagesaktuelle Fotonews
- - [https://www.fotointern.ch](https://www.fotointern.ch)
- - date_published: 2024-06-19T15:39:40.802237+00:00
-
- ## Fotomuseum Winterthur | Museum for Photography and Visual Culture | Home
- - [http://www.fotomuseum.ch](http://www.fotomuseum.ch)
- - date_published: 2024-07-13T14:33:22.766817+00:00
-
- ## Fotograf
- - [https://www.foto-press.ch](https://www.foto-press.ch)
- - date_published: 2024-05-04T15:32:40.999189+00:00
-
- ## Fourmilab
- - [https://fourmilab.ch](https://fourmilab.ch)
- - date_published: 2007-11-05T20:40:48+00:00
-
- ## Scanalyst - Fourmilab Forum: SCANALYZER and more
- - [https://scanalyst.fourmilab.ch](https://scanalyst.fourmilab.ch)
- - date_published: 2023-10-25T12:13:48.508095+00:00
-
- ## Presentation
- - [http://www.fph.ch](http://www.fph.ch)
- - date_published: 2024-09-10T23:33:57+00:00
-
- ## FPV Racing/Drone Racing - Drohne kaufen, Drohne mit Kamera - FPVracing.ch
- - [https://fpvracing.ch](https://fpvracing.ch)
- - date_published: 2024-09-05T18:32:00.860394+00:00
-
- ## FRAGILE Suisse — für Menschen mit Hirnverletzung und Angehörige
- - [https://www.fragile.ch](https://www.fragile.ch)
- - date_published: 2024-09-05T23:44:03.983149+00:00
-
- ## A Java geek
- - [https://blog.frankel.ch](https://blog.frankel.ch)
- - date_published: 2023-10-25T09:03:10.100142+00:00
- - tags: ['personal']
-
- ## frankly
- - [https://my.frankly.ch](https://my.frankly.ch)
- - date_published: 2024-07-02T08:33:14+00:00
-
- ## Attention Required! | Cloudflare
- - [https://news.frankly.ch](https://news.frankly.ch)
- - date_published: 2024-09-26T14:31:12.392803+00:00
-
- ## Your digital pillar 3a
- - [https://www.frankly.ch](https://www.frankly.ch)
- - date_published: 2024-06-14T11:20:56+00:00
-
- ## Frank Renold
- - [https://frankrenold.ch](https://frankrenold.ch)
- - date_published: 2024-01-06T08:53:55.074747+00:00
-
- ## Friendly Automate
- - [https://livelearninglabs.friendlyautomate.ch](https://livelearninglabs.friendlyautomate.ch)
- - date_published: 2024-07-12T20:13:21.665900+00:00
-
- ## Startseite | «Friendly Work Space»
- - [https://friendlyworkspace.ch](https://friendlyworkspace.ch)
- - date_published: 2024-07-21T05:21:22+00:00
-
- ## Index to Zubi's frogfish pages - Inhaltsverzeichnis von Zubis Anglerfisch-Seiten
- - [http://www.frogfish.ch](http://www.frogfish.ch)
- - date_published: 2021-12-19T14:41:14+00:00
-
- ## Front Conference Zurich - Front Conference Zurich
- - [https://frontendconf.ch](https://frontendconf.ch)
- - date_published: 2024-06-23T10:26:09.883515+00:00
-
- ## FSD - Fondation suisse de déminage
- - [https://www.fsd.ch](https://www.fsd.ch)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## FSLE Fondation Solidarité Logement pour les Étudiant-e-s
- - [https://fsle.ch](https://fsle.ch)
- - date_published: 2024-05-12T07:23:30.709673+00:00
-
- ## CRM-Fundraising-Tool für NPO | funtrade
- - [http://funtrade.ch](http://funtrade.ch)
- - date_published: 2024-10-29T11:16:10.744631+00:00
-
- ## Ihr Onlineshop für Haushalt & Elektrogeräte | Fust
- - [https://www.fust.ch](https://www.fust.ch)
- - date_published: 2024-07-13T13:47:49.577599+00:00
-
- ## Finanz und Wirtschaft – Die Analyse
- - [https://analyse.fuw.ch](https://analyse.fuw.ch)
- - date_published: 2024-07-22T17:47:13.178253+00:00
-
- ## Finanz und Wirtschaft | Schweizer Wirtschaftsfachzeitung
- - [https://fuw.ch](https://fuw.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Finanz und Wirtschaft
- - [https://helpcenter.fuw.ch](https://helpcenter.fuw.ch)
- - date_published: 2023-07-23T17:47:15+00:00
-
- ## Finanz und Wirtschaft | Schweizer Wirtschaftsfachzeitung
- - [https://wp.fuw.ch](https://wp.fuw.ch)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Finanz und Wirtschaft Forum
- - [https://www.fuw-forum.ch](https://www.fuw-forum.ch)
- - date_published: 2024-07-22T17:46:50.857112+00:00
-
- ## Gadget
- - [https://www.gadget.ch](https://www.gadget.ch)
- - date_published: 2024-07-12T22:52:52.098604+00:00
-
- ## GalaSoft Laurent Bugnion
- - [https://blog.galasoft.ch](https://blog.galasoft.ch)
- - date_published: 2024-05-01T03:44:35.167616+00:00
-
- ## GalaSoft Laurent Bugnion - On Azure
- - [https://galasoft.ch](https://galasoft.ch)
- - date_published: 2023-10-25T09:03:11.978072+00:00
- - tags: ['personal']
-
- ## Galaxus Mobile Helpcenter
- - [https://helpcenter.mobile.galaxus.ch](https://helpcenter.mobile.galaxus.ch)
- - date_published: 2023-01-20T00:00:00+00:00
-
- ## Digitec Galaxus
- - [https://insurance.galaxus.ch](https://insurance.galaxus.ch)
- - date_published: 2024-04-30T06:03:55.331637+00:00
-
- ## Galaxus Mobile - Plans
- - [https://mobile.galaxus.ch](https://mobile.galaxus.ch)
- - date_published: 2024-04-30T06:03:59.462833+00:00
-
- ## Deine Quelle für Qualität und Vielfalt!
- - [http://www.galerieheim.ch](http://www.galerieheim.ch)
- - date_published: 2024-06-24T09:19:02.319422+00:00
-
- ## Gamelife | Online Shop für Videospiele, Konsolen, Gadgets & Spielzeug
- - [https://www.gamelife.ch](https://www.gamelife.ch)
- - date_published: 2024-10-17T07:11:24.967251+00:00
-
- ## Revive Adserver
- - [https://ad.games.ch](https://ad.games.ch)
- - date_published: 2024-07-11T10:32:35.075667+00:00
-
- ## Artikel und Gaming News aus der Schweiz / games.ch
- - [https://games.ch](https://games.ch)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## GAMES.ch Fanshop
- - [http://shop.games.ch](http://shop.games.ch)
- - date_published: 2021-01-19T15:04:37+00:00
-
- ## GAMES.CH
- - [https://wog.games.ch](https://wog.games.ch)
- - date_published: 2024-09-16T02:49:20+00:00
-
- ## Blog
- - [http://gareauxforages.ch](http://gareauxforages.ch)
- - date_published: 2021-03-23T00:00:00+00:00
-
- ## Homepage - Garnier
- - [https://garnier.ch](https://garnier.ch)
- - date_published: 2024-10-30T17:02:32.623340+00:00
-
- ## Accueil | FAO - République et canton de Genève
- - [https://fao.ge.ch](https://fao.ge.ch)
- - date_published: 2024-06-18T14:24:18.411180+00:00
-
- ## Page d'accueil
- - [https://ge.ch](https://ge.ch)
- - date_published: 2024-06-18T14:22:24+00:00
-
- ## Page de connexion de l'Etat de Genève
- - [https://intranet.ge.ch](https://intranet.ge.ch)
- - date_published: 2024-04-10T21:28:10+00:00
-
- ## participer.ge.ch
- - [https://participer.ge.ch](https://participer.ge.ch)
- - date_published: 2024-09-12T17:08:46.446922+00:00
 

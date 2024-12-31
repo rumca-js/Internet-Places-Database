@@ -1,3 +1,151 @@
+ ## Grupo Editorial Record
+ - [https://record.com.br](https://record.com.br)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Recreio
+ - [https://recreio.com.br](https://recreio.com.br)
+ - date_published: 2024-07-11T17:33:19.111256+00:00
+
+ ## Loja oficial da Red Bull | Seja parte da ação
+ - [https://redbullshop.com.br](https://redbullshop.com.br)
+ - date_published: 2024-10-31T13:30:10.370745+00:00
+
+ ## Rede D'Or São Luiz - Home
+ - [https://www.rededorsaoluiz.com.br](https://www.rededorsaoluiz.com.br)
+ - date_published: 2024-07-13T02:16:14.586893+00:00
+
+ ## RFTV - Da Nossa Família Para Sua Família
+ - [https://www.redefamilia.com.br](https://www.redefamilia.com.br)
+ - date_published: 2024-12-26T17:55:21.984153+00:00
+
+ ## GloboAds | Ecossistema de soluções para sua marca
+ - [http://negocios8.redeglobo.com.br](http://negocios8.redeglobo.com.br)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## REVIL | www.residentevil.com.br
+ - [https://residentevil.com.br](https://residentevil.com.br)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Retrópolis - A cidade dos clássicos Atari Falcon 030 Microbox… Parece familiar?
+ - [https://retropolis.com.br](https://retropolis.com.br)
+ - date_published: 2024-05-08T04:06:37.967708+00:00
+
+ ## Apollo
+ - [https://apollo.returncapital.com.br](https://apollo.returncapital.com.br)
+ - date_published: 2024-09-29T20:26:23.910578+00:00
+
+ ## B2B | Revenda
+ - [https://www.revendaculturama.com.br](https://www.revendaculturama.com.br)
+ - date_published: 2024-07-13T02:19:25.218555+00:00
+
+ ## AnaMaria
+ - [https://revistaanamaria.com.br](https://revistaanamaria.com.br)
+ - date_published: 2024-07-11T17:33:40.063591+00:00
+
+ ## Revista Inspire-C - Inspiração, Reflexão e Ética
+ - [https://revistainspirec.com.br](https://revistainspirec.com.br)
+ - date_published: 2024-07-09T06:47:27+00:00
+
+ ## L'Officiel Brasil
+ - [https://www.revistalofficiel.com.br](https://www.revistalofficiel.com.br)
+ - date_published: 2024-09-16T09:58:46.408517+00:00
+
+ ## Máxima
+ - [https://revistamaxima.com.br](https://revistamaxima.com.br)
+ - date_published: 2024-07-11T17:33:27+00:00
+
+ ## REI - REvolução Interior
+ - [http://www.revolucaointerior.com.br](http://www.revolucaointerior.com.br)
+ - date_published: 2024-12-20T09:48:06.740091+00:00
+
+ ## RFTV - Da Nossa Família Para Sua Família
+ - [https://www.rftv.com.br](https://www.rftv.com.br)
+ - date_published: 2024-12-26T17:57:18.410823+00:00
+
+ ## Home
+ - [https://ric.com.br](https://ric.com.br)
+ - date_published: 2024-12-26T18:28:04.679633+00:00
+
+ ## Portal Richmond
+ - [https://richmond.com.br](https://richmond.com.br)
+ - date_published: 2024-06-12T13:02:44.833617+00:00
+
+ ## RichmondShare Blog | High quality content and interaction in the ELT world
+ - [http://www.richmondshare.com.br](http://www.richmondshare.com.br)
+ - date_published: 2024-09-12T22:40:33.383989+00:00
+
+ ## RigLog - Assessoria Aduaneira e Transportes
+ - [https://www.riglog.com.br](https://www.riglog.com.br)
+ - date_published: 2024-12-23T08:10:24.457706+00:00
+
+ ## Loja online - Loja de ebooks e audiobooks da Editora Rocco
+ - [https://aguarde.rocco.com.br](https://aguarde.rocco.com.br)
+ - date_published: 2024-07-15T07:35:08.759396+00:00
+
+ ## Editora Rocco – Loja virtual da Editora Rocco
+ - [https://homol.rocco.com.br](https://homol.rocco.com.br)
+ - date_published: 2024-07-14T06:56:59+00:00
+
+ ## Editora Rocco – Loja virtual da Editora Rocco
+ - [https://rocco.com.br](https://rocco.com.br)
+ - date_published: 2024-05-12T05:44:54.068899+00:00
+
+ ## Rock in Love
+ - [http://www.rockinlove.com.br](http://www.rockinlove.com.br)
+ - date_published: 2024-12-14T17:40:14.581244+00:00
+
+ ## Rodrigo Ghedin | rodrigo.ghed.in
+ - [http://www.rodrigoghedin.com.br](http://www.rodrigoghedin.com.br)
+ - date_published: 2024-12-12T09:56:06.872821+00:00
+
+ ## Rolling Stone Brasil
+ - [https://rollingstone.com.br](https://rollingstone.com.br)
+ - date_published: 2024-07-11T17:33:25.201530+00:00
+
+ ## Rosa Passos - Site Oficial
+ - [https://www.rosapassos.com.br](https://www.rosapassos.com.br)
+ - date_published: 2024-07-15T06:07:15.944310+00:00
+
+ ## Rung - Gestão de Excepcionalidades
+ - [https://rung.com.br](https://rung.com.br)
+ - date_published: 2019-08-30T14:39:45+00:00
+
+ ## RW Studio
+ - [https://www.rwstudio.com.br](https://www.rwstudio.com.br)
+ - date_published: 2021-02-22T15:30:44+00:00
+
+ ## Editora Moderna :: Literatura
+ - [https://www.salamandra.com.br](https://www.salamandra.com.br)
+ - date_published: 2024-09-12T22:40:24.938053+00:00
+
+ ## SFA Sanitrit
+ - [https://www.sanitrit.com.br](https://www.sanitrit.com.br)
+ - date_published: 2024-12-21T01:21:01.662708+00:00
+
+ ## Sanofi, uma empresa inovadora de saúde global | Sanofi Brasil
+ - [https://www.sanofi.com.br](https://www.sanofi.com.br)
+ - date_published: 2024-07-03T03:39:44.856939+00:00
+
+ ## Abra sua conta - Santander
+ - [https://abrasuaconta.santander.com.br](https://abrasuaconta.santander.com.br)
+ - date_published: 2024-05-27T15:01:24+00:00
+
+ ## Santander - Atendimento
+ - [https://chat.santander.com.br](https://chat.santander.com.br)
+ - date_published: 2024-05-17T14:13:23+00:00
+
+ ## Encerramento de conta
+ - [https://encerramentodeconta.santander.com.br](https://encerramentodeconta.santander.com.br)
+ - date_published: 2021-12-21T18:27:12+00:00
+
+ ## Santander - Relações com Investidores
+ - [https://ri.santander.com.br](https://ri.santander.com.br)
+ - date_published: 2024-09-29T20:19:44.502820+00:00
+
+ ## Soluções Santander para você. Abrir conta corrente, pedir cartão de crédito, solicitar empréstimo e mais.
+ - [https://santander.com.br](https://santander.com.br)
+ - date_published: 2024-06-14T15:56:47+00:00
+
  ## Pessoa física
  - [https://santanderassetmanagement.com.br](https://santanderassetmanagement.com.br)
  - date_published: 2024-09-29T20:18:56.320164+00:00
@@ -3760,6 +3908,10 @@
  - [https://search.alberta.ca](https://search.alberta.ca)
  - date_published: 2024-07-10T00:00:00+00:00
 
+ ## UCA Home
+ - [https://ucahelps.alberta.ca](https://ucahelps.alberta.ca)
+ - date_published: 2024-12-30T23:53:50.862320+00:00
+
  ## Alberta Innovates
  - [http://albertainnovates.ca](http://albertainnovates.ca)
  - date_published: 2024-08-13T00:00:00+00:00
@@ -3856,157 +4008,4 @@
  ## Amazon Luna Cloud Gaming
  - [https://luna.amazon.ca](https://luna.amazon.ca)
  - date_published: 2024-08-07T00:00:00+00:00
-
- ## Amazon Kindle: Your free personal library you can take anywhere
- - [https://read.amazon.ca](https://read.amazon.ca)
- - date_published: 2024-06-24T04:14:19.790726+00:00
-
- ## Sell on Amazon.ca | Build Your Ecommerce Business
- - [https://sell.amazon.ca](https://sell.amazon.ca)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Welcome to Amazon Seller Central | Canada
- - [https://sellercentral.amazon.ca](https://sellercentral.amazon.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Supplier Connect
- - [https://supply.amazon.ca](https://supply.amazon.ca)
- - date_published: 2024-05-13T02:39:09.205396+00:00
-
- ## AME Roundup - Jan 20-23, 2025
- - [https://roundup.amebc.ca](https://roundup.amebc.ca)
- - date_published: 2023-07-29T02:55:35+00:00
-
- ## Alberta Machine Intelligence Institute | AI for good and for all
- - [https://amii.ca](https://amii.ca)
- - date_published: 2023-10-25T12:03:17.667569+00:00
-
- ## Alberta Machine Intelligence Institute | L'IA pour le bien et pour tous
- - [https://fr.amii.ca](https://fr.amii.ca)
- - date_published: 2024-08-19T11:02:32.861230+00:00
-
- ## Ancestry® | Genealogy, Family Trees & Family History Records
- - [https://www.ancestry.ca](https://www.ancestry.ca)
- - date_published: 2024-07-24T04:03:20+00:00
-
- ## anderegg.ca | Something (slightly) less boring than nothing.
- - [https://anderegg.ca](https://anderegg.ca)
- - date_published: 2023-10-25T12:03:20.730751+00:00
-
- ## ECO-EVOLUTIONARY DYNAMICS
- - [https://www.andrew-hendry.ca](https://www.andrew-hendry.ca)
- - date_published: 2024-08-11T22:05:47.394666+00:00
-
- ## Andrew King
- - [https://andrewking.ca](https://andrewking.ca)
- - date_published: 2024-06-23T15:44:43.918702+00:00
-
- ## Andrew Moore
- - [https://andrewmoore.ca](https://andrewmoore.ca)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Andrew Rickard
- - [https://www.andrewrickard.ca](https://www.andrewrickard.ca)
- - date_published: 2024-05-01T16:43:56+00:00
-
- ## Latest | Andy Holmes
- - [https://www.andyholmes.ca](https://www.andyholmes.ca)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Animalhospitals in Canada, Canada
- - [http://www.animalhospitals.ca](http://www.animalhospitals.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## AnimeCons.ca - Canadian Anime Conventions
- - [https://animecons.ca](https://animecons.ca)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Anne Saint Louis
- - [https://annesaintlouis.ca](https://annesaintlouis.ca)
- - date_published: 2024-08-06T15:39:16.215591+00:00
-
- ## Annie's Homegrown | Delicious Organic Food for Everybunny
- - [https://www.annieshomegrown.ca](https://www.annieshomegrown.ca)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## ANOA | Nice Websites for Nice People
- - [https://www.anoa.ca](https://www.anoa.ca)
- - date_published: 2024-11-16T22:24:27.216552+00:00
-
- ## Anthony Chu
- - [https://anthonychu.ca](https://anthonychu.ca)
- - date_published: 2023-08-31T00:00:00+00:00
-
- ## Language selection - Canadian Anti-Fraud Centre / Sélection de la langue - Centre antifraude du Canada
- - [https://antifraudcentre-centreantifraude.ca](https://antifraudcentre-centreantifraude.ca)
- - date_published: 2019-12-27T00:00:00+00:00
-
- ## Canadian Anti-Hate Network
- - [https://www.antihate.ca](https://www.antihate.ca)
- - date_published: 2024-12-12T08:02:30.845248+00:00
-
- ## Find Companies & Services Near You - AnuGo.ca
- - [https://www.anugo.ca](https://www.anugo.ca)
- - date_published: 2024-10-31T01:01:18.118030+00:00
-
- ## Kit Builder
- - [https://kb-load.anvasoft.ca](https://kb-load.anvasoft.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Accessibility for Ontarians with Disabilities Act (AODA)
- - [https://www.aoda.ca](https://www.aoda.ca)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## A-OKAY
- - [https://a-okay.ca](https://a-okay.ca)
- - date_published: 2024-07-24T07:59:32.578908+00:00
-
- ## 202310 - apenwarr
- - [https://apenwarr.ca](https://apenwarr.ca)
- - date_published: 2023-10-25T12:03:23.733666+00:00
-
- ## Apocryphicity
- - [http://www.apocryphicity.ca](http://www.apocryphicity.ca)
- - date_published: 2024-06-28T19:27:51+00:00
-
- ## silverorange Job Board - View Our Current Openings
- - [https://silverorange.applytojobs.ca](https://silverorange.applytojobs.ca)
- - date_published: 2024-07-14T03:22:10.999956+00:00
-
- ## Private tutor to learn language, music or school tutoring at home
- - [https://www.apprentus.ca](https://www.apprentus.ca)
- - date_published: 2024-12-11T11:06:17.154190+00:00
-
- ## APTN | THE FIRST NATIONAL INDIGENOUS BROADCASTER IN THE WORLD
- - [http://www.aptn.ca](http://www.aptn.ca)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Home - APTN News
- - [https://www.aptnnews.ca](https://www.aptnnews.ca)
- - date_published: 2024-09-12T11:00:21+00:00
-
- ## Arcadia Earth | An Immersive Art & Technology Experience
- - [http://www.arcadiaearth.ca](http://www.arcadiaearth.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Alana Cattapan
- - [https://arcattapan.ca](https://arcattapan.ca)
- - date_published: 2024-05-09T09:11:39.883714+00:00
- - tags: ['personal']
-
- ## archlinux.ca
- - [http://xyne.archlinux.ca](http://xyne.archlinux.ca)
- - date_published: 2024-08-11T11:54:50.184005+00:00
-
- ## Home
- - [https://arctiq.ca](https://arctiq.ca)
- - date_published: 2024-05-09T04:54:47.297920+00:00
-
- ## Arearugs in Canada, Canada
- - [http://www.arearugs.ca](http://www.arearugs.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Ariel Katz
- - [http://arielkatz.ca](http://arielkatz.ca)
- - date_published: 2024-10-22T21:49:37.691158+00:00
 

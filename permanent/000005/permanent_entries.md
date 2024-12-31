@@ -1,3 +1,31 @@
+ ## Didthis
+ - [https://didthis.app](https://didthis.app)
+ - date_published: 2024-05-08T10:31:33.250502+00:00
+
+ ## Diffusion Depot · Smart image manager for Stable Diffusion, Midjourney, and DALL-E
+ - [https://diffusiondepot.app](https://diffusiondepot.app)
+ - date_published: 2024-07-10T11:16:39.983398+00:00
+
+ ## Digiboard by La Digitale
+ - [https://digiboard.app](https://digiboard.app)
+ - date_published: 2024-06-19T22:13:52.808568+00:00
+
+ ## Digibuzzer by La Digitale
+ - [https://digibuzzer.app](https://digibuzzer.app)
+ - date_published: 2024-06-19T22:21:57.705558+00:00
+
+ ## Digipad by La Digitale
+ - [https://digipad.app](https://digipad.app)
+ - date_published: 2024-06-19T22:14:29.585680+00:00
+
+ ## Digipage by La Digitale
+ - [https://digipage.app](https://digipage.app)
+ - date_published: 2024-10-31T05:03:38.057081+00:00
+
+ ## DigiPDF by La Digitale
+ - [https://digipdf.app](https://digipdf.app)
+ - date_published: 2024-10-31T05:03:36.955929+00:00
+
  ## Digistorm by La Digitale
  - [https://digistorm.app](https://digistorm.app)
  - date_published: 2024-06-19T22:35:03.515046+00:00
@@ -506,6 +534,10 @@
  - [https://toolmaker.fermat.app](https://toolmaker.fermat.app)
  - date_published: 2024-06-21T20:01:36.491097+00:00
 
+ ## Fiedka 🧰⚙️🐙
+ - [https://fiedka.app](https://fiedka.app)
+ - date_published: 2024-08-20T14:42:44+00:00
+
  ## figr.app - Your notepad calculator
  - [https://figr.app](https://figr.app)
  - date_published: 2023-10-25T11:46:26.735024+00:00
@@ -799,6 +831,10 @@
  ## geleza.app: Write better marketing copy and content with AI
  - [https://geleza.app](https://geleza.app)
  - date_published: 2024-06-19T20:09:16.901670+00:00
+
+ ## GemPad - Multi-chain Launchpad & Web3 Crowdfunding Platform
+ - [https://gempad.app](https://gempad.app)
+ - date_published: 2024-12-30T08:55:20.573491+00:00
 
  ## Genea.app - Build your family tree
  - [https://www.genea.app](https://www.genea.app)
@@ -1554,6 +1590,10 @@
  ## Kindllm - LLM chat for Kindle
  - [https://kindllm.app](https://kindllm.app)
  - date_published: 2023-07-21T00:00:00+00:00
+
+ ## Show HN: I built open source file sharing solution using AWS S3
+ - [https://s3-file-share-for-free-35n2u.kinsta.app](https://s3-file-share-for-free-35n2u.kinsta.app)
+ - date_published: 2024-12-30T12:37:47+00:00
 
  ## Klap | Turn videos into viral shorts
  - [https://klap.app](https://klap.app)
@@ -3995,44 +4035,4 @@ The Album
  - [https://notado.app](https://notado.app)
  - date_published: 2024-05-04T12:26:33.768576+00:00
  - tags: ['bookmarks']
-
- ## Document
- - [https://doc.notebookjs.app](https://doc.notebookjs.app)
- - date_published: 2021-10-05T12:46:53+00:00
-
- ## Show HN: NotesHub: cross-platform, Markdown-based note-taking app
- - [https://about.noteshub.app](https://about.noteshub.app)
- - date_published: 2024-10-11T12:37:37+00:00
-
- ## Nova
- - [https://docs.nova.app](https://docs.nova.app)
- - date_published: 2023-12-20T01:05:44+00:00
-
- ## Nova
- - [https://nova.app](https://nova.app)
- - date_published: 2024-05-22T19:02:18+00:00
-
- ## NOW Tracker – the best free portfolio tracker by ChangeNOW
- - [https://nowtracker.app](https://nowtracker.app)
- - date_published: 2024-06-30T06:03:56.607868+00:00
-
- ## Nozbe
- - [https://nozbe.app](https://nozbe.app)
- - date_published: 2024-08-05T17:59:05.218398+00:00
-
- ## Nsec.app - Nostr Key Storage and Remote Signer
- - [https://nsec.app](https://nsec.app)
- - date_published: 2024-04-16T13:02:24+00:00
-
- ## Beautiful calculator for Mac
- - [https://numi.app](https://numi.app)
- - date_published: 2024-07-24T07:59:46.533075+00:00
-
- ## Log in | Nx Cloud
- - [https://cloud.nx.app](https://cloud.nx.app)
- - date_published: 2024-04-30T02:04:24.365167+00:00
-
- ## Fast CI · Built for Monorepos
- - [https://nx.app](https://nx.app)
- - date_published: 2024-02-23T00:00:00+00:00
 

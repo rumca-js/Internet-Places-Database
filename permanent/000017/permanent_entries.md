@@ -1,3 +1,139 @@
+ ## Internet Segura
+ - [https://internetsegura.br](https://internetsegura.br)
+ - date_published: 2024-07-17T10:08:26+00:00
+
+ ## IPv6
+ - [http://ipv6.br](http://ipv6.br)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Login
+ - [https://assinador.iti.br](https://assinador.iti.br)
+ - date_published: 2024-05-10T03:45:53.589618+00:00
+
+ ## IX.br
+ - [https://ix.br](https://ix.br)
+ - date_published: 2024-07-18T12:38:40.857528+00:00
+
+ ## bcp.nic.br
+ - [https://bcp.nic.br](https://bcp.nic.br)
+ - date_published: 2024-07-18T12:38:11.979953+00:00
+
+ ## Teste sua Velocidade de Internet | SIMET
+ - [https://beta.simet.nic.br](https://beta.simet.nic.br)
+ - date_published: 2023-08-31T15:29:16+00:00
+
+ ## Cidadão na Rede
+ - [https://cidadaonarede.nic.br](https://cidadaonarede.nic.br)
+ - date_published: 2024-07-18T12:38:30.754334+00:00
+
+ ## Cursos e eventos NIC.br
+ - [https://cursoseventos.nic.br](https://cursoseventos.nic.br)
+ - date_published: 2024-07-18T12:38:48.493136+00:00
+
+ ## Núcleo de Informação e Coordenação do Ponto BR - Início
+ - [https://nic.br](https://nic.br)
+ - date_published: 2024-05-14T03:51:51.865000+00:00
+
+ ## Teste sua Velocidade de Internet | SIMET
+ - [https://simet.nic.br](https://simet.nic.br)
+ - date_published: 2023-08-31T15:29:16+00:00
+
+ ## Teste para padrões técnicos modernos de Internet, como IPv6, DNSSEC, HTTPS, TLS, HSTS, DMARC, DKIM, SPF, STARTTLS e DANE.
+ - [https://top.nic.br](https://top.nic.br)
+ - date_published: 2024-07-18T12:38:51.187755+00:00
+
+ ## IX.br
+ - [https://ptt.br](https://ptt.br)
+ - date_published: 2024-07-18T12:38:17.847584+00:00
+
+ ## Ambiente de Aprendizagem Online da PUC-Rio: Acesso ao site
+ - [https://ead.puc-rio.br](https://ead.puc-rio.br)
+ - date_published: 2024-07-07T06:43:09.320864+00:00
+
+ ## ECOA PUC-Rio educação digital
+ - [https://ecoa.puc-rio.br](https://ecoa.puc-rio.br)
+ - date_published: 2024-05-08T23:17:01+00:00
+
+ ## Escritório de Processos
+ - [https://ep.dsi.puc-rio.br](https://ep.dsi.puc-rio.br)
+ - date_published: 2024-07-07T06:42:00.491430+00:00
+
+ ## Pós-Graduação Online | PUC-Rio Digital
+ - [http://especializacao.ccec.puc-rio.br](http://especializacao.ccec.puc-rio.br)
+ - date_published: 2024-10-16T07:05:08.012606+00:00
+
+ ## Página inicial | Núcleo de Memória
+ - [http://nucleodememoria.vrac.puc-rio.br](http://nucleodememoria.vrac.puc-rio.br)
+ - date_published: 2024-07-07T06:43:21+00:00
+
+ ## PUC-Rio - Pontifícia Universidade Católica do Rio de Janeiro
+ - [https://puc-rio.br](https://puc-rio.br)
+ - date_published: 2024-05-08T09:46:24.884177+00:00
+
+ ## Página inicial - PUC Urgente
+ - [https://pucurgente.com.puc-rio.br](https://pucurgente.com.puc-rio.br)
+ - date_published: 2024-07-07T06:42:39.759766+00:00
+
+ ## Vice-Reitoria Administrativa da PUC-Rio​​​​
+ - [http://spadm.puc-rio.br](http://spadm.puc-rio.br)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Tecgraf, PUC-Rio
+ - [https://tecgraf.puc-rio.br](https://tecgraf.puc-rio.br)
+ - date_published: 2023-10-25T12:02:07.692461+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://webserver2.tecgraf.puc-rio.br](http://webserver2.tecgraf.puc-rio.br)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Ambiente de Aprendizagem Online da PUC-Rio: Acesso ao site
+ - [http://www.ccead.puc-rio.br](http://www.ccead.puc-rio.br)
+ - date_published: 2024-07-07T06:42:26.018147+00:00
+
+ ## CCE PUC-Rio
+ - [http://www.cce.puc-rio.br](http://www.cce.puc-rio.br)
+ - date_published: 2024-07-07T05:47:01+00:00
+
+ ## CCESP
+ - [http://www.ccesp.puc-rio.br](http://www.ccesp.puc-rio.br)
+ - date_published: 2024-07-07T06:43:38.337945+00:00
+
+ ## COVID2 - COVID-19 ICA
+ - [http://www.covid.ica.ele.puc-rio.br](http://www.covid.ica.ele.puc-rio.br)
+ - date_published: 2024-10-11T12:11:47.651244+00:00
+
+ ## WWW-DI - Departamento de Informatica - PUC-Rio
+ - [http://www-di.inf.puc-rio.br](http://www-di.inf.puc-rio.br)
+ - date_published: 2023-01-02T16:27:07+00:00
+
+ ## PUC Rio | Departamento de Economia
+ - [https://www.econ.puc-rio.br](https://www.econ.puc-rio.br)
+ - date_published: 2024-10-31T12:20:27.417136+00:00
+
+ ## Departamento de Informática – PUC-Rio | Home
+ - [https://www.inf.puc-rio.br](https://www.inf.puc-rio.br)
+ - date_published: 2024-06-17T03:14:29.702028+00:00
+
+ ## Maxwell
+ - [http://www.maxwell.vrac.puc-rio.br](http://www.maxwell.vrac.puc-rio.br)
+ - date_published: 2024-07-07T06:42:17.039769+00:00
+
+ ## PSI.PUC-RIO
+ - [http://www.psi.puc-rio.br](http://www.psi.puc-rio.br)
+ - date_published: 2021-04-08T22:59:32+00:00
+
+ ## PUC-Rio - Rio Datacentro (RDC)
+ - [https://www.rdc.puc-rio.br](https://www.rdc.puc-rio.br)
+ - date_published: 2024-07-07T06:42:28.527190+00:00
+
+ ## Início
+ - [http://www.ser.puc-rio.br](http://www.ser.puc-rio.br)
+ - date_published: 2024-07-07T06:43:24+00:00
+
+ ## Graduação, Pós e MBA na PUCRS Online
+ - [https://online.pucrs.br](https://online.pucrs.br)
+ - date_published: 2024-12-22T04:42:29+00:00
+
  ## Portal da PUCRS
  - [https://www.pucrs.br](https://www.pucrs.br)
  - date_published: 2024-09-12T00:00:00+00:00
@@ -1031,6 +1167,10 @@ Educação
  - [https://www.assineculturama.com.br](https://www.assineculturama.com.br)
  - date_published: 2022-01-13T00:00:00+00:00
 
+ ## Assine Salvat - Garanta já sua assinatura
+ - [https://www.assinesalvat.com.br](https://www.assinesalvat.com.br)
+ - date_published: 2024-12-30T22:06:47.140813+00:00
+
  ## Ateliê do Crochê - Blog de Crochê
  - [https://ateliedocroche.com.br](https://ateliedocroche.com.br)
  - date_published: 2024-12-20T09:18:15.724332+00:00
@@ -1094,6 +1234,10 @@ Educação
  ## Ayn Rand Space
  - [http://www.aynrand.com.br](http://www.aynrand.com.br)
  - date_published: 2024-12-12T23:37:50.655727+00:00
+
+ ## AZMED | O portal de conteúdo científico da AstraZeneca Brasil
+ - [https://www.azmed.com.br](https://www.azmed.com.br)
+ - date_published: 2024-12-30T22:46:44.941594+00:00
 
  ## GOODTOGEL - Daftar Situs Toto Togel Terpercaya dan Situs Togel #1 Terbesar di Asia
  - [https://azpop.com.br](https://azpop.com.br)
@@ -3274,6 +3418,10 @@ Educação
  - [https://multiversonoticias.com.br](https://multiversonoticias.com.br)
  - date_published: 2024-12-26T17:30:53+00:00
 
+ ## Mundos Infinitos - Loja de Comics, Álbuns e Mangás
+ - [https://mundosinfinitos.com.br](https://mundosinfinitos.com.br)
+ - date_published: 2024-12-30T22:06:43.767915+00:00
+
  ## Muramasa
  - [https://muramasa.com.br](https://muramasa.com.br)
  - date_published: 2024-12-26T17:57:08.393495+00:00
@@ -3863,152 +4011,4 @@ Educação
  ## Loja online - Ebooks Grupo Record – record.bookwire.br
  - [https://ebooks.record.com.br](https://ebooks.record.com.br)
  - date_published: 2024-07-13T02:13:21.200687+00:00
-
- ## Grupo Editorial Record
- - [https://record.com.br](https://record.com.br)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Recreio
- - [https://recreio.com.br](https://recreio.com.br)
- - date_published: 2024-07-11T17:33:19.111256+00:00
-
- ## Loja oficial da Red Bull | Seja parte da ação
- - [https://redbullshop.com.br](https://redbullshop.com.br)
- - date_published: 2024-10-31T13:30:10.370745+00:00
-
- ## Rede D'Or São Luiz - Home
- - [https://www.rededorsaoluiz.com.br](https://www.rededorsaoluiz.com.br)
- - date_published: 2024-07-13T02:16:14.586893+00:00
-
- ## RFTV - Da Nossa Família Para Sua Família
- - [https://www.redefamilia.com.br](https://www.redefamilia.com.br)
- - date_published: 2024-12-26T17:55:21.984153+00:00
-
- ## GloboAds | Ecossistema de soluções para sua marca
- - [http://negocios8.redeglobo.com.br](http://negocios8.redeglobo.com.br)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## REVIL | www.residentevil.com.br
- - [https://residentevil.com.br](https://residentevil.com.br)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Retrópolis - A cidade dos clássicos Atari Falcon 030 Microbox… Parece familiar?
- - [https://retropolis.com.br](https://retropolis.com.br)
- - date_published: 2024-05-08T04:06:37.967708+00:00
-
- ## Apollo
- - [https://apollo.returncapital.com.br](https://apollo.returncapital.com.br)
- - date_published: 2024-09-29T20:26:23.910578+00:00
-
- ## B2B | Revenda
- - [https://www.revendaculturama.com.br](https://www.revendaculturama.com.br)
- - date_published: 2024-07-13T02:19:25.218555+00:00
-
- ## AnaMaria
- - [https://revistaanamaria.com.br](https://revistaanamaria.com.br)
- - date_published: 2024-07-11T17:33:40.063591+00:00
-
- ## Revista Inspire-C - Inspiração, Reflexão e Ética
- - [https://revistainspirec.com.br](https://revistainspirec.com.br)
- - date_published: 2024-07-09T06:47:27+00:00
-
- ## L'Officiel Brasil
- - [https://www.revistalofficiel.com.br](https://www.revistalofficiel.com.br)
- - date_published: 2024-09-16T09:58:46.408517+00:00
-
- ## Máxima
- - [https://revistamaxima.com.br](https://revistamaxima.com.br)
- - date_published: 2024-07-11T17:33:27+00:00
-
- ## REI - REvolução Interior
- - [http://www.revolucaointerior.com.br](http://www.revolucaointerior.com.br)
- - date_published: 2024-12-20T09:48:06.740091+00:00
-
- ## RFTV - Da Nossa Família Para Sua Família
- - [https://www.rftv.com.br](https://www.rftv.com.br)
- - date_published: 2024-12-26T17:57:18.410823+00:00
-
- ## Home
- - [https://ric.com.br](https://ric.com.br)
- - date_published: 2024-12-26T18:28:04.679633+00:00
-
- ## Portal Richmond
- - [https://richmond.com.br](https://richmond.com.br)
- - date_published: 2024-06-12T13:02:44.833617+00:00
-
- ## RichmondShare Blog | High quality content and interaction in the ELT world
- - [http://www.richmondshare.com.br](http://www.richmondshare.com.br)
- - date_published: 2024-09-12T22:40:33.383989+00:00
-
- ## RigLog - Assessoria Aduaneira e Transportes
- - [https://www.riglog.com.br](https://www.riglog.com.br)
- - date_published: 2024-12-23T08:10:24.457706+00:00
-
- ## Loja online - Loja de ebooks e audiobooks da Editora Rocco
- - [https://aguarde.rocco.com.br](https://aguarde.rocco.com.br)
- - date_published: 2024-07-15T07:35:08.759396+00:00
-
- ## Editora Rocco – Loja virtual da Editora Rocco
- - [https://homol.rocco.com.br](https://homol.rocco.com.br)
- - date_published: 2024-07-14T06:56:59+00:00
-
- ## Editora Rocco – Loja virtual da Editora Rocco
- - [https://rocco.com.br](https://rocco.com.br)
- - date_published: 2024-05-12T05:44:54.068899+00:00
-
- ## Rock in Love
- - [http://www.rockinlove.com.br](http://www.rockinlove.com.br)
- - date_published: 2024-12-14T17:40:14.581244+00:00
-
- ## Rodrigo Ghedin | rodrigo.ghed.in
- - [http://www.rodrigoghedin.com.br](http://www.rodrigoghedin.com.br)
- - date_published: 2024-12-12T09:56:06.872821+00:00
-
- ## Rolling Stone Brasil
- - [https://rollingstone.com.br](https://rollingstone.com.br)
- - date_published: 2024-07-11T17:33:25.201530+00:00
-
- ## Rosa Passos - Site Oficial
- - [https://www.rosapassos.com.br](https://www.rosapassos.com.br)
- - date_published: 2024-07-15T06:07:15.944310+00:00
-
- ## Rung - Gestão de Excepcionalidades
- - [https://rung.com.br](https://rung.com.br)
- - date_published: 2019-08-30T14:39:45+00:00
-
- ## RW Studio
- - [https://www.rwstudio.com.br](https://www.rwstudio.com.br)
- - date_published: 2021-02-22T15:30:44+00:00
-
- ## Editora Moderna :: Literatura
- - [https://www.salamandra.com.br](https://www.salamandra.com.br)
- - date_published: 2024-09-12T22:40:24.938053+00:00
-
- ## SFA Sanitrit
- - [https://www.sanitrit.com.br](https://www.sanitrit.com.br)
- - date_published: 2024-12-21T01:21:01.662708+00:00
-
- ## Sanofi, uma empresa inovadora de saúde global | Sanofi Brasil
- - [https://www.sanofi.com.br](https://www.sanofi.com.br)
- - date_published: 2024-07-03T03:39:44.856939+00:00
-
- ## Abra sua conta - Santander
- - [https://abrasuaconta.santander.com.br](https://abrasuaconta.santander.com.br)
- - date_published: 2024-05-27T15:01:24+00:00
-
- ## Santander - Atendimento
- - [https://chat.santander.com.br](https://chat.santander.com.br)
- - date_published: 2024-05-17T14:13:23+00:00
-
- ## Encerramento de conta
- - [https://encerramentodeconta.santander.com.br](https://encerramentodeconta.santander.com.br)
- - date_published: 2021-12-21T18:27:12+00:00
-
- ## Santander - Relações com Investidores
- - [https://ri.santander.com.br](https://ri.santander.com.br)
- - date_published: 2024-09-29T20:19:44.502820+00:00
-
- ## Soluções Santander para você. Abrir conta corrente, pedir cartão de crédito, solicitar empréstimo e mais.
- - [https://santander.com.br](https://santander.com.br)
- - date_published: 2024-06-14T15:56:47+00:00
 

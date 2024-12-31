@@ -1,3 +1,180 @@
+ ## President's Choice®
+ - [http://www.presidentschoice.ca](http://www.presidentschoice.ca)
+ - date_published: 2024-06-16T09:41:31.566263+00:00
+
+ ## Hello PRESTO | PRESTO Card
+ - [https://www.prestocard.ca](https://www.prestocard.ca)
+ - date_published: 2024-12-23T02:08:50.362439+00:00
+
+ ## Women's Fashion Clothing & Dresses
+ - [https://www.prettylittlething.ca](https://www.prettylittlething.ca)
+ - date_published: 2024-10-20T14:11:23.859421+00:00
+
+ ## Patryk's blog
+ - [https://prezu.ca](https://prezu.ca)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Home - Price Strong
+ - [https://pricestrong.ca](https://pricestrong.ca)
+ - date_published: 2024-10-28T03:26:37.399450+00:00
+
+ ## Welcome to Primal Harvest | The Top Natural Supplements
+ - [https://primalharvest.ca](https://primalharvest.ca)
+ - date_published: 2024-12-15T03:26:08.846188+00:00
+
+ ## Government of Prince Edward Island
+ - [https://www.princeedwardisland.ca](https://www.princeedwardisland.ca)
+ - date_published: 2024-07-07T03:37:18.983586+00:00
+
+ ## Printing in Canada, Canada
+ - [http://www.printing.ca](http://www.printing.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Private Banking Directory Wealth Management Offshore Banking Investment
+ - [http://www.privatebanking.ca](http://www.privatebanking.ca)
+ - date_published: 2024-09-25T10:21:27.260633+00:00
+
+ ## Private Banking 1859 | Private Banking 1859
+ - [https://www.privatebanking1859.ca](https://www.privatebanking1859.ca)
+ - date_published: 2024-08-19T09:56:01+00:00
+
+ ## ProBenefits
+ - [https://probenefits.ca](https://probenefits.ca)
+ - date_published: 2024-10-14T18:03:21.433843+00:00
+
+ ## Gambling, Gaming and Technology Use
+ - [http://www.problemgambling.ca](http://www.problemgambling.ca)
+ - date_published: 2024-07-12T00:00:15+00:00
+
+ ## Web Server's Default Page
+ - [https://www.processwest.ca](https://www.processwest.ca)
+ - date_published: 2021-01-30T19:17:19+00:00
+
+ ## The Progressive Economics Forum
+ - [https://www.progressive-economics.ca](https://www.progressive-economics.ca)
+ - date_published: 2024-06-28T12:59:39.955765+00:00
+
+ ## Prolucid - Software Engineering
+ - [http://prolucid.ca](http://prolucid.ca)
+ - date_published: 2024-03-27T02:00:47+00:00
+
+ ## Real Estate
+ - [https://www.properly.ca](https://www.properly.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Oceana Canada Protecting the World's Oceans
+ - [https://protectoceans.ca](https://protectoceans.ca)
+ - date_published: 2024-05-09T05:08:20.707676+00:00
+
+ ## Provocation Ideas Festival
+ - [https://provocation.ca](https://provocation.ca)
+ - date_published: 2024-04-03T06:41:18.385403+00:00
+
+ ## Psiphon | Uncensored Internet access for Windows and Mobile
+ - [https://psiphon.ca](https://psiphon.ca)
+ - date_published: 2024-02-06T18:17:34+00:00
+
+ ## Psychedelics | Canadian Centre for Psychedelic Science
+ - [https://psychedelicscience.ca](https://psychedelicscience.ca)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Vancouver BC Architecture Architects Interior Designers | Public Architecture
+ - [https://publicarchitecture.ca](https://publicarchitecture.ca)
+ - date_published: 2022-07-18T06:43:29+00:00
+
+ ## Welcome | Public Health Ontario
+ - [https://www.publichealthontario.ca](https://www.publichealthontario.ca)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Punk Rock Radio.ca
+ - [http://punkrockradio.ca](http://punkrockradio.ca)
+ - date_published: 2024-09-05T11:28:49.435585+00:00
+
+ ## Home Interior Decoration Company Newmarket | Interior Design
+ - [https://purplecube.ca](https://purplecube.ca)
+ - date_published: 2023-08-25T00:00:00+00:00
+
+ ## Puzzle Master Inc - #1 Platform to Buy Puzzles Online
+ - [https://puzzlemaster.ca](https://puzzlemaster.ca)
+ - date_published: 2024-06-15T18:37:46.982243+00:00
+
+ ## Paul Khuong: some Lisp
+ - [https://pvk.ca](https://pvk.ca)
+ - date_published: 2023-10-25T09:02:45.102005+00:00
+ - tags: ['personal']
+
+ ## PyCon Canada 2019
+ - [http://pycon.ca](http://pycon.ca)
+ - date_published: 2024-06-28T20:23:54.732633+00:00
+
+ ## Pyskool
+ - [https://pyskool.ca](https://pyskool.ca)
+ - date_published: 2019-06-17T21:02:00+00:00
+
+ ## Welcome to Python.org
+ - [http://python.ca](http://python.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## www.Qc125.ca | Philippe J. Fournier | Substack
+ - [https://www.qc125.ca](https://www.qc125.ca)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## QIX - Échange Internet de Montréal
+ - [https://qix.ca](https://qix.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Invest with Qtrade Direct Investing
+ - [https://www.qtrade.ca](https://www.qtrade.ca)
+ - date_published: 2024-07-12T23:51:06+00:00
+
+ ## BDP Quadrangle | Architecture, Design and Urbanism Firm | BDP Quadrangle
+ - [http://www.quadrangle.ca](http://www.quadrangle.ca)
+ - date_published: 2024-12-12T15:21:25.183790+00:00
+
+ ## Quantum's Mirrors
+ - [https://mirror.quantum5.ca](https://mirror.quantum5.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Quantum | Quantum’s (a.k.a. Guanzhong Chen) blog about coding, security, and other computer technology.
+ - [https://quantum5.ca](https://quantum5.ca)
+ - date_published: 2023-10-25T12:06:33.370337+00:00
+
+ ## Coral
+ - [https://commentaires.qub.ca](https://commentaires.qub.ca)
+ - date_published: 2024-08-19T08:11:04.493969+00:00
+
+ ## Tous vos contenus à un seul endroit | QUB
+ - [https://www.qub.ca](https://www.qub.ca)
+ - date_published: 2024-08-19T08:11:02.853349+00:00
+
+ ## Bienvenue sur Québec.ca
+ - [https://www.quebec.ca](https://www.quebec.ca)
+ - date_published: 2024-07-13T17:43:04.377405+00:00
+
+ ## Queen Square Press
+ - [https://shop.queensquarepress.ca](https://shop.queensquarepress.ca)
+ - date_published: 2024-04-30T05:03:29.995751+00:00
+
+ ## COASTLINES – Canadian cOASTal and Lake forecastINg modEl System
+ - [https://coastlines.engineering.queensu.ca](https://coastlines.engineering.queensu.ca)
+ - date_published: 2024-08-18T04:48:52.756042+00:00
+
+ ## Home | Faculty of Health Sciences | Queen's University
+ - [http://healthsci.queensu.ca](http://healthsci.queensu.ca)
+ - date_published: 2024-06-21T12:49:35+00:00
+
+ ## Home | School of Medicine | Queen's University
+ - [http://meds.queensu.ca](http://meds.queensu.ca)
+ - date_published: 2024-06-21T18:19:12+00:00
+
+ ## Home | Centre for Neuroscience Studies at Queen’s University
+ - [http://neuroscience.queensu.ca](http://neuroscience.queensu.ca)
+ - date_published: 2024-06-23T11:33:39.438211+00:00
+
+ ## The SNO Homepage
+ - [https://sno.phy.queensu.ca](https://sno.phy.queensu.ca)
+ - date_published: 2021-04-19T21:48:41+00:00
+
  ## The SNO+ Experiment
  - [https://snoplus.phy.queensu.ca](https://snoplus.phy.queensu.ca)
  - date_published: 2023-03-11T00:00:00+00:00
@@ -328,6 +505,10 @@
  ## CRA
  - [https://rheum.ca](https://rheum.ca)
  - date_published: 2023-10-25T02:27:27+00:00
+
+ ## (no title)
+ - [https://richardblute.ca](https://richardblute.ca)
+ - date_published: 2024-12-24T04:19:31+00:00
 
  ## Home - The Ride Fair Coalition
  - [https://ridefair.ca](https://ridefair.ca)
@@ -2064,6 +2245,10 @@
  - [https://www.tnrd.ca](https://www.tnrd.ca)
  - date_published: 2024-08-18T11:13:07+00:00
 
+ ## Today's Northumberland and Beyond - Community News, Sports, Events
+ - [https://todaysnorthumberland.ca](https://todaysnorthumberland.ca)
+ - date_published: 2024-12-30T18:27:01.380846+00:00
+
  ## Todd Industries - Game Servers
  - [https://games.toddindustries.ca](https://games.toddindustries.ca)
  - date_published: 2024-06-16T21:25:29.763007+00:00
@@ -2204,6 +2389,10 @@
  ## Newsroom | Toyota Canada
  - [https://media.toyota.ca](https://media.toyota.ca)
  - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Toy Store For All Your Needs | Toys "R" Us Canada
+ - [http://www.toysrus.ca](http://www.toysrus.ca)
+ - date_published: 2024-12-30T18:30:59.434380+00:00
 
  ## Vintage Toys & Games, History and Exploration of Play | Toy Tales
  - [https://toytales.ca](https://toytales.ca)
@@ -3841,192 +4030,4 @@
  ## Home
  - [https://pdinstitute.uottawa.ca](https://pdinstitute.uottawa.ca)
  - date_published: 2024-04-30T05:27:43.655424+00:00
-
- ## Home - TLSS
- - [https://saea-tlss.uottawa.ca](https://saea-tlss.uottawa.ca)
- - date_published: 2021-08-18T16:25:28+00:00
-
- ## Telfer School of Management
- - [https://sites.telfer.uottawa.ca](https://sites.telfer.uottawa.ca)
- - date_published: 2024-07-21T08:26:04.244934+00:00
-
- ## Centre for Law, Technology and Society | Research and innovation
- - [https://techlaw.uottawa.ca](https://techlaw.uottawa.ca)
- - date_published: 2024-07-16T19:47:33+00:00
-
- ## Home
- - [https://telfer.uottawa.ca](https://telfer.uottawa.ca)
- - date_published: 2024-04-30T05:27:47.150767+00:00
-
- ## E-Page
- - [https://ue.uottawa.ca](https://ue.uottawa.ca)
- - date_published: 2024-01-25T16:57:55+00:00
-
- ## Research Network | University of Ottawa
- - [https://uniweb.uottawa.ca](https://uniweb.uottawa.ca)
- - date_published: 2024-10-29T20:44:56.335352+00:00
-
- ## Welcome to uoforms.uottawa.ca | uoforms.uottawa.ca
- - [https://uoforms.uottawa.ca](https://uoforms.uottawa.ca)
- - date_published: 2024-07-21T08:26:41.990505+00:00
-
- ## Home | University of Ottawa
- - [https://uottawa.ca](https://uottawa.ca)
- - date_published: 2024-08-19T19:30:43+00:00
-
- ## Sign in to your account
- - [https://virtuo.uottawa.ca](https://virtuo.uottawa.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home | University of Ottawa
- - [https://www2.uottawa.ca](https://www2.uottawa.ca)
- - date_published: 2024-07-19T18:00:37+00:00
-
- ## Home page - University of Ottawa Press - EN
- - [http://www.press.uottawa.ca](http://www.press.uottawa.ca)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## UPEI Home Page | University of Prince Edward Island
- - [https://www.upei.ca](https://www.upei.ca)
- - date_published: 2024-12-12T20:34:20.654964+00:00
-
- ## Upside Foundation
- - [http://upsidefoundation.ca](http://upsidefoundation.ca)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Accueil | Actualités UQAM
- - [https://actualites.uqam.ca](https://actualites.uqam.ca)
- - date_published: 2021-12-01T07:55:57+00:00
-
- ## Balados
- - [https://balados.uqam.ca](https://balados.uqam.ca)
- - date_published: 2024-12-15T13:36:39.600723+00:00
-
- ## Accueil | Service des bibliothèques | UQAM
- - [https://bibliotheques.uqam.ca](https://bibliotheques.uqam.ca)
- - date_published: 2024-12-15T13:37:41.631560+00:00
-
- ## Accueil | Bourses d'études | UQAM
- - [https://bourses.uqam.ca](https://bourses.uqam.ca)
- - date_published: 2024-12-15T13:37:14.764459+00:00
-
- ## Plan interactif - Plan du campus | UQAM
- - [http://carte.uqam.ca](http://carte.uqam.ca)
- - date_published: 2024-12-15T13:36:33+00:00
-
- ## Bureau des diplômés
- - [https://diplomes.uqam.ca](https://diplomes.uqam.ca)
- - date_published: 2024-12-15T13:37:02.300996+00:00
-
- ## Prix et distinctions | UQAM
- - [http://distinctions.uqam.ca](http://distinctions.uqam.ca)
- - date_published: 2024-12-15T13:37:10.606316+00:00
-
- ## Accueil | Service des entreprises auxiliaires | UQAM
- - [https://ech.uqam.ca](https://ech.uqam.ca)
- - date_published: 2024-12-15T13:36:42.982150+00:00
-
- ## Accueil
- - [http://ecoresponsable.uqam.ca](http://ecoresponsable.uqam.ca)
- - date_published: 2024-12-15T13:36:53+00:00
-
- ## Étudier à l'UQAM
- - [https://etudier.uqam.ca](https://etudier.uqam.ca)
- - date_published: 2024-12-15T08:31:00+00:00
-
- ## UQAM | Calendrier des événements
- - [https://evenements.uqam.ca](https://evenements.uqam.ca)
- - date_published: 2024-12-15T13:36:15.654407+00:00
-
- ## Fondation de l'UQAM
- - [https://fondation.uqam.ca](https://fondation.uqam.ca)
- - date_published: 2024-12-15T13:36:28.831719+00:00
-
- ## Home | Institut des sciences mathématiques
- - [http://ism.uqam.ca](http://ism.uqam.ca)
- - date_published: 2024-09-06T21:08:52.947102+00:00
-
- ## Accueil - Moodle - UQAM
- - [https://moodle.uqam.ca](https://moodle.uqam.ca)
- - date_published: 2024-12-15T13:36:35.908647+00:00
-
- ## Portail étudiant | UQAM
- - [https://portailetudiant.uqam.ca](https://portailetudiant.uqam.ca)
- - date_published: 2024-12-15T13:36:59.803938+00:00
-
- ## Répertoire des professeurs
- - [https://professeurs.uqam.ca](https://professeurs.uqam.ca)
- - date_published: 2024-06-30T09:12:39.791572+00:00
-
- ## Rectorat - Rectorat
- - [https://rectorat.uqam.ca](https://rectorat.uqam.ca)
- - date_published: 2024-12-15T13:37:53.312553+00:00
-
- ## Accueil | Ressources humaines | UQAM
- - [https://rh.uqam.ca](https://rh.uqam.ca)
- - date_published: 2024-12-15T13:36:58.330399+00:00
-
- ## Services alimentaires de l'UQAM | Services alimentaires | UQAM
- - [http://servicesalimentaires.uqam.ca](http://servicesalimentaires.uqam.ca)
- - date_published: 2024-12-15T13:37:56.055323+00:00
-
- ## Services informatiques | Services informatiques | UQAM
- - [https://servicesinformatiques.uqam.ca](https://servicesinformatiques.uqam.ca)
- - date_published: 2024-12-15T13:36:45.657737+00:00
-
- ## Accueil | Répertoire des services et ressources | UQAM
- - [https://services.uqam.ca](https://services.uqam.ca)
- - date_published: 2024-12-15T13:37:30.770041+00:00
-
- ## Centre sportif
- - [http://sports.uqam.ca](http://sports.uqam.ca)
- - date_published: 2024-12-15T13:37:24.730324+00:00
-
- ## Présentation du service | Service de la prévention et de la sécurité | UQAM
- - [https://sps.uqam.ca](https://sps.uqam.ca)
- - date_published: 2024-12-15T13:37:35.648190+00:00
-
- ## UQAM | Université du Québec à Montréal | Accueil
- - [https://uqam.ca](https://uqam.ca)
- - date_published: 2024-10-30T20:19:44.655018+00:00
-
- ## Accueil | Services à la vie étudiante | UQAM
- - [https://vie-etudiante.uqam.ca](https://vie-etudiante.uqam.ca)
- - date_published: 2024-12-15T13:37:50.140350+00:00
-
- ## Accueil | Service des bibliothèques | UQAM
- - [http://www.bibliotheques.uqam.ca](http://www.bibliotheques.uqam.ca)
- - date_published: 2024-12-15T13:36:50.128078+00:00
-
- ## Observatoire des sciences et des technologies | Mesure de la science, de la technologie et de l'innovation
- - [http://www.ost.uqam.ca](http://www.ost.uqam.ca)
- - date_published: 2024-09-06T21:13:41.128748+00:00
-
- ## Université du Québec à Trois-Rivières
- - [https://oraprdnt.uqtr.uquebec.ca](https://oraprdnt.uqtr.uquebec.ca)
- - date_published: 2024-08-29T20:01:31+00:00
-
- ## UrbanToronto
- - [http://urbantoronto.ca](http://urbantoronto.ca)
- - date_published: 2024-06-28T12:52:12.700570+00:00
-
- ## Admissions
- - [https://admissions.usask.ca](https://admissions.usask.ca)
- - date_published: 2024-09-15T13:01:16.769102+00:00
-
- ## Home - College of Arts and Science | University of Saskatchewan
- - [https://artsandscience.usask.ca](https://artsandscience.usask.ca)
- - date_published: 2024-06-14T19:39:31.316771+00:00
-
- ## Home - College of Arts and Science | University of Saskatchewan
- - [https://artscibeta.usask.ca](https://artscibeta.usask.ca)
- - date_published: 2024-09-15T13:00:58.780498+00:00
-
- ## Careers @ USask - Careers
- - [https://careers.usask.ca](https://careers.usask.ca)
- - date_published: 2024-09-15T13:00:54.539659+00:00
-
- ## Giving Options - University of Saskatchewan Online Giving
- - [https://donate.usask.ca](https://donate.usask.ca)
- - date_published: 2024-01-01T00:00:00+00:00
 

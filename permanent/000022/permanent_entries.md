@@ -1,3 +1,191 @@
+ ## Home - TLSS
+ - [https://saea-tlss.uottawa.ca](https://saea-tlss.uottawa.ca)
+ - date_published: 2021-08-18T16:25:28+00:00
+
+ ## Telfer School of Management
+ - [https://sites.telfer.uottawa.ca](https://sites.telfer.uottawa.ca)
+ - date_published: 2024-07-21T08:26:04.244934+00:00
+
+ ## Centre for Law, Technology and Society | Research and innovation
+ - [https://techlaw.uottawa.ca](https://techlaw.uottawa.ca)
+ - date_published: 2024-07-16T19:47:33+00:00
+
+ ## Home
+ - [https://telfer.uottawa.ca](https://telfer.uottawa.ca)
+ - date_published: 2024-04-30T05:27:47.150767+00:00
+
+ ## E-Page
+ - [https://ue.uottawa.ca](https://ue.uottawa.ca)
+ - date_published: 2024-01-25T16:57:55+00:00
+
+ ## Research Network | University of Ottawa
+ - [https://uniweb.uottawa.ca](https://uniweb.uottawa.ca)
+ - date_published: 2024-10-29T20:44:56.335352+00:00
+
+ ## Welcome to uoforms.uottawa.ca | uoforms.uottawa.ca
+ - [https://uoforms.uottawa.ca](https://uoforms.uottawa.ca)
+ - date_published: 2024-07-21T08:26:41.990505+00:00
+
+ ## Home | University of Ottawa
+ - [https://uottawa.ca](https://uottawa.ca)
+ - date_published: 2024-08-19T19:30:43+00:00
+
+ ## Sign in to your account
+ - [https://virtuo.uottawa.ca](https://virtuo.uottawa.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home | University of Ottawa
+ - [https://www2.uottawa.ca](https://www2.uottawa.ca)
+ - date_published: 2024-07-19T18:00:37+00:00
+
+ ## Home page - University of Ottawa Press - EN
+ - [http://www.press.uottawa.ca](http://www.press.uottawa.ca)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## UPEI Home Page | University of Prince Edward Island
+ - [https://www.upei.ca](https://www.upei.ca)
+ - date_published: 2024-12-12T20:34:20.654964+00:00
+
+ ## Upside Foundation
+ - [http://upsidefoundation.ca](http://upsidefoundation.ca)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Accueil | Actualités UQAM
+ - [https://actualites.uqam.ca](https://actualites.uqam.ca)
+ - date_published: 2021-12-01T07:55:57+00:00
+
+ ## Balados
+ - [https://balados.uqam.ca](https://balados.uqam.ca)
+ - date_published: 2024-12-15T13:36:39.600723+00:00
+
+ ## Accueil | Service des bibliothèques | UQAM
+ - [https://bibliotheques.uqam.ca](https://bibliotheques.uqam.ca)
+ - date_published: 2024-12-15T13:37:41.631560+00:00
+
+ ## Accueil | Bourses d'études | UQAM
+ - [https://bourses.uqam.ca](https://bourses.uqam.ca)
+ - date_published: 2024-12-15T13:37:14.764459+00:00
+
+ ## Plan interactif - Plan du campus | UQAM
+ - [http://carte.uqam.ca](http://carte.uqam.ca)
+ - date_published: 2024-12-15T13:36:33+00:00
+
+ ## Bureau des diplômés
+ - [https://diplomes.uqam.ca](https://diplomes.uqam.ca)
+ - date_published: 2024-12-15T13:37:02.300996+00:00
+
+ ## Prix et distinctions | UQAM
+ - [http://distinctions.uqam.ca](http://distinctions.uqam.ca)
+ - date_published: 2024-12-15T13:37:10.606316+00:00
+
+ ## Accueil | Service des entreprises auxiliaires | UQAM
+ - [https://ech.uqam.ca](https://ech.uqam.ca)
+ - date_published: 2024-12-15T13:36:42.982150+00:00
+
+ ## Accueil
+ - [http://ecoresponsable.uqam.ca](http://ecoresponsable.uqam.ca)
+ - date_published: 2024-12-15T13:36:53+00:00
+
+ ## Étudier à l'UQAM
+ - [https://etudier.uqam.ca](https://etudier.uqam.ca)
+ - date_published: 2024-12-15T08:31:00+00:00
+
+ ## UQAM | Calendrier des événements
+ - [https://evenements.uqam.ca](https://evenements.uqam.ca)
+ - date_published: 2024-12-15T13:36:15.654407+00:00
+
+ ## Fondation de l'UQAM
+ - [https://fondation.uqam.ca](https://fondation.uqam.ca)
+ - date_published: 2024-12-15T13:36:28.831719+00:00
+
+ ## Home | Institut des sciences mathématiques
+ - [http://ism.uqam.ca](http://ism.uqam.ca)
+ - date_published: 2024-09-06T21:08:52.947102+00:00
+
+ ## Accueil - Moodle - UQAM
+ - [https://moodle.uqam.ca](https://moodle.uqam.ca)
+ - date_published: 2024-12-15T13:36:35.908647+00:00
+
+ ## Portail étudiant | UQAM
+ - [https://portailetudiant.uqam.ca](https://portailetudiant.uqam.ca)
+ - date_published: 2024-12-15T13:36:59.803938+00:00
+
+ ## Répertoire des professeurs
+ - [https://professeurs.uqam.ca](https://professeurs.uqam.ca)
+ - date_published: 2024-06-30T09:12:39.791572+00:00
+
+ ## Rectorat - Rectorat
+ - [https://rectorat.uqam.ca](https://rectorat.uqam.ca)
+ - date_published: 2024-12-15T13:37:53.312553+00:00
+
+ ## Accueil | Ressources humaines | UQAM
+ - [https://rh.uqam.ca](https://rh.uqam.ca)
+ - date_published: 2024-12-15T13:36:58.330399+00:00
+
+ ## Services alimentaires de l'UQAM | Services alimentaires | UQAM
+ - [http://servicesalimentaires.uqam.ca](http://servicesalimentaires.uqam.ca)
+ - date_published: 2024-12-15T13:37:56.055323+00:00
+
+ ## Services informatiques | Services informatiques | UQAM
+ - [https://servicesinformatiques.uqam.ca](https://servicesinformatiques.uqam.ca)
+ - date_published: 2024-12-15T13:36:45.657737+00:00
+
+ ## Accueil | Répertoire des services et ressources | UQAM
+ - [https://services.uqam.ca](https://services.uqam.ca)
+ - date_published: 2024-12-15T13:37:30.770041+00:00
+
+ ## Centre sportif
+ - [http://sports.uqam.ca](http://sports.uqam.ca)
+ - date_published: 2024-12-15T13:37:24.730324+00:00
+
+ ## Présentation du service | Service de la prévention et de la sécurité | UQAM
+ - [https://sps.uqam.ca](https://sps.uqam.ca)
+ - date_published: 2024-12-15T13:37:35.648190+00:00
+
+ ## UQAM | Université du Québec à Montréal | Accueil
+ - [https://uqam.ca](https://uqam.ca)
+ - date_published: 2024-10-30T20:19:44.655018+00:00
+
+ ## Accueil | Services à la vie étudiante | UQAM
+ - [https://vie-etudiante.uqam.ca](https://vie-etudiante.uqam.ca)
+ - date_published: 2024-12-15T13:37:50.140350+00:00
+
+ ## Accueil | Service des bibliothèques | UQAM
+ - [http://www.bibliotheques.uqam.ca](http://www.bibliotheques.uqam.ca)
+ - date_published: 2024-12-15T13:36:50.128078+00:00
+
+ ## Observatoire des sciences et des technologies | Mesure de la science, de la technologie et de l'innovation
+ - [http://www.ost.uqam.ca](http://www.ost.uqam.ca)
+ - date_published: 2024-09-06T21:13:41.128748+00:00
+
+ ## Université du Québec à Trois-Rivières
+ - [https://oraprdnt.uqtr.uquebec.ca](https://oraprdnt.uqtr.uquebec.ca)
+ - date_published: 2024-08-29T20:01:31+00:00
+
+ ## UrbanToronto
+ - [http://urbantoronto.ca](http://urbantoronto.ca)
+ - date_published: 2024-06-28T12:52:12.700570+00:00
+
+ ## Admissions
+ - [https://admissions.usask.ca](https://admissions.usask.ca)
+ - date_published: 2024-09-15T13:01:16.769102+00:00
+
+ ## Home - College of Arts and Science | University of Saskatchewan
+ - [https://artsandscience.usask.ca](https://artsandscience.usask.ca)
+ - date_published: 2024-06-14T19:39:31.316771+00:00
+
+ ## Home - College of Arts and Science | University of Saskatchewan
+ - [https://artscibeta.usask.ca](https://artscibeta.usask.ca)
+ - date_published: 2024-09-15T13:00:58.780498+00:00
+
+ ## Careers @ USask - Careers
+ - [https://careers.usask.ca](https://careers.usask.ca)
+ - date_published: 2024-09-15T13:00:54.539659+00:00
+
+ ## Giving Options - University of Saskatchewan Online Giving
+ - [https://donate.usask.ca](https://donate.usask.ca)
+ - date_published: 2024-01-01T00:00:00+00:00
+
  ## University of Saskatchewan - Library
  - [https://drc.usask.ca](https://drc.usask.ca)
  - date_published: 2024-10-29T18:45:26.871793+00:00
@@ -2194,6 +2382,10 @@
  - [https://www.zeiss.ca](https://www.zeiss.ca)
  - date_published: 2024-09-16T07:56:26.896158+00:00
 
+ ## zeroes.ca
+ - [https://zeroes.ca](https://zeroes.ca)
+ - date_published: 2024-12-30T06:33:24.531273+00:00
+
  ## Zeste, la destination qui comblera vos appétits! | Zeste
  - [https://www.zeste.ca](https://www.zeste.ca)
  - date_published: 2024-08-19T08:11:09.348826+00:00
@@ -3346,6 +3538,10 @@
  - [https://global.medical.canon](https://global.medical.canon)
  - date_published: 2024-06-23T14:18:32.800843+00:00
 
+ ## Canon Medical Research: Revolutionising Medical Imaging Software
+ - [https://research.eu.medical.canon](https://research.eu.medical.canon)
+ - date_published: 2024-12-30T13:30:21.481627+00:00
+
  ## Canon Medical Informatics Customer Support
  - [https://support.mi.medical.canon](https://support.mi.medical.canon)
  - date_published: 2024-06-23T14:18:34.276278+00:00
@@ -3726,6 +3922,14 @@
  - [https://lovi.care](https://lovi.care)
  - date_published: 2024-03-07T00:00:00+00:00
 
+ ## Find The Best Coaches Near You
+ - [https://coach.mantra.care](https://coach.mantra.care)
+ - date_published: 2024-12-30T05:11:31.831925+00:00
+
+ ## MantraCare: Therapy, EAP, Physio, Yoga, Nutrition & More
+ - [https://mantra.care](https://mantra.care)
+ - date_published: 2024-12-30T05:11:26.308341+00:00
+
  ## Keto Diet App | What is your weight loss goal?
  - [https://app.myketo.care](https://app.myketo.care)
  - date_published: 2024-06-21T21:36:39.677296+00:00
@@ -3805,208 +4009,4 @@
  ## Flexa Careers | Find a workplace where you’ll thrive
  - [https://flexa.careers](https://flexa.careers)
  - date_published: 2024-10-31T04:59:31.859089+00:00
-
- ## Careers at Flix | Jobs at FlixBus and FlixTrain
- - [https://flix.careers](https://flix.careers)
- - date_published: 2024-06-28T11:48:24.190898+00:00
-
- ## GitHub Careers
- - [https://github.careers](https://github.careers)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## GitHub Careers
- - [https://www.githubtalentcommunity.careers](https://www.githubtalentcommunity.careers)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Grab life with both hands
- - [https://grab.careers](https://grab.careers)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## 転職するスタートアップを探すなら HERP Careers | 転職のためのスタートアップ図鑑
- - [https://herp.careers](https://herp.careers)
- - date_published: 2024-10-23T07:03:15.424709+00:00
-
- ## HoGa Careers - Gastro Jobanzeigen und Stellenangebote
- - [https://www.hoga.careers](https://www.hoga.careers)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Konecranes Careers
- - [https://konecranes.careers](https://konecranes.careers)
- - date_published: 2024-12-10T23:35:50.754762+00:00
-
- ## Kubernetes jobs in May 24 (28 new) | Kube Careers
- - [https://kube.careers](https://kube.careers)
- - date_published: 2024-05-08T06:21:39.894635+00:00
-
- ## Our vacancies | lufthansagroup.careers
- - [https://apply.lufthansagroup.careers](https://apply.lufthansagroup.careers)
- - date_published: 2024-05-12T07:54:12.729621+00:00
-
- ## Lufthansa Group Careers
- - [https://lufthansagroup.careers](https://lufthansagroup.careers)
- - date_published: 2024-05-12T05:11:06.078396+00:00
-
- ## Privacy is a universal right - Mullvad VPN
- - [https://www.mullvad.careers](https://www.mullvad.careers)
- - date_published: 2024-08-20T04:53:03.875391+00:00
-
- ## Customer Portal
- - [https://topresume.portal.careers](https://topresume.portal.careers)
- - date_published: 2024-06-18T17:15:08+00:00
-
- ## Rust.Careers Rust Blog
- - [https://blog.rust.careers](https://blog.rust.careers)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Careers at Paramount
- - [https://viacomcbs.careers](https://viacomcbs.careers)
- - date_published: 2024-06-17T01:30:46.886442+00:00
-
- ## Careers at Wake Forest University - Human Resources
- - [https://wfu.careers](https://wfu.careers)
- - date_published: 2024-05-07T22:28:48.542607+00:00
-
- ## WP Engine Careers - Be you. Be here.
- - [https://wpengine.careers](https://wpengine.careers)
- - date_published: 2024-06-27T12:42:22.887997+00:00
-
- ## The job board for YouTubers and YouTube professionals · YT.Careers
- - [https://yt.careers](https://yt.careers)
- - date_published: 2024-08-18T11:33:41.678684+00:00
-
- ## Downtown Auto Group: New & Used Dealers | Toronto, Ontario
- - [http://dag.cars](http://dag.cars)
- - date_published: 2024-10-17T15:17:08.089795+00:00
-
- ## FUEL: In-Market Video Powered By Cars.com Audience Data
- - [http://fuel.cars](http://fuel.cars)
- - date_published: 2024-10-17T15:01:43.765056+00:00
-
- ## .Cars .Car .Auto Domains | Find Your Perfect Domain Name
- - [https://go.cars](https://go.cars)
- - date_published: 2024-06-17T07:45:25.900463+00:00
-
- ## Drive your brand® | The .Cars Registry
- - [https://nic.cars](https://nic.cars)
- - date_published: 2024-10-17T15:01:05.907184+00:00
-
- ## Amplifi.casa ⋅ Plume
- - [https://amplifi.casa](https://amplifi.casa)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## CogDog Showtime
- - [http://show.cogdog.casa](http://show.cogdog.casa)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## cujo.casa
- - [https://cujo.casa](https://cujo.casa)
- - date_published: 2024-05-07T23:14:40.730456+00:00
-
- ## Desert Jaguar
- - [https://desertjaguar.casa](https://desertjaguar.casa)
- - date_published: 2024-10-16T00:23:18+00:00
-
- ## Hey Bro
- - [https://heybro.casa](https://heybro.casa)
- - date_published: 2024-09-14T23:34:10.670039+00:00
-
- ## Izzy Muerte • Self Unemployed
- - [https://izzys.casa](https://izzys.casa)
- - date_published: 2023-10-25T12:10:14.071392+00:00
-
- ## git.m455.casa
- - [https://git.m455.casa](https://git.m455.casa)
- - date_published: 2024-07-18T15:40:49+00:00
-
- ## Mon Repos | Gordon Pedersen @ Mon Repos
- - [https://monrepos.casa](https://monrepos.casa)
- - date_published: 2024-08-07T19:59:52.014589+00:00
-
- ## Double Dutch | Cash with a cause
- - [https://doubledutch.cash](https://doubledutch.cash)
- - date_published: 2024-05-12T06:26:38.987868+00:00
-
- ## Ivan Cash is an award-winning artist, filmmaker, and creative director.
- - [http://www.ivan.cash](http://www.ivan.cash)
- - date_published: 2024-09-17T00:54:57.025397+00:00
-
- ## member.cash
- - [https://member.cash](https://member.cash)
- - date_published: 2024-08-18T22:04:10.824205+00:00
-
- ## Memo - Bitcoin Social Network
- - [https://memo.cash](https://memo.cash)
- - date_published: 2024-06-16T10:11:39.041822+00:00
-
- ## Top 10 Nhà Cái Uy Tín Việt Nam - Trang Cược Đáng Chơi Nhất 2024
- - [https://nhacaiuytin.cash](https://nhacaiuytin.cash)
- - date_published: 2024-10-19T07:33:46.981928+00:00
-
- ## Worldwide decentralized cyber ecosystem based on PoS algorithm
- - [https://p.cash](https://p.cash)
- - date_published: 2024-09-25T09:55:12.963042+00:00
-
- ## Play – Music lovers, rejoice.
- - [https://play.cash](https://play.cash)
- - date_published: 2024-05-09T09:13:14.555722+00:00
-
- ## Revoke Your Token Approvals on Over 100 Networks | Revoke.cash
- - [https://revoke.cash](https://revoke.cash)
- - date_published: 2024-07-04T09:59:00.582079+00:00
-
- ## U.CASH - Powering a distributed B2B & B2C services network
- - [https://u.cash](https://u.cash)
- - date_published: 2024-08-15T12:51:58+00:00
-
- ## Ugly Cash
- - [https://ugly.cash](https://ugly.cash)
- - date_published: 2024-09-21T23:36:48.439693+00:00
-
- ## Zcash: Privacy-protecting digital currency
- - [https://z.cash](https://z.cash)
- - date_published: 2024-05-08T07:04:28.191422+00:00
-
- ## ZCore Faucet
- - [https://faucet.zcore.cash](https://faucet.zcore.cash)
- - date_published: 2024-09-24T09:15:24.352929+00:00
-
- ## Explore ZCore Network's Advanced Blockchain Solutions!
- - [https://zcore.cash](https://zcore.cash)
- - date_published: 2024-05-21T23:50:55+00:00
-
- ## BetOnRed Casino Polska | Oficjalna Strona Kasyna Bet on Red
- - [https://betonred.casino](https://betonred.casino)
- - date_published: 2024-06-26T23:57:10.408187+00:00
-
- ## Fair Go Casino in Australia | Welcome Bonus | Login
- - [https://fairgos.casino](https://fairgos.casino)
- - date_published: 2023-12-22T16:16:45+00:00
-
- ## Front Page
- - [https://no-verification.casino](https://no-verification.casino)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Top Online Casino Sites (2024) Trusted International Guide
- - [https://online.casino](https://online.casino)
- - date_published: 2024-07-17T03:05:10+00:00
-
- ## OZWIN Casino [400% BONUS] Australia Login
- - [https://ozwins.casino](https://ozwins.casino)
- - date_published: 2024-06-24T09:13:45+00:00
-
- ## Royaal.Casino Le Guide Le Plus Fou Du Web Pour Jouer Online
- - [https://www.royaal.casino](https://www.royaal.casino)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Satoshi's Palace
- - [https://satoshispalace.casino](https://satoshispalace.casino)
- - date_published: 2024-07-02T23:47:00+00:00
-
- ## Раскрутка и Продвижение Онлайн Казино ≡ Услуги SEO для интернет казино
- - [https://seo.casino](https://seo.casino)
- - date_published: 2024-06-19T21:54:58.075823+00:00
-
- ## Казино Украины онлайн 2024 | Отзывы, рекомендации экспертов
- - [https://toprating.casino](https://toprating.casino)
- - date_published: 2024-06-16T13:58:06+00:00
 

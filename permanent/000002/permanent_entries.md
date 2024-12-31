@@ -1,3 +1,27 @@
+ ## Helsing | Artificial Intelligence to serve our democracies
+ - [https://helsing.ai](https://helsing.ai)
+ - date_published: 2024-04-28T05:59:38.445143+00:00
+
+ ## HereAfter AI — Interactive Memory App — Try Free
+ - [https://hereafter.ai](https://hereafter.ai)
+ - date_published: 2024-10-22T15:56:43+00:00
+
+ ## Homepage - hermann.ai
+ - [https://hermann.ai](https://hermann.ai)
+ - date_published: 2024-06-15T03:14:14+00:00
+
+ ## hessian.AI | The Hessian Center for Artificial Intelligence
+ - [https://hessian.ai](https://hessian.ai)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## AI Startup Landscape Hessen 2024
+ - [https://startup-landscape.hessian.ai](https://startup-landscape.hessian.ai)
+ - date_published: 2024-10-22T18:10:37.440599+00:00
+
+ ## Welcome | Hexabot
+ - [https://docs.hexabot.ai](https://docs.hexabot.ai)
+ - date_published: 2024-09-16T00:00:00+00:00
+
  ## Login | HeyCloud
  - [https://app.heycloud.ai](https://app.heycloud.ai)
  - date_published: 2024-12-13T06:43:45.410957+00:00
@@ -3998,28 +4022,4 @@
  ## Free AI Photo Editor: Online Image Editing Tools｜Picsman
  - [https://www.picsman.ai](https://www.picsman.ai)
  - date_published: 2024-09-11T19:42:06+00:00
-
- ## PicSo AI Art Generator
- - [https://picso.ai](https://picso.ai)
- - date_published: 2024-06-19T19:35:17.373266+00:00
-
- ## Pictory.AI - Home of AI Video Editing Technology
- - [https://app.pictory.ai](https://app.pictory.ai)
- - date_published: 2024-10-30T08:58:04+00:00
-
- ## Pictory feature requests | Frill.co
- - [https://feedback.pictory.ai](https://feedback.pictory.ai)
- - date_published: 2024-10-30T19:50:21.291824+00:00
-
- ## Pictory Help Center
- - [https://kb.pictory.ai](https://kb.pictory.ai)
- - date_published: 2024-10-30T19:51:04.549894+00:00
-
- ## Pictory - Easy Video Creation For Content Marketers
- - [https://pictory.ai](https://pictory.ai)
- - date_published: 2024-06-19T21:07:32.395113+00:00
-
- ## PictureStudio: Your AI Image Generation Studio
- - [https://picturestudio.ai](https://picturestudio.ai)
- - date_published: 2024-10-20T20:30:47.493876+00:00
 
