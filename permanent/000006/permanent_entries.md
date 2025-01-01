@@ -1,3 +1,20 @@
+ ## Nostrid
+ - [https://web.nostrid.app](https://web.nostrid.app)
+ - date_published: 2024-06-28T00:27:39+00:00
+
+ ## nostter
+ - [https://nostter.app](https://nostter.app)
+ - date_published: 2024-06-18T20:56:12.262192+00:00
+
+ ## Notable
+ - [https://notable.app](https://notable.app)
+ - date_published: 2021-07-12T23:05:15+00:00
+
+ ## Content-first Bookmarking  - Notado
+ - [https://notado.app](https://notado.app)
+ - date_published: 2024-05-04T12:26:33.768576+00:00
+ - tags: ['bookmarks']
+
  ## Document
  - [https://doc.notebookjs.app](https://doc.notebookjs.app)
  - date_published: 2021-10-05T12:46:53+00:00
@@ -3749,6 +3766,10 @@
  - [https://letsplaytime.vercel.app](https://letsplaytime.vercel.app)
  - date_published: 2024-08-07T22:04:59.945761+00:00
 
+ ## Letter to Future You - December 2025
+ - [https://letterto2025.vercel.app](https://letterto2025.vercel.app)
+ - date_published: 2024-12-31T12:55:50.879938+00:00
+
  ## Lifecycle
  - [https://lifecycle.vercel.app](https://lifecycle.vercel.app)
  - date_published: 2024-07-14T08:49:37.321442+00:00
@@ -4005,24 +4026,4 @@
  ## Next.js App Router + React Server Components Demo
  - [https://next-rsc-hn.vercel.app](https://next-rsc-hn.vercel.app)
  - date_published: 2024-08-08T17:49:47.099315+00:00
-
- ## NFT Craft
- - [https://nft-craft-ten.vercel.app](https://nft-craft-ten.vercel.app)
- - date_published: 2024-09-04T11:33:05.798643+00:00
-
- ## Supe.com
- - [https://nft-swap-website-git-test-master-nihao-com-bcfa318a.vercel.app](https://nft-swap-website-git-test-master-nihao-com-bcfa318a.vercel.app)
- - date_published: 2024-12-15T22:59:33.024500+00:00
-
- ## NgChat
- - [https://ng-chat-v.vercel.app](https://ng-chat-v.vercel.app)
- - date_published: 2024-05-20T18:18:54.812115+00:00
-
- ## Developer experience, reimagined | Stripe
- - [https://ngdx-microsite-p17umhyxp-stripe.vercel.app](https://ngdx-microsite-p17umhyxp-stripe.vercel.app)
- - date_published: 2024-07-24T02:34:45.166929+00:00
-
- ## Open Graph Image as a Service
- - [https://nichesss-images.vercel.app](https://nichesss-images.vercel.app)
- - date_published: 2024-10-20T00:38:48+00:00
 

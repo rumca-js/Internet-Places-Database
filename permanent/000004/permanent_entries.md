@@ -1,3 +1,11 @@
+ ## Ultimate Chat
+ - [https://widget.ultimate.ai](https://widget.ultimate.ai)
+ - date_published: 2024-07-08T08:34:55+00:00
+
+ ## Customer Support Automation Powered by Generative AI | Ultimate
+ - [https://www.ultimate.ai](https://www.ultimate.ai)
+ - date_published: 2024-10-04T23:54:10+00:00
+
  ## ULTRACODE
  - [https://app.ultracode.ai](https://app.ultracode.ai)
  - date_published: 2024-07-19T04:06:23.046767+00:00
@@ -699,6 +707,10 @@ Creative Solutions
  ## WaifuChat
  - [https://waifuchat.ai](https://waifuchat.ai)
  - date_published: 2024-06-19T19:23:40.731098+00:00
+
+ ## Wakeel AI - Super App For Law
+ - [https://www.wakeel.ai](https://www.wakeel.ai)
+ - date_published: 2024-12-24T23:31:02+00:00
 
  ## The AI inference platform for any model, any hardware, anywhere | Wallaroo.AI
  - [https://wallaroo.ai](https://wallaroo.ai)
@@ -1941,6 +1953,10 @@ Creative Solutions
  ## HOME - XPERT
  - [https://xpert.com.al](https://xpert.com.al)
  - date_published: 2024-10-14T18:53:57.064352+00:00
+
+ ## Arkivat Digjitale Shkoder
+ - [https://adsh.unishk.edu.al](https://adsh.unishk.edu.al)
+ - date_published: 2024-12-31T18:47:23.890664+00:00
 
  ## KREU - UNIVERSITETI I TIRANËS
  - [http://www.unitir.edu.al](http://www.unitir.edu.al)
@@ -4005,20 +4021,4 @@ Creative Solutions
  ## deploybot
  - [https://deploybot.app](https://deploybot.app)
  - date_published: 2024-05-06T09:18:30.757531+00:00
-
- ## Authorization | Deta Space
- - [https://next_meetups-1-x7325434.deta.app](https://next_meetups-1-x7325434.deta.app)
- - date_published: 2024-09-19T16:22:26+00:00
-
- ## DetailsPro: Design with SwiftUI, no coding required.
- - [https://detailspro.app](https://detailspro.app)
- - date_published: 2024-06-23T15:35:31.691381+00:00
-
- ## Detoxify.app
- - [https://detoxify.app](https://detoxify.app)
- - date_published: 2024-07-04T04:23:51.459796+00:00
-
- ## Diagrams: A Native Diagram Editor for Mac
- - [https://diagrams.app](https://diagrams.app)
- - date_published: 2024-05-12T06:23:53.449350+00:00
 

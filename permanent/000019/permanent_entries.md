@@ -1,3 +1,365 @@
+ ## 440 Megatonnes
+ - [https://dashboard.440megatonnes.ca](https://dashboard.440megatonnes.ca)
+ - date_published: 2024-07-14T14:14:42.443972+00:00
+
+ ## George's Home Page
+ - [https://48k.ca](https://48k.ca)
+ - date_published: 2023-10-07T20:05:52+00:00
+
+ ## TRS-80 Model III Emulator
+ - [http://trsjs.48k.ca](http://trsjs.48k.ca)
+ - date_published: 2013-06-22T00:00:00+00:00
+
+ ## Accueil | 4D Solution Design
+ - [https://4dsolutiondesign.ca](https://4dsolutiondesign.ca)
+ - date_published: 2024-10-21T11:45:20.129336+00:00
+
+ ## 4get
+ - [https://4get.ca](https://4get.ca)
+ - date_published: 2024-09-05T16:26:16.496434+00:00
+
+ ## Ontario 511
+ - [https://511on.ca](https://511on.ca)
+ - date_published: 2024-05-10T02:42:19.164104+00:00
+
+ ## The Call of the Open Sidewalk [The Call of the Open Sidewalk]
+ - [https://articles.59.ca](https://articles.59.ca)
+ - date_published: 2023-10-25T12:03:06.077493+00:00
+
+ ## Cierpliwości...
+ - [https://7-eleven.ca](https://7-eleven.ca)
+ - date_published: 2024-05-08T02:32:48.317300+00:00
+
+ ## 7 Jours | Tout sur l'actualité culturelle
+ - [https://www.7jours.ca](https://www.7jours.ca)
+ - date_published: 2024-08-19T08:11:24.479812+00:00
+
+ ## OnCall Computer Services in Saskatoon
+ - [https://880help.ca](https://880help.ca)
+ - date_published: 2024-10-14T18:16:55.381527+00:00
+
+ ## 95.7 CRUZ FM
+ - [https://www.957cruzfm.ca](https://www.957cruzfm.ca)
+ - date_published: 2024-06-27T12:52:42+00:00
+
+ ## Get Help | 9-8-8: Suicide Crisis Helpline
+ - [https://988.ca](https://988.ca)
+ - date_published: 2024-12-05T07:20:39.418272+00:00
+
+ ## a39
+ - [https://a39.ca](https://a39.ca)
+ - date_published: 2024-05-09T08:14:41.745608+00:00
+
+ ## Home
+ - [https://aasua.ca](https://aasua.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Abacus Data
+ - [https://abacusdata.ca](https://abacusdata.ca)
+ - date_published: 2024-12-25T21:51:27.442724+00:00
+
+ ## Canada
+ - [https://abebooks.ca](https://abebooks.ca)
+ - date_published: 2024-06-15T02:38:37.698777+00:00
+
+ ## Abenezer Belachew / Software Developer
+ - [https://abenezer.ca](https://abenezer.ca)
+ - date_published: 2024-05-01T02:01:11.183948+00:00
+
+ ## ABlawg
+ - [https://ablawg.ca](https://ablawg.ca)
+ - date_published: 2024-08-10T22:44:31.644436+00:00
+
+ ## About Amazon
+ - [https://aboutamazon.ca](https://aboutamazon.ca)
+ - date_published: 2024-05-01T02:02:39.410125+00:00
+
+ ## Academy of Canadian Cinema and Television
+ - [https://www.academy.ca](https://www.academy.ca)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Home | Association of Canadian Advertisers
+ - [https://acaweb.ca](https://acaweb.ca)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## AccelerateOTT | Ottawa’s Premier Entrepreneurship Event
+ - [http://www.accelerateott.ca](http://www.accelerateott.ca)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## ACCES Employment - Helping you in your job search.
+ - [https://accesemployment.ca](https://accesemployment.ca)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## ACCIONA in Canada | Business as unusual
+ - [https://acciona.ca](https://acciona.ca)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Inclusive Design Research Centre
+ - [https://achecker.ca](https://achecker.ca)
+ - date_published: 2024-05-01T03:48:03.617062+00:00
+
+ ## Acorn Strategy - Shopify Experts
+ - [https://acornstrategy.ca](https://acornstrategy.ca)
+ - date_published: 2024-10-31T19:39:25.497720+00:00
+
+ ## Association of Canadian Travel Agencies and Travel Advisors
+ - [https://www.acta.ca](https://www.acta.ca)
+ - date_published: 2024-07-17T10:26:37.459470+00:00
+
+ ## Submit An Offer!
+ - [https://actionrecovery.ca](https://actionrecovery.ca)
+ - date_published: 2024-06-28T12:09:06.271358+00:00
+
+ ## Active History
+ - [https://activehistory.ca](https://activehistory.ca)
+ - date_published: 2024-09-05T15:20:52+00:00
+
+ ## Adam Bell
+ - [https://blog.adambell.ca](https://blog.adambell.ca)
+ - date_published: 2024-05-05T23:11:38+00:00
+
+ ## Adam Pritchard's blog and miscellany
+ - [https://adam-p.ca](https://adam-p.ca)
+ - date_published: 2023-12-23T19:22:49.802394+00:00
+
+ ## Adecco Staffing Agency - Permanent Staffing and Temp Agencies for Job Seekers
+ - [https://www.adecco.ca](https://www.adecco.ca)
+ - date_published: 2024-03-11T08:42:41+00:00
+
+ ## adidas Official Website | adidas Canada
+ - [https://adidas.ca](https://adidas.ca)
+ - date_published: 2024-06-15T12:00:25.865252+00:00
+
+ ## Adi Linden
+ - [https://adis.ca](https://adis.ca)
+ - date_published: 2024-04-29T07:26:39.736534+00:00
+
+ ## Home
+ - [https://adlounge.ca](https://adlounge.ca)
+ - date_published: 2024-08-18T02:47:56.242847+00:00
+
+ ## ADP Canada Newsroom | ADP Media Centre | News and Resources
+ - [https://mediacentre.adp.ca](https://mediacentre.adp.ca)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Payroll, HR and Tax Services | ADP Canada Official Site
+ - [https://www.adp.ca](https://www.adp.ca)
+ - date_published: 2024-06-16T10:08:13.105677+00:00
+
+ ## A Few Good Minds Vancouver MBA Blog
+ - [https://afewgoodminds.ca](https://afewgoodminds.ca)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Assembly of First Nations: Representing First Nation citizens in Canada
+ - [https://www.afn.ca](https://www.afn.ca)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## afresh creative
+ - [https://afreshcreative.ca](https://afreshcreative.ca)
+ - date_published: 2024-06-19T09:32:11.836151+00:00
+
+ ## Alcohol and Gaming Commission of Ontario | Alcohol and Gaming Commission of Ontario
+ - [https://www.iagco.agco.ca](https://www.iagco.agco.ca)
+ - date_published: 2024-07-14T11:27:52+00:00
+
+ ## Agents in Canada, Canada
+ - [http://www.agents.ca](http://www.agents.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Ages Three And Up Canada - Toys, Hobbies and Collectibles
+ - [https://www.agesthreeandup.ca](https://www.agesthreeandup.ca)
+ - date_published: 2024-10-26T05:31:01.188699+00:00
+
+ ## Agriculture GPS without subscriptions. Affordable & accurate!
+ - [https://aggps.ca](https://aggps.ca)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Aggregate Design Studio
+ - [https://aggregatedesign.ca](https://aggregatedesign.ca)
+ - date_published: 2024-08-19T18:27:26.184640+00:00
+
+ ## Home | Art Gallery of Ontario
+ - [https://ago.ca](https://ago.ca)
+ - date_published: 2024-05-12T05:00:57.334672+00:00
+
+ ## Home - AGO Art Rental & Sales
+ - [https://rental.ago.ca](https://rental.ago.ca)
+ - date_published: 2024-07-15T03:51:19.531554+00:00
+
+ ## shopAGO home - shop AGO
+ - [https://shop.ago.ca](https://shop.ago.ca)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Get Your Ticket - AGO Tickets
+ - [https://tickets.ago.ca](https://tickets.ago.ca)
+ - date_published: 2024-07-15T03:51:32.132968+00:00
+
+ ## Hunting the Shmoo
+ - [https://ahal.ca](https://ahal.ca)
+ - date_published: 2022-10-31T00:00:00+00:00
+
+ ## https://ahelwer.ca
+ - [https://ahelwer.ca](https://ahelwer.ca)
+ - date_published: 2023-10-25T12:03:10.516319+00:00
+
+ ## Trip Reports
+ - [https://outdoors.ahelwer.ca](https://outdoors.ahelwer.ca)
+ - date_published: 2022-07-29T13:15:47+00:00
+
+ ## AIMCo Alberta Investment Management Corporation
+ - [https://www.aimco.ca](https://www.aimco.ca)
+ - date_published: 2024-06-19T09:55:33.722292+00:00
+
+ ## Airbnb | Vacation rentals, cabins, beach houses, & more
+ - [https://airbnb.ca](https://airbnb.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbnb | Locations de vacances, cabanes, maisons de plage et plus
+ - [https://fr.airbnb.ca](https://fr.airbnb.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home - Airbus Helicopters Canada
+ - [http://www.airbushelicopters.ca](http://www.airbushelicopters.ca)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## This is the default server vhost
+ - [http://www.airconditioning.ca](http://www.airconditioning.ca)
+ - date_published: 2024-06-24T11:23:01+00:00
+
+ ## Canada's Most Experienced DJ Company | Airwaves Music
+ - [https://airwavesmusic.ca](https://airwavesmusic.ca)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Aklak Air - Welcome to AKLAK AIR
+ - [http://aklakair.ca](http://aklakair.ca)
+ - date_published: 2024-06-22T07:21:10.690749+00:00
+
+ ## Alan Trick’s Website
+ - [https://alantrick.ca](https://alantrick.ca)
+ - date_published: 2023-04-26T21:23:07+00:00
+ - tags: ['personal']
+
+ ## Top 5 Top 5 Toronto Alarms for 2020 | Alarms.ca Plumbers and Plumbing Contractors for 2020 | Alarms.ca
+ - [http://www.alarms.ca](http://www.alarms.ca)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Government of Alberta
+ - [https://alberta.ca](https://alberta.ca)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Alberta Emergency Alert
+ - [http://emergencyalert.alberta.ca](http://emergencyalert.alberta.ca)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Open Government program
+ - [https://open.alberta.ca](https://open.alberta.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Search Results
+ - [https://search.alberta.ca](https://search.alberta.ca)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## UCA Home
+ - [https://ucahelps.alberta.ca](https://ucahelps.alberta.ca)
+ - date_published: 2024-12-30T23:53:50.862320+00:00
+
+ ## Alberta Innovates
+ - [http://albertainnovates.ca](http://albertainnovates.ca)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Home
+ - [http://www.albertasulphurresearch.ca](http://www.albertasulphurresearch.ca)
+ - date_published: 2024-07-20T06:53:37+00:00
+
+ ## Home - Osten & Victor Alberta Tennis Centre
+ - [http://www.albertatenniscentre.ca](http://www.albertatenniscentre.ca)
+ - date_published: 2024-10-17T18:18:39.147663+00:00
+
+ ## Home - Alert Ready Emergency Alert System (Pelmorex Corp).
+ - [https://www.alertready.ca](https://www.alertready.ca)
+ - date_published: 2024-05-03T17:55:31+00:00
+
+ ## Alexandra's Notebook
+ - [https://alexandrawolfe.ca](https://alexandrawolfe.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Alexandre Viau
+ - [https://alexandreviau.ca](https://alexandreviau.ca)
+ - date_published: 2024-05-06T20:15:01+00:00
+
+ ## Alfa Romeo Canada | Official Alfa Romeo Website
+ - [https://www.alfaromeo.ca](https://www.alfaromeo.ca)
+ - date_published: 2024-06-19T08:57:54.229225+00:00
+
+ ## Home | Algonquin Highlands
+ - [https://www.algonquinhighlands.ca](https://www.algonquinhighlands.ca)
+ - date_published: 2024-12-23T05:26:21.125473+00:00
+
+ ## Alien Tape - Instantly Locks Anything Into Place Without Screws, Anchors or Adhesive!
+ - [https://www.alientape.ca](https://www.alientape.ca)
+ - date_published: 2024-06-23T06:10:35.704872+00:00
+
+ ## Bienvenue à Alimentation Juste! - Just Food
+ - [https://alimentationjuste.ca](https://alimentationjuste.ca)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Allbirds Canada Allbirds Canada | Sustainable Shoes & Clothing
+ - [https://www.allbirds.ca](https://www.allbirds.ca)
+ - date_published: 2024-06-23T07:01:57.400053+00:00
+
+ ## Home Page
+ - [https://alliancecan.ca](https://alliancecan.ca)
+ - date_published: 2024-06-21T20:08:14+00:00
+
+ ## Alpine Club of Canada – To bring together, and give voice to, Canada’s mountaineering community.
+ - [http://www.alpineclubofcanada.ca](http://www.alpineclubofcanada.ca)
+ - date_published: 2024-07-07T06:53:41.074293+00:00
+
+ ## Majd Alsado | Blog
+ - [https://alsado.ca](https://alsado.ca)
+ - date_published: 2023-11-13T20:52:10.674159+00:00
+
+ ## Accueil - Alternatives
+ - [http://www.alternatives.ca](http://www.alternatives.ca)
+ - date_published: 2024-10-21T18:13:20.854687+00:00
+
+ ## Welcome to Altus Music
+ - [http://www.altusmusic.ca](http://www.altusmusic.ca)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Always Discreet ® | Adult Incontinence Products & Protection
+ - [https://alwaysdiscreet.ca](https://alwaysdiscreet.ca)
+ - date_published: 2024-07-22T07:20:24+00:00
+
+ ## Amanda Jane – Marketing and Accountability Coaching
+ - [https://amandajane.ca](https://amandajane.ca)
+ - date_published: 2024-06-29T13:13:14.402545+00:00
+
+ ## Amazon Ads: Online advertising for businesses of all sizes
+ - [https://advertising.amazon.ca](https://advertising.amazon.ca)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Amazon.ca: Low Prices – Fast Shipping – Millions of Items
+ - [https://amazon.ca](https://amazon.ca)
+ - date_published: 2024-02-28T00:00:00+00:00
+ - tags: ['amazon canada']
+
+ ## Amazon.ca Associates Central
+ - [https://associates.amazon.ca](https://associates.amazon.ca)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Amazon Sign In
+ - [https://brandregistry.amazon.ca](https://brandregistry.amazon.ca)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Amazon Brand Protection: Protect the Brand You Built
+ - [https://brandservices.amazon.ca](https://brandservices.amazon.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Amazon Luna Cloud Gaming
+ - [https://luna.amazon.ca](https://luna.amazon.ca)
+ - date_published: 2024-08-07T00:00:00+00:00
+
  ## Amazon Kindle: Your free personal library you can take anywhere
  - [https://read.amazon.ca](https://read.amazon.ca)
  - date_published: 2024-06-24T04:14:19.790726+00:00
@@ -593,6 +955,14 @@
  - date_published: 2024-05-22T18:24:48.240436+00:00
  - tags: ['personal']
 
+ ## Bhupi.ca – Canadian Artist
+ - [http://www.bhupi.ca](http://www.bhupi.ca)
+ - date_published: 2024-12-31T14:16:54+00:00
+
+ ## Home page
+ - [https://biblesociety.ca](https://biblesociety.ca)
+ - date_published: 2024-12-31T18:47:22.297383+00:00
+
  ## Welcome to British Isles Family History Society of Ottawa
  - [https://www.bifhsgo.ca](https://www.bifhsgo.ca)
  - date_published: 2024-06-22T14:20:04+00:00
@@ -681,6 +1051,10 @@
  - [https://blockchainnorth.ca](https://blockchainnorth.ca)
  - date_published: 2024-08-27T00:00:00+00:00
 
+ ## 20mm and then some....
+ - [http://20mmandthensome.blogspot.ca](http://20mmandthensome.blogspot.ca)
+ - date_published: 2024-12-30T00:27:20+00:00
+
  ## Confessions of a 40k addict
  - [http://40kaddict.blogspot.ca](http://40kaddict.blogspot.ca)
  - date_published: 2024-10-26T14:04:34+00:00
@@ -712,6 +1086,14 @@
  ## Civilian Reader
  - [http://civilian-reader.blogspot.ca](http://civilian-reader.blogspot.ca)
  - date_published: 2024-10-25T12:20:19+00:00
+
+ ## ClearHorizon 15mm Scale Miniatures Blog
+ - [http://clearhorizonsalvage.blogspot.ca](http://clearhorizonsalvage.blogspot.ca)
+ - date_published: 2024-10-24T08:39:05+00:00
+
+ ## Nie znaleziono bloga
+ - [http://closetheranks.blogspot.ca](http://closetheranks.blogspot.ca)
+ - date_published: 2024-12-31T09:13:07.613731+00:00
 
  ## Cold North Wind
  - [http://cnorthwind.blogspot.ca](http://cnorthwind.blogspot.ca)
@@ -765,6 +1147,10 @@
  - [http://fullashtraygaming.blogspot.ca](http://fullashtraygaming.blogspot.ca)
  - date_published: 2024-07-03T03:13:36+00:00
 
+ ## i am useless
+ - [http://ghetufool.blogspot.ca](http://ghetufool.blogspot.ca)
+ - date_published: 2024-11-27T00:00:00+00:00
+
  ## El Gordo Xenos
  - [http://gordoxenos.blogspot.ca](http://gordoxenos.blogspot.ca)
  - date_published: 2024-09-01T09:13:35+00:00
@@ -785,9 +1171,17 @@
  - [http://hockeyschtick.blogspot.ca](http://hockeyschtick.blogspot.ca)
  - date_published: 2024-09-14T10:40:48+00:00
 
+ ## Don't Feed The Pixies
+ - [http://hungrypixies.blogspot.ca](http://hungrypixies.blogspot.ca)
+ - date_published: 2024-11-22T07:16:22+00:00
+
  ## Ivebeenreadinglately
  - [http://ivebeenreadinglately.blogspot.ca](http://ivebeenreadinglately.blogspot.ca)
  - date_published: 2024-09-09T08:54:00+00:00
+
+ ## Jacksarge Painting
+ - [http://jacksarge.blogspot.ca](http://jacksarge.blogspot.ca)
+ - date_published: 2024-05-25T00:00:00+00:00
 
  ## Moneyness
  - [http://jpkoning.blogspot.ca](http://jpkoning.blogspot.ca)
@@ -837,6 +1231,10 @@
  - [http://mumpsimus.blogspot.ca](http://mumpsimus.blogspot.ca)
  - date_published: 2024-09-06T19:13:54+00:00
 
+ ## Murrmurrs
+ - [http://murrbrewster.blogspot.ca](http://murrbrewster.blogspot.ca)
+ - date_published: 2024-12-28T19:11:41+00:00
+
  ## My Codde
  - [http://mycodde.blogspot.ca](http://mycodde.blogspot.ca)
  - date_published: 2024-08-06T06:45:15+00:00
@@ -873,6 +1271,10 @@
  - [http://pasttimesandpresnttensions.blogspot.ca](http://pasttimesandpresnttensions.blogspot.ca)
  - date_published: 2017-08-23T10:54:00+00:00
 
+ ## Peabody Here!
+ - [http://peabody-here.blogspot.ca](http://peabody-here.blogspot.ca)
+ - date_published: 2024-10-14T03:06:51+00:00
+
  ## The Pervocracy
  - [http://pervocracy.blogspot.ca](http://pervocracy.blogspot.ca)
  - date_published: 2024-10-18T14:37:09.571206+00:00
@@ -880,6 +1282,10 @@
  ## PhD Talk
  - [https://phdtalk.blogspot.ca](https://phdtalk.blogspot.ca)
  - date_published: 2024-05-02T10:13:04.341653+00:00
+
+ ## Philosophy Made Manifest
+ - [http://philosophymademanifest.blogspot.ca](http://philosophymademanifest.blogspot.ca)
+ - date_published: 2024-10-09T17:52:44+00:00
 
  ## Western Undergrad Mathematics Pizza Seminar
  - [http://pizzaseminaruwo.blogspot.ca](http://pizzaseminaruwo.blogspot.ca)
@@ -892,6 +1298,18 @@
  ## Sentient Developments Podcast
  - [https://podcastsentdev.blogspot.ca](https://podcastsentdev.blogspot.ca)
  - date_published: 2024-10-07T03:39:27+00:00
+
+ ## Posthegemony
+ - [http://posthegemony.blogspot.ca](http://posthegemony.blogspot.ca)
+ - date_published: 2024-12-19T03:26:50+00:00
+
+ ## Pascal Rapicault
+ - [http://prapicault.blogspot.ca](http://prapicault.blogspot.ca)
+ - date_published: 2024-10-25T07:00:50+00:00
+
+ ## arcana arcanissima
+ - [http://prunella-vulgaris.blogspot.ca](http://prunella-vulgaris.blogspot.ca)
+ - date_published: 2024-12-19T03:32:05+00:00
 
  ## *Reflective Disequilibrium*
  - [https://reflectivedisequilibrium.blogspot.ca](https://reflectivedisequilibrium.blogspot.ca)
@@ -908,6 +1326,10 @@
  ## Didcot Wargames Club
  - [http://standwargaming.blogspot.ca](http://standwargaming.blogspot.ca)
  - date_published: 2024-10-23T23:01:04+00:00
+
+ ## Take The High Ground
+ - [http://takethehighground.blogspot.ca](http://takethehighground.blogspot.ca)
+ - date_published: 2024-12-25T08:35:22+00:00
 
  ## The Privates Eternal
  - [http://theprivateseternal.blogspot.ca](http://theprivateseternal.blogspot.ca)
@@ -1060,6 +1482,10 @@
  ## Home - George Brown College CAMPUS STORES
  - [https://gbcbookstore.bookware3000.ca](https://gbcbookstore.bookware3000.ca)
  - date_published: 2024-09-24T21:20:39.940869+00:00
+
+ ## Boom12 Communications
+ - [https://boom12.ca](https://boom12.ca)
+ - date_published: 2024-12-31T00:50:37+00:00
 
  ## Home
  - [https://borden-carleton.ca](https://borden-carleton.ca)
@@ -1864,6 +2290,10 @@
  ## Canadian Hockey League
  - [https://chl.ca](https://chl.ca)
  - date_published: 2024-12-12T23:49:37.888863+00:00
+
+ ## Manawan Kitotakan CHMK 93,1 fm | Manawan Kitotakan | 251 Rue Mahikan, Manawan (Qc), Canada
+ - [https://www.chmk.ca](https://www.chmk.ca)
+ - date_published: 2024-12-31T01:37:42.903064+00:00
 
  ## Choice Properties - Canada's Preeminent REIT
  - [http://www.choicereit.ca](http://www.choicereit.ca)
@@ -3591,436 +4021,4 @@
  ## ENTREPRENEURS EN BÉTON SPÉCIALISTES EN RÉPARATION DE FISSURES DE FONDATIONS - fissuredefondation.ca - Les experts en réparation de fissure de fondation au Québec
  - [https://fissuredefondation.ca](https://fissuredefondation.ca)
  - date_published: 2024-09-10T13:08:15+00:00
-
- ## Home
- - [https://fitc.ca](https://fitc.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Physiotherapy | Massage Therapy Grand Valley & Brampton | Chiropractic Care
- - [https://fitclinic.ca](https://fitclinic.ca)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Top 5 Top 5 Toronto Fitness Clubs for 2020 | Fitness-Clubs.ca Plumbers and Plumbing Contractors for 2020 | Fitness-Clubs.ca
- - [http://www.fitness-clubs.ca](http://www.fitness-clubs.ca)
- - date_published: 2024-06-29T17:34:46.248251+00:00
-
- ## Under Construction fitness-equipment.ca
- - [http://www.fitness-equipment.ca](http://www.fitness-equipment.ca)
- - date_published: 2024-06-29T17:34:30.882942+00:00
-
- ## fitzhugh
- - [https://fitzhugh.ca](https://fitzhugh.ca)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Fjallraven Online Store
- - [https://fjallraven.ca](https://fjallraven.ca)
- - date_published: 2024-06-23T03:59:13.143650+00:00
-
- ## Flashscore.ca: NHL, OHL, WHL, NBA, MLB, MLS
- - [https://flashscore.ca](https://flashscore.ca)
- - date_published: 2024-05-11T07:35:43.981050+00:00
-
- ## Livescore mobile - live  scores at Flashscore.ca
- - [http://m.flashscore.ca](http://m.flashscore.ca)
- - date_published: 2024-07-13T13:22:26.074551+00:00
-
- ## Flavorcan International Inc. - The Good Taste People
- - [https://flavorcan.ca](https://flavorcan.ca)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Flavorcan International Inc. – The Good Taste People
- - [https://staging.flavorcan.ca](https://staging.flavorcan.ca)
- - date_published: 2024-10-14T18:08:55.445491+00:00
-
- ## FlixBus: Voyages en bus pas chers en France & Europe dès 2,99€
- - [https://fr.flixbus.ca](https://fr.flixbus.ca)
- - date_published: 2024-06-12T12:32:06+00:00
-
- ## FlixBus: Low Cost Bus Travel in Canada
- - [https://www.flixbus.ca](https://www.flixbus.ca)
- - date_published: 2024-06-12T12:32:04+00:00
-
- ## Top 5 Top 5 Toronto Flooring Contractors for 2020 | Flooring.ca Plumbers and Plumbing Contractors for 2020 | Flooring.ca
- - [http://www.flooring.ca](http://www.flooring.ca)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Floral Express Wholesale | Wholesale Flowers and Floral Supplies
- - [https://floralexpress.ca](https://floralexpress.ca)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Floral Express Wholesale - Freshness Delivered
- - [https://webshop.floralexpress.ca](https://webshop.floralexpress.ca)
- - date_published: 2024-08-11T04:37:58.858287+00:00
-
- ## Federation of Law Societies of Canada - Governing Canada's Legal Profession
- - [http://www.flsc.ca](http://www.flsc.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Flyercity Flyers | Weekly Groceries, Fashion, Electronics, Health & Beauty, Home & Garden, Home Décor & Sporting Goods Online Flyer Sales | Browse your local flyers in the comfort of your home | Flyercity.ca
- - [https://flyercity.ca](https://flyercity.ca)
- - date_published: 2024-06-14T23:43:57.125832+00:00
-
- ## Flyertown | Flyertown
- - [https://www.flyertown.ca](https://www.flyertown.ca)
- - date_published: 2024-06-21T19:45:09.541787+00:00
-
- ## Accueil | L’Hôpital d’Ottawa
- - [https://fondationho.ca](https://fondationho.ca)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home
- - [https://fool.ca](https://fool.ca)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## LES EXPERTS DU FORAGE DE PUITS  AU QUÉBEC - Experts en forage de puits
- - [https://foragedepuits.ca](https://foragedepuits.ca)
- - date_published: 2024-09-10T11:09:37+00:00
-
- ## Welcome to AccessoriesCanada
- - [https://accessories.ford.ca](https://accessories.ford.ca)
- - date_published: 2024-10-29T22:02:34.563730+00:00
-
- ## Finance or Lease Ford Vehicles and Apply for Ford Credit | Official Site of Ford Credit Canada
- - [https://credit.ford.ca](https://credit.ford.ca)
- - date_published: 2024-06-19T17:10:48.048534+00:00
-
- ## Ford – Voitures, camions, VUS, hybrides et VUM neufs | Véhicules Ford
- - [https://fr.ford.ca](https://fr.ford.ca)
- - date_published: 2024-10-29T12:15:09+00:00
-
- ## Ford Canada – New Cars, Trucks, SUVs, Hybrids & Crossovers
- - [https://shop.ford.ca](https://shop.ford.ca)
- - date_published: 2024-06-19T12:15:50+00:00
-
- ## Ford Pro | Commercial Fleet Vehicles, Services & Telematics
- - [http://www.fleet.ford.ca](http://www.fleet.ford.ca)
- - date_published: 2024-10-29T22:14:20.089100+00:00
-
- ## Ford Canada – New Cars, Trucks, SUVs, Hybrids & Crossovers
- - [http://www.ford.ca](http://www.ford.ca)
- - date_published: 2024-06-19T12:15:50+00:00
-
- ## Ford Canada EV Chargers
- - [https://fordcharging.ca](https://fordcharging.ca)
- - date_published: 2024-10-29T22:08:52.029538+00:00
-
- ## Ford Genuine Parts & Accessories | Ford Parts Canada
- - [https://www.fordparts.ca](https://www.fordparts.ca)
- - date_published: 2024-10-29T22:07:46.402577+00:00
-
- ## Ford Pro | Commercial Fleet Vehicles, Services & Telematics
- - [https://www.fordpro.ca](https://www.fordpro.ca)
- - date_published: 2024-10-29T21:51:06.221334+00:00
-
- ## Forest Anderson - Backend Developer
- - [https://www.forest-anderson.ca](https://www.forest-anderson.ca)
- - date_published: 2021-05-21T01:26:29+00:00
-
- ## Home
- - [https://www.fortedmontonpark.ca](https://www.fortedmontonpark.ca)
- - date_published: 2024-07-08T11:26:41.383165+00:00
-
- ## Colin Woodbury - About
- - [https://www.fosskers.ca](https://www.fosskers.ca)
- - date_published: 2024-01-29T23:02:20.819692+00:00
-
- ## Home | Foster & Associates
- - [https://www.fostergroup.ca](https://www.fostergroup.ca)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Fox Racing® Canada | Official Site
- - [https://foxracing.ca](https://foxracing.ca)
- - date_published: 2024-06-15T11:59:44.751010+00:00
-
- ## Cierpliwości...
- - [https://framcon.ca](https://framcon.ca)
- - date_published: 2024-04-30T05:14:35.299862+00:00
-
- ## Homepage
- - [https://www.franklincovey.ca](https://www.franklincovey.ca)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Portal Home - FranTech
- - [https://my.frantech.ca](https://my.frantech.ca)
- - date_published: 2024-05-04T05:50:03.883976+00:00
-
- ## Financial Reporting and Assurance Standards Canada
- - [https://www.frascanada.ca](https://www.frascanada.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Select Language | City of Fredericton
- - [https://fredericton.ca](https://fredericton.ca)
- - date_published: 2024-05-10T02:41:14.415794+00:00
-
- ## Welcome to Opioid, USA
- - [https://www.freedommag.ca](https://www.freedommag.ca)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Hire Freelancers & Find Freelance Jobs Online
- - [https://www.freelancer.ca](https://www.freelancer.ca)
- - date_published: 2024-06-16T12:02:13.386225+00:00
-
- ## Fraser Institute
- - [https://freetheworld.ca](https://freetheworld.ca)
- - date_published: 2024-12-22T06:05:54.468253+00:00
-
- ## Freetrade - Soon launching in Canada
- - [https://freetrade.ca](https://freetrade.ca)
- - date_published: 2023-06-20T00:00:00+00:00
-
- ## Freshdaily
- - [http://www.freshdaily.ca](http://www.freshdaily.ca)
- - date_published: 2024-09-10T08:27:19.000503+00:00
-
- ## Fresh Prep | Meal Kit service delivering to Vancouver and Calgary
- - [https://try.freshprep.ca](https://try.freshprep.ca)
- - date_published: 2024-06-27T13:06:56.723203+00:00
-
- ## friendica – A Decentralized Social Network
- - [https://friendi.ca](https://friendi.ca)
- - date_published: 2024-06-19T22:13:12.469601+00:00
-
- ## froghat.ca
- - [https://froghat.ca](https://froghat.ca)
- - date_published: 2023-10-25T09:02:17.770370+00:00
- - tags: ['personal']
-
- ## FrogHeart | Commentary about nanotech, science policy and communication, society, and the arts
- - [https://frogheart.ca](https://frogheart.ca)
- - date_published: 2024-05-11T07:52:34.040651+00:00
-
- ## Home
- - [https://www.fslabs.ca](https://www.fslabs.ca)
- - date_published: 2024-03-13T11:24:16+00:00
-
- ## Application - Online Services Portal
- - [https://onlineservicesportal.fsrao.ca](https://onlineservicesportal.fsrao.ca)
- - date_published: 2024-09-30T13:53:43.481349+00:00
-
- ## Enforcements and Warnings
- - [https://teao.fsrao.ca](https://teao.fsrao.ca)
- - date_published: 2024-09-30T13:53:36.464588+00:00
-
- ## Financial Services Regulatory Authority of Ontario | FSRA | Financial Services Regulatory Authority of Ontario
- - [https://www.fsrao.ca](https://www.fsrao.ca)
- - date_published: 2024-06-16T06:19:41+00:00
-
- ## FTFL.CA
- - [http://ftfl.ca](http://ftfl.ca)
- - date_published: 2022-11-17T21:43:13+00:00
-
- ## Home
- - [https://www.fulbright.ca](https://www.fulbright.ca)
- - date_published: 2024-07-14T05:11:53.844102+00:00
-
- ## Fund Our Health Care
- - [http://www.fundhealthcare.ca](http://www.fundhealthcare.ca)
- - date_published: 2024-07-08T16:52:44.200065+00:00
-
- ## Funerals in Canada, Canada
- - [http://www.funerals.ca](http://www.funerals.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Furius Enterprises
- - [http://furius.ca](http://furius.ca)
- - date_published: 2021-10-23T18:38:30+00:00
- - tags: ['personal']
-
- ## Future North
- - [https://futurenorth.ca](https://futurenorth.ca)
- - date_published: 2024-07-18T08:23:01+00:00
-
- ## Find businesses and services in Canada
- - [https://www.fyple.ca](https://www.fyple.ca)
- - date_published: 2024-06-29T18:25:40.904229+00:00
-
- ## Ontario G1 Practice Test Online
- - [https://www.g1.ca](https://www.g1.ca)
- - date_published: 2024-09-02T07:30:15+00:00
-
- ## Tim Gadanidis - Home
- - [https://gadanidis.ca](https://gadanidis.ca)
- - date_published: 2023-10-25T08:42:54.581662+00:00
- - tags: ['personal']
-
- ## Galleries West — Your link to directories of art galleries, lists of art exhibitions and the visual arts scene in Western Canada.
- - [https://www.gallerieswest.ca](https://www.gallerieswest.ca)
- - date_published: 2024-07-20T17:54:46.315028+00:00
-
- ## NGC Audio Tours | MBAC Visites Audio
- - [https://digital.gallery.ca](https://digital.gallery.ca)
- - date_published: 2024-07-19T22:13:48.235685+00:00
-
- ## National Gallery of Canada
- - [https://gallery.ca](https://gallery.ca)
- - date_published: 2023-11-13T13:45:23.318113+00:00
- - tags: ['museum']
-
- ## Best Casino Bonus in Canada [ 2024 ] | Gamblizard.ca
- - [https://gamblizard.ca](https://gamblizard.ca)
- - date_published: 2024-12-12T10:09:46+00:00
-
- ## Gamer Social Club
- - [https://gamersocialclub.ca](https://gamersocialclub.ca)
- - date_published: 2024-12-25T15:26:53+00:00
-
- ## GameStop | The largest video game retailer in Canada. Play. Trade. Save.  - GameStop.ca
- - [https://gamestop.ca](https://gamestop.ca)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Kahnawà:ke Gaming Commission
- - [https://www.gamingcommission.ca](https://www.gamingcommission.ca)
- - date_published: 2024-07-03T12:48:22.494784+00:00
-
- ## This is the default server vhost
- - [http://www.garagedoors.ca](http://www.garagedoors.ca)
- - date_published: 2024-06-24T11:23:01+00:00
-
- ## Garageland a book by Andrew Campbell
- - [https://garageland.ca](https://garageland.ca)
- - date_published: 2017-09-30T00:00:00+00:00
-
- ## Homepage - Garnier.com
- - [https://www.garnier.ca](https://www.garnier.ca)
- - date_published: 2024-10-20T22:52:06.220529+00:00
-
- ## Accueil
- - [https://www.gatineau.ca](https://www.gatineau.ca)
- - date_published: 2024-07-10T05:29:52.784558+00:00
-
- ## Home
- - [http://www.gbcicanada.ca](http://www.gbcicanada.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Garett Brown
- - [https://gbrown.ca](https://gbrown.ca)
- - date_published: 2024-05-04T15:44:38.983462+00:00
-
- ## wiki
- - [https://wiki.gccollab.ca](https://wiki.gccollab.ca)
- - date_published: 2023-05-03T00:00:00+00:00
-
- ## Giorgio Delgado
- - [https://gdelgado.ca](https://gdelgado.ca)
- - date_published: 2022-01-08T00:00:00+00:00
-
- ## GE Appliances Canada | Homepage
- - [https://geappliances.ca](https://geappliances.ca)
- - date_published: 2024-10-18T17:21:54.254071+00:00
-
- ## playpto.xyz
- - [https://token.gearzero.ca](https://token.gearzero.ca)
- - date_published: 2022-08-26T10:08:08+00:00
-
- ## Gee-Gees d'Ottawa
- - [https://equipes.geegees.ca](https://equipes.geegees.ca)
- - date_published: 2024-07-21T08:25:41.342522+00:00
-
- ## Ottawa Gee-Gees
- - [https://teams.geegees.ca](https://teams.geegees.ca)
- - date_published: 2024-04-30T05:28:13.660472+00:00
-
- ## Ottawa Gee-Gees
- - [https://tickets.geegees.ca](https://tickets.geegees.ca)
- - date_published: 2024-07-21T08:25:23.743842+00:00
-
- ## GEEKOM Mini PC: Top, Powerful & Energy-Efficient Mini PCs
- - [https://www.geekom.ca](https://www.geekom.ca)
- - date_published: 2024-10-31T21:44:48.651819+00:00
-
- ## Homepage - GenomeCanada
- - [https://www.genomecanada.ca](https://www.genomecanada.ca)
- - date_published: 2024-07-10T11:37:42.790739+00:00
-
- ## GBC International Application
- - [https://applynow.georgebrown.ca](https://applynow.georgebrown.ca)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## George Brown College Athletics and Recreation
- - [https://athletics.georgebrown.ca](https://athletics.georgebrown.ca)
- - date_published: 2024-09-24T21:20:24.562742+00:00
-
- ## Home | George Brown College Continuing Education
- - [https://coned.georgebrown.ca](https://coned.georgebrown.ca)
- - date_published: 2024-09-24T21:20:58.529341+00:00
-
- ## STU-VIEW
- - [https://dmzbwb02.georgebrown.ca](https://dmzbwb02.georgebrown.ca)
- - date_published: 2024-09-23T14:47:55+00:00
-
- ## Welcome
- - [https://extensibility.georgebrown.ca](https://extensibility.georgebrown.ca)
- - date_published: 2024-09-24T21:20:06.755740+00:00
-
- ## George Brown College - georgebrown.ca
- - [https://georgebrown.ca](https://georgebrown.ca)
- - date_published: 2021-03-19T11:16:54+00:00
-
- ## Sign in to your account
- - [https://learn.georgebrown.ca](https://learn.georgebrown.ca)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## STU-VIEW
- - [https://stuview.georgebrown.ca](https://stuview.georgebrown.ca)
- - date_published: 2024-09-23T14:47:55+00:00
-
- ## George Brown College Virtual Tour
- - [https://vt.georgebrown.ca](https://vt.georgebrown.ca)
- - date_published: 2024-09-24T21:20:43.537871+00:00
-
- ## George W.J. Laidlaw - Index Page
- - [http://georgelaidlaw.ca](http://georgelaidlaw.ca)
- - date_published: 2019-09-08T19:31:21+00:00
-
- ## Canada - Seed World
- - [https://germination.ca](https://germination.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Découvrez les meilleurs logiciels grâce à GetApp Canada pour développer votre entreprise
- - [https://fr.getapp.ca](https://fr.getapp.ca)
- - date_published: 2024-08-08T18:07:21.040548+00:00
-
- ## Discover the Best Apps on GetApp Canada to Grow Your Business
- - [https://www.getapp.ca](https://www.getapp.ca)
- - date_published: 2024-08-08T18:06:56.766348+00:00
-
- ## Metrics CPA | Canada's Crypto Tax Specialists
- - [https://getmetrics.ca](https://getmetrics.ca)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Royalty-Free Stock Photos, Creative Images & Vectors | News, Fashion, and Entertainment imagery - Getty Images
- - [https://www.gettyimages.ca](https://www.gettyimages.ca)
- - date_published: 2024-06-20T01:48:50.997991+00:00
-
- ## Wheat
- - [https://getwheat.ca](https://getwheat.ca)
- - date_published: 2024-08-08T15:35:51+00:00
-
- ## One Page Resume
- - [https://gianlu.ca](https://gianlu.ca)
- - date_published: 2023-12-02T06:15:14+00:00
-
- ## Gilead Sciences
- - [https://www.gilead.ca](https://www.gilead.ca)
- - date_published: 2024-07-02T04:08:12.955063+00:00
-
- ## The Giller Prize – Canada's first word in fiction
- - [https://gillerprize.ca](https://gillerprize.ca)
- - date_published: 2024-11-30T13:48:25.576033+00:00
-
- ## Gillette Venus Women's Razors and Shaving Products | Venus CA
- - [https://www.gillettevenus.ca](https://www.gillettevenus.ca)
- - date_published: 2024-10-23T09:03:50+00:00
-
- ## Home - Glacier Media
- - [https://glaciermedia.ca](https://glaciermedia.ca)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Glass in Canada, Canada
- - [http://www.glass.ca](http://www.glass.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Recherche d'emploi sur Glassdoor
- - [https://fr.glassdoor.ca](https://fr.glassdoor.ca)
- - date_published: 2024-12-24T20:48:07.941362+00:00
 

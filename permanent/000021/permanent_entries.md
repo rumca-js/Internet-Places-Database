@@ -1,3 +1,435 @@
+ ## Attention Required! | Cloudflare
+ - [https://www.parieraucanada.ca](https://www.parieraucanada.ca)
+ - date_published: 2024-07-17T12:56:38.648713+00:00
+
+ ## Pari Sportif Canada : Guide des meilleurs sites de paris en 2024
+ - [https://www.parissportifcanada.ca](https://www.parissportifcanada.ca)
+ - date_published: 2024-06-20T16:25:08+00:00
+
+ ## Welcome! - paritybit.ca
+ - [https://paritybit.ca](https://paritybit.ca)
+ - date_published: 2024-07-23T23:27:18.774546+00:00
+
+ ## Parkland Corporation: We deliver, serve and innovate | Parkland Corporation
+ - [https://www.parkland.ca](https://www.parkland.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Parkland Institute
+ - [https://www.parklandinstitute.ca](https://www.parklandinstitute.ca)
+ - date_published: 2024-07-20T15:44:41.744817+00:00
+
+ ## Parks Canada
+ - [https://www.parkscanada.ca](https://www.parkscanada.ca)
+ - date_published: 2024-06-19T04:52:08.260898+00:00
+
+ ## Bibliothèque du Parlement du Canada
+ - [https://bdp.parl.ca](https://bdp.parl.ca)
+ - date_published: 2024-07-10T05:32:32.467327+00:00
+
+ ## Employment at Parliament | Emplois au Parlement
+ - [http://jobs-emplois.parl.ca](http://jobs-emplois.parl.ca)
+ - date_published: 2024-07-10T05:30:23.778189+00:00
+
+ ## Learn About Parliament
+ - [https://learn.parl.ca](https://learn.parl.ca)
+ - date_published: 2024-07-10T05:29:48.318102+00:00
+
+ ## Library of the Canadian Parliament
+ - [https://lop.parl.ca](https://lop.parl.ca)
+ - date_published: 2024-07-10T05:29:45.489800+00:00
+
+ ## Parliament of Canada - Parlement du Canada
+ - [https://parl.ca](https://parl.ca)
+ - date_published: 2024-05-09T07:39:30.010213+00:00
+
+ ## Parliamentary Protective Service
+ - [https://pps.parl.ca](https://pps.parl.ca)
+ - date_published: 2024-07-10T05:29:57.024438+00:00
+
+ ## Parliament of Canada Tours — Home
+ - [https://rts.parl.ca](https://rts.parl.ca)
+ - date_published: 2024-07-10T05:30:22.334976+00:00
+
+ ## Visitez le parlement du Canada
+ - [https://visitez.parl.ca](https://visitez.parl.ca)
+ - date_published: 2024-07-10T05:32:29.812335+00:00
+
+ ## Visit Canada's Parliament
+ - [https://visit.parl.ca](https://visit.parl.ca)
+ - date_published: 2024-07-10T05:30:15.969252+00:00
+
+ ## Home | Town of Parry Sound
+ - [https://www.parrysound.ca](https://www.parrysound.ca)
+ - date_published: 2024-12-23T05:26:19.265948+00:00
+
+ ## Partek I.T. Solutions — Managed Information Technology and Cybersecurity Solutions
+ - [https://partek.ca](https://partek.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Townhome Builder in Calgary & Okotoks | Partners Development Group
+ - [https://partnershomes.ca](https://partnershomes.ca)
+ - date_published: 2024-04-30T05:14:18.749674+00:00
+
+ ## Patagonia Outdoor Clothing & Gear
+ - [https://patagonia.ca](https://patagonia.ca)
+ - date_published: 2024-05-06T22:33:35.006597+00:00
+
+ ## PataTaSocial - GoToSocial
+ - [https://gotosocial.patatas.ca](https://gotosocial.patatas.ca)
+ - date_published: 2024-07-13T03:42:14.029076+00:00
+
+ ## Home - The Dabbler: a blog by @smallpatatas
+ - [https://thedabbler.patatas.ca](https://thedabbler.patatas.ca)
+ - date_published: 2024-05-10T07:02:36.153421+00:00
+ - tags: ['personal']
+
+ ## Pathways to Education Canada
+ - [https://www.pathwaystoeducation.ca](https://www.pathwaystoeducation.ca)
+ - date_published: 2024-08-09T03:53:37.024419+00:00
+
+ ## Patrick Douglas
+ - [https://patrickdouglas.ca](https://patrickdouglas.ca)
+ - date_published: 2024-09-09T20:54:21+00:00
+
+ ## Sam Pavot - Contact page
+ - [https://sam.pavot.ca](https://sam.pavot.ca)
+ - date_published: 2023-11-26T03:34:15+00:00
+
+ ## Payday loans in Canada, Canada
+ - [http://www.payday.ca](http://www.payday.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Payment Source - Empowering Inclusion
+ - [https://www.paymentsource.ca](https://www.paymentsource.ca)
+ - date_published: 2024-09-18T06:50:30+00:00
+
+ ## Payper | Get in the fold
+ - [https://www.payper.ca](https://www.payper.ca)
+ - date_published: 2022-11-22T19:24:37+00:00
+
+ ## https://paysync.ca
+ - [https://paysync.ca](https://paysync.ca)
+ - date_published: 2023-10-25T12:06:31.218287+00:00
+
+ ## Patrick Boivin
+ - [https://pboivin.ca](https://pboivin.ca)
+ - date_published: 2024-01-24T17:59:32.974422+00:00
+
+ ## Accueil - Partenariat des Bibliothèques universitaires du Québec
+ - [https://pbuq.ca](https://pbuq.ca)
+ - date_published: 2024-12-12T23:43:25.801531+00:00
+
+ ## President’s Choice Children’s Charity | Feeding Hungry Minds
+ - [https://pcchildrenscharity.ca](https://pcchildrenscharity.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## PC Financial | Canadian Rewards Credit Cards with No Annual Fee | Services financiers PC | Cartes de crédit canadiennes avec récompenses et sans frais annuels
+ - [https://secure.pcfinancial.ca](https://secure.pcfinancial.ca)
+ - date_published: 2024-05-29T11:20:47+00:00
+
+ ## Earn PC Optimum™ points with PC® Mastercard® and PC Money™ Account | PC Financial
+ - [https://www.pcfinancial.ca](https://www.pcfinancial.ca)
+ - date_published: 2024-05-01T06:19:40.507262+00:00
+
+ ## NamesPro.ca | Register with Confidence
+ - [http://www.pcna.ca](http://www.pcna.ca)
+ - date_published: 2024-07-01T15:32:00.163122+00:00
+
+ ## PC Optimum
+ - [https://www.pcoptimum.ca](https://www.pcoptimum.ca)
+ - date_published: 2024-06-12T16:39:45+00:00
+
+ ## Welcome
+ - [https://www.peachland.ca](https://www.peachland.ca)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Eye Exams, Prescription Eyewear & More | Pearle Vision
+ - [https://www.pearlevision.ca](https://www.pearlevision.ca)
+ - date_published: 2024-07-09T10:16:44.955767+00:00
+
+ ## The Centre for Pediatric Pain Research | Science Helping Children
+ - [https://pediatric-pain.ca](https://pediatric-pain.ca)
+ - date_published: 2024-07-21T23:10:57.591973+00:00
+
+ ## Pelham's Local News
+ - [https://www.pelhamtoday.ca](https://www.pelhamtoday.ca)
+ - date_published: 2024-12-26T13:50:20+00:00
+
+ ## Penguin Random House Canada
+ - [https://penguinrandomhouse.ca](https://penguinrandomhouse.ca)
+ - date_published: 2024-05-06T16:48:30.412069+00:00
+
+ ## City of Penticton
+ - [https://www.penticton.ca](https://www.penticton.ca)
+ - date_published: 2024-08-18T00:00:48+00:00
+
+ ## Dalhousie University | Home
+ - [https://dal.peopleadmin.ca](https://dal.peopleadmin.ca)
+ - date_published: 2024-08-19T10:53:42+00:00
+
+ ## PERI Canada Homepage
+ - [https://www.peri.ca](https://www.peri.ca)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home · Perimeter Events (Indico)
+ - [https://events.perimeterinstitute.ca](https://events.perimeterinstitute.ca)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Homepage | Perimeter Institute
+ - [https://perimeterinstitute.ca](https://perimeterinstitute.ca)
+ - date_published: 2024-07-20T23:38:53.467919+00:00
+
+ ## Perimeter Institute
+ - [https://resources.perimeterinstitute.ca](https://resources.perimeterinstitute.ca)
+ - date_published: 2024-07-21T06:38:36.419864+00:00
+
+ ## Fabricant de produits d'aménagement et de maçonnerie - Permacon
+ - [https://permacon.ca](https://permacon.ca)
+ - date_published: 2024-10-18T06:57:29.822819+00:00
+
+ ## Personal Journal
+ - [https://personaljournal.ca](https://personaljournal.ca)
+ - date_published: 2024-06-16T21:25:30.937932+00:00
+
+ ## Top 5 Top 5 Toronto Pest Control for 2020 | Pest-Control.ca Plumbers and Plumbing Contractors for 2020 | Pest-Control.ca
+ - [http://www.pest-control.ca](http://www.pest-control.ca)
+ - date_published: 2024-06-29T17:25:54.716663+00:00
+
+ ## Peter Zhu
+ - [https://blog.peterzhu.ca](https://blog.peterzhu.ca)
+ - date_published: 2023-10-25T09:02:44.361368+00:00
+ - tags: ['personal']
+
+ ## Software Developer
+ - [https://peterzhu.ca](https://peterzhu.ca)
+ - date_published: 2024-01-01T16:35:15+00:00
+
+ ## Pet grooming in Canada, Canada
+ - [http://www.pet-grooming.ca](http://www.pet-grooming.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Petrucci Music Library - Canada (PML-CA) Portal
+ - [https://petruccimusiclibrary.ca](https://petruccimusiclibrary.ca)
+ - date_published: 2020-01-22T07:10:30+00:00
+
+ ## Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart
+ - [https://www.petsmart.ca](https://www.petsmart.ca)
+ - date_published: 2024-10-14T09:46:30+00:00
+
+ ## More than a Pet Charity: Connecting People & Pets | PetSmart Charities
+ - [https://petsmartcharities.ca](https://petsmartcharities.ca)
+ - date_published: 2024-06-21T21:12:27+00:00
+
+ ## Parker Glynn-Adey
+ - [https://pgadey.ca](https://pgadey.ca)
+ - date_published: 2023-11-29T17:15:09.105463+00:00
+ - tags: ['personal']
+
+ ## Publishers Group Canada
+ - [https://www.pgcbooks.ca](https://www.pgcbooks.ca)
+ - date_published: 2024-06-18T21:32:14+00:00
+
+ ## Welcome - Slonik Events Canada
+ - [https://www.pgevents.ca](https://www.pgevents.ca)
+ - date_published: 2024-08-14T20:46:56.257687+00:00
+
+ ## P&GGoodEveryDay | Get Offers, Rewards, Printable Coupons & Promo Codes
+ - [https://www.pggoodeveryday.ca](https://www.pggoodeveryday.ca)
+ - date_published: 2024-10-28T18:13:28+00:00
+
+ ## Prince George Digitization | PG Newspapers
+ - [http://pgnewspapers.pgpl.ca](http://pgnewspapers.pgpl.ca)
+ - date_published: 2024-06-27T12:57:29.826127+00:00
+
+ ## PharmAla Biotech
+ - [https://pharmala.ca](https://pharmala.ca)
+ - date_published: 2024-06-29T08:29:09.740617+00:00
+
+ ## PHI | Arts & Culture Through Contemporary Experiences | Old Montreal
+ - [https://phi.ca](https://phi.ca)
+ - date_published: 2024-07-09T22:28:49+00:00
+
+ ## Commercial Sustainable LED lighting solutions | Canada | Philips lighting
+ - [https://lighting.philips.ca](https://lighting.philips.ca)
+ - date_published: 2024-10-30T15:38:20+00:00
+
+ ## Philips - Canada
+ - [https://www.philips.ca](https://www.philips.ca)
+ - date_published: 2024-10-30T02:58:05+00:00
+
+ ## Photographers in Canada, Canada
+ - [http://www.photographers.ca](http://www.photographers.ca)
+ - date_published: 2024-06-29T17:34:21.771165+00:00
+
+ ## Phrenssynnes' Lifestyle Blog
+ - [https://phrenssynnes.ca](https://phrenssynnes.ca)
+ - date_published: 2023-12-27T01:06:07.688727+00:00
+ - tags: ['personal']
+
+ ## Provincial Health Services Authority
+ - [http://www.phsa.ca](http://www.phsa.ca)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Phoenix Labs
+ - [https://phxlabs.ca](https://phxlabs.ca)
+ - date_published: 2024-05-09T08:37:17.110185+00:00
+
+ ## PicClick CA • Search eBay Faster. Find it first!
+ - [https://picclick.ca](https://picclick.ca)
+ - date_published: 2024-06-21T15:04:31.730715+00:00
+
+ ## L'actualité des profondeurs - Pieuvre.ca
+ - [https://www.pieuvre.ca](https://www.pieuvre.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## P. I. Moore
+ - [https://pimoore.ca](https://pimoore.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## reilly dow
+ - [https://www.pinkfish.ca](https://www.pinkfish.ca)
+ - date_published: 2024-09-12T19:04:21.311035+00:00
+
+ ## Pinterest
+ - [https://pinterest.ca](https://pinterest.ca)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home - Pioneer Wood Designs Inc. Commercial Millwork
+ - [https://pioneerwooddesigns.ca](https://pioneerwooddesigns.ca)
+ - date_published: 2016-08-26T10:40:44+00:00
+
+ ## Pirate Party of Canada
+ - [http://www.pirateparty.ca](http://www.pirateparty.ca)
+ - date_published: 2023-10-30T17:14:57+00:00
+
+ ## pirati.ca - social networking for pirates | Home
+ - [https://pirati.ca](https://pirati.ca)
+ - date_published: 2024-07-10T07:29:06.359563+00:00
+
+ ## Home Page - Placement Pass
+ - [https://georgebrowncollege.placementpass.ca](https://georgebrowncollege.placementpass.ca)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Plant - Canada's Manufacturing Voice
+ - [https://www.plant.ca](https://www.plant.ca)
+ - date_published: 2024-10-15T17:34:17+00:00
+
+ ## PlanToys Canada
+ - [https://plantoys.ca](https://plantoys.ca)
+ - date_published: 2024-06-23T16:34:47.232640+00:00
+
+ ## play 101.3 - play 101.3
+ - [https://www.play1013.ca](https://www.play1013.ca)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## play 103.7 - play 103.7
+ - [https://www.play1037.ca](https://www.play1037.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Play 92
+ - [https://www.play92.ca](https://www.play92.ca)
+ - date_published: 2024-06-27T12:38:46+00:00
+
+ ## Home - Banff World Media Festival
+ - [https://banffmediafestival.playbackonline.ca](https://banffmediafestival.playbackonline.ca)
+ - date_published: 2024-12-25T23:13:58.704310+00:00
+
+ ## Playback
+ - [https://www.playbackonline.ca](https://www.playbackonline.ca)
+ - date_published: 2024-12-25T22:59:37+00:00
+
+ ## League of Canadian Poets Home
+ - [https://poets.ca](https://poets.ca)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Honza's git repositories
+ - [https://git.pokorny.ca](https://git.pokorny.ca)
+ - date_published: 2024-09-04T03:40:41.413776+00:00
+
+ ## Honza Pokorný
+ - [https://honza.pokorny.ca](https://honza.pokorny.ca)
+ - date_published: 2024-06-01T04:52:15.881714+00:00
+
+ ## Polarcon
+ - [https://polarcon.ca](https://polarcon.ca)
+ - date_published: 2024-08-30T01:02:18+00:00
+
+ ## Polaris Music Prize
+ - [https://polarismusicprize.ca](https://polarismusicprize.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## | Canadian Centre for Policy Alternatives
+ - [https://www.policyalternatives.ca](https://www.policyalternatives.ca)
+ - date_published: 2024-08-02T18:01:09.429086+00:00
+
+ ## Policy Magazine
+ - [https://www.policymagazine.ca](https://www.policymagazine.ca)
+ - date_published: 2023-12-22T13:05:33+00:00
+
+ ## The School of Public Policy
+ - [https://www.policyschool.ca](https://www.policyschool.ca)
+ - date_published: 2016-02-15T19:05:29+00:00
+
+ ## About Political Ads - Political Ads
+ - [https://politicalads.ca](https://politicalads.ca)
+ - date_published: 2024-09-16T03:08:17.052234+00:00
+
+ ## Polygon Sandwich -- animation
+ - [https://polygons.ca](https://polygons.ca)
+ - date_published: 2024-08-18T06:14:35.219587+00:00
+
+ ## CERC DS4DM – Data Science for Real-Time Decision-Making
+ - [https://cerc-datascience.polymtl.ca](https://cerc-datascience.polymtl.ca)
+ - date_published: 2024-07-12T08:10:10.378487+00:00
+
+ ## Software Engineering for Machine Learning Application – SEMLA
+ - [https://semla.polymtl.ca](https://semla.polymtl.ca)
+ - date_published: 2024-07-21T22:10:42.947358+00:00
+
+ ## Polytechnique Montréal | Polytechnique Montréal est l’un des plus importants établissements d’enseignement et de recherche en génie au Canada
+ - [http://www.polymtl.ca](http://www.polymtl.ca)
+ - date_published: 2024-08-06T17:23:58+00:00
+
+ ## Hot Tubs in Toronto, the GTA & Across Canada | Hottubs.ca by N49
+ - [http://www.pools.ca](http://www.pools.ca)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Pop! Public. Open. Participatory.
+ - [https://popjournal.ca](https://popjournal.ca)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Pop Rockets
+ - [https://poprockets.ca](https://poprockets.ca)
+ - date_published: 2024-09-09T20:48:21+00:00
+
+ ## Porsche Experience
+ - [https://porscheexperience.ca](https://porscheexperience.ca)
+ - date_published: 2024-04-25T14:38:16+00:00
+
+ ## Poshmark
+ - [https://poshmark.ca](https://poshmark.ca)
+ - date_published: 2024-06-28T19:35:14.006023+00:00
+
+ ## Customer Support Center
+ - [https://support.poshmark.ca](https://support.poshmark.ca)
+ - date_published: 2023-06-29T19:35:55+00:00
+
+ ## Services
+ - [https://ws1.postescanada-canadapost.ca](https://ws1.postescanada-canadapost.ca)
+ - date_published: 2024-07-21T09:56:52.408371+00:00
+
+ ## Welcome - PostgreSQL Community Association
+ - [https://postgres.ca](https://postgres.ca)
+ - date_published: 2023-12-06T00:00:00+00:00
+
+ ## Prairie Hockey Academy
+ - [https://www.prairiehockey.ca](https://www.prairiehockey.ca)
+ - date_published: 2024-06-27T12:52:47.597138+00:00
+
+ ## Premise Design Communications Inc.
+ - [http://premise.ca](http://premise.ca)
+ - date_published: 2024-09-05T11:53:39.670377+00:00
+
  ## President's Choice®
  - [http://www.presidentschoice.ca](http://www.presidentschoice.ca)
  - date_published: 2024-06-16T09:41:31.566263+00:00
@@ -65,6 +497,10 @@
  ## Oceana Canada Protecting the World's Oceans
  - [https://protectoceans.ca](https://protectoceans.ca)
  - date_published: 2024-05-09T05:08:20.707676+00:00
+
+ ## The General's Tent
+ - [http://tyler.provick.ca](http://tyler.provick.ca)
+ - date_published: 2024-12-31T09:12:22.697949+00:00
 
  ## Provocation Ideas Festival
  - [https://provocation.ca](https://provocation.ca)
@@ -1990,6 +2426,10 @@
  - [https://thedigitaldiarist.ca](https://thedigitaldiarist.ca)
  - date_published: 2024-07-02T19:06:27+00:00
 
+ ## The Website at the End of the Universe
+ - [http://theendoftheuniverse.ca](http://theendoftheuniverse.ca)
+ - date_published: 2024-12-31T20:46:19.443636+00:00
+
  ## The Gateway - The University of Alberta's official campus media source
  - [http://thegatewayonline.ca](http://thegatewayonline.ca)
  - date_published: 2024-07-20T15:44:20.566310+00:00
@@ -2822,6 +3262,10 @@
  - [http://c21.phas.ubc.ca](http://c21.phas.ubc.ca)
  - date_published: 2023-03-31T21:58:54+00:00
 
+ ## Home | cIRcle UBC
+ - [https://circle.ubc.ca](https://circle.ubc.ca)
+ - date_published: 2024-12-31T20:32:51.598946+00:00
+
  ## University of British Columbia Library | UBC Library Home
  - [https://clf.library.ubc.ca](https://clf.library.ubc.ca)
  - date_published: 2024-07-21T09:07:11.277374+00:00
@@ -3074,6 +3518,10 @@
  ## Home | UBC Robson Square
  - [https://robsonsquare.ubc.ca](https://robsonsquare.ubc.ca)
  - date_published: 2024-07-21T09:53:42.127576+00:00
+
+ ## Home | Scholarly Communications
+ - [http://scholcomm.ubc.ca](http://scholcomm.ubc.ca)
+ - date_published: 2024-12-31T20:33:08.436251+00:00
 
  ## HOME | SCQ
  - [http://scq.ubc.ca](http://scq.ubc.ca)
@@ -3586,448 +4034,4 @@
  ## Soutien aux candidats - Université de Montréal
  - [https://aide.umontreal.ca](https://aide.umontreal.ca)
  - date_published: 2024-09-16T00:54:05.350649+00:00
-
- ## Gestion des affichages - Bibliothèques - Université de Montréal
- - [https://avis.bib.umontreal.ca](https://avis.bib.umontreal.ca)
- - date_published: 2024-08-11T03:23:49.805134+00:00
-
- ## Aide financière et emploi | Services à la vie étudiante | UdeM
- - [http://baf.umontreal.ca](http://baf.umontreal.ca)
- - date_published: 2024-06-15T02:50:08.327331+00:00
-
- ## Les Belles Heures de l'Université de Montréal
- - [https://bellesheures.umontreal.ca](https://bellesheures.umontreal.ca)
- - date_published: 2024-09-16T00:57:17.874649+00:00
-
- ## Les Belles Heures de l'Université de Montréal
- - [https://bellessoirees.umontreal.ca](https://bellessoirees.umontreal.ca)
- - date_published: 2024-09-16T00:53:25.959109+00:00
-
- ## Bibliothèques - Université de Montréal
- - [https://bib.umontreal.ca](https://bib.umontreal.ca)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Bourses d'études - Université de Montréal
- - [https://bourses.umontreal.ca](https://bourses.umontreal.ca)
- - date_published: 2024-09-16T00:53:13.917518+00:00
-
- ## Brave the way - UdeM's major philanthropic campaign
- - [https://bravetheway.umontreal.ca](https://bravetheway.umontreal.ca)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Accueil - Centre d’apprentissage des attitudes et habiletés cliniques (CAAHC)
- - [https://caahc.umontreal.ca](https://caahc.umontreal.ca)
- - date_published: 2019-04-23T00:00:00+00:00
-
- ## Calendrier de l'Université de Montréal
- - [https://calendrier.umontreal.ca](https://calendrier.umontreal.ca)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Campus MIL | Campus MIL
- - [https://campusmil.umontreal.ca](https://campusmil.umontreal.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Carabins de l'Université de Montréal
- - [https://carabins.umontreal.ca](https://carabins.umontreal.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## carrières - Université de Montréal
- - [https://carrieres.umontreal.ca](https://carrieres.umontreal.ca)
- - date_published: 2024-06-15T02:50:26.113119+00:00
-
- ## ContinuUM
- - [https://catalogue.continuum.umontreal.ca](https://catalogue.continuum.umontreal.ca)
- - date_published: 2024-09-16T00:59:08.761013+00:00
-
- ## Continuing Education | Université de Montréal
- - [http://catalogue.dfc.umontreal.ca](http://catalogue.dfc.umontreal.ca)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## DPC pour les médecins et autres professionnels de la santé
- - [https://catalogue.dpcmed.umontreal.ca](https://catalogue.dpcmed.umontreal.ca)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Centre FOCUS
- - [https://catalogue.focus.umontreal.ca](https://catalogue.focus.umontreal.ca)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Activités de développement professionnel- FSI
- - [https://catalogue.fsi.umontreal.ca](https://catalogue.fsi.umontreal.ca)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Activités culturelles
- - [https://catalogue.vieetudiante.umontreal.ca](https://catalogue.vieetudiante.umontreal.ca)
- - date_published: 2024-09-16T00:57:50.541780+00:00
-
- ## Centre de langues - Université de Montréal
- - [http://centre-de-langues.umontreal.ca](http://centre-de-langues.umontreal.ca)
- - date_published: 2024-09-16T00:57:45.941824+00:00
-
- ## Centre sportif, gym, piscine à Montréal | CEPSUM
- - [https://cepsum.umontreal.ca](https://cepsum.umontreal.ca)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## À propos des Services à la vie étudiante | UdeM
- - [https://cesar.umontreal.ca](https://cesar.umontreal.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Remote Support Portal | Powered by BOMGAR
- - [https://clavardage.ti.umontreal.ca](https://clavardage.ti.umontreal.ca)
- - date_published: 2024-09-16T00:53:37.087716+00:00
-
- ## Collations des grades - Université de Montréal
- - [https://collation.umontreal.ca](https://collation.umontreal.ca)
- - date_published: 2024-06-15T02:49:46.006551+00:00
-
- ## Corvée - Liens brisés par section - Corvée
- - [https://corvee.bib.umontreal.ca](https://corvee.bib.umontreal.ca)
- - date_published: 2024-08-11T03:23:40.660483+00:00
-
- ## Centre de pédagogie appliquée aux sciences de la santé (CPASS) - UdeM
- - [https://cpass.umontreal.ca](https://cpass.umontreal.ca)
- - date_published: 2024-09-16T00:58:49.341057+00:00
-
- ## Conduite responsable en recherche - Université de Montréal
- - [https://crr.umontreal.ca](https://crr.umontreal.ca)
- - date_published: 2024-07-21T08:34:27.280891+00:00
-
- ## Direction de l'enseignement de service en informatique
- - [https://desi.umontreal.ca](https://desi.umontreal.ca)
- - date_published: 2024-04-30T05:27:09.037559+00:00
-
- ## Département d'informatique et de recherche opérationnelle - Université de Montréal
- - [https://diro.umontreal.ca](https://diro.umontreal.ca)
- - date_published: 2024-04-30T05:26:36.229716+00:00
-
- ## Chaire BMO en Diversité et Gouvernance
- - [https://diversite-gouvernance.umontreal.ca](https://diversite-gouvernance.umontreal.ca)
- - date_published: 2024-10-30T05:28:10.832434+00:00
-
- ## Accueil - Département de mathématiques et statistique
- - [https://dms.umontreal.ca](https://dms.umontreal.ca)
- - date_published: 2024-06-30T09:11:28+00:00
-
- ## Faire un don
- - [http://donner.umontreal.ca](http://donner.umontreal.ca)
- - date_published: 2024-04-30T05:26:51.286649+00:00
-
- ## Direction de la prévention et de la sécurité - Université de Montréal
- - [https://dps.umontreal.ca](https://dps.umontreal.ca)
- - date_published: 2024-07-21T08:35:36.326650+00:00
-
- ## Développement durable - Université de Montréal
- - [https://durable.umontreal.ca](https://durable.umontreal.ca)
- - date_published: 2024-04-30T05:26:15.176753+00:00
-
- ## École de français - FEP - Université de Montréal
- - [https://ecoledelangues.umontreal.ca](https://ecoledelangues.umontreal.ca)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## École d'orthophonie et d'audiologie de l'Université de Montréal
- - [https://eoa.umontreal.ca](https://eoa.umontreal.ca)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Études supérieures et postdoctorales - Université de Montréal
- - [https://esp.umontreal.ca](https://esp.umontreal.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Page d'accueil - Institut Trottier de recherche sur les exoplanètes
- - [https://exoplanetes.umontreal.ca](https://exoplanetes.umontreal.ca)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Faculté des arts et des sciences - Université de Montréal
- - [https://fas.umontreal.ca](https://fas.umontreal.ca)
- - date_published: 2024-04-30T05:26:30.266368+00:00
-
- ## Bureau interfacultaire de la formation continue - Université de Montréal
- - [https://formationcontinue.umontreal.ca](https://formationcontinue.umontreal.ca)
- - date_published: 2024-06-15T02:50:34.844444+00:00
-
- ## UdeM français - Université de Montréal
- - [https://francais.umontreal.ca](https://francais.umontreal.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## FORMATION VÉTÉRINAIRE CONTINUE
- - [https://fvc.umontreal.ca](https://fvc.umontreal.ca)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Galerie
- - [https://galerie.umontreal.ca](https://galerie.umontreal.ca)
- - date_published: 2024-09-16T00:57:19.933446+00:00
-
- ## Hackathon du DIRO 2024
- - [https://hackathon.iro.umontreal.ca](https://hackathon.iro.umontreal.ca)
- - date_published: 2024-02-23T23:10:57+00:00
-
- ## UdeM international - Université de Montréal
- - [https://international.umontreal.ca](https://international.umontreal.ca)
- - date_published: 2024-06-15T02:50:20.511056+00:00
-
- ## Inven_T - Université de Montréal
- - [https://inven-t.umontreal.ca](https://inven-t.umontreal.ca)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Accès refusé - Bibliothèques - Université de Montréal
- - [https://jupiter.bib.umontreal.ca](https://jupiter.bib.umontreal.ca)
- - date_published: 2024-08-11T03:24:03.983999+00:00
-
- ## L'heure est brave - La grande campagne philanthropique de l'UdeM
- - [https://lheureestbrave.umontreal.ca](https://lheureestbrave.umontreal.ca)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Redirecting...
- - [http://monportail.umontreal.ca](http://monportail.umontreal.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Redirecting...
- - [https://monudem.umontreal.ca](https://monudem.umontreal.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## UdeMNouvelles, l’actualité de l’Université de Montréal | UdeMNouvelles
- - [https://nouvelles.umontreal.ca](https://nouvelles.umontreal.ca)
- - date_published: 2023-11-04T12:47:25.272671+00:00
-
- ## Redirecting...
- - [https://outlook.umontreal.ca](https://outlook.umontreal.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Département de philosophie - Université de Montréal
- - [https://philo.umontreal.ca](https://philo.umontreal.ca)
- - date_published: 2024-09-15T12:59:41.478596+00:00
-
- ## Montréal - Plan Campus - Université de Montréal
- - [https://plancampus.umontreal.ca](https://plancampus.umontreal.ca)
- - date_published: 2024-04-30T05:27:11.744077+00:00
-
- ## Accueil - Portfolio UMontréal
- - [https://portfolio.umontreal.ca](https://portfolio.umontreal.ca)
- - date_published: 2024-06-15T02:49:42.378768+00:00
-
- ## PRAXIS Centre de développement professionnel - Université de Montréal
- - [https://praxis.umontreal.ca](https://praxis.umontreal.ca)
- - date_published: 2024-09-16T00:58:51.661023+00:00
-
- ## Les presses de l'Université de Montréal
- - [https://pum.umontreal.ca](https://pum.umontreal.ca)
- - date_published: 2024-04-30T05:26:05.728241+00:00
-
- ## La recherche - Université de Montréal
- - [https://recherche.umontreal.ca](https://recherche.umontreal.ca)
- - date_published: 2024-04-30T05:26:21.384321+00:00
-
- ## Réflexes Numériques |
- - [https://reflexesnumeriques.umontreal.ca](https://reflexesnumeriques.umontreal.ca)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Bureau du registraire - Université de Montréal
- - [https://registraire.umontreal.ca](https://registraire.umontreal.ca)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Home Page
- - [https://reseau.umontreal.ca](https://reseau.umontreal.ca)
- - date_published: 2024-06-15T02:49:56.423107+00:00
-
- ## Ressources humaines - Université de Montréal
- - [https://rh.umontreal.ca](https://rh.umontreal.ca)
- - date_published: 2024-06-15T02:50:12.788864+00:00
-
- ## Service d'appui à la formation interdisciplinaire et à la réussite étudiante (SAFIRE) - Université de Montréal
- - [https://safire.umontreal.ca](https://safire.umontreal.ca)
- - date_published: 2024-04-30T05:27:13.511008+00:00
-
- ## Les SAISONS des ESP - Université de Montréal
- - [https://saisonsesp.umontreal.ca](https://saisonsesp.umontreal.ca)
- - date_published: 2024-07-21T08:34:34.734314+00:00
-
- ## Secrétariat général - Université de Montréal
- - [https://secretariatgeneral.umontreal.ca](https://secretariatgeneral.umontreal.ca)
- - date_published: 2024-04-30T05:27:01.003000+00:00
-
- ## Home Page
- - [https://secureca.reseau.umontreal.ca](https://secureca.reseau.umontreal.ca)
- - date_published: 2024-08-11T16:49:53.348767+00:00
-
- ## Stages - Université de Montréal
- - [https://stages.umontreal.ca](https://stages.umontreal.ca)
- - date_published: 2024-06-15T02:50:31.430009+00:00
-
- ## Home | StudiUM formation continue
- - [https://studiumfc.umontreal.ca](https://studiumfc.umontreal.ca)
- - date_published: 2024-06-15T02:50:44+00:00
-
- ## Home | StudiUM
- - [https://studium.umontreal.ca](https://studium.umontreal.ca)
- - date_published: 2024-04-30T05:26:37.582044+00:00
-
- ## bienvenue [Soutien technique DIRO]
- - [http://support.iro.umontreal.ca](http://support.iro.umontreal.ca)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Technologies de l'information - Université de Montréal
- - [https://ti.umontreal.ca](https://ti.umontreal.ca)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## Université de Montréal
- - [https://umontreal.ca](https://umontreal.ca)
- - date_published: 2024-05-01T02:10:38.445199+00:00
-
- ## Whoops! - LibAnswers
- - [https://unequestion.bib.umontreal.ca](https://unequestion.bib.umontreal.ca)
- - date_published: 2024-08-11T03:23:51.290494+00:00
-
- ## URGENCE - Université de Montréal
- - [https://urgence.umontreal.ca](https://urgence.umontreal.ca)
- - date_published: 2024-04-30T05:26:02.268138+00:00
-
- ## Vélo - Université de Montréal
- - [https://velo.umontreal.ca](https://velo.umontreal.ca)
- - date_published: 2024-07-21T08:34:48.614424+00:00
-
- ## Services à la vie étudiante | UdeM
- - [https://vieetudiante.umontreal.ca](https://vieetudiante.umontreal.ca)
- - date_published: 2024-06-15T02:49:52.356707+00:00
-
- ## Vie privée - Université de Montréal
- - [https://vie-privee.umontreal.ca](https://vie-privee.umontreal.ca)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Université de Montréal - Sign In
- - [https://visiteur.authentification.umontreal.ca](https://visiteur.authentification.umontreal.ca)
- - date_published: 2024-06-15T02:49:48.404025+00:00
-
- ## Dashboard - Université de Montréal - Confluence
- - [https://wiki.umontreal.ca](https://wiki.umontreal.ca)
- - date_published: 2024-07-21T08:33:54.838572+00:00
-
- ## Art pour tous, les œuvres publiques de l’Université de Montréal s’exposent / Centre d'exposition de l'UdeM
- - [http://www.artpourtous.umontreal.ca](http://www.artpourtous.umontreal.ca)
- - date_published: 2011-01-04T22:16:02+00:00
-
- ## Clinique de kinésiologie - Université de Montréal
- - [http://www.cliniquekinesio.umontreal.ca](http://www.cliniquekinesio.umontreal.ca)
- - date_published: 2024-09-16T00:58:35.941990+00:00
-
- ## Page Redirection
- - [https://www.crm.umontreal.ca](https://www.crm.umontreal.ca)
- - date_published: 2020-09-30T14:16:00+00:00
-
- ## Département d'informatique et de recherche opérationnelle - Université de Montréal
- - [https://www.iro.umontreal.ca](https://www.iro.umontreal.ca)
- - date_published: 2023-10-25T12:08:56.540416+00:00
-
- ## Recherche : Service web
- - [https://www-labs.iro.umontreal.ca](https://www-labs.iro.umontreal.ca)
- - date_published: 2013-06-27T00:00:00+00:00
-
- ## Faculté de musique - Université de Montréal
- - [http://www.musique.umontreal.ca](http://www.musique.umontreal.ca)
- - date_published: 2024-09-16T00:57:22.889303+00:00
-
- ## Podioguide UdeM - Campus Montréal
- - [http://www.podioguide.umontreal.ca](http://www.podioguide.umontreal.ca)
- - date_published: 2010-02-23T22:11:26+00:00
-
- ## Mon UdeM
- - [https://www.portail.umontreal.ca](https://www.portail.umontreal.ca)
- - date_published: 2024-04-30T05:26:28.235481+00:00
-
- ## Régime de retraite - Université de Montréal
- - [http://www.rrum.umontreal.ca](http://www.rrum.umontreal.ca)
- - date_published: 2024-09-16T00:54:16.169158+00:00
-
- ## Sign in to your account
- - [http://es.unb.ca](http://es.unb.ca)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## University of New Brunswick Libraries
- - [https://lib.unb.ca](https://lib.unb.ca)
- - date_published: 2024-09-24T21:35:01.709083+00:00
-
- ## Sign in to your account
- - [https://phonebook.unb.ca](https://phonebook.unb.ca)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## University of New Brunswick | UNB
- - [https://unb.ca](https://unb.ca)
- - date_published: 2024-09-24T13:36:20+00:00
-
- ## Faculty of Computer Science | UNB
- - [https://www.cs.unb.ca](https://www.cs.unb.ca)
- - date_published: 2024-07-03T11:33:00+00:00
-
- ## Department of Mathematics and Statistics at UNB
- - [http://www.math.unb.ca](http://www.math.unb.ca)
- - date_published: 2024-06-14T14:50:04+00:00
-
- ## UNB Recreation Services
- - [https://recreation.unbf.ca](https://recreation.unbf.ca)
- - date_published: 2024-09-24T21:36:11.897691+00:00
-
- ## Uncyclopedia
- - [https://uncyclopedia.ca](https://uncyclopedia.ca)
- - date_published: 2022-01-11T08:45:58+00:00
-
- ## Find and hire Canadian Freelancers | Unicorn Factory Canada
- - [https://www.unicornfactory.ca](https://www.unicornfactory.ca)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## The Uniter
- - [https://uniter.ca](https://uniter.ca)
- - date_published: 2024-09-13T20:01:42+00:00
-
- ## #1 Electronic Online Store Canada For Hobby And Education
- - [https://universal-solder.ca](https://universal-solder.ca)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Home
- - [https://universitymagazine.ca](https://universitymagazine.ca)
- - date_published: 2019-04-23T02:59:04+00:00
-
- ## Unlok
- - [http://www.unlok.ca](http://www.unlok.ca)
- - date_published: 2023-12-02T00:00:00+00:00
-
- ## Homepage
- - [https://opened.uoguelph.ca](https://opened.uoguelph.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [http://aix1.uottawa.ca](http://aix1.uottawa.ca)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## Alumni | Alumni
- - [https://alumni.uottawa.ca](https://alumni.uottawa.ca)
- - date_published: 2024-04-30T05:27:39.204010+00:00
-
- ## Library | Library
- - [https://biblio.uottawa.ca](https://biblio.uottawa.ca)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## uOttawa Catalogue < uOttawa
- - [https://catalogue.uottawa.ca](https://catalogue.uottawa.ca)
- - date_published: 2024-04-30T05:27:40.893041+00:00
-
- ## Home
- - [https://infolab.uottawa.ca](https://infolab.uottawa.ca)
- - date_published: 2024-07-21T08:26:18.994403+00:00
-
- ## Page d'accueil
- - [https://institutdp.uottawa.ca](https://institutdp.uottawa.ca)
- - date_published: 2024-07-21T08:26:16.868037+00:00
-
- ## IWOCA 2021
- - [https://iwoca2021.eecs.uottawa.ca](https://iwoca2021.eecs.uottawa.ca)
- - date_published: 2021-07-04T22:02:47+00:00
-
- ## Maestro - uOttawa
- - [https://maestro.uottawa.ca](https://maestro.uottawa.ca)
- - date_published: 2024-08-19T19:35:14.783524+00:00
-
- ## Campus maps | About us
- - [https://maps.uottawa.ca](https://maps.uottawa.ca)
- - date_published: 2024-04-30T05:27:32.131616+00:00
-
- ## Home
- - [https://pdinstitute.uottawa.ca](https://pdinstitute.uottawa.ca)
- - date_published: 2024-04-30T05:27:43.655424+00:00
 

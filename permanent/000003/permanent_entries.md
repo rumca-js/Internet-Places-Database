@@ -1,3 +1,11 @@
+ ## Train, develop and deploy custom voice features - Picovoice
+ - [https://picovoice.ai](https://picovoice.ai)
+ - date_published: 2023-10-25T11:41:19.824898+00:00
+
+ ## Free AI Photo Editor: Online Image Editing Tools｜Picsman
+ - [https://www.picsman.ai](https://www.picsman.ai)
+ - date_published: 2024-09-11T19:42:06+00:00
+
  ## PicSo AI Art Generator
  - [https://picso.ai](https://picso.ai)
  - date_published: 2024-06-19T19:35:17.373266+00:00
@@ -4010,12 +4018,4 @@
  ## uKit AI – моментально улучшает сайты с помощью ИИ
  - [https://ukit.ai](https://ukit.ai)
  - date_published: 2017-06-06T07:32:56+00:00
-
- ## Ultimate Chat
- - [https://widget.ultimate.ai](https://widget.ultimate.ai)
- - date_published: 2024-07-08T08:34:55+00:00
-
- ## Customer Support Automation Powered by Generative AI | Ultimate
- - [https://www.ultimate.ai](https://www.ultimate.ai)
- - date_published: 2024-10-04T23:54:10+00:00
 

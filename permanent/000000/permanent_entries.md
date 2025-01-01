@@ -1405,6 +1405,10 @@
  - [http://www.airtransportnews.aero](http://www.airtransportnews.aero)
  - date_published: 2019-10-30T11:08:47+00:00
 
+ ## Líder en ingeniería y tecnologías de composite en el sector aeronáutico | Alestis Aerospace
+ - [http://www.alestis.aero](http://www.alestis.aero)
+ - date_published: 2024-12-31T01:38:50.059555+00:00
+
  ## ARGUS International
  - [https://www.argus.aero](https://www.argus.aero)
  - date_published: 2024-06-16T16:50:25.868983+00:00
@@ -4014,8 +4018,4 @@
  ## Breezemail - Organize your inbox with AI categories
  - [https://breezemail.ai](https://breezemail.ai)
  - date_published: 2024-04-23T00:00:00+00:00
-
- ## Bria Blog
- - [https://blog.bria.ai](https://blog.bria.ai)
- - date_published: 2024-10-30T13:49:57+00:00
 

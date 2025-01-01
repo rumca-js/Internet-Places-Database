@@ -1,3 +1,7 @@
+ ## Bria Blog
+ - [https://blog.bria.ai](https://blog.bria.ai)
+ - date_published: 2024-10-30T13:49:57+00:00
+
  ## Home | Visual Generative AI Done Right | BRIA.ai
  - [https://bria.ai](https://bria.ai)
  - date_published: 2024-06-07T00:00:00+00:00
@@ -4013,8 +4017,4 @@ Welcome
  ## Custom ChatGPT for Your Data | Help-Desk.ai
  - [https://help-desk.ai](https://help-desk.ai)
  - date_published: 2023-05-20T18:49:43+00:00
-
- ## Helsing Blog
- - [https://blog.helsing.ai](https://blog.helsing.ai)
- - date_published: 2024-04-28T05:59:30.133288+00:00
 

@@ -1,3 +1,19 @@
+ ## Authorization | Deta Space
+ - [https://next_meetups-1-x7325434.deta.app](https://next_meetups-1-x7325434.deta.app)
+ - date_published: 2024-09-19T16:22:26+00:00
+
+ ## DetailsPro: Design with SwiftUI, no coding required.
+ - [https://detailspro.app](https://detailspro.app)
+ - date_published: 2024-06-23T15:35:31.691381+00:00
+
+ ## Detoxify.app
+ - [https://detoxify.app](https://detoxify.app)
+ - date_published: 2024-07-04T04:23:51.459796+00:00
+
+ ## Diagrams: A Native Diagram Editor for Mac
+ - [https://diagrams.app](https://diagrams.app)
+ - date_published: 2024-05-12T06:23:53.449350+00:00
+
  ## Didthis
  - [https://didthis.app](https://didthis.app)
  - date_published: 2024-05-08T10:31:33.250502+00:00
@@ -4018,21 +4034,4 @@ The Album
  ## Nordot | ノアドット株式会社
  - [https://nordot.app](https://nordot.app)
  - date_published: 2023-10-25T11:48:00.245663+00:00
-
- ## Nostrid
- - [https://web.nostrid.app](https://web.nostrid.app)
- - date_published: 2024-06-28T00:27:39+00:00
-
- ## nostter
- - [https://nostter.app](https://nostter.app)
- - date_published: 2024-06-18T20:56:12.262192+00:00
-
- ## Notable
- - [https://notable.app](https://notable.app)
- - date_published: 2021-07-12T23:05:15+00:00
-
- ## Content-first Bookmarking  - Notado
- - [https://notado.app](https://notado.app)
- - date_published: 2024-05-04T12:26:33.768576+00:00
- - tags: ['bookmarks']
 

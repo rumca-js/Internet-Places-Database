@@ -1,3 +1,7 @@
+ ## Helsing Blog
+ - [https://blog.helsing.ai](https://blog.helsing.ai)
+ - date_published: 2024-04-28T05:59:30.133288+00:00
+
  ## Helsing | Artificial Intelligence to serve our democracies
  - [https://helsing.ai](https://helsing.ai)
  - date_published: 2024-04-28T05:59:38.445143+00:00
@@ -1894,6 +1898,10 @@
  ## What is LlamaIndex? | LlamaIndex.TS
  - [https://ts.llamaindex.ai](https://ts.llamaindex.ai)
  - date_published: 2024-06-20T10:49:58.030522+00:00
+
+ ## llamanews.ai | John McBride | Substack
+ - [https://llamanews.ai](https://llamanews.ai)
+ - date_published: 2024-12-31T17:03:47.528048+00:00
 
  ## LLM360 | Community-Driven AGI via Open-Source LLMs
  - [https://www.llm360.ai](https://www.llm360.ai)
@@ -4014,12 +4022,4 @@
  ## Developer Console | Picovoice On-Device Voice Recognition
  - [https://console.picovoice.ai](https://console.picovoice.ai)
  - date_published: 2024-08-14T00:14:52+00:00
-
- ## Train, develop and deploy custom voice features - Picovoice
- - [https://picovoice.ai](https://picovoice.ai)
- - date_published: 2023-10-25T11:41:19.824898+00:00
-
- ## Free AI Photo Editor: Online Image Editing Tools｜Picsman
- - [https://www.picsman.ai](https://www.picsman.ai)
- - date_published: 2024-09-11T19:42:06+00:00
 

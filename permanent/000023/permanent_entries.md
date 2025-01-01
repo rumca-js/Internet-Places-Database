@@ -1,3 +1,447 @@
+ ## AU21 Capital
+ - [https://au21.capital](https://au21.capital)
+ - date_published: 2024-08-07T19:00:36.669521+00:00
+
+ ## BasicsCapital
+ - [https://www.basics.capital](https://www.basics.capital)
+ - date_published: 2024-12-15T04:30:13.647752+00:00
+
+ ## Blockwall Management GmbH - Web3 Venture Capital Firm
+ - [https://www.blockwall.capital](https://www.blockwall.capital)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Bonded - VU's Affinity Investment Network
+ - [https://www.bonded.capital](https://www.bonded.capital)
+ - date_published: 2024-09-20T00:00:00+00:00
+
+ ## Home | Cactus Capital
+ - [https://bgu.cactus.capital](https://bgu.cactus.capital)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Castrum Capital
+ - [https://castrum.capital](https://castrum.capital)
+ - date_published: 2024-12-15T08:36:33.853011+00:00
+
+ ## CHΛTΞΛU  | DeFi Private Capital Markets
+ - [https://www.chateau.capital](https://www.chateau.capital)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Dap Capital – Financially, technologically, and regulatory compliant way of tokenizing assets
+ - [https://app.dap.capital](https://app.dap.capital)
+ - date_published: 2024-09-23T12:56:36.106354+00:00
+
+ ## DeFiance Capital | A Crypto-Native Investment Firm
+ - [https://www.defiance.capital](https://www.defiance.capital)
+ - date_published: 2024-09-23T10:44:46.597650+00:00
+
+ ## About – Dewhales
+ - [https://dewhales.capital](https://dewhales.capital)
+ - date_published: 2024-06-04T11:33:07.419190+00:00
+
+ ## Dokia
+ - [https://dokia.capital](https://dokia.capital)
+ - date_published: 2024-05-16T08:44:38+00:00
+
+ ## Earl Grey Capital
+ - [https://earlgrey.capital](https://earlgrey.capital)
+ - date_published: 2024-09-03T21:01:05.426207+00:00
+
+ ## Event Horizon Capital | Innovation funds with a blockchain and WEB3 focus
+ - [https://www.eh.capital](https://www.eh.capital)
+ - date_published: 2024-09-24T21:25:36.465663+00:00
+
+ ## Elkrem Capital | ลงทุนเพื่อผลตอบแทนสูงกับ DeFi.
+ - [https://elkrem.capital](https://elkrem.capital)
+ - date_published: 2024-09-25T11:33:47.376137+00:00
+
+ ## Float Capital | Home
+ - [https://float.capital](https://float.capital)
+ - date_published: 2024-09-25T16:06:31.724232+00:00
+
+ ## Global Digital Asset Capital Markets
+ - [https://gda.capital](https://gda.capital)
+ - date_published: 2024-10-13T00:49:54+00:00
+
+ ## GEM Capital
+ - [https://gem.capital](https://gem.capital)
+ - date_published: 2024-06-20T01:17:41.775460+00:00
+
+ ## Genblock Capital
+ - [https://genblock.capital](https://genblock.capital)
+ - date_published: 2024-12-23T21:53:37.617526+00:00
+
+ ## Gton
+ - [https://gton.capital](https://gton.capital)
+ - date_published: 2024-09-24T04:17:55.406955+00:00
+
+ ## Human Capital
+ - [https://human.capital](https://human.capital)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home
+ - [https://www.illuminati.capital](https://www.illuminati.capital)
+ - date_published: 2023-03-23T00:00:00+00:00
+
+ ## Inception Capital
+ - [https://inception.capital](https://inception.capital)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Kenetic Capital
+ - [https://www.kenetic.capital](https://www.kenetic.capital)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Merkle Capital | ลงทุนอย่างมั่นใจใน Digital Asset.
+ - [https://merkle.capital](https://merkle.capital)
+ - date_published: 2024-09-25T11:34:00.791006+00:00
+
+ ## Moonvault Partners
+ - [https://www.moonvault.capital](https://www.moonvault.capital)
+ - date_published: 2024-12-14T19:29:51.919365+00:00
+
+ ## Moonwhale Ventures
+ - [https://moonwhale.capital](https://moonwhale.capital)
+ - date_published: 2024-12-15T04:29:49.322704+00:00
+
+ ## Multicoin Capital Job Board
+ - [https://jobs.multicoin.capital](https://jobs.multicoin.capital)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## Multicoin Capital
+ - [https://multicoin.capital](https://multicoin.capital)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## NewTribe Capital: Web3 Venture Capitalists
+ - [https://www.newtribe.capital](https://www.newtribe.capital)
+ - date_published: 2024-05-21T11:21:30+00:00
+
+ ## Home | OSS Capital
+ - [https://oss.capital](https://oss.capital)
+ - date_published: 2024-05-07T11:04:26.335641+00:00
+
+ ## Pile | Die Neo Treasury Management Plattform
+ - [https://pile.capital](https://pile.capital)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Polychain Capital Talent network
+ - [https://jobs.polychain.capital](https://jobs.polychain.capital)
+ - date_published: 2024-07-13T23:39:07.022453+00:00
+
+ ## Polychain
+ - [https://polychain.capital](https://polychain.capital)
+ - date_published: 2021-09-16T22:56:04+00:00
+
+ ## Press Start Capital
+ - [https://pressstart.capital](https://pressstart.capital)
+ - date_published: 2024-04-24T17:46:06+00:00
+
+ ## Projected.Capital, Silvio Lorusso + Sebastian Schmieg, 2018
+ - [http://projected.capital](http://projected.capital)
+ - date_published: 2024-07-13T15:55:00.037041+00:00
+
+ ## Home | PSQUARE CAPITAL
+ - [https://psquare.capital](https://psquare.capital)
+ - date_published: 2024-06-06T14:16:21+00:00
+
+ ## Homepage - QCP
+ - [https://www.qcp.capital](https://www.qcp.capital)
+ - date_published: 2024-03-15T03:57:05+00:00
+
+ ## Radiant
+ - [https://app.radiant.capital](https://app.radiant.capital)
+ - date_published: 2024-06-16T04:49:56.697281+00:00
+
+ ## Radiant Capital DAO Forums
+ - [https://community.radiant.capital](https://community.radiant.capital)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Snapshot
+ - [https://dao.radiant.capital](https://dao.radiant.capital)
+ - date_published: 2024-06-16T04:49:59.732879+00:00
+
+ ## Portal | Radiant 2.0
+ - [https://docs.radiant.capital](https://docs.radiant.capital)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Radiant
+ - [https://radiant.capital](https://radiant.capital)
+ - date_published: 2024-05-01T05:40:18.482056+00:00
+
+ ## Rockaway X
+ - [https://rbf.capital](https://rbf.capital)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Scalar Capital
+ - [https://scalar.capital](https://scalar.capital)
+ - date_published: 2024-12-23T21:53:31.674476+00:00
+
+ ## Shima Capital
+ - [https://shima.capital](https://shima.capital)
+ - date_published: 2024-05-04T02:13:43+00:00
+
+ ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://shl.capital](https://shl.capital)
+ - date_published: 2024-04-29T00:29:38.924014+00:00
+
+ ## Home - Signum Capital
+ - [https://www.signum.capital](https://www.signum.capital)
+ - date_published: 2024-09-25T11:34:32.204618+00:00
+
+ ## Home
+ - [https://simple.capital](https://simple.capital)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## The Techshop
+ - [https://techshop.capital](https://techshop.capital)
+ - date_published: 2024-10-30T19:37:10.932036+00:00
+
+ ## Tenzor Capital - VC fund focused on blockchain
+ - [https://www.tenzor.capital](https://www.tenzor.capital)
+ - date_published: 2024-09-25T11:38:56.655297+00:00
+
+ ## Tioga Capital: European fund for blockchain technology
+ - [http://tioga.capital](http://tioga.capital)
+ - date_published: 2024-09-04T12:20:49.229956+00:00
+
+ ## ZBS Capital
+ - [https://zbs.capital](https://zbs.capital)
+ - date_published: 2024-12-09T01:31:45+00:00
+
+ ## Find My Car
+ - [http://findmy.car](http://findmy.car)
+ - date_published: 2024-10-17T15:02:04.575933+00:00
+
+ ## .Car Domains | Find Your Perfect Domain Name
+ - [https://go.car](https://go.car)
+ - date_published: 2024-06-17T07:45:17.777986+00:00
+
+ ## Luxmo | El lujo es nuestro universo
+ - [http://luxmo.car](http://luxmo.car)
+ - date_published: 2024-10-17T15:14:59.405481+00:00
+
+ ## AI Holiday Cards
+ - [https://aiholiday.cards](https://aiholiday.cards)
+ - date_published: 2023-12-13T08:27:03+00:00
+
+ ## Bad Ideas
+ - [https://www.badideas.cards](https://www.badideas.cards)
+ - date_published: 2024-10-20T13:20:51.806217+00:00
+
+ ## Bitcoin NFC Tap Cards by Coinkite
+ - [https://coinkite.cards](https://coinkite.cards)
+ - date_published: 2022-08-16T14:30:57+00:00
+
+ ## CS Cards
+ - [https://cs.cards](https://cs.cards)
+ - date_published: 2024-04-30T05:35:19.508107+00:00
+
+ ## DO NOT REPLY STICKERS
+ - [https://buy.donotreply.cards](https://buy.donotreply.cards)
+ - date_published: 2024-05-09T04:36:18.934508+00:00
+
+ ## DONOTREPLY.CARDS->EN
+ - [https://donotreply.cards](https://donotreply.cards)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## dot. | Create your dot.Profile today
+ - [https://dot.cards](https://dot.cards)
+ - date_published: 2024-08-18T11:59:45.878700+00:00
+
+ ## Ether Cards
+ - [https://ether.cards](https://ether.cards)
+ - date_published: 2023-07-12T03:06:12+00:00
+
+ ## Facilitator Cards: A Deck for You, Not Your Participants
+ - [https://facilitator.cards](https://facilitator.cards)
+ - date_published: 2024-04-29T01:48:25.683541+00:00
+
+ ## The Facilitator Cards Store
+ - [https://shop.facilitator.cards](https://shop.facilitator.cards)
+ - date_published: 2024-08-06T16:57:48.998618+00:00
+
+ ## Visual Chronology of Science & Discovery
+ - [https://invention.cards](https://invention.cards)
+ - date_published: 2024-06-01T17:54:26+00:00
+
+ ## Junior
+ - [https://www.junior.cards](https://www.junior.cards)
+ - date_published: 2024-01-17T14:00:13+00:00
+
+ ## Lazy Cards | Free AI written greeting cards
+ - [https://lazy.cards](https://lazy.cards)
+ - date_published: 2024-06-19T21:28:32.940843+00:00
+
+ ## Deck of Cards
+ - [https://deck.of.cards](https://deck.of.cards)
+ - date_published: 2023-10-25T12:10:08.746785+00:00
+
+ ## Play Together, Thrive Together - Out of Games
+ - [http://outof.cards](http://outof.cards)
+ - date_published: 2024-06-19T01:20:55.143472+00:00
+
+ ## Personalized Free Tarot Readings - Intuition and Energy - ReadMyCards
+ - [https://readmy.cards](https://readmy.cards)
+ - date_published: 2024-07-10T11:15:38.166903+00:00
+
+ ## SpecialQR | Create Magical Gift Experiences
+ - [https://specialqr.cards](https://specialqr.cards)
+ - date_published: 2024-12-05T01:41:25.285539+00:00
+
+ ## Sprint cards
+ - [https://sprint.cards](https://sprint.cards)
+ - date_published: 2024-07-20T19:09:11.039268+00:00
+
+ ## The Compendium
+ - [https://thecompendium.cards](https://thecompendium.cards)
+ - date_published: 2024-05-04T09:56:36.471526+00:00
+
+ ## YooHoo! - AI Greeting Card Creator
+ - [https://yoohoo.cards](https://yoohoo.cards)
+ - date_published: 2024-06-19T19:55:21.360605+00:00
+
+ ## 360 Med Care Home - 360 Med Care
+ - [https://360med.care](https://360med.care)
+ - date_published: 2024-10-30T10:38:52.141073+00:00
+
+ ## Home page | The Association of British Clinical Diabetologists
+ - [https://abcd.care](https://abcd.care)
+ - date_published: 2024-07-03T15:25:52.337516+00:00
+
+ ## Birdie | All-In-One Homecare Software | Built as One
+ - [https://birdie.care](https://birdie.care)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Cara Care App: Your Digital Platform to Better Gut Health
+ - [https://cara.care](https://cara.care)
+ - date_published: 2024-09-25T14:24:42.910053+00:00
+
+ ## Welcome 👋
+ - [https://clickoutnetwork.care](https://clickoutnetwork.care)
+ - date_published: 2022-09-16T09:08:45+00:00
+
+ ## PlayDoge | The Best P2E Doge Companion Game
+ - [https://bs_0fc28754.disksoar.care](https://bs_0fc28754.disksoar.care)
+ - date_published: 2024-07-01T10:10:52.153162+00:00
+
+ ## Pepe Unchained | Pepe’s Own Layer 2 Blockchain
+ - [https://bs_35424baf.disksoar.care](https://bs_35424baf.disksoar.care)
+ - date_published: 2024-07-01T09:27:10+00:00
+
+ ## 99Bitcoins Token Presale: Now Open
+ - [https://bs_a73a0746.disksoar.care](https://bs_a73a0746.disksoar.care)
+ - date_published: 2024-07-01T06:43:18+00:00
+
+ ## Distributed Web of Care
+ - [http://distributedweb.care](http://distributedweb.care)
+ - date_published: 2024-07-07T03:01:49+00:00
+
+ ## Health Labs Care
+ - [https://healthlabs.care](https://healthlabs.care)
+ - date_published: 1920-01-01T00:00:00+00:00
+
+ ## Welcome to Incision
+ - [https://www.incision.care](https://www.incision.care)
+ - date_published: 2024-12-25T18:38:46.050791+00:00
+
+ ## Leleka Foundation | Saving Lives in Ukraine
+ - [https://leleka.care](https://leleka.care)
+ - date_published: 2024-07-08T17:33:48.285947+00:00
+
+ ## Likeminded | Mentale Gesundheit von Mitarbeitenden verbessern
+ - [https://www.likeminded.care](https://www.likeminded.care)
+ - date_published: 2024-09-20T00:00:00+00:00
+
+ ## Lovi — Smart Skin Care
+ - [https://lovi.care](https://lovi.care)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Find The Best Coaches Near You
+ - [https://coach.mantra.care](https://coach.mantra.care)
+ - date_published: 2024-12-30T05:11:31.831925+00:00
+
+ ## MantraCare: Therapy, EAP, Physio, Yoga, Nutrition & More
+ - [https://mantra.care](https://mantra.care)
+ - date_published: 2024-12-30T05:11:26.308341+00:00
+
+ ## Keto Diet App | What is your weight loss goal?
+ - [https://app.myketo.care](https://app.myketo.care)
+ - date_published: 2024-06-21T21:36:39.677296+00:00
+
+ ## Reheart – Donate a life !
+ - [https://reheart.care](https://reheart.care)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Home - Ruolin Ye
+ - [https://ruolinye.care](https://ruolinye.care)
+ - date_published: 2023-09-20T18:59:38+00:00
+
+ ## LGBTQ+ Aging Training and Consulting for a Better Workplace - SAGECare
+ - [http://sageusa.care](http://sageusa.care)
+ - date_published: 2024-12-15T18:43:11.752983+00:00
+
+ ## - It's a great day to be alive!
+ - [https://senseiselfdevelopment.care](https://senseiselfdevelopment.care)
+ - date_published: 2024-09-12T14:03:40.073423+00:00
+
+ ## Shimmer
+ - [https://app.shimmer.care](https://app.shimmer.care)
+ - date_published: 2024-04-30T05:35:20.495645+00:00
+
+ ## Shimmer | ADHD Coaching That Fit Into Your Life | Expert & Affordable
+ - [https://shimmer.care](https://shimmer.care)
+ - date_published: 2023-10-25T12:10:12.016239+00:00
+
+ ## Staci Bu Shea
+ - [https://stacibushea.care](https://stacibushea.care)
+ - date_published: 2024-05-25T16:54:01+00:00
+
+ ## TOKENS FOR CLIMATE CARE
+ - [https://tokensforclimate.care](https://tokensforclimate.care)
+ - date_published: 2024-09-19T17:31:18+00:00
+
+ ## Medicare Sales Software for Insurers, Distributors, and Members | Trusty.care
+ - [https://www.trusty.care](https://www.trusty.care)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Umay starts with you.
+ - [http://www.umay.care](http://www.umay.care)
+ - date_published: 2024-12-12T11:43:30.574293+00:00
+
+ ## We are Blocket - This is where ideas and people grow
+ - [https://www.blocket.career](https://www.blocket.career)
+ - date_published: 2024-08-24T00:00:00+00:00
+
+ ## Web3 Jobs: Blockchain, Smart Contract and Crypto Jobs
+ - [https://web3.career](https://web3.career)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Appwrite
+ - [https://appwrite.careers](https://appwrite.careers)
+ - date_published: 2024-05-14T03:35:02.833364+00:00
+
+ ## Universität Leipzig: Stellenausschreibungen
+ - [https://uni-leipzig.b-ite.careers](https://uni-leipzig.b-ite.careers)
+ - date_published: 2024-10-22T05:22:31.769319+00:00
+
+ ## Cyient Careers | Build The Next With Innovation and Technology
+ - [https://www.cyient.careers](https://www.cyient.careers)
+ - date_published: 2024-07-08T12:26:50+00:00
+
+ ## Day One Careers Store
+ - [https://store.dayone.careers](https://store.dayone.careers)
+ - date_published: 2024-07-12T15:44:46.789922+00:00
+
+ ## Diversity in Research | jobs | Choose from 2,280 live vacancies
+ - [https://www.diversityinresearch.careers](https://www.diversityinresearch.careers)
+ - date_published: 2024-07-11T13:05:47.363239+00:00
+
+ ## Elementor Careers - Let's Build the Future of Web Creation Together
+ - [https://elementor.careers](https://elementor.careers)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Flexa Careers | Find a workplace where you’ll thrive
+ - [https://flexa.careers](https://flexa.careers)
+ - date_published: 2024-10-31T04:59:31.859089+00:00
+
  ## Careers at Flix | Jobs at FlixBus and FlixTrain
  - [https://flix.careers](https://flix.careers)
  - date_published: 2024-06-28T11:48:24.190898+00:00
@@ -767,6 +1211,10 @@
  - [https://soggy.cat](https://soggy.cat)
  - date_published: 2024-05-08T10:45:11.258764+00:00
 
+ ## ESPAI SUBIRACHS
+ - [http://www.eng.subirachs.cat](http://www.eng.subirachs.cat)
+ - date_published: 2024-12-31T18:42:15.351294+00:00
+
  ## SX3
  - [https://www.super3.cat](https://www.super3.cat)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -826,6 +1274,10 @@
  ## The Cozy Cat – Welcome to my cozy corner of the internet.
  - [https://town.thecozy.cat](https://town.thecozy.cat)
  - date_published: 2024-04-30T05:41:34.589307+00:00
+
+ ## TINET - Tarragona Internet | La xarxa ciutadana de les comarques de Tarragona
+ - [http://www.tinet.cat](http://www.tinet.cat)
+ - date_published: 2024-12-31T13:38:35+00:00
 
  ## TMB Barcelona bus i metro - TMB
  - [https://www.tmb.cat](https://www.tmb.cat)
@@ -1116,6 +1568,10 @@
  ## Bitko Yinowsky – The Official Bitko Yinowsky Store
  - [https://bitko.cc](https://bitko.cc)
  - date_published: 2024-09-19T21:41:50.014760+00:00
+
+ ## Berita Casino Online Indonesia
+ - [http://bitshifter.cc](http://bitshifter.cc)
+ - date_published: 2024-12-31T13:52:34.238543+00:00
 
  ## Bookmark It. | Bookmark manager for the modern web.
  - [https://bmrk.cc](https://bmrk.cc)
@@ -2314,6 +2770,10 @@
  ## Nuclear'Atk（核攻击）网络安全实验室
  - [http://lcx.cc](http://lcx.cc)
  - date_published: 2024-09-30T05:52:42+00:00
+
+ ## Law Enforcement Action Partnership
+ - [http://www.leap.cc](http://www.leap.cc)
+ - date_published: 2024-12-31T21:51:36.552295+00:00
 
  ## Lifeform
  - [https://lifeform.cc](https://lifeform.cc)
@@ -3572,469 +4032,4 @@
  ## Список Центра "Досье"
  - [https://peps.dossier.center](https://peps.dossier.center)
  - date_published: 2024-04-30T05:56:57.850683+00:00
-
- ## The Enterprise for Society Center (E4S)
- - [https://e4s.center](https://e4s.center)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## EssentialTech Centre
- - [https://essentialtech.center](https://essentialtech.center)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## EUjob.center the platform for international professionals.
- - [https://eujob.center](https://eujob.center)
- - date_published: 2024-06-12T02:04:57.850780+00:00
-
- ## Angebotsplattform und Marktplatz-Portal zur Miete (SaaS)
- - [https://evolver.center](https://evolver.center)
- - date_published: 2024-10-18T23:04:15.905522+00:00
-
- ## Sign in - Matomo
- - [https://stats.evolver.center](https://stats.evolver.center)
- - date_published: 2024-10-18T23:03:53.282318+00:00
-
- ## 스마일게이트 퓨처랩
- - [https://futurelab.center](https://futurelab.center)
- - date_published: 2024-10-25T10:46:53.000628+00:00
-
- ## GMK Center – центр экспертизы о промышленности и ГМК
- - [https://gmk.center](https://gmk.center)
- - date_published: 2023-12-19T20:46:40.065605+00:00
-
- ## Customer Support Knowledge Base powered by AI
- - [https://help.center](https://help.center)
- - date_published: 2024-10-30T06:43:09.738491+00:00
-
- ## Human Exceptionalism | Defending human dignity, liberty, and equality
- - [https://humanexceptionalism.center](https://humanexceptionalism.center)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## The James G. Martin Center for Academic Renewal —
- - [https://jamesgmartin.center](https://jamesgmartin.center)
- - date_published: 2023-10-25T12:12:29.460489+00:00
-
- ## Jeffrey Sachs Center on Sustainable Development
- - [https://jeffreysachs.center](https://jeffreysachs.center)
- - date_published: 2024-09-23T11:08:20+00:00
-
- ## Центр обучения Joomla
- - [https://www.joomla.center](https://www.joomla.center)
- - date_published: 2015-01-22T07:12:35+00:00
-
- ## Lviv Art Center
- - [https://lvivart.center](https://lvivart.center)
- - date_published: 2024-05-07T18:39:47.843995+00:00
-
- ## VR @ LvivArtCenter # Ukraine war posters. Lviv Art Center exhibition in Reykjavík SIM gallery
- - [https://vr.lvivart.center](https://vr.lvivart.center)
- - date_published: 2024-07-01T07:53:23.779045+00:00
-
- ## microcenter.com
- - [https://micro.center](https://micro.center)
- - date_published: 2024-02-24T20:43:32.587938+00:00
-
- ## Nouns Center
- - [https://nouns.center](https://nouns.center)
- - date_published: 2024-09-21T23:47:34.717548+00:00
-
- ## Planning Center: Church Management Software
- - [https://planning.center](https://planning.center)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Бизнес Журнал Федеральный
- - [https://region.center](https://region.center)
- - date_published: 2024-10-22T12:40:52.167398+00:00
-
- ## The World's Fastest Growing Subdomain & Shadow IT Database
- - [https://subdomain.center](https://subdomain.center)
- - date_published: 2024-04-30T05:57:27.481497+00:00
-
- ## មជ្ឈមណ្ឌលបណ្តុះធុរកិច្ចថ្មី “តេជោ”
- - [https://techostartup.center](https://techostartup.center)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Tilda Center
- - [https://tilda.center](https://tilda.center)
- - date_published: 2024-02-01T13:20:12+00:00
-
- ## Underline Center
- - [https://underline.center](https://underline.center)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Center on Wealth & Poverty | Connecting the practical truths of economics with the perennial truths of ethics
- - [https://wealthandpoverty.center](https://wealthandpoverty.center)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Entrepreneur's Edge | Ryan Waliany | Substack
- - [https://edge.ceo](https://edge.ceo)
- - date_published: 2023-10-25T12:12:41.496123+00:00
-
- ## .CEO Domain Names | The .CEO Registry
- - [https://nic.ceo](https://nic.ceo)
- - date_published: 2024-06-17T07:44:54.344783+00:00
-
- ## Join CERN Alumni – The High-Energy Network
- - [https://alumni.cern](https://alumni.cern)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Creativity across Cultures
- - [https://arts.cern](https://arts.cern)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## ATLAS Experiment at CERN | ATLAS Experiment at CERN
- - [https://atlas.cern](https://atlas.cern)
- - date_published: 2023-10-25T12:12:48.064999+00:00
-
- ## Home | Careers at CERN
- - [https://careers.cern](https://careers.cern)
- - date_published: 2024-04-30T05:57:48.584075+00:00
-
- ## CERN70 – Inspiring the Future
- - [https://cern70.cern](https://cern70.cern)
- - date_published: 2024-04-30T05:57:56.616964+00:00
-
- ## CERN & Society Foundation
- - [https://cernandsocietyfoundation.cern](https://cernandsocietyfoundation.cern)
- - date_published: 2024-04-30T05:57:46.086737+00:00
-
- ## Donate now
- - [https://donate.cernandsocietyfoundation.cern](https://donate.cernandsocietyfoundation.cern)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## CHIS: CERN Health Insurance Scheme
- - [https://chis.cern](https://chis.cern)
- - date_published: 2024-07-21T06:34:24.682640+00:00
-
- ## The cms detector | CMS Experiment
- - [https://cms.cern](https://cms.cern)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Inspire and educate
- - [https://education.cern](https://education.cern)
- - date_published: 2024-07-21T06:38:40+00:00
-
- ## Home | CERN
- - [https://home.cern](https://home.cern)
- - date_published: 2023-10-25T11:24:34.306556+00:00
- - tags: ['nuclear research']
-
- ## HSE Unit | HSE unit at CERN
- - [https://hse.cern](https://hse.cern)
- - date_published: 2024-04-30T05:59:01.823559+00:00
-
- ## Accelerating Innovation @ CERN | Knowledge Transfer
- - [https://kt.cern](https://kt.cern)
- - date_published: 2024-07-20T13:16:26+00:00
-
- ## CERN Library Catalogue
- - [https://catalogue.library.cern](https://catalogue.library.cern)
- - date_published: 2024-06-13T09:18:50+00:00
-
- ## Home | CERN Scientific Information Service (SIS)
- - [https://library.cern](https://library.cern)
- - date_published: 2024-06-14T08:45:50+00:00
-
- ## Welcome to CERN openlab | CERN openlab
- - [https://openlab.cern](https://openlab.cern)
- - date_published: 2024-07-01T15:23:54.065036+00:00
-
- ## Press room | CERN
- - [https://press.cern](https://press.cern)
- - date_published: 2024-07-21T06:33:47+00:00
-
- ## CERN Root
- - [https://root.cern](https://root.cern)
- - date_published: 2024-06-01T07:25:48+00:00
- - tags: ['data analysis']
-
- ## Welcome | Visit CERN Science Gateway
- - [https://sciencegateway.cern](https://sciencegateway.cern)
- - date_published: 2024-07-21T06:39:12.065431+00:00
-
- ## Welcome | Visit CERN Science Gateway
- - [https://visit.cern](https://visit.cern)
- - date_published: 2024-04-30T05:57:51.558404+00:00
-
- ## Accueil | Le CERN et ses voisins
- - [https://voisins.cern](https://voisins.cern)
- - date_published: 2024-07-21T06:25:44+00:00
-
- ## Start
- - [http://4232.cf](http://4232.cf)
- - date_published: 2024-07-07T02:52:04.173831+00:00
-
- ## اپليکيشن سایت همسریابی پيوند
- - [http://avtewebdelop.cf](http://avtewebdelop.cf)
- - date_published: 2024-08-08T11:50:18.495488+00:00
-
- ## بازی انفجار رایگان
- - [http://bethretrodreamscitra.cf](http://bethretrodreamscitra.cf)
- - date_published: 2024-08-08T11:57:16.396264+00:00
-
- ## سیب بت (SibBet) آدرس جدید و بدون فیلتر
- - [http://glqunew.cf](http://glqunew.cf)
- - date_published: 2024-08-08T09:48:54+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.cf](https://maps.google.cf)
- - date_published: 2024-07-20T07:40:03.496250+00:00
-
- ## Google
- - [https://www.google.cf](https://www.google.cf)
- - date_published: 2024-06-21T22:23:00.188689+00:00
-
- ## تهران بت انفجار
- - [http://marketingoueonline.cf](http://marketingoueonline.cf)
- - date_published: 2024-08-08T11:50:52.059943+00:00
-
- ## آدرس جدید سایت بت فلاد
- - [http://nauranswd.cf](http://nauranswd.cf)
- - date_published: 2024-08-08T11:51:12.770804+00:00
-
- ## سایت شرط بندی بت فلاد
- - [http://naurapaperokete.cf](http://naurapaperokete.cf)
- - date_published: 2024-08-08T11:51:06.859921+00:00
-
- ## Ozabet اپلیکیشن | اوزا بت بدون فیلتر
- - [http://tnrgoldmark-city.cf](http://tnrgoldmark-city.cf)
- - date_published: 2024-08-08T11:50:39.401920+00:00
-
- ## The Largest Banks - ​​How to Transfer Money With Only Card Number and CVV (2024)
- - [https://enkeen.cfd](https://enkeen.cfd)
- - date_published: 2024-11-20T12:16:48+00:00
-
- ## LibreChat
- - [https://demo.librechat.cfd](https://demo.librechat.cfd)
- - date_published: 2024-05-15T07:24:15.780533+00:00
-
- ## NATUNATOTO: Ayo! Main Toto Hari Ini Gratis Tiket ke Natuna
- - [https://natunawin12.cfd](https://natunawin12.cfd)
- - date_published: 2024-10-19T06:40:04.730223+00:00
-
- ## Common Ground
- - [https://app.cg](https://app.cg)
- - date_published: 2024-09-06T20:11:51+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.cg](https://maps.google.cg)
- - date_published: 2024-07-20T07:40:58.942506+00:00
-
- ## Google
- - [https://www.google.cg](https://www.google.cg)
- - date_published: 2024-06-21T22:23:46.573808+00:00
-
- ## 10x10.ch ¦ ETF, Indexfonds, Bitcoin & Krypto
- - [https://www.10x10.ch](https://www.10x10.ch)
- - date_published: 2024-08-06T17:30:22.239902+00:00
-
- ## 12app.ch – Die Story-App
- - [https://12app.ch](https://12app.ch)
- - date_published: 2024-04-30T06:12:46.534858+00:00
-
- ## 200ok - Accelerating Publishing
- - [https://200ok.ch](https://200ok.ch)
- - date_published: 2024-01-09T10:35:03+00:00
-
- ## organice - keep your life nicely organized
- - [https://organice.200ok.ch](https://organice.200ok.ch)
- - date_published: 2024-01-06T17:48:51+00:00
-
- ## 20 Minuten: News & Nachrichten aus der Schweiz | Aktuelles & Schlagzeilen
- - [https://20min.ch](https://20min.ch)
- - date_published: 2024-10-27T12:14:03.373678+00:00
-
- ## FATF Travel Rule Solution for Crypto Compliance
- - [https://21analytics.ch](https://21analytics.ch)
- - date_published: 2024-02-25T14:03:25.278340+00:00
-
- ## 24 heures | l’actualité du canton de Vaud, de la Suisse et du monde
- - [https://24heures.ch](https://24heures.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Agenda - 24 heures
- - [https://agenda.24heures.ch](https://agenda.24heures.ch)
- - date_published: 2024-07-22T17:24:57.281319+00:00
-
- ## 24heures
- - [https://helpcenter.24heures.ch](https://helpcenter.24heures.ch)
- - date_published: 2023-07-22T05:32:28+00:00
-
- ## Performance Marketing & Leadgenerierung • 2media
- - [https://2media.ch](https://2media.ch)
- - date_published: 2024-07-14T08:45:24.033304+00:00
-
- ## 3CX Webclient
- - [https://pbx-wifx.3cx.ch](https://pbx-wifx.3cx.ch)
- - date_published: 2024-05-08T12:21:54+00:00
-
- ## 3M Science. Applied to Life.
- - [https://www.3mschweiz.ch](https://www.3mschweiz.ch)
- - date_published: 2024-08-06T10:38:45.985068+00:00
-
- ## 3M Science. Applied to Life™ │3M Suisse
- - [https://www.3msuisse.ch](https://www.3msuisse.ch)
- - date_published: 2024-08-06T10:39:49.444777+00:00
-
- ## École d'informatique gratuite à Lausanne - 42 Lausanne
- - [https://42lausanne.ch](https://42lausanne.ch)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## 4get.ch
- - [https://4get.ch](https://4get.ch)
- - date_published: 2024-10-25T20:36:30+00:00
- - tags: ['search engine']
-
- ## Tim Izzo @5ika.ch
- - [https://5ika.ch](https://5ika.ch)
- - date_published: 2024-05-09T08:00:53.709767+00:00
-
- ## My PDP-11 related electronic projects ·  My PDP-11 Projects
- - [https://5volts.ch](https://5volts.ch)
- - date_published: 2019-04-19T00:00:00+00:00
-
- ## 8bitstudio agence web et conception UX/UI à Lausanne
- - [https://www.8bitstudio.ch](https://www.8bitstudio.ch)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## :ratio  – Digital User Experience Agency based in Lausanne and Fribourg, Switzerland
- - [https://8ratio.ch](https://8ratio.ch)
- - date_published: 2024-09-14T23:58:35.604428+00:00
-
- ## Aargauer Zeitung | Nachrichten für den Aargau – AZ
- - [https://www.aargauerzeitung.ch](https://www.aargauerzeitung.ch)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Abarth Schweiz | Leistungsstarke Kleinwagen
- - [https://www.abarth.ch](https://www.abarth.ch)
- - date_published: 2024-06-19T07:32:01+00:00
-
- ## Hostpoint | Domains, Webhosting, Managed Server, E-Mail und mehr!
- - [https://abgesi.ch](https://abgesi.ch)
- - date_published: 2024-06-13T13:53:27+00:00
-
- ## About Blank Design Office
- - [https://www.aboutblank.ch](https://www.aboutblank.ch)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## La mode en ligne de plus de 1500 grandes marques | ABOUT YOU
- - [https://fr.aboutyou.ch](https://fr.aboutyou.ch)
- - date_published: 2024-09-17T18:35:04+00:00
-
- ## Proposte di moda online da oltre 1.500 grandi brand | ABOUT YOU
- - [https://it.aboutyou.ch](https://it.aboutyou.ch)
- - date_published: 2024-09-17T21:48:35+00:00
-
- ## Mode online von mehr als 1500 Top-Marken | ABOUT YOU
- - [https://m.aboutyou.ch](https://m.aboutyou.ch)
- - date_published: 2024-09-17T18:54:06+00:00
-
- ## La mode en ligne de plus de 1500 grandes marques | ABOUT YOU
- - [https://m-fr.aboutyou.ch](https://m-fr.aboutyou.ch)
- - date_published: 2024-09-17T18:35:04+00:00
-
- ## Proposte di moda online da oltre 1.500 grandi brand | ABOUT YOU
- - [https://m-it.aboutyou.ch](https://m-it.aboutyou.ch)
- - date_published: 2024-09-17T21:48:35+00:00
-
- ## Mode online von mehr als 1500 Top-Marken | ABOUT YOU
- - [https://www.aboutyou.ch](https://www.aboutyou.ch)
- - date_published: 2024-09-17T18:54:06+00:00
-
- ## abuse.ch | Fighting malware and botnets
- - [https://abuse.ch](https://abuse.ch)
- - date_published: 2024-04-07T00:00:00+00:00
- - tags: ['cybersecurity', 'hacking']
-
- ## MalwareBazaar | Malware sample exchange
- - [https://bazaar.abuse.ch](https://bazaar.abuse.ch)
- - date_published: 2024-07-02T22:02:47.278618+00:00
-
- ## Feodo Tracker
- - [https://feodotracker.abuse.ch](https://feodotracker.abuse.ch)
- - date_published: 2024-07-02T22:02:48.367244+00:00
-
- ## SSLBL | Detecting malicious SSL connections
- - [https://sslbl.abuse.ch](https://sslbl.abuse.ch)
- - date_published: 2024-07-02T22:02:50.336912+00:00
-
- ## ThreatFox | Share Indicators Of Compromise (IOCs)
- - [https://threatfox.abuse.ch](https://threatfox.abuse.ch)
- - date_published: 2024-07-02T22:02:49.279493+00:00
-
- ## URLhaus: A database of malicious URLs used for malware distribution
- - [https://urlhaus.abuse.ch](https://urlhaus.abuse.ch)
- - date_published: 2024-05-15T02:24:03+00:00
- - tags: ['internet database', 'malware']
-
- ## YARAify | YARA scan engine
- - [https://yaraify.abuse.ch](https://yaraify.abuse.ch)
- - date_published: 2024-07-02T22:02:46.346411+00:00
-
- ## Accessori online Ford
- - [https://accessori-ford.ch](https://accessori-ford.ch)
- - date_published: 2024-10-29T21:42:31.661424+00:00
-
- ## Accurity - Employment & Payroll Services in Switzerland
- - [https://accurity.ch](https://accurity.ch)
- - date_published: 2024-10-18T20:51:18.987498+00:00
-
- ## Accueil | Association des communes genevoises
- - [http://www.acg.ch](http://www.acg.ch)
- - date_published: 2024-06-11T09:35:53+00:00
-
- ## ACP Admin - Simplifiez la gestion de votre ACP
- - [https://acp-admin.ch](https://acp-admin.ch)
- - date_published: 2024-05-11T09:14:26+00:00
-
- ## Investing directly in Swiss SMEs with stable returns.
- - [https://acredius.ch](https://acredius.ch)
- - date_published: 2024-09-25T14:57:51.762625+00:00
-
- ## Home
- - [https://adamlea.ch](https://adamlea.ch)
- - date_published: 2024-05-09T08:17:30.635908+00:00
-
- ## crea il tuo annuncio
- - [https://www.adbreak.ch](https://www.adbreak.ch)
- - date_published: 2024-07-15T12:25:15.514905+00:00
-
- ## Addiction Suisse - Home
- - [https://www.addictionsuisse.ch](https://www.addictionsuisse.ch)
- - date_published: 2024-10-18T21:25:09.219627+00:00
-
- ## adidas offizielle Website Schweiz | Sportbekleidung
- - [https://www.adidas.ch](https://www.adidas.ch)
- - date_published: 2024-07-14T12:13:54.488343+00:00
-
- ## Sign in - Matomo
- - [https://analytics.bit.admin.ch](https://analytics.bit.admin.ch)
- - date_published: 2024-06-18T14:29:46.417172+00:00
-
- ## Eidgenössisches Departement für auswärtige Angelegenheiten EDA
- - [https://eda.admin.ch](https://eda.admin.ch)
- - date_published: 2024-06-27T11:48:11.621422+00:00
-
- ## Fedlex
- - [https://fedlex.admin.ch](https://fedlex.admin.ch)
- - date_published: 2024-05-12T07:23:52.798993+00:00
-
- ## BFS OnlineRechner
- - [https://lik-app.bfs.admin.ch](https://lik-app.bfs.admin.ch)
- - date_published: 2024-06-26T06:36:12+00:00
-
- ## Maps of Switzerland - Swiss Confederation - map.geo.admin.ch
- - [https://map.geo.admin.ch](https://map.geo.admin.ch)
- - date_published: 2024-07-16T09:30:09+00:00
-
- ## Homepage - MeteoSwiss
- - [https://meteoswiss.admin.ch](https://meteoswiss.admin.ch)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Startseite
- - [https://www.admin.ch](https://www.admin.ch)
- - date_published: 2024-05-02T13:26:49.656242+00:00
-
- ## armasuisse nimmt an DACH-Treffen der Forschungsdirektoren teil
- - [http://www.ar.admin.ch](http://www.ar.admin.ch)
- - date_published: 2024-10-22T08:58:11.377285+00:00
 

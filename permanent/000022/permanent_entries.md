@@ -1,3 +1,447 @@
+ ## Gestion des affichages - Bibliothèques - Université de Montréal
+ - [https://avis.bib.umontreal.ca](https://avis.bib.umontreal.ca)
+ - date_published: 2024-08-11T03:23:49.805134+00:00
+
+ ## Aide financière et emploi | Services à la vie étudiante | UdeM
+ - [http://baf.umontreal.ca](http://baf.umontreal.ca)
+ - date_published: 2024-06-15T02:50:08.327331+00:00
+
+ ## Les Belles Heures de l'Université de Montréal
+ - [https://bellesheures.umontreal.ca](https://bellesheures.umontreal.ca)
+ - date_published: 2024-09-16T00:57:17.874649+00:00
+
+ ## Les Belles Heures de l'Université de Montréal
+ - [https://bellessoirees.umontreal.ca](https://bellessoirees.umontreal.ca)
+ - date_published: 2024-09-16T00:53:25.959109+00:00
+
+ ## Bibliothèques - Université de Montréal
+ - [https://bib.umontreal.ca](https://bib.umontreal.ca)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Bourses d'études - Université de Montréal
+ - [https://bourses.umontreal.ca](https://bourses.umontreal.ca)
+ - date_published: 2024-09-16T00:53:13.917518+00:00
+
+ ## Brave the way - UdeM's major philanthropic campaign
+ - [https://bravetheway.umontreal.ca](https://bravetheway.umontreal.ca)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Accueil - Centre d’apprentissage des attitudes et habiletés cliniques (CAAHC)
+ - [https://caahc.umontreal.ca](https://caahc.umontreal.ca)
+ - date_published: 2019-04-23T00:00:00+00:00
+
+ ## Calendrier de l'Université de Montréal
+ - [https://calendrier.umontreal.ca](https://calendrier.umontreal.ca)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Campus MIL | Campus MIL
+ - [https://campusmil.umontreal.ca](https://campusmil.umontreal.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Carabins de l'Université de Montréal
+ - [https://carabins.umontreal.ca](https://carabins.umontreal.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## carrières - Université de Montréal
+ - [https://carrieres.umontreal.ca](https://carrieres.umontreal.ca)
+ - date_published: 2024-06-15T02:50:26.113119+00:00
+
+ ## ContinuUM
+ - [https://catalogue.continuum.umontreal.ca](https://catalogue.continuum.umontreal.ca)
+ - date_published: 2024-09-16T00:59:08.761013+00:00
+
+ ## Continuing Education | Université de Montréal
+ - [http://catalogue.dfc.umontreal.ca](http://catalogue.dfc.umontreal.ca)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## DPC pour les médecins et autres professionnels de la santé
+ - [https://catalogue.dpcmed.umontreal.ca](https://catalogue.dpcmed.umontreal.ca)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Centre FOCUS
+ - [https://catalogue.focus.umontreal.ca](https://catalogue.focus.umontreal.ca)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Activités de développement professionnel- FSI
+ - [https://catalogue.fsi.umontreal.ca](https://catalogue.fsi.umontreal.ca)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Activités culturelles
+ - [https://catalogue.vieetudiante.umontreal.ca](https://catalogue.vieetudiante.umontreal.ca)
+ - date_published: 2024-09-16T00:57:50.541780+00:00
+
+ ## Centre de langues - Université de Montréal
+ - [http://centre-de-langues.umontreal.ca](http://centre-de-langues.umontreal.ca)
+ - date_published: 2024-09-16T00:57:45.941824+00:00
+
+ ## Centre sportif, gym, piscine à Montréal | CEPSUM
+ - [https://cepsum.umontreal.ca](https://cepsum.umontreal.ca)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## À propos des Services à la vie étudiante | UdeM
+ - [https://cesar.umontreal.ca](https://cesar.umontreal.ca)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Remote Support Portal | Powered by BOMGAR
+ - [https://clavardage.ti.umontreal.ca](https://clavardage.ti.umontreal.ca)
+ - date_published: 2024-09-16T00:53:37.087716+00:00
+
+ ## Collations des grades - Université de Montréal
+ - [https://collation.umontreal.ca](https://collation.umontreal.ca)
+ - date_published: 2024-06-15T02:49:46.006551+00:00
+
+ ## Corvée - Liens brisés par section - Corvée
+ - [https://corvee.bib.umontreal.ca](https://corvee.bib.umontreal.ca)
+ - date_published: 2024-08-11T03:23:40.660483+00:00
+
+ ## Centre de pédagogie appliquée aux sciences de la santé (CPASS) - UdeM
+ - [https://cpass.umontreal.ca](https://cpass.umontreal.ca)
+ - date_published: 2024-09-16T00:58:49.341057+00:00
+
+ ## Conduite responsable en recherche - Université de Montréal
+ - [https://crr.umontreal.ca](https://crr.umontreal.ca)
+ - date_published: 2024-07-21T08:34:27.280891+00:00
+
+ ## Direction de l'enseignement de service en informatique
+ - [https://desi.umontreal.ca](https://desi.umontreal.ca)
+ - date_published: 2024-04-30T05:27:09.037559+00:00
+
+ ## Département d'informatique et de recherche opérationnelle - Université de Montréal
+ - [https://diro.umontreal.ca](https://diro.umontreal.ca)
+ - date_published: 2024-04-30T05:26:36.229716+00:00
+
+ ## Chaire BMO en Diversité et Gouvernance
+ - [https://diversite-gouvernance.umontreal.ca](https://diversite-gouvernance.umontreal.ca)
+ - date_published: 2024-10-30T05:28:10.832434+00:00
+
+ ## Accueil - Département de mathématiques et statistique
+ - [https://dms.umontreal.ca](https://dms.umontreal.ca)
+ - date_published: 2024-06-30T09:11:28+00:00
+
+ ## Faire un don
+ - [http://donner.umontreal.ca](http://donner.umontreal.ca)
+ - date_published: 2024-04-30T05:26:51.286649+00:00
+
+ ## Direction de la prévention et de la sécurité - Université de Montréal
+ - [https://dps.umontreal.ca](https://dps.umontreal.ca)
+ - date_published: 2024-07-21T08:35:36.326650+00:00
+
+ ## Développement durable - Université de Montréal
+ - [https://durable.umontreal.ca](https://durable.umontreal.ca)
+ - date_published: 2024-04-30T05:26:15.176753+00:00
+
+ ## École de français - FEP - Université de Montréal
+ - [https://ecoledelangues.umontreal.ca](https://ecoledelangues.umontreal.ca)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## École d'orthophonie et d'audiologie de l'Université de Montréal
+ - [https://eoa.umontreal.ca](https://eoa.umontreal.ca)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Études supérieures et postdoctorales - Université de Montréal
+ - [https://esp.umontreal.ca](https://esp.umontreal.ca)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Page d'accueil - Institut Trottier de recherche sur les exoplanètes
+ - [https://exoplanetes.umontreal.ca](https://exoplanetes.umontreal.ca)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Faculté des arts et des sciences - Université de Montréal
+ - [https://fas.umontreal.ca](https://fas.umontreal.ca)
+ - date_published: 2024-04-30T05:26:30.266368+00:00
+
+ ## Bureau interfacultaire de la formation continue - Université de Montréal
+ - [https://formationcontinue.umontreal.ca](https://formationcontinue.umontreal.ca)
+ - date_published: 2024-06-15T02:50:34.844444+00:00
+
+ ## UdeM français - Université de Montréal
+ - [https://francais.umontreal.ca](https://francais.umontreal.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## FORMATION VÉTÉRINAIRE CONTINUE
+ - [https://fvc.umontreal.ca](https://fvc.umontreal.ca)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Galerie
+ - [https://galerie.umontreal.ca](https://galerie.umontreal.ca)
+ - date_published: 2024-09-16T00:57:19.933446+00:00
+
+ ## Hackathon du DIRO 2024
+ - [https://hackathon.iro.umontreal.ca](https://hackathon.iro.umontreal.ca)
+ - date_published: 2024-02-23T23:10:57+00:00
+
+ ## UdeM international - Université de Montréal
+ - [https://international.umontreal.ca](https://international.umontreal.ca)
+ - date_published: 2024-06-15T02:50:20.511056+00:00
+
+ ## Inven_T - Université de Montréal
+ - [https://inven-t.umontreal.ca](https://inven-t.umontreal.ca)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Accès refusé - Bibliothèques - Université de Montréal
+ - [https://jupiter.bib.umontreal.ca](https://jupiter.bib.umontreal.ca)
+ - date_published: 2024-08-11T03:24:03.983999+00:00
+
+ ## L'heure est brave - La grande campagne philanthropique de l'UdeM
+ - [https://lheureestbrave.umontreal.ca](https://lheureestbrave.umontreal.ca)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Redirecting...
+ - [http://monportail.umontreal.ca](http://monportail.umontreal.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Redirecting...
+ - [https://monudem.umontreal.ca](https://monudem.umontreal.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## UdeMNouvelles, l’actualité de l’Université de Montréal | UdeMNouvelles
+ - [https://nouvelles.umontreal.ca](https://nouvelles.umontreal.ca)
+ - date_published: 2023-11-04T12:47:25.272671+00:00
+
+ ## Redirecting...
+ - [https://outlook.umontreal.ca](https://outlook.umontreal.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Département de philosophie - Université de Montréal
+ - [https://philo.umontreal.ca](https://philo.umontreal.ca)
+ - date_published: 2024-09-15T12:59:41.478596+00:00
+
+ ## Montréal - Plan Campus - Université de Montréal
+ - [https://plancampus.umontreal.ca](https://plancampus.umontreal.ca)
+ - date_published: 2024-04-30T05:27:11.744077+00:00
+
+ ## Accueil - Portfolio UMontréal
+ - [https://portfolio.umontreal.ca](https://portfolio.umontreal.ca)
+ - date_published: 2024-06-15T02:49:42.378768+00:00
+
+ ## PRAXIS Centre de développement professionnel - Université de Montréal
+ - [https://praxis.umontreal.ca](https://praxis.umontreal.ca)
+ - date_published: 2024-09-16T00:58:51.661023+00:00
+
+ ## Les presses de l'Université de Montréal
+ - [https://pum.umontreal.ca](https://pum.umontreal.ca)
+ - date_published: 2024-04-30T05:26:05.728241+00:00
+
+ ## La recherche - Université de Montréal
+ - [https://recherche.umontreal.ca](https://recherche.umontreal.ca)
+ - date_published: 2024-04-30T05:26:21.384321+00:00
+
+ ## Réflexes Numériques |
+ - [https://reflexesnumeriques.umontreal.ca](https://reflexesnumeriques.umontreal.ca)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Bureau du registraire - Université de Montréal
+ - [https://registraire.umontreal.ca](https://registraire.umontreal.ca)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Home Page
+ - [https://reseau.umontreal.ca](https://reseau.umontreal.ca)
+ - date_published: 2024-06-15T02:49:56.423107+00:00
+
+ ## Ressources humaines - Université de Montréal
+ - [https://rh.umontreal.ca](https://rh.umontreal.ca)
+ - date_published: 2024-06-15T02:50:12.788864+00:00
+
+ ## Service d'appui à la formation interdisciplinaire et à la réussite étudiante (SAFIRE) - Université de Montréal
+ - [https://safire.umontreal.ca](https://safire.umontreal.ca)
+ - date_published: 2024-04-30T05:27:13.511008+00:00
+
+ ## Les SAISONS des ESP - Université de Montréal
+ - [https://saisonsesp.umontreal.ca](https://saisonsesp.umontreal.ca)
+ - date_published: 2024-07-21T08:34:34.734314+00:00
+
+ ## Secrétariat général - Université de Montréal
+ - [https://secretariatgeneral.umontreal.ca](https://secretariatgeneral.umontreal.ca)
+ - date_published: 2024-04-30T05:27:01.003000+00:00
+
+ ## Home Page
+ - [https://secureca.reseau.umontreal.ca](https://secureca.reseau.umontreal.ca)
+ - date_published: 2024-08-11T16:49:53.348767+00:00
+
+ ## Stages - Université de Montréal
+ - [https://stages.umontreal.ca](https://stages.umontreal.ca)
+ - date_published: 2024-06-15T02:50:31.430009+00:00
+
+ ## Home | StudiUM formation continue
+ - [https://studiumfc.umontreal.ca](https://studiumfc.umontreal.ca)
+ - date_published: 2024-06-15T02:50:44+00:00
+
+ ## Home | StudiUM
+ - [https://studium.umontreal.ca](https://studium.umontreal.ca)
+ - date_published: 2024-04-30T05:26:37.582044+00:00
+
+ ## bienvenue [Soutien technique DIRO]
+ - [http://support.iro.umontreal.ca](http://support.iro.umontreal.ca)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Technologies de l'information - Université de Montréal
+ - [https://ti.umontreal.ca](https://ti.umontreal.ca)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## Université de Montréal
+ - [https://umontreal.ca](https://umontreal.ca)
+ - date_published: 2024-05-01T02:10:38.445199+00:00
+
+ ## Whoops! - LibAnswers
+ - [https://unequestion.bib.umontreal.ca](https://unequestion.bib.umontreal.ca)
+ - date_published: 2024-08-11T03:23:51.290494+00:00
+
+ ## URGENCE - Université de Montréal
+ - [https://urgence.umontreal.ca](https://urgence.umontreal.ca)
+ - date_published: 2024-04-30T05:26:02.268138+00:00
+
+ ## Vélo - Université de Montréal
+ - [https://velo.umontreal.ca](https://velo.umontreal.ca)
+ - date_published: 2024-07-21T08:34:48.614424+00:00
+
+ ## Services à la vie étudiante | UdeM
+ - [https://vieetudiante.umontreal.ca](https://vieetudiante.umontreal.ca)
+ - date_published: 2024-06-15T02:49:52.356707+00:00
+
+ ## Vie privée - Université de Montréal
+ - [https://vie-privee.umontreal.ca](https://vie-privee.umontreal.ca)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Université de Montréal - Sign In
+ - [https://visiteur.authentification.umontreal.ca](https://visiteur.authentification.umontreal.ca)
+ - date_published: 2024-06-15T02:49:48.404025+00:00
+
+ ## Dashboard - Université de Montréal - Confluence
+ - [https://wiki.umontreal.ca](https://wiki.umontreal.ca)
+ - date_published: 2024-07-21T08:33:54.838572+00:00
+
+ ## Art pour tous, les œuvres publiques de l’Université de Montréal s’exposent / Centre d'exposition de l'UdeM
+ - [http://www.artpourtous.umontreal.ca](http://www.artpourtous.umontreal.ca)
+ - date_published: 2011-01-04T22:16:02+00:00
+
+ ## Clinique de kinésiologie - Université de Montréal
+ - [http://www.cliniquekinesio.umontreal.ca](http://www.cliniquekinesio.umontreal.ca)
+ - date_published: 2024-09-16T00:58:35.941990+00:00
+
+ ## Page Redirection
+ - [https://www.crm.umontreal.ca](https://www.crm.umontreal.ca)
+ - date_published: 2020-09-30T14:16:00+00:00
+
+ ## Département d'informatique et de recherche opérationnelle - Université de Montréal
+ - [https://www.iro.umontreal.ca](https://www.iro.umontreal.ca)
+ - date_published: 2023-10-25T12:08:56.540416+00:00
+
+ ## Recherche : Service web
+ - [https://www-labs.iro.umontreal.ca](https://www-labs.iro.umontreal.ca)
+ - date_published: 2013-06-27T00:00:00+00:00
+
+ ## Faculté de musique - Université de Montréal
+ - [http://www.musique.umontreal.ca](http://www.musique.umontreal.ca)
+ - date_published: 2024-09-16T00:57:22.889303+00:00
+
+ ## Podioguide UdeM - Campus Montréal
+ - [http://www.podioguide.umontreal.ca](http://www.podioguide.umontreal.ca)
+ - date_published: 2010-02-23T22:11:26+00:00
+
+ ## Mon UdeM
+ - [https://www.portail.umontreal.ca](https://www.portail.umontreal.ca)
+ - date_published: 2024-04-30T05:26:28.235481+00:00
+
+ ## Régime de retraite - Université de Montréal
+ - [http://www.rrum.umontreal.ca](http://www.rrum.umontreal.ca)
+ - date_published: 2024-09-16T00:54:16.169158+00:00
+
+ ## Sign in to your account
+ - [http://es.unb.ca](http://es.unb.ca)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## University of New Brunswick Libraries
+ - [https://lib.unb.ca](https://lib.unb.ca)
+ - date_published: 2024-09-24T21:35:01.709083+00:00
+
+ ## Sign in to your account
+ - [https://phonebook.unb.ca](https://phonebook.unb.ca)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## University of New Brunswick | UNB
+ - [https://unb.ca](https://unb.ca)
+ - date_published: 2024-09-24T13:36:20+00:00
+
+ ## Faculty of Computer Science | UNB
+ - [https://www.cs.unb.ca](https://www.cs.unb.ca)
+ - date_published: 2024-07-03T11:33:00+00:00
+
+ ## Department of Mathematics and Statistics at UNB
+ - [http://www.math.unb.ca](http://www.math.unb.ca)
+ - date_published: 2024-06-14T14:50:04+00:00
+
+ ## UNB Recreation Services
+ - [https://recreation.unbf.ca](https://recreation.unbf.ca)
+ - date_published: 2024-09-24T21:36:11.897691+00:00
+
+ ## Uncyclopedia
+ - [https://uncyclopedia.ca](https://uncyclopedia.ca)
+ - date_published: 2022-01-11T08:45:58+00:00
+
+ ## Find and hire Canadian Freelancers | Unicorn Factory Canada
+ - [https://www.unicornfactory.ca](https://www.unicornfactory.ca)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## The Uniter
+ - [https://uniter.ca](https://uniter.ca)
+ - date_published: 2024-09-13T20:01:42+00:00
+
+ ## #1 Electronic Online Store Canada For Hobby And Education
+ - [https://universal-solder.ca](https://universal-solder.ca)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Home
+ - [https://universitymagazine.ca](https://universitymagazine.ca)
+ - date_published: 2019-04-23T02:59:04+00:00
+
+ ## Unlok
+ - [http://www.unlok.ca](http://www.unlok.ca)
+ - date_published: 2023-12-02T00:00:00+00:00
+
+ ## Homepage
+ - [https://opened.uoguelph.ca](https://opened.uoguelph.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://aix1.uottawa.ca](http://aix1.uottawa.ca)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Alumni | Alumni
+ - [https://alumni.uottawa.ca](https://alumni.uottawa.ca)
+ - date_published: 2024-04-30T05:27:39.204010+00:00
+
+ ## Library | Library
+ - [https://biblio.uottawa.ca](https://biblio.uottawa.ca)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## uOttawa Catalogue < uOttawa
+ - [https://catalogue.uottawa.ca](https://catalogue.uottawa.ca)
+ - date_published: 2024-04-30T05:27:40.893041+00:00
+
+ ## Home
+ - [https://infolab.uottawa.ca](https://infolab.uottawa.ca)
+ - date_published: 2024-07-21T08:26:18.994403+00:00
+
+ ## Page d'accueil
+ - [https://institutdp.uottawa.ca](https://institutdp.uottawa.ca)
+ - date_published: 2024-07-21T08:26:16.868037+00:00
+
+ ## IWOCA 2021
+ - [https://iwoca2021.eecs.uottawa.ca](https://iwoca2021.eecs.uottawa.ca)
+ - date_published: 2021-07-04T22:02:47+00:00
+
+ ## Maestro - uOttawa
+ - [https://maestro.uottawa.ca](https://maestro.uottawa.ca)
+ - date_published: 2024-08-19T19:35:14.783524+00:00
+
+ ## Campus maps | About us
+ - [https://maps.uottawa.ca](https://maps.uottawa.ca)
+ - date_published: 2024-04-30T05:27:32.131616+00:00
+
+ ## Home
+ - [https://pdinstitute.uottawa.ca](https://pdinstitute.uottawa.ca)
+ - date_published: 2024-04-30T05:27:43.655424+00:00
+
  ## Home - TLSS
  - [https://saea-tlss.uottawa.ca](https://saea-tlss.uottawa.ca)
  - date_published: 2021-08-18T16:25:28+00:00
@@ -3565,448 +4009,4 @@
  ## Alphemy Capital
  - [https://alphemy.capital](https://alphemy.capital)
  - date_published: 2024-09-03T00:00:00+00:00
-
- ## AU21 Capital
- - [https://au21.capital](https://au21.capital)
- - date_published: 2024-08-07T19:00:36.669521+00:00
-
- ## BasicsCapital
- - [https://www.basics.capital](https://www.basics.capital)
- - date_published: 2024-12-15T04:30:13.647752+00:00
-
- ## Blockwall Management GmbH - Web3 Venture Capital Firm
- - [https://www.blockwall.capital](https://www.blockwall.capital)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Bonded - VU's Affinity Investment Network
- - [https://www.bonded.capital](https://www.bonded.capital)
- - date_published: 2024-09-20T00:00:00+00:00
-
- ## Home | Cactus Capital
- - [https://bgu.cactus.capital](https://bgu.cactus.capital)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Castrum Capital
- - [https://castrum.capital](https://castrum.capital)
- - date_published: 2024-12-15T08:36:33.853011+00:00
-
- ## CHΛTΞΛU  | DeFi Private Capital Markets
- - [https://www.chateau.capital](https://www.chateau.capital)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Dap Capital – Financially, technologically, and regulatory compliant way of tokenizing assets
- - [https://app.dap.capital](https://app.dap.capital)
- - date_published: 2024-09-23T12:56:36.106354+00:00
-
- ## DeFiance Capital | A Crypto-Native Investment Firm
- - [https://www.defiance.capital](https://www.defiance.capital)
- - date_published: 2024-09-23T10:44:46.597650+00:00
-
- ## About – Dewhales
- - [https://dewhales.capital](https://dewhales.capital)
- - date_published: 2024-06-04T11:33:07.419190+00:00
-
- ## Dokia
- - [https://dokia.capital](https://dokia.capital)
- - date_published: 2024-05-16T08:44:38+00:00
-
- ## Earl Grey Capital
- - [https://earlgrey.capital](https://earlgrey.capital)
- - date_published: 2024-09-03T21:01:05.426207+00:00
-
- ## Event Horizon Capital | Innovation funds with a blockchain and WEB3 focus
- - [https://www.eh.capital](https://www.eh.capital)
- - date_published: 2024-09-24T21:25:36.465663+00:00
-
- ## Elkrem Capital | ลงทุนเพื่อผลตอบแทนสูงกับ DeFi.
- - [https://elkrem.capital](https://elkrem.capital)
- - date_published: 2024-09-25T11:33:47.376137+00:00
-
- ## Float Capital | Home
- - [https://float.capital](https://float.capital)
- - date_published: 2024-09-25T16:06:31.724232+00:00
-
- ## Global Digital Asset Capital Markets
- - [https://gda.capital](https://gda.capital)
- - date_published: 2024-10-13T00:49:54+00:00
-
- ## GEM Capital
- - [https://gem.capital](https://gem.capital)
- - date_published: 2024-06-20T01:17:41.775460+00:00
-
- ## Genblock Capital
- - [https://genblock.capital](https://genblock.capital)
- - date_published: 2024-12-23T21:53:37.617526+00:00
-
- ## Gton
- - [https://gton.capital](https://gton.capital)
- - date_published: 2024-09-24T04:17:55.406955+00:00
-
- ## Human Capital
- - [https://human.capital](https://human.capital)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home
- - [https://www.illuminati.capital](https://www.illuminati.capital)
- - date_published: 2023-03-23T00:00:00+00:00
-
- ## Inception Capital
- - [https://inception.capital](https://inception.capital)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Kenetic Capital
- - [https://www.kenetic.capital](https://www.kenetic.capital)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Merkle Capital | ลงทุนอย่างมั่นใจใน Digital Asset.
- - [https://merkle.capital](https://merkle.capital)
- - date_published: 2024-09-25T11:34:00.791006+00:00
-
- ## Moonvault Partners
- - [https://www.moonvault.capital](https://www.moonvault.capital)
- - date_published: 2024-12-14T19:29:51.919365+00:00
-
- ## Moonwhale Ventures
- - [https://moonwhale.capital](https://moonwhale.capital)
- - date_published: 2024-12-15T04:29:49.322704+00:00
-
- ## Multicoin Capital Job Board
- - [https://jobs.multicoin.capital](https://jobs.multicoin.capital)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Multicoin Capital
- - [https://multicoin.capital](https://multicoin.capital)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## NewTribe Capital: Web3 Venture Capitalists
- - [https://www.newtribe.capital](https://www.newtribe.capital)
- - date_published: 2024-05-21T11:21:30+00:00
-
- ## Home | OSS Capital
- - [https://oss.capital](https://oss.capital)
- - date_published: 2024-05-07T11:04:26.335641+00:00
-
- ## Pile | Die Neo Treasury Management Plattform
- - [https://pile.capital](https://pile.capital)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Polychain Capital Talent network
- - [https://jobs.polychain.capital](https://jobs.polychain.capital)
- - date_published: 2024-07-13T23:39:07.022453+00:00
-
- ## Polychain
- - [https://polychain.capital](https://polychain.capital)
- - date_published: 2021-09-16T22:56:04+00:00
-
- ## Press Start Capital
- - [https://pressstart.capital](https://pressstart.capital)
- - date_published: 2024-04-24T17:46:06+00:00
-
- ## Projected.Capital, Silvio Lorusso + Sebastian Schmieg, 2018
- - [http://projected.capital](http://projected.capital)
- - date_published: 2024-07-13T15:55:00.037041+00:00
-
- ## Home | PSQUARE CAPITAL
- - [https://psquare.capital](https://psquare.capital)
- - date_published: 2024-06-06T14:16:21+00:00
-
- ## Homepage - QCP
- - [https://www.qcp.capital](https://www.qcp.capital)
- - date_published: 2024-03-15T03:57:05+00:00
-
- ## Radiant
- - [https://app.radiant.capital](https://app.radiant.capital)
- - date_published: 2024-06-16T04:49:56.697281+00:00
-
- ## Radiant Capital DAO Forums
- - [https://community.radiant.capital](https://community.radiant.capital)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Snapshot
- - [https://dao.radiant.capital](https://dao.radiant.capital)
- - date_published: 2024-06-16T04:49:59.732879+00:00
-
- ## Portal | Radiant 2.0
- - [https://docs.radiant.capital](https://docs.radiant.capital)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Radiant
- - [https://radiant.capital](https://radiant.capital)
- - date_published: 2024-05-01T05:40:18.482056+00:00
-
- ## Rockaway X
- - [https://rbf.capital](https://rbf.capital)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Scalar Capital
- - [https://scalar.capital](https://scalar.capital)
- - date_published: 2024-12-23T21:53:31.674476+00:00
-
- ## Shima Capital
- - [https://shima.capital](https://shima.capital)
- - date_published: 2024-05-04T02:13:43+00:00
-
- ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://shl.capital](https://shl.capital)
- - date_published: 2024-04-29T00:29:38.924014+00:00
-
- ## Home - Signum Capital
- - [https://www.signum.capital](https://www.signum.capital)
- - date_published: 2024-09-25T11:34:32.204618+00:00
-
- ## Home
- - [https://simple.capital](https://simple.capital)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## The Techshop
- - [https://techshop.capital](https://techshop.capital)
- - date_published: 2024-10-30T19:37:10.932036+00:00
-
- ## Tenzor Capital - VC fund focused on blockchain
- - [https://www.tenzor.capital](https://www.tenzor.capital)
- - date_published: 2024-09-25T11:38:56.655297+00:00
-
- ## Tioga Capital: European fund for blockchain technology
- - [http://tioga.capital](http://tioga.capital)
- - date_published: 2024-09-04T12:20:49.229956+00:00
-
- ## ZBS Capital
- - [https://zbs.capital](https://zbs.capital)
- - date_published: 2024-12-09T01:31:45+00:00
-
- ## Find My Car
- - [http://findmy.car](http://findmy.car)
- - date_published: 2024-10-17T15:02:04.575933+00:00
-
- ## .Car Domains | Find Your Perfect Domain Name
- - [https://go.car](https://go.car)
- - date_published: 2024-06-17T07:45:17.777986+00:00
-
- ## Luxmo | El lujo es nuestro universo
- - [http://luxmo.car](http://luxmo.car)
- - date_published: 2024-10-17T15:14:59.405481+00:00
-
- ## AI Holiday Cards
- - [https://aiholiday.cards](https://aiholiday.cards)
- - date_published: 2023-12-13T08:27:03+00:00
-
- ## Bad Ideas
- - [https://www.badideas.cards](https://www.badideas.cards)
- - date_published: 2024-10-20T13:20:51.806217+00:00
-
- ## Bitcoin NFC Tap Cards by Coinkite
- - [https://coinkite.cards](https://coinkite.cards)
- - date_published: 2022-08-16T14:30:57+00:00
-
- ## CS Cards
- - [https://cs.cards](https://cs.cards)
- - date_published: 2024-04-30T05:35:19.508107+00:00
-
- ## DO NOT REPLY STICKERS
- - [https://buy.donotreply.cards](https://buy.donotreply.cards)
- - date_published: 2024-05-09T04:36:18.934508+00:00
-
- ## DONOTREPLY.CARDS->EN
- - [https://donotreply.cards](https://donotreply.cards)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## dot. | Create your dot.Profile today
- - [https://dot.cards](https://dot.cards)
- - date_published: 2024-08-18T11:59:45.878700+00:00
-
- ## Ether Cards
- - [https://ether.cards](https://ether.cards)
- - date_published: 2023-07-12T03:06:12+00:00
-
- ## Facilitator Cards: A Deck for You, Not Your Participants
- - [https://facilitator.cards](https://facilitator.cards)
- - date_published: 2024-04-29T01:48:25.683541+00:00
-
- ## The Facilitator Cards Store
- - [https://shop.facilitator.cards](https://shop.facilitator.cards)
- - date_published: 2024-08-06T16:57:48.998618+00:00
-
- ## Visual Chronology of Science & Discovery
- - [https://invention.cards](https://invention.cards)
- - date_published: 2024-06-01T17:54:26+00:00
-
- ## Junior
- - [https://www.junior.cards](https://www.junior.cards)
- - date_published: 2024-01-17T14:00:13+00:00
-
- ## Lazy Cards | Free AI written greeting cards
- - [https://lazy.cards](https://lazy.cards)
- - date_published: 2024-06-19T21:28:32.940843+00:00
-
- ## Deck of Cards
- - [https://deck.of.cards](https://deck.of.cards)
- - date_published: 2023-10-25T12:10:08.746785+00:00
-
- ## Play Together, Thrive Together - Out of Games
- - [http://outof.cards](http://outof.cards)
- - date_published: 2024-06-19T01:20:55.143472+00:00
-
- ## Personalized Free Tarot Readings - Intuition and Energy - ReadMyCards
- - [https://readmy.cards](https://readmy.cards)
- - date_published: 2024-07-10T11:15:38.166903+00:00
-
- ## SpecialQR | Create Magical Gift Experiences
- - [https://specialqr.cards](https://specialqr.cards)
- - date_published: 2024-12-05T01:41:25.285539+00:00
-
- ## Sprint cards
- - [https://sprint.cards](https://sprint.cards)
- - date_published: 2024-07-20T19:09:11.039268+00:00
-
- ## The Compendium
- - [https://thecompendium.cards](https://thecompendium.cards)
- - date_published: 2024-05-04T09:56:36.471526+00:00
-
- ## YooHoo! - AI Greeting Card Creator
- - [https://yoohoo.cards](https://yoohoo.cards)
- - date_published: 2024-06-19T19:55:21.360605+00:00
-
- ## 360 Med Care Home - 360 Med Care
- - [https://360med.care](https://360med.care)
- - date_published: 2024-10-30T10:38:52.141073+00:00
-
- ## Home page | The Association of British Clinical Diabetologists
- - [https://abcd.care](https://abcd.care)
- - date_published: 2024-07-03T15:25:52.337516+00:00
-
- ## Birdie | All-In-One Homecare Software | Built as One
- - [https://birdie.care](https://birdie.care)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Cara Care App: Your Digital Platform to Better Gut Health
- - [https://cara.care](https://cara.care)
- - date_published: 2024-09-25T14:24:42.910053+00:00
-
- ## Welcome 👋
- - [https://clickoutnetwork.care](https://clickoutnetwork.care)
- - date_published: 2022-09-16T09:08:45+00:00
-
- ## PlayDoge | The Best P2E Doge Companion Game
- - [https://bs_0fc28754.disksoar.care](https://bs_0fc28754.disksoar.care)
- - date_published: 2024-07-01T10:10:52.153162+00:00
-
- ## Pepe Unchained | Pepe’s Own Layer 2 Blockchain
- - [https://bs_35424baf.disksoar.care](https://bs_35424baf.disksoar.care)
- - date_published: 2024-07-01T09:27:10+00:00
-
- ## 99Bitcoins Token Presale: Now Open
- - [https://bs_a73a0746.disksoar.care](https://bs_a73a0746.disksoar.care)
- - date_published: 2024-07-01T06:43:18+00:00
-
- ## Distributed Web of Care
- - [http://distributedweb.care](http://distributedweb.care)
- - date_published: 2024-07-07T03:01:49+00:00
-
- ## Health Labs Care
- - [https://healthlabs.care](https://healthlabs.care)
- - date_published: 1920-01-01T00:00:00+00:00
-
- ## Welcome to Incision
- - [https://www.incision.care](https://www.incision.care)
- - date_published: 2024-12-25T18:38:46.050791+00:00
-
- ## Leleka Foundation | Saving Lives in Ukraine
- - [https://leleka.care](https://leleka.care)
- - date_published: 2024-07-08T17:33:48.285947+00:00
-
- ## Likeminded | Mentale Gesundheit von Mitarbeitenden verbessern
- - [https://www.likeminded.care](https://www.likeminded.care)
- - date_published: 2024-09-20T00:00:00+00:00
-
- ## Lovi — Smart Skin Care
- - [https://lovi.care](https://lovi.care)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Find The Best Coaches Near You
- - [https://coach.mantra.care](https://coach.mantra.care)
- - date_published: 2024-12-30T05:11:31.831925+00:00
-
- ## MantraCare: Therapy, EAP, Physio, Yoga, Nutrition & More
- - [https://mantra.care](https://mantra.care)
- - date_published: 2024-12-30T05:11:26.308341+00:00
-
- ## Keto Diet App | What is your weight loss goal?
- - [https://app.myketo.care](https://app.myketo.care)
- - date_published: 2024-06-21T21:36:39.677296+00:00
-
- ## Reheart – Donate a life !
- - [https://reheart.care](https://reheart.care)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Home - Ruolin Ye
- - [https://ruolinye.care](https://ruolinye.care)
- - date_published: 2023-09-20T18:59:38+00:00
-
- ## LGBTQ+ Aging Training and Consulting for a Better Workplace - SAGECare
- - [http://sageusa.care](http://sageusa.care)
- - date_published: 2024-12-15T18:43:11.752983+00:00
-
- ## - It's a great day to be alive!
- - [https://senseiselfdevelopment.care](https://senseiselfdevelopment.care)
- - date_published: 2024-09-12T14:03:40.073423+00:00
-
- ## Shimmer
- - [https://app.shimmer.care](https://app.shimmer.care)
- - date_published: 2024-04-30T05:35:20.495645+00:00
-
- ## Shimmer | ADHD Coaching That Fit Into Your Life | Expert & Affordable
- - [https://shimmer.care](https://shimmer.care)
- - date_published: 2023-10-25T12:10:12.016239+00:00
-
- ## Staci Bu Shea
- - [https://stacibushea.care](https://stacibushea.care)
- - date_published: 2024-05-25T16:54:01+00:00
-
- ## TOKENS FOR CLIMATE CARE
- - [https://tokensforclimate.care](https://tokensforclimate.care)
- - date_published: 2024-09-19T17:31:18+00:00
-
- ## Medicare Sales Software for Insurers, Distributors, and Members | Trusty.care
- - [https://www.trusty.care](https://www.trusty.care)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Umay starts with you.
- - [http://www.umay.care](http://www.umay.care)
- - date_published: 2024-12-12T11:43:30.574293+00:00
-
- ## We are Blocket - This is where ideas and people grow
- - [https://www.blocket.career](https://www.blocket.career)
- - date_published: 2024-08-24T00:00:00+00:00
-
- ## Web3 Jobs: Blockchain, Smart Contract and Crypto Jobs
- - [https://web3.career](https://web3.career)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Appwrite
- - [https://appwrite.careers](https://appwrite.careers)
- - date_published: 2024-05-14T03:35:02.833364+00:00
-
- ## Universität Leipzig: Stellenausschreibungen
- - [https://uni-leipzig.b-ite.careers](https://uni-leipzig.b-ite.careers)
- - date_published: 2024-10-22T05:22:31.769319+00:00
-
- ## Cyient Careers | Build The Next With Innovation and Technology
- - [https://www.cyient.careers](https://www.cyient.careers)
- - date_published: 2024-07-08T12:26:50+00:00
-
- ## Day One Careers Store
- - [https://store.dayone.careers](https://store.dayone.careers)
- - date_published: 2024-07-12T15:44:46.789922+00:00
-
- ## Diversity in Research | jobs | Choose from 2,280 live vacancies
- - [https://www.diversityinresearch.careers](https://www.diversityinresearch.careers)
- - date_published: 2024-07-11T13:05:47.363239+00:00
-
- ## Elementor Careers - Let's Build the Future of Web Creation Together
- - [https://elementor.careers](https://elementor.careers)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Flexa Careers | Find a workplace where you’ll thrive
- - [https://flexa.careers](https://flexa.careers)
- - date_published: 2024-10-31T04:59:31.859089+00:00
 

@@ -1,3 +1,31 @@
+ ## wild. creating digital products for brands.
+ - [https://wild.as](https://wild.as)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.write.as](https://analytics.write.as)
+ - date_published: 2024-06-23T18:31:32.459273+00:00
+
+ ## Write.as Developer Center
+ - [https://developers.write.as](https://developers.write.as)
+ - date_published: 2024-04-30T05:34:53.453417+00:00
+
+ ## Discuss Write.as
+ - [https://discuss.write.as](https://discuss.write.as)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## How to Use Write.as
+ - [https://howto.write.as](https://howto.write.as)
+ - date_published: 2024-05-10T07:01:22.258665+00:00
+
+ ## Read Write.as
+ - [https://read.write.as](https://read.write.as)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Write.as
+ - [https://status.write.as](https://status.write.as)
+ - date_published: 2024-07-21T07:50:04.005047+00:00
+
  ## Write.as
  - [https://write.as](https://write.as)
  - date_published: 2023-11-29T13:54:48.349537+00:00
@@ -469,6 +497,10 @@ October 2024 in Singapore
  ## ESI - The Erwin Schrödinger International Institute for Mathematics and Physics
  - [https://www.esi.ac.at](https://www.esi.ac.at)
  - date_published: 2024-04-30T00:00:00+00:00
+
+ ## FH Salzburg
+ - [https://www.fh-salzburg.ac.at](https://www.fh-salzburg.ac.at)
+ - date_published: 2024-12-31T06:09:21.419631+00:00
 
  ## Fachhochschule St. Pölten
  - [https://fhstp.ac.at](https://fhstp.ac.at)
@@ -1042,6 +1074,10 @@ October 2024 in Singapore
  ## ᐅ Finden Sie Ihren perfekten Rechtsanwalt auf fairesRecht
  - [https://advolist.at](https://advolist.at)
  - date_published: 2024-09-13T16:21:51.577226+00:00
+
+ ## Ars Electronica
+ - [https://cloud.aec.at](https://cloud.aec.at)
+ - date_published: 2024-12-31T23:10:03+00:00
 
  ## Ars Electronica
  - [http://www.aec.at](http://www.aec.at)
@@ -2053,6 +2089,10 @@ October 2024 in Singapore
  ## Startseite - e-sieben
  - [https://www.e-sieben.at](https://www.e-sieben.at)
  - date_published: 2024-09-18T14:48:12.115269+00:00
+
+ ## esskultur | kulinarische notizen von katharina seiser
+ - [https://www.esskultur.at](https://www.esskultur.at)
+ - date_published: 2024-12-31T21:12:50.672296+00:00
 
  ## Eternal Storms Software | Blog – by Matthias Gansrigler, a solo indie software developer
  - [https://blog.eternalstorms.at](https://blog.eternalstorms.at)
@@ -3979,44 +4019,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Österreichisches Spendengütesiegel - Österreichisches Spendengütesiegel
  - [https://www.osgs.at](https://www.osgs.at)
  - date_published: 2024-10-22T12:19:22.114614+00:00
-
- ## OTS.at - aktuelle Inhalte in Text, Bild, Ton und Video
- - [http://www.ots.at](http://www.ots.at)
- - date_published: 2024-06-30T11:17:59.328002+00:00
-
- ## Ottakringer Brewery | Brewed in Vienna since 1837
- - [https://www.ottakringerbrauerei.at](https://www.ottakringerbrauerei.at)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Palliativmedizin · Anästhesie · Intensivmedizin · Notfallmedizin · Schmerzmedizin | P.A.I.N.S.
- - [https://www.pains.at](https://www.pains.at)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Windeln, Babypflege & Tipps für Eltern | Pampers AT
- - [https://www.pampers.at](https://www.pampers.at)
- - date_published: 2024-10-28T22:47:42+00:00
-
- ## Parkplätze suchen & finden auf Parkplatzsuche.at
- - [https://parkplatzsuche.at](https://parkplatzsuche.at)
- - date_published: 2024-09-13T16:20:13.600921+00:00
-
- ## Aktuelle Termine - partytimer.at
- - [https://www.partytimer.at](https://www.partytimer.at)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Senior Frontend Developer
- - [https://patrickobermeier.at](https://patrickobermeier.at)
- - date_published: 2024-05-11T10:24:57.314075+00:00
-
- ## Patrick Wied | Products, Data Visualization, Web Developer.
- - [https://patrick-wied.at](https://patrick-wied.at)
- - date_published: 2019-01-09T23:07:04+00:00
-
- ## PayLife - Kreditkarten für Privat & Business | PayLife
- - [https://www.paylife.at](https://www.paylife.at)
- - date_published: 2024-09-27T09:32:12.903073+00:00
-
- ## PDF News – PDF/A, GRATIS PDF Druckertreiber, Archiving, OCR, DMS, Documentmanagment, Scan to PDF, ECM, PDF Convert, Free PDF printerdriver, SDK, API, PDF softwaredevelopment – Publizieren und Archivieren von Dokumenten
- - [https://www.pdfblog.at](https://www.pdfblog.at)
- - date_published: 2024-07-18T04:41:50.601255+00:00
 
