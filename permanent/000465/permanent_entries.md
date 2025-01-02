@@ -1,4007 +1,4057 @@
- ## talks.cam
- - [https://talks.cam.ac.uk](https://talks.cam.ac.uk)
- - date_published: 2024-05-17T02:59:43.640333+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://things.maths.cam.ac.uk](http://things.maths.cam.ac.uk)
- - date_published: 2021-01-13T08:55:03+00:00
-
- ## TIGR2ESS: Transforming India's Green Revolution by Research and Empowerment for Sustainable food Supplies | A Global Challenges Research Fund project
- - [https://tigr2ess.globalfood.cam.ac.uk](https://tigr2ess.globalfood.cam.ac.uk)
- - date_published: 2024-06-17T17:38:12+00:00
-
- ## Timetable update | IT Help and Support
- - [http://timetable.cam.ac.uk](http://timetable.cam.ac.uk)
- - date_published: 2024-09-16T14:31:54+00:00
-
- ## University of Cambridge training
- - [http://training.cam.ac.uk](http://training.cam.ac.uk)
- - date_published: 2024-06-17T17:28:23.860367+00:00
-
- ## Trinity College Cambridge
- - [https://trin.cam.ac.uk](https://trin.cam.ac.uk)
- - date_published: 2024-10-20T03:11:32.703257+00:00
-
- ## UFS |
- - [http://ufs.admin.cam.ac.uk](http://ufs.admin.cam.ac.uk)
- - date_published: 2024-06-17T16:36:49+00:00
-
- ## Unlocking Research
- - [https://unlockingresearch-blog.lib.cam.ac.uk](https://unlockingresearch-blog.lib.cam.ac.uk)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Walking with Constable
- - [https://walking-the-landscape.fitzmuseum.cam.ac.uk](https://walking-the-landscape.fitzmuseum.cam.ac.uk)
- - date_published: 2024-05-13T10:41:40+00:00
-
- ## Welcome to UIS
- - [https://webservices.admin.cam.ac.uk](https://webservices.admin.cam.ac.uk)
- - date_published: 2022-10-21T10:17:08+00:00
-
- ## Managed Wiki Service
- - [https://wiki.cam.ac.uk](https://wiki.cam.ac.uk)
- - date_published: 2022-05-12T10:49:02+00:00
-
- ## MRC Laboratory of Molecular Biology
- - [https://www2.mrc-lmb.cam.ac.uk](https://www2.mrc-lmb.cam.ac.uk)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Academic Division |
- - [https://www.academic.admin.cam.ac.uk](https://www.academic.admin.cam.ac.uk)
- - date_published: 2024-06-17T16:39:18+00:00
-
- ## Faculty of Asian and Middle Eastern Studies |
- - [https://www.ames.cam.ac.uk](https://www.ames.cam.ac.uk)
- - date_published: 2024-05-02T10:51:26.331795+00:00
-
- ## Department of Archaeology |
- - [https://www.arch.cam.ac.uk](https://www.arch.cam.ac.uk)
- - date_published: 2024-01-22T23:34:05.489313+00:00
-
- ## Department of Anglo-Saxon, Norse and Celtic
- - [http://www.asnc.cam.ac.uk](http://www.asnc.cam.ac.uk)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Log in to the site | Moodle
- - [https://www.assessment.vle.cam.ac.uk](https://www.assessment.vle.cam.ac.uk)
- - date_published: 2024-06-17T17:29:08.488870+00:00
-
- ## DAMTP Atmosphere-Ocean Dynamics Group | Atmosphere-Ocean Dynamics Group
- - [http://www.atm.damtp.cam.ac.uk](http://www.atm.damtp.cam.ac.uk)
- - date_published: 2024-06-30T08:33:18+00:00
-
- ## Bennett Institute for Public Policy at the University of Cambridge
- - [https://www.bennettinstitute.cam.ac.uk](https://www.bennettinstitute.cam.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## School of the Biological Sciences |
- - [https://www.bio.cam.ac.uk](https://www.bio.cam.ac.uk)
- - date_published: 2024-06-17T17:09:32+00:00
-
- ## Department of Biochemistry |
- - [http://www.bioc.cam.ac.uk](http://www.bioc.cam.ac.uk)
- - date_published: 2024-09-16T14:39:21+00:00
-
- ## Faculty of Biology |
- - [https://www.biology.cam.ac.uk](https://www.biology.cam.ac.uk)
- - date_published: 2024-09-16T14:36:01+00:00
-
- ## Cambridge Centre for Data-Driven Discovery
- - [https://www.c2d3.cam.ac.uk](https://www.c2d3.cam.ac.uk)
- - date_published: 2024-10-20T03:15:56.352690+00:00
-
- ## Supporting research on African priorities :: Cambridge-Africa
- - [https://www.cambridge-africa.cam.ac.uk](https://www.cambridge-africa.cam.ac.uk)
- - date_published: 2024-10-20T04:41:13.278833+00:00
-
- ## Cambridge students | University of Cambridge
- - [https://www.cambridgestudents.cam.ac.uk](https://www.cambridgestudents.cam.ac.uk)
- - date_published: 2024-05-02T10:51:29.301628+00:00
-
- ## CamCORS Maintenance | Office of Intercollegiate Services
- - [http://www.camcors.cam.ac.uk](http://www.camcors.cam.ac.uk)
- - date_published: 2024-06-17T16:31:45+00:00
-
- ## Cambridge Admissions Office |
- - [http://www.cao.cam.ac.uk](http://www.cao.cam.ac.uk)
- - date_published: 2024-06-17T17:29:42.212652+00:00
-
- ## Advancing Structural Science  | CCDC
- - [https://www.ccdc.cam.ac.uk](https://www.ccdc.cam.ac.uk)
- - date_published: 2024-12-15T04:44:25+00:00
-
- ## Cambridge Centre for Teaching and Learning |
- - [https://www.cctl.cam.ac.uk](https://www.cctl.cam.ac.uk)
- - date_published: 2024-06-30T08:05:56+00:00
-
- ## Yusuf Hamied Department of Chemistry |
- - [https://www.ch.cam.ac.uk](https://www.ch.cam.ac.uk)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Homepage | Christs College Cambridge
- - [https://www.christs.cam.ac.uk](https://www.christs.cam.ac.uk)
- - date_published: 2024-05-06T15:13:17.540385+00:00
-
- ## Homepage - Churchill College
- - [https://www.chu.cam.ac.uk](https://www.chu.cam.ac.uk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Cambridge Institute for Sustainability Leadership (CISL) |
- - [https://www.cisl.cam.ac.uk](https://www.cisl.cam.ac.uk)
- - date_published: 2024-06-17T16:40:00+00:00
-
- ## Clare College - University of Cambridge
- - [https://www.clare.cam.ac.uk](https://www.clare.cam.ac.uk)
- - date_published: 2024-10-20T03:20:22.652377+00:00
-
- ## Home - Clare Hall
- - [https://www.clarehall.cam.ac.uk](https://www.clarehall.cam.ac.uk)
- - date_published: 2024-10-20T03:20:52.457016+00:00
-
- ## Department of Computer Science and Technology |
- - [https://www.cl.cam.ac.uk](https://www.cl.cam.ac.uk)
- - date_published: 2023-10-25T22:48:31.027561+00:00
-
- ## Index | Centre for Mathematical Sciences
- - [http://www.cms.cam.ac.uk](http://www.cms.cam.ac.uk)
- - date_published: 2024-06-30T05:12:04+00:00
-
- ## Communications | University of Cambridge
- - [https://www.communications.cam.ac.uk](https://www.communications.cam.ac.uk)
- - date_published: 2024-06-17T17:00:08+00:00
-
- ## Conservation Research Institute |
- - [https://www.conservation.cam.ac.uk](https://www.conservation.cam.ac.uk)
- - date_published: 2024-06-17T16:48:05+00:00
-
- ## Get support | Student Support
- - [https://www.counselling.cam.ac.uk](https://www.counselling.cam.ac.uk)
- - date_published: 2024-06-17T17:27:29+00:00
-
- ## Centre for Research in the Arts, Social Sciences and Humanities
- - [https://www.crassh.cam.ac.uk](https://www.crassh.cam.ac.uk)
- - date_published: 2021-06-07T15:30:52+00:00
-
- ## Institute of Criminology |
- - [http://www.crim.cam.ac.uk](http://www.crim.cam.ac.uk)
- - date_published: 2024-06-17T16:53:26+00:00
-
- ## Department of Computer Science and Technology |
- - [https://www.cst.cam.ac.uk](https://www.cst.cam.ac.uk)
- - date_published: 2023-11-17T13:27:14.224987+00:00
-
- ## DAMTP | Department of Applied Mathematics and Theoretical Physics
- - [https://www.damtp.cam.ac.uk](https://www.damtp.cam.ac.uk)
- - date_published: 2024-01-29T15:52:36.727698+00:00
-
- ## Research Data Management |
- - [http://www.data.cam.ac.uk](http://www.data.cam.ac.uk)
- - date_published: 2024-06-17T17:37:20+00:00
-
- ## Centre of Development Studies |
- - [https://www.devstudies.cam.ac.uk](https://www.devstudies.cam.ac.uk)
- - date_published: 2024-06-17T17:12:58+00:00
-
- ## The Accessibility & Disability Resource Centre
- - [https://www.disability.admin.cam.ac.uk](https://www.disability.admin.cam.ac.uk)
- - date_published: 2024-05-02T10:52:08.800605+00:00
-
- ## Overview - Hostmaster
- - [https://www.dns.cam.ac.uk](https://www.dns.cam.ac.uk)
- - date_published: 2023-03-01T20:16:31+00:00
-
- ## Apollo :: Home
- - [http://www.dspace.cam.ac.uk](http://www.dspace.cam.ac.uk)
- - date_published: 2024-09-11T16:49:20.123361+00:00
-
- ## Faculty of Education
- - [https://www.educ.cam.ac.uk](https://www.educ.cam.ac.uk)
- - date_published: 2024-05-02T10:51:39.200585+00:00
-
- ## Estates Division |
- - [http://www.em.admin.cam.ac.uk](http://www.em.admin.cam.ac.uk)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home | Emmanuel College, Cambridge
- - [https://www.emma.cam.ac.uk](https://www.emma.cam.ac.uk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## The Faculty of English
- - [https://www.english.cam.ac.uk](https://www.english.cam.ac.uk)
- - date_published: 2024-05-12T05:47:02.596662+00:00
-
- ## Cambridge Enterprise – knowledge transfer & research impact
- - [https://www.enterprise.cam.ac.uk](https://www.enterprise.cam.ac.uk)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Sustainability |
- - [https://www.environment.admin.cam.ac.uk](https://www.environment.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:35:12+00:00
-
- ## Executive and professional education
- - [https://www.epe.admin.cam.ac.uk](https://www.epe.admin.cam.ac.uk)
- - date_published: 2024-05-02T10:51:55.369459+00:00
-
- ## Equality, Diversity & Inclusion |
- - [https://www.equality.admin.cam.ac.uk](https://www.equality.admin.cam.ac.uk)
- - date_published: 2024-05-02T10:51:57.553621+00:00
- - tags: ['dei']
-
- ## Cambridge Account - Loading Session Information
- - [http://www.equipment.admin.cam.ac.uk](http://www.equipment.admin.cam.ac.uk)
- - date_published: 2024-09-16T14:46:26.898922+00:00
-
- ## Home | Equipment Sharing
- - [https://www.equipment-sharing.cam.ac.uk](https://www.equipment-sharing.cam.ac.uk)
- - date_published: 2024-06-15T07:13:16+00:00
-
- ## Department of Earth Sciences |
- - [http://www.esc.cam.ac.uk](http://www.esc.cam.ac.uk)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Finance Division |
- - [https://www.finance.admin.cam.ac.uk](https://www.finance.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:35:11.873375+00:00
-
- ## Foundation Year | University of Cambridge
- - [https://www.foundationyear.cam.ac.uk](https://www.foundationyear.cam.ac.uk)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Department of Genetics |
- - [http://www.gen.cam.ac.uk](http://www.gen.cam.ac.uk)
- - date_published: 2024-09-16T13:53:53+00:00
-
- ## Department of Geography, Cambridge
- - [https://www.geog.cam.ac.uk](https://www.geog.cam.ac.uk)
- - date_published: 2024-07-03T12:49:28.031448+00:00
-
- ## Cambridge Global Food Security | An Interdisciplinary Research Centre at the University of Cambridge
- - [https://www.globalfood.cam.ac.uk](https://www.globalfood.cam.ac.uk)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Home | Governance and Compliance Division
- - [https://www.governanceandcompliance.admin.cam.ac.uk](https://www.governanceandcompliance.admin.cam.ac.uk)
- - date_published: 2024-05-02T10:51:36.380031+00:00
-
- ## University governance
- - [https://www.governance.cam.ac.uk](https://www.governance.cam.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Postgraduate Study | University of Cambridge
- - [https://www.graduate.study.cam.ac.uk](https://www.graduate.study.cam.ac.uk)
- - date_published: 2024-06-17T17:27:02+00:00
-
- ## GROGGS - General Purpose Reverse-Ordered Gossip Gathering System
- - [http://www.groggs.group.cam.ac.uk](http://www.groggs.group.cam.ac.uk)
- - date_published: 2020-08-25T08:43:56+00:00
-
- ## Cambridge Heritage Research Centre |
- - [https://www.heritage.arch.cam.ac.uk](https://www.heritage.arch.cam.ac.uk)
- - date_published: 2024-05-02T10:50:46.191867+00:00
-
- ## Research Computing Services | Research Computing Services
- - [https://www.hpc.cam.ac.uk](https://www.hpc.cam.ac.uk)
- - date_published: 2024-05-02T10:51:00.382757+00:00
-
- ## Department of History and Philosophy of Science |
- - [http://www.hps.cam.ac.uk](http://www.hps.cam.ac.uk)
- - date_published: 2024-06-24T09:19:47+00:00
-
- ## Human Resources | University of Cambridge
- - [http://www.hr.admin.cam.ac.uk](http://www.hr.admin.cam.ac.uk)
- - date_published: 2024-06-17T16:42:25+00:00
-
- ## HR Systems |
- - [http://www.hrsystems.admin.cam.ac.uk](http://www.hrsystems.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:35:20+00:00
-
- ## Health, Safety & Regulated Facilities |
- - [https://www.hsrf.admin.cam.ac.uk](https://www.hsrf.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:20:40+00:00
-
- ## Hughes Hall - College of the University of Cambridge
- - [https://www.hughes.cam.ac.uk](https://www.hughes.cam.ac.uk)
- - date_published: 2024-10-20T03:20:00.688669+00:00
-
- ## Institute of Continuing Education (ICE) |
- - [https://www.ice.cam.ac.uk](https://www.ice.cam.ac.uk)
- - date_published: 2024-05-02T10:51:34.063812+00:00
-
- ## Institute for Manufacturing (IfM)
- - [https://www.ifm.eng.cam.ac.uk](https://www.ifm.eng.cam.ac.uk)
- - date_published: 2024-10-20T03:22:30.364681+00:00
-
- ## Cambridge Infectious Diseases | An Interdisciplinary Research Centre at the University of Cambridge
- - [https://www.infectiousdisease.cam.ac.uk](https://www.infectiousdisease.cam.ac.uk)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Information Compliance |
- - [https://www.information-compliance.admin.cam.ac.uk](https://www.information-compliance.admin.cam.ac.uk)
- - date_published: 2024-05-02T10:51:11.507182+00:00
-
- ## International Students |
- - [https://www.internationalstudents.cam.ac.uk](https://www.internationalstudents.cam.ac.uk)
- - date_published: 2024-05-02T10:51:47.234923+00:00
-
- ## Home | Cambridge Librarians
- - [https://www.intranet.lib.cam.ac.uk](https://www.intranet.lib.cam.ac.uk)
- - date_published: 2024-05-02T10:52:11.304248+00:00
-
- ## Browse help by service category | IT Help and Support
- - [http://www.itservices.cam.ac.uk](http://www.itservices.cam.ac.uk)
- - date_published: 2024-06-17T17:28:24+00:00
-
- ## Job Opportunities - University of Cambridge
- - [https://www.jobs.cam.ac.uk](https://www.jobs.cam.ac.uk)
- - date_published: 2024-05-02T10:51:52.782985+00:00
-
- ## Homepage | Kettle&#039;s Yard
- - [https://www.kettlesyard.cam.ac.uk](https://www.kettlesyard.cam.ac.uk)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Welcome to King's College
- - [http://www.kings.cam.ac.uk](http://www.kings.cam.ac.uk)
- - date_published: 2024-06-17T11:17:59+00:00
-
- ## Homepage | Department of Land Economy
- - [https://www.landecon.cam.ac.uk](https://www.landecon.cam.ac.uk)
- - date_published: 2024-06-17T17:28:49.678915+00:00
-
- ## Faculty of Law | University of Cambridge
- - [http://www.law.cam.ac.uk](http://www.law.cam.ac.uk)
- - date_published: 2024-06-17T10:16:47+00:00
-
- ## Legal Services Division |
- - [https://www.legal.admin.cam.ac.uk](https://www.legal.admin.cam.ac.uk)
- - date_published: 2024-06-17T16:50:10+00:00
-
- ## Cambridge University Library |
- - [https://www.lib.cam.ac.uk](https://www.lib.cam.ac.uk)
- - date_published: 2023-12-20T23:39:54.152345+00:00
-
- ## Cambridge Libraries |
- - [https://www.libraries.cam.ac.uk](https://www.libraries.cam.ac.uk)
- - date_published: 2024-05-02T10:51:40.978798+00:00
-
- ## Index | Chemistry Library
- - [https://www-library.ch.cam.ac.uk](https://www-library.ch.cam.ac.uk)
- - date_published: 2024-06-15T05:23:08+00:00
-
- ## Raven login
- - [https://www.lookup.cam.ac.uk](https://www.lookup.cam.ac.uk)
- - date_published: 2024-06-17T17:35:06.075925+00:00
-
- ## Welcome to Mathematics in Cambridge | Faculty of Mathematics
- - [https://www.maths.cam.ac.uk](https://www.maths.cam.ac.uk)
- - date_published: 2024-05-02T10:52:01.723310+00:00
-
- ## Maxwell Centre | University of Cambridge
- - [https://www.maxwell.cam.ac.uk](https://www.maxwell.cam.ac.uk)
- - date_published: 2024-03-17T00:00:00+00:00
-
- ## McDonald Institute for Archaeological Research | Department of Archaeology
- - [http://www.mcdonald.cam.ac.uk](http://www.mcdonald.cam.ac.uk)
- - date_published: 2024-06-24T09:48:08+00:00
-
- ## Department of Materials Science & Metallurgy |
- - [http://www.msm.cam.ac.uk](http://www.msm.cam.ac.uk)
- - date_published: 2024-09-16T14:47:33.830358+00:00
-
- ## Museum of Zoology |
- - [https://www.museum.zoo.cam.ac.uk](https://www.museum.zoo.cam.ac.uk)
- - date_published: 2024-06-17T05:29:52+00:00
-
- ## Natural Sciences Tripos |
- - [https://www.natsci.tripos.cam.ac.uk](https://www.natsci.tripos.cam.ac.uk)
- - date_published: 2024-06-15T06:47:54+00:00
-
- ## Isaac Newton Trust |
- - [https://www.newtontrust.cam.ac.uk](https://www.newtontrust.cam.ac.uk)
- - date_published: 2024-06-17T17:20:31+00:00
-
- ## Office of Intercollegiate Services |
- - [https://www.ois.cam.ac.uk](https://www.ois.cam.ac.uk)
- - date_published: 2024-06-17T17:25:51+00:00
-
- ## Open Access |
- - [https://www.openaccess.cam.ac.uk](https://www.openaccess.cam.ac.uk)
- - date_published: 2024-06-17T16:41:16+00:00
-
- ## Department of Pathology |
- - [http://www.path.cam.ac.uk](http://www.path.cam.ac.uk)
- - date_published: 2024-09-16T14:33:02+00:00
-
- ## Department of Physiology, Development and Neuroscience |
- - [http://www.pdn.cam.ac.uk](http://www.pdn.cam.ac.uk)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## Pensions |
- - [http://www.pensions.admin.cam.ac.uk](http://www.pensions.admin.cam.ac.uk)
- - date_published: 2024-06-17T16:57:26+00:00
-
- ## Department of Pharmacology |
- - [http://www.phar.cam.ac.uk](http://www.phar.cam.ac.uk)
- - date_published: 2024-09-16T14:29:57+00:00
-
- ## Support Cambridge
- - [https://www.philanthropy.cam.ac.uk](https://www.philanthropy.cam.ac.uk)
- - date_published: 2024-05-02T10:51:17.721659+00:00
-
- ## Telecoms Office | University Information Services
- - [https://www.phone.cam.ac.uk](https://www.phone.cam.ac.uk)
- - date_published: 2024-06-17T17:28:34+00:00
-
- ## Department of Physics | The Cavendish Laboratory
- - [http://www.phy.cam.ac.uk](http://www.phy.cam.ac.uk)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Cambridge Centre for Physical Biology |
- - [https://www.physbiol.cam.ac.uk](https://www.physbiol.cam.ac.uk)
- - date_published: 2024-06-17T17:19:27+00:00
-
- ## Plagiarism and Academic Misconduct |
- - [https://www.plagiarism.admin.cam.ac.uk](https://www.plagiarism.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:08:39+00:00
-
- ## Department of Plant Sciences |
- - [https://www.plantsci.cam.ac.uk](https://www.plantsci.cam.ac.uk)
- - date_published: 2024-06-17T17:38:23+00:00
-
- ## Plants @ Cambridge |
- - [https://www.plants.hub.cam.ac.uk](https://www.plants.hub.cam.ac.uk)
- - date_published: 2024-06-17T17:38:16+00:00
-
- ## Department of Politics and International Studies (POLIS) |
- - [https://www.polis.cam.ac.uk](https://www.polis.cam.ac.uk)
- - date_published: 2024-07-12T08:56:04+00:00
-
- ## Postgraduate Study | University of Cambridge
- - [https://www.postgraduate.study.cam.ac.uk](https://www.postgraduate.study.cam.ac.uk)
- - date_published: 2024-05-02T10:51:05.096603+00:00
-
- ## Personal and Professional Development |
- - [http://www.ppd.admin.cam.ac.uk](http://www.ppd.admin.cam.ac.uk)
- - date_published: 2024-06-17T16:43:46+00:00
-
- ## Prevent Guidance |
- - [http://www.prevent.admin.cam.ac.uk](http://www.prevent.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:13:51+00:00
-
- ## Department of Psychology |
- - [http://www.psychol.cam.ac.uk](http://www.psychol.cam.ac.uk)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Race Equality at Cambridge |
- - [https://www.race-equality.admin.cam.ac.uk](https://www.race-equality.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:38:04+00:00
-
- ## Recruitment |
- - [https://www.recruitment.admin.cam.ac.uk](https://www.recruitment.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:35:14+00:00
-
- ## Research Excellence Framework |
- - [https://www.ref.admin.cam.ac.uk](https://www.ref.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:37:19+00:00
-
- ## Home | Governance and Compliance Division
- - [https://www.registrarysoffice.admin.cam.ac.uk](https://www.registrarysoffice.admin.cam.ac.uk)
- - date_published: 2024-05-02T10:51:45.411006+00:00
-
- ## Cambridge University Reporter |
- - [https://www.reporter.admin.cam.ac.uk](https://www.reporter.admin.cam.ac.uk)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Apollo :: Home
- - [https://www.repository.cam.ac.uk](https://www.repository.cam.ac.uk)
- - date_published: 2024-05-02T10:52:15.022165+00:00
-
- ## Research Information |
- - [https://www.research-information.admin.cam.ac.uk](https://www.research-information.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:14:05+00:00
-
- ## Research Integrity |
- - [http://www.research-integrity.admin.cam.ac.uk](http://www.research-integrity.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:12:30+00:00
-
- ## Research Operations Office |
- - [https://www.research-operations.admin.cam.ac.uk](https://www.research-operations.admin.cam.ac.uk)
- - date_published: 2024-05-02T10:51:50.158678+00:00
-
- ## Research Strategy Office |
- - [https://www.research-strategy.admin.cam.ac.uk](https://www.research-strategy.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:14:05+00:00
-
- ## Safety Office |
- - [http://www.safety.admin.cam.ac.uk](http://www.safety.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:35:01+00:00
-
- ## Signal Processing and Communications Laboratory
- - [https://www-sigproc.eng.cam.ac.uk](https://www-sigproc.eng.cam.ac.uk)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Sainsbury Laboratory |
- - [https://www.slcu.cam.ac.uk](https://www.slcu.cam.ac.uk)
- - date_published: 2024-05-02T10:51:59.445457+00:00
-
- ## SPACE: Supporting Parents and Carers @ Cambridge |
- - [https://www.space.admin.cam.ac.uk](https://www.space.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:38:03+00:00
-
- ## Sport at Cambridge |
- - [https://www.sport.cam.ac.uk](https://www.sport.cam.ac.uk)
- - date_published: 2024-05-02T10:51:16.107756+00:00
-
- ## For staff
- - [https://www.staff.admin.cam.ac.uk](https://www.staff.admin.cam.ac.uk)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Student Complaints |
- - [https://www.studentcomplaints.admin.cam.ac.uk](https://www.studentcomplaints.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:25:35+00:00
-
- ## Search - Postgraduate Funding Search
- - [http://www.student-funding.cam.ac.uk](http://www.student-funding.cam.ac.uk)
- - date_published: 2024-06-17T17:29:26.684352+00:00
-
- ## Student Registry | University of Cambridge
- - [https://www.student-registry.admin.cam.ac.uk](https://www.student-registry.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:36:12+00:00
-
- ## Student Support | University of Cambridge
- - [https://www.studentsupport.cam.ac.uk](https://www.studentsupport.cam.ac.uk)
- - date_published: 2024-06-17T17:36:14+00:00
-
- ## Study at Cambridge
- - [https://www.study.cam.ac.uk](https://www.study.cam.ac.uk)
- - date_published: 2024-05-02T10:50:47.933025+00:00
-
- ## TCM Group
- - [https://www.tcm.phy.cam.ac.uk](https://www.tcm.phy.cam.ac.uk)
- - date_published: 2024-10-20T03:25:35.821185+00:00
-
- ## The Cambridge Student
- - [https://www.tcs.cam.ac.uk](https://www.tcs.cam.ac.uk)
- - date_published: 2024-10-20T13:13:51.109386+00:00
-
- ## University Information Services |
- - [https://www.uis.cam.ac.uk](https://www.uis.cam.ac.uk)
- - date_published: 2024-06-17T16:50:10+00:00
-
- ## Cambridge University Libraries Intranet | Intranet for Cambridge University Libraries
- - [https://www.ul.intranet.lib.cam.ac.uk](https://www.ul.intranet.lib.cam.ac.uk)
- - date_published: 2024-06-17T17:47:07+00:00
-
- ## Undergraduate Study | University of Cambridge
- - [https://www.undergraduate.study.cam.ac.uk](https://www.undergraduate.study.cam.ac.uk)
- - date_published: 2024-05-02T10:51:09.990385+00:00
-
- ## Vice-Chancellor
- - [http://www.v-c.admin.cam.ac.uk](http://www.v-c.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:23:35+00:00
-
- ## Virtual tour | University of Cambridge
- - [https://www.virtualtour.study.cam.ac.uk](https://www.virtualtour.study.cam.ac.uk)
- - date_published: 2022-08-03T09:51:57+00:00
-
- ## Log in to the site | Moodle
- - [https://www.vle.cam.ac.uk](https://www.vle.cam.ac.uk)
- - date_published: 2024-05-02T10:51:53.990318+00:00
-
- ## Wellbeing |
- - [https://www.wellbeing.admin.cam.ac.uk](https://www.wellbeing.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:29:56+00:00
-
- ## Festival of Wellbeing | University of Cambridge
- - [http://www.wellfest.admin.cam.ac.uk](http://www.wellfest.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:32:56+00:00
-
- ## Whipple Library | Department of History and Philosophy of Science
- - [https://www.whipplelib.hps.cam.ac.uk](https://www.whipplelib.hps.cam.ac.uk)
- - date_published: 2024-06-19T16:34:22+00:00
-
- ## Sign in to your account
- - [https://www.wireless.cam.ac.uk](https://www.wireless.cam.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Womens' Campaign
- - [http://www.womens.cusu.cam.ac.uk](http://www.womens.cusu.cam.ac.uk)
- - date_published: 2024-06-17T17:37:40.748841+00:00
-
- ## The power to change our world - Cambridge Open Zettascale Lab
- - [https://www.zettascale.hpc.cam.ac.uk](https://www.zettascale.hpc.cam.ac.uk)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Department of Zoology |
- - [http://www.zoo.cam.ac.uk](http://www.zoo.cam.ac.uk)
- - date_published: 2024-09-16T14:37:34+00:00
-
- ## Login - Unit4 Business World
- - [https://x5.admin.cam.ac.uk](https://x5.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:37:25.708135+00:00
-
- ## CCCU Blogs
- - [https://blogs.canterbury.ac.uk](https://blogs.canterbury.ac.uk)
- - date_published: 2024-10-19T10:33:33.071450+00:00
-
- ## Home
- - [https://canterbury.ac.uk](https://canterbury.ac.uk)
- - date_published: 2024-10-19T10:33:35.506178+00:00
-
- ## A destination of learning for East Kent | Canterbury College
- - [https://www.canterburycollege.ac.uk](https://www.canterburycollege.ac.uk)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Capital City College Group - London's Largest FE College Group
- - [https://www.capitalccg.ac.uk](https://www.capitalccg.ac.uk)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Welcome to Cardiff Blogs
- - [https://blogs.cardiff.ac.uk](https://blogs.cardiff.ac.uk)
- - date_published: 2024-05-10T05:54:58.840125+00:00
-
- ## Cardiff University
- - [https://cardiff.ac.uk](https://cardiff.ac.uk)
- - date_published: 2024-07-10T07:20:54.218366+00:00
-
- ## Intranet
- - [https://intranet.cardiff.ac.uk](https://intranet.cardiff.ac.uk)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## -ORCA
- - [https://orca.cardiff.ac.uk](https://orca.cardiff.ac.uk)
- - date_published: 2024-07-12T18:23:41.449720+00:00
-
- ## People - People - Cardiff University
- - [https://profiles.cardiff.ac.uk](https://profiles.cardiff.ac.uk)
- - date_published: 2024-05-06T23:49:49.644796+00:00
-
- ## Home - CONVERIS Research Information System by Thomson Reuters: - Converis Standard Config
- - [https://research.cardiff.ac.uk](https://research.cardiff.ac.uk)
- - date_published: 2024-05-10T05:54:57.256794+00:00
-
- ## Cardiff University Status
- - [https://status.cardiff.ac.uk](https://status.cardiff.ac.uk)
- - date_published: 2024-07-12T18:23:48.249062+00:00
-
- ## British Cartoon Archive
- - [http://www.cartoons.ac.uk](http://www.cartoons.ac.uk)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## CCAP
- - [https://www.ccap.ac.uk](https://www.ccap.ac.uk)
- - date_published: 2024-07-08T11:24:34.851373+00:00
-
- ## Welcome - CECAN
- - [https://www.cecan.ac.uk](https://www.cecan.ac.uk)
- - date_published: 2024-12-21T14:40:47+00:00
-
- ## | The CEDA Archive
- - [https://archive.ceda.ac.uk](https://archive.ceda.ac.uk)
- - date_published: 2023-11-10T15:49:58+00:00
-
- ## Welcome to CEDA!
- - [http://www.ceda.ac.uk](http://www.ceda.ac.uk)
- - date_published: 2024-01-06T00:00:00+00:00
-
- ## UK Centre for Ecology & Hydrology
- - [https://ceh.ac.uk](https://ceh.ac.uk)
- - date_published: 2024-10-17T00:37:46+00:00
-
- ## Environmental Information Platform — UKCEH Environmental Information Platform
- - [https://eip.ceh.ac.uk](https://eip.ceh.ac.uk)
- - date_published: 2024-05-02T10:52:17.228899+00:00
-
- ## Loading...
- - [https://jira.ceh.ac.uk](https://jira.ceh.ac.uk)
- - date_published: 2024-06-17T17:47:28.402216+00:00
-
- ## Illustration Archive
- - [http://illustrationarchive.cf.ac.uk](http://illustrationarchive.cf.ac.uk)
- - date_published: 2024-10-19T11:49:04.974537+00:00
-
- ## -ORCA
- - [http://orca.cf.ac.uk](http://orca.cf.ac.uk)
- - date_published: 2024-06-26T14:13:28.068869+00:00
-
- ## -ORCA
- - [https://orca-mwe.cf.ac.uk](https://orca-mwe.cf.ac.uk)
- - date_published: 2024-09-13T18:09:44.309223+00:00
-
- ## Cardiff University
- - [https://shrec19.cs.cf.ac.uk](https://shrec19.cs.cf.ac.uk)
- - date_published: 2018-10-05T09:14:01+00:00
-
- ## Pages supplied by users
- - [https://users.cs.cf.ac.uk](https://users.cs.cf.ac.uk)
- - date_published: 2024-06-22T07:29:57.581293+00:00
-
- ## UK Centre for Greening Finance and Investment (CGFI)
- - [https://www.cgfi.ac.uk](https://www.cgfi.ac.uk)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## CHASE Doctoral Training Partnership
- - [http://chase.ac.uk](http://chase.ac.uk)
- - date_published: 2024-07-10T11:17:52.160185+00:00
-
- ## Home | University of Chester
- - [https://chester.ac.uk](https://chester.ac.uk)
- - date_published: 2024-05-02T10:52:30.613936+00:00
-
- ## Festival of Ideas – Chester's Festival of Ideas
- - [https://festivalofideas.chester.ac.uk](https://festivalofideas.chester.ac.uk)
- - date_published: 2024-06-17T05:31:44.238368+00:00
-
- ## University of Chester Sign In
- - [https://portal.chester.ac.uk](https://portal.chester.ac.uk)
- - date_published: 2024-05-02T10:52:26.062020+00:00
-
- ## Unacceptable Behaviours - Report a Concern
- - [https://safetynet.chester.ac.uk](https://safetynet.chester.ac.uk)
- - date_published: 2024-10-17T06:34:54.132620+00:00
-
- ## University of Chester
- - [https://www1.chester.ac.uk](https://www1.chester.ac.uk)
- - date_published: 2024-02-24T18:06:09.272193+00:00
-
- ## The Centre for Inclusive Trade Policy Home Page | CITP
- - [https://citp.ac.uk](https://citp.ac.uk)
- - date_published: 2024-10-20T06:34:16.182233+00:00
-
- ## Welcome to Bayes Business School London | Bayes Business School
- - [http://bayes.city.ac.uk](http://bayes.city.ac.uk)
- - date_published: 2024-10-30T12:52:04.177701+00:00
-
- ## City Blogs – Blog Network
- - [https://blogs.city.ac.uk](https://blogs.city.ac.uk)
- - date_published: 2024-06-17T17:18:28+00:00
-
- ## CareersHub Login
- - [https://careershub.city.ac.uk](https://careershub.city.ac.uk)
- - date_published: 2024-06-17T17:48:04.467792+00:00
-
- ## City, University of London | City, University of London
- - [http://city.ac.uk](http://city.ac.uk)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## | Connect - City, University of London
- - [https://connect.city.ac.uk](https://connect.city.ac.uk)
- - date_published: 2024-10-20T03:37:36.295325+00:00
-
- ## Sign in to Outlook
- - [https://email.city.ac.uk](https://email.city.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## City - Employers services
- - [https://employers.careershub.city.ac.uk](https://employers.careershub.city.ac.uk)
- - date_published: 2024-10-20T03:38:34.864359+00:00
-
- ## City, University of London Online Store
- - [https://estore.city.ac.uk](https://estore.city.ac.uk)
- - date_published: 2024-05-02T10:52:36.962992+00:00
-
- ## Staff Intranet Search Results Page | City University London
- - [https://intranet.city.ac.uk](https://intranet.city.ac.uk)
- - date_published: 2024-06-17T17:48:29.120038+00:00
-
- ## Ask Us - Ask Us
- - [https://libanswers.city.ac.uk](https://libanswers.city.ac.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Library bookings -
-        Library Services
- - [https://libcal.city.ac.uk](https://libcal.city.ac.uk)
- - date_published: 2024-06-17T17:47:50.895592+00:00
-
- ## Library Guides: Library Guides Home Page: Library service guides and subject specific support
- - [https://libguides.city.ac.uk](https://libguides.city.ac.uk)
- - date_published: 2024-06-17T17:48:18.950971+00:00
-
- ## CityLibrary Account - City, University of London
- - [https://library.city.ac.uk](https://library.city.ac.uk)
- - date_published: 2024-06-17T17:48:21.259195+00:00
-
- ## Library Services
- - [https://libraryservices.city.ac.uk](https://libraryservices.city.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Log in to the site | City, University of London Moodle
- - [https://moodle4.city.ac.uk](https://moodle4.city.ac.uk)
- - date_published: 2024-05-02T10:52:58.577694+00:00
-
- ## Sign In
- - [http://moodle.city.ac.uk](http://moodle.city.ac.uk)
- - date_published: 2024-06-17T17:48:20.005083+00:00
-
- ## City, University of London Staff Hub Login
- - [https://staffhub.city.ac.uk](https://staffhub.city.ac.uk)
- - date_published: 2024-05-02T10:52:35.345468+00:00
-
- ## Home | Student Hub
- - [https://studenthub.city.ac.uk](https://studenthub.city.ac.uk)
- - date_published: 2024-05-02T10:52:32.989891+00:00
-
- ## Home | This is City
- - [https://thisis.city.ac.uk](https://thisis.city.ac.uk)
- - date_published: 2024-05-02T10:52:49.286724+00:00
-
- ## Welcome to Bayes Business School London | Bayes Business School
- - [https://www.cass.city.ac.uk](https://www.cass.city.ac.uk)
- - date_published: 2024-10-20T03:38:30.690107+00:00
-
- ## School of Science & Technology | City, University of London
- - [http://www.soi.city.ac.uk](http://www.soi.city.ac.uk)
- - date_published: 2024-07-07T10:12:53.170690+00:00
-
- ## City, University of London - Staff Personal Pages
- - [https://www.staff.city.ac.uk](https://www.staff.city.ac.uk)
- - date_published: 2021-02-17T15:25:30+00:00
-
- ## Climate Lab Book | Open climate science
- - [https://www.climate-lab-book.ac.uk](https://www.climate-lab-book.ac.uk)
- - date_published: 2024-06-30T02:07:01+00:00
-
- ## Centre for Competition Policy
- - [http://competitionpolicy.ac.uk](http://competitionpolicy.ac.uk)
- - date_published: 2024-10-18T19:02:55.654079+00:00
-
- ## Condé Nast College of Fashion & Design, London
- - [https://www.condenastcollege.ac.uk](https://www.condenastcollege.ac.uk)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Experimental Publishing Compendium
- - [https://compendium.copim.ac.uk](https://compendium.copim.ac.uk)
- - date_published: 2024-12-15T22:18:52.511434+00:00
-
- ## Copim
- - [https://copim.ac.uk](https://copim.ac.uk)
- - date_published: 2024-07-01T11:00:01+00:00
-
- ## CORE
- - [https://blog.core.ac.uk](https://blog.core.ac.uk)
- - date_published: 2024-06-28T13:23:21.699452+00:00
-
- ## CORE – Aggregating the world’s open access research papers
- - [https://core.ac.uk](https://core.ac.uk)
- - date_published: 2024-05-06T22:49:46.045054+00:00
-
- ## CORE Discovery
- - [https://discovery.core.ac.uk](https://discovery.core.ac.uk)
- - date_published: 2024-12-11T14:41:58.216761+00:00
-
- ## OAI resolver
- - [https://oai.core.ac.uk](https://oai.core.ac.uk)
- - date_published: 2024-06-28T13:23:30.265441+00:00
-
- ## CoTide
- - [https://cotide.ac.uk](https://cotide.ac.uk)
- - date_published: 2024-06-17T19:00:09.879457+00:00
-
- ## Homepage
- - [https://courtauld.ac.uk](https://courtauld.ac.uk)
- - date_published: 2024-10-20T03:46:45.800035+00:00
-
- ## Courtauld
- - [https://photocollections.courtauld.ac.uk](https://photocollections.courtauld.ac.uk)
- - date_published: 2024-09-14T22:44:26+00:00
-
- ## Coventry University
- - [https://www.coventry.ac.uk](https://www.coventry.ac.uk)
- - date_published: 2024-06-25T21:34:13.651443+00:00
-
- ## Welcome to Cranfield University
- - [http://www.cranfield.ac.uk](http://www.cranfield.ac.uk)
- - date_published: 2024-10-30T20:33:51.732813+00:00
-
- ## CREATe – Centre for Regulation of the Creative Economy
- - [http://www.create.ac.uk](http://www.create.ac.uk)
- - date_published: 2024-09-19T00:59:27.287525+00:00
-
- ## Home
- - [https://connect.crick.ac.uk](https://connect.crick.ac.uk)
- - date_published: 2024-05-02T10:53:10.881629+00:00
-
- ## The Francis Crick Institute
- - [https://crick.ac.uk](https://crick.ac.uk)
- - date_published: 2024-10-20T03:49:10.788996+00:00
-
- ## Home - Centre for Sustainable and Circular Technologies
- - [https://csct.ac.uk](https://csct.ac.uk)
- - date_published: 2024-06-17T02:55:56+00:00
-
- ## Centre for the Study of Existential Risk
- - [https://cser.ac.uk](https://cser.ac.uk)
- - date_published: 2024-05-01T02:42:45.502827+00:00
-
- ## CUSP | Understanding Sustainable Prosperity
- - [https://cusp.ac.uk](https://cusp.ac.uk)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Darwin Correspondence Project
- - [https://www.darwinproject.ac.uk](https://www.darwinproject.ac.uk)
- - date_published: 2024-10-29T18:38:01.275116+00:00
-
- ## Jisc Equipment Data Service
- - [http://equipment.data.ac.uk](http://equipment.data.ac.uk)
- - date_published: 2024-09-16T09:13:17+00:00
-
- ## DCC | Because good research needs good data
- - [http://www.dcc.ac.uk](http://www.dcc.ac.uk)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## University of Derby - BA, BSc, FdA, FdSc, MA, MSc, PhD Degrees & Short Courses - University of Derby
- - [http://www.derby.ac.uk](http://www.derby.ac.uk)
- - date_published: 2024-07-02T22:34:35.896144+00:00
-
- ## DHI
- - [https://www.dhi.ac.uk](https://www.dhi.ac.uk)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Diamond Light Source
- - [https://www.diamond.ac.uk](https://www.diamond.ac.uk)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## LibGuides: DMU: Home
- - [https://login.library.dmu.ac.uk](https://login.library.dmu.ac.uk)
- - date_published: 2024-06-30T01:19:48.674416+00:00
-
- ## DMU - Faculty of Technology
- - [http://www.cse.dmu.ac.uk](http://www.cse.dmu.ac.uk)
- - date_published: 2021-12-15T16:30:47+00:00
-
- ## De Montfort University
- - [https://www.dmu.ac.uk](https://www.dmu.ac.uk)
- - date_published: 2024-09-12T18:50:48.201041+00:00
-
- ## DMU - Faculty of Technology
- - [http://www.tech.dmu.ac.uk](http://www.tech.dmu.ac.uk)
- - date_published: 2021-12-15T16:30:47+00:00
-
- ## Dictionaries of the Scots Language
- - [https://dsl.ac.uk](https://dsl.ac.uk)
- - date_published: 2024-08-17T23:14:28.877859+00:00
-
- ## Duncan of Jordanstone College of Art & Design
- - [http://imaging.dundee.ac.uk](http://imaging.dundee.ac.uk)
- - date_published: 2024-06-24T09:50:38+00:00
-
- ## University of Dundee
- - [http://www.dundee.ac.uk](http://www.dundee.ac.uk)
- - date_published: 2024-06-17T16:13:48+00:00
-
- ## Astronomy at Durham University - PhD and postgraduate research in astronomy, astrophysics and cosmology
- - [https://astro.dur.ac.uk](https://astro.dur.ac.uk)
- - date_published: 2024-10-16T08:39:40.230605+00:00
-
- ## Durham e-Theses - Durham e-Theses
- - [http://etheses.dur.ac.uk](http://etheses.dur.ac.uk)
- - date_published: 2024-06-17T14:09:06.107335+00:00
-
- ## Durham University
- - [https://www.dur.ac.uk](https://www.dur.ac.uk)
- - date_published: 2024-05-02T10:53:19.413220+00:00
-
- ## Algorithms and Complexity in Durham
- - [https://algorithmscomplexity.webspace.durham.ac.uk](https://algorithmscomplexity.webspace.durham.ac.uk)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## homepage
- - [https://ban-ssb.durham.ac.uk](https://ban-ssb.durham.ac.uk)
- - date_published: 2024-05-02T10:53:30.503689+00:00
-
- ## Sign in to your account
- - [https://blackboard.durham.ac.uk](https://blackboard.durham.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Durham University
- - [https://durham.ac.uk](https://durham.ac.uk)
- - date_published: 2024-06-17T17:50:31.834450+00:00
-
- ## Scientific Computing meets Data Analysis - MISCADA
- - [https://miscada.webspace.durham.ac.uk](https://miscada.webspace.durham.ac.uk)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## NESTiD – Network Engineering, Science and Theory in Durham research group
- - [https://nestid.webspace.durham.ac.uk](https://nestid.webspace.durham.ac.uk)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Scientific Computing @ Durham | Scientific Computing at Durham
- - [https://scicomp.webspace.durham.ac.uk](https://scicomp.webspace.durham.ac.uk)
- - date_published: 2024-05-10T06:33:17.461160+00:00
-
- ## The Durham Student
- - [https://studentblog.webspace.durham.ac.uk](https://studentblog.webspace.durham.ac.uk)
- - date_published: 2024-05-02T10:53:34.158788+00:00
-
- ## Home - Hardware Testbeds in Durham
- - [https://testbeds.webspace.durham.ac.uk](https://testbeds.webspace.durham.ac.uk)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Home - Dyson Institute
- - [https://dysoninstitute.ac.uk](https://dysoninstitute.ac.uk)
- - date_published: 2024-09-19T00:34:21.947508+00:00
-
- ## Home | City College Norwich
- - [http://www.easton-college.ac.uk](http://www.easton-college.ac.uk)
- - date_published: 2024-08-06T10:59:26.112677+00:00
-
- ## AlphaFold Protein Structure Database
- - [https://alphafold.ebi.ac.uk](https://alphafold.ebi.ac.uk)
- - date_published: 2024-06-13T07:24:35.396863+00:00
-
- ## EMBL-EBI homepage | EMBL-EBI
- - [https://www.ebi.ac.uk](https://www.ebi.ac.uk)
- - date_published: 2023-10-25T22:48:33.245753+00:00
-
- ## The Economics Network
- - [https://economicsnetwork.ac.uk](https://economicsnetwork.ac.uk)
- - date_published: 2024-05-09T05:22:37.281918+00:00
-
- ## Equality Charters | Advance HE
- - [https://ecu.ac.uk](https://ecu.ac.uk)
- - date_published: 2024-05-08T12:18:36.908204+00:00
-
- ## AMLaP2024
- - [http://amlap2024.ed.ac.uk](http://amlap2024.ed.ac.uk)
- - date_published: 2024-06-14T09:00:25+00:00
-
- ## blogs.ed – Staff and student blogs for our connected learning community
- - [https://blogs.ed.ac.uk](https://blogs.ed.ac.uk)
- - date_published: 2024-05-02T10:54:09.859024+00:00
-
- ## Centre for Statistics
- - [https://centreforstatistics.maths.ed.ac.uk](https://centreforstatistics.maths.ed.ac.uk)
- - date_published: 2024-05-02T10:54:10.888092+00:00
-
- ## Computing help in the School of Informatics | Documentation
- - [http://computing.help.inf.ed.ac.uk](http://computing.help.inf.ed.ac.uk)
- - date_published: 2024-08-07T15:21:34.974329+00:00
-
- ## Informatics Conferences Server
- - [http://conferences.inf.ed.ac.uk](http://conferences.inf.ed.ac.uk)
- - date_published: 2024-07-21T03:30:13.860186+00:00
-
- ## Home - Domus
- - [https://domus.ed.ac.uk](https://domus.ed.ac.uk)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## about
- - [http://edinburghnlp.inf.ed.ac.uk](http://edinburghnlp.inf.ed.ac.uk)
- - date_published: 2024-08-07T17:22:12.370196+00:00
-
- ## Edinburgh Futures Institute - Edinburgh Futures Institute
- - [https://efi.ed.ac.uk](https://efi.ed.ac.uk)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Edinburgh Mathematical Physics Group | Welcome
- - [http://empg.maths.ed.ac.uk](http://empg.maths.ed.ac.uk)
- - date_published: 2020-12-09T10:45:43+00:00
-
- ## School of Engineering
- - [https://eng.ed.ac.uk](https://eng.ed.ac.uk)
- - date_published: 2024-04-30T05:56:14.002565+00:00
-
- ## Edinburgh Global
- - [https://global.ed.ac.uk](https://global.ed.ac.uk)
- - date_published: 2024-05-02T10:53:48.023260+00:00
-
- ## Informatics Group Pages Server
- - [https://groups.inf.ed.ac.uk](https://groups.inf.ed.ac.uk)
- - date_published: 2024-06-23T08:58:55.091441+00:00
-
- ## Informatics Homepages Server
- - [https://homepages.inf.ed.ac.uk](https://homepages.inf.ed.ac.uk)
- - date_published: 2024-04-28T03:45:38.567021+00:00
-
- ## Edinburgh Impact | The University of Edinburgh - Research
- - [https://impact.ed.ac.uk](https://impact.ed.ac.uk)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Linguistics and English Language
- - [https://lel.ed.ac.uk](https://lel.ed.ac.uk)
- - date_published: 2024-04-23T23:25:28.634108+00:00
-
- ## Library & University Collections
- - [http://libraryblogs.is.ed.ac.uk](http://libraryblogs.is.ed.ac.uk)
- - date_published: 2024-10-29T18:44:30.511707+00:00
-
- ## Linguistics and English Language
- - [http://ling.ed.ac.uk](http://ling.ed.ac.uk)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Informatics Mailing Lists Server
- - [http://lists.inf.ed.ac.uk](http://lists.inf.ed.ac.uk)
- - date_published: 2024-08-07T13:27:51.269551+00:00
-
- ## 404
- - [https://mailings.ed.ac.uk](https://mailings.ed.ac.uk)
- - date_published: 2024-04-09T17:39:17.034725+00:00
-
- ## Degree finder
- - [https://postgraduate.degrees.ed.ac.uk](https://postgraduate.degrees.ed.ac.uk)
- - date_published: 2024-10-17T06:37:18.532133+00:00
-
- ## School of Philosophy, Psychology & Language Sciences
- - [https://ppls.ed.ac.uk](https://ppls.ed.ac.uk)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Proof General
- - [https://proofgeneral.inf.ed.ac.uk](https://proofgeneral.inf.ed.ac.uk)
- - date_published: 2024-05-17T02:59:18.218334+00:00
-
- ## SAFE website Login
- - [https://safe.epcc.ed.ac.uk](https://safe.epcc.ed.ac.uk)
- - date_published: 2024-06-17T17:29:17.275122+00:00
-
- ## Search results | The University of Edinburgh
- - [https://search.ed.ac.uk](https://search.ed.ac.uk)
- - date_published: 2024-05-02T10:53:50.026219+00:00
-
- ## School of Mathematics Teaching
- - [https://teaching.maths.ed.ac.uk](https://teaching.maths.ed.ac.uk)
- - date_published: 2024-05-02T10:54:02.253074+00:00
-
- ## Degree finder
- - [https://undergraduate.degrees.ed.ac.uk](https://undergraduate.degrees.ed.ac.uk)
- - date_published: 2024-10-17T06:37:22.145255+00:00
-
- ## InfWeb | InfWeb
- - [https://web.inf.ed.ac.uk](https://web.inf.ed.ac.uk)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Physics & Astronomy
- - [http://www2.ph.ed.ac.uk](http://www2.ph.ed.ac.uk)
- - date_published: 2024-06-20T14:45:50+00:00
-
- ## Accommodation, Catering and Events at The University of Edinburgh
- - [https://www.accom.ed.ac.uk](https://www.accom.ed.ac.uk)
- - date_published: 2024-05-02T10:53:49.061701+00:00
-
- ## University of Edinburgh Business School
- - [https://www.business-school.ed.ac.uk](https://www.business-school.ed.ac.uk)
- - date_published: 2024-10-14T19:32:01.636477+00:00
-
- ## Centre for the Study of Christian Origins
- - [http://www.christianorigins.div.ed.ac.uk](http://www.christianorigins.div.ed.ac.uk)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home - Current Law Students
- - [http://www.currentstudents.law.ed.ac.uk](http://www.currentstudents.law.ed.ac.uk)
- - date_published: 2024-10-18T22:23:37.232547+00:00
-
- ## The University of Edinburgh
- - [https://www.ed.ac.uk](https://www.ed.ac.uk)
- - date_published: 2024-02-26T15:42:27.741470+00:00
-
- ## Edinburgh University Students' Association
- - [https://www.eusa.ed.ac.uk](https://www.eusa.ed.ac.uk)
- - date_published: 2024-08-07T12:06:45+00:00
-
- ## Home | Edinburgh Law School
- - [http://www.law.ed.ac.uk](http://www.law.ed.ac.uk)
- - date_published: 2024-06-17T11:15:33.311374+00:00
-
- ## LFCS | InfWeb
- - [http://www.lfcs.inf.ed.ac.uk](http://www.lfcs.inf.ed.ac.uk)
- - date_published: 2024-08-18T18:21:07.084648+00:00
-
- ## School of Mathematics | School of Mathematics
- - [https://www.maths.ed.ac.uk](https://www.maths.ed.ac.uk)
- - date_published: 2023-10-25T22:48:35.495631+00:00
-
- ## Reid School of Music | Edinburgh College of Art
- - [http://www.music.ed.ac.uk](http://www.music.ed.ac.uk)
- - date_published: 2024-08-08T03:36:53.927004+00:00
-
- ## MyEd Student and Staff Portal
- - [https://www.myed.ed.ac.uk](https://www.myed.ed.ac.uk)
- - date_published: 2024-01-24T10:38:29+00:00
-
- ## Physics & Astronomy
- - [http://www.ph.ed.ac.uk](http://www.ph.ed.ac.uk)
- - date_published: 2024-06-17T17:45:05+00:00
-
- ## Log in - Your University Login - The University of Edinburgh
- - [https://www.pure.ed.ac.uk](https://www.pure.ed.ac.uk)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## University of Edinburgh Research Explorer
- - [https://www.research.ed.ac.uk](https://www.research.ed.ac.uk)
- - date_published: 2024-04-28T04:01:00.882394+00:00
-
- ## Home | Tower Block
- - [http://www.towerblock.eca.ed.ac.uk](http://www.towerblock.eca.ed.ac.uk)
- - date_published: 2024-09-14T22:47:24.448503+00:00
-
- ## Dashboard - Wiki Service
- - [https://www.wiki.ed.ac.uk](https://www.wiki.ed.ac.uk)
- - date_published: 2024-07-21T06:43:07.730143+00:00
-
- ## Environmental Information Data Centre | EIDC
- - [https://eidc.ac.uk](https://eidc.ac.uk)
- - date_published: 2024-05-02T10:52:18.599276+00:00
-
- ## Edinburgh Mathematical Society
- - [https://ems.ac.uk](https://ems.ac.uk)
- - date_published: 2024-06-17T17:51:20.737823+00:00
-
- ## The English Association | The English Association
- - [https://englishassociation.ac.uk](https://englishassociation.ac.uk)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Enhancement Themes
- - [https://www.enhancementthemes.ac.uk](https://www.enhancementthemes.ac.uk)
- - date_published: 2024-07-04T09:50:42+00:00
-
- ## Engineering and Physical Sciences Research Council (EPSRC)
- - [http://epsrc.ac.uk](http://epsrc.ac.uk)
- - date_published: 2024-07-08T17:37:09.965108+00:00
-
- ## Escape Studios | School of Animation, Games and VFX
- - [https://www.escapestudios.ac.uk](https://www.escapestudios.ac.uk)
- - date_published: 2024-10-20T03:46:35.312911+00:00
-
- ## Welcome
- - [https://www.escg.ac.uk](https://www.escg.ac.uk)
- - date_published: 2024-08-06T11:06:03.955022+00:00
-
- ## Economic and Social Research Council (ESRC)
- - [http://www.esrc.ac.uk](http://www.esrc.ac.uk)
- - date_published: 2024-10-20T06:12:46.465817+00:00
-
- ## Sixty Stories for Sixty Years
- - [https://60stories.essex.ac.uk](https://60stories.essex.ac.uk)
- - date_published: 2024-05-11T07:21:53.649032+00:00
-
- ## AnaWiki: Creating anaphorically annotated resources through Web cooperation
- - [http://anawiki.essex.ac.uk](http://anawiki.essex.ac.uk)
- - date_published: 2020-09-22T19:16:58+00:00
-
- ## Online Bachelors and Masters degree programmes
- - [https://online.essex.ac.uk](https://online.essex.ac.uk)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Untitled Document
- - [https://bart.exeter.ac.uk](https://bart.exeter.ac.uk)
- - date_published: 2010-11-18T14:26:59+00:00
-
- ## University of Exeter WordPress -
- - [http://blogs.exeter.ac.uk](http://blogs.exeter.ac.uk)
- - date_published: 2024-08-11T13:43:49.015297+00:00
-
- ## University of Exeter Business School  | University of Exeter Business School | University of Exeter
- - [https://business-school.exeter.ac.uk](https://business-school.exeter.ac.uk)
- - date_published: 2024-06-17T17:52:11.098686+00:00
-
- ## Expertise · Business School · University of Exeter
- - [https://business-school-expertise.exeter.ac.uk](https://business-school-expertise.exeter.ac.uk)
- - date_published: 2024-10-20T04:13:01.468112+00:00
-
- ## Home | University of Exeter
- - [https://exeter.ac.uk](https://exeter.ac.uk)
- - date_published: 2024-10-20T04:09:12.241076+00:00
-
- ## Fundraising | Fundraising | University of Exeter
- - [https://fundraising.exeter.ac.uk](https://fundraising.exeter.ac.uk)
- - date_published: 2024-06-17T17:51:56.389126+00:00
-
- ## Home - Green Futures Network
- - [https://gfn.exeter.ac.uk](https://gfn.exeter.ac.uk)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Homepage · GreenFutures
- - [https://greenfutures.exeter.ac.uk](https://greenfutures.exeter.ac.uk)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## College of Humanities  | Humanities | University of Exeter
- - [https://humanities.exeter.ac.uk](https://humanities.exeter.ac.uk)
- - date_published: 2023-11-03T20:30:03+00:00
-
- ## Secure Portal Redirect
- - [https://jobs.exeter.ac.uk](https://jobs.exeter.ac.uk)
- - date_published: 2023-07-06T09:19:11+00:00
-
- ## Sign in to your account
- - [https://mytimetable.exeter.ac.uk](https://mytimetable.exeter.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## News
- - [https://news.exeter.ac.uk](https://news.exeter.ac.uk)
- - date_published: 2023-11-05T21:53:50.885706+00:00
-
- ## Home
-		 · PS Connect
- - [https://psconnect.exeter.ac.uk](https://psconnect.exeter.ac.uk)
- - date_published: 2024-06-17T17:52:12.259867+00:00
-
- ## University of Exeter WordPress
- - [https://sites.exeter.ac.uk](https://sites.exeter.ac.uk)
- - date_published: 2024-10-20T04:09:57.925856+00:00
-
- ## College of Social Sciences and International Studies  | College of Social Sciences and International Studies | University of Exeter
- - [https://socialsciences.exeter.ac.uk](https://socialsciences.exeter.ac.uk)
- - date_published: 2023-09-29T17:30:12+00:00
-
- ## Sport  | Sport | University of Exeter
- - [https://sport.exeter.ac.uk](https://sport.exeter.ac.uk)
- - date_published: 2024-06-17T17:51:57.277109+00:00
-
- ## Log in to the portal
- - [https://srs.exeter.ac.uk](https://srs.exeter.ac.uk)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Secure Portal Redirect
- - [https://staff.exeter.ac.uk](https://staff.exeter.ac.uk)
- - date_published: 2020-11-18T17:20:43+00:00
-
- ## Welcome to Falmouth University
- - [https://www.falmouth.ac.uk](https://www.falmouth.ac.uk)
- - date_published: 2024-12-11T13:02:32+00:00
-
- ## Faculty of Occupational Medicine
- - [http://www.fom.ac.uk](http://www.fom.ac.uk)
- - date_published: 2024-07-03T15:35:16.030310+00:00
-
- ## Home | Forth Valley College
- - [https://www.forthvalley.ac.uk](https://www.forthvalley.ac.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## GATE Cloud: Text Analytics in the Cloud
- - [http://cloud.gate.ac.uk](http://cloud.gate.ac.uk)
- - date_published: 2024-08-07T16:58:43.695321+00:00
-
- ## GATE.ac.uk  - index.html
- - [https://gate.ac.uk](https://gate.ac.uk)
- - date_published: 2024-04-28T03:36:36.486418+00:00
-
- ## Joker Slot: Keseruan Tanpa Batas dalam Permainan Favorit
- - [http://www.genomicsnetwork.ac.uk](http://www.genomicsnetwork.ac.uk)
- - date_published: 2024-10-19T07:06:36.575958+00:00
-
- ## Welcome to Enlighten Publications - Enlighten Publications
- - [http://eprints.gla.ac.uk](http://eprints.gla.ac.uk)
- - date_published: 2024-06-18T13:07:27.083645+00:00
-
- ## Historical Thesaurus :: Home :: Welcome
- - [https://historicalthesaurus.arts.gla.ac.uk](https://historicalthesaurus.arts.gla.ac.uk)
- - date_published: 2024-05-07T15:44:57.773361+00:00
-
- ## University of Glasgow - Schools - School of Computing Science - Research - Research sections - IDA-Section - Information Retrieval
- - [http://ir.dcs.gla.ac.uk](http://ir.dcs.gla.ac.uk)
- - date_published: 2024-06-18T13:08:19.916184+00:00
-
- ## A Thesaurus of Old English :: Home :: Welcome
- - [http://oldenglishthesaurus.arts.gla.ac.uk](http://oldenglishthesaurus.arts.gla.ac.uk)
- - date_published: 2024-06-30T07:37:19.410882+00:00
-
- ## Graham Woan's Home Page
- - [http://radio.astro.gla.ac.uk](http://radio.astro.gla.ac.uk)
- - date_published: 2020-02-24T13:32:14+00:00
-
- ## University of Glasgow Events
- - [https://samoa.dcs.gla.ac.uk](https://samoa.dcs.gla.ac.uk)
- - date_published: 2024-04-28T04:06:58.154890+00:00
-
- ## University of Glasgow - MyGlasgow - Archives & Special Collections - Collections
- - [http://special.lib.gla.ac.uk](http://special.lib.gla.ac.uk)
- - date_published: 2024-06-24T09:18:05.561781+00:00
-
- ## The Terrier Team
- - [https://terrierteam.dcs.gla.ac.uk](https://terrierteam.dcs.gla.ac.uk)
- - date_published: 2024-02-28T10:17:26+00:00
-
- ## Astronomy & Astrophysics Group | University of Glasgow
- - [https://www.astro.gla.ac.uk](https://www.astro.gla.ac.uk)
- - date_published: 2023-12-19T10:03:15.681293+00:00
-
- ## University of Glasgow - Schools - School of Chemistry
- - [https://www.chem.gla.ac.uk](https://www.chem.gla.ac.uk)
- - date_published: 2024-10-19T05:49:35.019304+00:00
-
- ## The University of Glasgow, Scotland, UK. A world top 100 university
- - [http://www.gla.ac.uk](http://www.gla.ac.uk)
- - date_published: 2024-11-04T19:56:29.892248+00:00
-
- ## University of Glasgow - The Hunterian
- - [http://www.hunterian.gla.ac.uk](http://www.hunterian.gla.ac.uk)
- - date_published: 2024-06-24T09:07:04.302704+00:00
-
- ## The University of Glasgow, Scotland, UK. A world top 100 university
- - [https://glasgow.ac.uk](https://glasgow.ac.uk)
- - date_published: 2024-10-17T06:38:04.103128+00:00
-
- ## Godalming College
- - [https://www.godalming.ac.uk](https://www.godalming.ac.uk)
- - date_published: 2024-06-29T03:30:44.889214+00:00
-
- ## Sign in to your account
- - [https://learn.gold.ac.uk](https://learn.gold.ac.uk)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Welcome to the Goldsmiths Virtual Tour - Goldsmiths Virtual Tour
- - [https://virtualtours.gold.ac.uk](https://virtualtours.gold.ac.uk)
- - date_published: 2024-06-27T15:06:01+00:00
-
- ## Goldsmiths, University of London
- - [https://www.gold.ac.uk](https://www.gold.ac.uk)
- - date_published: 2024-05-06T22:11:53.527906+00:00
-
- ## University of Greenwich Journals and Working Papers
- - [https://journals.gre.ac.uk](https://journals.gre.ac.uk)
- - date_published: 2024-06-26T14:13:38.473817+00:00
-
- ## Welcome to the University of Greenwich, London
- - [http://www.gre.ac.uk](http://www.gre.ac.uk)
- - date_published: 2024-10-29T18:27:08.594596+00:00
-
- ## Gresham College
- - [https://www.gresham.ac.uk](https://www.gresham.ac.uk)
- - date_published: 2024-09-09T23:31:11.523258+00:00
-
- ## The Glasgow School of Art
- - [http://www.gsa.ac.uk](http://www.gsa.ac.uk)
- - date_published: 2024-10-21T16:39:03.560944+00:00
-
- ## Welcome to Guildhall
- - [https://www.gsmd.ac.uk](https://www.gsmd.ac.uk)
- - date_published: 2024-10-20T03:46:23.059230+00:00
-
- ## HECToR » HECToR Home Page
- - [http://www.hector.ac.uk](http://www.hector.ac.uk)
- - date_published: 2014-10-27T12:31:20+00:00
-
- ## Archive Timeline - UK Government Web Archive
- - [http://www.hefce.ac.uk](http://www.hefce.ac.uk)
- - date_published: 2024-10-17T06:33:02.749532+00:00
-
- ## HEPI: Higher Education Policy Institute
- - [https://www.hepi.ac.uk](https://www.hepi.ac.uk)
- - date_published: 2024-07-09T14:16:57.513347+00:00
-
- ## University of Hertfordshire (Research Profiles)
- - [https://researchprofiles.herts.ac.uk](https://researchprofiles.herts.ac.uk)
- - date_published: 2024-07-02T09:43:28.122516+00:00
-
- ## University of Hertfordshire
- - [https://www.herts.ac.uk](https://www.herts.ac.uk)
- - date_published: 2023-11-07T10:21:01+00:00
-
- ## Welcome to the Institute of Historical Research
- - [http://www.history.ac.uk](http://www.history.ac.uk)
- - date_published: 2024-07-09T12:36:30+00:00
-
- ## Liverpool Hope University Password Management
- - [https://shib.hope.ac.uk](https://shib.hope.ac.uk)
- - date_published: 2020-04-10T20:48:39+00:00
-
- ## Homepage - Horniman Museum and Gardens
- - [http://www.horniman.ac.uk](http://www.horniman.ac.uk)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## News - University of Huddersfield
- - [https://eprints.hud.ac.uk](https://eprints.hud.ac.uk)
- - date_published: 2024-06-30T07:41:01.937985+00:00
-
- ## University of Huddersfield
- - [https://www.hud.ac.uk](https://www.hud.ac.uk)
- - date_published: 2024-07-14T03:13:53.204141+00:00
-
- ## E.A. Milne Centre for Astrophysics
- - [http://milne-centre.wordpress.hull.ac.uk](http://milne-centre.wordpress.hull.ac.uk)
- - date_published: 2024-10-20T07:58:13.487048+00:00
-
- ## National Astronomy Meeting 2024 - NAM 24
- - [https://nam2024.hull.ac.uk](https://nam2024.hull.ac.uk)
- - date_published: 2024-06-17T19:09:19.498973+00:00
-
- ## National Astronomy Meeting 2024 - NAM 24
- - [https://nam2024.wordpress.hull.ac.uk](https://nam2024.wordpress.hull.ac.uk)
- - date_published: 2024-05-02T11:09:05.415987+00:00
-
- ## Study with us in 2024
- - [https://www.hull.ac.uk](https://www.hull.ac.uk)
- - date_published: 2024-10-20T07:58:14.778374+00:00
-
- ## E.A. Milne Centre for Astrophysics
- - [https://www.milne.hull.ac.uk](https://www.milne.hull.ac.uk)
- - date_published: 2024-06-17T19:09:21.331650+00:00
-
- ## United Kingdom
- - [https://hw.ac.uk](https://hw.ac.uk)
- - date_published: 2024-10-20T04:02:13.081795+00:00
-
- ## Mathematical and Computer Sciences
- - [http://www.macs.hw.ac.uk](http://www.macs.hw.ac.uk)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Welcome to eActivities | eActivities
- - [https://eactivities.union.ic.ac.uk](https://eactivities.union.ic.ac.uk)
- - date_published: 2024-06-17T18:03:41.478581+00:00
-
- ## EuroSys 2016
- - [http://eurosys16.doc.ic.ac.uk](http://eurosys16.doc.ic.ac.uk)
- - date_published: 2024-07-13T12:11:56.447264+00:00
-
- ## Imperial Computer Vision & Learning Lab (ICVL)
- - [http://icvl.ee.ic.ac.uk](http://icvl.ee.ic.ac.uk)
- - date_published: 2024-04-29T06:29:48.056694+00:00
-
- ## Klee Web
- - [http://klee.doc.ic.ac.uk](http://klee.doc.ic.ac.uk)
- - date_published: 2024-08-11T04:40:34.697201+00:00
-
- ## SAIL - Home
- - [https://sail.doc.ic.ac.uk](https://sail.doc.ic.ac.uk)
- - date_published: 2024-03-25T14:20:25+00:00
-
- ## Software Reliability Group
- - [https://srg.doc.ic.ac.uk](https://srg.doc.ic.ac.uk)
- - date_published: 2024-08-01T09:59:21+00:00
-
- ## SAIL - Home
- - [https://vas.doc.ic.ac.uk](https://vas.doc.ic.ac.uk)
- - date_published: 2024-03-25T14:20:25+00:00
-
- ## eVoting | Imperial College Union
- - [https://vote.union.ic.ac.uk](https://vote.union.ic.ac.uk)
- - date_published: 2024-06-17T18:03:39.844835+00:00
-
- ## Department of Computing | Department of Computing, Imperial College London
- - [http://wp.doc.ic.ac.uk](http://wp.doc.ic.ac.uk)
- - date_published: 2024-06-17T14:48:42.177112+00:00
-
- ## Department of Computing
- - [https://www.doc.ic.ac.uk](https://www.doc.ic.ac.uk)
- - date_published: 2024-05-02T10:22:26.394809+00:00
-
- ## Home
- - [http://www.ic.ac.uk](http://www.ic.ac.uk)
- - date_published: 2024-10-19T07:49:57.356737+00:00
-
- ## Homepage | ICMA Centre
- - [https://www.icmacentre.ac.uk](https://www.icmacentre.ac.uk)
- - date_published: 2024-08-18T21:07:14.596709+00:00
-
- ## ICMP Records
- - [https://idp.icmp.ac.uk](https://idp.icmp.ac.uk)
- - date_published: 2023-08-24T15:10:22+00:00
-
- ## Donate - ICR
- - [https://donate.icr.ac.uk](https://donate.icr.ac.uk)
- - date_published: 2024-09-11T09:22:01+00:00
-
- ## Donate - Institute of Cancer Research
- - [https://support.icr.ac.uk](https://support.icr.ac.uk)
- - date_published: 2024-05-02T10:54:32.914062+00:00
-
- ## The Institute of Cancer Research, London
- - [https://www.icr.ac.uk](https://www.icr.ac.uk)
- - date_published: 2023-11-03T11:36:33.556794+00:00
-
- ## Home - Institute of Development Studies
- - [https://www.ids.ac.uk](https://www.ids.ac.uk)
- - date_published: 2024-10-20T04:42:04.267618+00:00
-
- ## Imperial College London
- - [https://imperial.ac.uk](https://imperial.ac.uk)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Spiral: Home
- - [https://spiral.imperial.ac.uk](https://spiral.imperial.ac.uk)
- - date_published: 2023-10-25T22:48:39.774318+00:00
-
- ## TERMINALFOUR
- - [https://t4-cms.imperial.ac.uk](https://t4-cms.imperial.ac.uk)
- - date_published: 2024-05-02T10:55:00.203271+00:00
-
- ## Imperial College London
- - [http://www3.imperial.ac.uk](http://www3.imperial.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Imperial College London
- - [https://wwwf.imperial.ac.uk](https://wwwf.imperial.ac.uk)
- - date_published: 2024-05-02T10:54:54.525764+00:00
-
- ## Internet Archaeology - Global. Open. Free. Peer-reviewed archaeological research
- - [https://intarch.ac.uk](https://intarch.ac.uk)
- - date_published: 2023-10-25T22:48:44.581467+00:00
- - tags: ['archaeology']
-
- ## Jisc
- - [http://www.intute.ac.uk](http://www.intute.ac.uk)
- - date_published: 2024-06-28T21:09:17.506258+00:00
-
- ## Welcome to Digital Education Resource Archive (DERA) - Digital Education Resource Archive (DERA)
- - [https://dera.ioe.ac.uk](https://dera.ioe.ac.uk)
- - date_published: 2024-05-07T10:13:20.710879+00:00
-
- ## Log in | Jisc Online Surveys
- - [https://app.onlinesurveys.jisc.ac.uk](https://app.onlinesurveys.jisc.ac.uk)
- - date_published: 2024-10-20T05:07:02.974993+00:00
-
- ## Home - Archives Hub
- - [https://archiveshub.jisc.ac.uk](https://archiveshub.jisc.ac.uk)
- - date_published: 2024-10-20T05:28:10.276486+00:00
-
- ## Homepage | Jisc community
- - [https://community.jisc.ac.uk](https://community.jisc.ac.uk)
- - date_published: 2024-07-10T10:11:15.286447+00:00
-
- ## Jisc
- - [https://jisc.ac.uk](https://jisc.ac.uk)
- - date_published: 2024-07-08T16:36:43.292971+00:00
-
- ## Licence subscriptions manager
- - [https://subscriptionsmanager.jisc.ac.uk](https://subscriptionsmanager.jisc.ac.uk)
- - date_published: 2024-08-18T13:08:03.181149+00:00
-
- ## JISCMail
- - [https://www.jiscmail.ac.uk](https://www.jiscmail.ac.uk)
- - date_published: 2024-07-09T10:35:35.816952+00:00
-
- ## career-advice.jobs.ac.uk
- - [https://career-advice.jobs.ac.uk](https://career-advice.jobs.ac.uk)
- - date_published: 2024-10-18T19:11:53.462427+00:00
-
- ## Jobs | Job Search | Job Vacancies on jobs.ac.uk
- - [https://www.jobs.ac.uk](https://www.jobs.ac.uk)
- - date_published: 2024-06-17T10:59:00.008621+00:00
-
- ## JournalTOCs
- - [https://www.journaltocs.ac.uk](https://www.journaltocs.ac.uk)
- - date_published: 2024-08-18T14:43:37.042837+00:00
-
- ## King's Blogs – Blogs at King's College London
- - [http://blogs.kcl.ac.uk](http://blogs.kcl.ac.uk)
- - date_published: 2024-06-17T11:03:46.189087+00:00
-
- ## Centre for the Study of Governance & Society
- - [https://csgs.kcl.ac.uk](https://csgs.kcl.ac.uk)
- - date_published: 2017-11-21T18:03:17+00:00
-
- ## Error
- - [https://insaph.kcl.ac.uk](https://insaph.kcl.ac.uk)
- - date_published: 2024-06-24T10:09:01.070419+00:00
-
- ## Intranet Home
- - [https://internal.kcl.ac.uk](https://internal.kcl.ac.uk)
- - date_published: 2024-05-02T10:55:19.445036+00:00
-
- ## King's College London
- - [https://kcl.ac.uk](https://kcl.ac.uk)
- - date_published: 2024-05-02T10:55:13.171423+00:00
-
- ## Password resets and management | King’s IT | King’s College London
- - [http://kclpword.kcl.ac.uk](http://kclpword.kcl.ac.uk)
- - date_published: 2024-06-17T18:05:07.276447+00:00
-
- ## Sign in to your account
- - [https://keats.kcl.ac.uk](https://keats.kcl.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## King's College London
- - [https://myselection.kcl.ac.uk](https://myselection.kcl.ac.uk)
- - date_published: 2024-06-17T18:05:29.214603+00:00
-
- ## Faculty of Natural, Mathematical & Engineering Sciences | King’s College London
- - [https://nms.kcl.ac.uk](https://nms.kcl.ac.uk)
- - date_published: 2024-07-03T03:25:22.826840+00:00
-
- ## PaperCut Login for King's College London
- - [https://printing.kcl.ac.uk](https://printing.kcl.ac.uk)
- - date_published: 2024-06-17T18:05:28.358064+00:00
-
- ## Home
-		 · Student Services Online
- - [https://self-service.kcl.ac.uk](https://self-service.kcl.ac.uk)
- - date_published: 2024-05-02T10:55:15.597909+00:00
-
- ## Department of Mathematics | King’s College London
- - [http://www.mth.kcl.ac.uk](http://www.mth.kcl.ac.uk)
- - date_published: 2024-06-30T08:50:40.853111+00:00
-
- ## King Edward VI College, Stourbridge
- - [https://www.kedst.ac.uk](https://www.kedst.ac.uk)
- - date_published: 2024-10-20T01:47:03.628201+00:00
-
- ## Home
- - [https://www.keele.ac.uk](https://www.keele.ac.uk)
- - date_published: 2024-06-22T07:13:29.517136+00:00
-
- ## Blogs at Kent – Showcasing groundbreaking work at Kent
- - [https://blogs.kent.ac.uk](https://blogs.kent.ac.uk)
- - date_published: 2024-07-24T04:42:13.492242+00:00
-
- ## Jobs at the University of Kent
- - [https://jobs.kent.ac.uk](https://jobs.kent.ac.uk)
- - date_published: 2024-07-24T04:42:07.292114+00:00
-
- ## Welcome to Kent Academic Repository - Kent Academic Repository
- - [https://kar.kent.ac.uk](https://kar.kent.ac.uk)
- - date_published: 2024-06-26T21:47:16.859414+00:00
-
- ## We stand for ambition. Yours
- - [https://kent.ac.uk](https://kent.ac.uk)
- - date_published: 2024-04-29T06:47:04.840011+00:00
-
- ## Research at Kent - University of Kent
- - [https://research.kent.ac.uk](https://research.kent.ac.uk)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Sign in to your account
- - [https://staff.kent.ac.uk](https://staff.kent.ac.uk)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Home
- - [http://www.cs.kent.ac.uk](http://www.cs.kent.ac.uk)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Kingston University London - A UK-based university which features in the latest QS World University Rankings league table of the world's top universities
- - [https://www.kingston.ac.uk](https://www.kingston.ac.uk)
- - date_published: 2024-12-31T23:25:59.432040+00:00
-
- ## Kent and Medway Medical School
- - [https://kmms.ac.uk](https://kmms.ac.uk)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home - Lancaster University
- - [https://www.lancaster.ac.uk](https://www.lancaster.ac.uk)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## AuroraWatch UK · AuroraWatch UK
- - [https://aurorawatch.lancs.ac.uk](https://aurorawatch.lancs.ac.uk)
- - date_published: 2020-09-30T11:56:45+00:00
-
- ## UCREL Corpus Application Server
- - [http://corpora.lancs.ac.uk](http://corpora.lancs.ac.uk)
- - date_published: 2021-03-18T09:48:04+00:00
-
- ## ES webpages
- - [http://cres1.lancs.ac.uk](http://cres1.lancs.ac.uk)
- - date_published: 2023-11-08T17:17:23+00:00
-
- ## UCREL NLP Group
- - [http://ucrel.lancs.ac.uk](http://ucrel.lancs.ac.uk)
- - date_published: 2024-02-15T16:52:11+00:00
-
- ## Lancaster University | Just another WordPress site
- - [http://wp.lancs.ac.uk](http://wp.lancs.ac.uk)
- - date_published: 2024-07-12T16:51:36.934252+00:00
-
- ## Loughborough University
- - [https://www.lboro.ac.uk](https://www.lboro.ac.uk)
- - date_published: 2024-07-01T12:05:51+00:00
-
- ## Home
- - [https://www.lcb.ac.uk](https://www.lcb.ac.uk)
- - date_published: 2024-08-06T10:59:34.103541+00:00
-
- ## Leverhulme Centre for the Future of Intelligence: Home
- - [http://lcfi.ac.uk](http://lcfi.ac.uk)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home
- - [https://citizen.le.ac.uk](https://citizen.le.ac.uk)
- - date_published: 2024-06-16T22:51:20.290342+00:00
-
- ## A Leading UK University | University of Leicester
- - [https://le.ac.uk](https://le.ac.uk)
- - date_published: 2024-05-01T08:04:50.520357+00:00
-
- ## CONTENTdm
- - [http://specialcollections.le.ac.uk](http://specialcollections.le.ac.uk)
- - date_published: 2024-08-08T19:40:08.577853+00:00
-
- ## A Leading UK University | University of Leicester
- - [https://www2.le.ac.uk](https://www2.le.ac.uk)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## School of Computing and Mathematical Sciences | University of Leicester
- - [http://www.cs.le.ac.uk](http://www.cs.le.ac.uk)
- - date_published: 2024-12-22T00:35:05.960913+00:00
-
- ## Sign in · Learning on Screen
- - [https://login.learningonscreen.ac.uk](https://login.learningonscreen.ac.uk)
- - date_published: 2024-06-17T17:24:36.013532+00:00
-
- ## Accommodation
- - [https://accommodation.leeds.ac.uk](https://accommodation.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:51.640737+00:00
-
- ## Faculty of Arts, Humanities and Cultures
- - [https://ahc.leeds.ac.uk](https://ahc.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:04.060735+00:00
-
- ## Faculty of Biological Sciences
- - [https://biologicalsciences.leeds.ac.uk](https://biologicalsciences.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:22.940723+00:00
-
- ## Leeds University Business School
- - [https://business.leeds.ac.uk](https://business.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:16.620406+00:00
-
- ## Centre for Excellence in Language Teaching
- - [https://celt.leeds.ac.uk](https://celt.leeds.ac.uk)
- - date_published: 2024-06-17T14:09:21.825359+00:00
-
- ## Research and innovation
- - [http://chop.leeds.ac.uk](http://chop.leeds.ac.uk)
- - date_published: 2024-10-20T06:39:16.395235+00:00
-
- ## Communications and Engagement | University communications and engagement team:  find advice, approved suppliers and templates for communications
- - [https://comms.leeds.ac.uk](https://comms.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:12.681841+00:00
-
- ## University of Leeds Conferences and Events
- - [https://conferencesandevents.leeds.ac.uk](https://conferencesandevents.leeds.ac.uk)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Course Search | University of Leeds
- - [https://courses.leeds.ac.uk](https://courses.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:02.222664+00:00
-
- ## Data protection at the University
- - [https://dataprotection.leeds.ac.uk](https://dataprotection.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:21.211707+00:00
-
- ## Digital Education Systems Help | University of Leeds Digital Education Systems
- - [https://desystemshelp.leeds.ac.uk](https://desystemshelp.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:16.646857+00:00
-
- ## Faculty of Environment
- - [https://environment.leeds.ac.uk](https://environment.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:59.660078+00:00
-
- ## Faculty of Engineering and Physical Sciences
- - [https://eps.leeds.ac.uk](https://eps.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:12.006645+00:00
-
- ## Equality & Inclusion Unit (E&IU) - Equality and Inclusion Unit
- - [https://equality.leeds.ac.uk](https://equality.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:05.200596+00:00
-
- ## Faculty of Social Sciences - Site Homepage
- - [https://essl.leeds.ac.uk](https://essl.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:13.529579+00:00
-
- ## FSS Professional Support Services
- - [https://essl-staff.leeds.ac.uk](https://essl-staff.leeds.ac.uk)
- - date_published: 2024-06-17T18:09:04.710247+00:00
-
- ## Estates and Facilities - University of Leeds
- - [https://estates.leeds.ac.uk](https://estates.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:22.633344+00:00
-
- ## Resources | Library | University of Leeds
- - [https://explore.library.leeds.ac.uk](https://explore.library.leeds.ac.uk)
- - date_published: 2022-10-04T13:43:49+00:00
-
- ## Facilities Directorate - University of Leeds
- - [https://facilitiesdirectorate.leeds.ac.uk](https://facilitiesdirectorate.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:10.428209+00:00
-
- ## Forstaff main index
- - [https://forstaff.leeds.ac.uk](https://forstaff.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:06.762153+00:00
-
- ## Great Food at Leeds - University of Leeds
- - [https://gfal.leeds.ac.uk](https://gfal.leeds.ac.uk)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Human Resources  Homepage
- - [https://hr.leeds.ac.uk](https://hr.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:05.638582+00:00
-
- ## Insurance
- - [https://insurance.leeds.ac.uk](https://insurance.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:13.843897+00:00
-
- ## IT Self Service - University of Leeds IT
- - [https://it.leeds.ac.uk](https://it.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:43.242119+00:00
-
- ## Jobs at the University of Leeds
- - [https://jobs.leeds.ac.uk](https://jobs.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:58.748001+00:00
-
- ## Leeds Arts and Humanities Research Institute | Fostering a culture of interdisciplinary research across and beyond the arts and humanities
- - [https://lahri.leeds.ac.uk](https://lahri.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:59.692204+00:00
-
- ## The Language Scholar
- - [https://languagescholar.leeds.ac.uk](https://languagescholar.leeds.ac.uk)
- - date_published: 2024-06-17T14:09:04.752085+00:00
-
- ## Leeds for Life
- - [https://leedsforlife.leeds.ac.uk](https://leedsforlife.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:24.189482+00:00
-
- ## Library Homepage
- - [https://library.leeds.ac.uk](https://library.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:55.989223+00:00
-
- ## Faculty of Medicine and Health
- - [http://medhealth.leeds.ac.uk](http://medhealth.leeds.ac.uk)
- - date_published: 2024-06-17T18:09:28.298831+00:00
-
- ## Faculty of Medicine and Health
- - [https://medicinehealth.leeds.ac.uk](https://medicinehealth.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:09.175072+00:00
-
- ## Sign in to your account
- - [https://minerva.leeds.ac.uk](https://minerva.leeds.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## VideoLeeds
- - [https://mymedia.leeds.ac.uk](https://mymedia.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:53.340522+00:00
-
- ## Sign in to your account
- - [http://office365.leeds.ac.uk](http://office365.leeds.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## OD&PL University of Leeds
- - [https://peopledevelopment.leeds.ac.uk](https://peopledevelopment.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:25.652991+00:00
-
- ## Postgraduate research opportunities
- - [https://phd.leeds.ac.uk](https://phd.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:53.054043+00:00
-
- ## Blackboard Learn
- - [http://portal.leeds.ac.uk](http://portal.leeds.ac.uk)
- - date_published: 2004-06-17T18:06:43+00:00
-
- ## PRiSM - Pedagogic Research in Mathematics and Physical Sciences | University of Leeds
- - [https://prism.leeds.ac.uk](https://prism.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:58.507235+00:00
-
- ## University of Leeds :: Jadu CMS Homepage
- - [https://production2.leeds.ac.uk](https://production2.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:20.519122+00:00
-
- ## Symplectic Elements
- - [https://publications.leeds.ac.uk](https://publications.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:40.798223+00:00
-
- ## Relocate@Leeds - University of Leeds
- - [http://relocate.leeds.ac.uk](http://relocate.leeds.ac.uk)
- - date_published: 2024-10-20T05:01:35.979491+00:00
-
- ## University of Leeds : Haplo
- - [https://research.leeds.ac.uk](https://research.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:15.577884+00:00
-
- ## School of Earth and Environment
- - [https://see.leeds.ac.uk](https://see.leeds.ac.uk)
- - date_published: 2024-05-07T15:00:53.438105+00:00
-
- ## Student Education Service | University of Leeds
- - [https://ses.leeds.ac.uk](https://ses.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:45.568524+00:00
-
- ## Student Education Development (OD&PL) University of Leeds
- - [https://studenteddev.leeds.ac.uk](https://studenteddev.leeds.ac.uk)
- - date_published: 2024-10-20T05:05:43.919321+00:00
-
- ## Redirecting...
- - [https://studentservices.leeds.ac.uk](https://studentservices.leeds.ac.uk)
- - date_published: 2024-05-13T17:48:56+00:00
-
- ## Academic Life
- - [https://students.leeds.ac.uk](https://students.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:24.938110+00:00
-
- ## The Sustainability Service at the University of Leeds
- - [https://sustainability.leeds.ac.uk](https://sustainability.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:45.690291+00:00
-
- ## Virtual Tour - University of Leeds
- - [https://virtualcampustour.leeds.ac.uk](https://virtualcampustour.leeds.ac.uk)
- - date_published: 2021-11-30T09:44:51+00:00
-
- ## webprod2.leeds.ac.uk
- - [http://webprod3.leeds.ac.uk](http://webprod3.leeds.ac.uk)
- - date_published: 2011-07-08T13:36:18+00:00
-
- ## Wellbeing, Safety and Health | University of Leeds
- - [https://wsh.leeds.ac.uk](https://wsh.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:19.882909+00:00
-
- ## Home : The Astbury Centre for Structural Molecular Biology
- - [http://www.astbury.leeds.ac.uk](http://www.astbury.leeds.ac.uk)
- - date_published: 2024-06-17T18:06:29.565901+00:00
-
- ## Faculty of Biological Sciences
- - [https://www.fbs.leeds.ac.uk](https://www.fbs.leeds.ac.uk)
- - date_published: 2024-06-17T18:06:40.821847+00:00
-
- ## Health Sciences Outreach Team | Providing widening participation activities for the Faculty of Medicine and Health
- - [https://www.healthsciences.leeds.ac.uk](https://www.healthsciences.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:51.825236+00:00
-
- ## University of Leeds
- - [https://www.leeds.ac.uk](https://www.leeds.ac.uk)
- - date_published: 2023-10-25T22:48:46.915969+00:00
-
- ## Lifelong Learning Centre | University of Leeds
- - [http://www.llc.leeds.ac.uk](http://www.llc.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:34.785672+00:00
-
- ## 利兹贝克特大学中文官网
- - [https://cn.leedsbeckett.ac.uk](https://cn.leedsbeckett.ac.uk)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Leeds Beckett University
- - [https://leedsbeckett.ac.uk](https://leedsbeckett.ac.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## The Library: Welcome: Welcome
- - [https://libguides.leedsbeckett.ac.uk](https://libguides.leedsbeckett.ac.uk)
- - date_published: 2024-08-10T22:47:24.415386+00:00
-
- ## myHub Login
- - [https://myhub.leedsbeckett.ac.uk](https://myhub.leedsbeckett.ac.uk)
- - date_published: 2024-08-10T22:47:20.405078+00:00
-
- ## Blackboard Learn
- - [https://my.leedsbeckett.ac.uk](https://my.leedsbeckett.ac.uk)
- - date_published: 2004-08-10T22:47:20+00:00
-
- ## LIBF MENA Banking and Finance Education -
- - [https://mena.libf.ac.uk](https://mena.libf.ac.uk)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## LIBF: Shape Your Future with Flexible, Online Education
- - [https://www.libf.ac.uk](https://www.libf.ac.uk)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## LIMS - London Institute for Mathematical Sciences
- - [https://lims.ac.uk](https://lims.ac.uk)
- - date_published: 2024-06-30T11:06:41.645922+00:00
-
- ## Lincoln Institute for Agri-Food Technology
- - [https://agrifoodtech.blogs.lincoln.ac.uk](https://agrifoodtech.blogs.lincoln.ac.uk)
- - date_published: 2024-07-12T08:53:52+00:00
-
- ## AgriFoRwArdS Students – An insight in to our AgriFoRwArdS students
- - [https://agriforwards-students.blogs.lincoln.ac.uk](https://agriforwards-students.blogs.lincoln.ac.uk)
- - date_published: 2024-07-12T08:55:52.645808+00:00
-
- ## Lincoln Centre for Autonomous Systems
- - [https://lcas.lincoln.ac.uk](https://lcas.lincoln.ac.uk)
- - date_published: 2024-05-10T05:10:14.167700+00:00
-
- ## University of Lincoln
- - [https://lincoln.ac.uk](https://lincoln.ac.uk)
- - date_published: 2024-07-10T16:36:29+00:00
-
- ## Alumni - Alumni - University of Liverpool
- - [https://alumni.liv.ac.uk](https://alumni.liv.ac.uk)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## University of Liverpool - Computer Science -
- - [http://cgi.csc.liv.ac.uk](http://cgi.csc.liv.ac.uk)
- - date_published: 2024-08-11T22:06:44.862443+00:00
-
- ## 43rd MFCS | Liverpool, August 27-31, 2018
- - [http://mfcs2018.csc.liv.ac.uk](http://mfcs2018.csc.liv.ac.uk)
- - date_published: 2018-08-27T00:00:00+00:00
-
- ## The University of Liverpool
- - [http://www.liv.ac.uk](http://www.liv.ac.uk)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Alumni members' area landing page - The University of Liverpool
- - [https://alum.liverpool.ac.uk](https://alum.liverpool.ac.uk)
- - date_published: 2024-06-17T18:15:05.364095+00:00
-
- ## Sign In
- - [https://cachednewsfeeds.liverpool.ac.uk](https://cachednewsfeeds.liverpool.ac.uk)
- - date_published: 2024-06-17T18:09:32.189216+00:00
-
- ## Library
- - [http://libguides.liverpool.ac.uk](http://libguides.liverpool.ac.uk)
- - date_published: 2024-07-04T13:30:36.506263+00:00
-
- ## University of Liverpool News
- - [https://news.liverpool.ac.uk](https://news.liverpool.ac.uk)
- - date_published: 2024-01-06T10:10:17.822290+00:00
-
- ## Welcome - Strategic Framework 2031 - University of Liverpool
- - [https://strategy.liverpool.ac.uk](https://strategy.liverpool.ac.uk)
- - date_published: 2024-05-02T10:56:19.802704+00:00
-
- ## Student login - University of Liverpool
- - [https://student.liverpool.ac.uk](https://student.liverpool.ac.uk)
- - date_published: 2015-12-04T00:00:00+00:00
-
- ## The University of Liverpool
- - [https://www.liverpool.ac.uk](https://www.liverpool.ac.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Homepage | 
-        Liverpool John Moores University
- - [https://www.ljmu.ac.uk](https://www.ljmu.ac.uk)
- - date_published: 2024-08-11T05:54:07.848264+00:00
-
- ## London Mathematical Society - De Morgan Forum
- - [http://education.lms.ac.uk](http://education.lms.ac.uk)
- - date_published: 2021-03-16T13:50:03+00:00
-
- ## The London Mathematical Society | London Mathematical Society
- - [https://lms.ac.uk](https://lms.ac.uk)
- - date_published: 2024-06-17T14:35:54+00:00
-
- ## University of London Clubs and Societies
- - [https://clubs-societies.london.ac.uk](https://clubs-societies.london.ac.uk)
- - date_published: 2024-06-17T17:48:53.106441+00:00
-
- ## Student Accommodation in London - houses homes flats housing
- - [http://househunt.london.ac.uk](http://househunt.london.ac.uk)
- - date_published: 2024-10-20T03:46:09.506076+00:00
-
- ## University of London Housing Services
- - [https://housing.london.ac.uk](https://housing.london.ac.uk)
- - date_published: 2024-06-17T17:48:59.521400+00:00
-
- ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
- - [https://idp.london.ac.uk](https://idp.london.ac.uk)
- - date_published: 2020-04-21T14:17:39+00:00
-
- ## Study with the University of London, anywhere in the world
- - [https://london.ac.uk](https://london.ac.uk)
- - date_published: 2024-06-17T16:52:03+00:00
-
- ## UoL MediaLibrary
- - [https://medialibrary.london.ac.uk](https://medialibrary.london.ac.uk)
- - date_published: 2024-06-17T17:48:56.265959+00:00
-
- ## Welcome - University of London
- - [https://my.london.ac.uk](https://my.london.ac.uk)
- - date_published: 2024-06-17T17:48:52.388060+00:00
-
- ## Directory of Research and Expertise | University of London
- - [https://research.london.ac.uk](https://research.london.ac.uk)
- - date_published: 2024-06-17T17:49:00.382390+00:00
-
- ## University of London
- - [https://www.alumni.london.ac.uk](https://www.alumni.london.ac.uk)
- - date_published: 2024-06-17T17:49:02.304643+00:00
-
- ## London Metropolitan University - London Metropolitan University
- - [https://londonmet.ac.uk](https://londonmet.ac.uk)
- - date_published: 2024-10-18T18:38:05.503558+00:00
-
- ## Student Zone
- - [https://student.londonmet.ac.uk](https://student.londonmet.ac.uk)
- - date_published: 2024-10-18T18:37:47.539836+00:00
-
- ## LSE Blogs | Expert analysis & debate from LSE
- - [https://blogs.lse.ac.uk](https://blogs.lse.ac.uk)
- - date_published: 2023-10-25T22:48:48.518267+00:00
-
- ## Charles Booth's London
- - [http://booth.lse.ac.uk](http://booth.lse.ac.uk)
- - date_published: 2024-08-08T19:37:26.112297+00:00
-
- ## Centre for Economic Performance
- - [http://cep.lse.ac.uk](http://cep.lse.ac.uk)
- - date_published: 2024-09-12T19:30:59.526033+00:00
-
- ## Welcome to LSE Research Online - LSE Research Online
- - [http://eprints.lse.ac.uk](http://eprints.lse.ac.uk)
- - date_published: 2024-07-22T05:55:24.806556+00:00
-
- ## Home
- - [https://info.lse.ac.uk](https://info.lse.ac.uk)
- - date_published: 2024-05-09T05:38:09.000767+00:00
-
- ## Journal of Illicit Economies and Development
- - [https://jied.lse.ac.uk](https://jied.lse.ac.uk)
- - date_published: 2024-10-18T17:53:22.254600+00:00
-
- ## LSE Home
- - [https://lse.ac.uk](https://lse.ac.uk)
- - date_published: 2024-03-06T15:28:43.124157+00:00
-
- ## LSE - Individual Web Pages for Taught Students
- - [http://personal.lse.ac.uk](http://personal.lse.ac.uk)
- - date_published: 2015-06-19T12:26:07+00:00
-
- ## LSE Press
- - [http://press.lse.ac.uk](http://press.lse.ac.uk)
- - date_published: 2024-05-09T05:38:18.940160+00:00
-
- ## Curious minds are Shaping the World. Join in. - Shaping the world
- - [https://shapingtheworld.lse.ac.uk](https://shapingtheworld.lse.ac.uk)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## STICERD - The Suntory and Toyota International Centres for Economics and Related Disciplines
- - [https://sticerd.lse.ac.uk](https://sticerd.lse.ac.uk)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## LSE Alumni - Community Home
- - [https://www.alumni.lse.ac.uk](https://www.alumni.lse.ac.uk)
- - date_published: 2024-05-09T05:38:12.080023+00:00
-
- ## Home - ARREST trial
- - [https://arrest.lshtm.ac.uk](https://arrest.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:20.390308+00:00
-
- ## Home | LSHTM Moodle
- - [https://ble.lshtm.ac.uk](https://ble.lshtm.ac.uk)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Home - LSHTM Blogs
- - [https://blogs.lshtm.ac.uk](https://blogs.lshtm.ac.uk)
- - date_published: 2024-06-17T18:15:28.072245+00:00
-
- ## Welcome to the Bicycle Users Group - Bicycle users group
- - [https://cycling.lshtm.ac.uk](https://cycling.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:41.871238+00:00
-
- ## Home - The East London Project
- - [https://eastlondonproject.lshtm.ac.uk](https://eastlondonproject.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:25.906742+00:00
-
- ## Home - Entebbe Mother and Baby Study
- - [https://emabs.lshtm.ac.uk](https://emabs.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:12.083754+00:00
-
- ## Home - ERIC PPCI
- - [https://ericppci.lshtm.ac.uk](https://ericppci.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:18.816634+00:00
-
- ## Home - GHLC
- - [https://ghlc.lshtm.ac.uk](https://ghlc.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:45.501592+00:00
-
- ## Home Page
- - [https://giftstore.lshtm.ac.uk](https://giftstore.lshtm.ac.uk)
- - date_published: 2024-05-02T10:56:41.190827+00:00
-
- ## Welcome to Have Your Say! - Have Your Say
- - [https://haveyoursay.lshtm.ac.uk](https://haveyoursay.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:16.944669+00:00
-
- ## Welcome - Health Systems
- - [https://healthsystems.lshtm.ac.uk](https://healthsystems.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:30.690456+00:00
-
- ## Home - STAR
- - [https://hivstar.lshtm.ac.uk](https://hivstar.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:40.892171+00:00
-
- ## Jobs at LSHTM
- - [https://jobs.lshtm.ac.uk](https://jobs.lshtm.ac.uk)
- - date_published: 2024-05-02T10:56:36.932987+00:00
-
- ## Home - MCC Collaborative Research Network
- - [https://mccstudy.lshtm.ac.uk](https://mccstudy.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:39.538612+00:00
-
- ## Home - MRC London Intercollegiate Doctoral Training Partnership Studentships
- - [https://mrc-lid.lshtm.ac.uk](https://mrc-lid.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:30.003940+00:00
-
- ## LSHTM Global Health Analytics - LSHTM Global Health Analytics
- - [https://opendatakit.lshtm.ac.uk](https://opendatakit.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:32.329117+00:00
-
- ## Home | Open Study at LSHTM
- - [http://open.lshtm.ac.uk](http://open.lshtm.ac.uk)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Population Health Innovation Lab | LSHTM
- - [https://philab.lshtm.ac.uk](https://philab.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:36.085815+00:00
-
- ## Home - Placing the Public in Public Health: Public Health in Britain, 1948-2010
- - [https://placingthepublic.lshtm.ac.uk](https://placingthepublic.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:13.344363+00:00
-
- ## Home - PREVENTT Trial
- - [https://preventt.lshtm.ac.uk](https://preventt.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:44.720178+00:00
-
- ## Home - REVIVED-BCIS2
- - [https://revived.lshtm.ac.uk](https://revived.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:47.178315+00:00
-
- ## Home - NIHR School for Public Health Research
- - [https://sphr.lshtm.ac.uk](https://sphr.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:22.714958+00:00
-
- ## Home - SSACAB
- - [https://ssacab.lshtm.ac.uk](https://ssacab.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:33.852900+00:00
-
- ## Home - Health Systems in History: Ideas, Comparisons, Policies c. 1890-2000
- - [https://systemshistory.lshtm.ac.uk](https://systemshistory.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:38.501402+00:00
-
- ## Why join a union? - Trade Unions
- - [https://tradeunions.lshtm.ac.uk](https://tradeunions.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:14.335374+00:00
-
- ## Welcome - UIP
- - [https://uip.lshtm.ac.uk](https://uip.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:24.743492+00:00
-
- ## Vitamin D and Longevity (VIDAL) Trial
- - [https://vidal.lshtm.ac.uk](https://vidal.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:15.499892+00:00
-
- ## Home - Wellcome Trust - Bloomsbury Centre for Global Health Research
- - [https://wbc.lshtm.ac.uk](https://wbc.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:37.325724+00:00
-
- ## The London School of Hygiene & Tropical Medicine | LSHTM
- - [https://www.lshtm.ac.uk](https://www.lshtm.ac.uk)
- - date_published: 2023-10-25T22:48:50.709213+00:00
-
- ## MAGLUE: Measurement and Analysis of bioenergy greenhouse gases
- - [http://www.maglue.ac.uk](http://www.maglue.ac.uk)
- - date_published: 2024-10-29T19:08:38+00:00
-
- ## Search - Archives Hub
- - [https://archives.li.man.ac.uk](https://archives.li.man.ac.uk)
- - date_published: 1900-11-10T00:00:00+00:00
-
- ## Department of Computer Science - The University of Manchester
- - [http://www.cs.man.ac.uk](http://www.cs.man.ac.uk)
- - date_published: 2024-07-13T09:17:59.887656+00:00
-
- ## MDC analytics
- - [https://analytics.digitalcollections.manchester.ac.uk](https://analytics.digitalcollections.manchester.ac.uk)
- - date_published: 2020-06-12T13:43:43+00:00
-
- ## Welcome Page
- - [https://app.manchester.ac.uk](https://app.manchester.ac.uk)
- - date_published: 2024-05-11T07:23:45.038121+00:00
-
- ## Research Groups: APT - Advanced Processor Technologies (School of Computer Science - The University of Manchester)
- - [http://apt.cs.manchester.ac.uk](http://apt.cs.manchester.ac.uk)
- - date_published: 2024-06-26T21:47:18.413390+00:00
-
- ## Policy@Manchester Articles
- - [http://blog.policy.manchester.ac.uk](http://blog.policy.manchester.ac.uk)
- - date_published: 2024-10-21T16:33:08.243907+00:00
-
- ## Wordpress Multisite - The University of Manchester Wordpress multisite
- - [https://blogs.manchester.ac.uk](https://blogs.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:21.732842+00:00
-
- ## StaffNet | The University of Manchester
- - [https://documents.manchester.ac.uk](https://documents.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:16.413439+00:00
-
- ## Welcome to MIMS EPrints - MIMS EPrints
- - [https://eprints.maths.manchester.ac.uk](https://eprints.maths.manchester.ac.uk)
- - date_published: 2024-06-14T21:08:12.836459+00:00
-
- ## University of Manchester
- - [https://estore.manchester.ac.uk](https://estore.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:40.697412+00:00
-
- ## The University of Manchester Login Service
- - [https://forms.library.manchester.ac.uk](https://forms.library.manchester.ac.uk)
- - date_published: 2024-08-06T19:37:45.155212+00:00
-
- ## Manchester Giving – Fundraising Stories from The University of Manchester
- - [http://givingblog.manchester.ac.uk](http://givingblog.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:42.501283+00:00
-
- ## Sign in to your account
- - [http://intranet.maths.manchester.ac.uk](http://intranet.maths.manchester.ac.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## LUNA Main Menu
- - [https://luna.manchester.ac.uk](https://luna.manchester.ac.uk)
- - date_published: 2024-04-28T06:07:57.927085+00:00
-
- ## The University of Manchester
- - [https://manchester.ac.uk](https://manchester.ac.uk)
- - date_published: 2024-03-16T21:52:08.520935+00:00
-
- ## Home
- - [https://museum.manchester.ac.uk](https://museum.manchester.ac.uk)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Student Support | My Manchester – accessing University systems | The University of Manchester
- - [https://my.manchester.ac.uk](https://my.manchester.ac.uk)
- - date_published: 2024-05-11T07:23:36.535887+00:00
-
- ## The University of Manchester Login Service
- - [https://newsadmin.manchester.ac.uk](https://newsadmin.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:38.905020+00:00
-
- ## Pdrives Login :: Log in
- - [https://pdrives.manchester.ac.uk](https://pdrives.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:02.665931+00:00
-
- ## Search for people | The University of Manchester
- - [https://personalpages.manchester.ac.uk](https://personalpages.manchester.ac.uk)
- - date_published: 2024-06-30T08:06:11.695683+00:00
-
- ## My Manchester | Portal Information | Portal Unavailable | The University of Manchester
- - [https://portalcontent.manchester.ac.uk](https://portalcontent.manchester.ac.uk)
- - date_published: 2016-10-03T12:57:30+00:00
-
- ## The University of Manchester Login Service
- - [https://portal.manchester.ac.uk](https://portal.manchester.ac.uk)
- - date_published: 2024-07-13T12:35:59.979395+00:00
-
- ## projects.alc.manchester.ac.uk
- - [http://projects.alc.manchester.ac.uk](http://projects.alc.manchester.ac.uk)
- - date_published: 2018-08-10T11:07:09+00:00
-
- ## Sign in to your account
- - [https://pure.manchester.ac.uk](https://pure.manchester.ac.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Research Explorer The University of Manchester
- - [https://research.manchester.ac.uk](https://research.manchester.ac.uk)
- - date_published: 2024-05-11T07:23:34.970630+00:00
-
- ## The University of Manchester Login Service
- - [https://shib.manchester.ac.uk](https://shib.manchester.ac.uk)
- - date_published: 2024-06-30T01:26:20.930714+00:00
-
- ## Login - TERMINALFOUR Site Manager
- - [https://sitemanager.manchester.ac.uk](https://sitemanager.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:18.271485+00:00
-
- ## Sign in to your account
- - [http://ssnet.ceas.manchester.ac.uk](http://ssnet.ceas.manchester.ac.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## StaffNet (Department of Computer Science - The University of Manchester)
- - [http://staffnet.cs.manchester.ac.uk](http://staffnet.cs.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:33.747658+00:00
-
- ## StaffNet | The University of Manchester
- - [https://staffnet.manchester.ac.uk](https://staffnet.manchester.ac.uk)
- - date_published: 2024-05-11T07:23:38.122206+00:00
-
- ## Index Page
- - [https://studentadmin.manchester.ac.uk](https://studentadmin.manchester.ac.uk)
- - date_published: 2024-04-02T10:16:34+00:00
-
- ## My Placement
- - [https://studentmobility.manchester.ac.uk](https://studentmobility.manchester.ac.uk)
- - date_published: 2024-07-13T12:35:57.866772+00:00
-
- ## Student News - News, information, and events for your student life.
- - [https://studentnews.manchester.ac.uk](https://studentnews.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:03.939526+00:00
-
- ## Subject guides
- - [https://subjects.library.manchester.ac.uk](https://subjects.library.manchester.ac.uk)
- - date_published: 2024-08-08T17:26:30.875708+00:00
-
- ## Welcome to The Marketplace
- - [http://themarketplace.staffnet.manchester.ac.uk](http://themarketplace.staffnet.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:19.639942+00:00
-
- ## Publish
- - [https://timetables.manchester.ac.uk](https://timetables.manchester.ac.uk)
- - date_published: 2024-07-09T18:35:45+00:00
-
- ## The Whitworth promoting and developing volunteering in your area. A TeamKinetic powered website
- - [http://whitworthvolunteers.manchester.ac.uk](http://whitworthvolunteers.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:54.833464+00:00
-
- ## University brand | StaffNet | The University of Manchester
- - [http://www.brand.manchester.ac.uk](http://www.brand.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:14.825343+00:00
-
- ## Centre for the History of Science, Technology and Medicine | The University of Manchester
- - [http://www.chstm.manchester.ac.uk](http://www.chstm.manchester.ac.uk)
- - date_published: 2024-10-29T18:10:14.212490+00:00
-
- ## Counselling and Mental Health Service (The University of Manchester)
- - [http://www.counsellingservice.manchester.ac.uk](http://www.counsellingservice.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:30.710447+00:00
-
- ## Creative Manchester | Creative Manchester | The University of Manchester
- - [https://www.creative.manchester.ac.uk](https://www.creative.manchester.ac.uk)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Information Governance Office | StaffNet | The University of Manchester
- - [http://www.dataprotection.manchester.ac.uk](http://www.dataprotection.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:39.930672+00:00
-
- ## Home
- - [http://www.datascience.manchester.ac.uk](http://www.datascience.manchester.ac.uk)
- - date_published: 2024-08-19T07:04:08.120663+00:00
-
- ## Manchester Digital Collections
- - [https://www.digitalcollections.manchester.ac.uk](https://www.digitalcollections.manchester.ac.uk)
- - date_published: 2024-04-28T06:07:55.861934+00:00
-
- ## Department of Electrical and Electronic Engineering - The University of Manchester
- - [http://www.eee.manchester.ac.uk](http://www.eee.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:42.993659+00:00
-
- ## Directorate of Estates and Facilities (The University of Manchester)
- - [http://www.estates.manchester.ac.uk](http://www.estates.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:17.341494+00:00
-
- ## Directorate of Finance | StaffNet | The University of Manchester
- - [https://www.finance.manchester.ac.uk](https://www.finance.manchester.ac.uk)
- - date_published: 2009-03-03T15:29:32+00:00
-
- ## Food on Campus (The University of Manchester)
- - [http://www.foodoncampus.manchester.ac.uk](http://www.foodoncampus.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:11.402720+00:00
-
- ## Graphene - The University of Manchester
- - [http://www.graphene.manchester.ac.uk](http://www.graphene.manchester.ac.uk)
- - date_published: 2024-07-02T10:05:13.423429+00:00
-
- ## Safety Services (The University of Manchester)
- - [https://www.healthandsafety.manchester.ac.uk](https://www.healthandsafety.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:23.280712+00:00
-
- ## IT Services (The University of Manchester)
- - [http://www.itservices.manchester.ac.uk](http://www.itservices.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:10.332509+00:00
-
- ## The University of Manchester - Jobs Page
- - [https://www.jobs.manchester.ac.uk](https://www.jobs.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:41.318268+00:00
-
- ## The University of Manchester Library (The University of Manchester Library)
- - [https://www.library.manchester.ac.uk](https://www.library.manchester.ac.uk)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Department of Mathematics - The University of Manchester
- - [http://www.maths.manchester.ac.uk](http://www.maths.manchester.ac.uk)
- - date_published: 2024-06-30T08:22:45.062223+00:00
-
- ## Occupational Health Service (The University of Manchester)
- - [http://www.occhealth.manchester.ac.uk](http://www.occhealth.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:13.168567+00:00
-
- ## Office for Open Research (Office for Open Research)
- - [https://www.openresearch.manchester.ac.uk](https://www.openresearch.manchester.ac.uk)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Ahmed Iqbal Ullah RACE (Race Archives and Community Engagement) Centre (The University of Manchester Library)
- - [http://www.racearchive.manchester.ac.uk](http://www.racearchive.manchester.ac.uk)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Homepage > Social Responsibility
- - [http://www.socialresponsibility.manchester.ac.uk](http://www.socialresponsibility.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:06.158758+00:00
-
- ## Home
- - [https://www.sport.manchester.ac.uk](https://www.sport.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:37.677527+00:00
-
- ## Student Support  | The University of Manchester
- - [https://www.studentsupport.manchester.ac.uk](https://www.studentsupport.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:01.308710+00:00
-
- ## Environmental Sustainability at The University of Manchester
- - [http://www.sustainability.manchester.ac.uk](http://www.sustainability.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:25.095048+00:00
-
- ## Whitworth Art Gallery
- - [https://www.whitworth.manchester.ac.uk](https://www.whitworth.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:46.682977+00:00
-
- ## Home - Your Manchester Online - The University of Manchester
- - [https://your.manchester.ac.uk](https://your.manchester.ac.uk)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Plymouth Marjon University
- - [https://www.marjon.ac.uk](https://www.marjon.ac.uk)
- - date_published: 2024-10-20T04:12:18.581362+00:00
-
- ## The Maxwell Institute for Mathematical Sciences
- - [https://www.maxwell.ac.uk](https://www.maxwell.ac.uk)
- - date_published: 2023-05-02T00:00:00+00:00
-
- ## Middlesbrough College | Taking You Higher
- - [https://www.mbro.ac.uk](https://www.mbro.ac.uk)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## The Minderoo Centre for Technology and Democracy
- - [https://www.mctd.ac.uk](https://www.mctd.ac.uk)
- - date_published: 2024-12-22T14:33:45.500328+00:00
-
- ## Redirect |     IRUS | Jisc
- - [http://irus.mimas.ac.uk](http://irus.mimas.ac.uk)
- - date_published: 2024-07-08T16:36:40.997271+00:00
-
- ## e-space
- - [https://e-space.mmu.ac.uk](https://e-space.mmu.ac.uk)
- - date_published: 2024-07-04T13:15:31.468110+00:00
-
- ## Careers home | Manchester Metropolitan University Careers
- - [https://manmetjobs.mmu.ac.uk](https://manmetjobs.mmu.ac.uk)
- - date_published: 2024-07-04T17:30:20.060366+00:00
-
- ## Sign in to your account
- - [https://mmuintranet.mmu.ac.uk](https://mmuintranet.mmu.ac.uk)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Manchester Metropolitan University - Homepage
- - [https://www2.mmu.ac.uk](https://www2.mmu.ac.uk)
- - date_published: 2024-05-08T07:06:09.160772+00:00
-
- ## Manchester Metropolitan University - Homepage
- - [https://www.mmu.ac.uk](https://www.mmu.ac.uk)
- - date_published: 2024-06-30T01:29:21+00:00
-
- ## Discover your perfect course
- - [https://www.moulton.ac.uk](https://www.moulton.ac.uk)
- - date_published: 2024-08-06T11:05:57.992575+00:00
-
- ## Homepage - Moving Medicine
- - [https://movingmedicine.ac.uk](https://movingmedicine.ac.uk)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## MRC Laboratory of Medical Sciences (LMS)
- - [https://lms.mrc.ac.uk](https://lms.mrc.ac.uk)
- - date_published: 2024-12-26T06:09:45.031164+00:00
-
- ## Medical Research Council (MRC)
- - [http://www.mrc.ac.uk](http://www.mrc.ac.uk)
- - date_published: 2024-06-17T18:23:27.032126+00:00
-
- ## Sign in - Google Accounts
- - [http://calendar.myport.ac.uk](http://calendar.myport.ac.uk)
- - date_published: 2024-06-17T19:02:29.570292+00:00
-
- ## Sign in - Google Accounts
- - [http://mail.myport.ac.uk](http://mail.myport.ac.uk)
- - date_published: 2024-06-17T19:02:31.047748+00:00
-
- ## National Centre for Text Mining — Text Mining Tools and Text Mining Services
- - [http://www.nactem.ac.uk](http://www.nactem.ac.uk)
- - date_published: 2024-07-02T05:49:54.880291+00:00
-
- ## Online Collection | National Army Museum, London
- - [https://collection.nam.ac.uk](https://collection.nam.ac.uk)
- - date_published: 2024-06-21T09:40:51.080556+00:00
-
- ## Home
- - [https://www.napier.ac.uk](https://www.napier.ac.uk)
- - date_published: 2024-08-06T17:46:43.674558+00:00
-
- ## Home
- - [https://www.nchlondon.ac.uk](https://www.nchlondon.ac.uk)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Belong Blog | Newcastle University
- - [https://belong.ncl.ac.uk](https://belong.ncl.ac.uk)
- - date_published: 2024-05-02T10:56:49.905665+00:00
-
- ## Newcastle University Blogging Service
- - [https://blogs.ncl.ac.uk](https://blogs.ncl.ac.uk)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## The Catless Web Server - Bifurcated Rivets, Risks, the Virtual Memorial Garden
- - [http://catless.ncl.ac.uk](http://catless.ncl.ac.uk)
- - date_published: 2024-08-18T18:41:53.180889+00:00
-
- ## FROM Blog: Research & Innovation News | Newcastle University
- - [https://from.ncl.ac.uk](https://from.ncl.ac.uk)
+ ## Eşya Depolama - Kiralık Oda Depo Hizmeti | Depotrans
+ - [https://www.depotrans.com.tr](https://www.depotrans.com.tr)
+ - date_published: 2019-05-10T11:40:15+00:00
+
+ ## Dere Satış Enerji Limited Şirketi
+ - [http://dereenerji.com.tr](http://dereenerji.com.tr)
+ - date_published: 2024-05-16T21:18:49+00:00
+
+ ## Derya Grup | Anasayfa
+ - [https://www.deryagrup.com.tr](https://www.deryagrup.com.tr)
+ - date_published: 2020-04-20T15:21:23+00:00
+
+ ## Der Yayınları
+ - [https://www.deryayinevi.com.tr](https://www.deryayinevi.com.tr)
+ - date_published: 2024-12-13T12:53:36.751404+00:00
+
+ ## | Digiturk
+ - [http://www.digiturk.com.tr](http://www.digiturk.com.tr)
+ - date_published: 2024-09-17T18:42:06.126967+00:00
+
+ ## Disney Türkiye | Disney Hakkında Her Şey Ana Sayfa
+ - [https://disney.com.tr](https://disney.com.tr)
+ - date_published: 2024-05-01T05:26:20.470999+00:00
+
+ ## Disney Türkiye | Disney Hakkında Her Şey Ana Sayfa
+ - [https://disneyturkiye.com.tr](https://disneyturkiye.com.tr)
+ - date_published: 2024-05-01T05:25:20.479927+00:00
+
+ ## D&R - Kültür, Sanat ve Eğlence Dünyası
+ - [http://www.dr.com.tr](http://www.dr.com.tr)
+ - date_published: 2024-10-17T22:39:27.966379+00:00
+
+ ## Duracell Piller Türkiye Ana Sayfa
+ - [https://www.duracell.com.tr](https://www.duracell.com.tr)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Gaming Chair | Best Gaming Chair Brand For Gamers | DXRacer Turkey
+ - [https://www.dxracer.com.tr](https://www.dxracer.com.tr)
+ - date_published: 2024-07-03T12:31:50.396793+00:00
+
+ ## Dyson Türkiye | Resmi Web Sitesi|Mağaza
+ - [https://www.dyson.com.tr](https://www.dyson.com.tr)
+ - date_published: 2024-07-07T01:56:26.902937+00:00
+
+ ## Ecommerce Bridge Türkiye
+ - [https://www.ecommercebridge.com.tr](https://www.ecommercebridge.com.tr)
+ - date_published: 2024-12-14T03:34:51.765112+00:00
+
+ ## EF Education First | Türkiye
+ - [https://www.ef.com.tr](https://www.ef.com.tr)
  - date_published: 2024-05-01T00:00:00+00:00
 
- ## homepages.cs.ncl.ac.uk
- - [https://homepages.cs.ncl.ac.uk](https://homepages.cs.ncl.ac.uk)
- - date_published: 2020-12-11T00:00:00+00:00
+ ## İzmir Web Tasarım | Web Tasarım İzmir | Web Sitesi | E-Ticaret | İzmir İnternet Reklamcılığı
+ - [https://egebilgi.com.tr](https://egebilgi.com.tr)
+ - date_published: 2024-09-12T13:54:29.782412+00:00
 
- ## Belong Blog | Newcastle University
- - [https://international-blogs.ncl.ac.uk](https://international-blogs.ncl.ac.uk)
- - date_published: 2024-05-02T10:56:46.966922+00:00
+ ## Ege Sucu – Medium
+ - [https://blog.egesucu.com.tr](https://blog.egesucu.com.tr)
+ - date_published: 2024-03-23T00:00:00+00:00
 
- ## Sign in to your account
- - [https://my.ncl.ac.uk](https://my.ncl.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
+ ## EKONOMİ GAZETESİ / ECONOMY NEWSPAPER
+ - [https://ekonomigundemi.com.tr](https://ekonomigundemi.com.tr)
+ - date_published: 2024-09-19T19:55:56.003802+00:00
 
- ## The things we do here make a difference out there | Newcastle University
- - [http://ncl.ac.uk](http://ncl.ac.uk)
- - date_published: 2024-06-17T18:16:11.726765+00:00
+ ## elemanonline | online iş ilanları ve eleman ilanları sitesi
+ - [https://www.elemanonline.com.tr](https://www.elemanonline.com.tr)
+ - date_published: 2024-10-19T13:33:21.881319+00:00
 
- ## TheoryHub - Academic theories reviews for research and T&L
- - [https://open.ncl.ac.uk](https://open.ncl.ac.uk)
- - date_published: 2024-05-07T14:56:23.525759+00:00
+ ## Profesyonel İngilizce Düzenleme Hizmetleri - Enago
+ - [https://www.enago.com.tr](https://www.enago.com.tr)
+ - date_published: 2024-12-15T04:11:45.772199+00:00
 
- ## research.ncl.ac.uk; ; Newcastle University
- - [https://research.ncl.ac.uk](https://research.ncl.ac.uk)
- - date_published: 2024-06-19T21:05:17+00:00
+ ## Enerji Üretimi & Tedariki | Yenilenebilir Enerji | Enerjisa Üretim
+ - [https://www.enerjisauretim.com.tr](https://www.enerjisauretim.com.tr)
+ - date_published: 2024-10-14T10:41:35.722955+00:00
+
+ ## Haber Yazılımı Nedir? | En İyi 5 Haber Yazılımı - EA
+ - [https://eniyihaberyazilimi.com.tr](https://eniyihaberyazilimi.com.tr)
+ - date_published: 2024-11-12T14:59:20+00:00
+
+ ## Eşkişehir Teknik Üniversitesi
+ - [https://estustore.com.tr](https://estustore.com.tr)
+ - date_published: 2024-06-17T15:02:53.477702+00:00
+
+ ## Ev Eşyası Depolama Fiyatları - ULUSOY - Eşya Depolama İstanbul
+ - [https://www.esyadepolamaulusoy.com.tr](https://www.esyadepolamaulusoy.com.tr)
+ - date_published: 2024-10-16T05:54:09.674971+00:00
+
+ ## Europort İstanbul - Europort Istanbul
+ - [https://europort.com.tr](https://europort.com.tr)
+ - date_published: 2024-10-22T11:23:59+00:00
+
+ ## Spor haberleri, canlı yayınlar & sonuçlar - Eurosport
+ - [https://eurosport.com.tr](https://eurosport.com.tr)
+ - date_published: 2024-05-10T05:28:09.088994+00:00
+
+ ## İstanbul Evden Eve Nakliyat %20 İndirimli EVDİZ Ev Taşıma
+ - [https://www.evdiznakliyat.com.tr](https://www.evdiznakliyat.com.tr)
+ - date_published: 2015-04-14T07:13:09+00:00
+
+ ## Karar Destek Sistemleri, Analitik  Çözümler ve Danışmanlık Hizmetleri | Experian T&uuml;rkiye
+ - [https://www.experian.com.tr](https://www.experian.com.tr)
+ - date_published: 2024-06-25T21:31:56.852961+00:00
+
+ ## Yetkili Eğitim Merkezi - FANUC Akademi
+ - [https://fanuc-academy.com.tr](https://fanuc-academy.com.tr)
+ - date_published: 2024-07-02T23:45:12.857164+00:00
+
+ ## MATLAB Türkiye Distribütörü
+ - [http://www.figes.com.tr](http://www.figes.com.tr)
+ - date_published: 2024-12-13T13:06:24.519100+00:00
+
+ ## BIGO234: Alternatif Situs Slot Deposit Via Pulsa Terbaik Dan Terpercaya 2024
+ - [https://firmakayitlari.com.tr](https://firmakayitlari.com.tr)
+ - date_published: 2024-07-17T07:52:12.769281+00:00
+
+ ## Fixplan® Türkiye | Apple Onaylı, MacBook, iPad ve iPhone Servis
+ - [https://fixplan.com.tr](https://fixplan.com.tr)
+ - date_published: 2024-10-19T14:26:28.916407+00:00
+
+ ## Kamil Koç | Uygun Otobüs Bileti Fiyatları & Online Satın Al
+ - [https://www.flixbus.com.tr](https://www.flixbus.com.tr)
+ - date_published: 2024-06-27T15:42:38+00:00
+
+ ## FNSS - Savunma Sistemleri A.Ş.
+ - [https://fnss.com.tr](https://fnss.com.tr)
+ - date_published: 2024-05-09T04:51:20.988431+00:00
+
+ ## Anasayfa - Forbes Türkiye
+ - [http://forbes.com.tr](http://forbes.com.tr)
+ - date_published: 2024-07-19T02:46:53.583836+00:00
+
+ ## Ford Pro™ Girişi
+ - [https://www.fordpro.com.tr](https://www.fordpro.com.tr)
+ - date_published: 2024-10-29T21:50:24.977494+00:00
+
+ ## FranklinCovey: The World's Most Trusted Leadership Company
+ - [https://www.franklincovey.com.tr](https://www.franklincovey.com.tr)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## FXStreet - Forex piyasası portalı
+ - [https://www.fxstreet.com.tr](https://www.fxstreet.com.tr)
+ - date_published: 2024-06-20T22:01:42.421269+00:00
+
+ ## Video Oyunu Fragmanları, Canlı Yayınlar ve Röportajlar | Gamereactor Turkey
+ - [https://www.gamereactor.com.tr](https://www.gamereactor.com.tr)
+ - date_published: 2024-07-17T13:05:03.420101+00:00
+
+ ## Kendim İçin | Garanti BBVA
+ - [https://www.garanti.com.tr](https://www.garanti.com.tr)
+ - date_published: 2024-12-14T16:41:27.141405+00:00
+
+ ## Cilt Bakımı, Saç Boyası, Güneş Bakımı ve Deodorant Ürünleri
+ - [https://www.garnier.com.tr](https://www.garnier.com.tr)
+ - date_published: 2024-10-20T22:50:59.772213+00:00
+
+ ## Gazete Duvar
+ - [https://www.gazeteduvar.com.tr](https://www.gazeteduvar.com.tr)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## En İyi Akademi Bir Kitaplıktır - Gazi Kitabevi
+ - [http://www.gazikitabevi.com.tr](http://www.gazikitabevi.com.tr)
+ - date_published: 2024-12-13T12:54:06.267274+00:00
 
  ## Homepage
- - [https://supportus.ncl.ac.uk](https://supportus.ncl.ac.uk)
- - date_published: 2024-05-02T10:56:44.601368+00:00
+ - [https://www.gemius.com.tr](https://www.gemius.com.tr)
+ - date_published: 2024-06-03T00:00:00+00:00
 
- ## NERC Data Catalogue Service
- - [https://data-search.nerc.ac.uk](https://data-search.nerc.ac.uk)
- - date_published: 2024-07-08T11:24:31.355897+00:00
+ ## GGTEK GELİŞMİŞ GÜVENLİK TEKNOLOJİLERİ
+ - [https://ggtek.com.tr](https://ggtek.com.tr)
+ - date_published: 2024-09-19T19:52:41+00:00
 
- ## RRS Sir David Attenborough - British Antarctic Survey
- - [https://nameourship.nerc.ac.uk](https://nameourship.nerc.ac.uk)
+ ## Gilead Sciences
+ - [https://www.gilead.com.tr](https://www.gilead.com.tr)
+ - date_published: 2024-07-02T04:08:33.618519+00:00
+
+ ## Glami.com.tr - Modayı seviyoruz
+ - [https://www.glami.com.tr](https://www.glami.com.tr)
+ - date_published: 2024-12-14T05:24:30.803628+00:00
+
+ ## GlobalB- GlobalB Eğitim ve Danışmanlık
+ - [https://globalb.com.tr](https://globalb.com.tr)
+ - date_published: 2024-09-25T11:04:11.009572+00:00
+
+ ## Global Partner
+ - [http://www.globalpartner.com.tr](http://www.globalpartner.com.tr)
+ - date_published: 2024-12-12T12:35:08.680626+00:00
+
+ ## Goldmaster - Küçük Ev Aletleri | Elektronik | Kişisel Bakım
+ - [https://www.goldmaster.com.tr](https://www.goldmaster.com.tr)
+ - date_published: 2024-12-12T12:35:03.031706+00:00
+
+ ## Google
+ - [https://google.com.tr](https://google.com.tr)
+ - date_published: 2024-06-18T12:08:06.401280+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.tr](https://images.google.com.tr)
+ - date_published: 2024-07-20T07:39:42.629562+00:00
+
+ ## Google Scholar
+ - [https://scholar.google.com.tr](https://scholar.google.com.tr)
+ - date_published: 2024-05-08T12:02:03.502176+00:00
+
+ ## Erkek Modası & Stil Önerileri, Bakım, Fitness, Haber, Yaşam | GQ TÜRKİYE
+ - [https://gq.com.tr](https://gq.com.tr)
+ - date_published: 2024-05-02T11:53:55.988707+00:00
+
+ ## Great Place To Work® Türkiye - Harika iş yeri deneyiminizi inşa edin
+ - [https://greatplacetowork.com.tr](https://greatplacetowork.com.tr)
+ - date_published: 2024-06-12T10:42:02.160946+00:00
+
+ ## İstanbul Evden Eve Nakliyat %20 İndirimli HACIOĞLU Ev Taşıma
+ - [https://www.hacioglunakliyat.com.tr](https://www.hacioglunakliyat.com.tr)
+ - date_published: 2024-07-07T08:12:45.990319+00:00
+
+ ## Head&Shoulders Türkiye | Resmi Web Sitesi ve Saç Bakımı Ürünleri
+ - [https://www.headandshoulders.com.tr](https://www.headandshoulders.com.tr)
+ - date_published: 2024-09-19T09:56:24+00:00
+
+ ## Anasayfa
+ - [https://www.henkel.com.tr](https://www.henkel.com.tr)
+ - date_published: 2024-10-18T20:17:54.520714+00:00
+
+ ## HERZ
+ - [https://www.herz.com.tr](https://www.herz.com.tr)
+ - date_published: 2024-12-12T12:33:43.699494+00:00
+
+ ## Elektrikli el aletleri, inşaat için sabitleyiciler ve yazılımlar - Hilti Türkiye
+ - [https://www.hilti.com.tr](https://www.hilti.com.tr)
+ - date_published: 2024-06-20T07:25:42.794921+00:00
+
+ ## Log-in to Hostinger
+ - [https://auth.hostinger.com.tr](https://auth.hostinger.com.tr)
+ - date_published: 2024-07-13T16:44:36.101714+00:00
+
+ ## Size Özel Hosting Platformu - Hostinger ile Online Ol
+ - [https://hostinger.com.tr](https://hostinger.com.tr)
+ - date_published: 2024-05-11T07:51:06.431119+00:00
+
+ ## HSBC Türkiye
+ - [https://www.business.hsbc.com.tr](https://www.business.hsbc.com.tr)
+ - date_published: 2024-08-19T09:17:41.668287+00:00
+
+ ## HSBC
+ - [https://www.hsbc.com.tr](https://www.hsbc.com.tr)
+ - date_published: 2024-08-19T09:17:19+00:00
+
+ ## Hummel Türkiye Online Alışveriş | Oyunu Sokağa Taşı!
+ - [https://hummel.com.tr](https://hummel.com.tr)
+ - date_published: 2024-07-03T12:17:39.844001+00:00
+
+ ## Hürriyet Bumerang | Ziyaretçi kazan, daha fazla ziyaretçi, kazanç elde etme, arama motorlarında üst sıralarda yer alma şansı
+ - [http://bumerang.hurriyet.com.tr](http://bumerang.hurriyet.com.tr)
+ - date_published: 2024-06-29T09:09:19.795745+00:00
+
+ ## Hürriyet - Haber, Son Dakika Haberler, Güncel Gazete Haberleri
+ - [http://www.hurriyet.com.tr](http://www.hurriyet.com.tr)
+ - date_published: 2024-10-19T15:00:47.471350+00:00
+
+ ## IBAN Denetleyicisi: Uluslararasý Banka Hesap Numarasý doðrulama
+ - [https://www.ibankodu.com.tr](https://www.ibankodu.com.tr)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Ana Sayfa
+ - [https://www.idealonline.com.tr](https://www.idealonline.com.tr)
+ - date_published: 2024-10-19T16:45:33.729738+00:00
+
+ ## İGEF 2024
+ - [https://igef.com.tr](https://igef.com.tr)
+ - date_published: 2024-07-08T12:40:39+00:00
+
+ ## Hareketli kablo kanalları, esnek kablolar, polimer yataklar
+ - [https://www.igus.com.tr](https://www.igus.com.tr)
+ - date_published: 2024-08-06T23:12:34.644816+00:00
+
+ ## Improsat – Web Sitesi
+ - [https://improsat.com.tr](https://improsat.com.tr)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## İNANÇ TEKNİK
+ - [https://inancteknik.com.tr](https://inancteknik.com.tr)
+ - date_published: 2024-06-12T01:46:41.454336+00:00
+
+ ## EMEA region - English
+ - [https://www.ingredion.com.tr](https://www.ingredion.com.tr)
+ - date_published: 2024-10-14T17:17:02+00:00
+
+ ## Home - INOVERA - Software, Enterprise Solutions
+ - [https://inovera.com.tr](https://inovera.com.tr)
+ - date_published: 2024-10-19T12:09:11.996167+00:00
+
+ ## InsideEVs Türkiye | Araç İncelemeleri, Otomobil Test Sürüşleri ve Otomobil Haberleri
+ - [https://insideevs.com.tr](https://insideevs.com.tr)
+ - date_published: 2024-08-19T08:49:08.006054+00:00
+
+ ## Homepage | Interdata
+ - [https://www.interdata.com.tr](https://www.interdata.com.tr)
+ - date_published: 2024-09-19T19:56:02.815465+00:00
+
+ ## İstanbul Eşya Depolama İstanbul Ev Eşyası Depolama Şirketi
+ - [https://www.istanbulesyadepolama.com.tr](https://www.istanbulesyadepolama.com.tr)
+ - date_published: 2024-07-07T02:51:58+00:00
+
+ ## IVV Patent
+ - [https://ivvpatent.com.tr](https://ivvpatent.com.tr)
+ - date_published: 2024-09-19T19:57:52+00:00
+
+ ## Jeep Türkiye l Freedom Is Electric
+ - [https://www.jeep.com.tr](https://www.jeep.com.tr)
+ - date_published: 2024-06-13T13:41:27+00:00
+
+ ## Jurix | Hukuk Dergileri Veritabanı
+ - [https://www.jurix.com.tr](https://www.jurix.com.tr)
+ - date_published: 2024-07-08T16:36:13.533911+00:00
+
+ ## kamosonic.com.tr Premium Parking Page
+ - [http://www.kamosonic.com.tr](http://www.kamosonic.com.tr)
+ - date_published: 2024-12-12T12:34:36.632364+00:00
+
+ ## Kanal D - Anasayfa
+ - [https://www.kanald.com.tr](https://www.kanald.com.tr)
+ - date_published: 2019-04-16T12:13:00+00:00
+
+ ## Ev ve İşletmeler İçin Kaspersky Siber Güvenlik Çözümleri | Kaspersky
+ - [https://www.kaspersky.com.tr](https://www.kaspersky.com.tr)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Katmerciler
+ - [http://www.katmerciler.com.tr](http://www.katmerciler.com.tr)
+ - date_published: 2024-06-24T06:52:28.605478+00:00
+
+ ## Uçak Bileti, Otel ve Kiralık Araç Arayın | KAYAK
+ - [https://www.kayak.com.tr](https://www.kayak.com.tr)
+ - date_published: 2024-12-22T15:19:38.301034+00:00
+
+ ## Turhost hosting altyapısında barınmaktadır.
+ - [https://www.kervansarayhotels.com.tr](https://www.kervansarayhotels.com.tr)
+ - date_published: 2024-02-08T16:58:06.971470+00:00
+
+ ## Khartalya – Tahin – Susam – Üretimi
+ - [https://khartalya.com.tr](https://khartalya.com.tr)
+ - date_published: 2024-06-12T02:47:02.892894+00:00
+
+ ## Konecranes
+ - [https://www.konecranes.com.tr](https://www.konecranes.com.tr)
+ - date_published: 2024-06-20T22:56:17.920251+00:00
+
+ ## Konya Teknokent | Teknoloji Geliştirme Bölgesi
+ - [https://konyateknokent.com.tr](https://konyateknokent.com.tr)
+ - date_published: 2024-09-19T19:54:38.834319+00:00
+
+ ## Lancia
+ - [http://www.lancia.com.tr](http://www.lancia.com.tr)
+ - date_published: 2017-09-27T14:03:51+00:00
+
+ ## Lüks SUV'leri ve 4x4 Araçları Keşfedin - Land Rover
+ - [https://www.landrover.com.tr](https://www.landrover.com.tr)
+ - date_published: 2024-07-09T17:15:19.537545+00:00
+
+ ## Legal Yayınevi - Hukuk Kitapları ve Dergileri - E-Kitap / E-Dergi / Online Kitap / Online Dergi / Basılı Yayın - Legal Yayınevi
+ - [https://legal.com.tr](https://legal.com.tr)
+ - date_published: 2024-10-19T16:46:54.871132+00:00
+
+ ## LINAK: Hareket için elektrikli lineer aktüatör sistemleri
+ - [https://www.linak.com.tr](https://www.linak.com.tr)
+ - date_published: 2024-09-05T21:31:19.281630+00:00
+
+ ## L'Officiel Turkiye - Lüks Moda Dergisi
+ - [https://www.lofficiel.com.tr](https://www.lofficiel.com.tr)
+ - date_published: 2024-09-16T09:58:40.872365+00:00
+
+ ## Marie Claire - Moda, Güzellik ve Ünlüler
+ - [http://www.marieclaire.com.tr](http://www.marieclaire.com.tr)
+ - date_published: 2024-06-25T18:51:38.959188+00:00
+
+ ## Maserati Türkiye
+ - [http://www.maserati.com.tr](http://www.maserati.com.tr)
+ - date_published: 2024-07-12T05:15:59+00:00
+
+ ## Welcome to Mazak Corporation
+ - [https://www.mazak.com.tr](https://www.mazak.com.tr)
+ - date_published: 2024-07-16T17:31:18.237177+00:00
+
+ ## Ana Sayfa
+ - [http://www.mediaclick.com.tr](http://www.mediaclick.com.tr)
+ - date_published: 2024-07-09T11:38:04.384080+00:00
+
+ ## Bihter Erke
+ - [https://mehmetkose.com.tr](https://mehmetkose.com.tr)
+ - date_published: 2024-07-01T02:03:12+00:00
+
+ ## MetLife Emeklilik ve Hayat
+ - [https://www.metlife.com.tr](https://www.metlife.com.tr)
+ - date_published: 2024-07-19T16:39:32+00:00
+
+ ## Milliyet - Haberler, Son Dakika Haberleri ve Güncel Haber
+ - [http://www.milliyet.com.tr](http://www.milliyet.com.tr)
+ - date_published: 2024-10-21T17:15:34.696602+00:00
+
+ ## Mixmag Turkey - The World's Biggest Dance Music and Clubbing Destination
+ - [https://mixmag.com.tr](https://mixmag.com.tr)
+ - date_published: 2024-08-17T10:07:54+00:00
+
+ ## e-ŞİRKET
+ - [https://e-sirket.mkk.com.tr](https://e-sirket.mkk.com.tr)
+ - date_published: 2024-06-17T03:48:45.195193+00:00
+
+ ## mkk.com.tr
+ - [https://iletisimmerkezi.mkk.com.tr](https://iletisimmerkezi.mkk.com.tr)
+ - date_published: 2024-10-16T14:36:22.525980+00:00
+
+ ## Home page
+ - [https://www.mobiloil.com.tr](https://www.mobiloil.com.tr)
+ - date_published: 2024-12-11T04:47:41.198742+00:00
+
+ ## Modern Dekor | Yapay Çiçek ve Dikey Bahçe Dekorasyon Modelleri
+ - [https://www.moderndekor.com.tr](https://www.moderndekor.com.tr)
+ - date_published: 2022-01-04T08:41:58+00:00
+
+ ## Mor Düşler Kitaplığı
+ - [https://www.morduslerkitapligi.com.tr](https://www.morduslerkitapligi.com.tr)
+ - date_published: 2024-12-20T03:46:28+00:00
+
+ ## Electronic Components Distributor - Mouser Electronics Turkey
+ - [https://www.mouser.com.tr](https://www.mouser.com.tr)
+ - date_published: 2024-07-01T20:55:03.427950+00:00
+
+ ## Müsan
+ - [http://www.musan.com.tr](http://www.musan.com.tr)
+ - date_published: 2024-12-13T13:06:07.053766+00:00
+
+ ## MyBB.Com.TR » MyBB Türkiye Resmi Destek Sitesi
+ - [http://www.mybb.com.tr](http://www.mybb.com.tr)
+ - date_published: 2024-10-16T11:41:43.244914+00:00
+
+ ## Ücretsiz Aile Ağacı, Soyağacı, Aile Tarihi ve DNA Testi
+ - [https://www.myheritage.com.tr](https://www.myheritage.com.tr)
+ - date_published: 2024-10-30T07:55:54.868125+00:00
+
+ ## National Geographic | Bu belgeselleri kaçırma!
+ - [http://www.nationalgeographic.com.tr](http://www.nationalgeographic.com.tr)
+ - date_published: 2024-06-16T22:11:35.528953+00:00
+
+ ## Ana Sayfa
+ - [https://www.nestle.com.tr](https://www.nestle.com.tr)
+ - date_published: 2024-09-14T21:44:18+00:00
+
+ ## NETA Technologies
+ - [https://neta.com.tr](https://neta.com.tr)
+ - date_published: 2024-12-12T12:35:24.567346+00:00
+
+ ## NTV Haber - Haberler, En Son Güncel Haberler
+ - [http://www.ntv.com.tr](http://www.ntv.com.tr)
+ - date_published: 2024-06-25T18:52:09.414188+00:00
+
+ ## İstanbul Evden Eve Nakliyat %30 İndirimli NURSOY Ev Taşıma
+ - [https://www.nursoynakliyat.com.tr](https://www.nursoynakliyat.com.tr)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## ODTÜDEN : Books, Gifts & Coffee Store
+ - [https://odtuden.com.tr](https://odtuden.com.tr)
+ - date_published: 2024-06-17T15:37:16.947858+00:00
+
+ ## Sayfa otomatik yönlendirme
+ - [http://odtuteknokent.com.tr](http://odtuteknokent.com.tr)
+ - date_published: 2022-11-17T16:24:51+00:00
+
+ ## ODTÜ Yayıncılık Resmi Sitesi - Odtü Yayınları Online Satış
+ - [https://www.odtuyayincilik.com.tr](https://www.odtuyayincilik.com.tr)
+ - date_published: 2024-12-13T12:54:35.097309+00:00
+
+ ## Anasayfa
+ - [https://ofistasimaciligi.com.tr](https://ofistasimaciligi.com.tr)
+ - date_published: 2020-02-15T09:06:17+00:00
+
+ ## Opel Türkiye - Gelecek Herkesindir
+ - [https://www.opel.com.tr](https://www.opel.com.tr)
+ - date_published: 2024-07-12T06:23:14.230190+00:00
+
+ ## Online İngilizce Uygulaması - Open English Türkiye
+ - [https://www.openenglish.com.tr](https://www.openenglish.com.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Otokar | Otokar
+ - [https://www.otokar.com.tr](https://www.otokar.com.tr)
+ - date_published: 2024-12-13T13:05:38.528254+00:00
+
+ ## Özak Elektronik
+ - [http://www.ozak.com.tr](http://www.ozak.com.tr)
+ - date_published: 2024-12-12T12:34:33.971776+00:00
+
+ ## Pantene Ürünleri: Şampuan, Saç Kremi ve Daha Fazlası
+ - [https://pantene.com.tr](https://pantene.com.tr)
+ - date_published: 2024-05-23T09:16:22+00:00
+
+ ## ANASAYFA | PARS SAVUNMA & HAVACILIK
+ - [https://parssavunma.com.tr](https://parssavunma.com.tr)
+ - date_published: 2024-05-02T10:24:13.232150+00:00
+
+ ## Maç Biletleri, Konser Biletleri, Tiyatro Biletleri | Passo
+ - [https://www.passo.com.tr](https://www.passo.com.tr)
+ - date_published: 2024-06-06T22:38:18+00:00
+
+ ## PERI Kalıp, Iskele Sistemleri ve Mühendislik Çözümleri
+ - [https://www.peri.com.tr](https://www.peri.com.tr)
  - date_published: 2024-07-01T00:00:00+00:00
 
- ## Natural Environment Research Council (NERC)
- - [http://www.nerc.ac.uk](http://www.nerc.ac.uk)
- - date_published: 2024-07-02T10:06:15.815271+00:00
-
- ## Homepage - North East Scotland College
- - [https://www.nescol.ac.uk](https://www.nescol.ac.uk)
- - date_published: 2024-08-06T10:09:09+00:00
-
- ## Welcome to Newton Gateway to Mathematics | Newton Gateway to Mathematics
- - [http://gateway.newton.ac.uk](http://gateway.newton.ac.uk)
- - date_published: 2024-06-30T08:44:05.515345+00:00
-
- ## Isaac Newton Institute for Mathematical Sciences
- - [https://newton.ac.uk](https://newton.ac.uk)
- - date_published: 2021-01-28T11:54:39+00:00
-
- ## Natural History Museum
- - [https://careers.nhm.ac.uk](https://careers.nhm.ac.uk)
- - date_published: 2024-05-02T10:56:55.207550+00:00
-
- ## Natural History Museum | Jobs | Search here for your perfect career - Home Page
- - [https://jobs.nhm.ac.uk](https://jobs.nhm.ac.uk)
- - date_published: 2024-06-17T05:38:57.602348+00:00
-
- ## Home | Natural History Museum
- - [https://www.nhm.ac.uk](https://www.nhm.ac.uk)
- - date_published: 2023-10-27T12:08:54.547443+00:00
- - tags: ['museum']
-
- ## Home Page - NIESR
- - [https://niesr.ac.uk](https://niesr.ac.uk)
- - date_published: 2024-10-21T12:53:59.253371+00:00
-
- ## NIESR - Local and Regional Regeneration Dashboard
- - [https://regional-dashboard.niesr.ac.uk](https://regional-dashboard.niesr.ac.uk)
- - date_published: 2024-10-21T12:54:00.412783+00:00
-
- ## Loughborough Nightline – Loughborough Nightline Official Website
- - [https://loughborough.nightline.ac.uk](https://loughborough.nightline.ac.uk)
- - date_published: 2024-05-08T04:29:50.927693+00:00
-
- ## Nightline Association - We’ll Listen, Not Lecture
- - [https://nightline.ac.uk](https://nightline.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Be Part of Research
- - [https://bepartofresearch.nihr.ac.uk](https://bepartofresearch.nihr.ac.uk)
- - date_published: 2024-06-18T10:54:04.987018+00:00
-
- ## NIHR Journals Library
- - [https://journalslibrary.nihr.ac.uk](https://journalslibrary.nihr.ac.uk)
- - date_published: 2024-05-12T07:12:57.101492+00:00
-
- ## NIHR Oxford Health Biomedical Research Centre – Improving brain health: the future in mind
- - [http://oxfordhealthbrc.nihr.ac.uk](http://oxfordhealthbrc.nihr.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Volunteer Registration - Be Part of Research
- - [https://volunteer.bepartofresearch.nihr.ac.uk](https://volunteer.bepartofresearch.nihr.ac.uk)
- - date_published: 2024-05-02T12:35:29.468249+00:00
-
- ## Welcome — NIHR Applied Research Collaboration Oxford and Thames Valley
- - [https://www.arc-oxtv.nihr.ac.uk](https://www.arc-oxtv.nihr.ac.uk)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## National Institute for Health and Care Research | NIHR
- - [https://www.nihr.ac.uk](https://www.nihr.ac.uk)
- - date_published: 2024-06-17T18:23:24.732634+00:00
-
- ## Royal Museums Greenwich | Home
- - [http://www.nmm.ac.uk](http://www.nmm.ac.uk)
- - date_published: 2024-06-19T15:33:51+00:00
-
- ## National Museums Scotland Blog
- - [https://blog.nms.ac.uk](https://blog.nms.ac.uk)
- - date_published: 2014-11-13T13:47:20+00:00
-
- ## National Museums Scotland News
- - [https://media.nms.ac.uk](https://media.nms.ac.uk)
- - date_published: 2024-05-02T10:57:08.324888+00:00
-
- ## National Museums Scotland
- - [https://my.nms.ac.uk](https://my.nms.ac.uk)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## National Museums Scotland
- - [http://nms.ac.uk](http://nms.ac.uk)
- - date_published: 2024-06-17T18:17:05.976263+00:00
-
- ## National Museums Scotland
- - [https://shop.nms.ac.uk](https://shop.nms.ac.uk)
- - date_published: 2024-05-02T10:57:04.863751+00:00
-
- ## Home
- - [http://www.nnuf.ac.uk](http://www.nnuf.ac.uk)
- - date_published: 2024-07-08T17:21:39+00:00
-
- ## Careers | National Oceanography Centre
- - [https://careers.noc.ac.uk](https://careers.noc.ac.uk)
- - date_published: 2024-07-08T09:09:23+00:00
-
- ## Donate to National Oceanography Centre
- - [https://donate.noc.ac.uk](https://donate.noc.ac.uk)
- - date_published: 2024-07-08T11:24:28.271410+00:00
-
- ## National Oceanography Centre | Making sense of changing seas
- - [https://noc.ac.uk](https://noc.ac.uk)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## University of Northampton  | University of Northampton
- - [https://northampton.ac.uk](https://northampton.ac.uk)
- - date_published: 2024-07-10T06:28:17.014163+00:00
-
- ## Northumbria University Newcastle #TakeOnTomorrow
- - [https://www.northumbria.ac.uk](https://www.northumbria.ac.uk)
- - date_published: 2024-10-25T10:41:31.866061+00:00
-
- ## School of Computer Science - The University of Nottingham
- - [https://cs.nott.ac.uk](https://cs.nott.ac.uk)
- - date_published: 2024-04-28T03:54:31.136381+00:00
-
- ## University of Nottingham Blogs
- - [https://blogs.nottingham.ac.uk](https://blogs.nottingham.ac.uk)
- - date_published: 2024-05-08T10:43:16.591312+00:00
-
- ## Digital Research Service
- - [https://digitalresearch.nottingham.ac.uk](https://digitalresearch.nottingham.ac.uk)
- - date_published: 2024-08-20T03:52:29+00:00
-
- ## - Nottingham ePrints
- - [https://eprints.nottingham.ac.uk](https://eprints.nottingham.ac.uk)
- - date_published: 2024-04-29T02:19:38.254069+00:00
-
- ## Log in to the site | moodle.Nottingham
- - [https://moodle.nottingham.ac.uk](https://moodle.nottingham.ac.uk)
- - date_published: 2024-08-07T14:21:24.238943+00:00
-
- ## University of Nottingham
- - [https://nottingham.ac.uk](https://nottingham.ac.uk)
- - date_published: 2024-05-23T15:11:53.699523+00:00
-
- ## UoNSU
- - [https://su.nottingham.ac.uk](https://su.nottingham.ac.uk)
- - date_published: 2024-08-20T03:54:32+00:00
-
- ## Windows on War
- - [https://windowsonwar.nottingham.ac.uk](https://windowsonwar.nottingham.ac.uk)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## Sign In
- - [https://now.ntu.ac.uk](https://now.ntu.ac.uk)
- - date_published: 2024-05-02T10:57:16.606119+00:00
-
- ## Home  | Nottingham Trent University
- - [https://ntu.ac.uk](https://ntu.ac.uk)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## Home  | Nottingham Trent University
- - [https://www4.ntu.ac.uk](https://www4.ntu.ac.uk)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Home
- - [https://nulondon.ac.uk](https://nulondon.ac.uk)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Homepage - Oxford Centre for Hebrew & Jewish Studies
- - [https://ochjs.ac.uk](https://ochjs.ac.uk)
- - date_published: 2024-10-20T06:54:44.352778+00:00
-
- ## Sign in to online surveys
- - [https://leeds.onlinesurveys.ac.uk](https://leeds.onlinesurveys.ac.uk)
- - date_published: 2024-06-18T10:54:06.848243+00:00
-
- ## About The Open University
- - [https://about.open.ac.uk](https://about.open.ac.uk)
- - date_published: 2024-07-01T02:01:53.334820+00:00
-
- ## The Open University
- - [https://community.open.ac.uk](https://community.open.ac.uk)
- - date_published: 2024-07-01T16:47:51.676933+00:00
-
- ## Events | Knowledge Media Institute | The Open University
- - [https://events.kmi.open.ac.uk](https://events.kmi.open.ac.uk)
- - date_published: 2024-08-18T09:22:48.009325+00:00
-
- ## The Open University
- - [https://help.open.ac.uk](https://help.open.ac.uk)
- - date_published: 2024-05-07T19:51:58.819793+00:00
-
- ## IET: Institute of Educational Technology, The Open University
- - [http://iet.open.ac.uk](http://iet.open.ac.uk)
- - date_published: 2024-06-18T10:22:06.244452+00:00
-
- ## Sign in to your account
- - [https://intranet.open.ac.uk](https://intranet.open.ac.uk)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The Open University
- - [https://learn1.open.ac.uk](https://learn1.open.ac.uk)
- - date_published: 2024-06-24T10:18:11.753452+00:00
-
- ## Saml Proxy page
- - [https://learn2.open.ac.uk](https://learn2.open.ac.uk)
- - date_published: 2024-07-01T16:47:53.546740+00:00
-
- ## The Open University
- - [http://open.ac.uk](http://open.ac.uk)
- - date_published: 2024-07-04T08:06:02+00:00
-
- ## The home of free learning from the Open University
- - [http://openlearn.open.ac.uk](http://openlearn.open.ac.uk)
- - date_published: 2024-10-19T07:31:23.615847+00:00
-
- ## The Open University
- - [http://oro.open.ac.uk](http://oro.open.ac.uk)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## The Open University
- - [https://player.open.ac.uk](https://player.open.ac.uk)
- - date_published: 2024-05-07T19:51:54.512196+00:00
-
- ## Showing all 62 hot projects | Knowledge Media Institute | The Open University
- - [http://projects.kmi.open.ac.uk](http://projects.kmi.open.ac.uk)
- - date_published: 2024-07-01T16:47:42.904245+00:00
-
- ## Research at The Open University
- - [https://research.open.ac.uk](https://research.open.ac.uk)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Open University System Status
- - [https://status.open.ac.uk](https://status.open.ac.uk)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## The Open University
- - [https://www2.open.ac.uk](https://www2.open.ac.uk)
- - date_published: 2024-05-07T19:51:57.209909+00:00
-
- ## OSS Watch - independent expert advice on open source software
- - [http://www.oss-watch.ac.uk](http://www.oss-watch.ac.uk)
- - date_published: 2022-09-09T18:36:41+00:00
-
- ## Home — Centre for Evidence-Based Medicine (CEBM), University of Oxford
- - [https://046.medsci.ox.ac.uk](https://046.medsci.ox.ac.uk)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## 15cBOOKTRADE | Evidence-based assessment and visualization of the distribution, sale, and reception of 15th-century printed Books (incunabula) in the Renaissance
- - [http://15cbooktrade.ox.ac.uk](http://15cbooktrade.ox.ac.uk)
- - date_published: 2024-06-17T18:18:51.177289+00:00
-
- ## Home
- - [https://academic.admin.ox.ac.uk](https://academic.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:37:41+00:00
-
- ## Home
- - [https://academic.web.ox.ac.uk](https://academic.web.ox.ac.uk)
- - date_published: 2024-06-17T08:42:07+00:00
-
- ## Wagtail - Sign in
- - [https://admin.wadham.ox.ac.uk](https://admin.wadham.ox.ac.uk)
- - date_published: 2024-06-17T18:32:58.084634+00:00
-
- ## AIMS
- - [https://aims.robots.ox.ac.uk](https://aims.robots.ox.ac.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## HOME
- - [https://alumni.ox.ac.uk](https://alumni.ox.ac.uk)
- - date_published: 2024-06-14T09:11:41+00:00
-
- ## Alumni & Friends - Keble College
- - [https://anniversary.keble.ox.ac.uk](https://anniversary.keble.ox.ac.uk)
- - date_published: 2023-09-26T00:00:00+00:00
-
- ## Home
- - [https://anthro.web.ox.ac.uk](https://anthro.web.ox.ac.uk)
- - date_published: 2024-06-14T13:26:54+00:00
-
- ## Home
- - [https://apprenticeships.web.ox.ac.uk](https://apprenticeships.web.ox.ac.uk)
- - date_published: 2024-10-20T06:56:03.128554+00:00
-
- ## Home
- - [https://archit.web.ox.ac.uk](https://archit.web.ox.ac.uk)
- - date_published: 2024-06-15T17:04:59+00:00
-
- ## Welcome to the Griffith Institute Archive's Online Catalogue - Griffith Institute Archive
- - [http://archive.griffith.ox.ac.uk](http://archive.griffith.ox.ac.uk)
- - date_published: 2024-10-20T06:55:09.372701+00:00
-
- ## Home
- - [https://areastudies.web.ox.ac.uk](https://areastudies.web.ox.ac.uk)
- - date_published: 2024-06-11T17:30:20+00:00
-
- ## Welcome
- - [https://ashmolean.web.ox.ac.uk](https://ashmolean.web.ox.ac.uk)
- - date_published: 2024-06-17T16:48:35+00:00
-
- ## Ballads Online
- - [http://ballads.bodleian.ox.ac.uk](http://ballads.bodleian.ox.ac.uk)
- - date_published: 2024-08-11T04:57:32.834530+00:00
-
- ## Balliol College
- - [https://balliol.ox.ac.uk](https://balliol.ox.ac.uk)
- - date_published: 2024-10-20T05:28:03.176811+00:00
-
- ## Home The Bate Collection of Musical Instruments
- - [https://bate.web.ox.ac.uk](https://bate.web.ox.ac.uk)
- - date_published: 2024-10-20T06:47:30.522763+00:00
-
- ## Bennett Institute for Applied Data Science - University of Oxford
- - [https://bennett.ox.ac.uk](https://bennett.ox.ac.uk)
- - date_published: 2024-05-08T11:17:03.329283+00:00
-
- ## Beyond Antibiotics: A Programme Grant funded by the Engineering and Physical Sciences Research Council (EPSRC), Institute of Biomedical Engineering, University of Oxford
- - [https://beyondantibiotics.ox.ac.uk](https://beyondantibiotics.ox.ac.uk)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Home
- - [https://blog.politics.ox.ac.uk](https://blog.politics.ox.ac.uk)
- - date_published: 2024-06-24T07:39:08+00:00
-
- ## Practical Ethics
- - [https://blog.practicalethics.ox.ac.uk](https://blog.practicalethics.ox.ac.uk)
- - date_published: 2023-10-25T22:49:17.344700+00:00
-
- ## Bodleian Libraries blogs
- - [https://blogs.bodleian.ox.ac.uk](https://blogs.bodleian.ox.ac.uk)
- - date_published: 2023-12-22T21:18:28.167479+00:00
-
- ## IT Services Blogs | thoughts from University of Oxford IT Services
- - [https://blogs.it.ox.ac.uk](https://blogs.it.ox.ac.uk)
- - date_published: 2024-06-17T18:19:46.475557+00:00
-
- ## Blog Homepage | Oxford Law Blogs
- - [https://blogs.law.ox.ac.uk](https://blogs.law.ox.ac.uk)
- - date_published: 2024-06-17T18:23:05.336311+00:00
-
- ## Blogs from the Museum of the History of Science - MHS Blogs
- - [https://blogs.mhs.ox.ac.uk](https://blogs.mhs.ox.ac.uk)
- - date_published: 2015-08-02T00:00:00+00:00
-
- ## Index
- - [http://blogs.some.ox.ac.uk](http://blogs.some.ox.ac.uk)
- - date_published: 2024-06-17T18:18:06.239818+00:00
-
- ## Digital Bodleian
- - [http://bodley30.bodley.ox.ac.uk](http://bodley30.bodley.ox.ac.uk)
- - date_published: 2024-10-20T05:28:21.179328+00:00
-
- ## Language and Brain Laboratory
- - [http://brainlab.clp.ox.ac.uk](http://brainlab.clp.ox.ac.uk)
- - date_published: 2024-06-17T17:19:06+00:00
-
- ## Homepage | Blavatnik School of Government
- - [https://bsg.ox.ac.uk](https://bsg.ox.ac.uk)
- - date_published: 2024-10-29T05:16:53.412541+00:00
-
- ## Login to Canvas - University of Oxford
- - [https://canvas.ox.ac.uk](https://canvas.ox.ac.uk)
- - date_published: 2024-06-17T18:33:06.673535+00:00
-
- ## Catherine's Correspondence / Home
- - [https://catcor.seh.ox.ac.uk](https://catcor.seh.ox.ac.uk)
- - date_published: 2024-10-20T06:38:34.248388+00:00
-
- ## Home
- - [https://chem.web.ox.ac.uk](https://chem.web.ox.ac.uk)
- - date_published: 2024-06-17T09:04:02+00:00
-
- ## Home
- - [https://childcare.admin.ox.ac.uk](https://childcare.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:39:11+00:00
-
- ## Home
- - [https://clasoutreach.web.ox.ac.uk](https://clasoutreach.web.ox.ac.uk)
- - date_published: 2024-06-13T20:38:41+00:00
-
- ## Centre for Manuscript and Text Cultures
- - [https://cmtc.queens.ox.ac.uk](https://cmtc.queens.ox.ac.uk)
- - date_published: 2024-06-17T18:58:51.204382+00:00
-
- ## home
- - [https://collegevacancies.web.ox.ac.uk](https://collegevacancies.web.ox.ac.uk)
- - date_published: 2024-06-17T16:15:14+00:00
-
- ## Home
- - [https://communications.admin.ox.ac.uk](https://communications.admin.ox.ac.uk)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Home
- - [https://compliance.admin.ox.ac.uk](https://compliance.admin.ox.ac.uk)
- - date_published: 2024-05-02T10:58:44.978006+00:00
-
- ## Home
- - [https://compliance.web.ox.ac.uk](https://compliance.web.ox.ac.uk)
- - date_published: 2024-05-02T10:59:09.942716+00:00
-
- ## Keble College Oxford - Conferences, Events & Accommodation
- - [https://conference.keble.ox.ac.uk](https://conference.keble.ox.ac.uk)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Oxford University Department for Continuing Education
- - [https://conted.ox.ac.uk](https://conted.ox.ac.uk)
- - date_published: 2024-06-17T18:20:09.492748+00:00
-
- ## Home
- - [https://core.web.ox.ac.uk](https://core.web.ox.ac.uk)
- - date_published: 2024-06-17T15:06:24+00:00
-
- ## IT training and digital skills
- - [https://courses.it.ox.ac.uk](https://courses.it.ox.ac.uk)
- - date_published: 2024-06-15T21:03:36+00:00
-
- ## Home
- - [https://csae.web.ox.ac.uk](https://csae.web.ox.ac.uk)
- - date_published: 2024-10-20T06:16:33.852292+00:00
-
- ## Home
- - [https://ctl.ox.ac.uk](https://ctl.ox.ac.uk)
- - date_published: 2024-06-11T09:42:12+00:00
-
- ## Digital Bodleian
- - [https://digital2.bodleian.ox.ac.uk](https://digital2.bodleian.ox.ac.uk)
- - date_published: 2024-10-20T05:31:08.574131+00:00
-
- ## Digital Bodleian
- - [https://digital.bodleian.ox.ac.uk](https://digital.bodleian.ox.ac.uk)
- - date_published: 2024-06-17T18:17:58.988745+00:00
-
- ## OxDNA
- - [https://dna.physics.ox.ac.uk](https://dna.physics.ox.ac.uk)
- - date_published: 2024-04-25T13:25:18+00:00
-
- ## BRAHMS: Oxford
- - [http://dps007.plants.ox.ac.uk](http://dps007.plants.ox.ac.uk)
- - date_published: 2024-10-20T05:37:35.138591+00:00
-
- ## Home
- - [https://dspi.web.ox.ac.uk](https://dspi.web.ox.ac.uk)
- - date_published: 2024-06-17T14:46:56+00:00
-
- ## Dynamic Robot Systems Group
- - [https://dynamic.robots.ox.ac.uk](https://dynamic.robots.ox.ac.uk)
- - date_published: 2024-10-20T07:37:12.743282+00:00
-
- ## Taylor Editions / Home Page
- - [https://editions.mml.ox.ac.uk](https://editions.mml.ox.ac.uk)
- - date_published: 2024-12-31T18:42:10.045881+00:00
-
- ## Home page
- - [https://edu.admin.ox.ac.uk](https://edu.admin.ox.ac.uk)
- - date_published: 2024-06-13T10:16:17+00:00
-
- ## Home page
- - [https://edu.web.ox.ac.uk](https://edu.web.ox.ac.uk)
- - date_published: 2024-06-13T19:57:47+00:00
-
- ## Early Modern Letters Online : Home
- - [http://emlo.bodleian.ox.ac.uk](http://emlo.bodleian.ox.ac.uk)
- - date_published: 2024-06-17T18:18:56.830451+00:00
-
- ## Department of Engineering Science | University of Oxford
- - [https://eng.ox.ac.uk](https://eng.ox.ac.uk)
- - date_published: 2024-06-17T18:56:55.517824+00:00
-
- ## Welcome to the Oxford DTP in Environmental Research
- - [https://envres.web.ox.ac.uk](https://envres.web.ox.ac.uk)
- - date_published: 2024-06-16T09:33:54+00:00
-
- ## https://eodg.atm.ox.ac.uk
- - [https://eodg.atm.ox.ac.uk](https://eodg.atm.ox.ac.uk)
- - date_published: 2022-07-20T15:01:04+00:00
-
- ## Energy and Power Group, Department of Engineering Science, University of Oxford
- - [https://epg.eng.ox.ac.uk](https://epg.eng.ox.ac.uk)
- - date_published: 2024-06-17T19:00:06.029015+00:00
-
- ## Home
- - [https://estates.admin.ox.ac.uk](https://estates.admin.ox.ac.uk)
- - date_published: 2024-06-14T08:40:44+00:00
-
- ## Wadham College
- - [https://events.wadham.ox.ac.uk](https://events.wadham.ox.ac.uk)
- - date_published: 2024-06-17T18:32:56.981997+00:00
-
- ## Linguistics at Oxford –
- - [https://explore.ling-phil.ox.ac.uk](https://explore.ling-phil.ox.ac.uk)
- - date_published: 2024-06-17T18:57:01.579291+00:00
-
- ## Home
- - [https://finance.admin.ox.ac.uk](https://finance.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:32:16+00:00
-
- ## Home
- - [https://focus.admin.ox.ac.uk](https://focus.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:55:28+00:00
-
- ## Home
- - [https://foxtalbot.bodleian.ox.ac.uk](https://foxtalbot.bodleian.ox.ac.uk)
- - date_published: 2015-04-22T15:00:37+00:00
-
- ## Frontiers of Socio-Legal Studies
- - [https://frontiers.csls.ox.ac.uk](https://frontiers.csls.ox.ac.uk)
- - date_published: 2024-10-20T05:59:51.934427+00:00
-
- ## Document
- - [https://fsl.fmrib.ox.ac.uk](https://fsl.fmrib.ox.ac.uk)
- - date_published: 2024-10-20T07:16:34.773364+00:00
-
- ## Kellogg College Giving Day 2024
- - [https://givingday.kellogg.ox.ac.uk](https://givingday.kellogg.ox.ac.uk)
- - date_published: 2024-06-17T18:45:16.415296+00:00
-
- ## Home
- - [https://glamit.web.ox.ac.uk](https://glamit.web.ox.ac.uk)
- - date_published: 2024-10-20T05:37:48.247917+00:00
-
- ## Home
- - [https://glam.web.ox.ac.uk](https://glam.web.ox.ac.uk)
- - date_published: 2024-05-02T10:57:33.164842+00:00
-
- ## Home
- - [https://globalcapitalism.history.ox.ac.uk](https://globalcapitalism.history.ox.ac.uk)
- - date_published: 2024-05-29T01:37:51.785684+00:00
-
- ## Home
- - [https://globalcapitalism.web.ox.ac.uk](https://globalcapitalism.web.ox.ac.uk)
- - date_published: 2024-09-02T07:20:19+00:00
-
- ## Oxford's International Research
- - [https://globalresearch.admin.ox.ac.uk](https://globalresearch.admin.ox.ac.uk)
- - date_published: 2024-10-20T07:05:54.265164+00:00
-
- ## GO Lab
- - [https://golab.bsg.ox.ac.uk](https://golab.bsg.ox.ac.uk)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home
- - [http://governance.admin.ox.ac.uk](http://governance.admin.ox.ac.uk)
- - date_published: 2024-06-14T09:43:18+00:00
-
- ## Home
- - [https://governance.web.ox.ac.uk](https://governance.web.ox.ac.uk)
- - date_published: 2024-06-17T09:01:24+00:00
-
- ## Home
- - [https://gradaccommodation.admin.ox.ac.uk](https://gradaccommodation.admin.ox.ac.uk)
- - date_published: 2024-10-20T07:11:02.374805+00:00
-
- ## hallmarkscampaign | Forged by the Hall
- - [https://hallmarkscampaign.seh.ox.ac.uk](https://hallmarkscampaign.seh.ox.ac.uk)
- - date_published: 2024-06-17T18:36:03.939423+00:00
-
- ## Home - Kellogg Student Handbook
- - [http://handbook.kellogg.ox.ac.uk](http://handbook.kellogg.ox.ac.uk)
- - date_published: 2024-06-17T18:45:08.709662+00:00
-
- ## Home
- - [https://help.it.ox.ac.uk](https://help.it.ox.ac.uk)
- - date_published: 2024-06-13T19:26:43+00:00
-
- ## BRAHMS: Oxford
- - [https://herbaria.plants.ox.ac.uk](https://herbaria.plants.ox.ac.uk)
- - date_published: 2024-06-17T18:19:15.365249+00:00
-
- ## Home - Keble College
- - [https://heritage.keble.ox.ac.uk](https://heritage.keble.ox.ac.uk)
- - date_published: 2020-04-23T00:00:00+00:00
-
- ## Welcome
- - [https://hoa.web.ox.ac.uk](https://hoa.web.ox.ac.uk)
- - date_published: 2024-06-17T10:40:39+00:00
-
- ## Home
- - [https://hr.admin.ox.ac.uk](https://hr.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:31:13+00:00
-
- ## Home
- - [https://hr.web.ox.ac.uk](https://hr.web.ox.ac.uk)
- - date_published: 2024-06-15T22:46:52+00:00
-
- ## Home
- - [https://hsm.ox.ac.uk](https://hsm.ox.ac.uk)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## Hub Home - Wolfson Hub
- - [https://hub.wolf.ox.ac.uk](https://hub.wolf.ox.ac.uk)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## IBME – Institute of Biomedical Engineering
- - [https://ibme.ox.ac.uk](https://ibme.ox.ac.uk)
- - date_published: 2024-06-17T19:00:11.835991+00:00
-
- ## Welcome
- - [https://imcc.web.ox.ac.uk](https://imcc.web.ox.ac.uk)
- - date_published: 2024-06-12T02:28:26+00:00
-
- ## Oxford University Innovation - Impact Report 2023
- - [https://impactreport2023.innovation.ox.ac.uk](https://impactreport2023.innovation.ox.ac.uk)
- - date_published: 2024-10-20T06:41:23.855990+00:00
-
- ## Oxford University Innovation Ltd.
- - [https://innovation.ox.ac.uk](https://innovation.ox.ac.uk)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.bioch.ox.ac.uk](https://intranet.bioch.ox.ac.uk)
- - date_published: 2024-06-17T18:34:03.424189+00:00
-
- ## Intranet login | ChCh Intranet | ChCh Intranet
- - [https://intranet.chch.ox.ac.uk](https://intranet.chch.ox.ac.uk)
- - date_published: 2024-06-17T18:33:54.860073+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.cs.ox.ac.uk](https://intranet.cs.ox.ac.uk)
- - date_published: 2024-05-02T10:58:34.840211+00:00
-
- ## Sign in to your account
- - [https://intranet.hertford.ox.ac.uk](https://intranet.hertford.ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.lmh.ox.ac.uk](https://intranet.lmh.ox.ac.uk)
- - date_published: 2024-06-17T18:34:23.663474+00:00
-
- ## Merton Intranet - not logged in home | Merton Intranet
- - [https://intranet.merton.ox.ac.uk](https://intranet.merton.ox.ac.uk)
- - date_published: 2024-06-17T18:35:42.490775+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.ndorms.ox.ac.uk](https://intranet.ndorms.ox.ac.uk)
- - date_published: 2024-06-17T18:45:22.756863+00:00
-
- ## Sign In
- - [https://intranet.nuff.ox.ac.uk](https://intranet.nuff.ox.ac.uk)
- - date_published: 2024-06-15T04:38:09.696455+00:00
-
- ## Sign in to your account
- - [https://intranet.oii.ox.ac.uk](https://intranet.oii.ox.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Faculty of Asian and Middle Eastern Studies Intranet - Faculty of Asian and Middle Eastern Intranet
- - [http://intranet.orient.ox.ac.uk](http://intranet.orient.ox.ac.uk)
- - date_published: 2024-06-17T18:45:52.872046+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.ouce.ox.ac.uk](https://intranet.ouce.ox.ac.uk)
- - date_published: 2024-06-17T18:58:12.723018+00:00
-
- ## Log in | Pathology Intranet
- - [https://intranet.path.ox.ac.uk](https://intranet.path.ox.ac.uk)
- - date_published: 2024-06-17T18:57:47.862456+00:00
-
- ## Welcome | Pembroke Intranet
- - [https://intranet.pmb.ox.ac.uk](https://intranet.pmb.ox.ac.uk)
- - date_published: 2024-06-17T18:33:25.582962+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.politics.ox.ac.uk](https://intranet.politics.ox.ac.uk)
- - date_published: 2024-06-29T21:18:42.500848+00:00
-
- ## Login | ODID Intranet
- - [https://intranet.qeh.ox.ac.uk](https://intranet.qeh.ox.ac.uk)
- - date_published: 2024-06-17T18:37:09.885662+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.st-hughs.ox.ac.uk](https://intranet.st-hughs.ox.ac.uk)
- - date_published: 2024-06-17T18:32:40.022169+00:00
-
- ## Trinity College Intranet
- - [https://intranet.trinity.ox.ac.uk](https://intranet.trinity.ox.ac.uk)
- - date_published: 2023-07-31T16:24:07+00:00
-
- ## Home
- - [https://invisibleeast.web.ox.ac.uk](https://invisibleeast.web.ox.ac.uk)
- - date_published: 2024-06-17T18:45:43.854756+00:00
-
- ## Home
- - [https://it.museums.ox.ac.uk](https://it.museums.ox.ac.uk)
- - date_published: 2024-06-13T19:33:31+00:00
-
- ## Home
- - [https://it.ox.ac.uk](https://it.ox.ac.uk)
- - date_published: 2024-10-20T05:38:08.920945+00:00
-
- ## Junior Common Room – Worcester College
- - [https://jcr.worc.ox.ac.uk](https://jcr.worc.ox.ac.uk)
- - date_published: 2024-06-17T18:34:58+00:00
-
- ## Jerugroup
- - [https://jerugroup.eng.ox.ac.uk](https://jerugroup.eng.ox.ac.uk)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Restricted access | Jesus College Oxford
- - [https://jesuscollegeintranet.web.ox.ac.uk](https://jesuscollegeintranet.web.ox.ac.uk)
- - date_published: 2024-06-17T18:46:01+00:00
-
- ## Home
- - [https://jobs.ox.ac.uk](https://jobs.ox.ac.uk)
- - date_published: 2024-06-16T04:59:53+00:00
-
- ## Home
- - [https://l4dc.web.ox.ac.uk](https://l4dc.web.ox.ac.uk)
- - date_published: 2024-06-20T22:20:18+00:00
-
- ## Home
- - [https://learningzone.oumnh.ox.ac.uk](https://learningzone.oumnh.ox.ac.uk)
- - date_published: 2024-06-13T19:43:16+00:00
-
- ## Professional services and University administration
- - [http://legal.admin.ox.ac.uk](http://legal.admin.ox.ac.uk)
- - date_published: 2024-06-13T09:23:19+00:00
-
- ## Oxford LibGuides: Subject and Research Guides: Home
- - [https://libguides.bodleian.ox.ac.uk](https://libguides.bodleian.ox.ac.uk)
- - date_published: 2024-06-17T18:18:15.892668+00:00
-
- ## Home | Lincoln College Oxford
- - [https://lincoln.ox.ac.uk](https://lincoln.ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Login to Canvas - University of Oxford
- - [https://login.canvas.ox.ac.uk](https://login.canvas.ox.ac.uk)
- - date_published: 2024-06-17T18:20:07.402335+00:00
-
- ## Homepage | Laudato Si' Research Institute
- - [https://lsri.campion.ox.ac.uk](https://lsri.campion.ox.ac.uk)
- - date_published: 2024-06-17T18:35:13.076545+00:00
-
- ## Site Maintenance
- - [https://maillist.ox.ac.uk](https://maillist.ox.ac.uk)
- - date_published: 2019-08-12T13:09:53+00:00
-
- ## Interactive Map
- - [http://maps.ox.ac.uk](http://maps.ox.ac.uk)
- - date_published: 2022-10-09T04:28:19+00:00
-
- ## Worcester College MCR – Welcome to Worcester MCR
- - [https://mcr.worc.ox.ac.uk](https://mcr.worc.ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://meals.oriel.ox.ac.uk](https://meals.oriel.ox.ac.uk)
- - date_published: 2024-06-17T18:31:55.336788+00:00
-
- ## IIS Windows Server
- - [http://meals.rpc.ox.ac.uk](http://meals.rpc.ox.ac.uk)
- - date_published: 2024-04-02T10:36:24+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://mediapub.it.ox.ac.uk](https://mediapub.it.ox.ac.uk)
- - date_published: 2024-06-17T18:20:29.524552+00:00
-
- ## Medieval Manuscripts in Oxford Libraries
- - [https://medieval.bodleian.ox.ac.uk](https://medieval.bodleian.ox.ac.uk)
- - date_published: 2024-08-06T19:19:27.259075+00:00
-
- ## HMC - Members
- - [https://members.hmc.ox.ac.uk](https://members.hmc.ox.ac.uk)
- - date_published: 2024-06-17T18:58:41.932291+00:00
-
- ## Home - Migration Observatory
- - [https://migrationobservatory.ox.ac.uk](https://migrationobservatory.ox.ac.uk)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Faculty of Medieval and Modern Languages
- - [https://mod-langs.ox.ac.uk](https://mod-langs.ox.ac.uk)
- - date_published: 2024-10-20T07:16:15.698580+00:00
-
- ## Oxford Applied and Theoretical Machine Learning Group - OATML
- - [https://oatml.cs.ox.ac.uk](https://oatml.cs.ox.ac.uk)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home
- - [https://occupationalhealth.admin.ox.ac.uk](https://occupationalhealth.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:34:44+00:00
-
- ## Home
- - [https://occupationalhealth.web.ox.ac.uk](https://occupationalhealth.web.ox.ac.uk)
- - date_published: 2024-10-20T07:08:11.623499+00:00
-
- ## Online Egyptological Bibliography
- - [http://oeb.griffith.ox.ac.uk](http://oeb.griffith.ox.ac.uk)
- - date_published: 2024-10-20T06:55:11.075728+00:00
-
- ## Examining the OED - Oxford English Dictionary Research
- - [https://oed.hertford.ox.ac.uk](https://oed.hertford.ox.ac.uk)
- - date_published: 2024-10-20T05:58:47.102306+00:00
-
- ## Oxford e-Research Centre, Department of Engineering Science at Oxford
- - [https://oerc.ox.ac.uk](https://oerc.ox.ac.uk)
+ ## Philips - Türkiye
+ - [https://www.philips.com.tr](https://www.philips.com.tr)
+ - date_published: 2024-10-30T22:42:12+00:00
+
+ ## Yeni ve Kullanılmış Porsche Araçları | Porsche Finder Türkiye
+ - [https://finder.porsche.com.tr](https://finder.porsche.com.tr)
+ - date_published: 2024-06-28T19:27:07.202993+00:00
+
+ ## Porsche Türkiye
+ - [https://porsche.com.tr](https://porsche.com.tr)
+ - date_published: 2024-05-06T23:42:27.658020+00:00
+
+ ## Porsche Shop
+ - [https://shop.porsche.com.tr](https://shop.porsche.com.tr)
+ - date_published: 2024-06-28T19:27:08.876336+00:00
+
+ ## Ana Sayfa
+ - [https://www.posfix.com.tr](https://www.posfix.com.tr)
+ - date_published: 2024-08-06T23:07:02.331800+00:00
+
+ ## Bebek bezleri, bebek bakımı ve ebeveynlik ipuçları | Prima
+ - [https://www.prima.com.tr](https://www.prima.com.tr)
+ - date_published: 2024-10-28T22:48:58+00:00
+
+ ## Dışişleri Bakanlığı - Engelsiz İletişim
+ - [https://kcmvc.pusulacc.com.tr](https://kcmvc.pusulacc.com.tr)
+ - date_published: 2024-10-19T12:51:57.891327+00:00
+
+ ## Ana Sayfa | Radyo ODTÜ 103.1
+ - [https://www.radyoodtu.com.tr](https://www.radyoodtu.com.tr)
  - date_published: 2024-06-14T00:00:00+00:00
 
- ## Home
- - [https://oess.web.ox.ac.uk](https://oess.web.ox.ac.uk)
- - date_published: 2024-06-16T16:15:45+00:00
-
- ## Online Support
- - [https://onlinesupport.conted.ox.ac.uk](https://onlinesupport.conted.ox.ac.uk)
- - date_published: 2024-06-17T18:20:24.634155+00:00
-
- ## Open access at Oxford University
- - [http://openaccess.ox.ac.uk](http://openaccess.ox.ac.uk)
- - date_published: 2024-06-13T19:27:52+00:00
-
- ## OPIG
- - [https://opig.stats.ox.ac.uk](https://opig.stats.ox.ac.uk)
- - date_published: 2024-06-17T18:58:25.856767+00:00
-
- ## ORA - Oxford University Research Archive
- - [http://ora.ouls.ox.ac.uk](http://ora.ouls.ox.ac.uk)
- - date_published: 2024-06-22T14:01:05.541923+00:00
-
- ## ORA - Oxford University Research Archive
- - [https://ora.ox.ac.uk](https://ora.ox.ac.uk)
- - date_published: 2024-05-08T09:46:31.226845+00:00
-
- ## Oxford Robotics Institute, University of Oxford, website
- - [https://ori.ox.ac.uk](https://ori.ox.ac.uk)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Oxford Thermofluids Institute | Home Page
- - [http://oti.eng.ox.ac.uk](http://oti.eng.ox.ac.uk)
- - date_published: 2024-06-17T18:59:56.667849+00:00
-
- ## Home - OUBEP - Business Economics Programme
- - [https://oubep.econ.ox.ac.uk](https://oubep.econ.ox.ac.uk)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Museum of Natural History homepage
- - [https://oumnh.ox.ac.uk](https://oumnh.ox.ac.uk)
- - date_published: 2024-06-17T15:59:18+00:00
-
- ## Museum of Natural History homepage
- - [https://oumnh.web.ox.ac.uk](https://oumnh.web.ox.ac.uk)
- - date_published: 2024-06-17T16:35:46+00:00
-
- ## University of Oxford
- - [https://ox.ac.uk](https://ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Oxford Man Institute of Quantitative Finance - Oxford Man Institute of Quantitative Finance
- - [https://oxford-man.ox.ac.uk](https://oxford-man.ox.ac.uk)
- - date_published: 2024-06-17T19:01:32.636551+00:00
-
- ## Welcome to Mosaic
- - [http://oxfordmosaic.web.ox.ac.uk](http://oxfordmosaic.web.ox.ac.uk)
- - date_published: 2024-06-13T09:12:06+00:00
-
- ## Home
- - [http://oxrep.classics.ox.ac.uk](http://oxrep.classics.ox.ac.uk)
- - date_published: 2024-10-29T18:15:07.664948+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://oxris.ox.ac.uk](https://oxris.ox.ac.uk)
- - date_published: 2024-06-17T18:59:02.777204+00:00
-
- ## People | Mathematical Institute
- - [https://people.maths.ox.ac.uk](https://people.maths.ox.ac.uk)
- - date_published: 2024-05-07T15:58:08.178575+00:00
-
- ## Home
- - [https://philosophy.web.ox.ac.uk](https://philosophy.web.ox.ac.uk)
- - date_published: 2024-06-13T14:44:00+00:00
-
- ## Home
- - [http://pod.admin.ox.ac.uk](http://pod.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:44:44+00:00
-
- ## Homepage | University of Oxford Podcasts
- - [https://podcasts.ox.ac.uk](https://podcasts.ox.ac.uk)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Homepage | DPIR
- - [https://politics.ox.ac.uk](https://politics.ox.ac.uk)
- - date_published: 2024-05-07T14:14:16.639825+00:00
-
- ## University of Oxford research repository - Browse
- - [https://portal.sds.ox.ac.uk](https://portal.sds.ox.ac.uk)
- - date_published: 2024-09-19T20:19:44.530016+00:00
-
- ## Home
- - [https://prm.web.ox.ac.uk](https://prm.web.ox.ac.uk)
- - date_published: 2024-06-17T09:31:24+00:00
-
- ## Home
- - [https://projects.it.ox.ac.uk](https://projects.it.ox.ac.uk)
- - date_published: 2024-10-20T05:39:19.342938+00:00
-
- ## Michaelmas Term 2024 - Lecture Lists - Classics - Roombooker
- - [http://rbll.classics.ox.ac.uk](http://rbll.classics.ox.ac.uk)
- - date_published: 2024-06-17T18:23:41.195848+00:00
-
- ## Homepage — Radcliffe Department of Medicine
- - [https://rdm.medsci.ox.ac.uk](https://rdm.medsci.ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Welcome to the Research Data Oxford website
- - [https://researchdata.ox.ac.uk](https://researchdata.ox.ac.uk)
- - date_published: 2024-09-15T19:12:16+00:00
-
- ## Home
- - [https://researchsupport.admin.ox.ac.uk](https://researchsupport.admin.ox.ac.uk)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home
- - [https://resources.orinst.ox.ac.uk](https://resources.orinst.ox.ac.uk)
- - date_published: 2024-06-17T05:20:57+00:00
-
- ## Welcome to Reuben College
- - [https://reuben.ox.ac.uk](https://reuben.ox.ac.uk)
- - date_published: 2024-05-02T10:59:28.169089+00:00
-
- ## Reuters Institute for the Study of Journalism | Reuters Institute for the Study of Journalism
- - [https://reutersinstitute.politics.ox.ac.uk](https://reutersinstitute.politics.ox.ac.uk)
- - date_published: 2024-06-14T19:02:47+00:00
-
- ## Information Engineering Main/Home Page
- - [https://robots.ox.ac.uk](https://robots.ox.ac.uk)
- - date_published: 2024-08-07T16:51:37.277518+00:00
-
- ## Home
- - [https://royce.materials.ox.ac.uk](https://royce.materials.ox.ac.uk)
- - date_published: 2024-06-16T22:34:17+00:00
-
- ## Home
- - [https://safety.admin.ox.ac.uk](https://safety.admin.ox.ac.uk)
- - date_published: 2024-06-11T15:15:48+00:00
-
- ## Home
- - [https://safety.web.ox.ac.uk](https://safety.web.ox.ac.uk)
- - date_published: 2024-10-20T07:08:52.228863+00:00
-
- ## [bnc] British National Corpus
- - [http://sara.natcorp.ox.ac.uk](http://sara.natcorp.ox.ac.uk)
- - date_published: 2024-07-02T05:48:52.107339+00:00
-
- ## Leadership | Saïd Business School
- - [https://sbs.ox.ac.uk](https://sbs.ox.ac.uk)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Home
- - [https://schwarzmancentre.humanities.ox.ac.uk](https://schwarzmancentre.humanities.ox.ac.uk)
- - date_published: 2024-06-14T00:46:03+00:00
-
- ## Hertford Sites & Blogs
- - [https://sites.hertford.ox.ac.uk](https://sites.hertford.ox.ac.uk)
- - date_published: 2024-06-17T18:22:42.237773+00:00
-
- ## Welcome to the Social Sciences Division
- - [https://socsci.web.ox.ac.uk](https://socsci.web.ox.ac.uk)
- - date_published: 2024-06-10T18:50:56+00:00
-
  ## Homepage
- - [https://staff.admin.ox.ac.uk](https://staff.admin.ox.ac.uk)
- - date_published: 2024-05-02T11:07:10.944019+00:00
+ - [https://repkon.com.tr](https://repkon.com.tr)
+ - date_published: 2024-05-09T04:50:58.665920+00:00
 
- ## Homepage
- - [https://staff.web.ox.ac.uk](https://staff.web.ox.ac.uk)
- - date_published: 2024-10-20T06:56:17.454564+00:00
+ ## Home - Riosat
+ - [http://www.riosat.com.tr](http://www.riosat.com.tr)
+ - date_published: 2024-12-12T12:35:22.190506+00:00
 
- ## Service Status Administration
- - [https://status.it.ox.ac.uk](https://status.it.ox.ac.uk)
- - date_published: 2024-10-20T05:39:17.560976+00:00
+ ## Roketsan - Anasayfa
+ - [https://www.roketsan.com.tr](https://www.roketsan.com.tr)
+ - date_published: 2024-09-19T19:59:08.841730+00:00
 
- ## Service Status Administration
- - [http://status.ox.ac.uk](http://status.ox.ac.uk)
- - date_published: 2024-10-20T05:32:38.480405+00:00
+ ## Fora Grup
+ - [https://www.rose.com.tr](https://www.rose.com.tr)
+ - date_published: 2024-12-12T12:35:12.576353+00:00
 
- ## Exceptional Learning For Everyone - St Hugh's College
- - [https://st-hughs.ox.ac.uk](https://st-hughs.ox.ac.uk)
- - date_published: 2024-10-20T06:13:34.374554+00:00
+ ## Rüzgar Enerjisi Teknolojilerinde Son Yenilikler ve Gelişmeler - Rüzgar Enerjisi
+ - [https://www.ruzgarenerjisi.com.tr](https://www.ruzgarenerjisi.com.tr)
+ - date_published: 2021-09-12T09:04:35+00:00
 
- ## Home
- - [https://stx.web.ox.ac.uk](https://stx.web.ox.ac.uk)
- - date_published: 2024-06-17T14:07:54+00:00
+ ## Sanayi Haberleri
+ - [http://www.sanayigazetesi.com.tr](http://www.sanayigazetesi.com.tr)
+ - date_published: 2024-09-19T19:58:28.237263+00:00
 
- ## Home
- - [https://sustainability.admin.ox.ac.uk](https://sustainability.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:38:09+00:00
+ ## Sanayi ve Ekonomi Haberleri / Sanayi Haber Ajansı / Industry News Agency
+ - [https://sanayihaberajansi.com.tr](https://sanayihaberajansi.com.tr)
+ - date_published: 2024-09-19T19:53:59.139221+00:00
 
- ## Welcome to SYSOS - SYSOS
- - [https://sysos.eng.ox.ac.uk](https://sysos.eng.ox.ac.uk)
- - date_published: 2023-10-15T10:03:53+00:00
+ ## Cyber Security | Enterprise Cloud | Sangfor Technologies
+ - [https://sangfor.com.tr](https://sangfor.com.tr)
+ - date_published: 2024-10-29T02:50:51+00:00
 
- ## Welcome
- - [https://taiwanstudies.web.ox.ac.uk](https://taiwanstudies.web.ox.ac.uk)
- - date_published: 2024-06-16T00:44:37+00:00
+ ## Sanofi Türkiye - Sanofi Türkiye
+ - [http://www.sanofi.com.tr](http://www.sanofi.com.tr)
+ - date_published: 2024-06-25T00:00:00+00:00
 
- ## Home
- - [https://talbot.bodleian.ox.ac.uk](https://talbot.bodleian.ox.ac.uk)
- - date_published: 2015-04-22T15:00:37+00:00
+ ## SAVUNMA GAZETESİ / DEFENCE NEWSPAPER
+ - [https://savunmasanayigazetesi.com.tr](https://savunmasanayigazetesi.com.tr)
+ - date_published: 2024-09-19T19:56:51.544042+00:00
 
- ## Events - Oxford Talks
- - [https://talks.ox.ac.uk](https://talks.ox.ac.uk)
- - date_published: 2024-05-02T10:58:43.335582+00:00
+ ## Küresel Müzakere Danışmanlığı, Küresel Müzakere Eğitimi | Scotwork Türkiye
+ - [https://www.scotwork.com.tr](https://www.scotwork.com.tr)
+ - date_published: 2024-06-18T09:42:40.631328+00:00
 
- ## Home
- - [https://tolkien50.web.ox.ac.uk](https://tolkien50.web.ox.ac.uk)
- - date_published: 2024-09-03T17:40:49+00:00
+ ## SDT Uzay & Savunma Teknolojileri - Homepage
+ - [https://sdt.com.tr](https://sdt.com.tr)
+ - date_published: 2024-05-09T04:51:07.531884+00:00
 
- ## Sign in to your account
- - [https://tools.ndm.ox.ac.uk](https://tools.ndm.ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
+ ## Seçkin Yayıncılık
+ - [https://www.seckin.com.tr](https://www.seckin.com.tr)
+ - date_published: 2024-12-13T12:53:52.708131+00:00
 
- ## Topographical Bibliography
- - [http://topbib.griffith.ox.ac.uk](http://topbib.griffith.ox.ac.uk)
- - date_published: 2024-10-20T06:55:20.876663+00:00
+ ## SEDEC 2022 B2B/B2G
+ - [https://b2b.sedecturkiye.com.tr](https://b2b.sedecturkiye.com.tr)
+ - date_published: 2024-09-19T19:58:59.375580+00:00
 
- ## Home
- - [https://torch.ox.ac.uk](https://torch.ox.ac.uk)
- - date_published: 2024-05-02T11:07:07.340330+00:00
+ ## SFA Sanihydro - WC Öğütücüler, Pis su pompaları, Tahliye istasyonları
+ - [https://www.sfapompa.com.tr](https://www.sfapompa.com.tr)
+ - date_published: 2024-12-21T01:20:01.552036+00:00
 
- ## Home
- - [https://torch.web.ox.ac.uk](https://torch.web.ox.ac.uk)
- - date_published: 2024-06-17T16:31:11+00:00
+ ## SGS dünyanın lider gözetim, denetim, test ve belgelendirme kuruluşudur.
+ - [https://www.sgs.com.tr](https://www.sgs.com.tr)
+ - date_published: 2024-09-10T12:52:15.859754+00:00
 
- ## Transpiration Cooling Systems
- - [https://transpirationcooling.eng.ox.ac.uk](https://transpirationcooling.eng.ox.ac.uk)
- - date_published: 2024-06-17T19:00:04.089909+00:00
+ ## Ucuz uçak bileti: en uygun uçak bileti fiyatlarını bulun | Skyscanner
+ - [https://www.skyscanner.com.tr](https://www.skyscanner.com.tr)
+ - date_published: 2024-07-10T03:24:10.374639+00:00
 
- ## Home
- - [https://travel.admin.ox.ac.uk](https://travel.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:44:45+00:00
+ ## SKYTECH
+ - [https://skytech.com.tr](https://skytech.com.tr)
+ - date_published: 2024-12-12T12:35:06.838681+00:00
 
- ## Home - OXPOP TV
- - [https://tv.ndph.ox.ac.uk](https://tv.ndph.ox.ac.uk)
- - date_published: 2024-02-20T00:00:00+00:00
+ ## SKYTECH
+ - [http://www.skytech.com.tr](http://www.skytech.com.tr)
+ - date_published: 2024-12-12T12:33:56.895447+00:00
 
- ## Home
- - [https://universityclub.ox.ac.uk](https://universityclub.ox.ac.uk)
- - date_published: 2024-06-16T01:06:21+00:00
+ ## Smartiks Yazılım A.Ş. | Dijital Teknoloji Şirketi | İstanbul
+ - [https://www.smartiks.com.tr](https://www.smartiks.com.tr)
+ - date_published: 2024-06-16T19:52:09.278710+00:00
 
- ## How to use the personal web pages service
- - [http://users.ox.ac.uk](http://users.ox.ac.uk)
- - date_published: 2024-06-20T19:56:19+00:00
+ ## Uygulama haberleri ve incelemeleri, en iyi yazılımlar ve yeni keşifler - Softonic
+ - [https://softonic.com.tr](https://softonic.com.tr)
+ - date_published: 2024-04-29T05:12:00.823607+00:00
 
- ## Vindolanda Tablets Online  |  Welcome
- - [http://vindolanda.csad.ox.ac.uk](http://vindolanda.csad.ox.ac.uk)
- - date_published: 2024-06-24T10:18:04.295580+00:00
+ ## Sony Türkiye | En Yeni Teknoloji Haberleri | Elektronik | Eğlence
+ - [http://www.sony.com.tr](http://www.sony.com.tr)
+ - date_published: 2024-10-21T07:38:23.450361+00:00
 
- ## Home
- - [https://visit.bodleian.ox.ac.uk](https://visit.bodleian.ox.ac.uk)
- - date_published: 2024-06-17T08:00:34+00:00
+ ## Takipçi Satın Al - %100 Türk, Ucuz ve Gerçek - SosyalGram
+ - [https://sosyalgram.com.tr](https://sosyalgram.com.tr)
+ - date_published: 2024-02-21T00:00:00+00:00
 
- ## Oxford Single Sign-On - Manage your Oxford Single Sign-On account
- - [https://webauth.ox.ac.uk](https://webauth.ox.ac.uk)
- - date_published: 2023-05-02T13:39:39+00:00
+ ## İkinci El Araçlar | Spoticar
+ - [https://www.spoticar.com.tr](https://www.spoticar.com.tr)
+ - date_published: 2024-07-04T07:10:42+00:00
 
- ## Department of Computer Science, University of Oxford
- - [http://web.comlab.ox.ac.uk](http://web.comlab.ox.ac.uk)
- - date_published: 2024-07-07T10:13:41.534304+00:00
+ ## SSTEK
+ - [https://sstek.com.tr](https://sstek.com.tr)
+ - date_published: 2024-09-19T19:55:45.256315+00:00
 
- ## WebLearn
- - [https://weblearn.ox.ac.uk](https://weblearn.ox.ac.uk)
- - date_published: 2024-06-17T18:23:46.136689+00:00
+ ## Statkraft
+ - [https://www.statkraft.com.tr](https://www.statkraft.com.tr)
+ - date_published: 2023-11-07T00:00:00+00:00
 
- ## IIS Windows Server
- - [http://web.path.ox.ac.uk](http://web.path.ox.ac.uk)
- - date_published: 2018-07-10T13:46:47+00:00
+ ## STM - Sınırsız Teknolojiler, Güvenli Yarınlar
+ - [https://www.stm.com.tr](https://www.stm.com.tr)
+ - date_published: 2024-12-19T18:31:26.023022+00:00
 
- ## SSO Login Service - Loading Session Information
- - [https://webstats.phon.ox.ac.uk](https://webstats.phon.ox.ac.uk)
- - date_published: 2024-06-17T18:56:56.886595+00:00
+ ## SUNNY - bu teknoloji senin için
+ - [http://www.sunny.com.tr](http://www.sunny.com.tr)
+ - date_published: 2024-12-12T11:25:58+00:00
 
- ## Home
- - [https://welcome.ox.ac.uk](https://welcome.ox.ac.uk)
- - date_published: 2024-06-13T19:41:15+00:00
+ ## Superprof - Özel ders öğretmenleri topluluğu
+ - [https://superprof.com.tr](https://superprof.com.tr)
+ - date_published: 2024-06-15T01:27:24.115651+00:00
 
- ## Wellbeing Research Centre
- - [https://wellbeing.hmc.ox.ac.uk](https://wellbeing.hmc.ox.ac.uk)
- - date_published: 2024-05-13T00:00:00+00:00
+ ## Tahincioğlu Evden Eve Nakliyat - İstanbul Nakliyat 444 4 089 - Tahincioğlu Evden Eve Nakliyat, 1953'ten beri profesyonel olarak İstanbul Nakliyat, şehirler arası nakliyat ve asansörlü nakliyatta çözüm ortağınızdır.
+ - [https://tahincioglunakliyat.com.tr](https://tahincioglunakliyat.com.tr)
+ - date_published: 2024-06-11T23:35:57.870993+00:00
 
- ## BDLSS Blog | Bodleian Digital Library
- - [http://wordpress-prd.bodleian.ox.ac.uk](http://wordpress-prd.bodleian.ox.ac.uk)
- - date_published: 2024-10-20T05:35:48.492482+00:00
+ ## ANASAYFA - TUSAS
+ - [http://www.tai.com.tr](http://www.tai.com.tr)
+ - date_published: 2024-07-09T22:02:18.206104+00:00
 
- ## Oxford World War I Centenary Programme
- - [https://ww1centenary.bodleian.ox.ac.uk](https://ww1centenary.bodleian.ox.ac.uk)
- - date_published: 2024-05-02T10:57:35.978499+00:00
+ ## Target A.Ş | Promptness, Persistence, Patience Since 1975
+ - [https://www.target.com.tr](https://www.target.com.tr)
+ - date_published: 2024-12-13T13:06:43.531483+00:00
 
- ## Department of Physics - Oxford University
- - [https://www2.physics.ox.ac.uk](https://www2.physics.ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
+ ## Hata
+ - [https://tebdost2.tebcetelem.com.tr](https://tebdost2.tebcetelem.com.tr)
+ - date_published: 2024-07-04T07:38:55.464688+00:00
 
- ## Home
- - [https://www.accessguide.ox.ac.uk](https://www.accessguide.ox.ac.uk)
- - date_published: 2024-06-13T19:34:32+00:00
+ ## Ana Sayfa
+ - [https://www.teknoparkankara.com.tr](https://www.teknoparkankara.com.tr)
+ - date_published: 2024-09-19T19:57:26.584820+00:00
 
- ## Home
- - [https://www.africanstudies.ox.ac.uk](https://www.africanstudies.ox.ac.uk)
- - date_published: 2024-06-13T14:38:01+00:00
+ ## Askeri Mobil İklimlendirme, Özel İklimlendirme Sistemleri, Yer Destek Cihazları
+ - [https://www.thermacool.com.tr](https://www.thermacool.com.tr)
+ - date_published: 2024-09-19T19:57:36.008447+00:00
 
- ## The Agile Initiative
- - [https://www.agile-initiative.ox.ac.uk](https://www.agile-initiative.ox.ac.uk)
- - date_published: 2024-06-17T18:36:50.899091+00:00
+ ## ANASAYFA - Ticketmaster Business TR
+ - [https://business.ticketmaster.com.tr](https://business.ticketmaster.com.tr)
+ - date_published: 2024-01-18T15:08:54+00:00
 
- ## Home page - Alumni Oriel
- - [https://www.alumni.oriel.ox.ac.uk](https://www.alumni.oriel.ox.ac.uk)
- - date_published: 2024-06-17T18:32:10.453670+00:00
+ ## TİTRA - ANASAYFA
+ - [https://titra.com.tr](https://titra.com.tr)
+ - date_published: 2024-09-19T19:52:43.253367+00:00
 
- ## This page has moved - University of Oxford
- - [https://www.alumniweb.ox.ac.uk](https://www.alumniweb.ox.ac.uk)
- - date_published: 2024-06-17T18:23:57.238139+00:00
-
- ## Home
- - [https://www.ames.ox.ac.uk](https://www.ames.ox.ac.uk)
- - date_published: 2024-06-13T14:47:43+00:00
-
- ## Home
- - [https://www.anthro.ox.ac.uk](https://www.anthro.ox.ac.uk)
- - date_published: 2024-05-02T11:06:43.116981+00:00
-
- ## Welcome | APGRD
- - [http://www.apgrd.ox.ac.uk](http://www.apgrd.ox.ac.uk)
- - date_published: 2024-06-24T10:22:15.780758+00:00
-
- ## Home
- - [https://www.apprenticeships.ox.ac.uk](https://www.apprenticeships.ox.ac.uk)
- - date_published: 2024-06-13T19:37:30+00:00
-
- ## Home
- - [https://www.arch.ox.ac.uk](https://www.arch.ox.ac.uk)
- - date_published: 2024-05-02T11:07:55.633850+00:00
-
- ## Home
- - [https://www.area-studies.ox.ac.uk](https://www.area-studies.ox.ac.uk)
- - date_published: 2024-05-02T10:59:47.560865+00:00
-
- ## Homepage | All Souls College
- - [https://www.asc.ox.ac.uk](https://www.asc.ox.ac.uk)
- - date_published: 2024-05-02T11:05:35.212860+00:00
-
- ## Home
- - [http://www.bate.ox.ac.uk](http://www.bate.ox.ac.uk)
- - date_published: 2024-06-17T14:46:08+00:00
-
- ## Begbroke Science Park | University of Oxford
- - [https://www.begbroke.ox.ac.uk](https://www.begbroke.ox.ac.uk)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Homepage
- - [https://www.bfriars.ox.ac.uk](https://www.bfriars.ox.ac.uk)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Home
- - [https://www.bioch.ox.ac.uk](https://www.bioch.ox.ac.uk)
- - date_published: 2024-05-02T11:05:16.864555+00:00
-
- ## Home
- - [https://www.biology.ox.ac.uk](https://www.biology.ox.ac.uk)
- - date_published: 2024-05-02T11:05:46.820816+00:00
+ ## Tivibu: Canlı TV Kanalları, Spor, Filmler, Diziler!
+ - [https://www.tivibu.com.tr](https://www.tivibu.com.tr)
+ - date_published: 2024-12-12T12:34:52.931279+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.bnc.ox.ac.uk](https://www.bnc.ox.ac.uk)
- - date_published: 2024-05-02T11:06:24.905551+00:00
+ - [https://tokero.com.tr](https://tokero.com.tr)
+ - date_published: 2024-09-24T20:52:37.987206+00:00
+
+ ## Toyota İletişim Merkezi
+ - [https://basvurumerkezi.toyota.com.tr](https://basvurumerkezi.toyota.com.tr)
+ - date_published: 2024-09-15T10:36:10+00:00
+
+ ## Toyota Türkiye Blog -
+ - [https://blog.toyota.com.tr](https://blog.toyota.com.tr)
+ - date_published: 2024-10-16T12:22:09+00:00
+
+ ## Eski Dostlar Programı - Orjinal Yedek Parçalar | Toyota
+ - [https://eskidostlar.toyota.com.tr](https://eskidostlar.toyota.com.tr)
+ - date_published: 2024-10-16T16:16:36.615575+00:00
+
+ ## Toyota İletişim Merkezi
+ - [https://iletisim.toyota.com.tr](https://iletisim.toyota.com.tr)
+ - date_published: 2024-09-15T10:36:10+00:00
+
+ ## Toyota Online Rezervasyon
+ - [https://online.toyota.com.tr](https://online.toyota.com.tr)
+ - date_published: 2024-10-16T16:15:21.678407+00:00
+
+ ## Online Servis Randevusu
+ - [https://servisrandevusu.toyota.com.tr](https://servisrandevusu.toyota.com.tr)
+ - date_published: 2024-10-16T16:15:08.545941+00:00
+
+ ## Toyota Modellerini Keşfedin | Toyota Türkiye
+ - [https://www.toyota.com.tr](https://www.toyota.com.tr)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Futbol üzerine her şey: Piyasa Değerleri, Söylentiler, Transferler, İstatistikler, Haberler ve Röportajlar
+ - [https://www.transfermarkt.com.tr](https://www.transfermarkt.com.tr)
+ - date_published: 2024-07-24T06:23:27.300126+00:00
+
+ ## Tripadvisor: Oteller, Gezilecek Yerler, Restoranlar ve daha fazlası hakkında bir milyardan fazla yorum ve katkı
+ - [https://www.tripadvisor.com.tr](https://www.tripadvisor.com.tr)
+ - date_published: 2024-06-23T09:27:43.011026+00:00
+
+ ## trivago.com.tr - Compare hotel prices worldwide
+ - [https://www.trivago.com.tr](https://www.trivago.com.tr)
+ - date_published: 2024-09-04T11:20:14.501282+00:00
+
+ ## TRT SPOR - Spor Haberleri ve Son Dakika Transfer Gelişmeleri
+ - [https://www.trtspor.com.tr](https://www.trtspor.com.tr)
+ - date_published: 2024-12-12T21:12:54.025800+00:00
+
+ ## T-Soft Developer Portal | T-Soft  Documentation
+ - [https://developer.tsoft.com.tr](https://developer.tsoft.com.tr)
+ - date_published: 2024-04-16T06:42:39+00:00
+
+ ## T-Soft Destek Sistemi
+ - [https://help.tsoft.com.tr](https://help.tsoft.com.tr)
+ - date_published: 2024-08-06T23:09:01.623650+00:00
+
+ ## Ana Sayfa - T-Soft Kargo - Yeni Nesil Kargo Otomasyonu
+ - [https://kargo.tsoft.com.tr](https://kargo.tsoft.com.tr)
+ - date_published: 2024-08-06T23:08:56.566064+00:00
+
+ ## T-Soft E-ticaret Yazılımları - ETicaret Sitesi Paketleri
+ - [https://tsoft.com.tr](https://tsoft.com.tr)
+ - date_published: 2024-08-06T23:06:54.120945+00:00
+
+ ## MTHS | MTHS Hizmeti | Merkezi Veritabanı Hizmet Sağlayıcı
+ - [https://mths.ttr.com.tr](https://mths.ttr.com.tr)
+ - date_published: 2024-09-19T13:38:31.313526+00:00
+
+ ## Her şey Turkcell’le çalışıyor
+ - [http://www.turkcell.com.tr](http://www.turkcell.com.tr)
+ - date_published: 2024-10-19T14:30:36.125166+00:00
+
+ ## Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş.
+ - [https://www.turksat.com.tr](https://www.turksat.com.tr)
+ - date_published: 2024-09-19T19:54:43.267142+00:00
+
+ ## Türksat Kablo Resmi Web Sitesine Hoş Geldiniz.
+ - [https://www.turksatkablo.com.tr](https://www.turksatkablo.com.tr)
+ - date_published: 2024-12-12T12:34:17.901127+00:00
+
+ ## Türk Telekom – Değerli Hissettirir
+ - [https://www.turktelekom.com.tr](https://www.turktelekom.com.tr)
+ - date_published: 2024-09-19T19:54:29.330909+00:00
+
+ ## Turkuvaz Medya Grubu
+ - [https://www.turkuvazmedyagrubu.com.tr](https://www.turkuvazmedyagrubu.com.tr)
+ - date_published: 2024-06-18T07:24:59+00:00
+
+ ## Turquality
+ - [https://turquality.com.tr](https://turquality.com.tr)
+ - date_published: 2024-12-13T13:22:46.333937+00:00
+
+ ## TUSAŞ-Türk Havacılık Uzay Sanayii Lisanslı Ürünleri
+ - [https://www.tusasshop.com.tr](https://www.tusasshop.com.tr)
+ - date_published: 2024-12-13T14:01:42.194853+00:00
+
+ ## TÜYAP FUARCILIK GRUBU
+ - [http://tuyap.com.tr](http://tuyap.com.tr)
+ - date_published: 2024-12-13T13:05:34.405031+00:00
+
+ ## İstanbul Evden Eve Nakliyat - TUZCUOĞLU Nakliyat A.Ş - 0533 319 0 444
+ - [https://www.tuzcuoglunakliye.com.tr](https://www.tuzcuoglunakliye.com.tr)
+ - date_published: 2024-12-22T12:54:44.230167+00:00
+
+ ## Anasayfa | ULAK Haberleşme
+ - [https://www.ulakhaberlesme.com.tr](https://www.ulakhaberlesme.com.tr)
+ - date_published: 2024-09-19T19:51:59.081212+00:00
+
+ ## Evden Eve Nakliyat İstanbul | ULUSOY | Ev taşıma
+ - [http://www.ulusoynakliyat.com.tr](http://www.ulusoynakliyat.com.tr)
+ - date_published: 2024-10-15T08:39:48+00:00
+
+ ## Unirobotics
+ - [https://www.unirobotics.com.tr](https://www.unirobotics.com.tr)
+ - date_published: 2024-07-09T11:39:05.152249+00:00
+
+ ## Otomotiv Yenileme Pazarı | Valeo Service
+ - [https://valeoservice.com.tr](https://valeoservice.com.tr)
+ - date_published: 2024-12-14T11:50:38+00:00
+
+ ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
+ - [https://www.viagogo.com.tr](https://www.viagogo.com.tr)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.com.tr](https://www.victronenergy.com.tr)
+ - date_published: 2024-06-21T15:21:15+00:00
+
+ ## Visa, dijital ödemelerde güvenilir liderlerden biri
+ - [https://visa.com.tr](https://visa.com.tr)
+ - date_published: 2024-05-12T04:00:15.902575+00:00
+
+ ## VLMedia
+ - [https://www.vlmedia.com.tr](https://www.vlmedia.com.tr)
+ - date_published: 2024-12-21T21:38:47+00:00
+
+ ## Error 403 | Medianova
+ - [https://cms.vodafone.com.tr](https://cms.vodafone.com.tr)
+ - date_published: 2024-06-29T13:41:58.145880+00:00
+
+ ## Vodafone Yanımda
+ - [https://online.vodafone.com.tr](https://online.vodafone.com.tr)
+ - date_published: 2024-06-27T12:05:03+00:00
+
+ ## Hazır mısın? | Vodafone Türkiye
+ - [https://vodafone.com.tr](https://vodafone.com.tr)
+ - date_published: 2024-05-07T10:57:55.306084+00:00
+
+ ## Vodafone Finansman | Vodafone Türkiye
+ - [https://vodafonefinansman.com.tr](https://vodafonefinansman.com.tr)
+ - date_published: 2024-06-29T13:42:01.501928+00:00
+
+ ## Vodafone Pay | Vodafone Türkiye
+ - [https://www.vodafonepay.com.tr](https://www.vodafonepay.com.tr)
+ - date_published: 2024-06-29T13:42:03.587280+00:00
+
+ ## Türkiye’nin En İyi Moda Dergisi | VOGUE TÜRKİYE
+ - [https://vogue.com.tr](https://vogue.com.tr)
+ - date_published: 2024-05-07T10:58:48.700313+00:00
+
+ ## Vuhuv
+ - [https://vuhuv.com.tr](https://vuhuv.com.tr)
+ - date_published: 2024-06-20T21:01:08+00:00
+ - tags: ['search engine']
+
+ ## wikiHow: Bir şeyin nasıl yapılacağına ilişkin güvenebileceğin talimatlar
+ - [https://wikihow.com.tr](https://wikihow.com.tr)
+ - date_published: 2024-06-12T15:26:41+00:00
+
+ ## Çevrimiçi Para Gönderin | TransferWise'la Yurt Dışına Para Gönderin
+ - [https://wiseturkiye.com.tr](https://wiseturkiye.com.tr)
+ - date_published: 2024-02-26T08:02:24+00:00
+
+ ## WITTENSTEIN Türkiye
+ - [https://www.wittenstein.com.tr](https://www.wittenstein.com.tr)
+ - date_published: 2024-07-15T04:09:54.306071+00:00
+
+ ## Xometry Türkiye – Talebe Özel Üretim Platformu: CNC İşleme, Sac Metal, 3D Baskı
+ - [https://xometry.com.tr](https://xometry.com.tr)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Pen Display monitors & digital drawing tablets | XP-Pen official Store
+ - [https://store.xppen.com.tr](https://store.xppen.com.tr)
+ - date_published: 2024-09-03T23:53:16.276853+00:00
+
+ ## Yaay Sosyal Medya
+ - [https://yaay.com.tr](https://yaay.com.tr)
+ - date_published: 2024-10-19T12:09:22.060269+00:00
+
+ ## Yapı Dünyası ve İnşaat Sektörü Haberleri | Yapı
+ - [http://www.yapi.com.tr](http://www.yapi.com.tr)
+ - date_published: 2024-12-28T06:37:48.083960+00:00
+
+ ## YKY - Yapı Kredi Yayınları
+ - [https://www.yapikrediyayinlari.com.tr](https://www.yapikrediyayinlari.com.tr)
+ - date_published: 2024-12-13T12:54:25.146287+00:00
+
+ ## Yelp
+ - [https://m.yelp.com.tr](https://m.yelp.com.tr)
+ - date_published: 2024-07-01T06:43:43.948663+00:00
+
+ ## Yelp
+ - [https://yelp.com.tr](https://yelp.com.tr)
+ - date_published: 2024-07-01T06:43:38.856461+00:00
+
+ ## YENİ MEDYA Elektronik Yayıncılık Anonim Şirketi
+ - [https://www.yenimedya.com.tr](https://www.yenimedya.com.tr)
+ - date_published: 2024-06-06T12:32:48+00:00
+
+ ## ZEISS Türkiye
+ - [https://www.zeiss.com.tr](https://www.zeiss.com.tr)
+ - date_published: 2024-09-16T07:56:07.718501+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.com.tr](https://www2.zoetis.com.tr)
+ - date_published: 2024-06-27T09:52:45+00:00
+
+ ## Abdullah Gül Üniversitesi - 3'üncü Nesil Devlet Üniversitesi
+ - [http://www.agu.edu.tr](http://www.agu.edu.tr)
+ - date_published: 2024-10-19T17:01:39.050605+00:00
+
+ ## Anasayfa - Kırşehir Ahi Evran Üniversitesi
+ - [https://www.ahievran.edu.tr](https://www.ahievran.edu.tr)
+ - date_published: 2024-10-19T17:03:24.849593+00:00
+
+ ## Kırşehir Ahi Evran Üniversitesi Merkez Kütüphanesi
+ - [https://yordam.ahievran.edu.tr](https://yordam.ahievran.edu.tr)
+ - date_published: 2024-10-19T16:07:24.024604+00:00
+
+ ## Muş Alparslan Üniversitesi
+ - [http://alparslan.edu.tr](http://alparslan.edu.tr)
+ - date_published: 2024-07-02T19:30:42.219356+00:00
+
+ ## T.C. Amasya Üniversitesi
+ - [https://www.amasya.edu.tr](https://www.amasya.edu.tr)
+ - date_published: 2024-10-19T17:03:49.888117+00:00
+
+ ## İç Anadolu Kariyer Fuarı İKAF'24
+ - [https://ikaf.anadolu.edu.tr](https://ikaf.anadolu.edu.tr)
+ - date_published: 2024-10-19T12:34:24.417029+00:00
+
+ ## Anadolu Üniversitesi
+ - [http://www.anadolu.edu.tr](http://www.anadolu.edu.tr)
+ - date_published: 2024-12-24T09:44:49.887372+00:00
+
+ ## Anadolu Üniversitesi
+ - [https://ydyo.anadolu.edu.tr](https://ydyo.anadolu.edu.tr)
+ - date_published: 2024-10-19T12:35:22.505143+00:00
+
+ ## Yemekhane | Anadolu Üniversitesi
+ - [https://yemekhane.anadolu.edu.tr](https://yemekhane.anadolu.edu.tr)
+ - date_published: 2024-10-19T12:34:19.311461+00:00
+
+ ## Ankara Alerjik Polen Bülteni
+ - [https://polenalerji.ankara.edu.tr](https://polenalerji.ankara.edu.tr)
+ - date_published: 2024-08-07T22:47:26.623700+00:00
+
+ ## Anasayfa
+ - [http://www.ankara.edu.tr](http://www.ankara.edu.tr)
+ - date_published: 2024-10-25T08:57:44+00:00
+
+ ## Home             | Antalya Bilim University
+ - [https://antalya.edu.tr](https://antalya.edu.tr)
+ - date_published: 2024-07-08T16:37:49.927583+00:00
+
+ ## ANTALYA BİLİM ÜNİVERSİTESİ
+ - [https://ubs.antalya.edu.tr](https://ubs.antalya.edu.tr)
+ - date_published: 2024-06-17T15:00:03.883613+00:00
+
+ ## Home Page | Kütüphane ve Dokümantasyon Dairesi Başkanlığı
+ - [https://kutuphane.asbu.edu.tr](https://kutuphane.asbu.edu.tr)
+ - date_published: 2024-06-17T15:58:52.913083+00:00
+
+ ## .:: Bilgi Sistemleri ::.
+ - [https://obs.asbu.edu.tr](https://obs.asbu.edu.tr)
+ - date_published: 2024-10-19T16:45:44.943010+00:00
+
+ ## Bartın Üniversitesi
+ - [https://bartin.edu.tr](https://bartin.edu.tr)
+ - date_published: 2024-10-30T20:26:44.056465+00:00
+
+ ## Proje Pazarı
+ - [https://cdn.bartin.edu.tr](https://cdn.bartin.edu.tr)
+ - date_published: 2021-11-09T12:33:12+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://posta.bartin.edu.tr](https://posta.bartin.edu.tr)
+ - date_published: 2024-12-15T14:52:38.442705+00:00
+
+ ## Bartın Üniversitesi
+ - [http://w3.bartin.edu.tr](http://w3.bartin.edu.tr)
+ - date_published: 2024-12-15T14:53:28.320446+00:00
+
+ ## BEÜN Prof.Dr. Durmuş Günay Kütüphanesi
+ - [https://kutuphane.beun.edu.tr](https://kutuphane.beun.edu.tr)
+ - date_published: 2024-10-19T16:06:47.054765+00:00
+
+ ## Beykoz Üniversitesi 7/24 İletişim Platformu
+ - [https://724.beykoz.edu.tr](https://724.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:17.782607+00:00
+
+ ## DSpace@Beykoz
+ - [http://acikerisim.beykoz.edu.tr](http://acikerisim.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:29.944446+00:00
+
+ ## Aday Öğrenci | Beykoz Üniversitesi
+ - [https://aday.beykoz.edu.tr](https://aday.beykoz.edu.tr)
+ - date_published: 2024-10-19T12:20:52.312260+00:00
+
+ ## BEYKOZ ÜNİVERSİTESİ
+ - [https://akts.beykoz.edu.tr](https://akts.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:38.913056+00:00
+
+ ## Apply Beykoz University
+ - [https://applyonline.beykoz.edu.tr](https://applyonline.beykoz.edu.tr)
+ - date_published: 2023-06-18T15:00:44+00:00
+
+ ## BeykozAkademi Dergisi – Beykoz Üniversitesi
+ - [https://beykozakademi.beykoz.edu.tr](https://beykozakademi.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:48.665810+00:00
+
+ ## Beykoz Üniversitesi
+ - [https://beykoz.edu.tr](https://beykoz.edu.tr)
+ - date_published: 2024-06-17T15:01:32.445902+00:00
+
+ ## BİS – Beykoz Üniversitesi
+ - [https://bis.beykoz.edu.tr](https://bis.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:16.810369+00:00
+
+ ## SINIR/SIZ: Dijital Çağdan Sonra
+ - [https://borderless.beykoz.edu.tr](https://borderless.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:49.913904+00:00
+
+ ## BÜDA - Beykoz Üniversitesi Doküman Ağacı
+ - [https://buda.beykoz.edu.tr](https://buda.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:51.259301+00:00
+
+ ## Beykoz Üniversitesi
+ - [https://ebys.beykoz.edu.tr](https://ebys.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:22.298526+00:00
+
+ ## BEYKOZ UNIVERSITY
+ - [https://ects.beykoz.edu.tr](https://ects.beykoz.edu.tr)
+ - date_published: 2024-06-17T15:00:41.965041+00:00
+
+ ## eyoklama
+ - [https://eyoklama.beykoz.edu.tr](https://eyoklama.beykoz.edu.tr)
+ - date_published: 2024-04-07T09:47:10+00:00
+
+ ## Beykoz Üniversitesi | Beykoz University – form.beykoz.edu.tr
+ - [http://form.beykoz.edu.tr](http://form.beykoz.edu.tr)
+ - date_published: 2024-06-17T15:00:09.445683+00:00
+
+ ## Beykoz University International Office
+ - [https://int.beykoz.edu.tr](https://int.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:45.290590+00:00
+
+ ## Beykoz Üniversitesi | Kariyer Merkezi
+ - [https://kariyer.beykoz.edu.tr](https://kariyer.beykoz.edu.tr)
+ - date_published: 2023-09-20T00:00:00+00:00
+
+ ## OİS
+ - [https://ois.beykoz.edu.tr](https://ois.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:19.419068+00:00
+
+ ## OnlineBeykoz: Siteye giriş yap
+ - [https://online.beykoz.edu.tr](https://online.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:14.413245+00:00
+
+ ## Beykoz Üniversitesi | E-Rehber – 0216 912 22 52
+ - [https://rehber.beykoz.edu.tr](https://rehber.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:27.739681+00:00
+
+ ## Beykoz Üniversitesi Kütüphanesi catalog
+ - [https://tarama.beykoz.edu.tr](https://tarama.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:46.850715+00:00
+
+ ## Yaşamboyu Öğrenme Merkezi | Beykoz Üniversitesi
+ - [https://yom.beykoz.edu.tr](https://yom.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:25.184616+00:00
+
+ ## Adaylar için BİLGİ
+ - [https://aday.bilgi.edu.tr](https://aday.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:25.424142+00:00
+
+ ## Homepage | Bilgi & Asu Global Campus
+ - [https://asu.bilgi.edu.tr](https://asu.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:23.836191+00:00
+
+ ## Home | İstanbul Bilgi Üniversitesi
+ - [https://bilgi.edu.tr](https://bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:37.094140+00:00
+
+ ## İngilizce Hazırlık Programı - İngilizce Hazırlık Programı | İstanbul Bilgi Üniversitesi
+ - [http://elp.bilgi.edu.tr](http://elp.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:55.893265+00:00
+
+ ## Hoşgeldiniz | İstanbul Bilgi Üniversitesi
+ - [https://it.bilgi.edu.tr](https://it.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:26.651933+00:00
+
+ ## ITLaw
+ - [https://itlaw.bilgi.edu.tr](https://itlaw.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:28.546653+00:00
+
+ ## Homepage | Library Istanbul Bilgi University
+ - [http://library.bilgi.edu.tr](http://library.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:35.177633+00:00
+
+ ## BİLGİ Rehber
+ - [http://rehber.bilgi.edu.tr](http://rehber.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:10:24.752718+00:00
+
+ ## BİLGİ SIS
+ - [https://sis.bilgi.edu.tr](https://sis.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:10.363106+00:00
+
+ ## Üniversite Adaylarına Bilgi – Bilkent Üniversitesi
+ - [http://adaybilgi.bilkent.edu.tr](http://adaybilgi.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:09:13.164983+00:00
+
+ ## Bilkent University - BAIS
+ - [https://bais.bilkent.edu.tr](https://bais.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:09:28.411719+00:00
+
+ ## BSO Bilet Satışı
+ - [https://bilet.bilkent.edu.tr](https://bilet.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:09:57.491302+00:00
+
+ ## EN / Bilkent University
+ - [https://bilkent.edu.tr](https://bilkent.edu.tr)
+ - date_published: 2024-09-18T08:06:41.585109+00:00
+
+ ## Bilkent News
+ - [https://bilkentnews.bilkent.edu.tr](https://bilkentnews.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:29:37.005992+00:00
+
+ ## Bilkent News
+ - [http://bilnews.bilkent.edu.tr](http://bilnews.bilkent.edu.tr)
+ - date_published: 2024-06-15T13:03:22.857447+00:00
+
+ ## Feedback – İhsan Doğramacı Bilkent University – Visitor feedback
+ - [http://feedback.bilkent.edu.tr](http://feedback.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:09:45.219486+00:00
+
+ ## İhsan ve Ayser Doğramacı Bilim, Kültür ve Sanat Merkezi – Bilim, Kültür ve Sanat Merkezi
+ - [https://iad-merkez.bilkent.edu.tr](https://iad-merkez.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:09:55.699538+00:00
+
+ ## Home Page - Bilkent University Library
+ - [https://library.bilkent.edu.tr](https://library.bilkent.edu.tr)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## - Bilkent Felsefe Sözlüğü
+ - [https://logos.bilkent.edu.tr](https://logos.bilkent.edu.tr)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Bilkent Müzik – Bilkent Müzik
+ - [http://mho.bilkent.edu.tr](http://mho.bilkent.edu.tr)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Moodle @ Bilkent
+ - [https://moodle.bilkent.edu.tr](https://moodle.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:10:07.887067+00:00
+
+ ## Bilkent Philosophy
+ - [http://phil.bilkent.edu.tr](http://phil.bilkent.edu.tr)
+ - date_published: 2024-05-01T03:33:00.143148+00:00
+
+ ## PhilFest'24 Bilkent Felsefe Şenliği | 28 Eylül 2024
+ - [https://philfest.bilkent.edu.tr](https://philfest.bilkent.edu.tr)
+ - date_published: 2024-03-12T14:35:49+00:00
+
+ ## Bilkent Üniversitesi-İngilizce Hazırlık Programı
+ - [http://prep.bilkent.edu.tr](http://prep.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:10:57.979423+00:00
+
+ ## PROKOPTON – Bilkent University Undergraduate Journal of Philosophy
+ - [https://prokopton.bilkent.edu.tr](https://prokopton.bilkent.edu.tr)
+ - date_published: 2024-06-15T13:03:10.429711+00:00
+
+ ## Bilkent University - STARS
+ - [https://stars.bilkent.edu.tr](https://stars.bilkent.edu.tr)
+ - date_published: 2024-06-15T13:03:15.143351+00:00
+
+ ## BSO Ticket Sales
+ - [https://ticket.bilkent.edu.tr](https://ticket.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:11:11.852241+00:00
+
+ ## TR / Bilkent Universitesi
+ - [https://w3.bilkent.edu.tr](https://w3.bilkent.edu.tr)
+ - date_published: 2024-06-15T13:03:09.015647+00:00
+
+ ## Bilkent University Webmail :: Welcome to Bilkent University Webmail
+ - [https://webmail.bilkent.edu.tr](https://webmail.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:09:43+00:00
+
+ ## Bilkent University - Exchange Programs
+ - [http://www.exchange.bilkent.edu.tr](http://www.exchange.bilkent.edu.tr)
+ - date_published: 2000-05-31T00:00:00+00:00
+
+ ## İDV ÖZEL BİLKENT İLK VE ORTAOKULU
+ - [http://www.obi.bilkent.edu.tr](http://www.obi.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:09:21.075835+00:00
+
+ ## Computer Engineering
+ - [https://www.cmpe.boun.edu.tr](https://www.cmpe.boun.edu.tr)
+ - date_published: 2024-11-22T15:22:09+00:00
+
+ ## SCÜ TÖMER
+ - [https://tomer.cumhuriyet.edu.tr](https://tomer.cumhuriyet.edu.tr)
+ - date_published: 2024-10-19T17:11:02.659131+00:00
+
+ ## Düzce Üniversitesi | Anasayfa
+ - [https://duzce.edu.tr](https://duzce.edu.tr)
+ - date_published: 2024-10-19T14:37:39.191489+00:00
+
+ ## İzmir Polen Alerji Bülteni
+ - [https://polenalerji.ege.edu.tr](https://polenalerji.ege.edu.tr)
+ - date_published: 2024-08-07T22:47:24.689389+00:00
+
+ ## Erciyes Üniversitesi ERÜ / KAYSERİ
+ - [https://www.erciyes.edu.tr](https://www.erciyes.edu.tr)
+ - date_published: 2024-10-19T17:02:42.011040+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Aday Öğrenci
+ - [https://adayogrenci.eskisehir.edu.tr](https://adayogrenci.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:34.078545+00:00
+
+ ## Eskişehir Teknik Üniversitesi
+ - [https://aktsadmin.eskisehir.edu.tr](https://aktsadmin.eskisehir.edu.tr)
+ - date_published: 2024-10-19T12:36:26.715969+00:00
+
+ ## Eskişehir Teknik Üniversitesi
+ - [https://akts.eskisehir.edu.tr](https://akts.eskisehir.edu.tr)
+ - date_published: 2024-05-02T10:24:59.988749+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Araştırma
+ - [https://arastirma.eskisehir.edu.tr](https://arastirma.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:43.442010+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Astrofizik Eğitim ve Araştırma Birimi
+ - [https://astrofizik.eskisehir.edu.tr](https://astrofizik.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:25.658985+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Atık Yönetim Sistemi
+ - [https://ays.eskisehir.edu.tr](https://ays.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:03:50.784460+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Bilimsel Araştırma Projeleri Komisyonu
+ - [https://bapk.eskisehir.edu.tr](https://bapk.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:29.061096+00:00
+
+ ## Başvuru Sistemi
+ - [http://basvuru.eskisehir.edu.tr](http://basvuru.eskisehir.edu.tr)
+ - date_published: 2024-10-19T12:36:31.301603+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Bilgi İşlem Daire Başkanlığı
+ - [https://bidb.eskisehir.edu.tr](https://bidb.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:32.636095+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Bilim ve Teknolojide Kadın Araştırma ve Uygulama Birimi
+ - [https://bitek.eskisehir.edu.tr](https://bitek.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:44.530343+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Botanik Uygulama ve Araştırma Birimi
+ - [https://botanik.eskisehir.edu.tr](https://botanik.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:19.489100+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Çocuk ve Genç Eğitimi Uygulama ve Araştırma Birimi
+ - [https://cogeb.eskisehir.edu.tr](https://cogeb.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:39.848658+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Covid 19
+ - [https://covid19.eskisehir.edu.tr](https://covid19.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:31.041034+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Döner Sermaye İşletme Müdürlüğü
+ - [https://donersermaye.eskisehir.edu.tr](https://donersermaye.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:45.537255+00:00
+
+ ## enVision - Giriş Sayfası
+ - [https://ebys.eskisehir.edu.tr](https://ebys.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:03:30.613357+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Engelli Destek Birimi
+ - [https://edb.eskisehir.edu.tr](https://edb.eskisehir.edu.tr)
+ - date_published: 2024-05-02T10:25:13.350675+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Eğitim
+ - [https://egitim.eskisehir.edu.tr](https://egitim.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:43.338978+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Anasayfa
+ - [https://eskisehir.edu.tr](https://eskisehir.edu.tr)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Eskişehir Teknik Üniversitesi - e-Gazetesi
+ - [https://estuaktif.eskisehir.edu.tr](https://estuaktif.eskisehir.edu.tr)
+ - date_published: 2024-05-02T10:24:58.742757+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Sağlık, Kültür ve Spor Daire Başkanlığı / Kampüs Rekreasyonu Ofisi
+ - [https://estukaro.eskisehir.edu.tr](https://estukaro.eskisehir.edu.tr)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Açık ve Uzaktan Eğitim Uygulama ve Araştırma Merkezi
+ - [http://estuzem.eskisehir.edu.tr](http://estuzem.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:41.237937+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Fen Fakültesi
+ - [https://fen.eskisehir.edu.tr](https://fen.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:38.286826+00:00
+
+ ## Eskişehir Teknik Üniversitesi
+ - [https://giris.eskisehir.edu.tr](https://giris.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:09:58.566640+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Hasan Polatkan Havalimanı
+ - [https://hph.eskisehir.edu.tr](https://hph.eskisehir.edu.tr)
+ - date_published: 2024-05-02T10:25:15.063856+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Havacılık ve Uzay Bilimleri Fakültesi
+ - [https://hubf.eskisehir.edu.tr](https://hubf.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:09.034266+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Hukuk Müşavirliği
+ - [https://hukukmusavirligi.eskisehir.edu.tr](https://hukukmusavirligi.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:31.073995+00:00
+
+ ## Eskişehir Teknik Üniversitesi - İnsan Kaynakları Gelişimi Destek Birimi
+ - [https://ik.eskisehir.edu.tr](https://ik.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:24.107626+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Sürdürülebilir Eko-Kampüs
+ - [https://iklim.eskisehir.edu.tr](https://iklim.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:03.860507+00:00
+
+ ## Eskişehir Teknik Üniversitesi - İdari ve Mali İşler Daire Başkanlığı
+ - [https://imdb.eskisehir.edu.tr](https://imdb.eskisehir.edu.tr)
+ - date_published: 2024-02-08T16:29:27.635155+00:00
+
+ ## Eskişehir Teknik Üniversitesi - İş Yeri Sağlık ve Güvenlik Birimi
+ - [https://isgb.eskisehir.edu.tr](https://isgb.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:03:38.001611+00:00
+
+ ## ESTÜ - İstek Şikayet Yönetim Sistemi
+ - [https://isys.eskisehir.edu.tr](https://isys.eskisehir.edu.tr)
+ - date_published: 2024-05-02T10:25:08.033410+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Kalite Güvence Sistemi
+ - [https://kalite.eskisehir.edu.tr](https://kalite.eskisehir.edu.tr)
+ - date_published: 2024-05-02T10:25:22.631397+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Kariyer Gelişimi ve Öğrenci Destek Birimi
+ - [https://kariyer.eskisehir.edu.tr](https://kariyer.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:26.077377+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Kütüphane Ve Dokümantasyon Daire Başkanlığı
+ - [https://kdm.eskisehir.edu.tr](https://kdm.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:12.051519+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Kurumsal İletişim Koordinatörlüğü
+ - [https://kib.eskisehir.edu.tr](https://kib.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:48.139443+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Lisansüstü Eğitim Enstitüsü
+ - [https://lee.eskisehir.edu.tr](https://lee.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:15.457218+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Mezunlarla İletişim ve İş Birliği Koordinatörlüğü
+ - [https://mezun.eskisehir.edu.tr](https://mezun.eskisehir.edu.tr)
+ - date_published: 2024-05-02T10:25:16.902175+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Mühendislik Fakültesi
+ - [https://mf.eskisehir.edu.tr](https://mf.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:28.003844+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Mimarlık ve Tasarım Fakültesi
+ - [https://mtf.eskisehir.edu.tr](https://mtf.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:03:36.259927+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Ortak Dersler Bölümü
+ - [https://odb.eskisehir.edu.tr](https://odb.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:20.085127+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Öğrenme ve Öğretme Gelişimi Birimi
+ - [https://ogeb.eskisehir.edu.tr](https://ogeb.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:18.483713+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Öğrenci Kulüpleri
+ - [https://ogrencikulupleri.eskisehir.edu.tr](https://ogrencikulupleri.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:42.063046+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Öğretim
+ - [https://ogretim.eskisehir.edu.tr](https://ogretim.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:27.550021+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Öğrenci İşleri Daire Başkanlığı
+ - [https://oidb.eskisehir.edu.tr](https://oidb.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:03:34.290715+00:00
+
+ ## Eskişehir Teknik Üniversitesi Personel Bilgi Yönetim Sistemi
+ - [https://pbys.eskisehir.edu.tr](https://pbys.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:44.643826+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Psikolojik Danışma ve Rehberlik Birimi
+ - [https://pdr.eskisehir.edu.tr](https://pdr.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:05.364793+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Personel Daire Başkanlığı
+ - [https://personel.eskisehir.edu.tr](https://personel.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:34.063062+00:00
+
+ ## PFA
+ - [https://pfa.eskisehir.edu.tr](https://pfa.eskisehir.edu.tr)
+ - date_published: 2024-10-19T12:36:25.789307+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Porsuk Meslek Yüksekokulu
+ - [https://pmyo.eskisehir.edu.tr](https://pmyo.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:02.243336+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Eskişehir Teknik Üniversitesi Radyosu
+ - [https://radyoestu.eskisehir.edu.tr](https://radyoestu.eskisehir.edu.tr)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Telefon Rehberi | Eskişehir Teknik Üniversitesi
+ - [https://rehber.eskisehir.edu.tr](https://rehber.eskisehir.edu.tr)
+ - date_published: 2024-01-23T12:52:33+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Sağlık, Kültür ve Spor Daire Başkanlığı
+ - [https://saglikkulturspor.eskisehir.edu.tr](https://saglikkulturspor.eskisehir.edu.tr)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Eskişehir Teknik Üniversitesi
+ - [https://sai.eskisehir.edu.tr](https://sai.eskisehir.edu.tr)
+ - date_published: 2024-05-02T10:25:11.681361+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Sürekli Eğitim Uygulama ve Araştırma Merkezi
+ - [https://sem.eskisehir.edu.tr](https://sem.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:22.498873+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Sıkça Sorulan Sorular
+ - [https://sikcasorulansorular.eskisehir.edu.tr](https://sikcasorulansorular.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:23.909513+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Spor Bilimleri Fakültesi
+ - [https://sporbilimleri.eskisehir.edu.tr](https://sporbilimleri.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:10.569621+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Strateji Geliştirme Daire Başkanlığı
+ - [https://strateji.eskisehir.edu.tr](https://strateji.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:29.774423+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Uluslararası İlişkiler Birimi
+ - [https://uib.eskisehir.edu.tr](https://uib.eskisehir.edu.tr)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Ulaştırma Bilimleri Enstitüsü
+ - [https://ulasbilens.eskisehir.edu.tr](https://ulasbilens.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:36.242703+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Ulaştırma Meslek Yüksekokulu
+ - [https://umyo.eskisehir.edu.tr](https://umyo.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:36.016464+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Yapı İşleri ve Teknik Daire Başkanlığı
+ - [https://yapi.eskisehir.edu.tr](https://yapi.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:49.028278+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Yabancı Diller Yüksekokulu
+ - [https://ydyo.eskisehir.edu.tr](https://ydyo.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:21.434362+00:00
+
+ ## Eskişehir Teknik Üniversitesi Kampüs Kart Platformu
+ - [https://yemekhane.eskisehir.edu.tr](https://yemekhane.eskisehir.edu.tr)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Yerleşkede Yaşam
+ - [https://yerleskedeyasam.eskisehir.edu.tr](https://yerleskedeyasam.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:16.993731+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Yer ve Uzay Bilimleri Enstitüsü
+ - [https://yube.eskisehir.edu.tr](https://yube.eskisehir.edu.tr)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Main Page
+ - [https://www.firat.edu.tr](https://www.firat.edu.tr)
+ - date_published: 2024-10-19T17:02:05.370455+00:00
+
+ ## Gazi University | To Be A Member Of Gazi Is A Privilege
+ - [http://www.gazi.edu.tr](http://www.gazi.edu.tr)
+ - date_published: 2024-10-30T20:30:31.574682+00:00
+
+ ## Pages.HomePage | GİRESUN ÜNİVERSİTESİ KÜTÜPHANE VE DOKÜMANTASYON DAİRE BAŞKANLIĞI
+ - [https://kddb.giresun.edu.tr](https://kddb.giresun.edu.tr)
+ - date_published: 2024-06-17T15:58:25.647965+00:00
+
+ ## Pages.HomePage | Giresun Üniversitesi
+ - [http://www.giresun.edu.tr](http://www.giresun.edu.tr)
+ - date_published: 2024-10-19T16:41:25.253367+00:00
+
+ ## Hitit Üniversitesi - Aday Öğrenciler İçin Hitit Üniversitesi Tanıtım Sayfası
+ - [https://aday.hitit.edu.tr](https://aday.hitit.edu.tr)
+ - date_published: 2024-10-19T16:51:29.466668+00:00
+
+ ## T.C. Hitit Üniversitesi
+ - [https://hitit.edu.tr](https://hitit.edu.tr)
+ - date_published: 2024-10-19T16:52:21.888446+00:00
+
+ ## Kütüphane ve Dokümantasyon  Dairesi Başkanlığı
+ - [https://kutuphane.hitit.edu.tr](https://kutuphane.hitit.edu.tr)
+ - date_published: 2024-06-17T15:59:37.024697+00:00
+
+ ## Makine ve İmalat Teknolojileri Uygulama ve Araştırma Merkezi
+ - [https://mitam.hitit.edu.tr](https://mitam.hitit.edu.tr)
+ - date_published: 2024-10-19T16:50:50.143568+00:00
+
+ ## TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ
+ - [http://tomer.hitit.edu.tr](http://tomer.hitit.edu.tr)
+ - date_published: 2024-10-19T16:52:36.178719+00:00
+
+ ## Mütercim Asım Kütüphanesi I Hasan Kalyoncu Üniversitesi
+ - [https://kutuphane.hku.edu.tr](https://kutuphane.hku.edu.tr)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Anasayfa | KÜTÜPHANE ve DOKÜMANTASYON DAİRE  BAŞKANLIĞI
+ - [https://kutuphane.ibu.edu.tr](https://kutuphane.ibu.edu.tr)
+ - date_published: 2024-06-17T15:59:05.915033+00:00
+
+ ## Bolu İzzet Baysal Üniversitesi
+ - [http://www.ibu.edu.tr](http://www.ibu.edu.tr)
+ - date_published: 2024-10-19T16:46:31.737326+00:00
+
+ ## Iğdır Üniversitesi
+ - [https://eskisite.igdir.edu.tr](https://eskisite.igdir.edu.tr)
+ - date_published: 2024-10-19T16:50:22.076332+00:00
+
+ ## Home | kutuphane.igdir.edu.tr
+ - [https://kutuphane.igdir.edu.tr](https://kutuphane.igdir.edu.tr)
+ - date_published: 2024-06-17T15:59:34.684295+00:00
+
+ ## İnönü Üniversitesi
+ - [http://www.inonu.edu.tr](http://www.inonu.edu.tr)
+ - date_published: 2024-10-19T17:02:18.697453+00:00
+
+ ## Aksu Mehmet Süreyya Demiraslan Meslek Yüksekokulu
+ - [http://aksumyo.isparta.edu.tr](http://aksumyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:19:19.147534+00:00
+
+ ## Öğrenci Bilgi Sistemi - Isparta Uygulamalı Bilimler Üniversitesi
+ - [https://akts.isparta.edu.tr](https://akts.isparta.edu.tr)
+ - date_published: 2024-06-17T15:19:09.256740+00:00
+
+ ## Araştırma Görevlileri Konseyi
+ - [https://arsgorkonsey.isparta.edu.tr](https://arsgorkonsey.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:37.543109+00:00
+
+ ## Atabey Meslek Yüksekokulu
+ - [http://atabeymyo.isparta.edu.tr](http://atabeymyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:32.227450+00:00
+
+ ## Bilimsel Araştırma Projeleri Koordinasyon Birimi
+ - [https://bap.isparta.edu.tr](https://bap.isparta.edu.tr)
+ - date_published: 2024-05-02T10:26:10.205208+00:00
+
+ ## ISUBÜ BAPSTS
+ - [http://bapsts.isparta.edu.tr](http://bapsts.isparta.edu.tr)
+ - date_published: 2024-06-17T15:27:32.560122+00:00
+
+ ## Bilgi İşlem Daire Başkanlığı
+ - [http://bidb.isparta.edu.tr](http://bidb.isparta.edu.tr)
+ - date_published: 2024-06-17T15:11:06.976665+00:00
+
+ ## Bilişim Teknolojileri MYO
+ - [https://bilisimtekmyo.isparta.edu.tr](https://bilisimtekmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:32.843329+00:00
+
+ ## Isparta Uygulamalı Bilimler Üniversitesi
+ - [https://birimsayfalari.isparta.edu.tr](https://birimsayfalari.isparta.edu.tr)
+ - date_published: 2024-06-17T15:27:31.743848+00:00
+
+ ## Büyükkutlu Uygulamalı Bilimler Fakültesi
+ - [http://bubfa.isparta.edu.tr](http://bubfa.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:42.317877+00:00
+
+ ## ISUBÜ - Lisansüstü
+ - [https://dbp.isparta.edu.tr](https://dbp.isparta.edu.tr)
+ - date_published: 2024-10-19T13:27:11.066384+00:00
+
+ ## Döner Sermaye İşletme Müdürlüğü
+ - [https://dsermaye.isparta.edu.tr](https://dsermaye.isparta.edu.tr)
+ - date_published: 2024-06-17T15:17:43.116990+00:00
+
+ ## ISUBÜ - Elektronik Belge Yönetim Sistemi
+ - [https://ebys.isparta.edu.tr](https://ebys.isparta.edu.tr)
+ - date_published: 2023-01-17T10:59:37+00:00
+
+ ## Eduroam
+ - [http://eduroam.isparta.edu.tr](http://eduroam.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:48.322647+00:00
+
+ ## Eğirdir Meslek Yüksekokulu
+ - [http://egirdirmyo.isparta.edu.tr](http://egirdirmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:13:47.873341+00:00
+
+ ## Enerji Yönetim Birimi
+ - [https://enerjiyonetim.isparta.edu.tr](https://enerjiyonetim.isparta.edu.tr)
+ - date_published: 2024-06-17T15:19:24.823090+00:00
+
+ ## Engelsiz ISUBÜ Birimi
+ - [https://engelsiz.isparta.edu.tr](https://engelsiz.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:10.804030+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://eposta.isparta.edu.tr](https://eposta.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:43.618008+00:00
+
+ ## Erasmus Kurum Koordinatörlüğü
+ - [https://erasmus.isparta.edu.tr](https://erasmus.isparta.edu.tr)
+ - date_published: 2024-05-02T10:26:18.454465+00:00
+
+ ## Eğirdir Su Ürünleri Fakültesi
+ - [http://esuf.isparta.edu.tr](http://esuf.isparta.edu.tr)
+ - date_published: 2024-06-17T15:13:27.874441+00:00
+
+ ## Etik Kurul
+ - [https://etikkurul.isparta.edu.tr](https://etikkurul.isparta.edu.tr)
+ - date_published: 2024-06-17T15:11:01.487630+00:00
+
+ ## Farabi Kurum Koordinatörlüğü
+ - [https://farabi.isparta.edu.tr](https://farabi.isparta.edu.tr)
+ - date_published: 2024-05-02T10:25:36.104272+00:00
+
+ ## FSMLO
+ - [https://fsmlo.isparta.edu.tr](https://fsmlo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:27:30.321337+00:00
+
+ ## GELENDOST MESLEK YÜKSEKOKULU
+ - [http://gelendostmyo.isparta.edu.tr](http://gelendostmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:45.959076+00:00
+
+ ## Genel Sekreterlik
+ - [http://genelsekreterlik.isparta.edu.tr](http://genelsekreterlik.isparta.edu.tr)
+ - date_published: 2024-06-17T15:10:59.451043+00:00
+
+ ## Gölcük ÖİBS
+ - [https://golcuk.isparta.edu.tr](https://golcuk.isparta.edu.tr)
+ - date_published: 2024-10-19T13:26:24.221090+00:00
+
+ ## Gönen Meslek Yüksekokulu
+ - [http://gonenmyo.isparta.edu.tr](http://gonenmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:18.923027+00:00
+
+ ## Hayvan Deneyleri Yerel Etik Kurulu
+ - [https://hadyek.isparta.edu.tr](https://hadyek.isparta.edu.tr)
+ - date_published: 2024-06-17T15:19:21.847608+00:00
+
+ ## Hizmet İçi Eğitim
+ - [https://hizmetici.isparta.edu.tr](https://hizmetici.isparta.edu.tr)
+ - date_published: 2024-06-17T15:26:52.610095+00:00
+
+ ## Hukuk Müşavirliği
+ - [https://hukukmusavirligi.isparta.edu.tr](https://hukukmusavirligi.isparta.edu.tr)
+ - date_published: 2024-06-17T15:13:44.837075+00:00
+
+ ## İç Denetim Birimi
+ - [https://idb.isparta.edu.tr](https://idb.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:24.744238+00:00
+
+ ## İhale Sayfası
+ - [http://ihale.isparta.edu.tr](http://ihale.isparta.edu.tr)
+ - date_published: 2024-06-17T15:11:02.575484+00:00
+
+ ## ISUBÜ Personel İlan
+ - [https://ik.isparta.edu.tr](https://ik.isparta.edu.tr)
+ - date_published: 2023-06-11T21:50:40+00:00
+
+ ## İdari ve Mali İşler Daire Başkanlığı
+ - [http://imid.isparta.edu.tr](http://imid.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:22.546555+00:00
+
+ ## İşletme Fakültesi
+ - [http://isletme.isparta.edu.tr](http://isletme.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:06.281961+00:00
+
+ ## Isparta Uygulamalı Bilimler Üniversitesi Üniversitesi
+ - [https://isparta.edu.tr](https://isparta.edu.tr)
+ - date_published: 2024-05-02T10:25:24.400280+00:00
+
+ ## Isparta Meslek Yüksekokulu
+ - [http://ispartamyo.isparta.edu.tr](http://ispartamyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:11:43.321456+00:00
+
+ ## Kalite Koordinatörlüğü
+ - [https://kalite.isparta.edu.tr](https://kalite.isparta.edu.tr)
+ - date_published: 2024-02-08T16:47:44.515639+00:00
+
+ ## Kariyer Geliştirme Uygulama ve Araştırma Merkezi
+ - [http://kariyer.isparta.edu.tr](http://kariyer.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:04.108562+00:00
+
+ ## ISUBÜ - KBYS
+ - [https://kbys.isparta.edu.tr](https://kbys.isparta.edu.tr)
+ - date_published: 2024-10-19T13:35:54.811858+00:00
+
+ ## Keçiborlu Meslek Yüksekokulu
+ - [http://keciborlumyo.isparta.edu.tr](http://keciborlumyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:48.840050+00:00
+
+ ## Isparta Uygulamalı Bilimler Üniversitesi
+ - [https://kutuphane.isparta.edu.tr](https://kutuphane.isparta.edu.tr)
+ - date_published: 2024-05-02T10:26:11.765310+00:00
+
+ ## Kişisel Verilerin Korunması Kanunu Komisyonu
+ - [https://kvkk.isparta.edu.tr](https://kvkk.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:45.604201+00:00
+
+ ## Search Home
+ - [https://librarycatalog.isparta.edu.tr](https://librarycatalog.isparta.edu.tr)
+ - date_published: 2024-06-17T15:27:38.532067+00:00
+
+ ## Lisansüstü Eğitim Enstitüsü
+ - [http://lisansustu.isparta.edu.tr](http://lisansustu.isparta.edu.tr)
+ - date_published: 2024-06-17T15:13:40.327833+00:00
+
+ ## Mevlana Ofis Koordinatörlüğü
+ - [https://mevlana.isparta.edu.tr](https://mevlana.isparta.edu.tr)
+ - date_published: 2024-05-02T10:25:43.714137+00:00
+
+ ## MezunTakipSistemi
+ - [https://mezun.isparta.edu.tr](https://mezun.isparta.edu.tr)
+ - date_published: 2023-11-28T09:15:56+00:00
+
+ ## ISUBÜ Öğrenci Bilgi Sistemi
+ - [https://obs.isparta.edu.tr](https://obs.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:19.456664+00:00
+
+ ## Öğrenci Konseyi
+ - [https://ogrencikonseyi.isparta.edu.tr](https://ogrencikonseyi.isparta.edu.tr)
+ - date_published: 2024-05-02T10:26:14.332918+00:00
+
+ ## Öğrenci İşleri Daire Başkanlığı
+ - [https://oidb.isparta.edu.tr](https://oidb.isparta.edu.tr)
+ - date_published: 2024-05-02T10:25:33.631570+00:00
+
+ ## Orman Fakültesi
+ - [http://orman.isparta.edu.tr](http://orman.isparta.edu.tr)
+ - date_published: 2024-06-17T15:15:18.056572+00:00
+
+ ## Ortak Dersler Bölüm Başkanlığı
+ - [https://ortakdersler.isparta.edu.tr](https://ortakdersler.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:35.281895+00:00
+
+ ## Isparta Organize Sanayi Bölgesi Meslek Yüksekokulu
+ - [http://osbmyo.isparta.edu.tr](http://osbmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:18:48.159496+00:00
+
+ ## ISUBU SKS Otomasyon Sistemi
+ - [https://otomasyon.isparta.edu.tr](https://otomasyon.isparta.edu.tr)
+ - date_published: 2024-10-19T13:35:56.267476+00:00
+
+ ## ÖYP Kurum Koordinatörlüğü
+ - [https://oyp.isparta.edu.tr](https://oyp.isparta.edu.tr)
+ - date_published: 2024-06-17T15:28:12.422361+00:00
+
+ ## PbsV3 - Personel Bilgi Sistemi V3
+ - [https://pbs.isparta.edu.tr](https://pbs.isparta.edu.tr)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Personel Daire Başkanlığı
+ - [https://persdb.isparta.edu.tr](https://persdb.isparta.edu.tr)
+ - date_published: 2024-05-02T10:25:31.308692+00:00
+
+ ## Sürekli Eğitim Uygulama ve Araştırma Merkezi
+ - [https://sem.isparta.edu.tr](https://sem.isparta.edu.tr)
+ - date_published: 2024-05-02T10:26:07.749747+00:00
+
+ ## Senirkent Meslek Yüksekokulu
+ - [http://senirkentmyo.isparta.edu.tr](http://senirkentmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:36.942464+00:00
+
+ ## Strateji Geliştirme Daire Başkanlığı
+ - [http://sgdb.isparta.edu.tr](http://sgdb.isparta.edu.tr)
+ - date_published: 2024-06-17T15:18:22.753618+00:00
+
+ ## Şarkikaraağaç Meslek Yüksekokulu
+ - [http://skaraagacmyo.isparta.edu.tr](http://skaraagacmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:27.590206+00:00
+
+ ## Sağlık Kültür Spor Daire Başkanlığı
+ - [http://sksdb.isparta.edu.tr](http://sksdb.isparta.edu.tr)
+ - date_published: 2024-06-17T15:18:16.055977+00:00
+
+ ## Şarkikaraağaç Turizm Meslek Yüksekokulu
+ - [http://sktmyo.isparta.edu.tr](http://sktmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:13:52.148805+00:00
+
+ ## Sütçüler Prof.Dr. Hasan Gürbüz Meslek Yüksekokulu
+ - [http://sutculermyo.isparta.edu.tr](http://sutculermyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:08.250739+00:00
+
+ ## Teknik Bilimler Meslek Yüksekokulu
+ - [http://tbmyo.isparta.edu.tr](http://tbmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:17:40.190181+00:00
+
+ ## Teknoloji Fakültesi
+ - [http://teknoloji.isparta.edu.tr](http://teknoloji.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:14.909658+00:00
+
+ ## Turizm Fakültesi
+ - [http://turizm.isparta.edu.tr](http://turizm.isparta.edu.tr)
+ - date_published: 2024-06-17T15:11:40.145901+00:00
+
+ ## ISUBU Ubys
+ - [https://ubys.isparta.edu.tr](https://ubys.isparta.edu.tr)
+ - date_published: 2024-10-19T13:53:51.193684+00:00
+
+ ## Uzaktan Eğitim Meslek Yüksekokulu
+ - [http://ue.isparta.edu.tr](http://ue.isparta.edu.tr)
+ - date_published: 2024-06-17T15:17:26.293166+00:00
+
+ ## ULUBORLU SELAHATTİN KARASOY MESLEK YÜKSEKOKULU
+ - [http://uluborlumyo.isparta.edu.tr](http://uluborlumyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:18:38.174132+00:00
+
+ ## Ulusal ve Uluslararası İlişkiler Genel Koordinatörlüğü
+ - [https://uluslararasi.isparta.edu.tr](https://uluslararasi.isparta.edu.tr)
+ - date_published: 2024-05-02T10:26:20.738275+00:00
+
+ ## Isparta Uygulamalı Bilimler Üniversitesi Üniversitesi
+ - [https://w3.isparta.edu.tr](https://w3.isparta.edu.tr)
+ - date_published: 2024-10-19T13:34:53.746779+00:00
+
+ ## Isparta Uygulamalı Bilimler Üniversitesi Üniversitesi
+ - [http://web2.isparta.edu.tr](http://web2.isparta.edu.tr)
+ - date_published: 2024-06-17T15:27:01.746896+00:00
+
+ ## Yalvaç Meslek Yüksekokulu
+ - [http://yalvacmyo.isparta.edu.tr](http://yalvacmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:13:49.975173+00:00
+
+ ## Yalvaç Teknik Bilimler Meslek Yüksekokulu
+ - [http://yalvacteknik.isparta.edu.tr](http://yalvacteknik.isparta.edu.tr)
+ - date_published: 2024-06-17T15:18:57.086042+00:00
+
+ ## Yapı İşleri ve Teknik Daire Başkanlığı
+ - [http://yapiisleri.isparta.edu.tr](http://yapiisleri.isparta.edu.tr)
+ - date_published: 2024-06-17T15:19:07.902457+00:00
+
+ ## Yenişarbademli Meslek Yüksekokulu
+ - [http://ybademlimyo.isparta.edu.tr](http://ybademlimyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:55.771608+00:00
+
+ ## Yabancı Diller Yüksekokulu
+ - [http://ydyo.isparta.edu.tr](http://ydyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:11:17.992599+00:00
+
+ ## ISUBU Online Ödeme Sistemi
+ - [https://yemek.isparta.edu.tr](https://yemek.isparta.edu.tr)
+ - date_published: 2024-10-19T13:30:06.054370+00:00
+
+ ## YLSY Burs Programı Koordinatörlüğü
+ - [https://ylsy.isparta.edu.tr](https://ylsy.isparta.edu.tr)
+ - date_published: 2024-06-17T15:28:15.944288+00:00
+
+ ## YÖS Başvuru Sistemi
+ - [https://yosbasvuru.isparta.edu.tr](https://yosbasvuru.isparta.edu.tr)
+ - date_published: 2024-10-19T14:15:13.248264+00:00
+
+ ## YÖS (Yabancı Uyruklu Öğrenci Sınavı)
+ - [http://yos.isparta.edu.tr](http://yos.isparta.edu.tr)
+ - date_published: 2024-06-17T15:28:29.018982+00:00
+
+ ## Ziraat Fakültesi
+ - [http://ziraat.isparta.edu.tr](http://ziraat.isparta.edu.tr)
+ - date_published: 2024-06-17T15:18:08.086155+00:00
+
+ ## Academic Data Management System | AVESİS
+ - [https://avesis.istanbul.edu.tr](https://avesis.istanbul.edu.tr)
+ - date_published: 2024-05-08T12:02:12.243344+00:00
+
+ ## Zimbra Web Client Sign In
+ - [http://eposta.iste.edu.tr](http://eposta.iste.edu.tr)
+ - date_published: 2024-10-19T16:48:16.487737+00:00
+
+ ## İskenderun Teknik Üniversitesi (İSTE)
+ - [https://iste.edu.tr](https://iste.edu.tr)
+ - date_published: 2024-06-17T15:59:20.653931+00:00
+
+ ## .:: Bilgi Sistemleri ::.
+ - [https://obs.iste.edu.tr](https://obs.iste.edu.tr)
+ - date_published: 2024-10-19T16:49:38.907154+00:00
+
+ ## Sürekli Eğitim Merkezi | İSTE
+ - [https://sem.iste.edu.tr](https://sem.iste.edu.tr)
+ - date_published: 2024-10-19T16:49:37.520007+00:00
+
+ ## Teknoloji Transfer Ofisi | İSTE
+ - [http://tto.iste.edu.tr](http://tto.iste.edu.tr)
+ - date_published: 2024-10-19T16:48:19.497245+00:00
+
+ ## İTÜ AKADEMİ
+ - [http://akademi.itu.edu.tr](http://akademi.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:11.991749+00:00
+
+ ## İTÜ | Araştırma Dekanlığı
+ - [https://ardek.itu.edu.tr](https://ardek.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:14.841821+00:00
+
+ ## İTÜ | Bilimsel Araştırma Projeleri Koordinasyon Birimi
+ - [http://bap.itu.edu.tr](http://bap.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:45.012529+00:00
+
+ ## İTÜ | Bilgisayar ve Bilişim Fakültesi
+ - [https://bb.itu.edu.tr](https://bb.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:14.322606+00:00
+
+ ## İTÜ | Bilişim Enstitüsü
+ - [http://be.itu.edu.tr](http://be.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:48.690421+00:00
+
+ ## İTÜ Bilgi İşlem Daire Başkanlığı
+ - [https://bidb.itu.edu.tr](https://bidb.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:12.616359+00:00
+
+ ## İTÜ Bilgilendirme Sayfası
+ - [http://bilgiedinme.itu.edu.tr](http://bilgiedinme.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:02.268795+00:00
+
+ ## İTÜ | Denizcilik Fakültesi
+ - [https://df.itu.edu.tr](https://df.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:19.362572+00:00
+
+ ## İTÜ | Afet Yönetimi Enstitüsü
+ - [https://eedmi.itu.edu.tr](https://eedmi.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:17.869339+00:00
+
+ ## İTÜ | Elektrik Elektronik Fakültesi
+ - [https://ee.itu.edu.tr](https://ee.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:43.535816+00:00
+
+ ## İTÜ | Avrasya Yer Bilimleri Enstitüsü
+ - [https://eies.itu.edu.tr](https://eies.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:26.368221+00:00
+
+ ## İTÜ | Enerji Enstitüsü
+ - [https://enerji.itu.edu.tr](https://enerji.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:28.331326+00:00
+
+ ## İTÜ ETKİNLİK
+ - [http://etkinlik.itu.edu.tr](http://etkinlik.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:05.517860+00:00
+
+ ## İTÜ | Fen-Edebiyat Fakültesi
+ - [https://fe.itu.edu.tr](https://fe.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:50.382879+00:00
+
+ ## İTÜ | Gemi İnşaatı ve Deniz Bilimleri Fakültesi
+ - [https://gidb.itu.edu.tr](https://gidb.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:29.512650+00:00
+
+ ## İTÜ Haberler | İstanbul Teknik Üniversitesi Haberler | ITU1773
+ - [https://haberler.itu.edu.tr](https://haberler.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:30.594876+00:00
+
+ ## İTÜ | İnşaat Fakültesi
+ - [https://ins.itu.edu.tr](https://ins.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:19.606583+00:00
+
+ ## İTÜ | İşletme Fakültesi
+ - [https://isl.itu.edu.tr](https://isl.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:38.353457+00:00
+
+ ## İTÜ | İstanbul Teknik Üniversitesi | İTÜ 1773
+ - [https://itu.edu.tr](https://itu.edu.tr)
+ - date_published: 2024-05-07T21:31:36.126194+00:00
+
+ ## İTÜ | İstanbul Teknik Üniversitesi Ödülleri
+ - [https://ituodulleri.itu.edu.tr](https://ituodulleri.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:17.914875+00:00
+
+ ## İTÜ KALİTE KOORDİNATÖRLÜĞÜ BİRİMİ
+ - [https://kalite.itu.edu.tr](https://kalite.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:46.846534+00:00
+
+ ## İTÜ | Kimya - Metalurji Fakültesi
+ - [https://kmg.itu.edu.tr](https://kmg.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:09.441621+00:00
+
+ ## İTÜ Kütüphane ve Dokümantasyon Daire Başkanlığı
+ - [https://kutuphane.itu.edu.tr](https://kutuphane.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:21.568678+00:00
+
+ ## İTÜ Mezun Bilgi Sistemi
+ - [http://mbs.itu.edu.tr](http://mbs.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:10.462690+00:00
+
+ ## İTÜ KURUMSAL İLİŞKİLER VE MEZUNLARLA İLETİŞİM OFİSİ
+ - [https://mezun.itu.edu.tr](https://mezun.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:52.216197+00:00
+
+ ## İTÜ Taşkışla Mimarlık Fakültesi - Ana Sayfa
+ - [https://mim.itu.edu.tr](https://mim.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:09.881201+00:00
+
+ ## İTÜ | Maden Fakültesi
+ - [https://mines.itu.edu.tr](https://mines.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:32.123634+00:00
+
+ ## İTÜ | Makina Fakültesi
+ - [https://mkn.itu.edu.tr](https://mkn.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:41.189685+00:00
+
+ ## İTÜMobil
+ - [http://mobil.itu.edu.tr](http://mobil.itu.edu.tr)
+ - date_published: 2023-11-03T08:57:00+00:00
+
+ ## ninova - İTÜ e-Öğrenim Merkezi
+ - [http://ninova.itu.edu.tr](http://ninova.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:05.020411+00:00
+
+ ## İTÜ | Onur ve Ödüller
+ - [https://oduller.itu.edu.tr](https://oduller.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:39.769625+00:00
+
+ ## İTÜ Giriş
+ - [http://portal.itu.edu.tr](http://portal.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:16.147918+00:00
+
+ ## İTU REHBER
+ - [http://rehber.itu.edu.tr](http://rehber.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:06.743146+00:00
+
+ ## Sayılarla İTÜ
+ - [http://sayilarla.itu.edu.tr](http://sayilarla.itu.edu.tr)
+ - date_published: 2023-03-01T13:28:01+00:00
+
+ ## İTÜ | Siber Güvenlik Meslek Yüksekokulu
+ - [https://sgmyo.itu.edu.tr](https://sgmyo.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:13.112980+00:00
+
+ ## İTÜ Tanıtım Ofisi | ADAY ÖĞRENCİ
+ - [http://tanitim.itu.edu.tr](http://tanitim.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:00.740348+00:00
+
+ ## İTÜ | Tekstil Teknolojileri ve Tasarımı Fakültesi
+ - [https://tekstil.itu.edu.tr](https://tekstil.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:16.208414+00:00
+
+ ## İTÜ Türk Musikisi Devlet Konservatuarı
+ - [https://tmdk.itu.edu.tr](https://tmdk.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:28.019625+00:00
+
+ ## İTÜ BİDB
+ - [https://twitterfeed.itu.edu.tr](https://twitterfeed.itu.edu.tr)
+ - date_published: 2016-03-29T11:50:36+00:00
+
+ ## İTÜ | Uçak ve Uzay Bilimleri Fakültesi
+ - [https://uubf.itu.edu.tr](https://uubf.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:02.237008+00:00
+
+ ## veti - İTÜ Veri Toplama ve İstatistik Sistemi
+ - [http://veti.itu.edu.tr](http://veti.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:30.908531+00:00
+
+ ## Horde :: Log in
+ - [https://webmail.itu.edu.tr](https://webmail.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:04.331642+00:00
+
+ ## İTÜ Kuzey Kıbrıs - Home Page
+ - [https://www.kktc.itu.edu.tr](https://www.kktc.itu.edu.tr)
+ - date_published: 2024-07-02T04:17:25+00:00
+
+ ## İTÜ | Lisansüstü Eğitim Enstitüsü
+ - [http://www.lee.itu.edu.tr](http://www.lee.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:54.426662+00:00
+
+ ## İTÜ | ÖİDB
+ - [http://www.sis.itu.edu.tr](http://www.sis.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:30.056266+00:00
+
+ ## İTÜ Yardım
+ - [http://yardim.itu.edu.tr](http://yardim.itu.edu.tr)
+ - date_published: 2024-07-02T04:11:03.693409+00:00
+
+ ## İTÜ | Yabancı Diller Yüksek Okulu
+ - [https://ydy.itu.edu.tr](https://ydy.itu.edu.tr)
+ - date_published: 2024-07-02T04:16:58.983880+00:00
+
+ ## KOÜ Basın ve Halkla İlişkiler Müdürlüğü
+ - [http://bhi.kocaeli.edu.tr](http://bhi.kocaeli.edu.tr)
+ - date_published: 2024-10-19T16:40:01.351902+00:00
+
+ ## KOÜ Kütüphane ve Dokümantasyon Daire Başkanlığı
+ - [http://kutuphane.kocaeli.edu.tr](http://kutuphane.kocaeli.edu.tr)
+ - date_published: 2024-06-17T15:58:10.665856+00:00
+
+ ## KOÜ Sürekli Eğitim Araştırma ve Uygulama Merkezi
+ - [http://sem.kocaeli.edu.tr](http://sem.kocaeli.edu.tr)
+ - date_published: 2024-10-19T16:40:03.019641+00:00
+
+ ## ORD.PROF.MÜKRİMİN HALİL YİNANÇ KÜTÜPHANESİ
+ - [https://kutuphane.ksu.edu.tr](https://kutuphane.ksu.edu.tr)
+ - date_published: 2020-10-14T07:29:49+00:00
+
+ ## Social Contribution Coordinatorship
+ - [https://tok.mehmetakif.edu.tr](https://tok.mehmetakif.edu.tr)
+ - date_published: 2024-10-19T14:39:21.549792+00:00
+
+ ## ODTÜ Aday Öğrenci | Bizler Dünyayı Değiştirebiliriz
+ - [https://adayogrenci.metu.edu.tr](https://adayogrenci.metu.edu.tr)
+ - date_published: 2024-05-02T10:26:26.873615+00:00
+
+ ## Araştırmalar Koordinatörlüğü | Birim hakkinda kisa aciklama
+ - [https://ak.metu.edu.tr](https://ak.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:44.362165+00:00
+
+ ## METU NCC Alumni Information System
+ - [http://alumni.ncc.metu.edu.tr](http://alumni.ncc.metu.edu.tr)
+ - date_published: 2024-10-19T14:16:29.584836+00:00
+
+ ## METU Online Applications
+ - [https://application.metu.edu.tr](https://application.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:34.491294+00:00
+
+ ## Apply online! - METU Northern Cyprus Campus
+ - [https://apply.ncc.metu.edu.tr](https://apply.ncc.metu.edu.tr)
+ - date_published: 2024-10-19T14:16:32.547123+00:00
+
+ ## Academic Data Management System | AVESİS
+ - [https://avesis.metu.edu.tr](https://avesis.metu.edu.tr)
+ - date_published: 2024-06-17T15:35:09.335110+00:00
+
+ ## Basında ODTÜ
+ - [https://basinda.metu.edu.tr](https://basinda.metu.edu.tr)
+ - date_published: 2024-06-17T15:28:44.343578+00:00
+
+ ## BİLGİ EDİNME BİRİMİ | Bilgi Edinme Birimi'ne Hoşgeldiniz
+ - [https://beb.metu.edu.tr](https://beb.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:59.861760+00:00
+
+ ## Bilgi İşlem Daire Başkanlığı
+ - [http://bidb.metu.edu.tr](http://bidb.metu.edu.tr)
+ - date_published: 2024-06-17T15:28:57.300901+00:00
+
+ ## Bilgi İşlem Daire Başkanlığı
+ - [https://cc.metu.edu.tr](https://cc.metu.edu.tr)
+ - date_published: 2024-10-19T14:23:28.406305+00:00
+
+ ## ODTUCLASS EXAM ARCHIVE
+ - [https://classarchive.metu.edu.tr](https://classarchive.metu.edu.tr)
+ - date_published: 2023-03-16T20:49:58+00:00
+
+ ## ODTÜ Yabancı Diller Yüksekokulu
+ - [https://dil.metu.edu.tr](https://dil.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:45.796511+00:00
+
+ ## ENGELSİZ ODTÜ BİRİMİ | EOB
+ - [https://engelsiz.metu.edu.tr](https://engelsiz.metu.edu.tr)
+ - date_published: 2024-06-17T15:29:05.857358+00:00
+
+ ## Frequently Asked Questions
+ - [http://faq.cc.metu.edu.tr](http://faq.cc.metu.edu.tr)
+ - date_published: 2024-06-17T05:13:48+00:00
+
+ ## ODTÜ Haber
+ - [https://haber.metu.edu.tr](https://haber.metu.edu.tr)
+ - date_published: 2024-06-17T15:37:28.375369+00:00
+
+ ## International Cooperations Office - ICO
+ - [https://ico.metu.edu.tr](https://ico.metu.edu.tr)
+ - date_published: 2024-06-17T15:35:06.404252+00:00
+
+ ## İÇ HİZMETLER MÜDÜRLÜĞÜ  | ORTA DOĞU TEKNİK ÜNİVERSİTESİ
+ - [https://ihm.metu.edu.tr](https://ihm.metu.edu.tr)
+ - date_published: 2024-06-17T15:37:21.780655+00:00
+
+ ## International Students Office | Together we can change the world
+ - [https://iso.metu.edu.tr](https://iso.metu.edu.tr)
+ - date_published: 2024-06-17T15:28:59.531918+00:00
+
+ ## Kalite Güvence Sistemi | Birim hakkinda kisa aciklama
+ - [http://kalite.metu.edu.tr](http://kalite.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:58.288997+00:00
+
+ ## ODTÜ Kuzey Kıbrıs Kampusu | KUZEY KIBRIS KAMPUSU
+ - [http://kkk.metu.edu.tr](http://kkk.metu.edu.tr)
+ - date_published: 2024-10-19T14:28:55.703882+00:00
+
+ ## Kültür ve Kongre Merkezi
+ - [https://kkm.metu.edu.tr](https://kkm.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:39.829527+00:00
+
+ ## METU CPC – Career Planning Application and Research Center
+ - [https://kpm.metu.edu.tr](https://kpm.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:33.378544+00:00
+
+ ## Kişisel Verileri Koruma Kanunu Komisyonu | Birim hakkinda kisa aciklama
+ - [https://kvkk.metu.edu.tr](https://kvkk.metu.edu.tr)
+ - date_published: 2024-06-17T15:29:06.908847+00:00
+
+ ## LibGuides
+ - [http://libguides.lib.metu.edu.tr](http://libguides.lib.metu.edu.tr)
+ - date_published: 2024-10-19T14:28:11.449345+00:00
+
+ ## METU Library | Good libraries make us great!
+ - [https://lib.metu.edu.tr](https://lib.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:50.867473+00:00
+
+ ## METU Library catalog
+ - [https://librarycatalog.metu.edu.tr](https://librarycatalog.metu.edu.tr)
+ - date_published: 2024-10-19T14:16:57.642997+00:00
+
+ ## METU Library | Good libraries make us great!
+ - [https://library.metu.edu.tr](https://library.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:42.972742+00:00
+
+ ## ODTÜ Harita
+ - [https://map.metu.edu.tr](https://map.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:15.340030+00:00
+
+ ## Anı Ağacı | ODTÜ
+ - [http://memoriam.metu.edu.tr](http://memoriam.metu.edu.tr)
+ - date_published: 2024-06-17T15:35:55.302267+00:00
+
+ ## Merkezi Laboratuvar
+ - [https://merlab.metu.edu.tr](https://merlab.metu.edu.tr)
+ - date_published: 2024-06-17T15:35:52+00:00
+
+ ## METU - Middle East Technical University
+ - [https://metu.edu.tr](https://metu.edu.tr)
+ - date_published: 2024-05-02T10:26:44.206432+00:00
+
+ ## METU Mail Service
+ - [https://metumail.metu.edu.tr](https://metumail.metu.edu.tr)
+ - date_published: 2022-08-22T00:00:00+00:00
+
+ ## ODTÜ Mezunlar Ofisi – ODTÜ'lüler her yerde, hep birlikte…
+ - [https://mezun.metu.edu.tr](https://mezun.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:27.039452+00:00
+
+ ## MATEMATİK VE FEN BİLİMLERİ EĞİTİMİ BÖLÜMÜ
+ - [https://mse.metu.edu.tr](https://mse.metu.edu.tr)
+ - date_published: 2024-02-08T21:48:53.202116+00:00
+
+ ## METU Northern Cyprus Campus | NORTHERN CYPRUS CAMPUS
+ - [http://ncc.metu.edu.tr](http://ncc.metu.edu.tr)
+ - date_published: 2024-06-17T15:28:46.744433+00:00
+
+ ## Middle East Technical University OpenCourseWare
+ - [https://ocw.metu.edu.tr](https://ocw.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:38+00:00
+
+ ## Online Bakiye Yukleme
+ - [https://odtucard.metu.edu.tr](https://odtucard.metu.edu.tr)
+ - date_published: 2024-10-19T14:28:06.776202+00:00
+
+ ## ODTUCLASS 2020-2021 SUMMER
+ - [https://odtuclass2020sum.metu.edu.tr](https://odtuclass2020sum.metu.edu.tr)
+ - date_published: 2024-06-17T15:29:07+00:00
+
+ ## ODTUCLASS 2021-2022 FALL
+ - [https://odtuclass2021f.metu.edu.tr](https://odtuclass2021f.metu.edu.tr)
+ - date_published: 2024-06-17T15:29:12+00:00
+
+ ## ODTUCLASS 2021-2022 SPRING
+ - [https://odtuclass2021s.metu.edu.tr](https://odtuclass2021s.metu.edu.tr)
+ - date_published: 2024-06-17T15:29:13+00:00
+
+ ## ODTUCLASS 2021-2022 SUMMER
+ - [https://odtuclass2021sum.metu.edu.tr](https://odtuclass2021sum.metu.edu.tr)
+ - date_published: 2024-06-17T15:29:08+00:00
+
+ ## ODTUCLASS 2022-2023 FALL
+ - [https://odtuclass2022f.metu.edu.tr](https://odtuclass2022f.metu.edu.tr)
+ - date_published: 2024-06-17T15:29:17+00:00
+
+ ## ODTUCLASS 2022-2023 SPRING
+ - [https://odtuclass2022s.metu.edu.tr](https://odtuclass2022s.metu.edu.tr)
+ - date_published: 2024-06-17T15:29:10+00:00
+
+ ## ODTUCLASS 2022-2023 SUMMER
+ - [https://odtuclass2022sum.metu.edu.tr](https://odtuclass2022sum.metu.edu.tr)
+ - date_published: 2024-06-17T15:29:14+00:00
+
+ ## ODTUCLASS 2023-2024 FALL
+ - [https://odtuclass2023f.metu.edu.tr](https://odtuclass2023f.metu.edu.tr)
+ - date_published: 2024-06-17T15:29:11+00:00
+
+ ## ODTUCLASS 2023-2024 SPRING
+ - [https://odtuclass2023s.metu.edu.tr](https://odtuclass2023s.metu.edu.tr)
+ - date_published: 2024-06-17T15:29:09+00:00
+
+ ## ODTUCLASS 2023-2024 SPRING
+ - [https://odtuclass.metu.edu.tr](https://odtuclass.metu.edu.tr)
+ - date_published: 2024-05-02T10:26:41.785216+00:00
+
+ ## ODTULU
+ - [https://odtulu.metu.edu.tr](https://odtulu.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:28.669707+00:00
+
+ ## armongate
+ - [https://odtupass.metu.edu.tr](https://odtupass.metu.edu.tr)
+ - date_published: 2024-05-31T11:35:10+00:00
+
+ ## METU | Course Syllabus
+ - [https://odtusyllabus.metu.edu.tr](https://odtusyllabus.metu.edu.tr)
+ - date_published: 2024-06-17T15:37:29.530579+00:00
+
+ ## ÖGEM - Center for Advancing Learning and Teaching | Slogan is here
+ - [https://ogem.metu.edu.tr](https://ogem.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:37.064215+00:00
+
+ ## İŞ SAĞLIĞI VE GÜVENLİĞİ | OHS
+ - [http://ohs.metu.edu.tr](http://ohs.metu.edu.tr)
+ - date_published: 2024-06-17T15:28:52.978773+00:00
+
+ ## METU Student Affairs Information System
+ - [https://oibs.metu.edu.tr](https://oibs.metu.edu.tr)
+ - date_published: 2024-06-17T15:28:55.700333+00:00
+
+ ## Ana Sayfa | ODTÜ ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI
+ - [https://oidb.metu.edu.tr](https://oidb.metu.edu.tr)
+ - date_published: 2024-05-02T10:26:29.200991+00:00
+
+ ## OpenMETU
+ - [https://open.metu.edu.tr](https://open.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:12.661903+00:00
+
+ ## Yeni Öğrenciler
+ - [https://oryantasyon.ncc.metu.edu.tr](https://oryantasyon.ncc.metu.edu.tr)
+ - date_published: 2024-06-14T13:07:46+00:00
+
+ ## ÖĞRENCİ TEMSİLCİLERİ SEÇİMİ ve ÜNİVERSİTE SEÇİM KURULU
+ - [https://otk.metu.edu.tr](https://otk.metu.edu.tr)
+ - date_published: 2024-06-17T15:35:58.852502+00:00
+
+ ## Proje Destek Ofisi
+ - [https://pdo.metu.edu.tr](https://pdo.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:01.663337+00:00
+
+ ## Telefon Defteri ODTÜ.
+ - [https://phonebook.metu.edu.tr](https://phonebook.metu.edu.tr)
+ - date_published: 2020-03-12T07:57:35+00:00
+
+ ## METU | Portal
+ - [https://portal.metu.edu.tr](https://portal.metu.edu.tr)
+ - date_published: 2024-06-17T15:35:04.405603+00:00
+
+ ## Program Yeterlilikleri Bilgi Paketi
+ - [https://program.metu.edu.tr](https://program.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:53.563939+00:00
+
+ ## Instant Location of Rings
+ - [https://ring.metu.edu.tr](https://ring.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:48.403665+00:00
+
+ ## ODTÜ SEM - ODTÜ Sürekli Eğitim Merkezi
+ - [https://sem.metu.edu.tr](https://sem.metu.edu.tr)
+ - date_published: 2024-06-17T15:37:23.461440+00:00
+
+ ## METUSIS | METU Student Information System
+ - [https://sis.metu.edu.tr](https://sis.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:00.167692+00:00
+
+ ## ODTÜ Stratejik Planı
+ - [https://sp.metu.edu.tr](https://sp.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:52.293912+00:00
+
+ ## SAĞLIK VE REHBERLİK MERKEZİ | ODTÜ
+ - [https://srm.metu.edu.tr](https://srm.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:35+00:00
+
+ ## ODTÜ STUDENT PORTAL
+ - [https://student.metu.edu.tr](https://student.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:41.227824+00:00
+
+ ## ODTÜ Teknoloji Transfer Ofisi (TTO) – ODTÜ TTO
+ - [http://tto.metu.edu.tr](http://tto.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:23.649230+00:00
+
+ ## UYGULAMALI ETİK ARAŞTIRMA MERKEZİ
+ - [https://ueam.metu.edu.tr](https://ueam.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:47.121465+00:00
+
+ ## METU NCC VR
+ - [https://vr.ncc.metu.edu.tr](https://vr.ncc.metu.edu.tr)
+ - date_published: 2024-10-19T14:17:31.465600+00:00
+
+ ## Matematik Bölümü, Mimar Sinan Güzel Sanatar Üniversitesi
+ - [http://mat.msgsu.edu.tr](http://mat.msgsu.edu.tr)
+ - date_published: 2018-09-14T10:42:42+00:00
+
+ ## MUNZUR ÜNİVERSİTESİ
+ - [https://www.munzur.edu.tr](https://www.munzur.edu.tr)
+ - date_published: 2024-10-19T17:01:33.679946+00:00
+
+ ## Nevşehir Hacı Bektaş Veli Üniversitesi
+ - [https://www.nevsehir.edu.tr](https://www.nevsehir.edu.tr)
+ - date_published: 2024-10-19T17:02:21.580769+00:00
+
+ ## Basında ODTÜ
+ - [https://basinda.odtu.edu.tr](https://basinda.odtu.edu.tr)
+ - date_published: 2024-06-17T15:36:19.769512+00:00
+
+ ## Sayılarla - ODTÜ
+ - [http://ilkbakista.odtu.edu.tr](http://ilkbakista.odtu.edu.tr)
+ - date_published: 2024-04-25T09:19:43+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ ADAY ÖĞRENCİ
+ - [http://aday.odu.edu.tr](http://aday.odu.edu.tr)
+ - date_published: 2024-10-19T16:42:52.205846+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ AÖF KOORDİNATÖRLÜĞÜ
+ - [http://aof.odu.edu.tr](http://aof.odu.edu.tr)
+ - date_published: 2024-10-19T16:42:53.900223+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ BİLGİ İŞLEM DAİRE BAŞKANLIĞI (EBYS)
+ - [http://beyas.odu.edu.tr](http://beyas.odu.edu.tr)
+ - date_published: 2024-10-19T16:41:39.974486+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ BİLGİ İŞLEM DAİRE BAŞKANLIĞI
+ - [https://bidb.odu.edu.tr](https://bidb.odu.edu.tr)
+ - date_published: 2024-06-17T15:58:29.280637+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ ENGELLİ ÖĞRENCİ BİRİMİ
+ - [http://engelsiz.odu.edu.tr](http://engelsiz.odu.edu.tr)
+ - date_published: 2024-10-19T16:41:37.302280+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ İKTİSADİ İŞLETME
+ - [http://iktisadiisletme.odu.edu.tr](http://iktisadiisletme.odu.edu.tr)
+ - date_published: 2024-10-19T16:42:57.064617+00:00
+
+ ## T.C. Ordu Üniversitesi - IAYS
+ - [https://isakis.odu.edu.tr](https://isakis.odu.edu.tr)
+ - date_published: 2024-10-19T16:41:38.040002+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ KÜTÜPHANE VE DOKÜMANTASYON DAİRE BAŞKANLIĞI
+ - [http://kddb.odu.edu.tr](http://kddb.odu.edu.tr)
+ - date_published: 2024-10-19T16:44:27.673069+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ
+ - [http://sem.odu.edu.tr](http://sem.odu.edu.tr)
+ - date_published: 2024-10-19T16:44:29.876851+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ
+ - [http://tuyam.odu.edu.tr](http://tuyam.odu.edu.tr)
+ - date_published: 2024-10-19T16:42:55.447186+00:00
+
+ ## T.C. Ordu Üniversitesi ULUSLARARASI İLİŞKİLER BİRİMİ
+ - [http://uib.odu.edu.tr](http://uib.odu.edu.tr)
+ - date_published: 2024-10-19T16:44:37.505118+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ
+ - [https://uzem.odu.edu.tr](https://uzem.odu.edu.tr)
+ - date_published: 2024-10-19T16:42:50.866934+00:00
+
+ ## Niğde Ömer Halisdemir Üniversitesi Anasayfa
+ - [https://www.ohu.edu.tr](https://www.ohu.edu.tr)
+ - date_published: 2024-10-19T17:02:16.863307+00:00
+
+ ## Polis Akademisi
+ - [https://pa.edu.tr](https://pa.edu.tr)
+ - date_published: 2024-10-19T14:39:17.700296+00:00
+
+ ## .:: Bilgi Sistemleri ::.
+ - [https://katalog.rumeli.edu.tr](https://katalog.rumeli.edu.tr)
+ - date_published: 2024-10-19T16:06:30.421620+00:00
+
+ ## Rektör - SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://about.sakarya.edu.tr](https://about.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:48.834807+00:00
+
+ ## DSpace Home
+ - [https://acikerisim.sakarya.edu.tr](https://acikerisim.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:26:51.817663+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://adalet.sakarya.edu.tr](https://adalet.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:36.480439+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://adamyo.sakarya.edu.tr](https://adamyo.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:10.632499+00:00
+
+ ## Sakarya Üniversitesi Aday Öğrenci Bilgi Sistemi
+ - [https://adayogrenci.sakarya.edu.tr](https://adayogrenci.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:27.901194+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://aiit.sakarya.edu.tr](https://aiit.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:04.263114+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://akreditasyon.sabis.sakarya.edu.tr](https://akreditasyon.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:49:19.286921+00:00
+
+ ## Sakarya Üniversitesi | ARAŞTIRMA DEKANLIĞI
+ - [https://ardek.sakarya.edu.tr](https://ardek.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:57.918074+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://ardes.sabis.sakarya.edu.tr](https://ardes.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:47.177651+00:00
+
+ ## SABİS - Sakarya University Information System
+ - [http://bapk.sabis.sakarya.edu.tr](http://bapk.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:54:35.385704+00:00
+
+ ## Sakarya Üniversitesi | Bilimsel Araştırma Projeleri Koordinatörlüğü
+ - [https://bapk.sakarya.edu.tr](https://bapk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:00.656868+00:00
+
+ ## Başvuru - Anasayfa | SAÜSEM
+ - [https://basvuru.sakarya.edu.tr](https://basvuru.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:32.230392+00:00
+
+ ## Sakarya Üniversitesi |
+ - [http://baum.sakarya.edu.tr](http://baum.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:57:48.395856+00:00
+
+ ## Sakarya Üniversitesi Sürekli Eğitim Merkezi
+ - [https://belgelendirme.sakarya.edu.tr](https://belgelendirme.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:39.177772+00:00
+
+ ## Sakarya Üniversitesi | Bilgisayar ve Bilişim Bilimleri Fakültesi
+ - [https://bf.sakarya.edu.tr](https://bf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:38.456541+00:00
+
+ ## Sakarya Üniversitesi | BİLİMSEL DERGİLER KOORDİNATÖRLÜĞÜ
+ - [https://bidek.sakarya.edu.tr](https://bidek.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:28.512872+00:00
+
+ ## Doç.Dr. Cansu AKBULUT
+ - [http://cansua.sakarya.edu.tr](http://cansua.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:39:57.767863+00:00
+
+ ## Request Rejected
+ - [https://cdn0.sabis.sakarya.edu.tr](https://cdn0.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:41:41.731243+00:00
+
+ ## Sakarya Üniversitesi | Çalışma Ekonomisi ve Endüstri İlişkileri
+ - [http://ceko.sakarya.edu.tr](http://ceko.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:46:46.099096+00:00
+
+ ## SABİS - Sakarya University Information System
+ - [http://degisim.sabis.sakarya.edu.tr](http://degisim.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:45:19.922993+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://dhf.sakarya.edu.tr](https://dhf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:29.545366+00:00
+
+ ## Sakarya Üniversitesi | DIŞ İLİŞKİLER OFİSİ ( Farabi, Mevlana)
+ - [https://disiliskiler.sakarya.edu.tr](https://disiliskiler.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:28:45.846597+00:00
+
+ ## Sakarya Üniversitesi | Devlet Konservatuarı
+ - [https://dk.sakarya.edu.tr](https://dk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:11.993770+00:00
+
+ ## Doç.Dr. Damla KÜÇÜK
+ - [https://dkucuk.sakarya.edu.tr](https://dkucuk.sakarya.edu.tr)
+ - date_published: 2024-02-08T16:57:51.601420+00:00
+
+ ## - SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://dogrulama.sabis.sakarya.edu.tr](https://dogrulama.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:49:49.370985+00:00
+
+ ## Sakarya Üniversitesi | SENATO / ÜYK Kararları
+ - [https://duyuru.sakarya.edu.tr](https://duyuru.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:56.246355+00:00
+
+ ## Sakarya Üniversitesi | Ebelik
+ - [https://ebelik.sakarya.edu.tr](https://ebelik.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:35:08.750250+00:00
+
+ ## Education Information System
+ - [https://ebs.sabis.sakarya.edu.tr](https://ebs.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:45:53.713264+00:00
+
+ ## Education Information System
+ - [https://ebs.sakarya.edu.tr](https://ebs.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:28:08.979246+00:00
+
+ ## Sakarya Üniversitesi | Eğitim Fakültesi
+ - [https://ef.sakarya.edu.tr](https://ef.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:41:02.157821+00:00
+
+ ## Sakarya Üniversitesi | Eğitim Bilimleri Enstitüsü
+ - [https://egitim.sakarya.edu.tr](https://egitim.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:43.538224+00:00
+
+ ## Sakarya Üniversitesi | ENGELSİZ YAŞAM VE DESTEK KOORDİNATÖRLÜĞÜ
+ - [http://engelsiz.sakarya.edu.tr](http://engelsiz.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:05.542560+00:00
+
+ ## Enstitü Web-Mail
+ - [https://enstituiletisim.sakarya.edu.tr](https://enstituiletisim.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:53.963358+00:00
+
+ ## Sakarya Üniversitesi | + KOORDİNATÖRLÜĞÜ
+ - [https://erasmus.sakarya.edu.tr](https://erasmus.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:18.698156+00:00
+
+ ## Sakarya Üniversitesi | ERASMUS+ KOORDİNATÖRLÜĞÜ
+ - [https://erasmustest.sakarya.edu.tr](https://erasmustest.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:56:25.953683+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://esinav.sabis.sakarya.edu.tr](https://esinav.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:48:33.678510+00:00
+
+ ## Doç.Dr. Emre TABAR
+ - [http://etabar.sakarya.edu.tr](http://etabar.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:39:52.030749+00:00
+
+ ## Sakarya Üniversitesi | Etik Kurulu
+ - [https://etikkurulu.sakarya.edu.tr](https://etikkurulu.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:36.984382+00:00
+
+ ## Sakarya Üniversitesi | EUA KURUMSAL DEĞERLENDİRME PROGRAMI
+ - [https://eua.sakarya.edu.tr](https://eua.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:27:28.354578+00:00
+
+ ## Sakarya Üniversitesi | FARABİ KURUM KOORDİNATÖRLÜĞÜ
+ - [https://farabi.sakarya.edu.tr](https://farabi.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:07.599175+00:00
+
+ ## Sakarya Üniversitesi | Fen Bilimleri Enstitüsü
+ - [https://fbe.sakarya.edu.tr](https://fbe.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:24.595139+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://fen.sakarya.edu.tr](https://fen.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:45.253223+00:00
+
+ ## Sakarya Üniversitesi | Bahar Festivali
+ - [https://festival.sakarya.edu.tr](https://festival.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:51:47.455533+00:00
+
+ ## Sakarya Üniversitesi | Fikri ve Sınai Mülkiyet Hakları Koordinatörlüğü
+ - [https://fsmhk.sakarya.edu.tr](https://fsmhk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:20.249760+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://gsb.sakarya.edu.tr](https://gsb.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:32.479841+00:00
+
+ ## Sakarya Üniversitesi Haber Sitesi - Sakarya Üniversitesi Geleceğinize Yöne Verin
+ - [https://haber.sakarya.edu.tr](https://haber.sakarya.edu.tr)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://hesap.sabis.sakarya.edu.tr](https://hesap.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:57:46.824305+00:00
+
+ ## Sakarya Üniversitesi | Hukuk Fakültesi
+ - [https://hf.sakarya.edu.tr](https://hf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:30.099376+00:00
+
+ ## Sakarya Üniversitesi | Hukuk Müşavirliği
+ - [https://hukuk.sakarya.edu.tr](https://hukuk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:54.299246+00:00
+
+ ## Sakarya Üniversitesi | İklim Adaletinde Kadın Sempozyumu
+ - [https://iaks.sakarya.edu.tr](https://iaks.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:39:22.965267+00:00
+
+ ## Sakarya Üniversitesi | İlahiyat Fakültesi
+ - [https://if.sakarya.edu.tr](https://if.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:54.013774+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://ihale.sakarya.edu.tr](https://ihale.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:03.501412+00:00
+
+ ## Sakarya Üniversitesi | İletişim Koordinatörlüğü
+ - [https://ik.sakarya.edu.tr](https://ik.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:46:13.487082+00:00
+
+ ## Sakarya Üniversitesi | Personel Dairesi Başkanlığı Personel Alım İlanları
+ - [https://ilan.sakarya.edu.tr](https://ilan.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:57.639671+00:00
+
+ ## Sakarya Üniversitesi | İletişim Fakültesi
+ - [https://iletisim.sakarya.edu.tr](https://iletisim.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:39.941949+00:00
+
+ ## Sakarya Üniversitesi | İletişim Koordinatörlüğü
+ - [https://ilko.sakarya.edu.tr](https://ilko.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:21.013429+00:00
+
+ ## Sakarya University | International Office
+ - [https://international.sakarya.edu.tr](https://international.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:02.281154+00:00
+
+ ## Sakarya Üniversitesi | İş Sağlığı ve Güvenliği Koordinatörlüğü
+ - [https://isgk.sakarya.edu.tr](https://isgk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:32.994697+00:00
+
+ ## Sakarya Üniversitesi | İŞLETME
+ - [https://isletme.sakarya.edu.tr](https://isletme.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:40:06.896301+00:00
+
+ ## Sakarya Üniversitesi | İşletme Fakültesi
+ - [https://islf.sakarya.edu.tr](https://islf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:47.107140+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://isne.sakarya.edu.tr](https://isne.sakarya.edu.tr)
+ - date_published: 2024-10-19T15:03:39.482615+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://itbf.sakarya.edu.tr](https://itbf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:50.257935+00:00
+
+ ## Sakarya Üniversitesi | Stratejik Planlama ve Kalite Yönetim Sistemleri Şube Müdürlüğü
+ - [https://kalite.sakarya.edu.tr](https://kalite.sakarya.edu.tr)
+ - date_published: 2024-10-19T15:00:56.357679+00:00
+
+ ## Sakarya Üniversitesi | Siyaset Bilimi ve Kamu Yönetimi Bölümü - Sakarya Üniversitesi
+ - [http://kamu.sakarya.edu.tr](http://kamu.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:46:40.914332+00:00
+
+ ## "Bugün ve Gelecekte Hep Birlikte"
+ - [https://kariyer.sakarya.edu.tr](https://kariyer.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:52.325509+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://kultur.sakarya.edu.tr](https://kultur.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:35.356003+00:00
+
+ ## Sakarya Üniversitesi | Kütüphane ve Dokümantasyon Dairesi Başkanlığı
+ - [https://kutuphane.sakarya.edu.tr](https://kutuphane.sakarya.edu.tr)
+ - date_published: 2024-02-08T16:27:45.731706+00:00
+
+ ## KURUMSAL YÖNETİM BİLGİ SİSTEMİ
+ - [https://kybs.sabis.sakarya.edu.tr](https://kybs.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:55.421688+00:00
+
+ ## KALİTE YÖNETİM BİLGİ SİSTEMİ
+ - [https://kys.sakarya.edu.tr](https://kys.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:27:25.208119+00:00
+
+ ## SABİS | Giriş Sayfası
+ - [https://labyonetim.sabis.sakarya.edu.tr](https://labyonetim.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:08.594749+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://mediko.sakarya.edu.tr](https://mediko.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:16.063865+00:00
+
+ ## Sakarya Üniversitesi Genel Yemek Menüsü
+ - [http://menu.sabis.sakarya.edu.tr](http://menu.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:41:44+00:00
+
+ ## Sakarya Üniversitesi | MEVLANA KURUM KOORDİNATÖRLÜĞÜ
+ - [https://mevlana.sakarya.edu.tr](https://mevlana.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:31.589281+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://mezun1.sabis.sakarya.edu.tr](https://mezun1.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:42:34.527074+00:00
+
+ ## Mezun İlişkileri Koordinatörlüğü
+ - [https://mezun.sakarya.edu.tr](https://mezun.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:59.557964+00:00
+
+ ## Sakarya Üniversitesi | Mühendislik Fakültesi - Sakarya Üniversitesi
+ - [https://mf.sakarya.edu.tr](https://mf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:46.248316+00:00
+
+ ## Sakarya Üniversitesi | METALURJİ ve MALZEME MÜHENDİSLİĞİ
+ - [https://mme.sakarya.edu.tr](https://mme.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:51:34.918430+00:00
+
+ ## MUFAM - Index
+ - [https://mufam.sakarya.edu.tr](https://mufam.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:59.450672+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://odeme.sakarya.edu.tr](https://odeme.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:41:57.944234+00:00
+
+ ## Sakarya Üniversitesi | Öğrenci Dekanlığı
+ - [https://ogrdek.sakarya.edu.tr](https://ogrdek.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:17.376721+00:00
+
+ ## Sakarya Üniversitesi | Öğrenci İşleri Dairesi Başkanlığı
+ - [https://ogrisl.sakarya.edu.tr](https://ogrisl.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:59.178758+00:00
+
+ ## SABİS - Sakarya Üniversitesi Bilgi Sistemi
+ - [https://ogr.sakarya.edu.tr](https://ogr.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:16.876365+00:00
+
+ ## Sakarya Üniversitesi | ÖĞRENCİ SENATOSU
+ - [https://ogrsen.sakarya.edu.tr](https://ogrsen.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:45.859486+00:00
+
+ ## SAÜ Öğrenci İşleri- SSS
+ - [https://ogrwebmail.sakarya.edu.tr](https://ogrwebmail.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:01.744892+00:00
+
+ ## Sakarya Üniversitesi | Ortadoğu Enstitüsü
+ - [https://ortadogu.sakarya.edu.tr](https://ortadogu.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:21.574026+00:00
+
+ ## SABİS Rehber :: Sakarya Üniversitesi Bilgi Sistemi
+ - [https://rehber.sakarya.edu.tr](https://rehber.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:06.582414+00:00
+
+ ## SABİS - Sakarya Üniversitesi Bilgi Sistemi
+ - [https://sabis.sakarya.edu.tr](https://sabis.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:28:42.307900+00:00
+
+ ## Sakarya Üniversitesi | Sağlık Bilimleri Enstitüsü
+ - [https://sagbil.sakarya.edu.tr](https://sagbil.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:03.740314+00:00
+
+ ## Sakarya Üniversitesi | Sağlık Bilimleri Fakültesi
+ - [https://saglikbilimleri.sakarya.edu.tr](https://saglikbilimleri.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:40.268459+00:00
+
+ ## Sakarya Üniversitesi | Geleceğinize Yön Verin | SAÜ
+ - [https://sakarya.edu.tr](https://sakarya.edu.tr)
+ - date_published: 2024-06-17T15:41:43.489769+00:00
+
+ ## Sakarya Üniversitesi - TÜRKİYE
+ - [https://sanalkampus.sakarya.edu.tr](https://sanalkampus.sakarya.edu.tr)
+ - date_published: 2020-11-27T09:11:01+00:00
+
+ ## Sakarya University Journal of Computer and Information Sciences
+ - [http://saucis.sakarya.edu.tr](http://saucis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:34:52.256048+00:00
+
+ ## Sakarya Üniversitesi | Kurumsal Analiz ve Kalite Geliştirme Koordinatörlüğü
+ - [https://saudek.sakarya.edu.tr](https://saudek.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:28:44.599982+00:00
+
+ ## Sakarya Üniversitesi | Gazetecilik Bölümü
+ - [https://saugazetecilik.sakarya.edu.tr](https://saugazetecilik.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:46:36.798053+00:00
+
+ ## SAÜSEM Personel Belgelendirme Kurumsal Web Sitesi | SAÜPER
+ - [https://sauper.sakarya.edu.tr](https://sauper.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:38.352091+00:00
+
+ ## Sakarya Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi | sausem.sakarya.edu.tr
+ - [https://sausem.sakarya.edu.tr](https://sausem.sakarya.edu.tr)
+ - date_published: 2024-06-14T14:03:47+00:00
+
+ ## SAÜ Vakfı Özel Okulları – Köklü Geçmiş, Güçlü Gelecek
+ - [https://sauvakfiokullari.sakarya.edu.tr](https://sauvakfiokullari.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:26.933873+00:00
+
+ ## Sakarya Üniversitesi Yayınları
+ - [https://sauyayinlari.sakarya.edu.tr](https://sauyayinlari.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:52.755361+00:00
+
+ ## Sakarya Üniversitesi | SOSYAL BİLİMLER ENSTİTÜSÜ
+ - [https://sbe.sakarya.edu.tr](https://sbe.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:22.709774+00:00
+
+ ## Sakarya Üniversitesi | Siyasal Bilgiler Fakültesi
+ - [https://sbf.sakarya.edu.tr](https://sbf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:55.077803+00:00
+
+ ## Ana Sayfa - Sakarya Şehir Hafızası - Sakarya'nın Dijital Hafızası
+ - [https://sehirhafizasi.sakarya.edu.tr](https://sehirhafizasi.sakarya.edu.tr)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://seng.sakarya.edu.tr](https://seng.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:34:56.136489+00:00
+
+ ## Sakarya Üniversitesi | Sakarya Enerji teknolojileri Takımı
+ - [https://sett.sakarya.edu.tr](https://sett.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:18.969969+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://shmyo.sakarya.edu.tr](https://shmyo.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:57.754015+00:00
+
+ ## Sakarya Üniversitesi | Sıfır Atık Koordinatörlüğü
+ - [https://sifiratik.sakarya.edu.tr](https://sifiratik.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:30.808592+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://sks.sakarya.edu.tr](https://sks.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:06.955583+00:00
+
+ ## Sakarya Üniversitesi | Sivil Savunma Uzmanlığı
+ - [https://ssu.sakarya.edu.tr](https://ssu.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:13.026189+00:00
+
+ ## SABİS - Sakarya Üniversitesi Bilgi Sistemi
+ - [https://staj.sabis.sakarya.edu.tr](https://staj.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:42:38.595309+00:00
+
+ ## Sakarya Üniversitesi | Sanat Tasarım ve Mimarlık Fakültesi
+ - [https://stmf.sakarya.edu.tr](https://stmf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:35.878930+00:00
+
+ ## Sakarya Üniversitesi – Uluslararası Öğrenci Merkezi
+ - [https://studyatsau.sakarya.edu.tr](https://studyatsau.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:40.096442+00:00
+
+ ## Sakarya Üniversitesi – Uluslararası Öğrenci Merkezi
+ - [https://studyinsau.sakarya.edu.tr](https://studyinsau.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:38.263561+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://survey.sabis.sakarya.edu.tr](https://survey.sabis.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:26:55.751850+00:00
+
+ ## Sakarya Üniversitesi | Sustainable Development Goals
+ - [https://sustain.sakarya.edu.tr](https://sustain.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:47.471351+00:00
+
+ ## Sakarya Üniversitesi Tanıtım Sayfası
+ - [https://tanitim.sakarya.edu.tr](https://tanitim.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:49:47.086186+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://td.sakarya.edu.tr](https://td.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:48.764178+00:00
+
+ ## Sakarya Üniversitesi | Teknik Eğitim Fakültesi
+ - [https://tef.sakarya.edu.tr](https://tef.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:14.387894+00:00
+
+ ## Sakarya Üniversitesi | Tıp Fakültesi
+ - [https://tip.sakarya.edu.tr](https://tip.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:34.511395+00:00
+
+ ## Sakarya Üniversitesi | Topluma Katkı ve Sürdürülebilirlik Koordinatörlüğü
+ - [https://tokas.sakarya.edu.tr](https://tokas.sakarya.edu.tr)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Tömbis Giriş
+ - [https://tombis.sakarya.edu.tr](https://tombis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:50:38.850922+00:00
+
+ ## Sakarya Üniversitesi | Türk Dili Öğretimi Uygulama ve Araştırma Merkezi
+ - [https://tomer.sakarya.edu.tr](https://tomer.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:42.846291+00:00
+
+ ## Sakarya Üniversitesi | ULUSLARARASI İLİŞKİLER
+ - [http://uli.sakarya.edu.tr](http://uli.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:46:38.955383+00:00
+
+ ## Sakarya Üniversitesi | ULUSLARARASI TİCARET
+ - [https://utic.sakarya.edu.tr](https://utic.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:40:11.475041+00:00
+
+ ## Sakarya Üniversitesi | Uzaktan Eğitim Araştırma ve Uygulama Merkezi
+ - [https://uzem.sakarya.edu.tr](https://uzem.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:18.968016+00:00
+
+ ## Sakarya Üniversitesi Etkinlik Takvimi
+ - [https://www.etkinlik.sakarya.edu.tr](https://www.etkinlik.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:51.884613+00:00
+
+ ## SAÜ :: İç Denetim Koordinatörlüğü
+ - [http://www.icdenetim.sakarya.edu.tr](http://www.icdenetim.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:37.785457+00:00
+
+ ## Sakarya University Journal of Science
+ - [http://www.saujs.sakarya.edu.tr](http://www.saujs.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:23.811133+00:00
+
+ ## Sakarya Üniversitesi | Yayın Komisyonu Başkanlığı
+ - [https://yayin.sakarya.edu.tr](https://yayin.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:28:50.552794+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://ydyo.sakarya.edu.tr](https://ydyo.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:59.315671+00:00
+
+ ## Sakarya Üniversitesi | GreenMetric | Green Campus
+ - [https://yesilkampus.sakarya.edu.tr](https://yesilkampus.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:53.322974+00:00
+
+ ## Sakarya Universitesi | Uluslararası Öğrenci Başvuru ve Yerleştirme Sistemi
+ - [https://yosyerlesme.sabis.sakarya.edu.tr](https://yosyerlesme.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:49:52.081617+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://yurt.sakarya.edu.tr](https://yurt.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:23.442316+00:00
+
+ ## Süleyman Demirel Üniversitesi
+ - [http://www.sdu.edu.tr](http://www.sdu.edu.tr)
+ - date_published: 2024-07-22T08:55:38.423937+00:00
+
+ ## Selçuk Üniversitesi
+ - [https://arsiv.selcuk.edu.tr](https://arsiv.selcuk.edu.tr)
+ - date_published: 2024-12-15T13:58:00.616376+00:00
+
+ ## Selçuk Üniversitesi Personel E-Posta Sistemi
+ - [https://eposta.selcuk.edu.tr](https://eposta.selcuk.edu.tr)
+ - date_published: 2024-12-15T13:58:12.447909+00:00
+
+ ## Selçuk Üniversitesi Lisansüstü/Lisans/Önlisans Öğrenci E-Posta Sistemi
+ - [https://ogrposta.selcuk.edu.tr](https://ogrposta.selcuk.edu.tr)
+ - date_published: 2024-12-15T13:57:52.167055+00:00
+
+ ## Selçuk Bakış Dergisi
+ - [https://selcukbakis.selcuk.edu.tr](https://selcukbakis.selcuk.edu.tr)
+ - date_published: 2024-02-26T11:40:21+00:00
+
+ ## Selçuk Üniversitesi
+ - [https://selcuk.edu.tr](https://selcuk.edu.tr)
+ - date_published: 2024-10-30T20:22:44.142224+00:00
+
+ ## Ana Sayfa - Selçuk Üniversitesi Sürekli Eğitim Merkezi (SELÇUKSEM)
+ - [https://selcuksem.selcuk.edu.tr](https://selcuksem.selcuk.edu.tr)
+ - date_published: 2024-12-15T13:56:38.001025+00:00
+
+ ## Başvuru - Selçuk Üniversitesi İletişim Merkezi
+ - [https://simer.selcuk.edu.tr](https://simer.selcuk.edu.tr)
+ - date_published: 2024-12-15T13:57:40.117852+00:00
+
+ ## Selçuk Üniversitesi Tıp Fakültesi Hastanesi | Resmi Web Sayfası – Bölgenin En Güvenilir Sağlık Üssü
+ - [http://www.hastane.selcuk.edu.tr](http://www.hastane.selcuk.edu.tr)
+ - date_published: 2024-12-15T13:54:06.089353+00:00
+
+ ## Selçuk Üniversitesi Yemekhane Otomasyonu
+ - [https://yemek.selcuk.edu.tr](https://yemek.selcuk.edu.tr)
+ - date_published: 2024-12-15T13:58:08.890769+00:00
+
+ ## Cep Kütüphanem – Kütüphane ve Dokümantasyon Daire Başkanlığı
+ - [https://kddb.sinop.edu.tr](https://kddb.sinop.edu.tr)
+ - date_published: 2024-06-14T07:54:49+00:00
+
+ ## .:: Bilgi Sistemleri ::.
+ - [https://obs.sinop.edu.tr](https://obs.sinop.edu.tr)
+ - date_published: 2024-10-19T16:45:34.984217+00:00
+
+ ## SBTÜ Açık Ders Sistemi
+ - [https://acikders.sivas.edu.tr](https://acikders.sivas.edu.tr)
+ - date_published: 2024-10-19T16:59:17.521557+00:00
+
+ ## Sivas Bilim ve Teknoloji Üniversitesi | AXSIS - Akademik ve Açık Erişim Bilgi Sistemi
+ - [https://acikerisim.sivas.edu.tr](https://acikerisim.sivas.edu.tr)
+ - date_published: 2024-10-19T17:05:11.306960+00:00
+
+ ## Aday Öğrenci - SBTÜ
+ - [https://adayogrenci.sivas.edu.tr](https://adayogrenci.sivas.edu.tr)
+ - date_published: 2024-05-02T10:28:56.376890+00:00
+
+ ## PROJELER OFİSİ GENEL KOORDİNATÖRLÜĞÜ - Anasayfa
+ - [http://bap.sivas.edu.tr](http://bap.sivas.edu.tr)
+ - date_published: 2024-06-17T16:06:04.672201+00:00
+
+ ## BİLGİ İŞLEM DAİRE BAŞKANLIĞI - Anasayfa
+ - [http://bidb.sivas.edu.tr](http://bidb.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:46.297453+00:00
+
+ ## SBTU Covid19 Komisyonu - Anasayfa
+ - [http://covid19.sivas.edu.tr](http://covid19.sivas.edu.tr)
+ - date_published: 2024-06-17T16:09:18.871298+00:00
+
+ ## Döner Sermaye İşletme Müdürlüğü  - Anasayfa
+ - [http://dsim.sivas.edu.tr](http://dsim.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:42.340757+00:00
+
+ ## DIŞ KAYNAKLI PROJE TAKİP SİSTEMİ
+ - [https://form.sivas.edu.tr](https://form.sivas.edu.tr)
+ - date_published: 2024-06-17T16:08:48.198500+00:00
+
+ ## Genel Sekreterlik - Anasayfa
+ - [https://genelsekreterlik.sivas.edu.tr](https://genelsekreterlik.sivas.edu.tr)
+ - date_published: 2024-06-17T16:06:05.906720+00:00
+
+ ## Havacılık ve Uzay Bilimleri Fakültesi
+ - [https://havacilik.sivas.edu.tr](https://havacilik.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:26.025272+00:00
+
+ ## AMASMA - Anasayfa
+ - [http://hukukm.sivas.edu.tr](http://hukukm.sivas.edu.tr)
+ - date_published: 2024-06-17T16:06:28.785509+00:00
+
+ ## İDARİ VE MALİ İŞLER DAİRE BAŞKANLIĞI - Anasayfa
+ - [http://imid.sivas.edu.tr](http://imid.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:18.150062+00:00
+
+ ## Kalite Koordinatörlüğü - Anasayfa
+ - [https://kalite.sivas.edu.tr](https://kalite.sivas.edu.tr)
+ - date_published: 2024-06-17T16:06:01.531008+00:00
+
+ ## Kampüs Kart
+ - [https://kampuskart.sivas.edu.tr](https://kampuskart.sivas.edu.tr)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Kariyer Merkezi - Anasayfa
+ - [https://kariyer.sivas.edu.tr](https://kariyer.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:14.392298+00:00
+
+ ## Kütüphane ve Dokümantasyon Daire Başkanlığı - Anasayfa
+ - [http://kutuphane.sivas.edu.tr](http://kutuphane.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:41.146967+00:00
+
+ ## LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ - Anasayfa
+ - [http://lee.sivas.edu.tr](http://lee.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:16.445597+00:00
+
+ ## SBTÜ LMS
+ - [https://lms.sivas.edu.tr](https://lms.sivas.edu.tr)
+ - date_published: 2024-10-19T16:59:15.525770+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://mail.sivas.edu.tr](https://mail.sivas.edu.tr)
+ - date_published: 2024-05-02T10:29:11.347839+00:00
+
+ ## Mühendislik ve Doğa Bilimleri Fakültesi
+ - [https://muhendislik.sivas.edu.tr](https://muhendislik.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:09.437419+00:00
+
+ ## ORTAK DERSLER BÖLÜM BAŞKANLIĞI - Anasayfa
+ - [https://odb.sivas.edu.tr](https://odb.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:44.823060+00:00
+
+ ## Öğrenci İşleri Daire Başkanlığı - Anasayfa
+ - [http://oidb.sivas.edu.tr](http://oidb.sivas.edu.tr)
+ - date_published: 2024-06-17T16:06:02.941754+00:00
+
+ ## PERSONEL DAİRE BAŞKANLIĞI - Anasayfa
+ - [https://personel.sivas.edu.tr](https://personel.sivas.edu.tr)
+ - date_published: 2024-05-02T10:29:03.007416+00:00
+
+ ## Anasayfa
+ - [https://sem.sivas.edu.tr](https://sem.sivas.edu.tr)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ - Anasayfa
+ - [https://sivas.edu.tr](https://sivas.edu.tr)
+ - date_published: 2024-05-02T10:28:58.209897+00:00
+
+ ## SBTU | Sivas TTO
+ - [https://sivastto.sivas.edu.tr](https://sivastto.sivas.edu.tr)
+ - date_published: 2024-10-19T16:12:28.104521+00:00
+
+ ## SAĞLIK, KÜLTÜR VE SPOR DAİRE BAŞKANLIĞI - Anasayfa
+ - [http://sks.sivas.edu.tr](http://sks.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:27.844943+00:00
+
+ ## SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ - Sivas Bim ve Teknoloji Üniversitesi Aktif Cihaz ve Hat Kullanım İstati
+ - [http://stat.sivas.edu.tr](http://stat.sivas.edu.tr)
+ - date_published: 2024-10-19T17:07:48.190501+00:00
+
+ ## Strateji Geliştirme Daire Başkanlığı - Anasayfa
+ - [http://strateji.sivas.edu.tr](http://strateji.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:43.819168+00:00
+
+ ## Prospective Student - SBTÜ
+ - [https://student.sivas.edu.tr](https://student.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:11.241635+00:00
+
+ ## Sivas Bilim ve Teknoloji Üniversitesi
+ - [https://ubys.sivas.edu.tr](https://ubys.sivas.edu.tr)
+ - date_published: 2024-05-02T10:29:15.433716+00:00
+
+ ## Uzaktan Eğitim Uygulama ve Araştırma Merkezi - Anasayfa
+ - [https://uzem.sivas.edu.tr](https://uzem.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:22.690726+00:00
+
+ ## YAPI İŞLERİ TEKNİK DAİRE BAŞKANLIĞI - Anasayfa
+ - [http://yapi.sivas.edu.tr](http://yapi.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:24.545872+00:00
+
+ ## YABANCI DÄ°LLER YĂśKSEKOKULU - Anasayfa
+ - [https://ydyo.sivas.edu.tr](https://ydyo.sivas.edu.tr)
+ - date_published: 2022-01-01T00:00:00+00:00
+
+ ## SBTU | Yeşil Kampüs
+ - [https://yesilkampus.sivas.edu.tr](https://yesilkampus.sivas.edu.tr)
+ - date_published: 2024-10-19T16:12:11.599914+00:00
+
+ ## Tarım Bilimleri ve Teknolojileri Fakültesi
+ - [http://ziraat.sivas.edu.tr](http://ziraat.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:47.673988+00:00
+
+ ## Trakya Üniversitesi Merkez Kütüphanesi
+ - [https://katalog.trakya.edu.tr](https://katalog.trakya.edu.tr)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Trakya Üniversitesi Rektörlüğü
+ - [http://www.trakya.edu.tr](http://www.trakya.edu.tr)
+ - date_published: 2024-06-24T09:53:38.555820+00:00
+
+ ## Üsküdar Üniversitesi
+ - [http://www.uskudar.edu.tr](http://www.uskudar.edu.tr)
+ - date_published: 2024-12-24T09:34:07.559414+00:00
+
+ ## nobel.gen.tr
+ - [http://www.nobel.gen.tr](http://www.nobel.gen.tr)
+ - date_published: 2024-10-29T17:19:18.766038+00:00
+
+ ## Türkiye Cumhuriyeti Adalet Bakanlığı
+ - [http://www.adalet.gov.tr](http://www.adalet.gov.tr)
+ - date_published: 2024-10-19T14:58:52.490226+00:00
+
+ ## Adapazarı Kaymakamlığı
+ - [http://www.adapazari.gov.tr](http://www.adapazari.gov.tr)
+ - date_published: 2024-10-19T14:52:23.796115+00:00
+
+ ## T.C. İçişleri Bakanlığı Afet ve Acil Durum Yönetimi Başkanlığı
+ - [https://www.afad.gov.tr](https://www.afad.gov.tr)
+ - date_published: 2024-09-19T19:52:11+00:00
+
+ ## T.C. Aile ve Sosyal Hizmetler Bakanlığı
+ - [https://aile.gov.tr](https://aile.gov.tr)
+ - date_published: 2024-10-19T12:38:37.118517+00:00
+
+ ## AİLEM Engelsiz İletişim Merkezi
+ - [https://ailemtid.aile.gov.tr](https://ailemtid.aile.gov.tr)
+ - date_published: 2024-10-19T12:37:57.267571+00:00
+
+ ## Anasayfa - Alo 176
+ - [http://www.alo176.gov.tr](http://www.alo176.gov.tr)
+ - date_published: 2024-06-20T08:42:37.202257+00:00
+
+ ## Anasayfa | Anayasa Mahkemesi
+ - [http://www.anayasa.gov.tr](http://www.anayasa.gov.tr)
+ - date_published: 2024-10-19T14:53:23.563241+00:00
+
+ ## ATAM | Atatürk Araştırma Merkezi
+ - [https://www.atam.gov.tr](https://www.atam.gov.tr)
+ - date_published: 2024-10-19T15:52:35.175110+00:00
+
+ ## Toplu Katalog Tarama
+ - [http://katalog.ayk.gov.tr](http://katalog.ayk.gov.tr)
+ - date_published: 2024-05-02T10:27:23.380719+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://posta.ayk.gov.tr](https://posta.ayk.gov.tr)
+ - date_published: 2024-10-19T15:53:11.968886+00:00
+
+ ## AYK – Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
+ - [https://www.ayk.gov.tr](https://www.ayk.gov.tr)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Bilgi Teknolojileri ve İletişim Kurumu
+ - [http://btk.gov.tr](http://btk.gov.tr)
+ - date_published: 2024-10-19T17:24:13.892870+00:00
+
+ ## BTK - İNTERNET
+ - [https://internet.btk.gov.tr](https://internet.btk.gov.tr)
+ - date_published: 2024-10-19T17:23:55.800914+00:00
+
+ ## BTK Tüketici Sitesi
+ - [https://tuketici.btk.gov.tr](https://tuketici.btk.gov.tr)
+ - date_published: 2024-10-19T17:24:16.923568+00:00
+
+ ## Veri Kullanım Hesaplayıcı - Bilgi Teknolojileri ve İletişim Kurumu
+ - [http://veri-hesaplayici.btk.gov.tr](http://veri-hesaplayici.btk.gov.tr)
+ - date_published: 2024-10-19T17:24:21.988523+00:00
+
+ ## Akademi
+ - [https://www.btkakademi.gov.tr](https://www.btkakademi.gov.tr)
+ - date_published: 2024-06-17T16:09:00.474817+00:00
+
+ ## Türkiye Cumhuriyeti Cumhurbaşkanlığı Dijital Dönüşüm Ofisi - Anasayfa
+ - [https://cbddo.gov.tr](https://cbddo.gov.tr)
+ - date_published: 2024-06-17T15:00:01.880384+00:00
+
+ ## DABİS - Amaç
+ - [https://dabis.cbiko.gov.tr](https://dabis.cbiko.gov.tr)
+ - date_published: 2024-10-19T13:33:06.678354+00:00
+
+ ## T.C. Cumhurbaşkanlığı İnsan Kaynakları Ofisi | Uzaktan Eğitim Kapısı
+ - [https://egitimpanel.cbiko.gov.tr](https://egitimpanel.cbiko.gov.tr)
+ - date_published: 2024-10-19T17:26:58.063828+00:00
+
+ ## Kariyer Kapısı - T.C. Cumhurbaşkanlığı İnsan Kaynakları Ofisi
+ - [https://kariyerkapisi.cbiko.gov.tr](https://kariyerkapisi.cbiko.gov.tr)
+ - date_published: 2024-10-19T13:31:53.728501+00:00
+
+ ## Uzaktan Eğitim Kapısı
+ - [https://uzaktanegitimkapisi.cbiko.gov.tr](https://uzaktanegitimkapisi.cbiko.gov.tr)
+ - date_published: 2024-06-17T16:09:02.088704+00:00
+
+ ## CİMER - T.C. Cumhurbaşkanlığı İletişim Merkezi
+ - [http://cimer.gov.tr](http://cimer.gov.tr)
+ - date_published: 2024-06-17T15:18:19.976244+00:00
+
+ ## T.C. Çalışma ve Sosyal Güvenlik Bakanlığı
+ - [https://www.csgb.gov.tr](https://www.csgb.gov.tr)
+ - date_published: 2024-06-17T16:08:38.550098+00:00
+
+ ## Danıştay Resmi Sitesi
+ - [http://www.danistay.gov.tr](http://www.danistay.gov.tr)
+ - date_published: 2024-10-19T14:58:44.641553+00:00
+
+ ## Anasayfa - T.C. Darülaceze Başkanlığı
+ - [http://www.darulaceze.gov.tr](http://www.darulaceze.gov.tr)
+ - date_published: 2024-10-19T12:40:25.074988+00:00
+
+ ## detsis
+ - [https://detsis.gov.tr](https://detsis.gov.tr)
+ - date_published: 2024-10-19T12:09:16.849648+00:00
+
+ ## Ana Sayfa
+ - [https://www.dmo.gov.tr](https://www.dmo.gov.tr)
+ - date_published: 2024-10-19T16:57:51.881403+00:00
+
+ ## KÜTÜPHANELER VE YAYIMLAR GENEL MÜDÜRLÜĞÜ
+ - [https://earsiv.gov.tr](https://earsiv.gov.tr)
+ - date_published: 2024-06-17T15:57:23.966421+00:00
+
+ ## Yönlendiriliyorsunuz Lütfen Bekleyin.
+ - [https://cdn.e-devlet.gov.tr](https://cdn.e-devlet.gov.tr)
+ - date_published: 2024-02-27T14:25:18+00:00
+
+ ## T.C. İçişleri Bakanlığı Emniyet Genel Müdürlüğü
+ - [https://egm.gov.tr](https://egm.gov.tr)
+ - date_published: 2024-10-19T14:08:13.129062+00:00
+
+ ## e-insan
+ - [https://einsan.gov.tr](https://einsan.gov.tr)
+ - date_published: 2023-10-03T14:26:02+00:00
+
+ ## T.C. Ticaret Bakanlığı
+ - [https://www.ekonomi.gov.tr](https://www.ekonomi.gov.tr)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Kütüphaneler ve Yayımlar Genel Müdürlüğü catalog
+ - [https://koha.ekutuphane.gov.tr](https://koha.ekutuphane.gov.tr)
+ - date_published: 2024-05-02T10:28:41.066905+00:00
+
+ ## Kütüphaneler ve Yayımlar Genel Müdürlüğü Bilgi Sistemi | T.C. Kültür ve Turizm Bakanlığı
+ - [https://ekygm.gov.tr](https://ekygm.gov.tr)
+ - date_published: 2024-10-19T16:31:39.823148+00:00
+
+ ## Türkiye Cumhuriyeti Enerji ve Tabii Kaynaklar Bakanlığı
+ - [https://enerji.gov.tr](https://enerji.gov.tr)
+ - date_published: 2024-10-19T13:57:12.617837+00:00
+
+ ## e-Devlet Kapısı
+ - [https://etbis.eticaret.gov.tr](https://etbis.eticaret.gov.tr)
+ - date_published: 2024-04-28T05:24:33.963396+00:00
+
+ ## T.C. Kamu Görevlileri Etik Kurulu
+ - [http://etik.gov.tr](http://etik.gov.tr)
+ - date_published: 2024-06-17T16:09:04.479902+00:00
+
+ ## T.C. Sakarya Valiliği İl Göç İdaresi Müdürlüğü Resmi İnternet Sitesi
+ - [https://sakarya.goc.gov.tr](https://sakarya.goc.gov.tr)
+ - date_published: 2024-10-19T14:50:01.857742+00:00
+
+ ## T.C. İçişleri Bakanlığı Göç İdaresi Başkanlığı
+ - [https://www.goc.gov.tr](https://www.goc.gov.tr)
+ - date_published: 2024-09-19T19:55:53+00:00
+
+ ## İnşaat Sektöründe İş Sağlığı ve Güvenliği
+ - [http://www.guvenliinsaat.gov.tr](http://www.guvenliinsaat.gov.tr)
+ - date_published: 2024-10-19T17:19:11.504115+00:00
+
+ ## Atlas
+ - [https://atlas.harita.gov.tr](https://atlas.harita.gov.tr)
+ - date_published: 2024-10-19T12:09:36.823750+00:00
+
+ ## Heal In Türkiye
+ - [https://healinturkiye.gov.tr](https://healinturkiye.gov.tr)
+ - date_published: 2024-10-19T12:47:06.661536+00:00
+
+ ## T.C. Hazine ve Maliye Bakanlığı
+ - [https://mys.hmb.gov.tr](https://mys.hmb.gov.tr)
+ - date_published: 2024-10-19T13:54:01.893620+00:00
+
+ ## T.C. Hazine ve Maliye Bakanlığı
+ - [https://www.hmb.gov.tr](https://www.hmb.gov.tr)
+ - date_published: 2024-10-19T16:57:41.746787+00:00
+
+ ## T.C. İçişleri Bakanlığı
+ - [https://www.icisleri.gov.tr](https://www.icisleri.gov.tr)
+ - date_published: 2024-09-19T19:52:06+00:00
+
+ ## İnsan Kaynaklarının Geliştirilmesi Program Otoritesi – Gelişen Hayatlar Değişen Türkiye
+ - [http://www.ikg.gov.tr](http://www.ikg.gov.tr)
+ - date_published: 2024-06-17T15:56:42.002238+00:00
+
+ ## ilan.gov.tr - Türkiye'nin İlan Portalı
+ - [https://ilan.gov.tr](https://ilan.gov.tr)
+ - date_published: 2023-06-16T05:56:59+00:00
+
+ ## Türkiye Cumhuriyeti | İletişim Başkanlığı
+ - [https://www.iletisim.gov.tr](https://www.iletisim.gov.tr)
+ - date_published: 2024-10-19T13:53:54.336891+00:00
+
+ ## Türkiye Cumhuriyeti Isparta Valiliği
+ - [http://isparta.gov.tr](http://isparta.gov.tr)
+ - date_published: 2024-06-17T15:26:44+00:00
+
+ ## Isparta İl Jandarma Komutanlığı
+ - [https://isparta.jandarma.gov.tr](https://isparta.jandarma.gov.tr)
+ - date_published: 2024-10-19T14:08:23.349038+00:00
+
+ ## T.C. İçişleri Bakanlığı Jandarma Genel Komutanlığı
+ - [https://www.jandarma.gov.tr](https://www.jandarma.gov.tr)
+ - date_published: 2024-09-19T19:56:53+00:00
+
+ ## Kamu SM - Kamu Sertifikasyon Merkezi - Elektronik Sertifika Hizmet Sağlayıcısı ve E-imza Uygulamaları
+ - [http://kamusm.gov.tr](http://kamusm.gov.tr)
+ - date_published: 2024-09-12T13:54:26.572644+00:00
+
+ ## T.C. Hazine ve Maliye Bakanlığı
+ - [https://www.kbs.gov.tr](https://www.kbs.gov.tr)
+ - date_published: 2024-10-19T13:54:05.358251+00:00
+
+ ## EKAP (Elektronik Kamu Alımları Platformu)
+ - [https://ekap.kik.gov.tr](https://ekap.kik.gov.tr)
+ - date_published: 2024-10-19T13:51:52.973063+00:00
+
+ ## T.C. Dışişleri Bakanlığı Konsolosluk İşlemleri
+ - [https://www.konsolosluk.gov.tr](https://www.konsolosluk.gov.tr)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## KOSGEB T.C. Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı
+ - [https://www.kosgeb.gov.tr](https://www.kosgeb.gov.tr)
+ - date_published: 2024-10-19T12:28:22.027942+00:00
+
+ ## Kültür Varlıkları ve Müzeler Genel Müdürlüğü - T.C. Kültür ve Turizm Bakanlığı
+ - [https://kvmgm.ktb.gov.tr](https://kvmgm.ktb.gov.tr)
+ - date_published: 2024-05-04T08:26:42.291050+00:00
+
+ ## Kütüphaneler ve Yayımlar Genel Müdürlüğü - T.C. Kültür ve Turizm Bakanlığı
+ - [https://kygm.ktb.gov.tr](https://kygm.ktb.gov.tr)
+ - date_published: 2024-06-17T15:57:36+00:00
+
+ ## Mobil uygulamalar - T.C. Kültür ve Turizm Bakanlığı
+ - [https://mobil.ktb.gov.tr](https://mobil.ktb.gov.tr)
+ - date_published: 2024-06-17T15:57:22.218537+00:00
+
+ ## Kurumsal Portal - T.C. Kültür ve Turizm Bakanlığı
+ - [http://intranet.kultur.gov.tr](http://intranet.kultur.gov.tr)
+ - date_published: 2024-10-19T16:35:07.250025+00:00
+
+ ## T.C. Kültür ve Turizm Bakanlığı
+ - [http://www.kultur.gov.tr](http://www.kultur.gov.tr)
+ - date_published: 2024-06-17T15:57:59.909165+00:00
+
+ ## Kurumsal Portal - T.C. Kültür ve Turizm Bakanlığı
+ - [http://intranet.kulturturizm.gov.tr](http://intranet.kulturturizm.gov.tr)
+ - date_published: 2024-10-19T16:39:33.211941+00:00
+
+ ## Kültür Varlıkları ve Müzeler Genel Müdürlüğü - T.C. Kültür ve Turizm Bakanlığı
+ - [http://www.kulturvarliklari.gov.tr](http://www.kulturvarliklari.gov.tr)
+ - date_published: 2024-06-20T08:42:38+00:00
+ - tags: ['travel', 'turkey']
+
+ ## KVKK - Şikayet Modülü
+ - [https://sikayet.kvkk.gov.tr](https://sikayet.kvkk.gov.tr)
+ - date_published: 2024-10-19T17:18:56.135778+00:00
+
+ ## KİŞİSEL VERİLERİ KORUMA KURUMU | KVKK | Kişisel Verileri Koruma Kurumu Başkanlığı
+ - [https://www.kvkk.gov.tr](https://www.kvkk.gov.tr)
+ - date_published: 2024-06-17T16:08:35.957307+00:00
+
+ ## Millî Eğitim Bakanlığı - e-Denklik
+ - [https://edenklik.meb.gov.tr](https://edenklik.meb.gov.tr)
+ - date_published: 2024-10-19T17:11:04.245537+00:00
+
+ ## T.C. Millî Eğitim Bakanlığı
+ - [https://www.meb.gov.tr](https://www.meb.gov.tr)
+ - date_published: 2024-10-19T12:45:19.724420+00:00
+
+ ## MEB Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü
+ - [http://yyegm.meb.gov.tr](http://yyegm.meb.gov.tr)
+ - date_published: 2024-10-19T14:14:58.202215+00:00
+
+ ## Mevzuat Bilgi Sistemi
+ - [https://www.mevzuat.gov.tr](https://www.mevzuat.gov.tr)
+ - date_published: 2024-05-02T10:25:53.224305+00:00
+
+ ## Meteoroloji Genel Müdürlüğü - Deprem Bölgesi Tahmini
+ - [https://afet.mgm.gov.tr](https://afet.mgm.gov.tr)
+ - date_published: 2023-03-16T06:15:01+00:00
+
+ ## Hezarfen
+ - [https://hezarfen.mgm.gov.tr](https://hezarfen.mgm.gov.tr)
+ - date_published: 2024-08-07T22:46:04.390570+00:00
+
+ ## INFORMAL CONFERENCE OF SOUTH-EAST EUROPEAN
+NMHSs DIRECTORS
+ - [http://iceed.mgm.gov.tr](http://iceed.mgm.gov.tr)
+ - date_published: 2024-08-07T22:45:47.057288+00:00
+
+ ## İslam Ülkeleri Meteoroloji Servisleri
+ - [http://ic.mgm.gov.tr](http://ic.mgm.gov.tr)
+ - date_published: 2024-08-07T22:47:47.901145+00:00
+
+ ## Meteoroloji Genel Müdürlüğü
+ - [https://mevbis.mgm.gov.tr](https://mevbis.mgm.gov.tr)
+ - date_published: 2022-05-12T06:17:44+00:00
+
+ ## Meteoroloji Genel Müdürlüğü
+ - [https://mgm.gov.tr](https://mgm.gov.tr)
+ - date_published: 2024-04-28T02:22:41.637724+00:00
+
+ ## Piri Reis Denizcilik Sayfaları - 3 Günlük Tahmin
+ - [https://pirireis.mgm.gov.tr](https://pirireis.mgm.gov.tr)
+ - date_published: 2024-08-07T22:46:07.389801+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://posta.mgm.gov.tr](https://posta.mgm.gov.tr)
+ - date_published: 2024-08-07T22:46:05.636813+00:00
+
+ ## Meteorolojinin Sesi Radyosu
+ - [http://radyo.mgm.gov.tr](http://radyo.mgm.gov.tr)
+ - date_published: 2024-08-07T22:45:59.753023+00:00
+
+ ## Tarımsal Hava Tahmini
+ - [https://tarim.mgm.gov.tr](https://tarim.mgm.gov.tr)
+ - date_published: 2024-08-07T12:54:13+00:00
+
+ ## UZALMET 2023
+ - [https://uzalmet.mgm.gov.tr](https://uzalmet.mgm.gov.tr)
+ - date_published: 2023-12-05T07:34:49+00:00
+
+ ## SDS West Asia
+ - [https://wdcc.mgm.gov.tr](https://wdcc.mgm.gov.tr)
+ - date_published: 2024-08-07T22:46:10.264887+00:00
+
+ ## Eastern Mediterranean Climate Center - EMCC
+ - [http://www.emcc.mgm.gov.tr](http://www.emcc.mgm.gov.tr)
+ - date_published: 2024-08-07T22:46:08.796333+00:00
+
+ ## Milli Kütüphane | National Library of Turkey
+ - [http://www.millikutuphane.gov.tr](http://www.millikutuphane.gov.tr)
+ - date_published: 2024-06-17T15:57:42.301680+00:00
+
+ ## MAKİNE ve KİMYA ENDÜSTRİSİ A.Ş
+ - [https://www.mke.gov.tr](https://www.mke.gov.tr)
+ - date_published: 2024-09-19T19:58:32.910069+00:00
+
+ ## Anasayfa | Milli Kütüphane
+ - [https://dijital-kutuphane.mkutup.gov.tr](https://dijital-kutuphane.mkutup.gov.tr)
+ - date_published: 2024-06-17T15:57:44.167976+00:00
+
+ ## Kaşif || Milli Kütüphane Otomasyonu Okuyucu Tarama Modülü- National Library of Turkey
+ - [https://kasif.mkutup.gov.tr](https://kasif.mkutup.gov.tr)
+ - date_published: 2024-06-17T15:57:25.585805+00:00
+
+ ## Konuşan Kitaplik | Milli Kütüphane | Sesli Kitaplar
+ - [https://konusankitaplik.mkutup.gov.tr](https://konusankitaplik.mkutup.gov.tr)
+ - date_published: 2024-06-17T15:57:45.690321+00:00
+
+ ## Login - Taş Plaklar
+ - [https://tasplaklar.mkutup.gov.tr](https://tasplaklar.mkutup.gov.tr)
+ - date_published: 2024-06-17T15:57:31.793879+00:00
+
+ ## Bulletin of the Mineral Research and Exploration
+ - [http://dergi.mta.gov.tr](http://dergi.mta.gov.tr)
+ - date_published: 2024-10-30T20:33:31.505911+00:00
+
+ ## Müze Kart resmi sayfası
+ - [https://muze.gov.tr](https://muze.gov.tr)
+ - date_published: 2024-10-19T12:48:20.115758+00:00
+
+ ## ÖSYM Görevli İşlemleri Sistemi - Sisteme Giriş
+ - [https://gis.osym.gov.tr](https://gis.osym.gov.tr)
+ - date_published: 2024-10-19T17:18:40.120004+00:00
+
+ ## Uluslararası Ölçme, Seçme ve Yerleştirme Sempozyumu
+ - [https://symp2024.osym.gov.tr](https://symp2024.osym.gov.tr)
+ - date_published: 2024-10-19T14:39:13.937236+00:00
+
+ ## T.C. Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı
+ - [https://www.osym.gov.tr](https://www.osym.gov.tr)
+ - date_published: 2024-06-17T16:08:17.862271+00:00
+
+ ## Anasayfa | Rami Kütüphanesi
+ - [https://ramikutuphanesi.gov.tr](https://ramikutuphanesi.gov.tr)
+ - date_published: 2024-06-17T15:57:33.821500+00:00
+
+ ## T.C. Resmî Gazete
+ - [http://www.resmigazete.gov.tr](http://www.resmigazete.gov.tr)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## T.C. Sağlık Bakanlığı
+ - [https://lutfikirdareah.saglik.gov.tr](https://lutfikirdareah.saglik.gov.tr)
+ - date_published: 2024-06-28T12:07:09.992632+00:00
+
+ ## T.C. Sağlık Bakanlığı
+ - [https://sakaryaeah.saglik.gov.tr](https://sakaryaeah.saglik.gov.tr)
+ - date_published: 2024-10-19T14:49:16.017815+00:00
+
+ ## T.C. Sakarya Valiliği
+ - [http://www.sakarya.gov.tr](http://www.sakarya.gov.tr)
+ - date_published: 2024-10-19T14:50:15.279200+00:00
+
+ ## T.C. Sanayi ve Teknoloji Bakanlığı
+ - [http://sanayi.gov.tr](http://sanayi.gov.tr)
+ - date_published: 2024-10-19T16:27:43.892581+00:00
+
+ ## T.C. İçişleri Bakanlığı Sahil Güvenlik Komutanlığı
+ - [https://www.sg.gov.tr](https://www.sg.gov.tr)
+ - date_published: 2024-09-19T19:52:19+00:00
+
+ ## Ana Sayfa
+ - [https://sifiratik.gov.tr](https://sifiratik.gov.tr)
+ - date_published: 2024-10-19T12:30:33.861514+00:00
+
+ ## T.C. Sivas Valiliği
+ - [http://www.sivas.gov.tr](http://www.sivas.gov.tr)
+ - date_published: 2024-10-19T17:14:02.606592+00:00
+
+ ## Spor Toto Teşkilat Başkanlığı
+ - [http://sportoto.gov.tr](http://sportoto.gov.tr)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## Savunma Sanayii Baskanligi.
+ - [https://www.ssb.gov.tr](https://www.ssb.gov.tr)
+ - date_published: 2024-09-19T19:53:18+00:00
+
+ ## Study in Türkiye
+ - [https://studyinturkey.gov.tr](https://studyinturkey.gov.tr)
+ - date_published: 2024-05-02T10:25:20.250143+00:00
+
+ ## Study in Türkiye
+ - [https://www.studyinturkiye.gov.tr](https://www.studyinturkiye.gov.tr)
+ - date_published: 2024-06-17T15:10:38.519268+00:00
+
+ ## Türkiye Adalet Akademisi | TAA - taa.gov.tr
+ - [https://www.taa.gov.tr](https://www.taa.gov.tr)
+ - date_published: 2024-10-19T14:58:03.866202+00:00
+
+ ## T.C.CUMHURBAŞKANLIĞI : Anasayfa
+ - [https://www.tccb.gov.tr](https://www.tccb.gov.tr)
+ - date_published: 2024-06-17T14:59:59.149278+00:00
+
+ ## T.C. Ticaret Bakanlığı
+ - [https://ticaret.gov.tr](https://ticaret.gov.tr)
+ - date_published: 2024-12-13T13:23:34.217735+00:00
+
+ ## Tarım ve Kırsal Kalkınmayı Destekleme Kurumu | TKDK
+ - [https://www.tkdk.gov.tr](https://www.tkdk.gov.tr)
+ - date_published: 2024-10-19T17:12:15.948717+00:00
+
+ ## Ulusal Toplu Katalog - Tarama
+ - [https://www.toplukatalog.gov.tr](https://www.toplukatalog.gov.tr)
+ - date_published: 2024-05-02T10:28:48.267143+00:00
+
+ ## TRDizin – TRDizin
+ - [https://app.trdizin.gov.tr](https://app.trdizin.gov.tr)
+ - date_published: 2024-06-17T15:56:57.238633+00:00
+
+ ## TRDizin – TRDizin
+ - [https://trdizin.gov.tr](https://trdizin.gov.tr)
+ - date_published: 2024-06-17T15:27:34.245115+00:00
+
+ ## Ana Sayfa - Türk Ulusal Bilim e-Altyapısı
+ - [https://portal.truba.gov.tr](https://portal.truba.gov.tr)
+ - date_published: 2024-06-17T15:56:54.225424+00:00
+
+ ## Türkiye Uzay Ajansı
+ - [https://tua.gov.tr](https://tua.gov.tr)
+ - date_published: 2024-10-19T17:12:01.129514+00:00
+
+ ## Türkiye Bilimler Akademisi
+ - [https://tuba.gov.tr](https://tuba.gov.tr)
+ - date_published: 2024-10-19T14:38:23.664052+00:00
+
+ ## ARBİS - Araştırmacı Bilgi Sistemi
+ - [https://arbis.tubitak.gov.tr](https://arbis.tubitak.gov.tr)
+ - date_published: 2024-05-02T10:25:39.528705+00:00
+
+ ## Kamu SM - Kamu Sertifikasyon Merkezi - Elektronik Sertifika Hizmet Sağlayıcısı ve E-imza Uygulamaları
+ - [https://kamusm.bilgem.tubitak.gov.tr](https://kamusm.bilgem.tubitak.gov.tr)
+ - date_published: 2024-09-12T13:54:31.694675+00:00
+
+ ## | TÜBİMER
+ - [https://tubimer.tubitak.gov.tr](https://tubimer.tubitak.gov.tr)
+ - date_published: 2024-06-17T15:27:24.219075+00:00
+
+ ## TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu
+ - [https://tubitak.gov.tr](https://tubitak.gov.tr)
+ - date_published: 2024-07-08T16:08:44+00:00
+
+ ## ULUSAL AKADEMİK AĞ ve BİLGİ MERKEZİ
+ - [https://ulakbim.tubitak.gov.tr](https://ulakbim.tubitak.gov.tr)
+ - date_published: 2024-06-17T15:57:15.300855+00:00
+
+ ## e-Devlet Kapısı
+ - [https://giris.turkiye.gov.tr](https://giris.turkiye.gov.tr)
+ - date_published: 2024-06-17T03:48:46.370717+00:00
+
+ ## e-Devlet Kapısı Devletin Kısayolu | www.türkiye.gov.tr
+ - [https://turkiye.gov.tr](https://turkiye.gov.tr)
+ - date_published: 2024-08-07T22:46:12.172442+00:00
+
+ ## Türkiye Bursları
+ - [https://turkiyeburslari.gov.tr](https://turkiyeburslari.gov.tr)
+ - date_published: 2024-06-17T15:10:26.418720+00:00
+
+ ## TÜRKPATENT
+ - [https://www.turkpatent.gov.tr](https://www.turkpatent.gov.tr)
+ - date_published: 2024-10-19T14:37:41.769936+00:00
+
+ ## Savunma ve Havacılık Sanayi İhracatçıları Birliği
+ - [https://www.turksavunmasanayi.gov.tr](https://www.turksavunmasanayi.gov.tr)
+ - date_published: 2024-09-19T19:58:36.965994+00:00
+
+ ## Eurodesk
+ - [http://eurodesk.ua.gov.tr](http://eurodesk.ua.gov.tr)
+ - date_published: 2024-09-15T20:56:03.127016+00:00
+
+ ## TURNAPortal
+ - [https://turnaportal.ua.gov.tr](https://turnaportal.ua.gov.tr)
+ - date_published: 2024-06-13T13:52:09+00:00
+
+ ## Ulusal Ajans
+ - [https://ua.gov.tr](https://ua.gov.tr)
+ - date_published: 2024-06-17T15:02:03.211379+00:00
+
+ ## ÜAK
+            
+            
+            Ana Sayfa
+ - [http://www.uak.gov.tr](http://www.uak.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Ana sayfa | TÜBİTAK-ULAKBİM Açık Ders Platformu
+ - [https://acikders.ulakbim.gov.tr](https://acikders.ulakbim.gov.tr)
+ - date_published: 2024-10-19T16:29:54.155145+00:00
+
+ ## Açık Veri Açık Bilim – Açık Veri Açık Bilim
+ - [https://acikveri.ulakbim.gov.tr](https://acikveri.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:56:52.433924+00:00
+
+ ## Aperta - Türkiye Açık Arşivi
+ - [https://aperta.ulakbim.gov.tr](https://aperta.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:57:16.744639+00:00
+
+ ## Harman Türkiye Akademik Arşivi
+ - [https://arsiv.ulakbim.gov.tr](https://arsiv.ulakbim.gov.tr)
+ - date_published: 2024-06-04T07:04:55+00:00
+
+ ## Cahit Arf Bilgi Merkezi
+ - [https://cabim.ulakbim.gov.tr](https://cabim.ulakbim.gov.tr)
+ - date_published: 2024-05-02T10:28:35.258103+00:00
+
+ ## TÜBİTAK ULAKBİM Etkinlikleri · Ulakbim Etkinlikler Sayfası (Indico)
+ - [https://etkinlik.ulakbim.gov.tr](https://etkinlik.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:57:18.548849+00:00
+
+ ## Harman Türkiye Akademik Arşivi
+ - [https://harman.ulakbim.gov.tr](https://harman.ulakbim.gov.tr)
+ - date_published: 2024-06-04T07:04:55+00:00
+
+ ## Üniversite Veri Portalı
+ - [https://veri.ulakbim.gov.tr](https://veri.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:57:12.574671+00:00
+
+ ## ULUSAL AKADEMİK AĞ ve BİLGİ MERKEZİ
+ - [https://www.ulakbim.gov.tr](https://www.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:57:00.982884+00:00
+
+ ## Yargıtay Başkanlığı
+ - [http://www.yargitay.gov.tr](http://www.yargitay.gov.tr)
+ - date_published: 2024-10-19T14:58:57.112012+00:00
+
+ ## www.yatirimadestek.gov.tr | Devlet Destekleri ve Teşvikler
+ - [https://www.yatirimadestek.gov.tr](https://www.yatirimadestek.gov.tr)
+ - date_published: 2024-10-19T17:12:05.954518+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://acikerisim.yok.gov.tr](https://acikerisim.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:42.194624+00:00
+
+ ## YÜKSEKÖĞRETİM KURULU
+ - [https://akademik.yok.gov.tr](https://akademik.yok.gov.tr)
+ - date_published: 2024-05-02T10:26:50.302804+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://basin.yok.gov.tr](https://basin.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:30.727790+00:00
+
+ ## YÖK
+            
+            
+            AnaSayfa
+ - [https://burs.yok.gov.tr](https://burs.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://covid19.yok.gov.tr](https://covid19.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://denetleme.yok.gov.tr](https://denetleme.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:33.387809+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [http://denklik.yok.gov.tr](http://denklik.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:36.702038+00:00
+
+ ## YÖK
+            
+            
+            Engelli Öğrenci Komisyonu
+ - [https://engelsiz.yok.gov.tr](https://engelsiz.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:38.251467+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://farabi.yok.gov.tr](https://farabi.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:35.321329+00:00
+
+ ## Yükseköğretim Bilgi Yönetim Sistemi
+ - [https://istatistik.yok.gov.tr](https://istatistik.yok.gov.tr)
+ - date_published: 2024-06-17T15:27:25.004889+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://kadincalismalari.yok.gov.tr](https://kadincalismalari.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://mevlana.yok.gov.tr](https://mevlana.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:40.663301+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://odul.yok.gov.tr](https://odul.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK Okul Tanima Sistemi
+ - [https://okultanima.yok.gov.tr](https://okultanima.yok.gov.tr)
+ - date_published: 2024-06-17T15:10:42.985089+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://oyp.yok.gov.tr](https://oyp.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Ulusal Tez Merkezi | Anasayfa
+ - [https://tez.yok.gov.tr](https://tez.yok.gov.tr)
+ - date_published: 2024-05-02T10:25:55.267456+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://uluslararasi.yok.gov.tr](https://uluslararasi.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://vcforum.yok.gov.tr](https://vcforum.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:44.348192+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [http://www.yok.gov.tr](http://www.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Yükseköğretim Program Atlası
+ - [https://yokatlas.yok.gov.tr](https://yokatlas.yok.gov.tr)
+ - date_published: 2024-06-17T15:10:40.080702+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://yok.gov.tr](https://yok.gov.tr)
+ - date_published: 2024-10-19T12:51:22.813798+00:00
+
+ ## Yükseköğretim Bilgi Sistemi
+ - [https://yoksis.yok.gov.tr](https://yoksis.yok.gov.tr)
+ - date_published: 2024-05-02T10:25:40.424402+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://yuzikibinbursu.yok.gov.tr](https://yuzikibinbursu.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:31.903337+00:00
+
+ ## Yükseköğretim Kalite Kurulu - AKSİS
+ - [https://akreditasyon.yokak.gov.tr](https://akreditasyon.yokak.gov.tr)
+ - date_published: 2024-10-19T12:52:22.292989+00:00
+
+ ## Yükseköğretim Kalite Kurulu, Yüksek Öğretim Kalite Kurulu Web Sitesi, Higher Education Quality Council Web Site, Higher Education Quality Council of Turkey
+ - [https://yokak.gov.tr](https://yokak.gov.tr)
+ - date_published: 2024-06-17T15:10:50.544291+00:00
+
+ ## BEŞERÎ VE SOSYAL KALKINMA ARAŞTIRMALARI DESTEK PROGRAMI (BESKAP)
+ - [https://beskap.ytb.gov.tr](https://beskap.ytb.gov.tr)
+ - date_published: 2024-10-19T14:39:10.175604+00:00
+
+ ## Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
+ - [https://dkp.ytb.gov.tr](https://dkp.ytb.gov.tr)
+ - date_published: 2024-10-19T12:51:34.330616+00:00
+
+ ## Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
+ - [https://ytb.gov.tr](https://ytb.gov.tr)
+ - date_published: 2024-10-19T12:51:33.012081+00:00
+
+ ## www.make-it-in-germany.com/tr
+ - [https://www.make-it-in-germany.info.tr](https://www.make-it-in-germany.info.tr)
+ - date_published: 2024-07-13T17:32:28.641639+00:00
+
+ ## Open Information Technologies
+ - [https://open.info.tr](https://open.info.tr)
+ - date_published: 2024-04-25T09:03:53+00:00
+
+ ## Saat Kaç? - SaatKac.info.tr
+ - [https://saatkac.info.tr](https://saatkac.info.tr)
+ - date_published: 2024-05-06T15:13:40.882036+00:00
+
+ ## T.C. MİLLÎ EĞİTİM BAKANLIĞI KONYA / SELÇUKLU / Adil Karaağaç Mesleki ve Teknik Anadolu Lisesi
+ - [https://akatl.meb.k12.tr](https://akatl.meb.k12.tr)
+ - date_published: 2024-07-02T19:30:49.465501+00:00
+
+ ## Barkod's Basement
+ - [https://b4rkod.net.tr](https://b4rkod.net.tr)
+ - date_published: 2024-05-06T15:10:40.776166+00:00
+
+ ## Git repository browser
+ - [https://git.b4rkod.net.tr](https://git.b4rkod.net.tr)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Ana Sayfa - TRT Kariyer
+ - [https://kariyer.trt.net.tr](https://kariyer.trt.net.tr)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## TRT Kanalları ve Programları
+ - [https://www.trt.net.tr](https://www.trt.net.tr)
+ - date_published: 2024-12-12T12:34:49.657271+00:00
+
+ ## Adana Sanayi Odası
+ - [http://www.adaso.org.tr](http://www.adaso.org.tr)
+ - date_published: 2024-09-19T19:52:18.270182+00:00
+
+ ## AdımODTÜ
+ - [https://adimodtu.org.tr](https://adimodtu.org.tr)
+ - date_published: 2024-06-17T15:36:49.392829+00:00
+
+ ## Sivil Toplum Kuruluşu | AFCEA Türkiye
+ - [http://www.afcea.org.tr](http://www.afcea.org.tr)
+ - date_published: 2024-12-13T13:06:58.864578+00:00
+
+ ## AKUT Arama Kurtarma Derneği
+ - [https://www.akut.org.tr](https://www.akut.org.tr)
+ - date_published: 2024-09-09T23:12:18.561079+00:00
+
+ ## IIS 10.0 Detailed Error - 403.0 - ModSecurity Action
+ - [https://ankos.org.tr](https://ankos.org.tr)
+ - date_published: 2024-06-17T15:00:31.762450+00:00
+
+ ## ANKOS Üye Portalı – ELEKTRONİK BİLGİYE EKONOMİK ERİŞİM YOLU
+ - [http://uye.ankos.org.tr](http://uye.ankos.org.tr)
+ - date_published: 2024-10-19T12:10:30.139064+00:00
+
+ ## ASİL Derneği | Asil Yardımlaşma Derneği
+ - [https://asildernegi.org.tr](https://asildernegi.org.tr)
+ - date_published: 2024-07-09T11:38:15.493056+00:00
+
+ ## Ankara Sanayi Odası
+ - [https://www.aso.org.tr](https://www.aso.org.tr)
+ - date_published: 2024-09-19T19:58:44.278262+00:00
+
+ ## ANADOLU ÜNİVERSİTELER BİRLİĞİ - Anasayfa
+ - [https://aub.org.tr](https://aub.org.tr)
+ - date_published: 2024-06-17T16:05:30.186225+00:00
+
+ ## BEBKA
+ - [https://bebka.org.tr](https://bebka.org.tr)
+ - date_published: 2024-10-19T12:28:35.915161+00:00
+
+ ## Creative Commons Türkiye
+ - [http://creativecommons.org.tr](http://creativecommons.org.tr)
+ - date_published: 2024-07-08T20:19:30.269199+00:00
+
+ ## Çocuk Sağlığı ve Hastalıkları Dergisi
+ - [https://www.cshd.org.tr](https://www.cshd.org.tr)
+ - date_published: 1999-01-01T00:00:00+00:00
 
  ## Home
- - [https://www.bodleian.ox.ac.uk](https://www.bodleian.ox.ac.uk)
- - date_published: 2024-05-02T10:57:26.247465+00:00
+ - [https://dergipark.org.tr](https://dergipark.org.tr)
+ - date_published: 2024-06-17T15:27:36.933827+00:00
 
- ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
- - [http://www.bodley.ox.ac.uk](http://www.bodley.ox.ac.uk)
- - date_published: 2023-04-28T16:52:29+00:00
+ ## Endüstri Gazetecileri Derneği | Gazeteciliğin yeni ve üreten alanı “endüstri gazeteciliği”, endüstriyi şimdi daha iyi anlıyor ve anlatıyoruz.
+ - [http://www.endustrigazetecileridernegi.org.tr](http://www.endustrigazetecileridernegi.org.tr)
+ - date_published: 2024-09-19T19:54:18.499960+00:00
 
- ## Home
- - [https://www.botanic-garden.ox.ac.uk](https://www.botanic-garden.ox.ac.uk)
- - date_published: 2024-05-02T11:06:50.980481+00:00
+ ## Erişim Sağlayıcıları Birliği | ESB
+ - [https://www.esb.org.tr](https://www.esb.org.tr)
+ - date_published: 2024-10-19T12:09:33.955166+00:00
 
- ## Fundraising at the University of Oxford
- - [https://www.campaign.ox.ac.uk](https://www.campaign.ox.ac.uk)
- - date_published: 2024-05-02T11:05:59.894757+00:00
+ ## ESKİŞEHİR SANAYİ ODASI Eskişehir Sanayi Odası - ESO
+ - [https://www.eso.org.tr](https://www.eso.org.tr)
+ - date_published: 2024-09-19T19:57:05.286522+00:00
 
- ## Homepage | campion-hall
- - [https://www.campion.ox.ac.uk](https://www.campion.ox.ac.uk)
- - date_published: 2024-05-02T11:05:41.214134+00:00
+ ## FEDEK
+ - [http://fedek.org.tr](http://fedek.org.tr)
+ - date_published: 2024-10-18T22:11:11.736588+00:00
 
- ## Home
- - [https://www.careers.ox.ac.uk](https://www.careers.ox.ac.uk)
- - date_published: 2024-07-05T12:22:40+00:00
+ ## GNOME Türkiye
+ - [https://gnome.org.tr](https://gnome.org.tr)
+ - date_published: 2024-03-23T00:00:00+00:00
 
- ## Home | Corpus Christi College Oxford
- - [https://www.ccc.ox.ac.uk](https://www.ccc.ox.ac.uk)
- - date_published: 2024-04-30T00:00:00+00:00
+ ## Güvenli Çocuk
+ - [http://www.guvenlicocuk.org.tr](http://www.guvenlicocuk.org.tr)
+ - date_published: 2024-10-19T17:24:26.365033+00:00
 
- ## Home
- - [https://www.ccsp.ox.ac.uk](https://www.ccsp.ox.ac.uk)
- - date_published: 2024-06-13T19:34:32+00:00
+ ## Güvenli Net
+ - [https://www.guvenlinet.org.tr](https://www.guvenlinet.org.tr)
+ - date_published: 2023-03-14T10:13:48+00:00
 
- ## The Changing Character of War Centre
- - [http://www.ccw.ox.ac.uk](http://www.ccw.ox.ac.uk)
- - date_published: 2024-06-17T18:33:24.306455+00:00
+ ## Ankara Uzay ve Havacılık İhtisas Organize Sanayi Bölgesi
+ - [https://www.hab.org.tr](https://www.hab.org.tr)
+ - date_published: 2024-09-19T19:55:09.208921+00:00
 
- ## Home — Centre for Evidence-Based Medicine (CEBM), University of Oxford
- - [https://www.cebm.ox.ac.uk](https://www.cebm.ox.ac.uk)
- - date_published: 2023-10-25T22:49:23.492759+00:00
+ ## HEPDAK | Anasayfa
+ - [https://www.hepdak.org.tr](https://www.hepdak.org.tr)
+ - date_published: 2024-10-19T14:35:48.478109+00:00
 
- ## Home page - Centre for the Study of the Bible
- - [https://www.centreforbible.oriel.ox.ac.uk](https://www.centreforbible.oriel.ox.ac.uk)
- - date_published: 2024-06-17T18:31:57.675428+00:00
+ ## İstanbul Araştırmaları Enstitüsü
+ - [https://www.iae.org.tr](https://www.iae.org.tr)
+ - date_published: 2024-10-27T23:46:58.720761+00:00
 
- ## Homepage | Christ Church, University of Oxford
- - [https://www.chch.ox.ac.uk](https://www.chch.ox.ac.uk)
- - date_published: 2024-05-02T11:05:13.885692+00:00
+ ## İTO | Anasayfa
+ - [https://ito.org.tr](https://ito.org.tr)
+ - date_published: 2024-12-25T23:15:04.246208+00:00
 
- ## Home
- - [https://www.chem.ox.ac.uk](https://www.chem.ox.ac.uk)
- - date_published: 2024-05-02T11:05:54.679574+00:00
-
- ## Home
- - [https://www.chinacentre.ox.ac.uk](https://www.chinacentre.ox.ac.uk)
- - date_published: 2024-06-17T18:37:05+00:00
-
- ## Home
- - [https://www.classics.ox.ac.uk](https://www.classics.ox.ac.uk)
- - date_published: 2024-05-02T10:59:22.422079+00:00
-
- ## Home
- - [http://www.club.ox.ac.uk](http://www.club.ox.ac.uk)
- - date_published: 2024-06-12T14:01:59+00:00
-
- ## Home
- - [https://www.communityhistory.ox.ac.uk](https://www.communityhistory.ox.ac.uk)
- - date_published: 2024-06-17T11:39:23+00:00
-
- ## Home | COMPAS
- - [http://www.compas.ox.ac.uk](http://www.compas.ox.ac.uk)
- - date_published: 2024-06-17T11:09:35.643228+00:00
-
- ## Welcome to the Conference of Colleges, in the University of Oxford
- - [https://www.confcoll.ox.ac.uk](https://www.confcoll.ox.ac.uk)
- - date_published: 2024-02-22T15:02:49+00:00
-
- ## Home
- - [http://www.csad.ox.ac.uk](http://www.csad.ox.ac.uk)
- - date_published: 2024-06-24T00:02:08+00:00
-
- ## Home
- - [https://www.csae.ox.ac.uk](https://www.csae.ox.ac.uk)
- - date_published: 2024-06-12T08:25:54+00:00
-
- ## Department of Computer Science, University of Oxford
- - [https://www.cs.ox.ac.uk](https://www.cs.ox.ac.uk)
- - date_published: 2023-10-25T11:20:51.683475+00:00
-
- ## Home
- - [https://www.cssc.ox.ac.uk](https://www.cssc.ox.ac.uk)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Homepage | Leverhulme Centre For Demographic Science, Oxford
- - [https://www.demography.ox.ac.uk](https://www.demography.ox.ac.uk)
- - date_published: 2024-09-16T06:37:31.119816+00:00
-
- ## Fundraising at the University of Oxford
- - [https://www.development.ox.ac.uk](https://www.development.ox.ac.uk)
- - date_published: 2024-06-17T18:21:30.614949+00:00
-
- ## Home — Department of Physiology, Anatomy and Genetics (DPAG)
- - [https://www.dpag.ox.ac.uk](https://www.dpag.ox.ac.uk)
- - date_published: 2023-10-31T19:57:19.175495+00:00
-
- ## Home
- - [https://www.dtc.ox.ac.uk](https://www.dtc.ox.ac.uk)
- - date_published: 2024-05-02T11:07:05.262563+00:00
-
- ## Diabetes Trials Unit : Home page
- - [http://www.dtu.ox.ac.uk](http://www.dtu.ox.ac.uk)
- - date_published: 2024-06-17T18:34:14.543284+00:00
-
- ## Department of Earth Sciences
- - [https://www.earth.ox.ac.uk](https://www.earth.ox.ac.uk)
- - date_published: 2024-05-02T11:06:08.794897+00:00
-
- ## Home | Environmental Change Institute
- - [https://www.eci.ox.ac.uk](https://www.eci.ox.ac.uk)
- - date_published: 2024-06-17T18:58:15.187262+00:00
+ ## Ana Sayfa - Kamu İç Denetçileri Derneği
+ - [http://www.kidder.org.tr](http://www.kidder.org.tr)
+ - date_published: 2024-10-19T14:49:37.371746+00:00
 

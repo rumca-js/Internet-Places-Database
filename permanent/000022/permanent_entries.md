@@ -1,3 +1,395 @@
+ ## Building3D
+ - [https://building3d.ucalgary.ca](https://building3d.ucalgary.ca)
+ - date_published: 2023-05-30T00:00:00+00:00
+
+ ## UCalgary Catalog
+ - [https://calendar.ucalgary.ca](https://calendar.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:11.084098+00:00
+
+ ## University of Calgary Careers
+ - [https://careers.ucalgary.ca](https://careers.ucalgary.ca)
+ - date_published: 2024-04-30T05:25:44.543015+00:00
+
+ ## Home
+ - [https://charbonneau.ucalgary.ca](https://charbonneau.ucalgary.ca)
+ - date_published: 2024-07-21T02:46:36+00:00
+
+ ## University of Calgary Continuing Education
+ - [https://conted.ucalgary.ca](https://conted.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:07.255775+00:00
+
+ ## Clinical Research Unit
+ - [http://cru.ucalgary.ca](http://cru.ucalgary.ca)
+ - date_published: 2024-07-21T08:41:31.746529+00:00
+
+ ## PeopleSoft Single Signon
+ - [https://csprd.my.ucalgary.ca](https://csprd.my.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:18.567297+00:00
+
+ ## PeopleSoft Single Signon
+ - [https://csprd.ucalgary.ca](https://csprd.ucalgary.ca)
+ - date_published: 2024-07-06T02:31:21+00:00
+
+ ## Home | Cumming School of Medicine
+ - [https://cumming.ucalgary.ca](https://cumming.ucalgary.ca)
+ - date_published: 2024-04-30T05:25:33.062370+00:00
+
+ ## Central Authentication Service
+ - [https://d2l.ucalgary.ca](https://d2l.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:17.683243+00:00
+
+ ## Digital Collections
+ - [https://digitalcollections.ucalgary.ca](https://digitalcollections.ucalgary.ca)
+ - date_published: 2024-07-21T08:53:08.220111+00:00
+
+ ## BBIS Home Page - University of Calgary
+ - [https://engage.ucalgary.ca](https://engage.ucalgary.ca)
+ - date_published: 2024-07-21T08:50:59.184531+00:00
+
+ ## University of Calgary
+ - [https://events.ucalgary.ca](https://events.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:13.302387+00:00
+
+ ## Home
+ - [https://fsw.ucalgary.ca](https://fsw.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:30.903489+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://go.ucalgary.ca](https://go.ucalgary.ca)
+ - date_published: 2024-08-10T22:44:50.789341+00:00
+
+ ## Home
+ - [https://grad.ucalgary.ca](https://grad.ucalgary.ca)
+ - date_published: 2024-04-30T05:18:59.766574+00:00
+
+ ## Welcome to the Graduate Students’ Association of the University of Calgary!
+ - [https://gsa.ucalgary.ca](https://gsa.ucalgary.ca)
+ - date_published: 2016-05-28T03:15:57+00:00
+
+ ## Haskayne School of Business
+ - [https://haskayne.ucalgary.ca](https://haskayne.ucalgary.ca)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Home | HOTCHKISS BRAIN INSTITUTE
+ - [https://hbi.ucalgary.ca](https://hbi.ucalgary.ca)
+ - date_published: 2024-07-21T06:16:15+00:00
+
+ ## Home
+ - [http://iqst.ucalgary.ca](http://iqst.ucalgary.ca)
+ - date_published: 2024-07-20T16:50:32+00:00
+
+ ## Home
+ - [http://ispia.ucalgary.ca](http://ispia.ucalgary.ca)
+ - date_published: 2024-07-19T08:26:08+00:00
+
+ ## Registration :: IT Account Registration
+ - [https://itregport.ucalgary.ca](https://itregport.ucalgary.ca)
+ - date_published: 2024-07-21T08:57:20.360044+00:00
+
+ ## Home
+ - [https://it.ucalgary.ca](https://it.ucalgary.ca)
+ - date_published: 2024-07-19T12:54:25+00:00
+
+ ## Home
+ - [https://law.ucalgary.ca](https://law.ucalgary.ca)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## PeopleSoft Single Signon
+ - [https://learning.my.ucalgary.ca](https://learning.my.ucalgary.ca)
+ - date_published: 2024-07-08T21:46:13+00:00
+
+ ## Home | LIBIN CARDIOVASCULAR INSTITUTE
+ - [https://libin.ucalgary.ca](https://libin.ucalgary.ca)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## University of Calgary Libraries & Cultural Resources | University of Calgary Library
+ - [https://library.ucalgary.ca](https://library.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:29.671581+00:00
+
+ ## Top Degree Programs and Research in Canada
+ - [https://live-homepage.ucalgary.ca](https://live-homepage.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:13.022969+00:00
+
+ ## Home
+ - [https://live-qatar.ucalgary.ca](https://live-qatar.ucalgary.ca)
+ - date_published: 2024-07-21T08:49:28+00:00
+
+ ## Welcome to SAPL
+ - [https://live-sapl.ucalgary.ca](https://live-sapl.ucalgary.ca)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home
+ - [https://live-socialwork.ucalgary.ca](https://live-socialwork.ucalgary.ca)
+ - date_published: 2024-07-21T08:42:19+00:00
+
+ ## Home
+ - [https://live-spp.ucalgary.ca](https://live-spp.ucalgary.ca)
+ - date_published: 2024-07-19T17:30:01+00:00
+
+ ## Top Degree Programs and Research in Canada
+ - [https://live-ucalgary.ucalgary.ca](https://live-ucalgary.ucalgary.ca)
+ - date_published: 2024-07-21T05:39:39+00:00
+
+ ## Home
+ - [https://live-vet.ucalgary.ca](https://live-vet.ucalgary.ca)
+ - date_published: 2024-07-21T08:36:50.749729+00:00
+
+ ## PeopleSoft Single Signon
+ - [https://login.my.ucalgary.ca](https://login.my.ucalgary.ca)
+ - date_published: 2021-05-25T15:05:13+00:00
+
+ ## Homepage | MCCAIG INSTITUTE FOR BONE AND JOINT HEALTH
+ - [https://mccaig.ucalgary.ca](https://mccaig.ucalgary.ca)
+ - date_published: 2024-07-21T03:53:18+00:00
+
+ ## PeopleGrove
+ - [https://mentorlink.ucalgary.ca](https://mentorlink.ucalgary.ca)
+ - date_published: 2024-07-21T08:42:52+00:00
+
+ ## ARCHIBUS
+ - [https://myfacilities.ucalgary.ca](https://myfacilities.ucalgary.ca)
+ - date_published: 2020-04-17T17:43:44+00:00
+
+ ## PeopleSoft Single Signon
+ - [https://my.ucalgary.ca](https://my.ucalgary.ca)
+ - date_published: 2021-05-25T15:05:13+00:00
+
+ ## BBIS Home Page - University of Calgary
+ - [https://netcommunity.ucalgary.ca](https://netcommunity.ucalgary.ca)
+ - date_published: 2024-07-21T08:42:40.017477+00:00
+
+ ## News
+ - [https://news.ucalgary.ca](https://news.ucalgary.ca)
+ - date_published: 2024-07-19T16:19:11+00:00
+
+ ## Visit - Nickle Galleries
+ - [https://nickle.ucalgary.ca](https://nickle.ucalgary.ca)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home
+ - [https://nursing.ucalgary.ca](https://nursing.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:27.627298+00:00
+
+ ## Home
+ - [https://obrieniph.ucalgary.ca](https://obrieniph.ucalgary.ca)
+ - date_published: 2024-07-20T06:30:43+00:00
+
+ ## Sign in to your account
+ - [https://office365.ucalgary.ca](https://office365.ucalgary.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Welcome :: Password Management
+ - [https://password.ucalgary.ca](https://password.ucalgary.ca)
+ - date_published: 2024-07-21T08:57:24.196142+00:00
+
+ ## PeopleSoft Single Signon
+ - [https://portal.my.ucalgary.ca](https://portal.my.ucalgary.ca)
+ - date_published: 2021-05-25T15:05:13+00:00
+
+ ## Home - University of Calgary Press
+ - [https://press.ucalgary.ca](https://press.ucalgary.ca)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## PRISM :: Home
+ - [https://prism.ucalgary.ca](https://prism.ucalgary.ca)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## UCalgary Profiles
+ - [https://profiles.ucalgary.ca](https://profiles.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:15.196115+00:00
+
+ ## AINA Publications Server
+ - [https://pubs.aina.ucalgary.ca](https://pubs.aina.ucalgary.ca)
+ - date_published: 2023-10-17T19:17:49+00:00
+
+ ## Home | ALBERTA CHILDREN'S HOSPITAL RESEARCH INSTITUTE
+ - [http://research4kids.ucalgary.ca](http://research4kids.ucalgary.ca)
+ - date_published: 2024-07-19T14:52:26+00:00
+
+ ## Welcome to SAPL
+ - [https://sapl.ucalgary.ca](https://sapl.ucalgary.ca)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home
+ - [https://schulich.ucalgary.ca](https://schulich.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:08.849087+00:00
+
+ ## SCIENCE Home
+ - [https://science.ucalgary.ca](https://science.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:20.857774+00:00
+
+ ## Home - University of Calgary Bookstore
+ - [https://shop.ucalgary.ca](https://shop.ucalgary.ca)
+ - date_published: 2024-07-21T09:04:47.663303+00:00
+
+ ## Home
+ - [http://snyder.ucalgary.ca](http://snyder.ucalgary.ca)
+ - date_published: 2024-07-21T06:06:38+00:00
+
+ ## Home
+ - [https://socialwork.ucalgary.ca](https://socialwork.ucalgary.ca)
+ - date_published: 2024-07-21T08:09:15+00:00
+
+ ## Home
+ - [https://spp.ucalgary.ca](https://spp.ucalgary.ca)
+ - date_published: 2024-04-30T05:25:37.161520+00:00
+
+ ## Sign in to your account
+ - [https://survey.ucalgary.ca](https://survey.ucalgary.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Home
+ - [https://taylorinstitute.ucalgary.ca](https://taylorinstitute.ucalgary.ca)
+ - date_published: 2024-07-21T07:58:18+00:00
+
+ ## University of Calgary
+ - [https://ucalgary.ca](https://ucalgary.ca)
+ - date_published: 2023-10-25T12:08:42.919794+00:00
+ - tags: ['university']
+
+ ## Opportunities
+
+        
+            
+            
+
+            in the Faculty of Veterinary Medicine
+ - [https://vetmed.careers.ucalgary.ca](https://vetmed.careers.ucalgary.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Home
+ - [https://vet.ucalgary.ca](https://vet.ucalgary.ca)
+ - date_published: 2024-04-30T05:25:39.359449+00:00
+
+ ## Circuit Virtual Tours
+ - [https://virtualtour.grad.ucalgary.ca](https://virtualtour.grad.ucalgary.ca)
+ - date_published: 2024-08-09T20:35:06+00:00
+
+ ## Home
+ - [https://web.ucalgary.ca](https://web.ucalgary.ca)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Home
+ - [https://werklund.ucalgary.ca](https://werklund.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:24.145947+00:00
+
+ ## Libraries Booking System -
+        University of Calgary
+ - [https://workrooms.ucalgary.ca](https://workrooms.ucalgary.ca)
+ - date_published: 2024-07-21T08:53:00.541153+00:00
+
+ ## CPSC Home
+ - [http://www.cpsc.ucalgary.ca](http://www.cpsc.ucalgary.ca)
+ - date_published: 2024-08-11T17:57:02+00:00
+
+ ## Home - The Ukrainian Canadian Congress (UCC) official website
+ - [https://www.ucc.ca](https://www.ucc.ca)
+ - date_published: 2023-01-17T03:12:26+00:00
+
+ ## uDiscover Music | Canada Store
+ - [https://shop.udiscovermusic.ca](https://shop.udiscovermusic.ca)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## uDiscover Music: discover more about the world’s greatest music
+ - [https://udiscovermusic.ca](https://udiscovermusic.ca)
+ - date_published: 2024-05-06T21:11:24.115013+00:00
+
+ ## Welcome to the Urban Exploration Resource! - Urban Exploration Resource
+ - [https://uer.ca](https://uer.ca)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## UX Designer Corner
+ - [https://uglyduck.ca](https://uglyduck.ca)
+ - date_published: 2024-05-07T23:15:32.149187+00:00
+
+ ## Welcome to the University Health Network
+ - [https://www.uhn.ca](https://www.uhn.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## uhqs | photography by amanjeev
+ - [https://uhqs.ca](https://uhqs.ca)
+ - date_published: 2024-07-10T05:35:30.859640+00:00
+
+ ## University of King's College | Halifax, Nova Scotia
+ - [http://ukings.ca](http://ukings.ca)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## CERVIM
+ - [http://cervim.ulaval.ca](http://cervim.ulaval.ca)
+ - date_published: 2024-07-11T12:05:06.334445+00:00
+
+ ## MIVIM- Accueil
+ - [http://mivim.gel.ulaval.ca](http://mivim.gel.ulaval.ca)
+ - date_published: 2024-07-11T12:04:56.298303+00:00
+
+ ## Accueil
+ - [https://observatoire-ia.ulaval.ca](https://observatoire-ia.ulaval.ca)
+ - date_published: 2024-06-19T18:17:25+00:00
+
+ ## REPARTI
+ - [http://reparti.ulaval.ca](http://reparti.ulaval.ca)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## -| LVSN -Accueil |-
+ - [https://vision.gel.ulaval.ca](https://vision.gel.ulaval.ca)
+ - date_published: 2024-05-09T08:59:55.817645+00:00
+
+ ## Accueil
+ - [https://www4.fsa.ulaval.ca](https://www4.fsa.ulaval.ca)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Accueil | CSTIP | UL
+ - [https://www.cstip.ulaval.ca](https://www.cstip.ulaval.ca)
+ - date_published: 2024-10-24T16:18:51+00:00
+
+ ## Génie électrique et génie informatique
+ - [http://www.gel.ulaval.ca](http://www.gel.ulaval.ca)
+ - date_published: 2024-07-11T12:05:04.075442+00:00
+
+ ## Bienvenue à l'Université Laval | ULaval | Ville de Québec, Canada
+ - [http://www.ulaval.ca](http://www.ulaval.ca)
+ - date_published: 2024-07-08T14:35:17.716279+00:00
+
+ ## Department of Mathematics & Computer Science | University of Lethbridge
+ - [http://www.cs.uleth.ca](http://www.cs.uleth.ca)
+ - date_published: 2024-07-07T06:43:48+00:00
+
+ ## Nintendo (Ultra) 64
+ - [http://ultra64.ca](http://ultra64.ca)
+ - date_published: 2024-08-19T02:58:39.283195+00:00
+
+ ## University of Manitoba - Information Services and Technology - Personal Homepage Server
+ - [https://home.cc.umanitoba.ca](https://home.cc.umanitoba.ca)
+ - date_published: 2021-05-28T18:38:51+00:00
+
+ ## Welcome to MAIN: Your Source for Manitoba's Documentary Heritage! - MAIN – Manitoba Archival Information Network
+ - [https://main.lib.umanitoba.ca](https://main.lib.umanitoba.ca)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## UM Today | Your Source for University of Manitoba News
+ - [https://news.umanitoba.ca](https://news.umanitoba.ca)
+ - date_published: 2024-06-26T13:44:10.858215+00:00
+
+ ## University of Manitoba - Home
+ - [https://umanitoba.ca](https://umanitoba.ca)
+ - date_published: 2024-08-06T15:13:45+00:00
+
+ ## Home - Umoja Operation Compassion Society
+ - [https://umojaoperation.ca](https://umojaoperation.ca)
+ - date_published: 2024-02-08T16:43:37.261232+00:00
+
+ ## Index Page
+ - [https://academique-dmz.synchro.umontreal.ca](https://academique-dmz.synchro.umontreal.ca)
+ - date_published: 2024-04-20T12:25:22+00:00
+
+ ## Admission - Université de Montréal
+ - [https://admission.umontreal.ca](https://admission.umontreal.ca)
+ - date_published: 2024-06-15T02:50:10.798437+00:00
+
+ ## Soutien aux candidats - Université de Montréal
+ - [https://aide.umontreal.ca](https://aide.umontreal.ca)
+ - date_published: 2024-09-16T00:54:05.350649+00:00
+
  ## Gestion des affichages - Bibliothèques - Université de Montréal
  - [https://avis.bib.umontreal.ca](https://avis.bib.umontreal.ca)
  - date_published: 2024-08-11T03:23:49.805134+00:00
@@ -2289,6 +2681,14 @@
  - [https://wingfelder.ca](https://wingfelder.ca)
  - date_published: 2024-01-11T13:28:46.842673+00:00
 
+ ## City of Winnipeg
+ - [http://winnipeg.ca](http://winnipeg.ca)
+ - date_published: 2025-01-01T08:01:53+00:00
+
+ ## City of Winnipeg
+ - [http://www.winnipeg.ca](http://www.winnipeg.ca)
+ - date_published: 2025-01-01T08:01:53+00:00
+
  ## Winnipeg School Division
  - [https://www.winnipegsd.ca](https://www.winnipegsd.ca)
  - date_published: 2024-07-01T17:26:26.020205+00:00
@@ -2983,6 +3383,10 @@
  - [https://laws-lois.justice.gc.ca](https://laws-lois.justice.gc.ca)
  - date_published: 2023-04-12T12:42:30+00:00
 
+ ## Canada Energy Regulator Site | Site de Régie de l’énergie du Canada
+ - [https://www.neb-one.gc.ca](https://www.neb-one.gc.ca)
+ - date_published: 2025-01-01T17:09:51.012520+00:00
+
  ## Ressources du Portail linguistique du Canada – Langues – Identité canadienne et société – Culture, histoire et sport – Canada.ca
  - [https://www.noslangues-ourlanguages.gc.ca](https://www.noslangues-ourlanguages.gc.ca)
  - date_published: 2024-07-08T00:00:00+00:00
@@ -3415,6 +3819,10 @@
  - [https://soquij.qc.ca](https://soquij.qc.ca)
  - date_published: 2024-04-30T05:33:12.499235+00:00
 
+ ## Home - Health Quality Council
+ - [http://www.hqc.sk.ca](http://www.hqc.sk.ca)
+ - date_published: 2025-01-01T18:32:35.044473+00:00
+
  ## Law Society of Saskatchewan
  - [http://www.lawsociety.sk.ca](http://www.lawsociety.sk.ca)
  - date_published: 2024-08-22T00:00:00+00:00
@@ -3606,407 +4014,4 @@
  ## Home
  - [https://jesse.cafe](https://jesse.cafe)
  - date_published: 2024-07-08T00:00:00+00:00
-
- ## joey☕
- - [https://joey.cafe](https://joey.cafe)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Kusoge Coffeehouse
- - [https://kusoge.cafe](https://kusoge.cafe)
- - date_published: 2024-08-22T22:17:13.654070+00:00
-
- ## Lab.cafe | Dielňa, Kaviareň, Podujatia
- - [https://lab.cafe](https://lab.cafe)
- - date_published: 2024-07-02T23:43:10.961811+00:00
-
- ## lechuza café
- - [https://lechuza.cafe](https://lechuza.cafe)
- - date_published: 2024-04-03T06:30:06.410291+00:00
- - tags: ['personal']
-
- ## Lemmy Cafe - A general purpose fediverse instance
- - [https://lemmy.cafe](https://lemmy.cafe)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Localization Café ☕
- - [https://localization.cafe](https://localization.cafe)
- - date_published: 2024-10-14T17:01:13.586754+00:00
-
- ## lofi.cafe - lofi music 🎧
- - [https://www.lofi.cafe](https://www.lofi.cafe)
- - date_published: 2024-09-14T23:32:01.079026+00:00
-
- ## Loom Cafe - Daniel Murray
- - [https://loom.cafe](https://loom.cafe)
- - date_published: 2024-07-21T07:49:20+00:00
-
- ## lovesick ♡
- - [https://lovesick.cafe](https://lovesick.cafe)
- - date_published: 2024-06-19T20:12:44+00:00
-
- ## Fido
- - [https://fido.meadow.cafe](https://fido.meadow.cafe)
- - date_published: 2024-09-14T23:16:16.504555+00:00
-
- ## medic.cafe
- - [https://medic.cafe](https://medic.cafe)
- - date_published: 2024-05-10T06:47:49.954213+00:00
-
- ## Nerdpol Café
- - [https://nerdpol.cafe](https://nerdpol.cafe)
- - date_published: 2024-08-06T17:46:45.025665+00:00
-
- ## netcup
- - [https://netcup.cafe](https://netcup.cafe)
- - date_published: 2024-01-09T00:00:00+00:00
-
- - [https://webzine.nixos.cafe](https://webzine.nixos.cafe)
- - date_published: 2024-01-09T02:27:20.257524+00:00
-
- ## A Message For All Of You.
- - [https://ocha.cafe](https://ocha.cafe)
- - date_published: 2024-06-08T02:11:51+00:00
-
- ## Login
- - [https://dns.omada.cafe](https://dns.omada.cafe)
- - date_published: 2024-05-11T08:53:43.916124+00:00
-
- ## Omada's Café Fedi
- - [https://fedi.omada.cafe](https://fedi.omada.cafe)
- - date_published: 2024-05-11T08:53:42.320601+00:00
-
- ## Omada Git server
- - [https://git.omada.cafe](https://git.omada.cafe)
- - date_published: 2024-05-11T08:53:41.609322+00:00
-
- ## Login
- - [https://nydns.omada.cafe](https://nydns.omada.cafe)
- - date_published: 2024-05-11T08:53:40.617524+00:00
-
- ## Omada
- - [https://omada.cafe](https://omada.cafe)
- - date_published: 2024-03-20T21:29:27.487824+00:00
- - tags: ['personal']
-
- ## Omada Uptime
- - [https://uptime.omada.cafe](https://uptime.omada.cafe)
- - date_published: 2024-07-02T12:25:14+00:00
-
- ## Omada Peertube
- - [https://video.omada.cafe](https://video.omada.cafe)
- - date_published: 2024-05-11T08:53:43.109262+00:00
-
- ## Invidious
- - [https://yt.omada.cafe](https://yt.omada.cafe)
- - date_published: 2024-05-11T08:53:39.779642+00:00
-
- ## Onio Café
- - [https://onio.cafe](https://onio.cafe)
- - date_published: 2024-04-05T02:01:18+00:00
-
- ## ordinary.cafe
- - [https://ordinary.cafe](https://ordinary.cafe)
- - date_published: 2024-06-19T23:48:48.047436+00:00
-
- ## Ouroboros Café
- - [https://ouroboros.cafe](https://ouroboros.cafe)
- - date_published: 2024-12-10T17:14:40+00:00
-
- ## Home
- - [https://owen.cafe](https://owen.cafe)
- - date_published: 2023-10-25T08:43:10.163631+00:00
- - tags: ['personal']
-
- ## owo.cafe
- - [https://owo.cafe](https://owo.cafe)
- - date_published: 2024-07-10T07:29:04.554240+00:00
-
- ## Paul Comte
- - [https://paulcomte.cafe](https://paulcomte.cafe)
- - date_published: 2024-07-08T07:50:26+00:00
-
- ## Penpal Café
- - [https://penpal.cafe](https://penpal.cafe)
- - date_published: 2024-04-03T07:36:11+00:00
-
- ## Prompt.Cafe | AI Prompt Starter Pack
- - [https://www.prompt.cafe](https://www.prompt.cafe)
- - date_published: 2023-08-21T00:00:00+00:00
-
- ## OpenBSD webzine homepage
- - [https://webzine.puffy.cafe](https://webzine.puffy.cafe)
- - date_published: 2023-10-30T21:38:37.602934+00:00
-
- ## Re:Play Cafe
- - [https://replay.cafe](https://replay.cafe)
- - date_published: 2023-01-09T07:24:17+00:00
-
- ## Rogues Repast Cafe
- - [https://roguesrepast.cafe](https://roguesrepast.cafe)
- - date_published: 2024-02-13T21:13:05+00:00
-
- ## RPG Maker Cafe
- - [https://rpgmaker.cafe](https://rpgmaker.cafe)
- - date_published: 2024-07-23T23:19:00.998241+00:00
-
- ## Seal Cafe
- - [https://seal.cafe](https://seal.cafe)
- - date_published: 2024-08-07T13:09:27.639690+00:00
-
- ## Sivar Cafe
- - [https://sivar.cafe](https://sivar.cafe)
- - date_published: 2024-07-10T06:39:30.430324+00:00
-
- ## Akkoma
- - [https://sleepless.cafe](https://sleepless.cafe)
- - date_published: 2024-06-17T03:31:52.907540+00:00
-
- ## Business-Class Web Hosting by (mt) Media Temple
- - [http://spam.cafe](http://spam.cafe)
- - date_published: 2022-06-15T17:49:35+00:00
-
- ## Status Cafe Forum
- - [https://forum.status.cafe](https://forum.status.cafe)
- - date_published: 2024-09-01T00:00:00+00:00
-
- ## Status Cafe
- - [https://status.cafe](https://status.cafe)
- - date_published: 2024-04-30T06:16:34.197522+00:00
-
- ## Sunday Sites
- - [https://sundaysites.cafe](https://sundaysites.cafe)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## The Coder Cafe | Teiva Harsanyi | Substack
- - [https://thecoder.cafe](https://thecoder.cafe)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## The Folkore Cafe
- - [https://thefolklore.cafe](https://thefolklore.cafe)
- - date_published: 2024-09-04T04:08:12.864702+00:00
-
- ## The Food Place
- - [https://thefoodplace.cafe](https://thefoodplace.cafe)
- - date_published: 2024-09-14T23:26:08.281150+00:00
-
- ## Théo Bori
- - [https://theobori.cafe](https://theobori.cafe)
- - date_published: 2024-08-08T15:33:07.836501+00:00
-
- ## im tosti
- - [https://blog.toast.cafe](https://blog.toast.cafe)
- - date_published: 2024-10-29T06:08:11.784771+00:00
-
- ## Pencil
- - [https://pencil.toast.cafe](https://pencil.toast.cafe)
- - date_published: 2023-10-25T12:09:51.787994+00:00
-
- ## Toot Café
- - [https://toot.cafe](https://toot.cafe)
- - date_published: 2023-10-25T12:09:53.298119+00:00
-
- ## troet.cafe  - Mastodon
- - [https://troet.cafe](https://troet.cafe)
- - date_published: 2024-04-29T06:14:07.312882+00:00
-
- ## Accueil - Unbon.cafe
- - [https://unbon.cafe](https://unbon.cafe)
- - date_published: 2022-12-31T17:47:13+00:00
-
- ## Une tasse de café
- - [https://une-tasse-de.cafe](https://une-tasse-de.cafe)
- - date_published: 2024-08-28T01:18:18+00:00
-
- ## VocaLounge
- - [https://vocalounge.cafe](https://vocalounge.cafe)
- - date_published: 2024-07-10T08:45:08.700397+00:00
-
- ## xrp.cafe NFT marketplace
- - [https://xrp.cafe](https://xrp.cafe)
- - date_published: 2024-12-23T15:31:37.340789+00:00
-
- ## zoroark's cafe
- - [https://zoroark.cafe](https://zoroark.cafe)
- - date_published: 2024-12-22T06:33:42.524085+00:00
-
- ## Deep Live Cam: Real-time face swapping and one-click video deepfake tool
- - [https://deeplive.cam](https://deeplive.cam)
- - date_published: 2024-08-10T13:05:48+00:00
-
- ## Halide Mark II: Pro. Camera. Action.
- - [https://halide.cam](https://halide.cam)
- - date_published: 2023-11-04T02:08:25+00:00
-
- ## طول عمر پالت پرسی چوبی + (راهکارهای افزایش عمر پالت) - نئوپالت
- - [https://neoallte.cam](https://neoallte.cam)
- - date_published: 2023-10-18T18:38:00+00:00
-
- ## Observing Time
- - [https://observingtime.cam](https://observingtime.cam)
- - date_published: 2024-08-11T21:09:56.664586+00:00
-
- ## Polycam Learn
- - [https://learn.poly.cam](https://learn.poly.cam)
- - date_published: 2024-04-30T05:35:06.503204+00:00
-
- ## Polycam - LiDAR & 3D Scanner for iPhone & Android
- - [https://poly.cam](https://poly.cam)
- - date_published: 2023-10-25T08:38:30.080927+00:00
-
- ## Spectre
- - [https://spectre.cam](https://spectre.cam)
- - date_published: 2024-04-30T05:35:11.723117+00:00
-
- ## Firewatch Camera - About
- - [https://firewatch.camera](https://firewatch.camera)
- - date_published: 2024-08-18T19:43:10.846653+00:00
-
- ## 💛 Locket Widget
- - [https://locket.camera](https://locket.camera)
- - date_published: 2024-08-01T19:02:38+00:00
-
- ## Lux
- - [https://lux.camera](https://lux.camera)
- - date_published: 2023-10-25T12:09:56.046567+00:00
-
- ## meow.camera
- - [https://meow.camera](https://meow.camera)
- - date_published: 2024-06-20T02:56:52.252276+00:00
-
- ## Telecast
- - [https://telecast.camera](https://telecast.camera)
- - date_published: 2024-07-14T08:30:21.733236+00:00
-
- ## VWFNDR
- - [https://vwfndr.camera](https://vwfndr.camera)
- - date_published: 2024-04-29T07:14:37.211339+00:00
-
- ## 1337 Bootcamp / Gaming House
- - [https://1337.camp](https://1337.camp)
- - date_published: 2024-07-13T13:23:12.891452+00:00
-
- ## AI Safety Camp
- - [https://aisafety.camp](https://aisafety.camp)
- - date_published: 2024-05-04T12:17:46.253900+00:00
-
- ## APCSCamp 2023 程式設計培訓營
- - [https://apcs.camp](https://apcs.camp)
- - date_published: 2023-08-01T16:42:28+00:00
-
- ## Clarity Camp | Write smart contracts for Bitcoin
- - [https://clarity.camp](https://clarity.camp)
- - date_published: 2024-09-09T13:50:16.313388+00:00
-
- ## Corbin.Camp
- - [https://corbin.camp](https://corbin.camp)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## deco.cx - Build high-performance Web Apps 10x faster | deco.cx
- - [https://deco.camp](https://deco.camp)
- - date_published: 2024-07-19T19:38:25.715418+00:00
-
- ## International Hacking & Cyber Security Community - DefCamp 2024
- - [https://def.camp](https://def.camp)
- - date_published: 2024-06-21T11:58:10.659942+00:00
-
- ## Dice.camp
- - [https://dice.camp](https://dice.camp)
- - date_published: 2024-05-12T05:41:48.220110+00:00
-
- ## European Summer Program in Rationality
- - [https://espr.camp](https://espr.camp)
- - date_published: 2024-12-27T21:19:03.339329+00:00
-
- ## Friend Camp
- - [https://friend.camp](https://friend.camp)
- - date_published: 2024-05-06T19:58:34.209137+00:00
-
- ## 𝔊𝔬𝔟𝔩𝔦𝔫 ℭ𝔞𝔪𝔭
- - [https://goblin.camp](https://goblin.camp)
- - date_published: 2024-09-18T23:09:50.641680+00:00
-
- ## IPFS Camp 2022
- - [https://2022.ipfs.camp](https://2022.ipfs.camp)
- - date_published: 2024-09-23T13:13:07.736340+00:00
-
- ## IPFS Camp 2024
- - [https://2024.ipfs.camp](https://2024.ipfs.camp)
- - date_published: 2024-09-23T13:05:36.640958+00:00
-
- ## Micro Camp: a virtual gathering of the Micro.blog community
- - [https://micro.camp](https://micro.camp)
- - date_published: 2024-05-04T07:00:21.898447+00:00
-
- ## Home - MOCA2024
- - [https://moca.camp](https://moca.camp)
- - date_published: 2024-06-20T16:14:02+00:00
-
- ## OpenCat Forum | Petoi LLC | United States
- - [https://petoi.camp](https://petoi.camp)
- - date_published: 2024-05-11T09:24:50.843560+00:00
-
- ## CAMP: Centrum Architektury a Městského Plánování
- - [https://praha.camp](https://praha.camp)
- - date_published: 2024-12-13T22:21:21.825630+00:00
-
- ## White Christian Family - The white Christian family is the foundation of Western civilization
- - [https://saints.camp](https://saints.camp)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Server.camp - Open-Source hosting made in Germany
- - [https://server.camp](https://server.camp)
- - date_published: 2024-09-02T14:49:19.240490+00:00
-
- ## Sleepawake Camp
- - [https://sleepawake.camp](https://sleepawake.camp)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Network Society Camp
- - [https://tns.camp](https://tns.camp)
- - date_published: 2024-09-24T20:47:27.713736+00:00
-
- ## VVoid Camp
- - [https://vvoid.camp](https://vvoid.camp)
- - date_published: 2024-06-22T19:00:03+00:00
-
- ## Canon Creative Park
- - [https://creativepark.canon](https://creativepark.canon)
- - date_published: 2024-04-30T05:35:17.800340+00:00
-
- ## Canon Global
- - [https://global.canon](https://global.canon)
- - date_published: 2023-10-25T12:10:02.392667+00:00
- - tags: ['company']
-
- ## Canon Medical Systems Corporation
- - [https://global.medical.canon](https://global.medical.canon)
- - date_published: 2024-06-23T14:18:32.800843+00:00
-
- ## Canon Medical Research: Revolutionising Medical Imaging Software
- - [https://research.eu.medical.canon](https://research.eu.medical.canon)
- - date_published: 2024-12-30T13:30:21.481627+00:00
-
- ## Canon Medical Informatics Customer Support
- - [https://support.mi.medical.canon](https://support.mi.medical.canon)
- - date_published: 2024-06-23T14:18:34.276278+00:00
-
- ## Canon Medical Informatics - Home
- - [https://www.mi.medical.canon](https://www.mi.medical.canon)
- - date_published: 2024-06-23T14:18:29.868729+00:00
-
- ## Canon ID
- - [https://myid.canon](https://myid.canon)
- - date_published: 2024-07-21T07:49:46.152823+00:00
-
- ## 1kx Job Board
- - [https://careers.1kx.capital](https://careers.1kx.capital)
- - date_published: 2024-09-25T10:44:37.307218+00:00
-
- ## AIN — Startups & Investments in Central and Eastern Europe
- - [https://ain.capital](https://ain.capital)
- - date_published: 2024-09-15T21:16:20.770670+00:00
-
- ## Alphemy Capital
- - [https://alphemy.capital](https://alphemy.capital)
- - date_published: 2024-09-03T00:00:00+00:00
 

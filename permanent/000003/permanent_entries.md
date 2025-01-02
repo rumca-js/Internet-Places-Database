@@ -2371,6 +2371,10 @@
  - date_published: 2024-05-06T14:05:19.835873+00:00
 
  ## Smry | AI Summarizer and Free Paywall Remover
+ - [http://smry.ai](http://smry.ai)
+ - date_published: 2025-01-01T15:09:08.251383+00:00
+
+ ## Smry | AI Summarizer and Free Paywall Remover
  - [https://www.smry.ai](https://www.smry.ai)
  - date_published: 2024-12-29T08:54:41.793814+00:00
 
@@ -3304,6 +3308,10 @@
  - [https://tecton.ai](https://tecton.ai)
  - date_published: 2023-12-06T00:28:48.196331+00:00
 
+ ## Accelerated: Book Summary App
+ - [https://tedapp.ai](https://tedapp.ai)
+ - date_published: 2024-12-23T19:11:57+00:00
+
  ## Tegon documentation - Docs
  - [https://docs.tegon.ai](https://docs.tegon.ai)
  - date_published: 2024-05-14T00:00:00+00:00
@@ -4010,12 +4018,4 @@
  ## Uden AI Network
  - [https://social.uden.ai](https://social.uden.ai)
  - date_published: 2024-06-21T19:06:30.635565+00:00
-
- ## Uden AI - Öko-hosting und Cybersicherheit
- - [https://uden.ai](https://uden.ai)
- - date_published: 2024-03-25T14:11:42+00:00
-
- ## uKit AI – моментально улучшает сайты с помощью ИИ
- - [https://ukit.ai](https://ukit.ai)
- - date_published: 2017-06-06T07:32:56+00:00
 

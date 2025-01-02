@@ -1,3 +1,15 @@
+ ## Defly Wallet - Algorand Wallet enhanced!
+ - [https://defly.app](https://defly.app)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Delta Investment Tracker | #1 Multi-Asset Portfolio Tracker
+ - [https://delta.app](https://delta.app)
+ - date_published: 2024-10-30T13:34:22+00:00
+
+ ## deploybot
+ - [https://deploybot.app](https://deploybot.app)
+ - date_published: 2024-05-06T09:18:30.757531+00:00
+
  ## Authorization | Deta Space
  - [https://next_meetups-1-x7325434.deta.app](https://next_meetups-1-x7325434.deta.app)
  - date_published: 2024-09-19T16:22:26+00:00
@@ -485,6 +497,10 @@
  ## featureOS: Customer Feedback Management Tools and Software | featureOS
  - [https://featureos.app](https://featureos.app)
  - date_published: 2024-07-14T09:24:10.077751+00:00
+
+ ## Podcast Addict
+ - [https://podcastaddict.featureos.app](https://podcastaddict.featureos.app)
+ - date_published: 2025-01-01T21:38:41.048593+00:00
 
  ## TubeMagic Feature Voting
  - [https://tubemagic.featureos.app](https://tubemagic.featureos.app)
@@ -4018,20 +4034,4 @@ The Album
  ## NoiseCraft
  - [https://noisecraft.app](https://noisecraft.app)
  - date_published: 2024-05-06T23:31:33.945372+00:00
-
- ## NolanAI Help Center
- - [https://help.nolanai.app](https://help.nolanai.app)
- - date_published: 2024-10-30T14:15:10.010691+00:00
-
- ## Free Script Writing Software | Nolan
- - [https://www.nolanai.app](https://www.nolanai.app)
- - date_published: 2024-06-19T19:48:49.746859+00:00
-
- ## Nomie 5
- - [https://v5.nomie.app](https://v5.nomie.app)
- - date_published: 2024-06-23T17:51:25.585330+00:00
-
- ## Nordot | ノアドット株式会社
- - [https://nordot.app](https://nordot.app)
- - date_published: 2023-10-25T11:48:00.245663+00:00
 
