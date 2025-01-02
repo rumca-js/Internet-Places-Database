@@ -1,31 +1,49 @@
 {
-  "entryrules": [
-    {
-      "id": 1,
-      "enabled": true,
-      "rule_url": ".bit.ly",
-      "rule_name": "link service",
-      "block": true,
-      "auto_tag": "",
-      "browser": null
-    },
-    {
-      "id": 3,
-      "enabled": true,
-      "rule_url": ".goatcounter.com, .cloudfront.net, static1.squarespace.com",
-      "rule_name": "internet service",
-      "block": true,
-      "auto_tag": "",
-      "browser": null
-    },
-    {
-      "id": 2,
-      "enabled": true,
-      "rule_url": ".shoparena.pl, .ascii.uk, .bestbuenosaireshotels.com, .itch.io, .softonic., .winsite.com, .gaycities.com, .salesforce.com, .softonic-, .hotels-lombardy., .salon24, .4shared.com",
-      "rule_name": "spammy",
-      "block": true,
-      "auto_tag": "",
-      "browser": null
-    }
-  ]
+    "entryrules": [
+        {
+            "id": 1,
+            "enabled": true,
+            "rule_url": ".bit.ly",
+            "rule_name": "link service",
+            "block": true,
+            "auto_tag": "",
+            "browser": null
+        },
+        {
+            "id": 3,
+            "enabled": true,
+            "rule_url": ".goatcounter.com, .cloudfront.net, static1.squarespace.com",
+            "rule_name": "internet service",
+            "block": true,
+            "auto_tag": "",
+            "browser": null
+        },
+        {
+            "id": 4,
+            "enabled": true,
+            "rule_url": "https://www.youtube.com/user",
+            "rule_name": "crawlee",
+            "block": false,
+            "auto_tag": "",
+            "browser": 88
+        },
+        {
+            "id": 2,
+            "enabled": true,
+            "rule_url": ".shoparena.pl, .ascii.uk, .wufoo.com, .bestbuenosaireshotels.com, .itch.io, .softonic., .winsite.com, .gaycities.com, .salesforce.com, .softonic-, .hotels-lombardy., .salon24, .4shared.com",
+            "rule_name": "spammy",
+            "block": true,
+            "auto_tag": "",
+            "browser": null
+        },
+        {
+            "id": 5,
+            "enabled": true,
+            "rule_url": "search1.taobao.com",
+            "rule_name": "harmful",
+            "block": true,
+            "auto_tag": "",
+            "browser": null
+        }
+    ]
 }
