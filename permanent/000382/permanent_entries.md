@@ -1831,7 +1831,7 @@ script..Create or build Forms Online
  - [https://marionjdanoff.net](https://marionjdanoff.net)
  - date_published: 2024-07-13T02:34:36.761754+00:00
 
- ## MarioWiki - Die deutsche Enzyklopädie zur Mario-Serie
+ ## MarioWiki - Die deutsche Enzyklopädie zum Mario-Franchise
  - [https://mariowiki.net](https://mariowiki.net)
  - date_published: 2024-05-24T15:41:17+00:00
 
