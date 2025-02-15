@@ -162,6 +162,22 @@ Other
  - artificial intelligence bot - bots that can respond to your queries
  - gatekeeper - platforms that are too big to fail. Monopolies, big tech, etc.
 
+# Data analyzer
+
+Do you want to search the database? I have got you covered! Use dataanalyzer.py
+
+First install poetry. Then perform 'poetry update'. Then you can use the script.
+
+Example use
+```
+dataanalyzer.py --db test.db --search "warhammer" --title
+```
+
+Example use
+```
+dataanalyzer.py --db test.db --search "link=warhammer" --title
+```
+
 # You don't like it? Fork it!
 
 I have my own opinions, with which you do not have to agree. Most of tags, votes are added manually. You can use this repository, as a starting point, to kick off your own project. Add your own tags. Create your own version of search engine. Good luck!
