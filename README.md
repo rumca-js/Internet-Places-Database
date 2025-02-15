@@ -74,9 +74,11 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 
 # Files
 
-The database is distributed as a set of JSON files. We do not want to store binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
+Data are distributed in test.zip file, split with 50MB parts.
 
-Note: If you have problems with git clone, you can try downloading repository as a zip file.
+To use it, you have to unpack it.
+
+The result test.db database file can be viewed using any nosql browser / program.
 
 Each link contains a set of attributes, like:
  - title
@@ -85,6 +87,14 @@ Each link contains a set of attributes, like:
  - date of creation
  - date of last seen
  - etc.
+
+You can run queries to find information about tags, etc.
+```
+SELECT *
+FROM linkdatamodel
+JOIN usertags
+ON linkdatamodel.id = usertags.entry_id;
+```
 
 # Page rating
 
@@ -151,14 +161,6 @@ Other
 
  - artificial intelligence bot - bots that can respond to your queries
  - gatekeeper - platforms that are too big to fail. Monopolies, big tech, etc.
-
-# Releases
-
-Binary releases are provided in form of SQLite table. The tables will be similar, or exatcly same as in [Django link archive](https://github.com/rumca-js/Django-link-archive) project. Use SQL viewer to see what kind of data it contains. Table "entries" with fields such as "title", "description" etc.
-
-This binary release can be used directly as-is in any project you like.
-
-I plan to make binary releases will be generated for each quarter. In case of necessity on-demand releasese might occur.
 
 # You don't like it? Fork it!
 
