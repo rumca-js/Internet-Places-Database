@@ -2,9 +2,13 @@
 
 This is a database of Internet places. Mostly domains. Sometimes other things. Think of it as Internet meta database. This repository contains link metadata: title, description, publish date, etc.
 
+Everything in one file! Just unzip test.zip!
+
 <div align="center">
   <img alt="Project Logo" src="images/its_easy_internet_on_internet.png">
 </div>
+
+You can easily browse the file using any NoSQL program, like DBeaver!
 
 # Acceptable link types
 
