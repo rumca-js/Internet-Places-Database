@@ -2,7 +2,7 @@
 
 This is a database of Internet places. Mostly domains. Sometimes other things. Think of it as Internet meta database. This repository contains link metadata: title, description, publish date, etc.
 
-Everything in one file! Just unzip test.zip!
+Everything in one file! Just unzip <b>test.zip</b>!
 
 <div align="center">
   <img alt="Project Logo" src="images/its_easy_internet_on_internet.png">
