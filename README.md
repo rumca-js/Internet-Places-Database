@@ -5,7 +5,7 @@ This is a database of Internet places. Mostly domains. Sometimes other things. T
 The entire Internt is in one file! Just unzip <b>internet.zip</b>!
 
 <div align="center">
-  <img alt="Project Logo" src="images/its_easy_internet_on_internet.png">
+  <img alt="Project Logo" src="images/the_internet.jpeg">
 </div>
 
 You can easily browse the file using any NoSQL program, like DBeaver!
@@ -181,6 +181,10 @@ Example use
 ```
 dataanalyzer.py --db test.db --search "link=warhammer" --title
 ```
+
+<div align="center">
+  <img alt="Project Logo" src="images/its_easy_internet_on_internet.png">
+</div>
 
 # You don't like it? Fork it!
 
