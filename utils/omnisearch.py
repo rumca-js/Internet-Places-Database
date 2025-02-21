@@ -18,6 +18,7 @@ class SingleSymbolEvaluator(object):
         self.not_translated_conditions = {}
         self.translated_conditions = {}
         self.translatable_names = []
+        self.errors = []
 
     def evaluate_symbol(self, symbol):
         """
@@ -39,9 +40,16 @@ class SingleSymbolEvaluator(object):
 
             self.translated_conditions[condition_data[0]] = condition_data[2]
             condition_data = self.translate_condition(condition_data)
-            return condition_data
+            return self.evaluate_complex_translated_symbol(symbol, condition_data)
         else:
             self.not_translated_conditions[condition_data[0]] = condition_data[2]
+            return self.evaluate_complex_not_translated_symbol(symbol, condition_data)
+
+    def evaluate_complex_translated_symbol(self, symbol, condition_data):
+        return condition_data
+
+    def evaluate_complex_not_translated_symbol(self, symbol, condition_data):
+        return condition_data
 
     def evaluate_simple_symbol(self, symbol):
         return symbol
@@ -107,6 +115,9 @@ class SingleSymbolEvaluator(object):
 
     def set_translation_mapping(self, names):
         self.translatable_names = names
+
+    def add_error(self, error):
+        self.errors.append(error)
 
 
 class EquationTranslator(object):

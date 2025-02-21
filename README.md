@@ -53,7 +53,12 @@ Sources:
  - [https://neocities.org/](https://neocities.org/)
  - hacker front page entries
  - some reddit channels [r/selfhosted](https://www.reddit.com/r/selfhosted/.rss)
- - awesome lists, like [awesome](https://github.com/sindresorhus/awesome)
+ - GitHub [awesome lists](https://github.com/sindresorhus/awesome)
+ - GitHub [awesome pastebins](https://github.com/lorien/awesome-pastebins)
+ - GitHub [awesome DNS](https://github.com/curl/curl/wiki/DNS-over-HTTPS)
+ - GitHub [Game hacking](https://github.com/dsasmblr/game-hacking)
+ - [gov sites](https://manage.get.gov/api/v1/get-report/current-full)
+ - [Hacker News RSS](https://news.ycombinator.com/item?id=12804406)
 
 <div align="center">
   <img alt="Meme" src="images/ihavewatched.png" style="width:450px">
@@ -172,14 +177,14 @@ Do you want to search the database? I have got you covered! Use dataanalyzer.py
 
 First install poetry. Then perform 'poetry update'. Then you can use the script.
 
-Example use
+Search for warhammer in link, title, description. Shows title
 ```
-dataanalyzer.py --db test.db --search "warhammer" --title
+dataanalyzer.py --db test.db --search "*warhammer*" --title
 ```
 
-Example use
+Search for warhammer in link name. Shows title, tags
 ```
-dataanalyzer.py --db test.db --search "link=warhammer" --title
+dataanalyzer.py --db test.db --search "link=*warhammer*" --title --tags
 ```
 
 <div align="center">

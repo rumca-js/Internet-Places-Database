@@ -47,10 +47,12 @@ class AlchemySymbolEvaluator(SingleSymbolEvaluator):
 
         if condition_data[1] == "=":
             symbol = condition_data[2]
+            symbol = symbol.replace("*", "%")
+
             if self.ignore_case:
-                return self.table.c[condition_data[0]].ilike(f"%{symbol}%")
+                return self.table.c[condition_data[0]].ilike(symbol)
             else:
-                return self.table.c[condition_data[0]].like(f"%{symbol}%")
+                return self.table.c[condition_data[0]].like(symbol)
 
         raise IOError("Unsupported operator")
 
@@ -59,16 +61,18 @@ class AlchemySymbolEvaluator(SingleSymbolEvaluator):
         TODO we could check by default if entry link == symbol, or sth
         """
         if self.ignore_case:
+            symbol = symbol.replace("*", "%")
             return or_(
-                self.table.c["link"].ilike(f"%{symbol}%"),
-                self.table.c["title"].ilike(f"%{symbol}%"),
-                self.table.c["description"].ilike(f"%{symbol}%"),
+                self.table.c["link"].ilike(symbol),
+                self.table.c["title"].ilike(symbol),
+                self.table.c["description"].ilike(symbol),
             )
         else:
+            symbol = symbol.replace("*", "%")
             return or_(
-                self.table.c["link"].like(f"%{symbol}%"),
-                self.table.c["title"].like(f"%{symbol}%"),
-                self.table.c["description"].like(f"%{symbol}%"),
+                self.table.c["link"].like(symbol),
+                self.table.c["title"].like(symbol),
+                self.table.c["description"].like(symbol),
             )
 
 
@@ -99,7 +103,11 @@ class AlchemySearch(object):
 
     def search(self):
         destination_metadata = MetaData()
-        destination_table = Table("linkdatamodel", destination_metadata, autoload_with=self.db)
+
+        if "table" in self.args:
+            destination_table = Table(self.args.table, destination_metadata, autoload_with=self.db)
+        else:
+            destination_table = Table("linkdatamodel", destination_metadata, autoload_with=self.db)
 
         symbol_evaluator = AlchemySymbolEvaluator(destination_table, self.args.ignore_case)
         equation_evaluator = AlchemyEquationEvaluator(self.search_term, symbol_evaluator)

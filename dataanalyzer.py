@@ -3,7 +3,7 @@ Provides information about archive
 
 Examples:
  - What was said about Musk
-  $ --search "title=Musk"
+  $ --search "title=*Musk*"
  - What was said about Musk (title, link, description, etc)
   $ --search "Musk"
 
@@ -19,6 +19,7 @@ import json
 
 from utils.omnisearch import SingleSymbolEvaluator, EquationEvaluator, OmniSearch
 from utils.alchemysearch import AlchemySymbolEvaluator, AlchemyEquationEvaluator, AlchemySearch
+from utils.reflected import ReflectedEntryTable
 from sqlalchemy import create_engine
 
 
@@ -58,21 +59,6 @@ class SearchInterface(object):
             if tags and tags != "":
                 print(tags)
 
-    def read_file(self, afile):
-        text = read_file_contents(afile)
-
-        try:
-            j = json.loads(text)
-
-            if "links" in j:
-                return j["links"]
-            if "sources" in j:
-                return j["sources"]
-
-            return j
-        except Exception as E:
-            print("Could not read file: {}".format(afile))
-
     def get_time_diff(self):
         return time.time() - self.start_time
 
@@ -100,69 +86,6 @@ class SearchInterface(object):
                 print("total:{} good:{} dead:{}".format(self.total_entries, self.good_entries, self.dead_entries))
             else:
                 print("total:{}".format(self.total_entries))
-
-
-class EntrySymbolEvaluator(SingleSymbolEvaluator):
-    """
-    return 1 if true
-    """
-
-    def __init__(self, entry = None):
-        self.entry = entry
-
-    def evaluate_complex_symbol(self, symbol, condition_data):
-        if condition_data[0] not in self.entry:
-            # print("evaluate_complex_symbol: symbol {} not in entry".format(condition_data[0]))
-            return
-
-        entry_field_value = self.entry[condition_data[0]]
-
-        if condition_data[1] == "==":
-            return entry_field_value == condition_data[2]
-
-        if condition_data[1] == "!=":
-            return entry_field_value != condition_data[2]
-
-        if condition_data[1] == ">":
-            return entry_field_value > condition_data[2]
-
-        if condition_data[1] == "<":
-            return entry_field_value < condition_data[2]
-
-        if condition_data[1] == ">=":
-            return entry_field_value >= condition_data[2]
-
-        if condition_data[1] == "<=":
-            return entry_field_value <= condition_data[2]
-
-        if condition_data[1] == "=":
-            return entry_field_value.find(condition_data[2]) >= 0
-
-        raise IOError("Unsupported operator")
-
-    def evaluate_simple_symbol(self, symbol):
-        """
-        TODO we could check by default if entry link == symbol, or sth
-        """
-        link = ""
-        title = ""
-        description = ""
-
-        if "link" in self.entry:
-            link = self.entry["link"]
-        if "title" in self.entry:
-            title = self.entry["title"]
-        if "description" in self.entry:
-            description = self.entry["description"]
-
-        if link and link.find(symbol) >= 0:
-            return True
-        if title and title.find(symbol) >= 0:
-            return True
-        if description and description.find(symbol) >= 0:
-            return True
-
-        return False
 
 
 class DataAnalyzer(object):
@@ -201,6 +124,7 @@ class Parser(object):
         self.parser.add_argument("--order-by", default="page_rating_votes", help="order by column.")
         self.parser.add_argument("--asc", action="store_true", help="order ascending")
         self.parser.add_argument("--desc", action="store_true", help="order descending")
+        self.parser.add_argument("--table", default="linkdatamodel", help="Table name")
 
         self.parser.add_argument("--title", action="store_true", help="displays title")
         self.parser.add_argument("--description", action="store_true", help="displays description")
