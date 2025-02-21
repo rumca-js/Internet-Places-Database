@@ -8,7 +8,7 @@ The entire Internt is in one file! Just unzip <b>internet.zip</b>!
   <img alt="Project Logo" src="images/the_internet.jpeg">
 </div>
 
-You can easily browse the file using any NoSQL program, like DBeaver!
+You can easily browse the file using any SQLite program, like DBeaver!
 
 # Acceptable link types
 
