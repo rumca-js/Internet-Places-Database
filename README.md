@@ -83,11 +83,11 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 
 # Files
 
-Data are distributed in test.zip file, split with 50MB parts.
+Data are distributed in internet.zip file, split with 50MB parts.
 
 To use it, you have to unpack it.
 
-The result test.db database file can be viewed using any nosql browser / program.
+The result internet.db database file can be viewed using any sqlite browser / program.
 
 Each link contains a set of attributes, like:
  - title
