@@ -179,12 +179,12 @@ First install poetry. Then perform 'poetry update'. Then you can use the script.
 
 Search for warhammer in link, title, description. Shows title
 ```
-dataanalyzer.py --db test.db --search "*warhammer*" --title
+dataanalyzer.py --db internet.db --search "*warhammer*" --title
 ```
 
 Search for warhammer in link name. Shows title, tags
 ```
-dataanalyzer.py --db test.db --search "link=*warhammer*" --title --tags
+dataanalyzer.py --db internet.db --search "link=*warhammer*" --title --tags
 ```
 
 <div align="center">
