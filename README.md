@@ -32,6 +32,8 @@ Some zen rules:
  - I might suspect that a page is notorious, I may flag it with a tag, like "piracy", but it may not be true
  - If page content is obnoxious, it can, and possible should be demoted
  - I do not always follow these rules strictly
+
+The goal is to check how "wide" the Internet is, not how "deep" individual places are!
  
 # I do not have resources to verify all links
 
@@ -80,6 +82,35 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 - [Arxiv](https://arxiv.org/)
 - [Anna's Archive](https://annas-archive.org/)
 - [Guardian newspaper](https://theguardian.newspapers.com/)
+
+# Stats
+
+Tables, and sizes (will definitely change over time)
+```
+Table: blockentrylist, Row count: 30
+Table: compactedtags, Row count: 3230
+Table: configurationentry, Row count: 1
+Table: dataexport, Row count: 2
+Table: domains, Row count: 647063
+Table: entryrules, Row count: 8
+Table: gateway, Row count: 82
+Table: linkdatamodel, Row count: 647784
+Table: modelfiles, Row count: 0
+Table: readlater, Row count: 0
+Table: sourcecategories, Row count: 8
+Table: sourcedatamodel, Row count: 11704
+Table: sourcesubcategories, Row count: 13
+Table: user, Row count: 5
+Table: userbookmarks, Row count: 13008
+Table: usercomments, Row count: 1
+Table: usercompactedtags, Row count: 3230
+Table: userconfig, Row count: 3
+Table: userentrytransitionhistory, Row count: 5507
+Table: userentryvisithistory, Row count: 4509
+Table: usersearchhistory, Row count: 305
+Table: usertags, Row count: 22091
+Table: uservotes, Row count: 27767
+```
 
 # Files
 

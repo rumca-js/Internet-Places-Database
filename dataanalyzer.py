@@ -23,6 +23,12 @@ from utils.reflected import ReflectedEntryTable
 from sqlalchemy import create_engine
 
 
+def print_summary(db):
+    engine = create_engine("sqlite:///" + db)
+    r = ReflectedEntryTable(engine)
+    r.print_summary()
+
+
 class SearchInterface(object):
 
     def __init__(self, parser=None, engine=None):
@@ -118,8 +124,8 @@ class Parser(object):
 
     def parse(self):
         self.parser = argparse.ArgumentParser(description="Data analyzer program")
-        self.parser.add_argument("--dir", help="Directory to be scanned")
         self.parser.add_argument("--db", help="DB to be scanned")
+
         self.parser.add_argument("--search", help="Search, with syntax same as the main program / site.")
         self.parser.add_argument("--order-by", default="page_rating_votes", help="order by column.")
         self.parser.add_argument("--asc", action="store_true", help="order ascending")
@@ -130,15 +136,12 @@ class Parser(object):
         self.parser.add_argument("--description", action="store_true", help="displays description")
         self.parser.add_argument("--tags", action="store_true", help="displays tags")
 
+        self.parser.add_argument("--summary", action="store_true", help="displays summary of tables")
+
         self.parser.add_argument("-i", "--ignore-case", action="store_true", help="Ignores case")
         self.parser.add_argument("-v", "--verbosity", help="Verbosity level")
         
         self.args = self.parser.parse_args()
-
-        if self.args.dir:
-            self.dir = self.args.dir
-        else:
-            self.dir = None
 
         return True
 
@@ -159,8 +162,11 @@ def main():
         print("Could not parse options")
         return
 
-    m = DataAnalyzer(p)
-    m.process()
+    if p.args.summary:
+        print_summary(p.args.db)
+    else:
+        m = DataAnalyzer(p)
+        m.process()
 
 
 if __name__ == "__main__":

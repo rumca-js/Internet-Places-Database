@@ -71,7 +71,6 @@ class ReflectedEntryTable(object):
     def print_summary(self):
         inspector = inspect(self.engine)
         tables = inspector.get_table_names()
-        print("Tables in the database:", tables)
 
         with self.engine.connect() as connection:
             for table in tables:
