@@ -42,6 +42,12 @@ The goal is to check how "wide" the Internet is, not how "deep" individual place
  - Use 'votes' to see credibility of domains
  - Be careful, Internet is a dangerous space. You should know what you are doing when using this list
 
+# Example
+
+[Simple Search](https://rumca-js.github.io/search) uses domains that have votes > 0.
+
+You can check how this search works, and what is inside.
+
 # Sources of data
 
 Obtained by the [Django-link-archive](https://github.com/rumca-js/Django-link-archive) web crawler.
