@@ -104,12 +104,16 @@ class AlchemySearch(object):
     def search(self):
         destination_metadata = MetaData()
 
-        if "table" in self.args:
+        if self.args and "table" in self.args:
             destination_table = Table(self.args.table, destination_metadata, autoload_with=self.db)
         else:
             destination_table = Table("linkdatamodel", destination_metadata, autoload_with=self.db)
 
-        symbol_evaluator = AlchemySymbolEvaluator(destination_table, self.args.ignore_case)
+        ignore_case = False
+        if self.args and self.args.ignore_case:
+            ignore_case = True
+
+        symbol_evaluator = AlchemySymbolEvaluator(destination_table, ignore_case)
         equation_evaluator = AlchemyEquationEvaluator(self.search_term, symbol_evaluator)
 
         search = OmniSearch(self.search_term, equation_evaluator=equation_evaluator)
@@ -117,16 +121,23 @@ class AlchemySearch(object):
 
         rows = []
         with self.db.connect() as connection:
-            order_by_column = getattr(destination_table.c, self.args.order_by, None)
+            order_by_column_name = "id"
+            if self.args and self.args.order_by:
+                order_by_column_name = self.args.order_by
+
+            order_by_column = getattr(destination_table.c, order_by_column_name, None)
 
             if order_by_column is None:
                 raise AttributeError(f"Invalid order_by column: {self.args.order_by}")
 
-            # Determine sorting order
-            order_by_clause = (
-                order_by_column.asc() if self.args.asc else order_by_column.desc()
-                if self.args.desc else order_by_column.asc()
-            )
+            if self.args:
+                # Determine sorting order
+                order_by_clause = (
+                    order_by_column.asc() if self.args.asc else order_by_column.desc()
+                    if self.args.desc else order_by_column.asc()
+                )
+            else:
+                order_by_clause = order_by_column.asc()
 
             # Use select() for SQLAlchemy Core
             stmt = select(destination_table).where(combined_query_conditions).order_by(order_by_clause)

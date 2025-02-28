@@ -29,6 +29,18 @@ class ReflectedEntryTable(object):
             for entry in entries:
                 yield entry
 
+    def get_source(self, source_id):
+        destination_metadata = MetaData()
+        destination_table = Table("sourcedatamodel", destination_metadata, autoload_with=self.engine)
+
+        stmt = select(destination_table).where(destination_table.c.id == source_id)
+
+        with self.engine.connect() as connection:
+            result = connection.execute(stmt)
+            rows = result.fetchall()
+            for row in rows:
+                return row
+
     def get_tags_string(self, entry_id):
         destination_metadata = MetaData()
         destination_table = Table("usertags", destination_metadata, autoload_with=self.engine)

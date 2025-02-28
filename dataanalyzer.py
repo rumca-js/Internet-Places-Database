@@ -52,7 +52,19 @@ class SearchInterface(object):
         if self.parser.args.title:
             text += " " + entry.title
 
+        if self.parser.args.source:
+            source_id = entry.source
+            if source_id:
+                r = ReflectedEntryTable(self.engine)
+                source = r.get_source(source_id)
+                text += " [{}]".format(source.title)
+
         print(text)
+
+        if self.parser.args.date_published:
+            date_published = entry.date_published
+            if date_published:
+                print(date_published)
 
         if self.parser.args.description:
             description = entry.description
@@ -135,6 +147,8 @@ class Parser(object):
         self.parser.add_argument("--title", action="store_true", help="displays title")
         self.parser.add_argument("--description", action="store_true", help="displays description")
         self.parser.add_argument("--tags", action="store_true", help="displays tags")
+        self.parser.add_argument("--date-published", action="store_true", help="displays date-published")
+        self.parser.add_argument("--source", action="store_true", help="displays source")
 
         self.parser.add_argument("--summary", action="store_true", help="displays summary of tables")
 
