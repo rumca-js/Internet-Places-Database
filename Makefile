@@ -19,3 +19,6 @@ unpack:
 clean:
 	rm -f $(ARCHIVE_NAME) extracted.zip
 	echo "Removed $(ARCHIVE_NAME) and extracted.zip"
+
+server:
+	python3 -m http.server 8000

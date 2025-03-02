@@ -10,6 +10,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
         <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/jszip/dist/jszip.min.js"></script>
+	<script src="https://unpkg.com/sql.js@1.6.0/dist/sql-wasm.js"></script>
 
         <link href="styles/viewerzip.css?i=3" rel="stylesheet" crossorigin="anonymous">
 
@@ -177,18 +178,7 @@ function fillSearchListData(entry_id) {
         return;
     }
 
-    $('#statusLine').html("Filtering links");
-    let filteredEntries = entries.filter(entry =>
-        isEntryIdHit(entry, entry_id)
-    );
-
-    if (filteredEntries.length === 0) {
-        $('#statusLine').html("No matching entries found.");
-        $('#detailData').html("");
-        return;
-    }
-
-    fillListDataInternalMultiple(filteredEntries);
+    fillListDataInternalMultiple(entries);
     $('#statusLine').html("")
 }
 
@@ -203,7 +193,8 @@ function fillListData() {
 
 document.addEventListener('DOMContentLoaded', () => {
     if (!object_list_data) {
-       requestFile();
+	let file_name = getFileName();
+        initAndQueryDatabase(file_name);
     }
 });
 </script>

@@ -400,6 +400,214 @@ function searchInputFunction() {
 }
 
 
+function getFileName() {
+    let file_name = getQueryParam('file') || "internet";
+    return file_name + ".db";
+}
+
+
+function updateListData(jsonData) {
+    if (!object_list_data) {
+        object_list_data = { entries: [] };
+    }
+    if (!object_list_data.entries) {
+        object_list_data.entries = [];
+    }
+
+    if (jsonData && Array.isArray(jsonData.entries)) {
+        object_list_data.entries.push(...jsonData.entries);
+    } else {
+        if (jsonData && Array.isArray(jsonData))
+        {
+            object_list_data.entries.push(...jsonData);
+        }
+        else {
+            console.error("jsonData.entries is either not defined or not an array.");
+        }
+    }
+}
+
+
+
+async function unPackFile(file) {
+   // Prepare progress bar and output
+   const progressBarElement = document.getElementById('progressBarElement');
+   progressBarElement.innerHTML = '';
+
+    // Add progress bar to the progressBarElement div
+    let percentComplete = 0;
+    const progressBarHTML = `
+        <div class="progress">
+            <div class="progress-bar" role="progressbar" style="width: ${percentComplete}%" 
+                aria-valuenow="${percentComplete}" aria-valuemin="0" aria-valuemax="100">
+                ${percentComplete}%
+            </div>
+        </div>
+        <span class="status-text">Loading blob file...</span>
+    `;
+    progressBarElement.innerHTML = progressBarHTML;
+
+    const progressBar = progressBarElement.querySelector('.progress-bar');
+    const statusText = progressBarElement.querySelector('.status-text');
+
+    try {
+        const JSZip = window.JSZip;
+
+        const zip = await JSZip.loadAsync(file);
+
+        const fileNames = Object.keys(zip.files);
+        const totalFiles = fileNames.length;
+        let processedFiles = 0;
+
+        for (const fileName of fileNames) {
+            statusText.innerText = `Reading: ${fileName}`;
+            processedFiles++;
+            percentComplete = Math.round((processedFiles / totalFiles) * 100);
+
+            progressBar.style.width = `${percentComplete}%`;
+            progressBar.setAttribute('aria-valuenow', `${percentComplete}`);
+            progressBar.innerText = `${percentComplete}%`;
+
+            if (fileName.endsWith('.json')) {
+                const jsonFile = await zip.files[fileName].async('string');
+                const jsonData = JSON.parse(jsonFile);
+
+                updateListData(jsonData);
+            }
+        }
+
+        fillListData();
+        statusText.innerText = "All files processed!";
+    } catch (error) {
+        console.error("Error reading ZIP file:", error);
+        progressBarElement.textContent = "Error processing ZIP file. Check console for details.";
+    }
+}
+
+
+function getSelectColumns() {
+    return "link, title, description, page_rating_votes, id";
+}
+
+function unpackResults(res) {
+    results = [];
+
+    if (res.length > 0) {
+       const rows = res[0].values;
+       
+       rows.forEach(row => {
+         const data = {
+           link: row[0],
+           title: row[1],
+           description: row[2],
+           page_rating_votes: row[3],
+           id: row[4]
+         };
+         results.push(data);
+       });
+    }
+
+    return results;
+}
+
+
+function queryDatabase() {
+
+  if (!db) {
+     console.log("queryDatabase - not initialized");
+     return;
+  }
+
+  object_list_data = { entries: [] };
+
+  try {
+       let entry_id = getQueryParam("entry_id");
+       if (entry_id)
+       {
+	  let text = "SELECT " + getSelectColumns();
+          text = text + ' FROM linkdatamodel';
+	  text = text + ` WHERE id = ${entry_id}`;
+
+	  console.log(text);
+
+          const res = db.exec(text);
+
+          results = unpackResults(res);
+          object_list_data.entries = results;
+          fillListData();
+
+          return;
+       }
+
+
+       let userInput = $("#searchInput").val();
+       /* let userInput = getQueryParam("search"); */
+
+       let text = "SELECT " + getSelectColumns();
+
+       if (userInput != "") {
+           if (userInput.indexOf("LIKE") === -1) {
+             // Use LIKE to match userInput in any of the three columns
+             text = text + ` FROM linkdatamodel WHERE title LIKE '%${userInput}%' OR link LIKE '%${userInput}%' OR description LIKE '%${userInput}%'`;
+           } else {
+             // If userInput contains '=', treat it as a full query condition
+             text = text + ` FROM linkdatamodel WHERE ${userInput}`;
+           }
+       }
+       else {
+          text = text + ' FROM linkdatamodel';
+       }
+
+       let page = getQueryParam("page") || 1;
+       const offset = (page - 1) * 100;
+
+       text = text + ` ORDER BY page_rating_votes DESC LIMIT 100 OFFSET ${offset}`;
+
+       console.log("query " + text);
+
+       const res = db.exec(text);
+
+       results = unpackResults(res);
+       object_list_data.entries = results;
+
+       fillListData();
+       console.log("queryDatabase DONE");
+  } catch (error) {
+    console.error('Error loading SQLite database or executing query:', error);
+    progressBarElement.textContent = 'Error loading SQLite database or executing query:' + error;
+  }
+}
+
+
+async function requestFile(dbFileName) {
+  if (db) {
+     return;
+  }
+
+  console.log("requestFile SQL");
+
+  try {
+    const config = {
+      locateFile: filename => `https://cdn.jsdelivr.net/npm/sql.js@1.6.0/dist/${filename}`
+    };
+
+    // Initialize SQL.js with the correct .wasm path
+    const SQL = await initSqlJs(config);
+
+    // Fetch the database file
+    const response = await fetch(dbFileName);
+    const buffer = await response.arrayBuffer();
+
+    // Load the database
+    db = new SQL.Database(new Uint8Array(buffer));
+    console.log("requestFile DONE");
+  } catch (error) {
+    console.error('Error loading SQLite database or executing query:', error);
+    progressBarElement.textContent = 'Error loading SQLite database or executing query:'+ error;
+  }
+}
+
+
 //-----------------------------------------------
 $(document).on('click', '.btnNavigation', function(e) {
     console.log("btnNavigation");
@@ -433,7 +641,7 @@ $(document).on('click', '#helpButton', function(e) {
 
 $(document).on('click', '#homeButton', function(e) {
     console.log("homeButton");
-    let file_name = getQueryParam('file') || "permanent";
+    let file_name = getFileName();
 
     const searchInput = document.getElementById('searchInput');
     searchInput.value = "";
@@ -547,9 +755,9 @@ $(document).on("click", '#displayDark', function(e) {
 });
 
 
-async function initAndQueryDatabase() {
+async function initAndQueryDatabase(dbFileName) {
   if (!object_list_data) {
-    await requestFile(); // Ensure the database is loaded first
+    await requestFile(dbFileName); // Ensure the database is loaded first
     queryDatabase(); // Call queryDatabase after db is initialized
   }
 }
@@ -574,7 +782,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     if (!object_list_data) {
-        initAndQueryDatabase();
+	let file_name = getFileName();
+        initAndQueryDatabase(file_name);
     }
 });
 

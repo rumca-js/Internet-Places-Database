@@ -218,6 +218,8 @@ Do you want to search the database? I have got you covered! Use dataanalyzer.py
 
 First install poetry. Then perform 'poetry update'. Then you can use the script.
 
+Unpack internet.zip, then...
+
 Search for warhammer in link, title, description. Shows title
 ```
 dataanalyzer.py --db internet.db --search "*warhammer*" --title
@@ -228,15 +230,13 @@ Search for warhammer in link name. Shows title, tags
 dataanalyzer.py --db internet.db --search "link=*warhammer*" --title --tags
 ```
 
-## Web page
+## Access via web interface
 
-Start any web server this location. For example:
 ```
-python3 -m http.server 8000
+unpack internet.zip
+python3 -m http.server 8000          # start server
+https://localhost:8000/search.html   # visit
 ```
-
-With this at https://localhost:8000/search.html there should be a page with which you could search.
-
 
 <div align="center">
   <img alt="Project Logo" src="images/its_easy_internet_on_internet.png">

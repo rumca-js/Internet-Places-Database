@@ -22,7 +22,7 @@ function fillOneEntryLink(entry) {
     let page_rating_contents = entry.page_rating_contents;
 
     let entry_link = `/preview.html?entry_id=${entry.id}`;
-    file = getQueryParam("file") || "top";
+    let file = getQueryParam('file') || "internet";
     entry_link += `&file=${file}`;
 
     title = escapeHtml(entry.title)
