@@ -208,7 +208,11 @@ Other
  - artificial intelligence bot - bots that can respond to your queries
  - gatekeeper - platforms that are too big to fail. Monopolies, big tech, etc.
 
-# Data analyzer
+# How to access the data?
+
+Any SQLite database reader software, like DBeaver.
+
+## CLI script
 
 Do you want to search the database? I have got you covered! Use dataanalyzer.py
 
@@ -223,6 +227,16 @@ Search for warhammer in link name. Shows title, tags
 ```
 dataanalyzer.py --db internet.db --search "link=*warhammer*" --title --tags
 ```
+
+## Web page
+
+Start any web server this location. For example:
+```
+python3 -m http.server 8000
+```
+
+With this at https://localhost:8000/search.html there should be a page with which you could search.
+
 
 <div align="center">
   <img alt="Project Logo" src="images/its_easy_internet_on_internet.png">
