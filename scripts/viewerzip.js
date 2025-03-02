@@ -486,7 +486,7 @@ async function unPackFile(file) {
 
 
 function getSelectColumns() {
-    return "link, title, description, page_rating_votes, id";
+    return "id, link, title, description, date_published, author, album, language, permanent, bookmarked, age, status_code, manual_status_code, page_rating, page_rating_votes, page_rating_contents";
 }
 
 function unpackResults(res) {
@@ -497,11 +497,22 @@ function unpackResults(res) {
        
        rows.forEach(row => {
          const data = {
-           link: row[0],
-           title: row[1],
-           description: row[2],
-           page_rating_votes: row[3],
-           id: row[4]
+           id: row[0],
+           link: row[1],
+           title: row[2],
+           description: row[3],
+           date_published: row[4],
+           author: row[5],
+           album: row[6],
+           language: row[7],
+           permanent: row[8],
+           bookmarked: row[9],
+           age: row[10],
+           status_code: row[11],
+           manual_status_code: row[12],
+           page_rating: row[13],
+           page_rating_votes: row[14],
+           page_rating_contents: row[15],
          };
          results.push(data);
        });
@@ -757,8 +768,15 @@ $(document).on("click", '#displayDark', function(e) {
 
 async function initAndQueryDatabase(dbFileName) {
   if (!object_list_data) {
-    await requestFile(dbFileName); // Ensure the database is loaded first
-    queryDatabase(); // Call queryDatabase after db is initialized
+    let spinner_text = getSpinnerText();
+
+    const progressBarElement = document.getElementById('progressBarElement');
+    progressBarElement.innerHTML = spinner_text;
+
+    await requestFile(dbFileName);
+    queryDatabase();
+
+    progressBarElement.innerHTML = '';
   }
 }
 

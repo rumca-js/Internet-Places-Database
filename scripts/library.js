@@ -36,6 +36,22 @@ function escapeHtml(unsafe)
 }
 
 
+function getSpinnerText(text = 'Loading...') {
+   return `<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> ${text}`;
+}
+
+
+function putSpinnerOnIt(button) {
+    button.prop("disabled", true);
+
+    button.html(
+        `<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Loading...`
+    );
+
+    button.parents('form').submit();
+}
+
+
 function GetPaginationNav(currentPage, totalPages, count) {
     totalPages = Math.ceil(totalPages);
 
