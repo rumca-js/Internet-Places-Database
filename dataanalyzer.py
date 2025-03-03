@@ -27,6 +27,7 @@ def print_summary(db):
     engine = create_engine("sqlite:///" + db)
     r = ReflectedEntryTable(engine)
     r.print_summary()
+    r.close()
 
 
 class SearchInterface(object):

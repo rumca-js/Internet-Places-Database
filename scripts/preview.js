@@ -7,6 +7,13 @@ function getEntryText(entry) {
     <div><b>Publish date:</b>${entry.date_published}</div>
     `;
 
+    let tags = selectEntryTags(entry.id);
+    let tagString = Array.from(tags).map(tag => `#${tag}`).join(", ");
+    
+    text += `
+        <div>Tags: ${tagString}</div>
+    `;
+
     text += `
     <div>${entry.description.replace(/\n/g, '<br>')}</div>
     `;

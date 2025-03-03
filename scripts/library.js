@@ -52,7 +52,7 @@ function putSpinnerOnIt(button) {
 }
 
 
-function GetPaginationNav(currentPage, totalPages, count) {
+function GetPaginationNav(currentPage, totalPages, totalRows) {
     totalPages = Math.ceil(totalPages);
 
     if (totalPages <= 1) {
@@ -111,7 +111,7 @@ function GetPaginationNav(currentPage, totalPages, count) {
 
     paginationText += `
             </ul>
-            ${currentPage} / ${totalPages} @ ${count} records.
+            ${currentPage} / ${totalPages} @ ${totalRows}
         </nav>
     `;
 
@@ -211,4 +211,25 @@ function setDarkMode() {
     // const navbar = document.getElementById('navbar');
     // navbar.classList.remove('navbar-light', 'bg-light');
     // navbar.classList.add('navbar-dark', 'bg-dark');
+}
+
+
+function selectEntryTags(entry_id) {
+   let text = `SELECT tag FROM usertags WHERE entry_id = ${entry_id}`;
+
+   let result = new Set();
+
+   console.log(text);
+
+   const res = db.exec(text);
+
+   if (res.length > 0) {
+      const rows = res[0].values;
+
+      rows.forEach(row => {
+         result.add(row[0]);
+      });
+   }
+
+   return Array.from(result); 
 }

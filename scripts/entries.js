@@ -36,6 +36,7 @@ function fillOneEntryLink(entry) {
        title_safe = escapeHtml(entry.title)
     }
     let tags_text = getEntryTags(entry);
+
     let hover_title = title_safe + " " + tags_text;
 
     let source__title = "";

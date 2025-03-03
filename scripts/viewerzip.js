@@ -240,18 +240,17 @@ function fillOneEntry(entry) {
 }
 
 
-function getEntryListText(entries, startIndex = 0, endIndex = 1000) {
+function getEntryListText(entries) {
     let htmlOutput = '';
 
     htmlOutput = `  <span class="container list-group">`;
 
-    if (view_display_type == "gallery")
-    {
+    if (view_display_type == "gallery") {
         htmlOutput += `  <span class="d-flex flex-wrap">`;
     }
 
     if (entries && entries.length > 0) {
-        entries.slice(startIndex, endIndex).forEach((entry, i) => {
+        entries.forEach((entry) => {
             const listItem = fillOneEntry(entry);
 
             if (listItem) {
@@ -262,8 +261,7 @@ function getEntryListText(entries, startIndex = 0, endIndex = 1000) {
         htmlOutput = '<li class="list-group-item">No entries found</li>';
     }
 
-    if (view_display_type == "gallery")
-    {
+    if (view_display_type == "gallery") {
         htmlOutput += `</span>`;
     }
 
@@ -276,56 +274,9 @@ function getEntryListText(entries, startIndex = 0, endIndex = 1000) {
 function fillListDataInternal(entries) {
     $('#statusLine').html("Sorting links");
 
-    if (sort_function == "page_rating_votes") {
-        entries = entries.sort((a, b) => {
-            return a.page_rating_votes - b.page_rating_votes;
-        });
-    }
-    else if (sort_function == "-page_rating_votes") {
-        entries = entries.sort((a, b) => {
-            return b.page_rating_votes - a.page_rating_votes;
-        });
-    }
-    else if (sort_function == "date_published") {
-        entries = entries.sort((a, b) => {
-            if (a.date_published === null && b.date_published === null) {
-                return 0;
-            }
-            if (a.date_published === null) {
-                return 1;
-            }
-            if (b.date_published === null) {
-                return -1;
-            }
-            return new Date(b.date_published) - new Date(a.date_published);
-        });
-    }
-    else if (sort_function == "-date_published") {
-        entries = entries.sort((a, b) => {
-            if (a.date_published === null && b.date_published === null) {
-                return 0;
-            }
-            if (a.date_published === null) {
-                return -1;
-            }
-            if (b.date_published === null) {
-                return 1;
-            }
-            return new Date(a.date_published) - new Date(b.date_published);
-        });
-    }
-
-    let page_num = parseInt(getQueryParam("page")) || 1;
-    let page_size = default_page_size;
-    let countElements = entries.length;
-
-    let start_index = (page_num-1) * page_size;
-    let end_index = page_num * page_size;
-
-    var finished_text = getEntryListText(entries, start_index, end_index);
+    var finished_text = getEntryListText(entries);
 
     $('#listData').html(finished_text);
-    $('#pagination').html(GetPaginationNav(page_num, countElements/page_size, countElements));
 }
 
 
@@ -385,8 +336,6 @@ function fillListData() {
 
 
 function searchInputFunction() {
-    console.log("searchInputFunction");
-
     if (preparingData) {
         $("#statusLine").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Reading data...`);
         return;
@@ -428,11 +377,10 @@ function updateListData(jsonData) {
 }
 
 
-
-async function unPackFile(file) {
-   // Prepare progress bar and output
-   const progressBarElement = document.getElementById('progressBarElement');
-   progressBarElement.innerHTML = '';
+async function unPackFile(fileBlob) {
+    // Prepare progress bar and output
+    const progressBarElement = document.getElementById('progressBarElement');
+    progressBarElement.innerHTML = '';
 
     // Add progress bar to the progressBarElement div
     let percentComplete = 0;
@@ -453,12 +401,14 @@ async function unPackFile(file) {
     try {
         const JSZip = window.JSZip;
 
-        const zip = await JSZip.loadAsync(file);
+        const zip = await JSZip.loadAsync(fileBlob);
 
         const fileNames = Object.keys(zip.files);
         const totalFiles = fileNames.length;
         let processedFiles = 0;
 
+        let dataReady = null; // Placeholder for the data that will be processed
+        
         for (const fileName of fileNames) {
             statusText.innerText = `Reading: ${fileName}`;
             processedFiles++;
@@ -471,12 +421,23 @@ async function unPackFile(file) {
             if (fileName.endsWith('.json')) {
                 const jsonFile = await zip.files[fileName].async('string');
                 const jsonData = JSON.parse(jsonFile);
+                updateListData(jsonData); // Assuming this function is already defined to handle JSON data
+            }
 
-                updateListData(jsonData);
+            // Here we are checking for the appropriate file type (assuming .db file) that we will use to create the SQL.Database
+            if (fileName.endsWith('.db')) {
+                const dbFile = await zip.files[fileName].async('uint8array');
+                dataReady = dbFile;
             }
         }
 
-        fillListData();
+        // Once all files are processed and data is ready, invoke the callback with the data
+        if (dataReady) {
+            return dataReady;
+        } else {
+            console.error("No database file found in the ZIP.");
+        }
+
         statusText.innerText = "All files processed!";
     } catch (error) {
         console.error("Error reading ZIP file:", error);
@@ -485,9 +446,62 @@ async function unPackFile(file) {
 }
 
 
-function getSelectColumns() {
-    return "id, link, title, description, date_published, author, album, language, permanent, bookmarked, age, status_code, manual_status_code, page_rating, page_rating_votes, page_rating_contents";
+async function requestFile(file_name, attempt = 1) {
+    preparingData = true;
+
+    $("#progressBarElement").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Loading data...`);
+
+    try {
+        const response = await fetch(file_name);
+
+        if (!response.ok) {
+            throw new Error(`Failed to fetch file: ${url}, status:${response.statusText}`);
+        }
+
+        const contentLength = response.headers.get("Content-Length");
+        const totalSize = contentLength ? parseInt(contentLength, 10) : 0;
+
+        const reader = response.body.getReader();
+        const decoder = new TextDecoder();
+        let receivedBytes = 0;
+
+        const chunks = [];
+        
+        while (true) {
+            const { done, value } = await reader.read();
+            if (done) {
+                break;
+            }
+            if (value) {
+                receivedBytes += value.length;
+                const percentComplete = ((receivedBytes / totalSize) * 100).toFixed(2);
+
+                $("#progressBarElement").html(`
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: ${percentComplete}%" aria-valuenow="${percentComplete}" aria-valuemin="0" aria-valuemax="100">
+                      ${percentComplete}%
+                    </div>
+                  </div>
+                `);
+
+                chunks.push(value);
+            }
+        }
+
+        const blob = new Blob(chunks);
+
+        return blob;
+    } catch (error) {
+        preparingData = false;
+        console.error("Error in requestFile:", error);
+    }
 }
+
+
+function getSelectColumns() {
+    return "id, link, title, description, date_published, thumbnail, author, album, language, permanent, bookmarked, age, status_code, manual_status_code, page_rating, page_rating_votes, page_rating_contents";
+}
+
 
 function unpackResults(res) {
     results = [];
@@ -496,29 +510,153 @@ function unpackResults(res) {
        const rows = res[0].values;
        
        rows.forEach(row => {
+         let tags = selectEntryTags(row[0]);
+
          const data = {
            id: row[0],
            link: row[1],
            title: row[2],
            description: row[3],
            date_published: row[4],
-           author: row[5],
-           album: row[6],
-           language: row[7],
-           permanent: row[8],
-           bookmarked: row[9],
-           age: row[10],
-           status_code: row[11],
-           manual_status_code: row[12],
-           page_rating: row[13],
-           page_rating_votes: row[14],
-           page_rating_contents: row[15],
+           thumbnail: row[5],
+           author: row[6],
+           album: row[7],
+           language: row[8],
+           permanent: row[9],
+           bookmarked: row[10],
+           age: row[11],
+           status_code: row[12],
+           manual_status_code: row[13],
+           page_rating: row[14],
+           page_rating_votes: row[15],
+           page_rating_contents: row[16],
+           tags : tags,
          };
+
          results.push(data);
        });
     }
 
     return results;
+}
+
+
+function getOrderStmt() {
+   let sort_method = sort_function;
+   let order_method = "ASC";
+
+   if (sort_function.startsWith("-")) {
+      sort_method = sort_function.slice(1);
+      order_method = "DESC";
+   }
+
+   return `ORDER BY ${sort_method} ${order_method}`;
+}
+
+
+let PAGE_SIZE = 100;
+
+
+function getSelectEntry(entry_id) {
+   let text = "SELECT " + getSelectColumns();
+   text = text + ' FROM linkdatamodel';
+   text = text + ` WHERE id = ${entry_id}`;
+
+   return text;
+
+}
+
+
+function getSelectDefault() {
+   let text = "SELECT " + getSelectColumns();
+
+   text = text + ` FROM linkdatamodel`;
+
+   let page = getQueryParam("page") || 1;
+   const offset = (page - 1) * PAGE_SIZE;
+
+   let order_by = getOrderStmt();
+
+   let page_size_query = PAGE_SIZE;
+
+   text = text + ` ${order_by} LIMIT ${page_size_query} OFFSET ${offset}`;
+   return text;
+}
+
+
+function getSelectDefaultUserInput(userInput) {
+   console.log(userInput);
+   let text = "SELECT " + getSelectColumns();
+
+   text = text + ` FROM linkdatamodel WHERE title LIKE '%${userInput}%' OR link LIKE '%${userInput}%' OR description LIKE '%${userInput}%'`;
+
+   let page = getQueryParam("page") || 1;
+   const offset = (page - 1) * PAGE_SIZE;
+
+   let order_by = getOrderStmt();
+
+   let page_size_query = PAGE_SIZE;
+
+   text = text + ` ${order_by} LIMIT ${page_size_query} OFFSET ${offset}`;
+   return text;
+}
+
+
+function getSelectCustomSQL(userInput) {
+
+   let text = "SELECT " + getSelectColumns();
+
+   text = text + ` FROM linkdatamodel WHERE ${userInput}`;
+
+   let page = getQueryParam("page") || 1;
+   const offset = (page - 1) * PAGE_SIZE;
+
+   let order_by = getOrderStmt();
+   let page_size_query = PAGE_SIZE;
+
+   text = text + ` ${order_by} LIMIT ${page_size_query} OFFSET ${offset}`;
+   return text;
+}
+
+
+function performQuery(text) {
+   console.log(text);
+
+   const res = db.exec(text);
+
+   object_list_data.entries = unpackResults(res);
+}
+
+
+function getQueryTotalRows(text) {
+   const fromIndex = text.toUpperCase().indexOf('FROM');
+   
+   if (fromIndex === -1) {
+       return 0;
+   }
+   
+   const offsetIndex = text.toUpperCase().indexOf('OFFSET');
+   
+   if (offsetIndex !== -1) {
+       text = text.slice(0, offsetIndex);
+   }
+
+   text = "SELECT COUNT(*) " + text.slice(fromIndex);
+
+   console.log(text);
+
+   const res = db.exec(text);
+
+   if (res.length > 0) {
+      const rows = res[0].values;
+
+      if (rows.length > 0) {
+          let size = rows[0][0];
+          return size;
+      }
+   }
+
+   return 0;
 }
 
 
@@ -532,57 +670,34 @@ function queryDatabase() {
   object_list_data = { entries: [] };
 
   try {
+       let userInput = $("#searchInput").val();
+
+       /* let userInput = getQueryParam("search"); */
+
+       text = getSelectDefault(userInput);
+
        let entry_id = getQueryParam("entry_id");
        if (entry_id)
        {
-	  let text = "SELECT " + getSelectColumns();
-          text = text + ' FROM linkdatamodel';
-	  text = text + ` WHERE id = ${entry_id}`;
-
-	  console.log(text);
-
-          const res = db.exec(text);
-
-          results = unpackResults(res);
-          object_list_data.entries = results;
-          fillListData();
-
-          return;
+          text = getSelectEntry(entry_id);
        }
 
-
-       let userInput = $("#searchInput").val();
-       /* let userInput = getQueryParam("search"); */
-
-       let text = "SELECT " + getSelectColumns();
-
-       if (userInput != "") {
-           if (userInput.indexOf("LIKE") === -1) {
-             // Use LIKE to match userInput in any of the three columns
-             text = text + ` FROM linkdatamodel WHERE title LIKE '%${userInput}%' OR link LIKE '%${userInput}%' OR description LIKE '%${userInput}%'`;
-           } else {
-             // If userInput contains '=', treat it as a full query condition
-             text = text + ` FROM linkdatamodel WHERE ${userInput}`;
+       if (userInput && userInput != "") {
+           if (userInput.indexOf("LIKE") !== -1) {
+              text = getSelectCustomSQL(userInput);
+           }
+           else {
+              text = getSelectDefaultUserInput(userInput);
            }
        }
-       else {
-          text = text + ' FROM linkdatamodel';
-       }
 
-       let page = getQueryParam("page") || 1;
-       const offset = (page - 1) * 100;
-
-       text = text + ` ORDER BY page_rating_votes DESC LIMIT 100 OFFSET ${offset}`;
-
-       console.log("query " + text);
-
-       const res = db.exec(text);
-
-       results = unpackResults(res);
-       object_list_data.entries = results;
-
+       performQuery(text);
        fillListData();
-       console.log("queryDatabase DONE");
+
+       let total_rows = getQueryTotalRows(text);
+       let page_num = parseInt(getQueryParam("page")) || 1;
+       let nav_text = GetPaginationNav(page_num, total_rows/PAGE_SIZE, total_rows)
+       $('#pagination').html(nav_text);
   } catch (error) {
     console.error('Error loading SQLite database or executing query:', error);
     progressBarElement.textContent = 'Error loading SQLite database or executing query:' + error;
@@ -590,12 +705,12 @@ function queryDatabase() {
 }
 
 
-async function requestFile(dbFileName) {
+async function createDatabase(dbFileName) {
   if (db) {
      return;
   }
 
-  console.log("requestFile SQL");
+  console.log("createDatabase SQL");
 
   try {
     const config = {
@@ -611,7 +726,32 @@ async function requestFile(dbFileName) {
 
     // Load the database
     db = new SQL.Database(new Uint8Array(buffer));
-    console.log("requestFile DONE");
+    console.log("createDatabase DONE");
+  } catch (error) {
+    console.error('Error loading SQLite database or executing query:', error);
+    progressBarElement.textContent = 'Error loading SQLite database or executing query:'+ error;
+  }
+}
+
+
+async function createDatabaseData(dataArray) {
+  if (db) {
+     return;
+  }
+
+  console.log("createDatabase SQL");
+
+  try {
+    const config = {
+      locateFile: filename => `https://cdn.jsdelivr.net/npm/sql.js@1.6.0/dist/${filename}`
+    };
+
+    // Initialize SQL.js with the correct .wasm path
+    const SQL = await initSqlJs(config);
+
+    // Load the database
+    db = new SQL.Database(dataArray);
+    console.log("createDatabase DONE");
   } catch (error) {
     console.error('Error loading SQLite database or executing query:', error);
     progressBarElement.textContent = 'Error loading SQLite database or executing query:'+ error;
@@ -773,7 +913,17 @@ async function initAndQueryDatabase(dbFileName) {
     const progressBarElement = document.getElementById('progressBarElement');
     progressBarElement.innerHTML = spinner_text;
 
-    await requestFile(dbFileName);
+    console.log(dbFileName);
+
+    if (dbFileName.indexOf(".db")) {
+       await createDatabase(dbFileName);
+    }
+    else {
+       blob = requestFile(dbFileName);
+       let data = await unPackFile(blob);
+       await createDatabaseData(data);
+    }
+
     queryDatabase();
 
     progressBarElement.innerHTML = '';
@@ -800,7 +950,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     if (!object_list_data) {
-	let file_name = getFileName();
+	    let file_name = getFileName();
         initAndQueryDatabase(file_name);
     }
 });
