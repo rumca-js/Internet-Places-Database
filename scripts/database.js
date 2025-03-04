@@ -188,6 +188,10 @@ function getQueryTagsText() {
 
 
 function getQueryText() {
+   let userInput = $("#searchInput").val();
+
+   /* let userInput = getQueryParam("search"); */
+
    let text = getSelectDefault(userInput);
 
    let entry_id = getQueryParam("entry_id");
@@ -219,10 +223,6 @@ function queryDatabase() {
   object_list_data = { entries: [] };
 
   try {
-       let userInput = $("#searchInput").val();
-
-       /* let userInput = getQueryParam("search"); */
-
        let text = getQueryText();
        execQuery(text);
        databaseReady();
