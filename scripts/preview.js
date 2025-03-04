@@ -1,3 +1,7 @@
+function getFileName() {
+    let file_name = getQueryParam('file') || "internet";
+    return file_name + ".db";
+}
 
 
 function getEntryText(entry) {
@@ -40,7 +44,7 @@ function getEntryText(entry) {
 }
 
 
-function fillListDataInternalStandard(entry) {
+function fillDataInternalStandard(entry) {
     let text = `
     <div><img src="${entry.thumbnail}" style="max-width:100%;"/></div>
     `;
@@ -51,7 +55,7 @@ function fillListDataInternalStandard(entry) {
 }
 
 
-function fillListDataInternalYouTube(entry) {
+function fillDataInternalYouTube(entry) {
     // Extract the video ID from the YouTube link
     const urlParams = new URL(entry.link).searchParams;
     const videoId = urlParams.get("v");
@@ -79,7 +83,7 @@ function fillListDataInternalYouTube(entry) {
 }
 
 
-function fillListDataInternalOdysee(entry) {
+function fillDataInternalOdysee(entry) {
     // Extract the video ID from the YouTube link
     const url = new URL(entry.link);
     const videoId = url.pathname.split('/').pop();
@@ -107,21 +111,21 @@ function fillListDataInternalOdysee(entry) {
 }
 
 
-function fillListDataInternal(entry) {
+function fillDataInternal(entry) {
     document.title = entry.title;
 
     if (entry.link.startsWith("https://www.youtube.com/watch?v="))
-        return fillListDataInternalYouTube(entry);
+        return fillDataInternalYouTube(entry);
     else if (entry.link.startsWith("https://odysee.com/"))
-        return fillListDataInternalOdysee(entry);
+        return fillDataInternalOdysee(entry);
     else
-        return fillListDataInternalStandard(entry);
+        return fillDataInternalStandard(entry);
 }
 
 
-function fillListDataInternalMultiple(entries) {
+function fillDataInternalMultiple(entries) {
     if (entries.length > 0)
-        return fillListDataInternal(entries[0]);
+        return fillDataInternal(entries[0]);
     else
     {
         $('#detailData').html("Could not find such entry");
@@ -135,7 +139,7 @@ function isEntryIdHit(entry, entry_id) {
 }
 
 
-function fillSearchListData(entry_id) {
+function fillData() {
     let data = object_list_data;
 
     $('#listData').html("");
@@ -148,16 +152,31 @@ function fillSearchListData(entry_id) {
         return;
     }
 
-    fillListDataInternalMultiple(entries);
+    fillDataInternalMultiple(entries);
     $('#statusLine').html("")
 }
 
 
-function fillListData() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const entry_id = urlParams.get('entry_id');
+function databaseReady() {
+    fillData();
+}
 
-    fillSearchListData(entry_id);
+
+async function initAndQueryDatabase(dbFileName) {
+  if (!object_list_data) {
+    let spinner_text = getSpinnerText();
+
+    const progressBarElement = document.getElementById('progressBarElement');
+    progressBarElement.innerHTML = spinner_text;
+
+    console.log(dbFileName);
+
+    await createDatabase(dbFileName);
+
+    queryDatabase();
+
+    progressBarElement.innerHTML = '';
+  }
 }
 
 
