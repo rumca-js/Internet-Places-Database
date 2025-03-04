@@ -241,42 +241,14 @@ function queryDatabase() {
 
 async function createDatabase(dbFileName) {
     if (dbFileName.indexOf(".db")) {
-       await createDatabaseFromFile(dbFileName);
+       let data = await requestFile(dbFileName);
+       await createDatabaseData(data);
     }
     else if (dbFileName.indexOf(".zip")) {
-       blob = requestFile(dbFileName);
+       blob = requestFileChunks(dbFileName);
        let data = await unPackFile(blob);
        await createDatabaseData(data);
     }
-}
-
-
-async function createDatabaseFromFile(dbFileName) {
-  if (db) {
-     return;
-  }
-
-  console.log("createDatabase SQL");
-
-  try {
-    const config = {
-      locateFile: filename => `https://cdn.jsdelivr.net/npm/sql.js@1.6.0/dist/${filename}`
-    };
-
-    // Initialize SQL.js with the correct .wasm path
-    const SQL = await initSqlJs(config);
-
-    // Fetch the database file
-    const response = await fetch(dbFileName);
-    const buffer = await response.arrayBuffer();
-
-    // Load the database
-    db = new SQL.Database(new Uint8Array(buffer));
-    console.log("createDatabase DONE");
-  } catch (error) {
-    console.error('Error loading SQLite database or executing query:', error);
-    progressBarElement.textContent = 'Error loading SQLite database or executing query:'+ error;
-  }
 }
 
 

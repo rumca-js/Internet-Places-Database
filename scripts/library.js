@@ -293,10 +293,13 @@ async function unPackFile(fileBlob, extension=".db", unpackAs='uint8array') {
 }
 
 
-async function requestFile(file_name, attempt = 1) {
+async function requestFileChunks(file_name, attempt = 1) {
     preparingData = true;
 
     $("#progressBarElement").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Loading data...`);
+
+    file_name = file_name + "?i=4";
+    console.log("Requesting file: " + file_name);
 
     try {
         const response = await fetch(file_name);
@@ -340,6 +343,21 @@ async function requestFile(file_name, attempt = 1) {
         return blob;
     } catch (error) {
         preparingData = false;
-        console.error("Error in requestFile:", error);
+        console.error("Error in requestFileChunks:", error);
     }
+}
+
+
+async function requestFile(fileName, attempt = 1) {
+    fileName = fileName + "?i=4";
+
+    console.log("Requesting file: " + fileName);
+
+    // Fetch the database file
+    const response = await fetch(fileName);
+
+    const buffer = await response.arrayBuffer();
+
+    // Load the database
+    return new Uint8Array(buffer);
 }
