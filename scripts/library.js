@@ -17,6 +17,11 @@ let default_page_size = 200;
 let db;
 
 
+function getFileVersion() {
+    return "0";
+}
+
+
 function isMobile() {
     return /Mobi|Android/i.test(navigator.userAgent);
 }
@@ -298,7 +303,7 @@ async function requestFileChunks(file_name, attempt = 1) {
 
     $("#progressBarElement").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Loading data...`);
 
-    file_name = file_name + "?i=4";
+    file_name = file_name + "?i=" + getFileVersion();
     console.log("Requesting file: " + file_name);
 
     try {
@@ -349,7 +354,7 @@ async function requestFileChunks(file_name, attempt = 1) {
 
 
 async function requestFile(fileName, attempt = 1) {
-    fileName = fileName + "?i=4";
+    fileName = fileName + "?i=" + getFileVersion();
 
     console.log("Requesting file: " + fileName);
 
