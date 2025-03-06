@@ -18,7 +18,7 @@ let db;
 
 
 function getFileVersion() {
-    return "0";
+    return "1";
 }
 
 

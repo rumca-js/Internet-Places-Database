@@ -94,28 +94,28 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 Tables, and sizes (will definitely change over time)
 ```
 Table: blockentrylist, Row count: 30
-Table: compactedtags, Row count: 3252
+Table: compactedtags, Row count: 3279
 Table: configurationentry, Row count: 1
 Table: dataexport, Row count: 2
-Table: domains, Row count: 701934
-Table: entryrules, Row count: 8
+Table: domains, Row count: 782639
+Table: entryrules, Row count: 9
 Table: gateway, Row count: 82
-Table: linkdatamodel, Row count: 702549
+Table: linkdatamodel, Row count: 783348
 Table: modelfiles, Row count: 0
 Table: readlater, Row count: 0
 Table: sourcecategories, Row count: 8
 Table: sourcedatamodel, Row count: 11704
 Table: sourcesubcategories, Row count: 13
 Table: user, Row count: 5
-Table: userbookmarks, Row count: 13034
+Table: userbookmarks, Row count: 13052
 Table: usercomments, Row count: 1
-Table: usercompactedtags, Row count: 3252
+Table: usercompactedtags, Row count: 3279
 Table: userconfig, Row count: 3
-Table: userentrytransitionhistory, Row count: 5798
-Table: userentryvisithistory, Row count: 4778
+Table: userentrytransitionhistory, Row count: 5967
+Table: userentryvisithistory, Row count: 4941
 Table: usersearchhistory, Row count: 305
-Table: usertags, Row count: 22376
-Table: uservotes, Row count: 27858
+Table: usertags, Row count: 22542
+Table: uservotes, Row count: 27913
 ```
 
 # Files
