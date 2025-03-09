@@ -22,3 +22,6 @@ clean:
 
 server:
 	python3 -m http.server 8000
+
+summary:
+	poetry run python dataanalyzer.py --summary --db $(SOURCE_FILE)
