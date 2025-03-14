@@ -94,28 +94,28 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 Tables, and sizes (will definitely change over time)
 ```
 Table: blockentrylist, Row count: 30
-Table: compactedtags, Row count: 3287
+Table: compactedtags, Row count: 3305
 Table: configurationentry, Row count: 1
 Table: dataexport, Row count: 0
-Table: domains, Row count: 793695
-Table: entryrules, Row count: 9
+Table: domains, Row count: 815164
+Table: entryrules, Row count: 12
 Table: gateway, Row count: 82
-Table: linkdatamodel, Row count: 792677
+Table: linkdatamodel, Row count: 814242
 Table: modelfiles, Row count: 0
 Table: readlater, Row count: 0
 Table: sourcecategories, Row count: 8
 Table: sourcedatamodel, Row count: 11704
 Table: sourcesubcategories, Row count: 13
 Table: user, Row count: 5
-Table: userbookmarks, Row count: 13060
+Table: userbookmarks, Row count: 13062
 Table: usercomments, Row count: 1
-Table: usercompactedtags, Row count: 3287
+Table: usercompactedtags, Row count: 3305
 Table: userconfig, Row count: 3
-Table: userentrytransitionhistory, Row count: 5979
-Table: userentryvisithistory, Row count: 4985
-Table: usersearchhistory, Row count: 305
-Table: usertags, Row count: 22607
-Table: uservotes, Row count: 27898
+Table: userentrytransitionhistory, Row count: 6091
+Table: userentryvisithistory, Row count: 5001
+Table: usersearchhistory, Row count: 304
+Table: usertags, Row count: 22712
+Table: uservotes, Row count: 27924
 ```
 
 # Files
@@ -166,7 +166,25 @@ You may wonder, why am I writing about search engine "keywords" meta field, if G
 
 # Tags
 
-Each entry can be tagged. Most notable examples of tags
+Some tags are quite obvious:
+
+ - company - if entry exists just to provide information about company
+ - university, museum, etc - if entry provides details about a university, museum, etc.
+ - disinformation / misinformation - self explanatory
+ - news - if it is "news" content farm. Might be also "game news", "tech news", etc.
+ - web spam - anything annoying, not worth, etc.
+ - warhammer - anything that relates to...
+ - radio station
+ - movie - page describing a movie
+ - video game - page describing a video game, etc.
+ - movie - page describing a movie
+ - fan page - pages created by fans, of topics, of people
+ - online tool - some things are web programs, that are not accessible if you are offline
+ - ad business - if page owner work in this sector
+ - nfsw - not safe for work
+ - convention - gathering of hobbyist etc.
+
+Some other notable examples
 
  - open source - if entry is "open source" related
  - personal - if it seems to be a personal website
@@ -174,39 +192,30 @@ Each entry can be tagged. Most notable examples of tags
  - self-host - software that can be self-hosted
  - amiga / commodore  - anything amiga / commodore related
  - demoscene / zx spectrum - related to this kind of music
- - emulator/emulation - anything related to emulators
+ - emulator / emulation - anything related to emulators
  - wtf - for really interesting finds
  - funny - anything that makes me chuckle
  - interesting page design - self explanatory. Some pages are just fun
  - interesting domain name - if domain name is interesting
- - wargames - there are some old blogs about this hobby
+ - wargames / tabletop game - there are some old blogs about this hobby
  - internet archive - valuable resources that protect knowledge
  - reverse engineering
  - hacking / cubersecurity / ctf - quite explanatory
- - convention - you might be interested in one of those
-
-Quite obvious tag names
-
- - company - if entry exists just to provide information about company
- - university, museum, etc - if entry provides details about a university, museum, etc.
- - disinformation / misinformation / conspiracy theories - self explanatory
- - news - if it is "news" content farm. Might be also "game news", "tech news", etc.
- - web spam - anything annoying, not worth, etc.
- - warhammer - anything that relates to...
- - link service - bitly or other services that provide shortened versions of links
- - radio station
- - movie - page describing a movie
- - video game - page describing a video game, etc.
- - movie - page describing a movie
- - fan page - pages created by fans, of topics, of people
- - online tool - some things are web programs, that are not accessible if you are offline
- - monetization - if page includes some kind of monetization, subscription, loot boxes
- - ad business - if page owner work in this sector
+ - ranking page - page which shows items with scores, like metacritic, pepper
+ - image assets / music assets / 
 
 Other
-
- - artificial intelligence bot - bots that can respond to your queries
+ - artificial intelligence bot - AI bot, like chatGPT, etc.
  - gatekeeper - platforms that are too big to fail. Monopolies, big tech, etc.
+ - link service - link service, link shorteners, ad counters
+ - monetization - if page includes some kind of monetization, subscription, loot boxes
+ - gambling - if the page is about gambling
+ - redirect issue - the page is not what it is supposed to be, redirects to some adult page etc.
+ - the left wing - things for democrats, left wing of political spectrum
+ - the right wing - things for republicans, left wing of political spectrum
+ - conspiracy theories / 911
+
+
 
 # How to access the data?
 
