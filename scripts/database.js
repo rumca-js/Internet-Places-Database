@@ -137,7 +137,7 @@ function execQuery(text) {
 }
 
 
-function getQueryTotalRows(text) {
+async function getQueryTotalRows(text) {
    const fromIndex = text.toUpperCase().indexOf('FROM');
    
    if (fromIndex === -1) {
@@ -213,7 +213,7 @@ function getQueryText() {
 }
 
 
-function queryDatabase() {
+async function queryDatabase() {
 
   if (!db) {
      console.log("queryDatabase - not initialized");
@@ -224,6 +224,11 @@ function queryDatabase() {
 
   try {
        let text = getQueryText();
+
+       let userInput = $("#searchInput").val();
+       console.log("Query for text " + userInput);
+       $('#statusLine').html("Searching for text " + userInput);
+
        execQuery(text);
        databaseReady();
 
@@ -231,6 +236,7 @@ function queryDatabase() {
        let page_num = parseInt(getQueryParam("page")) || 1;
        let nav_text = GetPaginationNav(page_num, total_rows/PAGE_SIZE, total_rows)
        $('#pagination').html(nav_text);
+       $('#statusLine').html("")
 
   } catch (error) {
     console.error('Error loading SQLite database or executing query:', error);
@@ -241,7 +247,7 @@ function queryDatabase() {
 
 async function createDatabase(dbFileName) {
     if (dbFileName.indexOf(".db")) {
-       let data = await requestFile(dbFileName);
+       let data = await requestFileChunksUintArray(dbFileName);
        await createDatabaseData(data);
     }
     else if (dbFileName.indexOf(".zip")) {
@@ -258,6 +264,7 @@ async function createDatabaseData(dataArray) {
   }
 
   console.log("createDatabase SQL");
+  $('#statusLine').html("Creating SQL database");
 
   try {
     const config = {
@@ -270,6 +277,8 @@ async function createDatabaseData(dataArray) {
     // Load the database
     db = new SQL.Database(dataArray);
     console.log("createDatabase DONE");
+    $('#statusLine').html("Creating SQL database DONE");
+
   } catch (error) {
     console.error('Error loading SQLite database or executing query:', error);
     progressBarElement.textContent = 'Error loading SQLite database or executing query:'+ error;

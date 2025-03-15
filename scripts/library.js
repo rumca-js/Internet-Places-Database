@@ -241,6 +241,8 @@ function selectEntryTags(entry_id) {
 
 
 async function unPackFile(fileBlob, extension=".db", unpackAs='uint8array') {
+    console.log("unPackFile");
+
     // Prepare progress bar and output
     const progressBarElement = document.getElementById('progressBarElement');
     progressBarElement.innerHTML = '';
@@ -304,7 +306,7 @@ async function requestFileChunks(file_name, attempt = 1) {
     $("#progressBarElement").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Loading data...`);
 
     file_name = file_name + "?i=" + getFileVersion();
-    console.log("Requesting file: " + file_name);
+    console.log("Requesting file chunks: " + file_name);
 
     try {
         const response = await fetch(file_name);
@@ -344,11 +346,86 @@ async function requestFileChunks(file_name, attempt = 1) {
         }
 
         const blob = new Blob(chunks);
+        preparingData = false;
 
         return blob;
     } catch (error) {
         preparingData = false;
         console.error("Error in requestFileChunks:", error);
+    }
+}
+
+async function requestFileChunksUintArray(file_name, attempt = 1) {
+    preparingData = true;
+
+    // Set up the progress bar element initially if it hasn't been set
+    if ($("#progressBarElement").children().length === 0) {
+        $("#progressBarElement").html(`
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+                    0%
+                </div>
+            </div>
+        `);
+    }
+
+    file_name = file_name + "?i=" + getFileVersion();
+    console.log("Requesting file: " + file_name);
+
+    try {
+        const response = await fetch(file_name);
+
+        if (!response.ok) {
+            throw new Error(`Failed to fetch file: ${file_name}, status: ${response.statusText}`);
+        }
+
+        const contentLength = response.headers.get("Content-Length");
+        const totalSize = contentLength ? parseInt(contentLength, 10) : 0;
+
+        const reader = response.body.getReader();
+        let receivedBytes = 0;
+
+        // Create a Uint8Array with a size large enough to hold all chunks
+        const chunks = [];
+
+        while (true) {
+            const { done, value } = await reader.read();
+            if (done) {
+                break;
+            }
+            if (value) {
+                receivedBytes += value.length;
+                const percentComplete = ((receivedBytes / totalSize) * 100).toFixed(2);
+
+                $("#progressBarElement").html(`
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: ${percentComplete}%" aria-valuenow="${percentComplete}" aria-valuemin="0" aria-valuemax="100">
+                      ${percentComplete}%
+                    </div>
+                  </div>
+                `);
+
+                chunks.push(value);
+            }
+        }
+
+        // Combine all chunks into a single Uint8Array
+        const totalBytes = chunks.reduce((acc, chunk) => acc + chunk.length, 0);
+        const uint8Array = new Uint8Array(totalBytes);
+
+        let offset = 0;
+        for (const chunk of chunks) {
+            uint8Array.set(chunk, offset);
+            offset += chunk.length;
+        }
+        preparingData = false;
+
+        return uint8Array;
+
+    } catch (error) {
+        preparingData = false;
+        console.error("Error in requestFileChunks:", error);
+        // Handle error and show a message in the progress bar or another UI element
     }
 }
 

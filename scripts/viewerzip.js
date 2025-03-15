@@ -1,8 +1,6 @@
 
 
 function fillListDataInternal(entries) {
-    $('#statusLine').html("Sorting links");
-
     var finished_text = getEntryListText(entries);
 
     $('#listData').html(finished_text);
@@ -24,7 +22,6 @@ function fillListData() {
     }
 
     fillListDataInternal(entries);
-    $('#statusLine').html("")
 }
 
 
@@ -33,7 +30,7 @@ function databaseReady() {
 }
 
 
-function searchInputFunction() {
+async function searchInputFunction() {
     if (preparingData) {
         $("#statusLine").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Reading data...`);
         return;
@@ -46,7 +43,7 @@ function searchInputFunction() {
     let userInput = $("#searchInput").val();
     document.title = userInput;
 
-    queryDatabase();
+    await queryDatabase();
 }
 
 
@@ -75,9 +72,9 @@ $(document).on('click', '.btnNavigation', function(e) {
 
 
 //-----------------------------------------------
-$(document).on('click', '#searchButton', function(e) {
+$(document).on('click', '#searchButton', async function(e) {
     console.log("searchButton");
-    searchInputFunction();
+    await searchInputFunction();
 });
 
 
@@ -106,11 +103,11 @@ $(document).on('click', '#homeButton', function(e) {
 
 
 //-----------------------------------------------
-$(document).on('keydown', "#searchInput", function(e) {
+$(document).on('keydown', "#searchInput", async function(e) {
     if (e.key === "Enter") {
         e.preventDefault();
 
-        searchInputFunction();
+        await searchInputFunction();
     }
 });
 
