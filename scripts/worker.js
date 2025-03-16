@@ -14,6 +14,13 @@ self.onmessage = async function (e) {
     try {
         // If the database isn't already loaded, load it from binary data
         if (!db) {
+           const dbExists = await checkIfDatabaseExists("/internet.db");
+
+           if (!dbExists) {
+               postMessage({ success: false, error: "Database 'internet.db' not found." });
+               return;
+           }
+
 	   console.log("Worker - creating DB");
            await createDatabase("internet.db");
 	   console.log("Worker - creating DB DONE");
@@ -30,8 +37,31 @@ self.onmessage = async function (e) {
 	console.log("Worker - Sending respone");
 
         // Send the result back to the main thread
-        postMessage({ success: true, result: object_list_data});
+        postMessage({ success: true, message_type: "entries", result: object_list_data});
+
+        let total_rows = await getQueryTotalRows(query);
+        console.log("Worker - query total rows " + total_rows);
+        postMessage({ success: true, message_type: "pagination", result: total_rows});
+        console.log("Worker - DONE");
+
     } catch (error) {
         postMessage({ success: false, error: error.message });
     }
 };
+
+
+
+async function checkIfDatabaseExists(url) {
+    try {
+        const response = await fetch(url, { method: 'HEAD' });
+
+        if (response.ok) {
+            return true;
+        } else {
+            return false;
+        }
+    } catch (error) {
+        console.error("Error checking if database exists:", error);
+        return false;
+    }
+}

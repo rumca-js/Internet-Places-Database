@@ -177,7 +177,6 @@ async function queryDatabaseLocal() {
     let spinner_text = getSpinnerText();
     $('#statusLine').html(spinner_text + " Searching");
 
-    //const query = "SELECT * FROM linkdatamodel LIMIT 100";  // Your SQL query
     let query = getQueryText();
     worker.postMessage({ query });
     console.log("Sent message: " + query);
@@ -192,11 +191,13 @@ async function initWorker() {
     worker = new Worker('scripts/worker.js?i=' + getFileVersion());
 
     worker.onmessage = function (e) {
-        const { success, result, error } = e.data;
+        const { success, message_type, result, error } = e.data;
         if (success) {
-            object_list_data = result;
-            databaseReady();
-            $('#statusLine').html("");
+            if (message_type == "entries") {
+                 object_list_data = result;
+                 databaseReady();
+                 $('#statusLine').html("");
+	    }
         } else {
             console.error('Worker error:', error);
         }

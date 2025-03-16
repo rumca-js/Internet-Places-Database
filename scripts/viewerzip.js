@@ -41,12 +41,25 @@ async function initWorker() {
     worker = new Worker('scripts/worker.js?i=' + getFileVersion());
 
     worker.onmessage = function (e) {
-        const { success, result, error } = e.data;
+        const { success, message_type, result, error } = e.data;
         if (success) {
-            object_list_data = result;
-            databaseReady();
-            $('#statusLine').html("");
+            if (message_type == "entries") {
+                 object_list_data = result;
+                 databaseReady();
+                 $('#statusLine').html("");
+	    }
+            else if (message_type == "pagination") {
+                 let total_rows = result;
+                 let page_num = parseInt(getQueryParam("page")) || 1;
+                 let nav_text = GetPaginationNav(page_num, total_rows/PAGE_SIZE, total_rows)
+                 console.log("total rows: " + total_rows);
+                 console.log("page num: " + page_num);
+                 console.log("page size: " + PAGE_SIZE);
+
+                 $('#pagination').html(nav_text);
+	    }
         } else {
+            $('#statusLine').html('Worker error: '+ error);
             console.error('Worker error:', error);
         }
     };
@@ -279,7 +292,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     if (!object_list_data) {
-	    let file_name = getFileName();
+        let file_name = getFileName();
         initAndQueryDatabase(file_name);
     }
 });
