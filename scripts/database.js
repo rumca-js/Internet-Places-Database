@@ -227,16 +227,14 @@ async function queryDatabase() {
 
        let userInput = $("#searchInput").val();
        console.log("Query for text " + userInput);
-       $('#statusLine').html("Searching for text " + userInput);
 
        execQuery(text);
-       databaseReady();
 
-       let total_rows = getQueryTotalRows(text);
-       let page_num = parseInt(getQueryParam("page")) || 1;
-       let nav_text = GetPaginationNav(page_num, total_rows/PAGE_SIZE, total_rows)
-       $('#pagination').html(nav_text);
-       $('#statusLine').html("")
+       // TODO add this to results
+       //let total_rows = getQueryTotalRows(text);
+       //let page_num = parseInt(getQueryParam("page")) || 1;
+       //let nav_text = GetPaginationNav(page_num, total_rows/PAGE_SIZE, total_rows)
+       //$('#pagination').html(nav_text);
 
   } catch (error) {
     console.error('Error loading SQLite database or executing query:', error);
@@ -247,11 +245,11 @@ async function queryDatabase() {
 
 async function createDatabase(dbFileName) {
     if (dbFileName.indexOf(".db")) {
-       let data = await requestFileChunksUintArray(dbFileName);
+       let data = await requestFileChunksUintArray("/" + dbFileName);
        await createDatabaseData(data);
     }
     else if (dbFileName.indexOf(".zip")) {
-       blob = requestFileChunks(dbFileName);
+       blob = requestFileChunks("/" + dbFileName);
        let data = await unPackFile(blob);
        await createDatabaseData(data);
     }
@@ -263,8 +261,7 @@ async function createDatabaseData(dataArray) {
      return;
   }
 
-  console.log("createDatabase SQL");
-  $('#statusLine').html("Creating SQL database");
+  console.log("createDatabaseData");
 
   try {
     const config = {
@@ -276,8 +273,7 @@ async function createDatabaseData(dataArray) {
 
     // Load the database
     db = new SQL.Database(dataArray);
-    console.log("createDatabase DONE");
-    $('#statusLine').html("Creating SQL database DONE");
+    console.log("createDatabaseData DONE");
 
   } catch (error) {
     console.error('Error loading SQLite database or executing query:', error);

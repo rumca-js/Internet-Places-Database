@@ -1,3 +1,6 @@
+let worker = null;
+let db = null;
+let object_list_data = null;
 
 
 function fillListDataInternal(entries) {
@@ -30,6 +33,61 @@ function databaseReady() {
 }
 
 
+async function initWorker() {
+    console.log("Init worker");
+    let spinner_text = getSpinnerText();
+    $('#statusLine').html(spinner_text + " Initializing worker");
+
+    worker = new Worker('scripts/worker.js?i=' + getFileVersion());
+
+    worker.onmessage = function (e) {
+        const { success, result, error } = e.data;
+        if (success) {
+            object_list_data = result;
+            databaseReady();
+            $('#statusLine').html("");
+        } else {
+            console.error('Worker error:', error);
+        }
+    };
+    console.log("Init worker done");
+    $('#statusLine').html("");
+}
+
+
+async function initAndQueryDatabase(dbFileName) {
+  if (!object_list_data) {
+    let spinner_text = getSpinnerText();
+
+    const progressBarElement = document.getElementById('progressBarElement');
+    progressBarElement.innerHTML = spinner_text;
+
+    console.log(dbFileName);
+    if (!worker) {
+       initWorker();
+    }
+
+    progressBarElement.innerHTML = '';
+  }
+}
+
+
+async function queryDatabaseLocal() {
+    if (!worker) {
+        console.log("No worker");
+        return;
+    }
+
+    let spinner_text = getSpinnerText();
+    $('#statusLine').html(spinner_text + " Searching");
+
+    //const query = "SELECT * FROM linkdatamodel LIMIT 100";  // Your SQL query
+    let query = getQueryText();
+    worker.postMessage({ query });
+    console.log("Sent message: " + query);
+}
+
+
 async function searchInputFunction() {
     if (preparingData) {
         $("#statusLine").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Reading data...`);
@@ -43,7 +101,7 @@ async function searchInputFunction() {
     let userInput = $("#searchInput").val();
     document.title = userInput;
 
-    await queryDatabase();
+    await queryDatabaseLocal();
 }
 
 
@@ -54,7 +112,7 @@ function getFileName() {
 
 
 //-----------------------------------------------
-$(document).on('click', '.btnNavigation', function(e) {
+$(document).on('click', '.btnNavigation', async function(e) {
     console.log("btnNavigation");
     e.preventDefault();
 
@@ -67,7 +125,7 @@ $(document).on('click', '.btnNavigation', function(e) {
 
     $('html, body').animate({ scrollTop: 0 }, 'slow');
 
-    queryDatabase();
+    await queryDatabaseLocal();
 });
 
 
@@ -113,7 +171,7 @@ $(document).on('keydown', "#searchInput", async function(e) {
 
 
 //-----------------------------------------------
-$(document).on('click', '#orderByVotes', function(e) {
+$(document).on('click', '#orderByVotes', async function(e) {
     console.log("orderByVotes");
     if (sort_function == "-page_rating_votes")
     {
@@ -135,12 +193,12 @@ $(document).on('click', '#orderByVotes', function(e) {
         window.history.pushState({}, '', currentUrl);
     }
 
-    queryDatabase();
+    await queryDatabaseLocal();
 });
 
 
 //-----------------------------------------------
-$(document).on('click', '#orderByDatePublished', function(e) {
+$(document).on('click', '#orderByDatePublished', async function(e) {
     if (sort_function == "date_published")
     {
         sort_function = "-date_published";
@@ -161,7 +219,7 @@ $(document).on('click', '#orderByDatePublished', function(e) {
         window.history.pushState({}, '', currentUrl);
     }
 
-    queryDatabase();
+    await queryDatabaseLocal();
 });
 
 
@@ -200,22 +258,6 @@ $(document).on("click", '#displayDark', function(e) {
 });
 
 
-async function initAndQueryDatabase(dbFileName) {
-  if (!object_list_data) {
-    let spinner_text = getSpinnerText();
-
-    const progressBarElement = document.getElementById('progressBarElement');
-    progressBarElement.innerHTML = spinner_text;
-
-    console.log(dbFileName);
-
-    await createDatabase(dbFileName);
-
-    queryDatabase();
-
-    progressBarElement.innerHTML = '';
-  }
-}
 
 
 document.addEventListener('DOMContentLoaded', () => {

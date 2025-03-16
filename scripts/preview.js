@@ -1,3 +1,8 @@
+let worker = null;
+let db = null;
+let object_list_data = null;
+
+
 function getFileName() {
     let file_name = getQueryParam('file') || "internet";
     return file_name + ".db";
@@ -11,8 +16,9 @@ function getEntryText(entry) {
     <div><b>Publish date:</b>${entry.date_published}</div>
     `;
 
-    let tags = selectEntryTags(entry.id);
-    let tagString = Array.from(tags).map(tag => `#${tag}`).join(", ");
+    //let tags = selectEntryTags(entry.id);
+    //let tagString = Array.from(tags).map(tag => `#${tag}`).join(", ");
+    let tagString = "";
     
     text += `
         <div>Tags: ${tagString}</div>
@@ -162,6 +168,50 @@ function databaseReady() {
 }
 
 
+async function queryDatabaseLocal() {
+    if (!worker) {
+        console.log("No worker");
+        return;
+    }
+
+    let spinner_text = getSpinnerText();
+    $('#statusLine').html(spinner_text + " Searching");
+
+    //const query = "SELECT * FROM linkdatamodel LIMIT 100";  // Your SQL query
+    let query = getQueryText();
+    worker.postMessage({ query });
+    console.log("Sent message: " + query);
+}
+
+
+async function initWorker() {
+    console.log("Init worker");
+    let spinner_text = getSpinnerText();
+    $('#statusLine').html(spinner_text + " Initializing worker");
+
+    worker = new Worker('scripts/worker.js?i=' + getFileVersion());
+
+    worker.onmessage = function (e) {
+        const { success, result, error } = e.data;
+        if (success) {
+            object_list_data = result;
+            databaseReady();
+            $('#statusLine').html("");
+        } else {
+            console.error('Worker error:', error);
+        }
+    };
+
+    console.log("Init worker done");
+
+    $('#statusLine').html(spinner_text + " Querying database");
+
+    await queryDatabaseLocal();
+
+    $('#statusLine').html("");
+}
+
+
 async function initAndQueryDatabase(dbFileName) {
   if (!object_list_data) {
     let spinner_text = getSpinnerText();
@@ -170,10 +220,9 @@ async function initAndQueryDatabase(dbFileName) {
     progressBarElement.innerHTML = spinner_text;
 
     console.log(dbFileName);
-
-    await createDatabase(dbFileName);
-
-    queryDatabase();
+    if (!worker) {
+       initWorker();
+    }
 
     progressBarElement.innerHTML = '';
   }

@@ -11,14 +11,12 @@ let view_show_icons = false;
 let view_small_icons = false;
 let show_pure_links = true;
 let highlight_bookmarks = false;
-let object_list_data = null;
 let sort_function = "-page_rating_votes"; // page_rating_votes, date_published
 let default_page_size = 200;
-let db;
 
 
 function getFileVersion() {
-    return "1";
+    return "40";
 }
 
 
@@ -303,7 +301,7 @@ async function unPackFile(fileBlob, extension=".db", unpackAs='uint8array') {
 async function requestFileChunks(file_name, attempt = 1) {
     preparingData = true;
 
-    $("#progressBarElement").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Loading data...`);
+    //$("#progressBarElement").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Loading data...`);
 
     file_name = file_name + "?i=" + getFileVersion();
     console.log("Requesting file chunks: " + file_name);
@@ -333,13 +331,13 @@ async function requestFileChunks(file_name, attempt = 1) {
                 receivedBytes += value.length;
                 const percentComplete = ((receivedBytes / totalSize) * 100).toFixed(2);
 
-                $("#progressBarElement").html(`
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: ${percentComplete}%" aria-valuenow="${percentComplete}" aria-valuemin="0" aria-valuemax="100">
-                      ${percentComplete}%
-                    </div>
-                  </div>
-                `);
+                //$("#progressBarElement").html(`
+                //  <div class="progress">
+                //    <div class="progress-bar" role="progressbar" style="width: ${percentComplete}%" aria-valuenow="${percentComplete}" aria-valuemin="0" aria-valuemax="100">
+                //      ${percentComplete}%
+                //    </div>
+                //  </div>
+                //`);
 
                 chunks.push(value);
             }
@@ -359,15 +357,15 @@ async function requestFileChunksUintArray(file_name, attempt = 1) {
     preparingData = true;
 
     // Set up the progress bar element initially if it hasn't been set
-    if ($("#progressBarElement").children().length === 0) {
-        $("#progressBarElement").html(`
-            <div class="progress">
-                <div class="progress-bar" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
-                    0%
-                </div>
-            </div>
-        `);
-    }
+    //if ($("#progressBarElement").children().length === 0) {
+    //    $("#progressBarElement").html(`
+    //        <div class="progress">
+    //            <div class="progress-bar" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+    //                0%
+    //            </div>
+    //        </div>
+    //    `);
+    //}
 
     file_name = file_name + "?i=" + getFileVersion();
     console.log("Requesting file: " + file_name);
@@ -397,13 +395,13 @@ async function requestFileChunksUintArray(file_name, attempt = 1) {
                 receivedBytes += value.length;
                 const percentComplete = ((receivedBytes / totalSize) * 100).toFixed(2);
 
-                $("#progressBarElement").html(`
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: ${percentComplete}%" aria-valuenow="${percentComplete}" aria-valuemin="0" aria-valuemax="100">
-                      ${percentComplete}%
-                    </div>
-                  </div>
-                `);
+                //$("#progressBarElement").html(`
+                //  <div class="progress">
+                //    <div class="progress-bar" role="progressbar" style="width: ${percentComplete}%" aria-valuenow="${percentComplete}" aria-valuemin="0" aria-valuemax="100">
+                //      ${percentComplete}%
+                //    </div>
+                //  </div>
+                //`);
 
                 chunks.push(value);
             }
