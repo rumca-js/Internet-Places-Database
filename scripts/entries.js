@@ -86,6 +86,140 @@ function getDeadBadge(entry, overflow=false) {
     return badge_text;
 }
 
+/**
+ * Detail view
+ *
+ *
+ */
+
+
+function getEntryBodyText(entry) {
+    let text = `
+    <a href="${entry.link}"><h1>${entry.title}</h1></a>
+    <div><a href="${entry.link}">${entry.link}</a></div>
+    <div><b>Publish date:</b>${entry.date_published}</div>
+    `;
+
+    //let tags = selectEntryTags(entry.id);
+    //let tagString = Array.from(tags).map(tag => `#${tag}`).join(", ");
+    let tagString = "";
+    
+    text += `
+        <div>Tags: ${tagString}</div>
+    `;
+
+    text += `
+    <div>${entry.description.replace(/\n/g, '<br>')}</div>
+    `;
+
+    text += `
+    <h3>Parameters</h3>
+    <div>Language: ${entry.language}</div>
+    <div>Points: ${entry.page_rating}|${entry.page_rating_votes}|${entry.page_rating_contents}</div>
+    `;
+
+    if (entry.date_dead_since)
+        text += `<div>Dead since:${entry.date_dead_since}</div>`;
+
+    text += `
+    <div>Author: ${entry.author}</div>
+    <div>Album: ${entry.album}</div>
+    <div>Status code: ${entry.status_code}</div>
+    <div>Manual status code: ${entry.manual_status_code}</div>
+    <div>Permanent: ${entry.permanent}</div>
+    <div>Age: ${entry.age}</div>
+    `;
+
+    return text;
+}
+
+
+function getEntryFullTextStandard(entry) {
+    let text = `
+    <div><img src="${entry.thumbnail}" style="max-width:100%;"/></div>
+    `;
+
+    text += getEntryBodyText(entry);
+
+    return text;
+}
+
+
+function getEntryFullTextYouTube(entry) {
+    // Extract the video ID from the YouTube link
+    const urlParams = new URL(entry.link).searchParams;
+    const videoId = urlParams.get("v");
+
+    // Construct the embed URL
+    const embedUrl = videoId ? `https://www.youtube.com/embed/${videoId}` : "";
+
+    // Build the HTML content
+    let text = "";
+
+    // Add the embedded YouTube player if a valid video ID exists
+    if (videoId) {
+        text += `
+        <div>
+        <div class="youtube_player_container">
+            <iframe src="${embedUrl}" frameborder="0" allowfullscreen class="youtube_player_frame" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        </div>
+        `;
+    }
+
+    text += getEntryBodyText(entry);
+
+    return text;
+}
+
+
+function getEntryFullTextOdysee(entry) {
+    // Extract the video ID from the YouTube link
+    const url = new URL(entry.link);
+    const videoId = url.pathname.split('/').pop();
+
+    // Construct the embed URL
+    const embedUrl = videoId ? `https://odysee.com/$/embed/${videoId}` : "";
+
+    // Build the HTML content
+    let text = "";
+
+    // Add the embedded YouTube player if a valid video ID exists
+    if (videoId) {
+        text += `
+        <div>
+        <div class="youtube_player_container">
+            <iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" width="100%" height="100%" src="${embedUrl}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+        </div>
+        </div>
+        `;
+    }
+
+    text += getEntryBodyText(entry);
+
+    return text;
+}
+
+
+function getEntryDetailText(entry) {
+    let text = "";
+
+    if (entry.link.startsWith("https://www.youtube.com/watch?v="))
+        text = getEntryFullTextYouTube(entry);
+    else if (entry.link.startsWith("https://odysee.com/"))
+        text = getEntryFullTextOdysee(entry);
+    else
+        text = getEntryFullTextStandard(entry);
+
+    return text;
+}
+
+
+/**
+ * LIST VIEWS
+ *
+ */
+
 
 function entryStandardTemplate(entry, show_icons = true, small_icons = false) {
     let page_rating_votes = entry.page_rating_votes;
@@ -280,17 +414,17 @@ function entryGalleryTemplateMobile(entry, show_icons = true, small_icons = fals
 }
 
 
-function fillOneEntry(entry) {
+function getOneEntryText(entry) {
     if (entry.link) {
-       return fillOneEntryLink(entry);
+       return getOneEntryEntryText(entry);
     }
     if (entry.url) {
-       return fillOneEntrySource(entry);
+       return getOneEntrySourceText(entry);
     }
 }
 
 
-function getEntryListText(entries) {
+function getEntriesList(entries) {
     let htmlOutput = '';
 
     htmlOutput = `  <span class="container list-group">`;
@@ -301,7 +435,7 @@ function getEntryListText(entries) {
 
     if (entries && entries.length > 0) {
         entries.forEach((entry) => {
-            const listItem = fillOneEntry(entry);
+            const listItem = getOneEntryText(entry);
 
             if (listItem) {
                 htmlOutput += listItem;
@@ -321,7 +455,7 @@ function getEntryListText(entries) {
 }
 
 
-function fillOneEntryLink(entry) {
+function getOneEntryEntryText(entry) {
     let datePublished = new Date(entry.date_published);
     if (isNaN(datePublished)) {
         datePublished = new Date();

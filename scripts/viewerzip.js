@@ -20,7 +20,7 @@ function getFileName() {
 
 
 function fillListDataInternal(entries) {
-    var finished_text = getEntryListText(entries);
+    var finished_text = getEntriesList(entries);
 
     $('#listData').html(finished_text);
 }
