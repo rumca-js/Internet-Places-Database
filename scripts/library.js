@@ -16,7 +16,7 @@ let default_page_size = 200;
 
 
 function getFileVersion() {
-    return "60";
+    return "61";
 }
 
 
@@ -125,63 +125,6 @@ function GetPaginationNav(currentPage, totalPages, totalRows) {
 /** functions **/
 
 
-function getVotesBadge(page_rating_votes, overflow=false) {
-    let style = "font-size: 0.8rem;"
-    if (overflow) {
-        style = "position: absolute; top: 5px; right: 30px;" + style;
-    }
-
-    let badge_text = page_rating_votes > 0 ? `
-        <span class="badge text-bg-warning" style="${style}">
-            ${page_rating_votes}
-        </span>` : '';
-
-    return badge_text;
-}
-
-
-function getBookmarkBadge(entry, overflow=false) {
-    let style = "font-size: 0.8rem;"
-    if (overflow) {
-        style = "position: absolute; top: 5px; right: 5px;" + style;
-    }
-
-    let badge_star = entry.bookmarked ? `
-        <span class="badge text-bg-warning" style="${style}">
-            ★
-        </span>` : '';
-    return badge_star;
-}
-
-
-function getAgeBadge(entry, overflow=false) {
-    let style = "font-size: 0.8rem;"
-    if (overflow) {
-        style = "position: absolute; top: 30px; right: 5px;" + style;
-    }
-
-    let badge_text = entry.age > 0 ? `
-        <span class="badge text-bg-warning" style="${style}">
-            A
-        </span>` : '';
-    return badge_text;
-}
-
-
-function getDeadBadge(entry, overflow=false) {
-    let style = "font-size: 0.8rem;"
-    if (overflow) {
-        style = "position: absolute; top: 30px; right: 30px;" + style;
-    }
-
-    let badge_text = entry.date_dead_since ? `
-        <span class="badge text-bg-warning" style="${style}">
-            D
-        </span>` : '';
-    return badge_text;
-}
-
-
 function setLightMode() {
     view_display_style = "style-light";
 
@@ -214,27 +157,6 @@ function setDarkMode() {
     // const navbar = document.getElementById('navbar');
     // navbar.classList.remove('navbar-light', 'bg-light');
     // navbar.classList.add('navbar-dark', 'bg-dark');
-}
-
-
-function selectEntryTags(entry_id) {
-   let text = `SELECT tag FROM usertags WHERE entry_id = ${entry_id}`;
-
-   let result = new Set();
-
-   console.log(text);
-
-   const res = db.exec(text);
-
-   if (res.length > 0) {
-      const rows = res[0].values;
-
-      rows.forEach(row => {
-         result.add(row[0]);
-      });
-   }
-
-   return Array.from(result); 
 }
 
 
@@ -379,8 +301,6 @@ async function unPackFileJSONS(file) {
         //progressBarElement.textContent = "Error processing ZIP file. Check console for details.";
     }
 }
-
-
 
 
 async function requestFileChunks(file_name, attempt = 1) {

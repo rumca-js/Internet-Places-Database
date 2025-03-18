@@ -12,6 +12,27 @@ function getSelectColumns() {
 }
 
 
+function selectEntryTags(entry_id) {
+   let text = `SELECT tag FROM usertags WHERE entry_id = ${entry_id}`;
+
+   let result = new Set();
+
+   console.log(text);
+
+   const res = db.exec(text);
+
+   if (res.length > 0) {
+      const rows = res[0].values;
+
+      rows.forEach(row => {
+         result.add(row[0]);
+      });
+   }
+
+   return Array.from(result); 
+}
+
+
 function unpackQueryResults(res) {
     results = [];
 

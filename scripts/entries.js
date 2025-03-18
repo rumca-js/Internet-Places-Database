@@ -30,6 +30,63 @@ function getEntryAuthorText(entry) {
 }
 
 
+function getVotesBadge(page_rating_votes, overflow=false) {
+    let style = "font-size: 0.8rem;"
+    if (overflow) {
+        style = "position: absolute; top: 5px; right: 30px;" + style;
+    }
+
+    let badge_text = page_rating_votes > 0 ? `
+        <span class="badge text-bg-warning" style="${style}">
+            ${page_rating_votes}
+        </span>` : '';
+
+    return badge_text;
+}
+
+
+function getBookmarkBadge(entry, overflow=false) {
+    let style = "font-size: 0.8rem;"
+    if (overflow) {
+        style = "position: absolute; top: 5px; right: 5px;" + style;
+    }
+
+    let badge_star = entry.bookmarked ? `
+        <span class="badge text-bg-warning" style="${style}">
+            ★
+        </span>` : '';
+    return badge_star;
+}
+
+
+function getAgeBadge(entry, overflow=false) {
+    let style = "font-size: 0.8rem;"
+    if (overflow) {
+        style = "position: absolute; top: 30px; right: 5px;" + style;
+    }
+
+    let badge_text = entry.age > 0 ? `
+        <span class="badge text-bg-warning" style="${style}">
+            A
+        </span>` : '';
+    return badge_text;
+}
+
+
+function getDeadBadge(entry, overflow=false) {
+    let style = "font-size: 0.8rem;"
+    if (overflow) {
+        style = "position: absolute; top: 30px; right: 30px;" + style;
+    }
+
+    let badge_text = entry.date_dead_since ? `
+        <span class="badge text-bg-warning" style="${style}">
+            D
+        </span>` : '';
+    return badge_text;
+}
+
+
 function entryStandardTemplate(entry, show_icons = true, small_icons = false) {
     let page_rating_votes = entry.page_rating_votes;
 
