@@ -4,10 +4,15 @@ let object_list_data = null;
 
 
 function getFileName() {
-    let file_name = getQueryParam('file') || "/internet.db";
+    let file_name = getQueryParam('file') || "internet.db";
 
-    //if (file_name.indexOf(".zip") === -1 && file_name.indexOf(".db") === -1)
-    //    return file_name + ".db";
+    let adir = "/";
+
+    if (file_name.indexOf(".zip") === -1 && file_name.indexOf(".db") === -1)
+        file_name = file_name + ".db";
+
+    if (file_name.indexOf(adir) === -1)
+	file_name = adir + file_name
 
     return file_name;
 }
