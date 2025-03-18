@@ -273,7 +273,6 @@ I have my own opinions, with which you do not have to agree. Most of tags, votes
 - [x] Advertise in indie web sources. Potentially: HN, reddit self-host, reddit web scraping forums. Amiga board. Nice, hackery places
 - [x] Provide binary releases. SQLlite database, so that it would be easily imported by other tools
 - [x] Establish plan for binary releases
-- [ ] Create a browser extension. The extension should provide domain info for each link. Provides rating according to page_rating, and since when page operates. The longer domain is active - the better
 - [ ] Create mobile app for searching. Upload to Google play & F-Droid
 - [ ] Gather data using VPN, to receive english meta information
 - [ ] Secure funds for a organisation. Kickstarter?

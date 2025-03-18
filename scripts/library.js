@@ -16,7 +16,7 @@ let default_page_size = 200;
 
 
 function getFileVersion() {
-    return "48";
+    return "60";
 }
 
 
@@ -238,34 +238,46 @@ function selectEntryTags(entry_id) {
 }
 
 
-async function unPackFile(fileBlob, extension=".db", unpackAs='uint8array') {
+async function checkIfFileExists(url) {
+    try {
+        const response = await fetch(url, { method: 'HEAD' });
+
+        if (response.ok) {
+            return true;
+        } else {
+            return false;
+        }
+    } catch (error) {
+        console.error("Error checking if database exists:", error);
+        return false;
+    }
+}
+
+
+async function unPackFile(zip, fileBlob, extension=".db", unpackAs='uint8array') {
     console.log("unPackFile");
 
     // Prepare progress bar and output
-    const progressBarElement = document.getElementById('progressBarElement');
-    progressBarElement.innerHTML = '';
+    //const progressBarElement = document.getElementById('progressBarElement');
+    //progressBarElement.innerHTML = '';
 
     // Add progress bar to the progressBarElement div
     let percentComplete = 0;
-    const progressBarHTML = `
-        <div class="progress">
-            <div class="progress-bar" role="progressbar" style="width: ${percentComplete}%" 
-                aria-valuenow="${percentComplete}" aria-valuemin="0" aria-valuemax="100">
-                ${percentComplete}%
-            </div>
-        </div>
-        <span class="status-text">Loading blob file...</span>
-    `;
-    progressBarElement.innerHTML = progressBarHTML;
+    //const progressBarHTML = `
+    //    <div class="progress">
+    //        <div class="progress-bar" role="progressbar" style="width: ${percentComplete}%" 
+    //            aria-valuenow="${percentComplete}" aria-valuemin="0" aria-valuemax="100">
+    //            ${percentComplete}%
+    //        </div>
+    //    </div>
+    //    <span class="status-text">Loading blob file...</span>
+    //`;
+    //progressBarElement.innerHTML = progressBarHTML;
 
-    const progressBar = progressBarElement.querySelector('.progress-bar');
-    const statusText = progressBarElement.querySelector('.status-text');
+    //const progressBar = progressBarElement.querySelector('.progress-bar');
+    //const statusText = progressBarElement.querySelector('.status-text');
 
     try {
-        const JSZip = window.JSZip;
-
-        const zip = await JSZip.loadAsync(fileBlob);
-
         const fileNames = Object.keys(zip.files);
         const totalFiles = fileNames.length;
         let processedFiles = 0;
@@ -273,13 +285,13 @@ async function unPackFile(fileBlob, extension=".db", unpackAs='uint8array') {
         let dataReady = null; // Placeholder for the data that will be processed
         
         for (const fileName of fileNames) {
-            statusText.innerText = `Reading: ${fileName}`;
+            //statusText.innerText = `Reading: ${fileName}`;
             processedFiles++;
             percentComplete = Math.round((processedFiles / totalFiles) * 100);
 
-            progressBar.style.width = `${percentComplete}%`;
-            progressBar.setAttribute('aria-valuenow', `${percentComplete}`);
-            progressBar.innerText = `${percentComplete}%`;
+            //progressBar.style.width = `${percentComplete}%`;
+            //progressBar.setAttribute('aria-valuenow', `${percentComplete}`);
+            //progressBar.innerText = `${percentComplete}%`;
 
             if (fileName.endsWith(extension)) {
                 const dbFile = await zip.files[fileName].async(unpackAs);
@@ -290,12 +302,85 @@ async function unPackFile(fileBlob, extension=".db", unpackAs='uint8array') {
 
         console.error("No database file found in the ZIP.");
 
-        statusText.innerText = "All files processed!";
+        //statusText.innerText = "All files processed!";
     } catch (error) {
         console.error("Error reading ZIP file:", error);
-        progressBarElement.textContent = "Error processing ZIP file. Check console for details.";
+        //progressBarElement.textContent = "Error processing ZIP file. Check console for details.";
     }
 }
+
+
+function updateListData(jsonData) {
+    if (!object_list_data) {
+        object_list_data = { entries: [] };
+    }
+    if (!object_list_data.entries) {
+        object_list_data.entries = [];
+    }
+
+    if (jsonData && Array.isArray(jsonData.entries)) {
+        object_list_data.entries.push(...jsonData.entries);
+    } else {
+        if (jsonData && Array.isArray(jsonData))
+        {
+            object_list_data.entries.push(...jsonData);
+        }
+        else {
+            console.error("jsonData.entries is either not defined or not an array.");
+        }
+    }
+}
+
+async function unPackFileJSONS(file) {
+   // Prepare progress bar and output
+   //const progressBarElement = document.getElementById('progressBarElement');
+   //progressBarElement.innerHTML = '';
+
+    // Add progress bar to the progressBarElement div
+    let percentComplete = 0;
+    //const progressBarHTML = `
+    //    <div class="progress">
+    //        <div class="progress-bar" role="progressbar" style="width: ${percentComplete}%" 
+    //            aria-valuenow="${percentComplete}" aria-valuemin="0" aria-valuemax="100">
+    //            ${percentComplete}%
+    //        </div>
+    //    </div>
+    //    <span class="status-text">Loading blob file...</span>
+    //`;
+    //progressBarElement.innerHTML = progressBarHTML;
+
+    //const progressBar = progressBarElement.querySelector('.progress-bar');
+    //const statusText = progressBarElement.querySelector('.status-text');
+
+    try {
+        const fileNames = Object.keys(zip.files);
+        const totalFiles = fileNames.length;
+        let processedFiles = 0;
+
+        for (const fileName of fileNames) {
+            statusText.innerText = `Reading: ${fileName}`;
+            processedFiles++;
+            percentComplete = Math.round((processedFiles / totalFiles) * 100);
+
+            progressBar.style.width = `${percentComplete}%`;
+            progressBar.setAttribute('aria-valuenow', `${percentComplete}`);
+            progressBar.innerText = `${percentComplete}%`;
+
+            if (fileName.endsWith('.json')) {
+                const jsonFile = await zip.files[fileName].async('string');
+                const jsonData = JSON.parse(jsonFile);
+
+                updateListData(jsonData);
+            }
+        }
+
+    } catch (error) {
+        console.error("Error reading ZIP file:", error);
+        //progressBarElement.textContent = "Error processing ZIP file. Check console for details.";
+    }
+}
+
+
 
 
 async function requestFileChunks(file_name, attempt = 1) {
@@ -440,4 +525,34 @@ async function requestFile(fileName, attempt = 1) {
 
     // Load the database
     return new Uint8Array(buffer);
+}
+
+
+async function requestFileChunksMultipart(file_name, attempt = 1) {
+    let exists = await checkIfFileExists(file_name);
+    if (exists) {
+        return await requestFileChunks(file_name);
+    }
+    
+    let numeric = 0;
+    let chunks = [];
+    
+    while (true) {
+        let partName = `${file_name}${String(numeric).padStart(2, '0')}`;
+        let partExists = await checkIfFileExists(partName);
+        
+        if (!partExists) {
+            break;
+        }
+        
+        let chunk = await requestFileChunks(partName);
+        chunks.push(chunk);
+        numeric++;
+    }
+    
+    if (chunks.length === 0) {
+        throw new Error(`File ${file_name} does not exist in parts.`);
+    }
+    
+    return new Blob(chunks);
 }

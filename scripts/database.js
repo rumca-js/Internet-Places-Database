@@ -213,52 +213,9 @@ function getQueryText() {
 }
 
 
-async function queryDatabase() {
-
-  if (!db) {
-     console.log("queryDatabase - not initialized");
-     return;
-  }
-
-  object_list_data = { entries: [] };
-
-  try {
-       let text = getQueryText();
-
-       let userInput = $("#searchInput").val();
-       console.log("Query for text " + userInput);
-
-       execQuery(text);
-
-       // TODO add this to results
-       //let total_rows = getQueryTotalRows(text);
-       //let page_num = parseInt(getQueryParam("page")) || 1;
-       //let nav_text = GetPaginationNav(page_num, total_rows/PAGE_SIZE, total_rows)
-       //$('#pagination').html(nav_text);
-
-  } catch (error) {
-    console.error('Error loading SQLite database or executing query:', error);
-    progressBarElement.textContent = 'Error loading SQLite database or executing query:' + error;
-  }
-}
-
-
-async function createDatabase(dbFileName) {
-    if (dbFileName.indexOf(".db")) {
-       let data = await requestFileChunksUintArray("/" + dbFileName);
-       await createDatabaseData(data);
-    }
-    else if (dbFileName.indexOf(".zip")) {
-       blob = requestFileChunks("/" + dbFileName);
-       let data = await unPackFile(blob);
-       await createDatabaseData(data);
-    }
-}
-
-
 async function createDatabaseData(dataArray) {
   if (db) {
-     return;
+     return false;
   }
 
   console.log("createDatabaseData");
@@ -275,8 +232,11 @@ async function createDatabaseData(dataArray) {
     db = new SQL.Database(dataArray);
     console.log("createDatabaseData DONE");
 
+    return true;
+
   } catch (error) {
     console.error('Error loading SQLite database or executing query:', error);
     progressBarElement.textContent = 'Error loading SQLite database or executing query:'+ error;
+    return false;
   }
 }

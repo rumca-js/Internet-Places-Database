@@ -1,6 +1,21 @@
 let worker = null;
 let db = null;
 let object_list_data = null;
+let db_ready = false;
+
+
+function getFileName() {
+    let file_name = getQueryParam('file') || "/internet.db";
+
+    //let currentLocation = window.location.href;
+    //let basePath = currentLocation.substring(0, currentLocation.lastIndexOf('/'));
+    //file_name = basePath + "/data/" + file_name;
+
+    //if (file_name.indexOf(".zip") === -1 && file_name.indexOf(".db") === -1)
+    //    return file_name + ".db";
+
+    return file_name;
+}
 
 
 function fillListDataInternal(entries) {
@@ -35,10 +50,14 @@ function databaseReady() {
 
 async function initWorker() {
     console.log("Init worker");
-    let spinner_text = getSpinnerText();
-    $('#statusLine').html(spinner_text + " Initializing worker");
+    let spinner_text = getSpinnerText("Initializing worker");
+    $('#statusLine').html(spinner_text);
 
     worker = new Worker('scripts/worker.js?i=' + getFileVersion());
+
+    let file_name = getFileName();
+
+    worker.postMessage({ fileName:  file_name});
 
     worker.onmessage = function (e) {
         const { success, message_type, result, error } = e.data;
@@ -46,8 +65,7 @@ async function initWorker() {
             if (message_type == "entries") {
                  object_list_data = result;
                  databaseReady();
-                 $('#statusLine').html("");
-	    }
+            }
             else if (message_type == "pagination") {
                  let total_rows = result;
                  let page_num = parseInt(getQueryParam("page")) || 1;
@@ -57,7 +75,18 @@ async function initWorker() {
                  console.log("page size: " + PAGE_SIZE);
 
                  $('#pagination').html(nav_text);
-	    }
+                 $('#statusLine').html("");
+            }
+            else if (message_type == "message") {
+                 if (result == "Creating database DONE") {
+                    db_ready = true;
+                    $('#statusLine').html("");
+                 }
+                 else {
+                    let new_spinner_text = getSpinnerText(result);
+                    $('#statusLine').html(new_spinner_text);
+                 }
+            }
         } else {
             $('#statusLine').html('Worker error: '+ error);
             console.error('Worker error:', error);
@@ -87,14 +116,16 @@ async function initAndQueryDatabase(dbFileName) {
 
 async function queryDatabaseLocal() {
     if (!worker) {
-        console.log("No worker");
+        $('#statusLine').html("Worker problem");
         return;
     }
+    if (!db_ready) {
+        $('#statusLine').html("Cannot make query - database is not ready");
+    }
 
-    let spinner_text = getSpinnerText();
-    $('#statusLine').html(spinner_text + " Searching");
+    let spinner_text = getSpinnerText("Searching");
+    $('#statusLine').html(spinner_text);
 
-    //const query = "SELECT * FROM linkdatamodel LIMIT 100";  // Your SQL query
     let query = getQueryText();
     worker.postMessage({ query });
     console.log("Sent message: " + query);
@@ -115,12 +146,6 @@ async function searchInputFunction() {
     document.title = userInput;
 
     await queryDatabaseLocal();
-}
-
-
-function getFileName() {
-    let file_name = getQueryParam('file') || "internet";
-    return file_name + ".db";
 }
 
 
@@ -301,8 +326,7 @@ document.addEventListener('DOMContentLoaded', () => {
 window.addEventListener("beforeunload", (event) => {
     console.log("beforeunload");
     if (preparingData) {
-        // Custom message shown in some browsers
         event.preventDefault();
-        event.returnValue = ''; // This will trigger the default confirmation dialog
+        event.returnValue = '';
     }
 });

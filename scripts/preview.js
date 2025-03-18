@@ -4,8 +4,12 @@ let object_list_data = null;
 
 
 function getFileName() {
-    let file_name = getQueryParam('file') || "internet";
-    return file_name + ".db";
+    let file_name = getQueryParam('file') || "/internet.db";
+
+    //if (file_name.indexOf(".zip") === -1 && file_name.indexOf(".db") === -1)
+    //    return file_name + ".db";
+
+    return file_name;
 }
 
 
@@ -174,8 +178,8 @@ async function queryDatabaseLocal() {
         return;
     }
 
-    let spinner_text = getSpinnerText();
-    $('#statusLine').html(spinner_text + " Searching");
+    let spinner_text = getSpinnerText("Searching");
+    $('#statusLine').html(spinner_text);
 
     let query = getQueryText();
     worker.postMessage({ query });
@@ -185,10 +189,13 @@ async function queryDatabaseLocal() {
 
 async function initWorker() {
     console.log("Init worker");
-    let spinner_text = getSpinnerText();
-    $('#statusLine').html(spinner_text + " Initializing worker");
+    let spinner_text = getSpinnerText("Initializing worker");
+    $('#statusLine').html(spinner_text);
 
     worker = new Worker('scripts/worker.js?i=' + getFileVersion());
+
+    let file_name = getFileName();
+    worker.postMessage({ fileName:  file_name});
 
     worker.onmessage = function (e) {
         const { success, message_type, result, error } = e.data;
@@ -197,19 +204,27 @@ async function initWorker() {
                  object_list_data = result;
                  databaseReady();
                  $('#statusLine').html("");
-	    }
+            }
+            else if (message_type == "pagination") {
+                 $('#statusLine').html("");
+            }
+            else if (message_type == "message") {
+                 if (result == "Creating database DONE") {
+                     spinner_text = getSpinnerText("Querying database");
+                     $('#statusLine').html(spinner_text);
+                     queryDatabaseLocal();
+                 }
+
+                 let new_spinner_text = getSpinnerText(result);
+                 $('#statusLine').html(new_spinner_text);
+            }
+
         } else {
             console.error('Worker error:', error);
         }
     };
 
     console.log("Init worker done");
-
-    $('#statusLine').html(spinner_text + " Querying database");
-
-    await queryDatabaseLocal();
-
-    $('#statusLine').html("");
 }
 
 
