@@ -23,11 +23,10 @@ from utils.reflected import ReflectedEntryTable
 from sqlalchemy import create_engine
 
 
-def print_summary(db):
+def print_summary(db, print_columns=False):
     engine = create_engine("sqlite:///" + db)
     r = ReflectedEntryTable(engine)
-    r.print_summary()
-    # r.close()
+    r.print_summary(print_columns)
 
 
 class SearchInterface(object):
@@ -152,6 +151,7 @@ class Parser(object):
         self.parser.add_argument("--source", action="store_true", help="displays source")
 
         self.parser.add_argument("--summary", action="store_true", help="displays summary of tables")
+        self.parser.add_argument("--columns", action="store_true", help="displays summary of tables column nmaes")
 
         self.parser.add_argument("-i", "--ignore-case", action="store_true", help="Ignores case")
         self.parser.add_argument("-v", "--verbosity", help="Verbosity level")
@@ -178,7 +178,7 @@ def main():
         return
 
     if p.args.summary:
-        print_summary(p.args.db)
+        print_summary(p.args.db, p.args.columns)
     else:
         m = DataAnalyzer(p)
         m.process()

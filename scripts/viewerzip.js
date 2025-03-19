@@ -3,17 +3,25 @@ let db = null;
 let object_list_data = null;
 let db_ready = false;
 
+let view_display_type = "search-engine";
+let view_show_icons = false;
+let view_small_icons = false;
+let show_pure_links = true;
+let highlight_bookmarks = false;
+let sort_function = "-page_rating_votes"; // page_rating_votes, date_published
+let default_page_size = 200;
+
 
 function getFileName() {
-    let file_name = getQueryParam('file') || "internet.db";
+    let file_name = getQueryParam('file') || getDefaultFileName();
 
-    let adir = "/";
+    let adir = getDefaultFileLocation();
 
     if (file_name.indexOf(".zip") === -1 && file_name.indexOf(".db") === -1)
         file_name = file_name + ".db";
 
     if (file_name.indexOf(adir) === -1)
-	file_name = adir + file_name
+        file_name = adir + file_name
 
     return file_name;
 }
@@ -54,7 +62,7 @@ async function initWorker() {
     let spinner_text = getSpinnerText("Initializing worker");
     $('#statusLine').html(spinner_text);
 
-    worker = new Worker('scripts/worker.js?i=' + getFileVersion());
+    worker = new Worker('scripts/dbworker.js?i=' + getQueryParam("i"));
 
     let file_name = getFileName();
 

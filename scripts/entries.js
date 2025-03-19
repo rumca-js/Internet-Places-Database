@@ -146,17 +146,13 @@ function getEntryFullTextStandard(entry) {
 
 
 function getEntryFullTextYouTube(entry) {
-    // Extract the video ID from the YouTube link
     const urlParams = new URL(entry.link).searchParams;
     const videoId = urlParams.get("v");
 
-    // Construct the embed URL
     const embedUrl = videoId ? `https://www.youtube.com/embed/${videoId}` : "";
 
-    // Build the HTML content
     let text = "";
 
-    // Add the embedded YouTube player if a valid video ID exists
     if (videoId) {
         text += `
         <div>
@@ -174,17 +170,13 @@ function getEntryFullTextYouTube(entry) {
 
 
 function getEntryFullTextOdysee(entry) {
-    // Extract the video ID from the YouTube link
     const url = new URL(entry.link);
     const videoId = url.pathname.split('/').pop();
 
-    // Construct the embed URL
     const embedUrl = videoId ? `https://odysee.com/$/embed/${videoId}` : "";
 
-    // Build the HTML content
     let text = "";
 
-    // Add the embedded YouTube player if a valid video ID exists
     if (videoId) {
         text += `
         <div>

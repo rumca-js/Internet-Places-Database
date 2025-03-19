@@ -1,8 +1,8 @@
-//importScripts('https://code.jquery.com/jquery-3.7.1.min.js')
 importScripts('https://unpkg.com/sql.js@1.6.0/dist/sql-wasm.js')
 importScripts('https://cdn.jsdelivr.net/npm/jszip/dist/jszip.min.js')
-importScripts('/scripts/library.js?i=47');
-importScripts('/scripts/database.js?i=' + getFileVersion());
+importScripts('./config.js?i=47');
+importScripts('./library.js?i=' + getFileVersion());
+importScripts('./database.js?i=' + getFileVersion());
 
 
 let db = null;
