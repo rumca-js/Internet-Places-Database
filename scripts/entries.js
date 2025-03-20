@@ -470,7 +470,7 @@ function getOneEntryEntryText(entry) {
     let page_rating_contents = entry.page_rating_contents;
 
     let entry_link = `/preview.html?entry_id=${entry.id}`;
-    let file = getQueryParam('file') || "internet";
+    let file = getQueryParam('file') || getDefaultFileName();
     entry_link += `&file=${file}`;
 
     title = escapeHtml(entry.title)
@@ -509,4 +509,151 @@ function getOneEntryEntryText(entry) {
         .replace(/{date_published}/g, datePublished.toLocaleString());
 
     return listItem;
+}
+
+
+/** 
+ * JSON files
+ */
+
+function isEntrySearchHit(entry, searchText) {
+    if (entry.link) {
+        return isEntrySearchHitEntry(entry, searchText);
+    }
+}
+
+
+function isEntrySearchHitEntry(entry, searchText) {
+    if (!entry)
+        return false;
+
+    if (searchText.includes("=")) {
+        return isEntrySearchHitAdvanced(entry, searchText);
+    }
+    else {
+        return isEntrySearchHitGeneric(entry, searchText);
+    }
+}
+
+
+function isEntrySearchHitGeneric(entry, searchText) {
+    if (entry.link && entry.link.toLowerCase().includes(searchText.toLowerCase()))
+        return true;
+
+    if (entry.title && entry.title.toLowerCase().includes(searchText.toLowerCase()))
+        return true;
+
+    if (entry.description && entry.description.toLowerCase().includes(searchText.toLowerCase()))
+        return true;
+
+    if (entry.tags && Array.isArray(entry.tags)) {
+        const tagMatch = entry.tags.some(tag =>
+            tag.toLowerCase().includes(searchText.toLowerCase())
+        );
+        if (tagMatch) return true;
+    }
+
+    return false;
+}
+
+
+function isEntrySearchHitAdvanced(entry, searchText) {
+    let operator_0 = null;
+    let operator_1 = null;
+    let operator_2 = null;
+
+    if (searchText.includes("==")) {
+        const result = searchText.split("==");
+        operator_0 = result[0].trim();
+        operator_1 = "==";
+        operator_2 = result[1].trim();
+    }
+    else {
+        const result = searchText.split("=");
+        operator_0 = result[0].trim();
+        operator_1 = "=";
+        operator_2 = result[1].trim();
+    }
+
+    if (operator_0 == "title")
+    {
+        if (operator_1 == "=" && entry.title && entry.title.toLowerCase().includes(operator_2.toLowerCase()))
+            return true;
+        if (operator_1 == "==" && entry.title && entry.title.toLowerCase() == operator_2.toLowerCase())
+            return true;
+    }
+    if (operator_0 == "link")
+    {
+        if (operator_1 == "=" && entry.link && entry.link.toLowerCase().includes(operator_2.toLowerCase()))
+            return true;
+        if (operator_1 == "==" && entry.link && entry.link.toLowerCase() == operator_2.toLowerCase())
+            return true;
+    }
+    if (operator_0 == "description")
+    {
+        if (operator_1 == "=" && entry.description && entry.description.toLowerCase().includes(operator_2.toLowerCase()))
+            return true;
+        if (operator_1 == "==" && entry.description && entry.description.toLowerCase() == operator_2.toLowerCase())
+            return true;
+    }
+    if (operator_0 == "tag")
+    {
+        if (entry.tags && Array.isArray(entry.tags)) {
+            if (operator_1 == "=") {
+                const tagMatch = entry.tags.some(tag =>
+                    tag.toLowerCase().includes(operator_2.toLowerCase())
+                );
+                if (tagMatch) return true;
+            }
+            if (operator_1 == "==") {
+                const tagMatch = entry.tags.some(tag =>
+                    tag.toLowerCase() == operator_2.toLowerCase()
+                );
+                if (tagMatch) return true;
+            }
+        }
+    }
+} 
+
+function sortEntries(entries) {
+    if (sort_function == "page_rating_votes") {
+        entries = entries.sort((a, b) => {
+            return a.page_rating_votes - b.page_rating_votes;
+        });
+    }
+    else if (sort_function == "-page_rating_votes") {
+        entries = entries.sort((a, b) => {
+            return b.page_rating_votes - a.page_rating_votes;
+        });
+    }
+    else if (sort_function == "date_published") {
+        entries = entries.sort((a, b) => {
+            if (a.date_published === null && b.date_published === null) {
+                return 0;
+            }
+            if (a.date_published === null) {
+                return 1;
+            }
+            if (b.date_published === null) {
+                return -1;
+            }
+            return new Date(b.date_published) - new Date(a.date_published);
+        });
+    }
+    else if (sort_function == "-date_published") {
+        entries = entries.sort((a, b) => {
+            if (a.date_published === null && b.date_published === null) {
+                return 0;
+            }
+            if (a.date_published === null) {
+                return -1;
+            }
+            if (b.date_published === null) {
+                return 1;
+            }
+            return new Date(a.date_published) - new Date(b.date_published);
+        });
+    }
+
+    return entries;
 }

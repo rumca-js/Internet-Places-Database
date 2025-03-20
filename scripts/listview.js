@@ -106,19 +106,11 @@ async function initWorker() {
 }
 
 
-async function initAndQueryDatabase(dbFileName) {
+async function Initialize() {
   if (!object_list_data) {
-    let spinner_text = getSpinnerText();
-
-    const progressBarElement = document.getElementById('progressBarElement');
-    progressBarElement.innerHTML = spinner_text;
-
-    console.log(dbFileName);
     if (!worker) {
        initWorker();
     }
-
-    progressBarElement.innerHTML = '';
   }
 }
 
@@ -326,14 +318,12 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     if (!object_list_data) {
-        let file_name = getFileName();
-        initAndQueryDatabase(file_name);
+        Initialize();
     }
 });
 
 
 window.addEventListener("beforeunload", (event) => {
-    console.log("beforeunload");
     if (preparingData) {
         event.preventDefault();
         event.returnValue = '';

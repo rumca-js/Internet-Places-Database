@@ -102,7 +102,7 @@ function GetPaginationNav(currentPage, totalPages, totalRows) {
 
     paginationText += `
             </ul>
-            ${currentPage} / ${totalPages} @ ${totalRows}
+            ${currentPage} / ${totalPages} @ ${count} records.
         </nav>
     `;
 
@@ -241,7 +241,7 @@ function updateListData(jsonData) {
     }
 }
 
-async function unPackFileJSONS(file) {
+async function unPackFileJSONS(zip) {
    // Prepare progress bar and output
    //const progressBarElement = document.getElementById('progressBarElement');
    //progressBarElement.innerHTML = '';
@@ -268,13 +268,13 @@ async function unPackFileJSONS(file) {
         let processedFiles = 0;
 
         for (const fileName of fileNames) {
-            statusText.innerText = `Reading: ${fileName}`;
+            //statusText.innerText = `Reading: ${fileName}`;
             processedFiles++;
             percentComplete = Math.round((processedFiles / totalFiles) * 100);
 
-            progressBar.style.width = `${percentComplete}%`;
-            progressBar.setAttribute('aria-valuenow', `${percentComplete}`);
-            progressBar.innerText = `${percentComplete}%`;
+            //progressBar.style.width = `${percentComplete}%`;
+            //progressBar.setAttribute('aria-valuenow', `${percentComplete}`);
+            //progressBar.innerText = `${percentComplete}%`;
 
             if (fileName.endsWith('.json')) {
                 const jsonFile = await zip.files[fileName].async('string');
@@ -303,7 +303,7 @@ async function requestFileChunks(file_name, attempt = 1) {
         const response = await fetch(file_name);
 
         if (!response.ok) {
-            throw new Error(`Failed to fetch file: ${url}, status:${response.statusText}`);
+            throw new Error(`Failed to fetch file: ${file_name}, status:${response.statusText}`);
         }
 
         const contentLength = response.headers.get("Content-Length");
