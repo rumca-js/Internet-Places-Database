@@ -16,10 +16,10 @@ unpack:
 	7z x $(ARCHIVE_NAME)
 
 pack-split:
-	#zip $(ARCHIVE_NAME) $(SOURCE_FILE)
+	zip $(ARCHIVE_NAME) $(SOURCE_FILE)
 	split -b 50M -d $(ARCHIVE_NAME) $(ARCHIVE_NAME)
 	echo "Packed $(SOURCE_FILE) into $(ARCHIVE_NAME)"
-	#rm -f $(SOURCE_FILE)
+	rm -f $(SOURCE_FILE)
 
 unpack-split:
 	cat internet* > $(ARCHIVE_NAME)
