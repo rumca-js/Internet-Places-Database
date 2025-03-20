@@ -102,7 +102,7 @@ function GetPaginationNav(currentPage, totalPages, totalRows) {
 
     paginationText += `
             </ul>
-            ${currentPage} / ${totalPages} @ ${count} records.
+            ${currentPage} / ${totalPages} @ ${totalRows} records.
         </nav>
     `;
 
