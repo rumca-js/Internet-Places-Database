@@ -503,7 +503,7 @@ function getOneEntryEntryText(entry) {
     let page_rating_votes = entry.page_rating_votes;
     let page_rating_contents = entry.page_rating_contents;
 
-    let entry_link = `/preview.html?entry_id=${entry.id}`;
+    let entry_link = `?entry_id=${entry.id}`;
     let file = getQueryParam('file') || getDefaultFileName();
     entry_link += `&file=${file}`;
 
@@ -666,7 +666,7 @@ function sortEntries(entries) {
             return b.page_rating_votes - a.page_rating_votes;
         });
     }
-    else if (sort_function == "date_published") {
+    else if (sort_function == "-date_published") {
         entries = entries.sort((a, b) => {
             if (a.date_published === null && b.date_published === null) {
                 return 0;
@@ -680,7 +680,7 @@ function sortEntries(entries) {
             return new Date(b.date_published) - new Date(a.date_published);
         });
     }
-    else if (sort_function == "-date_published") {
+    else if (sort_function == "date_published") {
         entries = entries.sort((a, b) => {
             if (a.date_published === null && b.date_published === null) {
                 return 0;

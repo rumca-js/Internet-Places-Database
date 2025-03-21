@@ -5,7 +5,6 @@ importScripts('./library.js?i=' + getFileVersion());
 importScripts('./database.js?i=' + getFileVersion());
 
 
-let db = null;
 let file_name = null;
 
 
