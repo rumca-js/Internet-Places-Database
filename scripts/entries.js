@@ -14,6 +14,16 @@ function isEntryValid(entry) {
     return true;
 }
 
+function canUserView(entry) {
+    if (entry.age == 0 || entry.age == null)
+        return true;
+
+    if (entry.age < user_age)
+        return true;
+
+    return false;
+}
+
 
 function getEntryAuthorText(entry) {
     if (entry.author && entry.album)
@@ -27,6 +37,18 @@ function getEntryAuthorText(entry) {
         return entry.album;
     }
     return "";
+}
+
+
+function getEntry(entry_id) {
+    let filteredEntries = object_list_data.entries.filter(entry =>
+        entry.id == entry_id
+    );
+    if (filteredEntries.length === 0) {
+        return null;
+    }
+
+    return filteredEntries[0];
 }
 
 
@@ -100,16 +122,17 @@ function getEntryBodyText(entry) {
     <div><b>Publish date:</b>${entry.date_published}</div>
     `;
 
-    //let tags = selectEntryTags(entry.id);
-    //let tagString = Array.from(tags).map(tag => `#${tag}`).join(", ");
-    let tagString = "";
+    let tags_text = getEntryTags(entry);
     
     text += `
-        <div>Tags: ${tagString}</div>
+        <div>Tags: ${tags_text}</div>
     `;
 
+    let description = entry.description.replace(/\n/g, '<br>');
+    description = createLinks(description);
+
     text += `
-    <div>${entry.description.replace(/\n/g, '<br>')}</div>
+    <div>${description}</div>
     `;
 
     text += `
@@ -135,11 +158,22 @@ function getEntryBodyText(entry) {
 
 
 function getEntryFullTextStandard(entry) {
-    let text = `
-    <div><img src="${entry.thumbnail}" style="max-width:100%;"/></div>
+    let text = `<div entry="${entry.id}" class="entry-detail">`;
+
+    text += `
+    <div><img src="" style="max-width:100%;"/></div>
     `;
 
+    if (canUserView(entry))
+    {
+       text = `
+       <div><img src="${entry.thumbnail}" style="max-width:100%;"/></div>
+       `;
+    }
+
     text += getEntryBodyText(entry);
+
+    text += "</div>";
 
     return text;
 }
@@ -151,19 +185,19 @@ function getEntryFullTextYouTube(entry) {
 
     const embedUrl = videoId ? `https://www.youtube.com/embed/${videoId}` : "";
 
-    let text = "";
+    let text = `<div entry="${entry.id}" class="entry-detail">`;
 
     if (videoId) {
         text += `
-        <div>
-        <div class="youtube_player_container">
-            <iframe src="${embedUrl}" frameborder="0" allowfullscreen class="youtube_player_frame" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
-        </div>
+          <div class="youtube_player_container">
+              <iframe src="${embedUrl}" frameborder="0" allowfullscreen class="youtube_player_frame" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
         `;
     }
 
     text += getEntryBodyText(entry);
+
+    text += "</div>";
 
     return text;
 }
@@ -175,19 +209,18 @@ function getEntryFullTextOdysee(entry) {
 
     const embedUrl = videoId ? `https://odysee.com/$/embed/${videoId}` : "";
 
-    let text = "";
+    let text = `<div entry="${entry.id}" class="entry-detail">`;
 
     if (videoId) {
         text += `
-        <div>
-        <div class="youtube_player_container">
-            <iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" width="100%" height="100%" src="${embedUrl}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
-        </div>
-        </div>
+           <div class="youtube_player_container">
+               <iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" width="100%" height="100%" src="${embedUrl}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+           </div>
         `;
     }
 
     text += getEntryBodyText(entry);
+    text += "</div>";
 
     return text;
 }
@@ -241,9 +274,10 @@ function entryStandardTemplate(entry, show_icons = true, small_icons = false) {
     return `
         <a 
             href="{entry_link}"
+            entry="${entry.id}"
             title="{hover_title}"
             ${invalid_style}
-            class="my-1 p-1 list-group-item list-group-item-action ${bookmark_class} border rounded"
+            class="my-1 p-1 list-group-item list-group-item-action ${bookmark_class} border rounded entry-list"
         >
             <div class="d-flex">
                 ${thumbnail_text}
@@ -289,9 +323,10 @@ function entrySearchEngineTemplate(entry, show_icons = true, small_icons = false
     return `
         <a 
             href="{entry_link}"
+            entry="${entry.id}"
             title="{hover_title}"
             ${invalid_style}
-            class="my-1 p-1 list-group-item list-group-item-action ${bookmark_class} border rounded"
+            class="my-1 p-1 list-group-item list-group-item-action ${bookmark_class} border rounded entry-list"
         >
             <div class="d-flex">
                ${thumbnail_text}
@@ -331,9 +366,8 @@ function entryGalleryTemplateDesktop(entry, show_icons = true, small_icons = fal
 
     let invalid_style = isEntryValid(entry) ? `` : `opacity: 0.5`;
 
-    let thumbnail = entry.thumbnail;
     let thumbnail_text = `
-        <img src="${thumbnail}" style="width:100%;max-height:100%;aspect-ratio:3/4;object-fit:cover;"/>
+        <img src="{thumbnail}" style="width:100%;max-height:100%;aspect-ratio:3/4;object-fit:cover;"/>
         <div class="ms-auto">
             ${badge_text}
             ${badge_star}
@@ -346,8 +380,9 @@ function entryGalleryTemplateDesktop(entry, show_icons = true, small_icons = fal
     return `
         <a 
             href="{entry_link}"
+            entry="${entry.id}"
             title="{hover_title}"
-            class="list-group-item list-group-item-action m-1 border rounded p-2"
+            class="list-group-item list-group-item-action m-1 border rounded p-2 entry-list"
             style="text-overflow: ellipsis; max-width: 18%; min-width: 18%; width: auto; aspect-ratio: 1 / 1; text-decoration: none; display:flex; flex-direction:column; ${invalid_style}"
         >
             <div style="display: flex; flex-direction:column; align-content:normal; height:100%">
@@ -374,9 +409,8 @@ function entryGalleryTemplateMobile(entry, show_icons = true, small_icons = fals
 
     let invalid_style = isEntryValid(entry) ? `` : `opacity: 0.5`;
 
-    let thumbnail = entry.thumbnail;
     let thumbnail_text = `
-        <img src="${thumbnail}" style="width:100%; max-height:100%; object-fit:cover"/>
+        <img src="{thumbnail}" style="width:100%; max-height:100%; object-fit:cover"/>
         ${badge_text}
         ${badge_star}
         ${badge_age}
@@ -387,8 +421,9 @@ function entryGalleryTemplateMobile(entry, show_icons = true, small_icons = fals
     return `
         <a 
             href="{entry_link}"
+            entry="${entry.id}"
             title="{hover_title}"
-            class="list-group-item list-group-item-action border rounded p-2"
+            class="list-group-item list-group-item-action border rounded p-2 entry-list"
             style="text-overflow: ellipsis; max-width: 100%; min-width: 100%; width: auto; aspect-ratio: 1 / 1; text-decoration: none; display:flex; flex-direction:column; ${invalid_style}"
         >
             <div style="display: flex; flex-direction:column; align-content:normal; height:100%">
@@ -406,7 +441,7 @@ function entryGalleryTemplateMobile(entry, show_icons = true, small_icons = fals
 }
 
 
-function getOneEntryText(entry) {
+function getEntryListText(entry) {
     if (entry.link) {
        return getOneEntryEntryText(entry);
     }
@@ -427,7 +462,7 @@ function getEntriesList(entries) {
 
     if (entries && entries.length > 0) {
         entries.forEach((entry) => {
-            const listItem = getOneEntryText(entry);
+            const listItem = getEntryListText(entry);
 
             if (listItem) {
                 htmlOutput += listItem;
@@ -465,7 +500,6 @@ function getOneEntryEntryText(entry) {
     }
     var template_text = templateFunc(entry, view_show_icons, view_small_icons);
 
-    let thumbnail = entry.thumbnail;
     let page_rating_votes = entry.page_rating_votes;
     let page_rating_contents = entry.page_rating_contents;
 
@@ -492,13 +526,19 @@ function getOneEntryEntryText(entry) {
        source__title = escapeHtml(entry.source__title)
     }
 
+    let thumbnail = "";
+    if (canUserView(entry))
+    {
+       thumbnail = entry.thumbnail;
+    }
+
     // Replace all occurrences of the placeholders using a global regular expression
     let listItem = template_text
         .replace(/{link_absolute}/g, entry.link_absolute)
         .replace(/{link}/g, entry.link)
         .replace(/{entry_link}/g, entry_link)
         .replace(/{hover_title}/g, hover_title)
-        .replace(/{thumbnail}/g, entry.thumbnail)
+        .replace(/{thumbnail}/g, thumbnail)
         .replace(/{title_safe}/g, title_safe)
         .replace(/{tags_text}/g, tags_text)
         .replace(/{page_rating_votes}/g, entry.page_rating_votes)

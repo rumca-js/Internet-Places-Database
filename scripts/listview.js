@@ -1,7 +1,8 @@
 let worker = null;
 let db = null;
-let object_list_data = null;
-let db_ready = false;
+let object_list_data = null;   // all objects lists
+let system_initialized = false;
+let user_age = 1;
 
 let view_display_type = "search-engine";
 let view_show_icons = false;
@@ -88,7 +89,7 @@ async function initWorker() {
             }
             else if (message_type == "message") {
                  if (result == "Creating database DONE") {
-                    db_ready = true;
+                    system_initialized = true;
                     $('#statusLine').html("");
                  }
                  else {
@@ -120,7 +121,7 @@ async function queryDatabaseLocal() {
         $('#statusLine').html("Worker problem");
         return;
     }
-    if (!db_ready) {
+    if (!system_initialized) {
         $('#statusLine').html("Cannot make query - database is not ready");
     }
 
@@ -134,7 +135,7 @@ async function queryDatabaseLocal() {
 
 
 async function searchInputFunction() {
-    if (preparingData) {
+    if (!system_initialized) {
         $("#statusLine").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Reading data...`);
         return;
     }
@@ -152,7 +153,6 @@ async function searchInputFunction() {
 
 //-----------------------------------------------
 $(document).on('click', '.btnNavigation', async function(e) {
-    console.log("btnNavigation");
     e.preventDefault();
 
     const currentPage = $(this).data('page');
@@ -165,6 +165,66 @@ $(document).on('click', '.btnNavigation', async function(e) {
     $('html, body').animate({ scrollTop: 0 }, 'slow');
 
     await queryDatabaseLocal();
+});
+
+//-----------------------------------------------
+$(document).on('click', '.entry-list', function(e) {
+    // Check if the Ctrl or Cmd key is pressed (Windows/Linux: Ctrl, Mac: Cmd)
+    if (e.ctrlKey || e.metaKey) {
+        // If Ctrl or Cmd is pressed, allow the default behavior
+        return;  // Do not prevent default
+    }
+
+    e.preventDefault();
+
+    let entryNumber = $(this).attr('entry');
+    console.log("Entry list:" + entryNumber);
+
+    let entry = getEntry(entryNumber);
+    if (entry) {
+       let entry_detail_text = getEntryDetailText(entry);
+       let data = `<a href="" class="btn btn-primary go-back-button m-1">Go back</a>`;
+       data += `<a href="" class="btn btn-primary copy-link m-1">Copy Link</a>`;
+       data += entry_detail_text;
+       $("#listData").html(data);
+       $('#pagination').html("");
+
+       document.title = entry.title;
+    }
+    else {
+       $("#statusLine").html("Invalid entry");
+    }
+});
+
+
+//-----------------------------------------------
+$(document).on('click', '.go-back-button', function(e) {
+    e.preventDefault();
+    fillListData();
+});
+
+
+//-----------------------------------------------
+$(document).on('click', '.copy-link', function(e) {
+    // TODO
+});
+
+
+//-----------------------------------------------
+$(document).on('click', '.entry-detail', function(e) {
+    e.preventDefault();
+
+    let entryNumber = $(this).attr('entry');
+    console.log("Entry detail:" + entryNumber);
+
+    let entry = getEntry(entryNumber);
+    if (entry) {
+       let entry_detail_text = getEntryListText(entry);
+       $(this).html(entry_detail_text);
+    }
+    else {
+       $("#statusLine").html("Invalid entry");
+    }
 });
 
 
@@ -297,8 +357,6 @@ $(document).on("click", '#displayDark', function(e) {
 });
 
 
-
-
 document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('searchInput');
 
@@ -318,13 +376,18 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     if (!object_list_data) {
-        Initialize();
+        try {
+            Initialize();
+        }
+        catch {
+            $("#statusLine").html("error");
+        }
     }
 });
 
 
 window.addEventListener("beforeunload", (event) => {
-    if (preparingData) {
+    if (!system_initialized) {
         event.preventDefault();
         event.returnValue = '';
     }

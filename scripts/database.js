@@ -34,7 +34,7 @@ function selectEntryTags(entry_id) {
 
 
 function unpackQueryResults(res) {
-    results = [];
+    let results = [];
 
     if (res.length > 0) {
        const rows = res[0].values;
@@ -151,10 +151,12 @@ function getSelectCustomSQL(userInput) {
 
 function execQuery(text) {
    console.log(text);
-
-   const res = db.exec(text);
-
-   object_list_data.entries = unpackQueryResults(res);
+   try {
+      const res = db.exec(text);
+      object_list_data.entries = unpackQueryResults(res);
+   } catch (error) {
+      console.error("Error executing query:", error);
+   }
 }
 
 
@@ -175,15 +177,19 @@ async function getQueryTotalRows(text) {
 
    console.log(text);
 
-   const res = db.exec(text);
+   try {
+      const res = db.exec(text);
 
-   if (res.length > 0) {
-      const rows = res[0].values;
+      if (res.length > 0) {
+         const rows = res[0].values;
 
-      if (rows.length > 0) {
-          let size = rows[0][0];
-          return size;
+         if (rows.length > 0) {
+             let size = rows[0][0];
+             return size;
+         }
       }
+   } catch (error) {
+      console.error("Error executing query:", error);
    }
 
    return 0;
@@ -210,8 +216,6 @@ function getQueryTagsText() {
 
 function getQueryText() {
    let userInput = $("#searchInput").val();
-
-   /* let userInput = getQueryParam("search"); */
 
    let text = getSelectDefault(userInput);
 

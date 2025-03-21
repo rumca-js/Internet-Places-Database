@@ -1,6 +1,8 @@
 let worker = null;
 let db = null;
 let object_list_data = null;
+let system_initialized = false;
+let user_age = 1;
 
 let view_display_type = "search-engine";
 let view_show_icons = false;
@@ -112,6 +114,8 @@ async function initWorker() {
             }
             else if (message_type == "message") {
                  if (result == "Creating database DONE") {
+                     system_initialized = true;
+
                      spinner_text = getSpinnerText("Querying database");
                      $('#statusLine').html(spinner_text);
                      queryDatabaseLocal();
@@ -131,6 +135,7 @@ async function initWorker() {
 
 
 async function Initialize() {
+  system_initialized = false;
   if (!object_list_data) {
     if (!worker) {
        initWorker();
