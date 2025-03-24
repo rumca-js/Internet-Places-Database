@@ -1,4 +1,7 @@
 
+let all_entries = null;
+let entries_length = 0;
+
 
 function getFileName() {
     let file_name = getQueryParam('file') || getDefaultFileName();
@@ -6,7 +9,7 @@ function getFileName() {
     let adir = getDefaultFileLocation();
 
     if (file_name.indexOf(".zip") === -1 && file_name.indexOf(".db") === -1)
-        file_name = file_name + ".db";
+        file_name = file_name + ".zip";
 
     if (file_name.indexOf(adir) === -1)
         file_name = adir + file_name
@@ -15,14 +18,20 @@ function getFileName() {
 }
 
 
-function fillListDataInternal(entries) {
-    var finished_text = getEntriesList(entries);
-
-    $('#listData').html(finished_text);
+function animateToTop() {
+    $('html, body').animate({ scrollTop: 0 }, 'slow');
 }
 
 
-function fillListData() {
+function isWorkerNeeded(fileName) {
+    if (fileName.indexOf("db") != -1 || fileName.indexOf("db.zip") != -1) {
+        return true;
+    }
+    return false;
+}
+
+
+function fillEntireListData() {
     let data = object_list_data;
 
     $('#listData').html("");
@@ -37,11 +46,180 @@ function fillListData() {
     }
 
     fillListDataInternal(entries);
+    $('#statusLine').html("")
 }
 
 
-function databaseReady() {
-   fillListData();
+function fillListDataInternal(entries) {
+    var finished_text = getEntriesList(entries);
+
+    $('#listData').html(finished_text);
+}
+
+
+function filterEntries(entries, searchText) {
+    let filteredEntries = entries.filter(entry =>
+        isEntrySearchHit(entry, searchText)
+    );
+
+    return filteredEntries;
+}
+
+
+function fillListData() {
+   fillEntireListData();
+}
+
+
+
+function getPaginationText() {
+    let page_num = parseInt(getQueryParam("page")) || 1;
+    let page_size = default_page_size;
+    let countElements = entries_length;
+
+    return GetPaginationNav(page_num, countElements/page_size, countElements);
+}
+
+
+function sortAndFilter() {
+    const search_text = $("#searchInput").val();
+
+    let entries = all_entries.entries;
+
+    entries = sortEntries(entries);
+
+    if (search_text != "") {
+       entries = filterEntries(entries, search_text);
+    }
+
+    entries_length = entries.length;
+
+    let page_num = parseInt(getQueryParam("page")) || 1;
+    let page_size = default_page_size;
+
+    let start_index = (page_num-1) * page_size;
+    let end_index = page_num * page_size;
+
+    object_list_data.entries = entries.slice(start_index, end_index);
+}
+
+
+function searchInputFunctionJSON() {
+    if (!system_initialized) {
+        $("#statusLine").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Reading data...`);
+        return;
+    }
+
+    sortAndFilter();
+
+    fillListData();
+
+    $('#pagination').html(getPaginationText());
+}
+
+
+function searchInputFunctionDb() {
+    if (!worker) {
+        $('#statusLine').html("Worker problem");
+        return;
+    }
+    if (!system_initialized) {
+        $('#statusLine').html("Cannot make query - database is not ready");
+    }
+
+    let spinner_text = getSpinnerText("Searching");
+    $('#statusLine').html(spinner_text);
+
+    let query = getQueryText();
+    worker.postMessage({ query });
+    console.log("Sent message: " + query);
+}
+
+
+function searchInputFunction() {
+    const userInput = $("#searchInput").val();
+    let file_name = getFileName();
+
+    if (userInput.trim() != "") {
+        document.title = userInput;
+    }
+
+    const currentUrl = new URL(window.location.href);
+    currentUrl.searchParams.set('search', userInput);
+    window.history.pushState({}, '', currentUrl);
+
+    if (isWorkerNeeded(file_name)) {
+       return searchInputFunctionDb();
+    }
+    else {
+       return searchInputFunctionJSON();
+    }
+}
+
+
+function setEntryAsListData(entry_id) {
+    let entry = getEntry(entry_id);
+    if (entry) {
+       let entry_detail_text = getEntryDetailText(entry);
+       let data = `<a href="" class="btn btn-primary go-back-button m-1">Go back</a>`;
+       data += `<a href="" class="btn btn-primary copy-link m-1">Copy Link</a>`;
+       data += entry_detail_text;
+       $("#listData").html(data);
+       $('#pagination').html("");
+
+       document.title = entry.title;
+    }
+    else {
+       $("#statusLine").html("Invalid entry");
+    }
+}
+
+
+async function InitializeForDb() {
+  if (!object_list_data) {
+    if (!worker) {
+       initWorker();
+    }
+  }
+}
+
+
+async function InitializeForJSON() {
+   let file_name = getFileName();
+   system_initialized = false;
+   let spinner_text_1 = getSpinnerText("Initializing - reading file");
+   $("#statusLine").html(spinner_text_1);
+   let fileBlob = requestFileChunks(file_name);
+   let spinner_text_2 = getSpinnerText("Loading zip");
+   $("#statusLine").html(spinner_text_2);
+   const zip = await JSZip.loadAsync(fileBlob);
+   let spinner_text_3 = getSpinnerText("Unpacking zip");
+   $("#statusLine").html(spinner_text_3);
+   await unPackFileJSONS(zip);
+   $("#statusLine").html("");
+
+   all_entries = { ...object_list_data };
+
+   onSystemReady();
+
+   let entry_id = getQueryParam("entry_id");
+   if (entry_id) {
+      setEntryAsListData(entry_id);
+   }
+   else {
+      sortAndFilter();
+
+      fillListData();
+
+      $('#pagination').html(getPaginationText());
+   }
+}
+
+
+function onSystemReady() {
+    system_initialized = true;
+    $('#searchInput').prop('disabled', false);
+    $('#statusLine').html("System is ready! You can perform search now");
 }
 
 
@@ -61,23 +239,21 @@ async function initWorker() {
         if (success) {
             if (message_type == "entries") {
                  object_list_data = result;
-                 databaseReady();
+                 fillListData();
             }
             else if (message_type == "pagination") {
                  let total_rows = result;
-                 let page_num = parseInt(getQueryParam("page")) || 1;
-                 let nav_text = GetPaginationNav(page_num, total_rows/PAGE_SIZE, total_rows)
-                 console.log("total rows: " + total_rows);
-                 console.log("page num: " + page_num);
-                 console.log("page size: " + PAGE_SIZE);
+
+                 entries_length = total_rows;
+
+                 let nav_text = getPaginationText();
 
                  $('#pagination').html(nav_text);
                  $('#statusLine').html("");
             }
             else if (message_type == "message") {
                  if (result == "Creating database DONE") {
-                    system_initialized = true;
-                    $('#statusLine').html("");
+                    onSystemReady();
                  }
                  else {
                     let new_spinner_text = getSpinnerText(result);
@@ -95,142 +271,96 @@ async function initWorker() {
 
 
 async function Initialize() {
-  if (!object_list_data) {
-    if (!worker) {
-       initWorker();
+    let file_name = getFileName();
+
+    $('#searchInput').prop('disabled', true);
+
+    if (isWorkerNeeded(file_name)) {
+       return await InitializeForDb();
     }
-  }
-}
-
-
-async function queryDatabaseLocal() {
-    if (!worker) {
-        $('#statusLine').html("Worker problem");
-        return;
+    else {
+       return await InitializeForJSON();
     }
-    if (!system_initialized) {
-        $('#statusLine').html("Cannot make query - database is not ready");
-    }
-
-    let spinner_text = getSpinnerText("Searching");
-    $('#statusLine').html(spinner_text);
-
-    let query = getQueryText();
-    worker.postMessage({ query });
-    console.log("Sent message: " + query);
-}
-
-
-async function searchInputFunction() {
-    if (!system_initialized) {
-        $("#statusLine").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Reading data...`);
-        return;
-    }
-
-    const currentUrl = new URL(window.location.href);
-    currentUrl.searchParams.set('page', 1);
-    window.history.pushState({}, '', currentUrl);
-
-    let userInput = $("#searchInput").val();
-    document.title = userInput;
-
-    await queryDatabaseLocal();
 }
 
 
 //-----------------------------------------------
-$(document).on('click', '.btnNavigation', async function(e) {
+$(document).on('click', '.btnNavigation', function(e) {
     e.preventDefault();
 
     const currentPage = $(this).data('page');
+
     const currentUrl = new URL(window.location.href);
-
     currentUrl.searchParams.set('page', currentPage);
-
     window.history.pushState({}, '', currentUrl);
 
-    $('html, body').animate({ scrollTop: 0 }, 'slow');
+    animateToTop();
 
-    await queryDatabaseLocal();
+    searchInputFunction();
 });
+
 
 //-----------------------------------------------
 $(document).on('click', '.entry-list', function(e) {
-    // Check if the Ctrl or Cmd key is pressed (Windows/Linux: Ctrl, Mac: Cmd)
-    if (e.ctrlKey || e.metaKey) {
-        // If Ctrl or Cmd is pressed, allow the default behavior
-        return;  // Do not prevent default
-    }
-
     e.preventDefault();
 
     let entryNumber = $(this).attr('entry');
     console.log("Entry list:" + entryNumber);
 
-    let entry = getEntry(entryNumber);
-    if (entry) {
-       let entry_detail_text = getEntryDetailText(entry);
-       let data = `<a href="" class="btn btn-primary go-back-button m-1">Go back</a>`;
-       data += `<a href="" class="btn btn-primary copy-link m-1">Copy Link</a>`;
-       data += entry_detail_text;
-       $("#listData").html(data);
-       $('#pagination').html("");
+    const currentUrl = new URL(window.location.href);
+    currentUrl.searchParams.set('entry_id', entryNumber);
+    window.history.pushState({}, '', currentUrl);
 
-       document.title = entry.title;
-    }
-    else {
-       $("#statusLine").html("Invalid entry");
-    }
+    setEntryAsListData(entryNumber);
+
+    animateToTop();
 });
 
 
 //-----------------------------------------------
 $(document).on('click', '.go-back-button', function(e) {
     e.preventDefault();
+
+    const currentUrl = new URL(window.location.href);
+    currentUrl.searchParams.delete('entry_id')
+    window.history.pushState({}, '', currentUrl);
+
     fillListData();
+    $('#pagination').html(getPaginationText());
 });
 
 
 //-----------------------------------------------
 $(document).on('click', '.copy-link', function(e) {
-    // TODO
-});
-
-
-//-----------------------------------------------
-$(document).on('click', '.entry-detail', function(e) {
     e.preventDefault();
+    const url = window.location.href;
 
-    let entryNumber = $(this).attr('entry');
-    console.log("Entry detail:" + entryNumber);
-
-    let entry = getEntry(entryNumber);
-    if (entry) {
-       let entry_detail_text = getEntryListText(entry);
-       $(this).html(entry_detail_text);
-    }
-    else {
-       $("#statusLine").html("Invalid entry");
-    }
+    navigator.clipboard.writeText(url).then(() => {
+       $(this).html("Copied");
+    }).catch((err) => {
+       console.error("Error copying URL: ", err);
+    });
 });
 
 
 //-----------------------------------------------
-$(document).on('click', '#searchButton', async function(e) {
-    console.log("searchButton");
-    await searchInputFunction();
+$(document).on('click', '#searchButton', function(e) {
+    const currentUrl = new URL(window.location.href);
+    currentUrl.searchParams.delete('page')
+    currentUrl.searchParams.delete('search')
+    window.history.pushState({}, '', currentUrl);
+
+    searchInputFunction();
 });
 
 
 //-----------------------------------------------
 $(document).on('click', '#helpButton', function(e) {
-    console.log("helpButton");
     $("#helpPlace").toggle();
 });
 
 $(document).on('click', '#homeButton', function(e) {
-    console.log("homeButton");
-    let file_name = getFileName();
+    let file_name = getQueryParam('file') || "permanent";
 
     const searchInput = document.getElementById('searchInput');
     searchInput.value = "";
@@ -247,18 +377,22 @@ $(document).on('click', '#homeButton', function(e) {
 
 
 //-----------------------------------------------
-$(document).on('keydown', "#searchInput", async function(e) {
+$(document).on('keydown', "#searchInput", function(e) {
     if (e.key === "Enter") {
         e.preventDefault();
 
-        await searchInputFunction();
+        const currentUrl = new URL(window.location.href);
+        currentUrl.searchParams.delete('page')
+        currentUrl.searchParams.delete('search')
+        window.history.pushState({}, '', currentUrl);
+
+        searchInputFunction();
     }
 });
 
 
 //-----------------------------------------------
-$(document).on('click', '#orderByVotes', async function(e) {
-    console.log("orderByVotes");
+$(document).on('click', '#orderByVotes', function(e) {
     if (sort_function == "-page_rating_votes")
     {
         sort_function = "page_rating_votes";
@@ -279,19 +413,19 @@ $(document).on('click', '#orderByVotes', async function(e) {
         window.history.pushState({}, '', currentUrl);
     }
 
-    await queryDatabaseLocal();
+    searchInputFunction();
 });
 
 
 //-----------------------------------------------
-$(document).on('click', '#orderByDatePublished', async function(e) {
-    if (sort_function == "date_published")
+$(document).on('click', '#orderByDatePublished', function(e) {
+    if (sort_function == "-date_published")
     {
-        sort_function = "-date_published";
+        sort_function = "date_published";
     }
     else
     {
-        sort_function = "date_published";
+        sort_function = "-date_published";
     }
 
     if (sort_function != "-page_rating_votes") {
@@ -305,7 +439,7 @@ $(document).on('click', '#orderByDatePublished', async function(e) {
         window.history.pushState({}, '', currentUrl);
     }
 
-    await queryDatabaseLocal();
+    searchInputFunction();
 });
 
 
@@ -353,10 +487,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const urlParams = new URLSearchParams(window.location.search);
     const searchParam = urlParams.get('search');
-    view_show_icons = urlParams.get("view_show_icons") || false;
-    view_display_type = urlParams.get("view_display_type") || "search-engine";
-    sort_function = urlParams.get('order') || "-page_rating_votes";
-    default_page_size = parseInt(urlParams.get('default_page_size'), 10) || 100;
+
+    if (urlParams.has("view_show_icons")) {
+        view_show_icons = urlParams.get("view_show_icons");
+    }
+    if (urlParams.has("view_display_type")) {
+        view_display_type = urlParams.get("view_display_type");
+    }
+    if (urlParams.has("order")) {
+        sort_function = urlParams.get('order');
+    }
+
+    if (urlParams.has("default_page_size")) {
+        default_page_size = parseInt(urlParams.get('default_page_size'), 10);
+    }
 
     if (searchParam) {
         searchInput.value = searchParam;
@@ -369,13 +513,5 @@ document.addEventListener('DOMContentLoaded', () => {
         catch {
             $("#statusLine").html("error");
         }
-    }
-});
-
-
-window.addEventListener("beforeunload", (event) => {
-    if (!system_initialized) {
-        event.preventDefault();
-        event.returnValue = '';
     }
 });

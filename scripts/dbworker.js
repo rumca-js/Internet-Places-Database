@@ -1,6 +1,6 @@
 importScripts('https://unpkg.com/sql.js@1.6.0/dist/sql-wasm.js')
 importScripts('https://cdn.jsdelivr.net/npm/jszip/dist/jszip.min.js')
-importScripts('./config.js?i=48');
+importScripts('./config.js?i=49');
 importScripts('./library.js?i=' + getFileVersion());
 importScripts('./database.js?i=' + getFileVersion());
 
@@ -9,18 +9,11 @@ let file_name = null;
 
 
 async function createDatabase(worker, dbFileName) {
-    if (dbFileName.indexOf(".db") !== -1) {
-       console.log("createDatabase - db");
-       let data = await requestFileChunksUintArray(dbFileName);
-       if (!data) {
-           console.log("Not file data");
-           return false;
-       }
-
-       return await createDatabaseData(data);
-    }
-    else if (dbFileName.indexOf(".zip") !== -1) {
+    if (dbFileName.indexOf(".zip") !== -1) {
        console.log("createDatabase - zip");
+
+       worker.postMessage({ success: true, message_type: "message", result: "fetching files"});
+
        let blob = requestFileChunksMultipart(dbFileName);
        if (!blob)
        {
@@ -28,10 +21,28 @@ async function createDatabase(worker, dbFileName) {
            return false;
        }
 
-       const zip = await JSZip.loadAsync(fileBlob);
+       worker.postMessage({ success: true, message_type: "message", result: "unpacking files... might take a while"});
+
+       const zip = await JSZip.loadAsync(blob);
+
+       worker.postMessage({ success: true, message_type: "message", result: "reading links from files"});
 
        let data = await unPackFile(zip, blob);
        if (!data) {
+           return false;
+       }
+
+       worker.postMessage({ success: true, message_type: "message", result: "creating database structure"});
+
+       return await createDatabaseData(data);
+    }
+    else if (dbFileName.indexOf(".db") !== -1) {
+       console.log("createDatabase - db");
+
+       let data = await requestFileChunksUintArray(dbFileName);
+       if (!data) {
+           console.log("Cannot obtain file data: " + dbFileName);
+           worker.postMessage({ success: true, message_type: "message", result: "File does not exist: " + dbFileName });
            return false;
        }
 
@@ -52,10 +63,11 @@ self.onmessage = async function (e) {
            postMessage({ success: true, message_type: "message", result: "Creating database"});
 
            console.log("Worker - creating DB: " + file_name);
-           await createDatabase(self, file_name);
-           console.log("Worker - creating DB DONE");
+           if (await createDatabase(self, file_name)) {
+              console.log("Worker - creating DB DONE");
 
-           postMessage({ success: true, message_type: "message", result: "Creating database DONE"});
+              postMessage({ success: true, message_type: "message", result: "Creating database DONE"});
+	   }
         }
     }
     else if (query)
