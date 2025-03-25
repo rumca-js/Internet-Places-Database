@@ -12,27 +12,27 @@ async function createDatabase(worker, dbFileName) {
     if (dbFileName.indexOf(".zip") !== -1) {
        console.log("createDatabase - zip");
 
-       worker.postMessage({ success: true, message_type: "message", result: "fetching files"});
+       worker.postMessage({ success: true, message_type: "message", result: "fetching files... might take a while..."});
 
-       let blob = requestFileChunksMultipart(dbFileName);
+       let blob = await requestFileChunksMultipart(dbFileName);
        if (!blob)
        {
            console.log("Not file blog");
            return false;
        }
 
-       worker.postMessage({ success: true, message_type: "message", result: "unpacking files... might take a while"});
+       worker.postMessage({ success: true, message_type: "message", result: "unpacking files..."});
 
        const zip = await JSZip.loadAsync(blob);
 
-       worker.postMessage({ success: true, message_type: "message", result: "reading links from files"});
+       worker.postMessage({ success: true, message_type: "message", result: "reading links from files..."});
 
        let data = await unPackFile(zip, blob);
        if (!data) {
            return false;
        }
 
-       worker.postMessage({ success: true, message_type: "message", result: "creating database structure"});
+       worker.postMessage({ success: true, message_type: "message", result: "creating database structure..."});
 
        return await createDatabaseData(data);
     }
