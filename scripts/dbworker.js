@@ -8,16 +8,36 @@ importScripts('./database.js?i=' + getFileVersion());
 let file_name = null;
 
 
+async function requestFileChunksFromListLog(worker, parts) {
+    let chunks = [];
+    
+    for (let part of parts) {
+        worker.postMessage({ success: true, message_type: "message", result: "fetching file " + part + "..." });
+        let chunk = await requestFileChunks(part);
+        chunks.push(chunk);
+    }
+    
+    return new Blob(chunks);
+}
+
+
 async function createDatabase(worker, dbFileName) {
     if (dbFileName.indexOf(".zip") !== -1) {
        console.log("createDatabase - zip");
 
-       worker.postMessage({ success: true, message_type: "message", result: "fetching files... might take a while..."});
+       worker.postMessage({ success: true, message_type: "message", result: "fetching file list..."});
 
-       let blob = await requestFileChunksMultipart(dbFileName);
+       let chunks = await getFilePartsList(file_name);
+       if (chunks.length == 0)
+       {
+           worker.postMessage({ success: true, message_type: "message", result: "Cannot find files..."});
+           return false;
+       }
+
+       let blob = await requestFileChunksFromListLog(worker, chunks);
        if (!blob)
        {
-           console.log("Not file blog");
+           worker.postMessage({ success: true, message_type: "message", result: "Cannot find file contents..."});
            return false;
        }
 

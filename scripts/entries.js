@@ -141,17 +141,28 @@ function getEntryBodyText(entry) {
     <div>Points: ${entry.page_rating}|${entry.page_rating_votes}|${entry.page_rating_contents}</div>
     `;
 
-    if (entry.date_dead_since)
+    if (entry.date_dead_since) {
         text += `<div>Dead since:${entry.date_dead_since}</div>`;
+    }
 
     text += `
     <div>Author: ${entry.author}</div>
     <div>Album: ${entry.album}</div>
     <div>Status code: ${entry.status_code}</div>
-    <div>Manual status code: ${entry.manual_status_code}</div>
     <div>Permanent: ${entry.permanent}</div>
-    <div>Age: ${entry.age}</div>
     `;
+
+    if (entry.manual_status_code) {
+       text += `
+       <div>Manual status code: ${entry.manual_status_code}</div>
+       `;
+    }
+
+    if (entry.age) {
+       text += `
+       <div>Age: ${entry.age}</div>
+       `;
+    }
 
     return text;
 }

@@ -302,6 +302,10 @@ $(document).on('click', '.btnNavigation', function(e) {
 
 //-----------------------------------------------
 $(document).on('click', '.entry-list', function(e) {
+    if (e.ctrlKey) {
+        return;
+    }
+
     e.preventDefault();
 
     let entryNumber = $(this).attr('entry');
