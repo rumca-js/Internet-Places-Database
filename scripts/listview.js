@@ -202,13 +202,13 @@ async function InitializeForJSON() {
 
    onSystemReady();
 
+   sortAndFilter();
+
    let entry_id = getQueryParam("entry_id");
    if (entry_id) {
       setEntryAsListData(entry_id);
    }
    else {
-      sortAndFilter();
-
       fillListData();
 
       $('#pagination').html(getPaginationText());
@@ -228,7 +228,7 @@ async function initWorker() {
     let spinner_text = getSpinnerText("Initializing worker");
     $('#statusLine').html(spinner_text);
 
-    worker = new Worker('scripts/dbworker.js?i=' + getQueryParam("i"));
+    worker = new Worker('scripts/dbworker.js?i=' + getSystemVersion());
 
     let file_name = getFileName();
 

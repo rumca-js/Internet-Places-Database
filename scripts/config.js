@@ -23,9 +23,9 @@ function getDefaultFileLocation() {
 
 function getFileVersion() {
     /* Forces refresh of the file */
-    return "64";
+    return "65";
 }
 
 function getSystemVersion() {
-    return "0.1";
+    return "0.2";
 }

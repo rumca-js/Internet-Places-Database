@@ -18,12 +18,14 @@ unpack:
 pack-split:
 	zip $(ARCHIVE_NAME) $(SOURCE_FILE)
 	split -b 50M -d $(ARCHIVE_NAME) $(ARCHIVE_NAME)
-	echo "Packed $(SOURCE_FILE) into $(ARCHIVE_NAME)"
+	echo "Packed $(SOURCE_FILE) into $(ARCHIVE_NAME) parts"
 	rm -f $(SOURCE_FILE)
+	rm -f $(ARCHIVE_NAME)
 
 unpack-split:
 	cat internet* > $(ARCHIVE_NAME)
 	7z x $(ARCHIVE_NAME)
+	rm -f $(ARCHIVE_NAME)
 
 # Clean rule to remove the archive
 clean:

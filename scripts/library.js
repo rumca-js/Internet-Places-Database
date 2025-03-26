@@ -367,14 +367,15 @@ async function requestFile(fileName, attempt = 1) {
 }
 
 
-async function requestFileChunksMultipart(file_name, attempt = 1) {
+async function getFilePartsList(file_name) {
+    let numeric = 0;
+    let parts = [];
+
     let exists = await checkIfFileExists(file_name);
     if (exists) {
-        return await requestFileChunks(file_name);
+        parts.push(file_name);
+        return parts;
     }
-    
-    let numeric = 0;
-    let chunks = [];
     
     while (true) {
         let partName = `${file_name}${String(numeric).padStart(2, '0')}`;
@@ -384,14 +385,28 @@ async function requestFileChunksMultipart(file_name, attempt = 1) {
             break;
         }
         
-        let chunk = await requestFileChunks(partName);
-        chunks.push(chunk);
+        parts.push(partName);
         numeric++;
     }
     
-    if (chunks.length === 0) {
-        throw new Error(`File ${file_name} does not exist in parts.`);
+    return parts;
+}
+
+
+async function requestFileChunksFromList(parts) {
+    let chunks = [];
+    
+    for (let part of parts) {
+        let chunk = await requestFileChunks(part);
+        chunks.push(chunk);
     }
     
     return new Blob(chunks);
+}
+
+
+async function requestFileChunksMultipart(file_name) {
+    let chunks = await getFilePartsList(file_name);
+
+    return await requestFileChunksFromList(chunks);
 }
