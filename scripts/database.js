@@ -8,7 +8,7 @@
 */
 
 function getSelectColumns() {
-    return "id, link, title, description, date_published, thumbnail, author, album, language, permanent, bookmarked, age, status_code, manual_status_code, page_rating, page_rating_votes, page_rating_contents";
+    return "l.id, l.link, l.title, l.description, l.date_published, l.thumbnail, l.author, l.album, l.language, l.permanent, l.bookmarked, l.age, l.status_code, l.manual_status_code, l.page_rating, l.page_rating_votes, l.page_rating_contents, e.tag";
 }
 
 
@@ -40,7 +40,10 @@ function unpackQueryResults(res) {
        const rows = res[0].values;
        
        rows.forEach(row => {
-         let tags = selectEntryTags(row[0]);
+         let tags = [];
+         if (row[17] != null) {
+             tags = row[17].split(',').filter(tag => tag.trim() !== '');
+         }
 
          const data = {
            id: row[0],
@@ -60,7 +63,7 @@ function unpackQueryResults(res) {
            page_rating: row[14],
            page_rating_votes: row[15],
            page_rating_contents: row[16],
-           tags : tags,
+           tags: tags,
          };
 
          results.push(data);
@@ -89,8 +92,9 @@ let PAGE_SIZE = 100;
 
 function getSelectEntry(entry_id) {
    let text = "SELECT " + getSelectColumns();
-   text = text + ' FROM linkdatamodel';
-   text = text + ` WHERE id = ${entry_id}`;
+   text = text + ` FROM linkdatamodel AS l
+                   LEFT JOIN entrycompactedtags AS e ON l.id = e.entry_id`;
+   text = text + ` WHERE l.id = ${entry_id}`;
 
    return text;
 
@@ -100,7 +104,8 @@ function getSelectEntry(entry_id) {
 function getSelectDefault() {
    let text = "SELECT " + getSelectColumns();
 
-   text = text + ` FROM linkdatamodel`;
+   text = text + ` FROM linkdatamodel AS l
+                   LEFT JOIN entrycompactedtags AS e ON l.id = e.entry_id`;
 
    let page = getQueryParam("page") || 1;
    const offset = (page - 1) * PAGE_SIZE;
@@ -118,7 +123,12 @@ function getSelectDefaultUserInput(userInput) {
    console.log(userInput);
    let text = "SELECT " + getSelectColumns();
 
-   text = text + ` FROM linkdatamodel WHERE title LIKE '%${userInput}%' OR link LIKE '%${userInput}%' OR description LIKE '%${userInput}%'`;
+   text = text + ` FROM linkdatamodel AS l
+                   LEFT JOIN entrycompactedtags AS e ON l.id = e.entry_id
+                   WHERE UPPER(l.title) LIKE UPPER('%${userInput}%')
+                   OR UPPER(l.link) LIKE UPPER('%${userInput}%')
+                   OR UPPER(l.description) LIKE UPPER('%${userInput}%')
+                   OR UPPER(e.tag) LIKE UPPER('%${userInput}%')`;
 
    let page = getQueryParam("page") || 1;
    const offset = (page - 1) * PAGE_SIZE;
@@ -136,7 +146,9 @@ function getSelectCustomSQL(userInput) {
 
    let text = "SELECT " + getSelectColumns();
 
-   text = text + ` FROM linkdatamodel WHERE ${userInput}`;
+   text = text + ` FROM linkdatamodel AS l
+                   LEFT JOIN entrycompactedtags AS e ON l.id = e.entry_id
+                   WHERE ${userInput}`;
 
    let page = getQueryParam("page") || 1;
    const offset = (page - 1) * PAGE_SIZE;

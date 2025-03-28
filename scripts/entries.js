@@ -642,13 +642,23 @@ function getOneEntryEntryText(entry) {
     title = escapeHtml(entry.title)
 
     let title_safe = "";
-    if (entry.title_safe) {
-       title_safe = escapeHtml(entry.title_safe)
+    if (canUserView(entry)) {
+       if (entry.title_safe) {
+          title_safe = escapeHtml(entry.title_safe)
+       }
+       else
+       {
+          title_safe = escapeHtml(entry.title)
+       }
     }
-    else
-    {
-       title_safe = escapeHtml(entry.title)
+    else {
+       title_safe = "----Age limited----"
     }
+    if (title_safe.length > 200) {
+        title_safe = title_safe.substring(0, 200);
+        title_safe = title_safe + "...";
+    }
+
     let tags_text = getEntryTags(entry);
 
     let hover_title = title_safe + " " + tags_text;
