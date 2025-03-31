@@ -139,9 +139,9 @@ function setLightMode() {
     const htmlElement = document.documentElement;
     htmlElement.setAttribute("data-bs-theme", "light");
 
-    // const navbar = document.getElementById('navbar');
-    // navbar.classList.remove('navbar-light', 'bg-dark');
-    // navbar.classList.add('navbar-dark', 'bg-light');
+    const navbar = document.getElementById('navbar');
+    navbar.classList.remove('navbar-dark', 'bg-dark');
+    navbar.classList.add('navbar-light', 'bg-light');
 }
 
 
@@ -156,9 +156,9 @@ function setDarkMode() {
     const htmlElement = document.documentElement;
     htmlElement.setAttribute("data-bs-theme", "dark");
 
-    // const navbar = document.getElementById('navbar');
-    // navbar.classList.remove('navbar-light', 'bg-light');
-    // navbar.classList.add('navbar-dark', 'bg-dark');
+    const navbar = document.getElementById('navbar');
+    navbar.classList.remove('navbar-light', 'bg-light');
+    navbar.classList.add('navbar-dark', 'bg-dark');
 }
 
 

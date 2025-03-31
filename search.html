@@ -12,29 +12,20 @@
         <script src="https://cdn.jsdelivr.net/npm/jszip/dist/jszip.min.js"></script>
         <script src="https://unpkg.com/sql.js@1.6.0/dist/sql-wasm.js"></script>
 
-        <link  href="styles/viewerzip.css?i=86" rel="stylesheet" crossorigin="anonymous">
-        <script   src="scripts/config.js?i=120"></script>
-        <script  src="scripts/library.js?i=120"></script>
-        <script src="scripts/database.js?i=120"></script>
-        <script  src="scripts/entries.js?i=120"></script>
-        <script src="scripts/listview.js?i=120"></script>
+        <link  href="styles/viewerzip.css?i=88" rel="stylesheet" crossorigin="anonymous">
+        <script   src="scripts/config.js?i=122"></script>
+        <script  src="scripts/library.js?i=122"></script>
+        <script src="scripts/database.js?i=122"></script>
+        <script  src="scripts/entries.js?i=122"></script>
+        <script src="scripts/listview.js?i=122"></script>
 
     </head>
 <body style="padding-bottom: 6em;">
 
+<div id="projectNavbar">
+</div>
+
 <div class="container">
-  <div class="search-container">
-    <input type="text" id="searchInput" placeholder="Enter search term..." autofocus>
-    <button id="searchButton" class="searchButton">
-      🔍
-    </button>
-    <button id="helpButton" class="searchButton">
-      ?
-    </button>
-    <button href="index.html" id="homeButton" class="searchButton text-reset">
-      🏠
-    </button>
-  </div>
 
   <div id="statusLine">
   </div>
@@ -49,25 +40,6 @@
       </p>
       <p>
       The idea behind the Offline Search Initiative is to create similar curated lists, but tailored for domains and channels. This approach could simplify access to focused content without relying on intensive, online search infrastructure. It does, surely has it's downsides.
-      </p>
-
-      <p>
-      Order by
-      <button id="orderByVotes" class="btn btn-secondary">votes</button>
-      <button id="orderByDatePublished" class="btn btn-secondary">date published</button>
-      </p>
-
-      <p>
-      View
-      <button id="viewStandard" class="btn btn-secondary">Standard</button>
-      <button id="viewGallery" class="btn btn-secondary">Gallery</button>
-      <button id="viewSearchEngine" class="btn btn-secondary">Search engine</button>
-      </p>
-
-      <p>
-      Mode
-      <button id="displayLight" class="btn btn-secondary">Light</button>
-      <button id="displayDark" class="btn btn-secondary">Dark</button>
       </p>
   </div>
 

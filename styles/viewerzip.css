@@ -1,3 +1,8 @@
+#searchInput {
+  width: 50%;
+}
+
+/*
 * {
   box-sizing: border-box;
   margin: 0;
@@ -48,6 +53,8 @@
   background-color: #e0e0e0;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
+*/
+
 
 .icon-small {
     /* icon image of generic icons. related icons, etc */

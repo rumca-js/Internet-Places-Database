@@ -17,14 +17,23 @@ function getDefaultFileName() {
     return "internet.db";
 }
 
+
+function getFileList() {
+    return ["internet.db",
+    ;
+}
+
+
 function getDefaultFileLocation() {
     return "/";
 }
+
 
 function getFileVersion() {
     /* Forces refresh of the file */
     return "68";
 }
+
 
 function getSystemVersion() {
     return "0.8";
