@@ -20,7 +20,7 @@ function getDefaultFileName() {
 
 function getFileList() {
     return ["internet.db",
-    ;
+    ];
 }
 
 
@@ -31,7 +31,7 @@ function getDefaultFileLocation() {
 
 function getFileVersion() {
     /* Forces refresh of the file */
-    return "68";
+    return "69";
 }
 
 
