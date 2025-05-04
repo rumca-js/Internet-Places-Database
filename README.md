@@ -80,10 +80,11 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
  - This local search might be faster than your ISP, depending on drive, machine, etc
  - It may be more secure. You can verify domain, it's status, how long it operates before accessing the Internet
 
-# Alternative solutions
+# Crawl data, notable resources
 
 - [Internet Archive](https://www.archive.org/)
 - [Common Crawl](https://commoncrawl.org/)
+- [Awesome crawler data](https://github.com/BruceDone/awesome-crawler)
 - [Open page rank](https://publicapi.dev/open-page-rank-api)
 - [Arxiv](https://arxiv.org/)
 - [Anna's Archive](https://annas-archive.org/)
