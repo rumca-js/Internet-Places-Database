@@ -80,18 +80,19 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
  - This local search might be faster than your ISP, depending on drive, machine, etc
  - It may be more secure. You can verify domain, it's status, how long it operates before accessing the Internet
 
-# Web crawling & Data Archives
+## Web crawling & Data Archives
+There are many interesting places that provide information about web crawling
 
 - [Common Crawl](https://commoncrawl.org/)
 - [Internet Archive](https://www.archive.org/)
 - [Anna's Archive](https://annas-archive.org/)
 - [Awesome crawler data](https://github.com/BruceDone/awesome-crawler)
 
-# Ranking and metrics
+## Ranking and metrics
 - [Open page rank](https://publicapi.dev/open-page-rank-api)
-- [Page rank] https://en.wikipedia.org/wiki/PageRank
+- [Page rank](https://en.wikipedia.org/wiki/PageRank)
 
-# Academic and news content
+## Academic and news content
 - [Arxiv](https://arxiv.org/)
 - [Guardian newspaper](https://theguardian.newspapers.com/)
 
