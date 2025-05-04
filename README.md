@@ -87,6 +87,9 @@ There are many interesting places that provide information about web crawling
 - [Internet Archive](https://www.archive.org/)
 - [Anna's Archive](https://annas-archive.org/)
 - [Awesome crawler data](https://github.com/BruceDone/awesome-crawler)
+- [Kiwix](https://kiwix.org/)
+- [Sci Hub](https://sci-hub.se)
+- [Internet in a box](https://internet-in-a-box.org/)
 
 ## Ranking and metrics
 - [Open page rank](https://publicapi.dev/open-page-rank-api)
