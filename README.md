@@ -105,30 +105,31 @@ There are many interesting places that provide information about web crawling
 
 Tables, and sizes (will definitely change over time)
 ```
-Table: blockentrylist, Row count: 30
+Table: blockentrylist, Row count: 27
+Table: browser, Row count: 8
 Table: compactedtags, Row count: 3352
 Table: configurationentry, Row count: 1
 Table: dataexport, Row count: 0
-Table: domains, Row count: 1112187
-Table: entrycompactedtags, Row count: 15260
-Table: entryrules, Row count: 14
+Table: domains, Row count: 1146895
+Table: entrycompactedtags, Row count: 15162
+Table: entryrules, Row count: 12
 Table: gateway, Row count: 82
-Table: linkdatamodel, Row count: 1111337
+Table: linkdatamodel, Row count: 1146218
 Table: modelfiles, Row count: 0
 Table: readlater, Row count: 0
 Table: sourcecategories, Row count: 8
 Table: sourcedatamodel, Row count: 11704
 Table: sourcesubcategories, Row count: 13
 Table: user, Row count: 5
-Table: userbookmarks, Row count: 13077
-Table: usercomments, Row count: 1
+Table: userbookmarks, Row count: 797
+Table: usercomments, Row count: 0
 Table: usercompactedtags, Row count: 3352
 Table: userconfig, Row count: 3
-Table: userentrytransitionhistory, Row count: 6370
+Table: userentrytransitionhistory, Row count: 6344
 Table: userentryvisithistory, Row count: 5001
 Table: usersearchhistory, Row count: 0
-Table: usertags, Row count: 23095
-Table: uservotes, Row count: 27997
+Table: usertags, Row count: 22812
+Table: uservotes, Row count: 27333
 ```
 
 # Files
