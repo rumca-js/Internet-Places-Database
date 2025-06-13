@@ -120,11 +120,20 @@ function getNavBar() {
 
     let nav_text = `
     <nav id="navbar" class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+      <div class="d-flex w-100">
+        <!-- Form with search input -->
+        <form class="d-flex w-100 ms-3" id="searchContainer">
+          <input id="searchInput" class="form-control me-2 flex-grow-1" type="search" placeholder="Search" autofocus aria-label="Search">
+          <button id="searchButton" class="btn btn-outline-success" type="submit">🔍</button>
+        </form>
+
+        <!-- Navbar toggler button, aligned to the right -->
+        <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
     
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="collapse navbar-collapse ms-3" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
             <a id="homeButton" class="nav-link" href="#">🏠</a>
@@ -148,12 +157,12 @@ function getNavBar() {
                 <li><a id="viewGallery" class="dropdown-item" href="#">Gallery</a></li>
                 <li><a id="viewSearchEngine" class="dropdown-item" href="#">Search engine</a></li>
 
-		<li><hr class="dropdown-divider"></li>
+                <li><hr class="dropdown-divider"></li>
 
                 <li><a id="displayLight" class="dropdown-item" href="#">Light</a></li>
                 <li><a id="displayDark" class="dropdown-item" href="#">Dark</a></li>
 
-		<li><hr class="dropdown-divider"></li>
+                <li><hr class="dropdown-divider"></li>
 
                 <li><a id="orderByVotes" class="dropdown-item" href="#">Order by Votes</a></li>
                 <li><a id="orderByDatePublished" class="dropdown-item" href="#">Order by Date published</a></li>
@@ -165,13 +174,8 @@ function getNavBar() {
           </li>
         </ul>
       </div>
-
-      <form class="d-flex" id="searchContainer">
-        <input id="searchInput" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button id="searchButton" class="btn btn-outline-success" type="submit">🔍</button>
-      </form>
     </nav>
-`
+    `;
     return nav_text;
 }
 
@@ -239,9 +243,9 @@ function searchInputFunctionDb() {
 
 
 function searchInputFunction() {
-    const userInput = $("#searchInput").val();
     let file_name = getFileName();
 
+    const userInput = $("#searchInput").val();
     if (userInput.trim() != "") {
         document.title = userInput;
     }
@@ -324,13 +328,13 @@ async function InitializeForJSON() {
    console.log("Sorting links");
 
    all_entries = { ...object_list_data };
-   sortAndFilter();
 
    console.log("On system ready");
    onSystemReady();
 
    let entry_id = getQueryParam("entry_id");
    if (!entry_id) {
+      sortAndFilter();
       fillListData();
 
       $('#pagination').html(getPaginationText());
@@ -339,6 +343,8 @@ async function InitializeForJSON() {
 
 
 function onSystemReady() {
+    /* shared between JSON and DB */
+
     system_initialized = true;
     $('#searchInput').prop('disabled', false);
 
@@ -482,6 +488,11 @@ $(document).on('click', '.go-back-button', function(e) {
 
     fillListData();
     $('#pagination').html(getPaginationText());
+
+    const userInput = $("#searchInput").val();
+    if (userInput.trim() != "") {
+        document.title = userInput;
+    }
 });
 
 

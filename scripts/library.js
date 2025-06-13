@@ -16,6 +16,8 @@ function escapeHtml(unsafe)
     if (unsafe == null)
         return "";
 
+    unsafe = String(unsafe);
+
     return unsafe
          .replace(/&/g, "&amp;")
          .replace(/</g, "&lt;")
@@ -38,6 +40,10 @@ function createLinks(inputText) {
     });
 
     return inputText;
+}
+
+function isEmpty( el ){
+    return !$.trim(el.html())
 }
 
 
@@ -124,7 +130,170 @@ function GetPaginationNav(currentPage, totalPages, totalRows) {
 }
 
 
-/** functions **/
+function getHumanReadableNumber(num) {
+    if (num >= 1e9) {
+        return (num / 1e9).toFixed(1) + "B"; // Billions
+    } else if (num >= 1e6) {
+        return (num / 1e6).toFixed(1) + "M"; // Millions
+    } else if (num >= 1e3) {
+        return (num / 1e3).toFixed(1) + "K"; // Thousands
+    }
+    return num.toString(); // Small numbers
+}
+
+
+function parseDate(inputDate) {
+    return inputDate.toLocaleString();
+}
+
+
+class InputContent {
+  constructor(text) {
+    this.text = text;
+  }
+
+  htmlify() {
+    this.text = this.stripHtmlAttributes();
+    this.text = this.linkify("https://");
+    this.text = this.linkify("http://");
+    return this.text;
+  }
+
+  stripHtmlAttributes() {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(this.text, "text/html");
+
+    const walk = (node) => {
+      if (node.nodeType === Node.ELEMENT_NODE) {
+        if (node.tagName.toLowerCase() === "a") {
+          const href = node.getAttribute("href");
+          node.getAttributeNames().forEach(attr => node.removeAttribute(attr));
+          if (href) node.setAttribute("href", href);
+        } else if (node.tagName.toLowerCase() === "img") {
+          const src = node.getAttribute("src");
+          node.getAttributeNames().forEach(attr => node.removeAttribute(attr));
+          if (src) node.setAttribute("src", src);
+        } else {
+          node.getAttributeNames().forEach(attr => node.removeAttribute(attr));
+        }
+      }
+      for (let child of node.childNodes) {
+        walk(child);
+      }
+    };
+
+    walk(doc.body);
+    return doc.body.innerHTML;
+  }
+
+  linkify(protocol = "https://") {
+    if (!this.text.includes(protocol)) return this.text;
+
+    const regex = new RegExp(`${protocol}\\S+?(?=[^\\w./-?#&%@-]|$)`, 'g');
+
+    this.text = this.text.replace(regex, (url, offset, fullText) => {
+      const preceding = fullText.slice(Math.max(0, offset - 10), offset);
+      if (!preceding.includes('<a href="') && !preceding.includes("<img")) {
+        return `<a href="${url}">${url}</a>`;
+      } else {
+        return url;
+      }
+    });
+
+    return this.text;
+  }
+}
+
+
+/**
+ * services
+ */
+
+
+function fixStupidGoogleRedirects(input_url) {
+    if (!input_url) {
+        return null;
+    }
+
+    if (input_url.includes("www.google.com/url")) {
+        const url = new URL(input_url);
+        let realURL = url.searchParams.get('q');
+        if (realURL) {
+            return realURL;
+        }
+        realURL = url.searchParams.get('url');
+        if (realURL) {
+            return realURL;
+        }
+        return input_url;
+    }
+
+    if (input_url.includes("www.youtube.com/redirect")) {
+        const url = new URL(input_url);
+        let redirectURL = url.searchParams.get('q');
+
+        if (redirectURL) {
+            return decodeURIComponent(redirectURL);
+        }
+        else {
+            return input_url;
+        }
+    }
+
+    return input_url;
+}
+
+
+function getYouTubeVideoId(url) {
+    try {
+        const urlObj = new URL(url);
+        const hostname = urlObj.hostname;
+
+        if (hostname.includes("youtu.be")) {
+            return urlObj.pathname.slice(1);
+        }
+
+        if (urlObj.searchParams.has("v")) {
+            return urlObj.searchParams.get("v");
+        }
+
+        const paths = urlObj.pathname.split("/");
+        const validPrefixes = ["embed", "shorts", "v"];
+        if (validPrefixes.includes(paths[1]) && paths[2]) {
+            return paths[2];
+        }
+
+        return null;
+    } catch (e) {
+        return null;
+    }
+}
+
+
+function getYouTubeEmbedDiv(youtubeUrl) {
+    const videoId = getYouTubeVideoId(youtubeUrl);
+    if (videoId) {
+        const embedUrl = `https://www.youtube.com/embed/${videoId}`;
+        const frameHtml = `
+            <div class="youtube_player_container mb-4">
+                <iframe 
+                    src="${embedUrl}" 
+                    frameborder="0" 
+                    allowfullscreen 
+                    class="youtube_player_frame w-100" 
+                    style="aspect-ratio: 16 / 9;"
+                    referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+            </div>
+        `;
+        return frameHtml;
+    }
+}
+
+
+/**
+ Specific
+*/
 
 
 function setLightMode() {
