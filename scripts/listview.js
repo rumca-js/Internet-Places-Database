@@ -441,6 +441,11 @@ function resetParams() {
 }
 
 
+function getVersionInformation() {
+    return "File version:" + getFileVersion() + " System version:" + getSystemVersion();
+}
+
+
 //-----------------------------------------------
 $(document).on('click', '.btnNavigation', function(e) {
     e.preventDefault();
@@ -697,4 +702,6 @@ document.addEventListener('DOMContentLoaded', () => {
             $("#statusLine").html("error");
         }
     }
+
+    $("#version").html(getVersionInformation());
 });
