@@ -187,20 +187,37 @@ class InputContent {
   }
 
   linkify(protocol = "https://") {
-    if (!this.text.includes(protocol)) return this.text;
+    let text = this.text;
 
-    const regex = new RegExp(`${protocol}\\S+?(?=[^\\w./-?#&%@-]|$)`, 'g');
+    if (!text.includes(protocol)) {
+        return text;
+    }
 
-    this.text = this.text.replace(regex, (url, offset, fullText) => {
-      const preceding = fullText.slice(Math.max(0, offset - 10), offset);
-      if (!preceding.includes('<a href="') && !preceding.includes("<img")) {
-        return `<a href="${url}">${url}</a>`;
-      } else {
-        return url;
-      }
-    });
+    let result = "";
+    let i = 0;
 
-    return this.text;
+    while (i < text.length) {
+        const pattern = new RegExp(`${protocol}\\S+(?![\\w.])`);
+        const match = text.slice(i).match(pattern);
+
+        if (match && match.index === 0) {
+            const url = match[0];
+            const precedingChars = text.slice(Math.max(0, i - 10), i);
+
+            if (!precedingChars.includes('<a href="') && !precedingChars.includes("<img")) {
+                result += `<a href="${url}">${url}</a>`;
+            } else {
+                result += url;
+            }
+
+            i += url.length;
+        } else {
+            result += text[i];
+            i += 1;
+        }
+    }
+
+    return result;
   }
 }
 
@@ -270,6 +287,29 @@ function getYouTubeVideoId(url) {
 }
 
 
+function getYouTubeChannelId(url) {
+    try {
+        const urlObj = new URL(url);
+        const hostname = urlObj.hostname;
+
+        if (urlObj.searchParams.has("channel_id")) {
+            return urlObj.searchParams.get("channel_id");
+        }
+
+        return null;
+    } catch (e) {
+        return null;
+    }
+}
+
+
+function getYouTubeChannelUrl(url) {
+    let id = getYouTubeChannelId(url);
+    if (id)
+        return `https://www.youtube.com/channel/${id}`;
+}
+
+
 function getYouTubeEmbedDiv(youtubeUrl) {
     const videoId = getYouTubeVideoId(youtubeUrl);
     if (videoId) {
@@ -288,6 +328,17 @@ function getYouTubeEmbedDiv(youtubeUrl) {
         `;
         return frameHtml;
     }
+}
+
+
+function getChannelUrl(url) {
+    let channelid = null;
+    if (!url)
+        return;
+
+    channelid = getYouTubeChannelUrl(url);
+    if (channelid)
+        return channelid;
 }
 
 
