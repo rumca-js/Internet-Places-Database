@@ -491,6 +491,7 @@ $(document).on('click', '.go-back-button', function(e) {
     currentUrl.searchParams.delete('entry_id')
     window.history.pushState({}, '', currentUrl);
 
+    sortAndFilter();
     fillListData();
     $('#pagination').html(getPaginationText());
 

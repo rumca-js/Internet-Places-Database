@@ -6,11 +6,15 @@
 
 
 function isStatusCodeValid(entry) {
-    if (entry.status_code >= 200 && entry.status_code <= 400)
+    if (entry.status_code >= 200 && entry.status_code < 400)
         return true;
 
     // unknown status is valid (undetermined, not invalid)
     if (entry.status_code == 0)
+        return true;
+
+    // user agent, means that something is valid, but behind paywall
+    if (entry.status_code == 403)
         return true;
 
     return false;
@@ -1014,6 +1018,7 @@ function sortEntries(entries) {
 /*
 module.exports = {
     getEntryTags,
-    getEntryListText
+    getEntryListText,
+    isStatusCodeValid,
 };
 */
