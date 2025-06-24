@@ -134,9 +134,8 @@ Table: uservotes, Row count: 27312
 ```
 
 # Contributing
-
- - [Contributing](https://github.com/rumca-js/Django-link-archive/blob/main/CONTRIBUTING.md)
-
+ - [Contributing instructions](https://github.com/rumca-js/Internet-Places-Database/blob/main/CONTRIBUTING.md)
+ 
 # Files
 
 Data are distributed in internet.zip file, split with 50MB parts.
