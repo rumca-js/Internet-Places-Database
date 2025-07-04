@@ -67,6 +67,7 @@ function filterEntries(entries, searchText) {
 
 
 function fillListData() {
+   console.log("fillListData");
    fillEntireListData();
 }
 
@@ -181,6 +182,8 @@ function getNavBar() {
 
 
 function sortAndFilter() {
+    console.log("sortAndFilter");
+
     const search_text = $("#searchInput").val();
 
     let entries = all_entries.entries;
@@ -347,6 +350,7 @@ function onSystemReady() {
 
     system_initialized = true;
     $('#searchInput').prop('disabled', false);
+    $('#searchInput').focus();
 
    let entry_id = getQueryParam("entry_id");
    if (entry_id) {
@@ -662,16 +666,17 @@ $(document).on("click", '#displayDark', function(e) {
 
 
 document.addEventListener('DOMContentLoaded', () => {
+    console.log("Initializing")
     $("#projectNavbar").html(getNavBar());
     $("#projectList").html(getProjectListText());
 
-    const searchInput = document.getElementById('searchContainer');
+    const searchContainer = document.getElementById('searchContainer');
 
     if (isMobile()) {
-        searchInput.style.width = '100%';
+        searchContainer.style.width = '100%';
     }
     else {
-        searchInput.style.width = '60%';
+        searchContainer.style.width = '60%';
     }
 
     const urlParams = new URLSearchParams(window.location.search);
@@ -692,7 +697,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     if (searchParam) {
-        searchInput.value = searchParam;
+        $("#searchInput").val(searchParam);
     }
 
     if (!object_list_data) {

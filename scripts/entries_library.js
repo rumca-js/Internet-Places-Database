@@ -66,7 +66,7 @@ function getEntryVotesBadge(entry, overflow=false) {
     }
 
     let badge_text = entry.page_rating_votes > 0 ? `
-        <span class="badge text-bg-warning" style="${style}">
+        <span class="badge text-bg-warning" style="${style}" title="User vote">
             ${entry.page_rating_votes}
         </span>` : '';
 
@@ -81,7 +81,7 @@ function getEntryBookmarkBadge(entry, overflow=false) {
     }
 
     let badge_star = entry.bookmarked ? `
-        <span class="badge text-bg-warning" style="${style}">
+        <span class="badge text-bg-warning" style="${style}" title="Bookmarked">
             ★
         </span>` : '';
     return badge_star;
@@ -95,7 +95,7 @@ function getEntryAgeBadge(entry, overflow=false) {
     }
 
     let badge_text = entry.age > 0 ? `
-        <span class="badge text-bg-warning" style="${style}">
+        <span class="badge text-bg-warning" style="${style}" title="Age limit">
             A
         </span>` : '';
     return badge_text;
@@ -109,7 +109,7 @@ function getEntryDeadBadge(entry, overflow=false) {
     }
 
     let badge_text = entry.date_dead_since ? `
-        <span class="badge text-bg-warning" style="${style}">
+        <span class="badge text-bg-warning" style="${style}" title="Dead">
            💀
         </span>` : '';
     return badge_text;
@@ -382,7 +382,7 @@ function getEntryOpParameters(entry) {
 
     text += `
     <h3>Parameters</h3>
-    <div>Points: ${entry.page_rating}|${entry.page_rating_votes}|${entry.page_rating_contents}</div>
+    <div title="Points:Page rating|User rating|Page contents rating">Points: ${entry.page_rating}|${entry.page_rating_votes}|${entry.page_rating_contents}</div>
     `;
 
     if (entry.date_created) {
