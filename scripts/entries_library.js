@@ -931,27 +931,9 @@ function isEntrySearchHitAdvanced(entry, searchText) {
         operator_2 = result[1].trim();
     }
 
-    if (operator_0 == "title")
-    {
-        if (operator_1 == "=" && entry.title && entry.title.toLowerCase().includes(operator_2.toLowerCase()))
-            return true;
-        if (operator_1 == "==" && entry.title && entry.title.toLowerCase() == operator_2.toLowerCase())
-            return true;
-    }
-    if (operator_0 == "link")
-    {
-        if (operator_1 == "=" && entry.link && entry.link.toLowerCase().includes(operator_2.toLowerCase()))
-            return true;
-        if (operator_1 == "==" && entry.link && entry.link.toLowerCase() == operator_2.toLowerCase())
-            return true;
-    }
-    if (operator_0 == "description")
-    {
-        if (operator_1 == "=" && entry.description && entry.description.toLowerCase().includes(operator_2.toLowerCase()))
-            return true;
-        if (operator_1 == "==" && entry.description && entry.description.toLowerCase() == operator_2.toLowerCase())
-            return true;
-    }
+    let ignore_case = true;
+    let thing_to_check = "";
+
     if (operator_0 == "tag")
     {
         if (entry.tags && Array.isArray(entry.tags)) {
@@ -969,7 +951,32 @@ function isEntrySearchHitAdvanced(entry, searchText) {
             }
         }
     }
+
+    if (operator_0 == "title")
+    {
+        thing_to_check = entry.title;
+    }
+    if (operator_0 == "link")
+    {
+        thing_to_check = entry.link;
+    }
+    if (operator_0 == "description")
+    {
+        thing_to_check = entry.description;
+    }
+    if (operator_0 == "language")
+    {
+        thing_to_check = entry.language;
+    }
+
+    if (operator_1 == "=" && thing_to_check && thing_to_check.toLowerCase().includes(operator_2.toLowerCase()))
+        return true;
+    if (operator_1 == "==" && thing_to_check && thing_to_check.toLowerCase() == operator_2.toLowerCase())
+        return true;
+
+    return false;
 } 
+
 
 function sortEntries(entries) {
     if (sort_function == "page_rating_votes") {
