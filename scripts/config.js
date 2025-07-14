@@ -38,3 +38,23 @@ function getFileVersion() {
 function getSystemVersion() {
     return "0.8";
 }
+
+
+function getInitialSearchSuggestsions() {
+    return ["link = youtube.com/channel",
+        "youtube.com/channel",
+        "link=github.com/",
+        "link=reddit.com/",
+        "tag=search engine",
+        "tag=operating system",
+        "tag=interesting",
+        "tag=self host",
+        "tag=programming language",
+        "tag=music artist",
+        "tag=music band",
+        "tag=video games",
+        "tag=video game",
+        "tag=wtf",
+        "tag=funny",
+    ];
+}

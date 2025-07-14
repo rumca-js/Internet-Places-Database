@@ -1,6 +1,7 @@
 
 let all_entries = null;
 let entries_length = 0;
+let search_suggestions = [];
 
 
 function getFileName() {
@@ -15,6 +16,13 @@ function getFileName() {
         file_name = adir + file_name
 
     return file_name;
+}
+
+
+function getSearchSuggestsions() {
+   let initial_search_suggestions = getInitialSearchSuggestsions();
+
+   return [...search_suggestions, ...initial_search_suggestions];
 }
 
 
@@ -116,6 +124,23 @@ function getProjectListTextNav() {
 }
 
 
+function getSearchSuggestionContainer() {
+    const suggestions = getSearchSuggestsions();
+    let listItems = suggestions.map(suggestion =>
+        `<li class="list-group-item suggestion-item" data-search="${suggestion}">🔍${suggestion}</li>`
+    ).join("");
+
+    let html = `
+        <div id="search-suggestions" class="mt-2" style="display:none;">
+            <ul class="list-group" id="suggestion-list">
+               ${listItems}
+            </ul>
+        </div>
+    `;
+    return html;
+}
+
+
 function getNavBar() {
     let project_text = getProjectListTextNav();
 
@@ -124,8 +149,11 @@ function getNavBar() {
       <div class="d-flex w-100">
         <!-- Form with search input -->
         <form class="d-flex w-100 ms-3" id="searchContainer">
-          <input id="searchInput" class="form-control me-2 flex-grow-1" type="search" placeholder="Search" autofocus aria-label="Search">
-          <button id="searchButton" class="btn btn-outline-success" type="submit">🔍</button>
+          <div class="input-group">
+            <input id="searchInput" class="form-control me-1 flex-grow-1" type="search" placeholder="Search" autofocus aria-label="Search">
+            <button id="dropdownButton" class="btn btn-outline-secondary" type="button">⌄</button>
+            <button id="searchButton" class="btn btn-outline-success" type="submit">🔍</button>
+          </div>
         </form>
 
         <!-- Navbar toggler button, aligned to the right -->
@@ -177,7 +205,10 @@ function getNavBar() {
       </div>
     </nav>
     `;
-    return nav_text;
+
+    let suggestions = getSearchSuggestionContainer();
+
+    return nav_text + " " + suggestions;
 }
 
 
@@ -446,7 +477,21 @@ function resetParams() {
 
 
 function getVersionInformation() {
-    return "File version:" + getFileVersion() + " System version:" + getSystemVersion();
+   return "File version:" + getFileVersion() + " System version:" + getSystemVersion();
+}
+
+
+function hideSearchSuggestions() {
+   let search_suggestions = document.getElementById("search-suggestions");
+   search_suggestions.style.display = "none";
+   $("#dropdownButton").html("⌄");
+}
+
+
+function showSearchSuggestions() {
+   let search_suggestions = document.getElementById("search-suggestions");
+   search_suggestions.style.display = "block";
+   $("#dropdownButton").html("^");
 }
 
 
@@ -537,9 +582,39 @@ $(document).on('click', '.projectButton', function(e) {
 
 
 //-----------------------------------------------
+$(document).on('click', '.suggestion-item', function(e) {
+    e.preventDefault();
+
+    const searchInput = document.getElementById('searchInput');
+    let suggestion_item_value = $(this).data('search')
+
+    searchInput.value = suggestion_item_value;
+
+    hideSearchSuggestions();
+
+    searchInputFunction();
+});
+
+
+//-----------------------------------------------
+$(document).on('click', '#dropdownButton', function(e) {
+    e.preventDefault();
+
+    let search_suggestions = document.getElementById("search-suggestions");
+    if (search_suggestions.style.display == "none") {
+        showSearchSuggestions();
+    }
+    else {
+        hideSearchSuggestions();
+    }
+});
+
+
+//-----------------------------------------------
 $(document).on('click', '#searchButton', function(e) {
     e.preventDefault();
 
+    hideSearchSuggestions();
     resetParams();
 
     searchInputFunction();
@@ -562,6 +637,7 @@ $(document).on('click', '#homeButton', function(e) {
     $('#listData').html("");
     $('#pagination').html("");
 
+    hideSearchSuggestions();
     resetParams();
 });
 
@@ -571,6 +647,7 @@ $(document).on('keydown', "#searchInput", function(e) {
     if (e.key === "Enter") {
         e.preventDefault();
 
+        hideSearchSuggestions();
         resetParams();
 
         searchInputFunction();
