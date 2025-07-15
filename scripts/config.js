@@ -36,25 +36,24 @@ function getFileVersion() {
 
 
 function getSystemVersion() {
-    return "0.8";
+    return "0.9";
 }
 
 
 function getInitialSearchSuggestsions() {
-    return ["link = youtube.com/channel",
-        "youtube.com/channel",
-        "link=github.com/",
-        "link=reddit.com/",
-        "tag=search engine",
-        "tag=operating system",
-        "tag=interesting",
-        "tag=self host",
-        "tag=programming language",
-        "tag=music artist",
-        "tag=music band",
-        "tag=video games",
-        "tag=video game",
-        "tag=wtf",
-        "tag=funny",
+    return ["link LIKE '%youtube.com/channel%'",
+        "link LIKE '%github.com/%'",
+        "link LIKE '%reddit.com/%'",
+        "e.tag LIKE '%search engine%'",
+        "e.tag LIKE '%operating system%'",
+        "e.tag LIKE '%interesting%'",
+        "e.tag LIKE '%self host%'",
+        "e.tag LIKE '%programming language%'",
+        "e.tag LIKE '%music artist%'",
+        "e.tag LIKE '%music band%'",
+        "e.tag LIKE '%video games%'",
+        "e.tag LIKE '%video game%'",
+        "e.tag LIKE '%wtf%'",
+        "e.tag LIKE '%funny%'",
     ];
 }

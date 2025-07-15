@@ -269,6 +269,14 @@ https://localhost:8000/search.html   # visit
   <img alt="Project Logo" src="images/its_easy_internet_on_internet.png">
 </div>
 
+## Search box input
+
+You can search by keywords, so searching by 'Yandex', 'Bing' should work.
+
+The search by default is case insensitive.
+
+If LIKE exists in query, then input is treated as part of "WHERE" query.
+
 # You don't like it? Fork it!
 
 I have my own opinions, with which you do not have to agree. Most of tags, votes are added manually. You can use this repository, as a starting point, to kick off your own project. Add your own tags. Create your own version of search engine. Good luck!
