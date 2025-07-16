@@ -24,6 +24,10 @@ from sqlalchemy import create_engine
 
 
 def print_summary(db, print_columns=False):
+    if not os.path.isfile(db):
+        print("File does not exist:{}".format(db))
+        return
+
     engine = create_engine("sqlite:///" + db)
     r = ReflectedEntryTable(engine)
     r.print_summary(print_columns)
@@ -114,6 +118,11 @@ class DataAnalyzer(object):
 
     def process(self):
         if self.is_db_scan():
+            file = self.parser.args.db
+            if not os.path.isfile(file):
+                print("File does not exist:{}".format(file))
+                return
+
             self.engine = create_engine("sqlite:///" + self.parser.args.db)
 
             row_handler = SearchInterface(self.parser, self.engine)
