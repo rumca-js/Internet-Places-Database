@@ -237,7 +237,7 @@ function sortAndFilter() {
 }
 
 
-function searchInputFunctionJSON() {
+function performSearchJSON() {
     if (!system_initialized) {
         $("#statusLine").html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Reading data...`);
         return;
@@ -258,7 +258,7 @@ function searchInputFunctionJSON() {
 }
 
 
-function searchInputFunctionDb() {
+function performSearchDb() {
     if (!worker) {
         $('#statusLine').html("Worker problem");
         return;
@@ -276,7 +276,7 @@ function searchInputFunctionDb() {
 }
 
 
-function searchInputFunction() {
+function performSearch() {
     let file_name = getFileName();
 
     const userInput = $("#searchInput").val();
@@ -289,10 +289,10 @@ function searchInputFunction() {
     window.history.pushState({}, '', currentUrl);
 
     if (isWorkerNeeded(file_name)) {
-       return searchInputFunctionDb();
+       return performSearchDb();
     }
     else {
-       return searchInputFunctionJSON();
+       return performSearchJSON();
     }
 }
 
@@ -385,7 +385,7 @@ function onSystemReady() {
 
    let entry_id = getQueryParam("entry_id");
    if (entry_id) {
-      searchInputFunction();
+      performSearch();
    }
    else {
       $('#statusLine').html("System is ready! You can perform search now");
@@ -507,7 +507,7 @@ $(document).on('click', '.btnNavigation', function(e) {
 
     animateToTop();
 
-    searchInputFunction();
+    performSearch();
 });
 
 
@@ -592,7 +592,7 @@ $(document).on('click', '.suggestion-item', function(e) {
 
     hideSearchSuggestions();
 
-    searchInputFunction();
+    performSearch();
 });
 
 
@@ -617,7 +617,7 @@ $(document).on('click', '#searchButton', function(e) {
     hideSearchSuggestions();
     resetParams();
 
-    searchInputFunction();
+    performSearch();
 });
 
 
@@ -650,7 +650,7 @@ $(document).on('keydown', "#searchInput", function(e) {
         hideSearchSuggestions();
         resetParams();
 
-        searchInputFunction();
+        performSearch();
     }
 });
 
@@ -677,7 +677,7 @@ $(document).on('click', '#orderByVotes', function(e) {
         window.history.pushState({}, '', currentUrl);
     }
 
-    searchInputFunction();
+    performSearch();
 });
 
 
@@ -703,7 +703,7 @@ $(document).on('click', '#orderByDatePublished', function(e) {
         window.history.pushState({}, '', currentUrl);
     }
 
-    searchInputFunction();
+    performSearch();
 });
 
 
