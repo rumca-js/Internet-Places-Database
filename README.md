@@ -46,7 +46,7 @@ The goal is to check how "wide" the Internet is, not how "deep" individual place
 
  - [Simple Search](https://rumca-js.github.io/search) uses domains that have votes > 0
 
- - [Music search](https://rumca-js.github.io/music) music bookmarks
+ - [Music search](https://rumca-js.github.io/music) music bookmarks. Not really related, but you can check it out
 
 # Sources of data
 
