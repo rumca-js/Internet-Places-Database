@@ -12,7 +12,7 @@ class AlchemySymbolEvaluator(SingleSymbolEvaluator):
     return 1 if true
     """
 
-    def __init__(self, table, ignore_case = False):
+    def __init__(self, table, ignore_case=False):
         self.table = table
         self.ignore_case = ignore_case
 
@@ -153,11 +153,15 @@ class AlchemySearch(object):
                 order_by_clause = order_by_column.asc()
 
             # Use select() for SQLAlchemy Core
-            stmt = select(self.destination_table).where(combined_query_conditions).order_by(order_by_clause)
+            stmt = (
+                select(destination_table)
+                .where(combined_query_conditions)
+                .order_by(order_by_clause)
+            )
 
             # Execute the query
             result = connection.execute(stmt)
-            
+
             # Fetch all results
             rows = result.fetchall()
 
