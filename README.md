@@ -105,38 +105,41 @@ There are many interesting places that provide information about web crawling
 
 Tables, and sizes (will definitely change over time)
 ```
-Table: blockentrylist, Row count: 27
+Table: blockentrylist, Row count: 28
 Table: browser, Row count: 8
-Table: compactedtags, Row count: 3733
+Table: compactedtags, Row count: 3756
 Table: configurationentry, Row count: 1
 Table: credentials, Row count: 0
 Table: dataexport, Row count: 0
-Table: domains, Row count: 1542766
-Table: entrycompactedtags, Row count: 16983
+Table: domains, Row count: 1540220
+Table: entrycompactedtags, Row count: 17062
 Table: entryrules, Row count: 15
 Table: gateway, Row count: 82
-Table: linkdatamodel, Row count: 1545220
+Table: linkdatamodel, Row count: 1542999
 Table: modelfiles, Row count: 0
 Table: readlater, Row count: 0
-Table: searchview, Row count: 8
-Table: socialdata, Row count: 34677
+Table: searchview, Row count: 11
+Table: socialdata, Row count: 34874
 Table: sourcecategories, Row count: 9
 Table: sourcedatamodel, Row count: 11704
 Table: sourcesubcategories, Row count: 14
 Table: user, Row count: 5
-Table: userbookmarks, Row count: 1909
+Table: userbookmarks, Row count: 1986
 Table: usercomments, Row count: 0
-Table: usercompactedtags, Row count: 3733
+Table: usercompactedtags, Row count: 3756
 Table: userconfig, Row count: 3
-Table: userentrytransitionhistory, Row count: 9357
+Table: userentrytransitionhistory, Row count: 10020
 Table: userentryvisithistory, Row count: 5001
 Table: usersearchhistory, Row count: 0
-Table: usertags, Row count: 25670
-Table: uservotes, Row count: 27600
+Table: usertags, Row count: 25807
+Table: uservotes, Row count: 27663
 ```
 
 # Contributing
  - [Contributing instructions](https://github.com/rumca-js/Internet-Places-Database/blob/main/CONTRIBUTING.md)
+
+Notes:
+ - most of user actions are performed by user name 'rumpel'. You may not like it, but I don't like 'admin'
  
 # Files
 
@@ -235,8 +238,6 @@ Other
  - the right wing - things for republicans, left wing of political spectrum
  - conspiracy theories / 911
 
-
-
 # How to access the data?
 
 Any SQLite database reader software, like DBeaver.
@@ -249,6 +250,34 @@ First install poetry. Then perform 'poetry update'. Then you can use the script.
 
 Unpack internet.zip, then...
 
+```
+usage: dataanalyzer.py [-h] [--db DB] [--search SEARCH] [--order-by ORDER_BY] [--asc] [--desc]
+                       [--table TABLE] [--title] [--description] [--tags] [--social]
+                       [--date-published] [--source] [--summary] [--columns] [-i] [-v VERBOSITY]
+
+Data analyzer program
+
+options:
+  -h, --help            show this help message and exit
+  --db DB               DB to be scanned
+  --search SEARCH       Search, with syntax same as the main program / site.
+  --order-by ORDER_BY   order by column.
+  --asc                 order ascending
+  --desc                order descending
+  --table TABLE         Table name
+  --title               displays title
+  --description         displays description
+  --tags                displays tags
+  --social              displays social data
+  --date-published      displays date-published
+  --source              displays source
+  --summary             displays summary of tables
+  --columns             displays summary of tables column nmaes
+  -i, --ignore-case     Ignores case
+  -v VERBOSITY, --verbosity VERBOSITY
+                        Verbosity level
+```
+
 Search for warhammer in link, title, description. Shows title
 ```
 dataanalyzer.py --db internet.db --search "*warhammer*" --title
@@ -257,6 +286,11 @@ dataanalyzer.py --db internet.db --search "*warhammer*" --title
 Search for warhammer in link name. Shows title, tags
 ```
 dataanalyzer.py --db internet.db --search "link=*warhammer*" --title --tags
+```
+
+Search for youtube channels
+```
+dataanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --tags --social
 ```
 
 ## Access via web interface

@@ -3,15 +3,15 @@ ARCHIVE_NAME = internet.zip
 SOURCE_FILE = internet.db
 
 # Declare phony targets
-.PHONY: pack unpack clean server pack-split unpack-split
+.PHONY: zip unzip clean server pack-split unpack-split example-search
 
 # Rule to create a zip archive split into 50MB parts
-pack:
+zip:
 	zip -s 50m $(ARCHIVE_NAME) $(SOURCE_FILE)
 	echo "Packed $(SOURCE_FILE) into $(ARCHIVE_NAME)"
 	rm -f $(SOURCE_FILE)
 
-unpack:
+unzip:
 	[ -e $(SOURCE_FILE) ] && rm -r $(SOURCE_FILE) || true
 	7z x $(ARCHIVE_NAME)
 
@@ -37,3 +37,7 @@ server:
 
 summary:
 	poetry run python dataanalyzer.py --summary --db $(SOURCE_FILE)
+
+example-search:
+	poetry run python ./dataanalyzer.py --db internet.db --search "*Warhammer*" --tags --social
+	poetry run python ./dataanalyzer.py --db internet.db --search "*youtube.com/channel*" --title --tags --social

@@ -16,11 +16,15 @@ import argparse
 import time
 import os
 import json
+from sqlalchemy import create_engine
 
 from utils.omnisearch import SingleSymbolEvaluator, EquationEvaluator, OmniSearch
 from utils.alchemysearch import AlchemySymbolEvaluator, AlchemyEquationEvaluator, AlchemySearch
-from utils.reflected import ReflectedEntryTable
-from sqlalchemy import create_engine
+from utils.reflected import  (
+   ReflectedEntryTable,
+   ReflectedUserTags,
+   ReflectedSocialData,
+)
 
 
 def print_summary(db, print_columns=False):
@@ -54,7 +58,8 @@ class SearchInterface(object):
         text = "[{:03d}] {}".format(entry.page_rating_votes, entry.link)
 
         if self.parser.args.title:
-            text += " " + entry.title
+            if entry.title:
+                text += " " + entry.title
 
         if self.parser.args.source:
             source_id = entry.source
@@ -76,10 +81,44 @@ class SearchInterface(object):
                 print(description)
 
         if self.parser.args.tags:
-            entry_table = ReflectedEntryTable(self.engine)
-            tags = entry_table.get_tags_string(entry.id)
+            tags_table = ReflectedUserTags(self.engine)
+            tags = tags_table.get_tags_string(entry.id)
             if tags and tags != "":
-                print(tags)
+                self.print_tags(tags)
+
+        if self.parser.args.social:
+            social_table = ReflectedSocialData(self.engine)
+            social = social_table.get(entry.id)
+            if social is not None:
+                self.print_social(social)
+
+    def print_tags(self, tags):
+        print(tags)
+
+    def print_social(self, social):
+        if social.view_count is not None and social.thumbs_up is not None and social.thumbs_down is not None:
+            print(f"V:{social.view_count} TU:{social.thumbs_up} TD:{social.thumbs_down}")
+        else:
+            if social.view_count:
+                print(f"F:{social.view_count}")
+
+            if social.thumbs_up:
+                print(f"F:{social.thumbs_up}")
+
+            if social.thumbs_down:
+                print(f"F:{social.thumbs_down}")
+
+            if social.upvote_diff:
+                print(f"S:{social.upvote_diff}")
+
+            if social.upvote_ratio:
+                print(f"S:{social.upvote_ratio}")
+
+            if social.followers_count:
+                print(f"F:{social.followers_count}")
+
+            if social.stars:
+                print(f"S:{social.stars}")
 
     def get_time_diff(self):
         return time.time() - self.start_time
@@ -123,15 +162,21 @@ class DataAnalyzer(object):
                 print("File does not exist:{}".format(file))
                 return
 
+            print("Creating engine")
             self.engine = create_engine("sqlite:///" + self.parser.args.db)
+            print("Creating engine DONE")
 
             row_handler = SearchInterface(self.parser, self.engine)
 
+            print("Starting alchemy")
             searcher = AlchemySearch(self.engine,
                     self.parser.args.search,
                     row_handler = row_handler,
                     args=self.parser.args,
             )
+            print("Starting alchemy DONE")
+
+            print("Searching...")
             searcher.search()
 
     def is_db_scan(self):
@@ -156,6 +201,7 @@ class Parser(object):
         self.parser.add_argument("--title", action="store_true", help="displays title")
         self.parser.add_argument("--description", action="store_true", help="displays description")
         self.parser.add_argument("--tags", action="store_true", help="displays tags")
+        self.parser.add_argument("--social", action="store_true", help="displays social data")
         self.parser.add_argument("--date-published", action="store_true", help="displays date-published")
         self.parser.add_argument("--source", action="store_true", help="displays source")
 
