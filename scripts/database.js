@@ -7,8 +7,46 @@
  |_____/ \___\_\______|_|\__\___| |_|___/  \__,_| \_/\_/ \___||___/\___/|_| |_| |_|\___|
 */
 
+
 function getSelectColumns() {
-    return "l.id, l.link, l.title, l.description, l.date_published, l.thumbnail, l.author, l.album, l.language, l.permanent, l.bookmarked, l.age, l.status_code, l.manual_status_code, l.page_rating, l.page_rating_votes, l.page_rating_contents, e.tag";
+    columns = "";
+
+    columns += "l.id,";                         // 0
+    columns += "l.link,";                       // 1
+    columns += "l.title,";                      // 2
+    columns += "l.description,";                // 3
+    columns += "l.date_published,";             // 4
+    columns += "l.thumbnail,";                  // 5
+    columns += "l.author,";                     // 6
+    columns += "l.album,";                      // 7
+    columns += "l.language,";                   // 8
+    columns += "l.permanent,";                  // 9
+    columns += "l.bookmarked,";                 // 10
+    columns += "l.age,";                        // 11
+    columns += "l.status_code,";                // 12
+    columns += "l.manual_status_code,";         // 13
+    columns += "l.page_rating,";                // 14
+    columns += "l.page_rating_votes,";          // 15
+    columns += "l.page_rating_contents,";       // 16
+    columns += "t.tag";                         // 17
+    //columns += "socialdata.thumbs_up,";         // 18
+    //columns += "socialdata.thumbs_down,";       // 19
+    //columns += "socialdata.view_count,";        // 20
+    //columns += "socialdata.followers_count,";   // 21
+    //columns += "socialdata.stars,";             // 22
+    //columns += "socialdata.upvote_ratio,";      // 23
+    //columns += "socialdata.upvote_diff,";       // 24
+    //columns += "socialdata.upvote_view_ratio";  // 25
+
+    return columns;
+}
+
+
+`we need to join tags, because when we search for something we want to filter by tags`
+function getSelectFromStmt() {
+   return ` FROM linkdatamodel AS l
+            LEFT JOIN entrycompactedtags AS t ON l.id = t.entry_id`;
+            // LEFT JOIN socialdata AS socialdata ON l.id = socialdata.entry_id`;
 }
 
 
@@ -30,6 +68,53 @@ function selectEntryTags(entry_id) {
    }
 
    return Array.from(result); 
+}
+
+
+function selectEntrySocialStmt(entry_id) {
+   let text = `SELECT
+        thumbs_up,
+        thumbs_down,
+        view_count,
+        followers_count,
+        stars,
+        upvote_ratio,
+        upvote_diff,
+        upvote_view_ratio
+        FROM socialdata WHERE entry_id = ${entry_id}`;
+
+    return text;
+}
+
+
+function selectEntrySocial(entry_id) {
+   let text = selectEntrySocialStmt(entry_id);
+
+   let result = new Set();
+
+   console.log(text);
+
+   const res = db.exec(text);
+
+   if (res.length > 0) {
+      const rows = res[0].values;
+       if (rows.length > 0) {
+         const row = rows[0]
+
+         const social_data = {
+           thumbs_up: row[0],
+           thumbs_down: row[1],
+           view_count: row[2],
+           followers_count: row[3],
+           stars: row[4],
+           upvote_ratio: row[5],
+           upvote_diff: row[6],
+           upvote_view_ratio: row[7],
+         };
+
+         return socialdata;
+       }
+   }
 }
 
 
@@ -64,6 +149,14 @@ function unpackQueryResults(res) {
            page_rating_votes: row[15],
            page_rating_contents: row[16],
            tags: tags,
+           thumbs_up: row[18],
+           thumbs_down: row[19],
+           view_count: row[20],
+           followers_count: row[21],
+           stars: row[22],
+           upvote_ratio: row[23],
+           upvote_diff: row[24],
+           upvote_view_ratio: row[25],
          };
 
          results.push(data);
@@ -92,9 +185,8 @@ let PAGE_SIZE = 100;
 
 function getSelectEntry(entry_id) {
    let text = "SELECT " + getSelectColumns();
-   text = text + ` FROM linkdatamodel AS l
-                   LEFT JOIN entrycompactedtags AS e ON l.id = e.entry_id`;
-   text = text + ` WHERE l.id = ${entry_id}`;
+   text += getSelectFromStmt();
+   text += ` WHERE l.id = ${entry_id}`;
 
    return text;
 
@@ -103,9 +195,7 @@ function getSelectEntry(entry_id) {
 
 function getSelectDefault() {
    let text = "SELECT " + getSelectColumns();
-
-   text = text + ` FROM linkdatamodel AS l
-                   LEFT JOIN entrycompactedtags AS e ON l.id = e.entry_id`;
+   text += getSelectFromStmt();
 
    let page = getQueryParam("page") || 1;
    const offset = (page - 1) * PAGE_SIZE;
@@ -122,13 +212,12 @@ function getSelectDefault() {
 function getSelectDefaultUserInput(userInput) {
    console.log(userInput);
    let text = "SELECT " + getSelectColumns();
+   text += getSelectFromStmt();
 
-   text = text + ` FROM linkdatamodel AS l
-                   LEFT JOIN entrycompactedtags AS e ON l.id = e.entry_id
-                   WHERE UPPER(l.title) LIKE UPPER('%${userInput}%')
-                   OR UPPER(l.link) LIKE UPPER('%${userInput}%')
-                   OR UPPER(l.description) LIKE UPPER('%${userInput}%')
-                   OR UPPER(e.tag) LIKE UPPER('%${userInput}%')`;
+   text += ` WHERE UPPER(l.title) LIKE UPPER('%${userInput}%')
+            OR UPPER(l.link) LIKE UPPER('%${userInput}%')
+            OR UPPER(l.description) LIKE UPPER('%${userInput}%')
+            OR UPPER(t.tag) LIKE UPPER('%${userInput}%')`;
 
    let page = getQueryParam("page") || 1;
    const offset = (page - 1) * PAGE_SIZE;
@@ -145,10 +234,9 @@ function getSelectDefaultUserInput(userInput) {
 function getSelectCustomSQL(userInput) {
 
    let text = "SELECT " + getSelectColumns();
+   text += getSelectFromStmt();
 
-   text = text + ` FROM linkdatamodel AS l
-                   LEFT JOIN entrycompactedtags AS e ON l.id = e.entry_id
-                   WHERE ${userInput}`;
+   text += ` WHERE ${userInput}`;
 
    let page = getQueryParam("page") || 1;
    const offset = (page - 1) * PAGE_SIZE;
@@ -205,24 +293,6 @@ async function getQueryTotalRows(text) {
    }
 
    return 0;
-}
-
-
-function getQueryTagsText() {
-    /**
-     * Known feature of SQLite. It does not provide DISTINCT keyword
-     * meaning this can result duplicated records.
-     */
-    let text = `
-   SELECT l.*
-   FROM linkdatamodel l
-   JOIN usertags u ON l.id = u.entry_id
-   WHERE u.tag LIKE '%video game%'`
-
-   let order_by = getOrderStmt();
-   let page_size_query = PAGE_SIZE;
-
-   text = text + ` ${order_by} LIMIT ${page_size_query} OFFSET ${offset}`;
 }
 
 

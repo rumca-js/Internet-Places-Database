@@ -12,6 +12,9 @@ let highlight_bookmarks = false;
 let sort_function = "-page_rating_votes"; // page_rating_votes, date_published
 let default_page_size = 200;
 
+let entries_visit_alpha=1.0;
+let entries_dead_alpha=0.5;
+
 
 function getDefaultFileName() {
     return "internet.db";
@@ -31,12 +34,12 @@ function getDefaultFileLocation() {
 
 function getFileVersion() {
     /* Forces refresh of the file */
-    return "69";
+    return "82";
 }
 
 
 function getSystemVersion() {
-    return "0.9";
+    return "0.99";
 }
 
 

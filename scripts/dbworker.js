@@ -1,6 +1,6 @@
 importScripts('https://unpkg.com/sql.js@1.6.0/dist/sql-wasm.js')
 importScripts('https://cdn.jsdelivr.net/npm/jszip/dist/jszip.min.js')
-importScripts('./config.js?i=51');
+importScripts('./config.js?i=52');
 importScripts('./library.js?i=' + getFileVersion());
 importScripts('./database.js?i=' + getFileVersion());
 
@@ -72,9 +72,11 @@ async function createDatabase(worker, dbFileName) {
 
 
 self.onmessage = async function (e) {
-    const {fileName, query } = e.data;
+    const {type, fileName, query } = e.data;
 
-    if (fileName)
+    console.log(`Worker - ${type}`);
+
+    if (type == "filename" && fileName)
     {
         file_name = fileName;
         console.log("Worker - set up file name " + file_name);
@@ -105,33 +107,46 @@ self.onmessage = async function (e) {
                 return;
             }
 
+            console.log(`Worker - ${query}`);
+
             postMessage({ success: true, message_type: "message", result: "Executing query"});
 
             // Execute the query
             const result = db.exec(query);
 
-            postMessage({ success: true, message_type: "message", result: "Unpacking results"});
-            console.log("Worker - Unpacking");
+            if (type == "entries" ) {
+                postMessage({ success: true, message_type: "message", result: "Unpacking results"});
+                console.log("Worker - Unpacking");
 
-            let object_list_data = { entries: [] };
-            object_list_data.entries = unpackQueryResults(result);
+                let object_list_data = { entries: [] };
+                object_list_data.entries = unpackQueryResults(result);
 
-            console.log("Worker - Sending respone");
+                console.log("Worker - Sending entries respone");
 
-            // Send the result back to the main thread
-            postMessage({ success: true, message_type: "entries", result: object_list_data});
+                // Send the result back to the main thread
+                postMessage({ success: true, message_type: "entries", result: object_list_data});
 
-            postMessage({ success: true, message_type: "message", result: "Checking tables length"});
-
-            let total_rows = await getQueryTotalRows(query);
-            console.log("Worker - query total rows " + total_rows);
-            postMessage({ success: true, message_type: "pagination", result: total_rows});
-            console.log("Worker - DONE");
-
+                postMessage({ success: true, message_type: "message", result: "Checking tables length"});
+            }
+            else if (type == "pagination" )
+            {
+                let total_rows = await getQueryTotalRows(query);
+                console.log("Worker - query total rows " + total_rows);
+                postMessage({ success: true, message_type: "pagination", result: total_rows});
+            }
+            else if (type == "socialdata" )
+            {
+                // TODO
+                console.log("Worker - Sending social data respone");
+                postMessage({ success: true, message_type: "message", result: "Sending social data respone"});
+            }
         } catch (error) {
             postMessage({ success: false, error: error.message });
         }
     }
+
+    console.log("Worker - DONE");
+    postMessage({ success: true, message_type: "message", result: "Worker - DONE"});
 };
 
 
