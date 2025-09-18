@@ -8,7 +8,7 @@
 */
 
 
-function getSelectColumns() {
+function getEntriesSelectColumns() {
     columns = "";
 
     columns += "l.id,";                         // 0
@@ -42,83 +42,7 @@ function getSelectColumns() {
 }
 
 
-`we need to join tags, because when we search for something we want to filter by tags`
-function getSelectFromStmt() {
-   return ` FROM linkdatamodel AS l
-            LEFT JOIN entrycompactedtags AS t ON l.id = t.entry_id`;
-            // LEFT JOIN socialdata AS socialdata ON l.id = socialdata.entry_id`;
-}
-
-
-function selectEntryTags(entry_id) {
-   let text = `SELECT tag FROM usertags WHERE entry_id = ${entry_id}`;
-
-   let result = new Set();
-
-   console.log(text);
-
-   const res = db.exec(text);
-
-   if (res.length > 0) {
-      const rows = res[0].values;
-
-      rows.forEach(row => {
-         result.add(row[0]);
-      });
-   }
-
-   return Array.from(result); 
-}
-
-
-function selectEntrySocialStmt(entry_id) {
-   let text = `SELECT
-        thumbs_up,
-        thumbs_down,
-        view_count,
-        followers_count,
-        stars,
-        upvote_ratio,
-        upvote_diff,
-        upvote_view_ratio
-        FROM socialdata WHERE entry_id = ${entry_id}`;
-
-    return text;
-}
-
-
-function selectEntrySocial(entry_id) {
-   let text = selectEntrySocialStmt(entry_id);
-
-   let result = new Set();
-
-   console.log(text);
-
-   const res = db.exec(text);
-
-   if (res.length > 0) {
-      const rows = res[0].values;
-       if (rows.length > 0) {
-         const row = rows[0]
-
-         const social_data = {
-           thumbs_up: row[0],
-           thumbs_down: row[1],
-           view_count: row[2],
-           followers_count: row[3],
-           stars: row[4],
-           upvote_ratio: row[5],
-           upvote_diff: row[6],
-           upvote_view_ratio: row[7],
-         };
-
-         return socialdata;
-       }
-   }
-}
-
-
-function unpackQueryResults(res) {
+function unpackEntries(res) {
     let results = [];
 
     if (res.length > 0) {
@@ -167,6 +91,95 @@ function unpackQueryResults(res) {
 }
 
 
+`we need to join tags, because when we search for something we want to filter by tags`
+function getEntriesSelectFromStmt() {
+   return ` FROM linkdatamodel AS l
+            LEFT JOIN entrycompactedtags AS t ON l.id = t.entry_id`;
+            // LEFT JOIN socialdata AS socialdata ON l.id = socialdata.entry_id`;
+}
+
+
+function selectEntryTags(entry_id) {
+   let text = `SELECT tag FROM usertags WHERE entry_id = ${entry_id}`;
+
+   let result = new Set();
+
+   console.log(text);
+
+   const res = db.exec(text);
+
+   if (res.length > 0) {
+      const rows = res[0].values;
+
+      rows.forEach(row => {
+         result.add(row[0]);
+      });
+   }
+
+   return Array.from(result); 
+}
+
+
+function selectEntrySocialStmt(entry_id) {
+   let text = `SELECT
+        id,
+        entry_id,
+        thumbs_up,
+        thumbs_down,
+        view_count,
+        followers_count,
+        stars,
+        upvote_ratio,
+        upvote_diff,
+        upvote_view_ratio
+        FROM socialdata WHERE entry_id = ${entry_id}`;
+
+    return text;
+}
+
+
+function selectEntrySocial(entry_id) {
+   let text = selectEntrySocialStmt(entry_id);
+
+   let result = new Set();
+
+   console.log(text);
+
+   const res = db.exec(text);
+
+   let social_data = unpackSocialData(res);
+   return social_data;
+}
+
+
+function unpackSocialData(res) {
+    let results = [];
+
+    if (res.length > 0) {
+       const rows = res[0].values;
+       
+       rows.forEach(row => {
+         const data = {
+           id: row[0],
+           entry_id: row[0],
+           thumbs_up: row[1],
+           thumbs_down: row[2],
+           view_count: row[3],
+           followers_count: row[4],
+           stars: row[5],
+           upvote_ratio: row[6],
+           upvote_diff: row[7],
+           upvote_view_ratio: row[8],
+         };
+
+         results.push(data);
+       });
+    }
+
+    return results;
+}
+
+
 function getOrderStmt() {
    let sort_method = sort_function;
    let order_method = "ASC";
@@ -184,8 +197,8 @@ let PAGE_SIZE = 100;
 
 
 function getSelectEntry(entry_id) {
-   let text = "SELECT " + getSelectColumns();
-   text += getSelectFromStmt();
+   let text = "SELECT " + getEntriesSelectColumns();
+   text += getEntriesSelectFromStmt();
    text += ` WHERE l.id = ${entry_id}`;
 
    return text;
@@ -193,9 +206,9 @@ function getSelectEntry(entry_id) {
 }
 
 
-function getSelectDefault() {
-   let text = "SELECT " + getSelectColumns();
-   text += getSelectFromStmt();
+function getEntriesSelectDefault() {
+   let text = "SELECT " + getEntriesSelectColumns();
+   text += getEntriesSelectFromStmt();
 
    let page = getQueryParam("page") || 1;
    const offset = (page - 1) * PAGE_SIZE;
@@ -209,10 +222,10 @@ function getSelectDefault() {
 }
 
 
-function getSelectDefaultUserInput(userInput) {
+function getEntriesSelectDefaultUserInput(userInput) {
    console.log(userInput);
-   let text = "SELECT " + getSelectColumns();
-   text += getSelectFromStmt();
+   let text = "SELECT " + getEntriesSelectColumns();
+   text += getEntriesSelectFromStmt();
 
    text += ` WHERE UPPER(l.title) LIKE UPPER('%${userInput}%')
             OR UPPER(l.link) LIKE UPPER('%${userInput}%')
@@ -231,10 +244,10 @@ function getSelectDefaultUserInput(userInput) {
 }
 
 
-function getSelectCustomSQL(userInput) {
+function getEntriesSelectCustomSQL(userInput) {
 
-   let text = "SELECT " + getSelectColumns();
-   text += getSelectFromStmt();
+   let text = "SELECT " + getEntriesSelectColumns();
+   text += getEntriesSelectFromStmt();
 
    text += ` WHERE ${userInput}`;
 
@@ -253,7 +266,7 @@ function execQuery(text) {
    console.log(text);
    try {
       const res = db.exec(text);
-      object_list_data.entries = unpackQueryResults(res);
+      object_list_data.entries = unpackEntries(res);
    } catch (error) {
       console.error("Error executing query:", error);
    }
@@ -299,7 +312,7 @@ async function getQueryTotalRows(text) {
 function getQueryText() {
    let userInput = $("#searchInput").val();
 
-   let text = getSelectDefault(userInput);
+   let text = getEntriesSelectDefault(userInput);
 
    let entry_id = getQueryParam("entry_id");
    if (entry_id)
@@ -309,10 +322,10 @@ function getQueryText() {
 
    if (userInput && userInput != "") {
        if (userInput.indexOf("LIKE") !== -1) {
-          text = getSelectCustomSQL(userInput);
+          text = getEntriesSelectCustomSQL(userInput);
        }
        else {
-          text = getSelectDefaultUserInput(userInput);
+          text = getEntriesSelectDefaultUserInput(userInput);
        }
    }
 

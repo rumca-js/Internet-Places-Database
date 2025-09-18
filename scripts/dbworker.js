@@ -119,7 +119,7 @@ self.onmessage = async function (e) {
                 console.log("Worker - Unpacking");
 
                 let object_list_data = { entries: [] };
-                object_list_data.entries = unpackQueryResults(result);
+                object_list_data.entries = unpackEntries(result);
 
                 console.log("Worker - Sending entries respone");
 
@@ -139,6 +139,10 @@ self.onmessage = async function (e) {
                 // TODO
                 console.log("Worker - Sending social data respone");
                 postMessage({ success: true, message_type: "message", result: "Sending social data respone"});
+
+                let social_data = unpackSocialData(result);
+
+                postMessage({ success: true, message_type: "socialdata", result: social_data});
             }
         } catch (error) {
             postMessage({ success: false, error: error.message });

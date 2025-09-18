@@ -430,6 +430,10 @@ function workerFunction(e) {
              $('#pagination').html(nav_text);
              $('#statusLine').html("");
         }
+        else if (message_type == "socialdata") {
+            console.log(`Received data ${result}`);
+            FillSocialData(result.entry_id, result);
+        }
         else if (message_type == "message") {
              if (result == "Creating database DONE") {
                 onSystemReady();

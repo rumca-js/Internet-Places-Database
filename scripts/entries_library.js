@@ -170,6 +170,17 @@ function getEntryDislikeDataText(data) {
 }
 
 
+function FillSocialData(entry_id, social_data) {
+    let entry_parameters = getEntryDislikeDataText(social_data);
+
+    // entry_list_social.set(entry.id, entry_parameters);
+
+    let upvote_ratio_div = `<div>${entry_parameters}</div>`;
+
+    $(`[entry="${entry_id}"] [entryDetails="true"]`).append(upvote_ratio_div);
+}
+
+
 function getEntryParameters(entry, entry_dislike_data=null) {
    html_out = "";
 
