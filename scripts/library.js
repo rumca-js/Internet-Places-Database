@@ -335,6 +335,15 @@ function fixStupidGoogleRedirects(input_url) {
         return input_url;
     }
 
+    return input_url;
+}
+
+
+function fixStupidYoutubeRedirects(input_url) {
+    if (!input_url) {
+        return null;
+    }
+
     if (input_url.includes("www.youtube.com/redirect")) {
         const url = new URL(input_url);
         let redirectURL = url.searchParams.get('q');
@@ -345,6 +354,28 @@ function fixStupidGoogleRedirects(input_url) {
         else {
             return input_url;
         }
+    }
+
+    return input_url;
+}
+
+function fixStupidMicrosoftSafeLinks(input_url) {
+    if (!input_url) {
+        return null;
+    }
+
+    try {
+        const parsedUrl = new URL(input_url);
+
+        if (parsedUrl.hostname.endsWith("safelinks.protection.outlook.com")) {
+            const originalUrl = parsedUrl.searchParams.get("url");
+
+            if (originalUrl) {
+                return decodeURIComponent(originalUrl);
+            }
+        }
+    } catch (e) {
+        console.error("Error parsing URL:", e);
     }
 
     return input_url;
@@ -369,6 +400,8 @@ function sanitizeLinkGeneral(link) {
 function sanitizeLink(link) {
    link = sanitizeLinkGeneral(link);
    link = fixStupidGoogleRedirects(link);
+   link = fixStupidYoutubeRedirects(link);
+   link = fixStupidMicrosoftSafeLinks(link);
    link = sanitizeLinkGeneral(link);
 
    return link;
@@ -398,6 +431,11 @@ function getYouTubeVideoId(url) {
     } catch (e) {
         return null;
     }
+}
+
+
+function isYouTubeVideo(url) {
+    return (getYouTubeVideoId(url) != null);
 }
 
 
@@ -775,3 +813,86 @@ async function requestFileChunksMultipart(file_name) {
 
     return await requestFileChunksFromList(chunks);
 }
+
+/*------- SERVICES --------------- */
+function getArchiveOrgLink(link) {
+    let currentDate = new Date();
+    let formattedDate = currentDate.toISOString().split('T')[0].replace(/-/g, ''); // Format: YYYYMMDD
+
+    return `https://web.archive.org/web/${formattedDate}000000*/${link}`;
+}
+
+
+function getW3CValidatorLink(link) {
+    return `https://validator.w3.org/nu/?doc=${encodeURIComponent(link)}`;
+}
+
+
+function getSchemaValidatorLink(link) {
+    return `https://validator.schema.org/#url=${encodeURIComponent(link)}`;
+}
+
+
+function getWhoIsLink(link) {
+    let domain = link.replace(/^https?:\/\//, ''); // Remove 'http://' or 'https://'
+
+    return `https://who.is/whois/${domain}`;
+}
+
+
+function getBuiltWithLink(link) {
+    let domain = link.replace(/^https?:\/\//, ''); // Remove 'http://' or 'https://'
+
+    return `https://builtwith.com/${domain}`;
+}
+
+
+function getGoogleTranslateLink(link) {
+
+    let reminder = '?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp';
+    if (link.indexOf("http://") != -1) {
+       reminder = '?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp';
+    }
+
+    if (link.indexOf("?") != -1) {
+        let queryParams = link.split("?")[1];
+        reminder += '&' + queryParams;
+    }
+
+    let domain = link.replace(/^https?:\/\//, '').split('/')[0]; // Extract the domain part
+
+    domain = domain.replace(/-/g, '--').replace(/\./g, '-');
+
+    let translateUrl = `https://${domain}.translate.goog/` + reminder;
+
+    return translateUrl;
+}
+
+
+function GetServiceLinks(link) {
+    return [
+        {name: "Archive.org", link : getArchiveOrgLink(link)},
+        {name: "W3C Validator", link: getW3CValidatorLink(link)},
+        {name: "Schema.org", link: getSchemaValidatorLink(link)},
+        {name: "Who.is", link: getWhoIsLink(link)},
+        {name: "Built.with", link: getBuiltWithLink(link)},
+        {name: "Google translate", link: getGoogleTranslateLink(link)},
+    ];
+}
+
+/*------- SERVICES --------------- */
+
+
+/*
+module.exports = {
+    UrlLocation,
+    sanitizeLink,
+    fixStupidGoogleRedirects,
+    fixStupidYoutubeRedirects,
+    fixStupidMicrosoftSafeLinks,
+    getYouTubeVideoId,
+    getYouTubeChannelId,
+    getChannelUrl,
+    getOdyseeVideoId,
+};
+*/

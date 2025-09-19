@@ -1261,5 +1261,15 @@ module.exports = {
     getEntryTags,
     getEntryListText,
     isStatusCodeValid,
+    getEntryAuthorText,
+    getEntryVotesBadge,
+    getEntryBookmarkBadge,
+    getEntryAgeBadge,
+    getEntryDeadBadge,
+    getEntryParameters,
+    getEntryDetailText,
+    getEntryFullTextStandard,
+    getEntryFullTextYouTube,
+    getEntryFullTextOdysee,
 };
 */
