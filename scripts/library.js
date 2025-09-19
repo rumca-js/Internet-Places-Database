@@ -30,9 +30,9 @@ function escapeHtml(unsafe)
 class UrlLocation {
   constructor(urlString) {
     try {
-        this.url = new URL(urlString);
+      this.url = new URL(urlString);
     } catch (e) {
-        throw new Error(`Invalid URL ${e.message}`);
+      throw new Error("Invalid URL");
     }
   }
 
