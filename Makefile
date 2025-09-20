@@ -41,3 +41,8 @@ summary:
 example-search:
 	poetry run python ./dataanalyzer.py --db internet.db --search "*Warhammer*" --tags --social
 	poetry run python ./dataanalyzer.py --db internet.db --search "*youtube.com/channel*" --title --tags --social
+
+remove-history:
+	git checkout --orphan clean-main
+	git commit -am "Clean start"
+	git push origin clean-main
