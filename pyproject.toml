@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "dataanalyzer"
+version = "0.0.0"
+description = "data analyzer"
+authors = ["Iwan Grozny <renegat@renegat0x0.ddns.net>"]
+license = "GPL3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+sqlalchemy = "^2.0.37"
+sympy = "^1.13.2"
