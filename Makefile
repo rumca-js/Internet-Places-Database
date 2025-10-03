@@ -55,8 +55,9 @@ remove-history2:
 	# recreate the repos from the current content only
 	git init
 	git add .
+	git brnach -m main
 	git commit -m "Initial commit"
 	
 	# push to the github remote repos ensuring you overwrite history
 	git remote add origin https://github.com/rumca-js/Internet-Places-Database.git
-	git push -u --force origin master
+	git push -u --force origin main
