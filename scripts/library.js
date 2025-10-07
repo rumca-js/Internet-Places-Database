@@ -426,48 +426,6 @@ function sanitizeLink(link) {
 }
 
 
-function getYouTubeChannelId(url) {
-    try {
-        const urlObj = new URL(url);
-        const hostname = urlObj.hostname;
-
-        if (urlObj.searchParams.has("channel_id")) {
-            return urlObj.searchParams.get("channel_id");
-        }
-
-        return null;
-    } catch (e) {
-        return null;
-    }
-}
-
-
-function getYouTubeChannelUrl(url) {
-    let id = getYouTubeChannelId(url);
-    if (id)
-        return `https://www.youtube.com/channel/${id}`;
-}
-
-
-
-function getChannelUrl(url) {
-    let channelid = null;
-    if (!url)
-        return;
-
-    channelid = getYouTubeChannelUrl(url);
-    if (channelid)
-        return channelid;
-}
-
-
-function getOdyseeVideoId(url) {
-    const url_object = new URL(url);
-    const videoId = url_object.pathname.split('/').pop();
-    return videoId;
-}
-
-
 function isSocialMediaSupported(entry) {
     let page = new UrlLocation(entry.link)
     let domain = page.getDomain()

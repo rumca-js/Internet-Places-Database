@@ -343,65 +343,42 @@ function getEntryDetailTags(entry) {
 }
 
 
-function getArchiveOrgLink(link) {
-    let currentDate = new Date();
-    let formattedDate = currentDate.toISOString().split('T')[0].replace(/-/g, ''); // Format: YYYYMMDD
-
-    return `https://web.archive.org/web/${formattedDate}000000*/${link}`;
-}
-
-
-function getW3CValidatorLink(link) {
-    return `https://validator.w3.org/nu/?doc=${encodeURIComponent(link)}`;
-}
-
-
-function getSchemaValidatorLink(link) {
-    return `https://validator.schema.org/#url=${encodeURIComponent(link)}`;
-}
-
-
-function getWhoIsLink(link) {
-    let domain = link.replace(/^https?:\/\//, ''); // Remove 'http://' or 'https://'
-
-    return `https://who.is/whois/${domain}`;
-}
-
-
-function getBuiltWithLink(link) {
-    let domain = link.replace(/^https?:\/\//, ''); // Remove 'http://' or 'https://'
-
-    return `https://builtwith.com/${domain}`;
-}
-
-
-function getGoogleTranslateLink(link) {
-
-    let reminder = '?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp';
-    if (link.indexOf("http://") != -1) {
-       reminder = '?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp';
-    }
-
-    if (link.indexOf("?") != -1) {
-        let queryParams = link.split("?")[1];
-        reminder += '&' + queryParams;
-    }
-
-    let domain = link.replace(/^https?:\/\//, '').split('/')[0]; // Extract the domain part
-
-    domain = domain.replace(/-/g, '--').replace(/\./g, '-');
-
-    let translateUrl = `https://${domain}.translate.goog/` + reminder;
-
-    return translateUrl;
-}
-
-
 "Fixed manu entry - TODO provide a button class instances and call other formatting functions below"
-function GetEditMenu(entry) {
+function getViewMenu(entry) {
     let link = entry.link;
 
     links = GetAllServicableLinks(link);
+
+    let source_url = getEntrySourceUrl(entry);
+    if (source_url != null) {
+        links.push({
+           name: `Source - ${source_url}`,
+           link: source_url
+        });
+
+        let channel_url = getChannelUrl(source_url);
+        if (channel_url && channel_url != source_url) {
+            links.push({
+               name: `Channel - ${channel_url}`,
+               link: channel_url
+            });
+	}
+
+        const handler = getUrlHandler(source_url);
+        if (handler)
+        {
+           const feeds = handler.getFeeds();
+           for (const feed of feeds) {
+               const safeFeed = sanitizeLink(feed);
+               if (safeFeed && safeFeed != source_url) {
+                  links.push({
+                      name: `RSS - ${safeFeed}`,
+                      link: safeFeed
+                  });
+	       }
+           }
+        }
+    }
 
     let html = 
     `<div class="dropdown mx-1">
@@ -538,12 +515,7 @@ function getEntryBodyText(entry) {
        `;
     }
 
-    text += GetEditMenu(entry);
-
-    let source_info = getEntrySourceInfo(entry);
-    text += `
-    <div>${source_info}</div>
-    `;
+    text += getViewMenu(entry);
 
     let description = getEntryDescription(entry);
 

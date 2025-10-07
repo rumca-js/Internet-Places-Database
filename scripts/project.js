@@ -137,7 +137,7 @@ function getProjectListTextNav() {
 function getSearchSuggestionContainer() {
     const suggestions = getSearchSuggestsions();
     let listItems = suggestions.map(suggestion =>
-        `<li class="list-group-item suggestion-item" data-search="${suggestion}">🔍${suggestion}</li>`
+        `<li class="list-group-item suggestion-item" style="cursor:pointer" data-search="${suggestion}">🔍${suggestion}</li>`
     ).join("");
 
     let html = `
@@ -157,6 +157,9 @@ function getNavBar() {
     let nav_text = `
     <nav id="navbar" class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
       <div class="d-flex w-100">
+        <a id="homeButton" class="d-flex align-items-center px-3 mb-2" href="#">🏠</a>
+
+
         <!-- Form with search input -->
         <form class="d-flex w-100 ms-3" id="searchContainer">
           <div class="input-group">
@@ -174,10 +177,6 @@ function getNavBar() {
     
       <div class="collapse navbar-collapse ms-3" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a id="homeButton" class="nav-link" href="#">🏠</a>
-          </li>
-
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Files
@@ -520,6 +519,25 @@ function resetParams() {
 }
 
 
+function readConfig() {
+    const urlParams = new URLSearchParams(window.location.search);
+
+    if (urlParams.has("view_show_icons")) {
+        view_show_icons = urlParams.get("view_show_icons");
+    }
+    if (urlParams.has("view_display_type")) {
+        view_display_type = urlParams.get("view_display_type");
+    }
+    if (urlParams.has("order")) {
+        sort_function = urlParams.get('order');
+    }
+
+    if (urlParams.has("default_page_size")) {
+        default_page_size = parseInt(urlParams.get('default_page_size'), 10);
+    }
+}
+
+
 function getVersionInformation() {
    return "File version:" + getFileVersion() + " System version:" + getSystemVersion();
 }
@@ -602,6 +620,7 @@ $(document).on('click', '.copy-link', function(e) {
 
     navigator.clipboard.writeText(url).then(() => {
        $(this).html("Copied");
+       $(this).removeClass("btn-primary").addClass("btn-success");
     }).catch((err) => {
        console.error("Error copying URL: ", err);
     });
@@ -629,14 +648,11 @@ $(document).on('click', '.projectButton', function(e) {
 $(document).on('click', '.suggestion-item', function(e) {
     e.preventDefault();
 
-    const currentUrl = new URL(window.location.href);
-    currentUrl.searchParams.delete('page')
-    window.history.pushState({}, '', currentUrl);
+    resetParams();
 
-    const searchInput = document.getElementById('searchInput');
     let suggestion_item_value = $(this).data('search')
 
-    searchInput.value = suggestion_item_value;
+    $("#searchInput").val(suggestion_item_value);
 
     hideSearchSuggestions();
 
@@ -676,7 +692,7 @@ $(document).on('click', '#helpButton', function(e) {
 
 
 $(document).on('click', '#homeButton', function(e) {
-    let file_name = getQueryParam('file') || "permanent";
+    resetParams();
 
     const searchInput = document.getElementById('searchInput');
     searchInput.value = "";
@@ -686,7 +702,6 @@ $(document).on('click', '#homeButton', function(e) {
     $('#pagination').html("");
 
     hideSearchSuggestions();
-    resetParams();
 });
 
 
@@ -824,6 +839,7 @@ $(document).on("click", '#displayDark', function(e) {
 
 document.addEventListener('DOMContentLoaded', () => {
     console.log("Initializing")
+
     $("#projectNavbar").html(getNavBar());
     $("#projectList").html(getProjectListText());
 
@@ -836,22 +852,10 @@ document.addEventListener('DOMContentLoaded', () => {
         searchContainer.style.width = '60%';
     }
 
+    readConfig();
+
     const urlParams = new URLSearchParams(window.location.search);
     const searchParam = urlParams.get('search');
-
-    if (urlParams.has("view_show_icons")) {
-        view_show_icons = urlParams.get("view_show_icons");
-    }
-    if (urlParams.has("view_display_type")) {
-        view_display_type = urlParams.get("view_display_type");
-    }
-    if (urlParams.has("order")) {
-        sort_function = urlParams.get('order');
-    }
-
-    if (urlParams.has("default_page_size")) {
-        default_page_size = parseInt(urlParams.get('default_page_size'), 10);
-    }
 
     if (searchParam) {
         $("#searchInput").val(searchParam);
@@ -862,7 +866,7 @@ document.addEventListener('DOMContentLoaded', () => {
             Initialize();
         }
         catch {
-            $("#statusLine").html("error");
+            $("#statusLine").html("Cannot initialize search system");
         }
     }
 
