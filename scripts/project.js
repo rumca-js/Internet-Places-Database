@@ -138,6 +138,8 @@ function getNavBar() {
           <span class="navbar-toggler-icon"></span>
         </button>
 
+    </nav>
+
         <div class="collapse navbar-collapse ms-3" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
              ${navbar_files_menu}
@@ -150,8 +152,6 @@ function getNavBar() {
           </ul>
         </div>
       </div>
-    
-    </nav>
 
     ${suggestions}
     `;
@@ -294,6 +294,30 @@ function getNavBarViewMenu() {
                     <div class="dropdown-item form-check">
                         <input class="form-check-input me-2" type="radio" name="order" id="orderByDatePublishedDESC" value="-date_published">
                         <label class="form-check-label" for="orderByDatePublishedDESC">Order by Date published DESC</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="orderByMostFollowedASC" value="views">
+                        <label class="form-check-label" for="orderByMostFollowedASC">Order by most followed ASC</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="viewsDesc" value="-views">
+                        <label class="form-check-label" for="orderByMostFollowedDESC">Order by views DESC</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="viewsASC" value="views">
+                        <label class="form-check-label" for="viewsASC">Order by most views ASC</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="viewsDESC" value="-views">
+                        <label class="form-check-label" for="viewsDESC">Order by most views DESC</label>
                     </div>
                 </li>
                 <li>
