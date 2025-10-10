@@ -450,46 +450,6 @@ function isSocialMediaSupported(entry) {
 }
 
 
-/**
- Specific
-*/
-
-
-function setLightMode() {
-    view_display_style = "style-light";
-
-    // const linkElement = document.querySelector('link[rel="stylesheet"][href*="styles.css_style-"]');
-    // if (linkElement) {
-    //     // TODO replace rsshistory with something else
-    //     //linkElement.href = "/django/rsshistory/css/styles.css_style-light.css";
-    // }
-
-    const htmlElement = document.documentElement;
-    htmlElement.setAttribute("data-bs-theme", "light");
-
-    const navbar = document.getElementById('navbar');
-    navbar.classList.remove('navbar-dark', 'bg-dark');
-    navbar.classList.add('navbar-light', 'bg-light');
-}
-
-
-function setDarkMode() {
-    view_display_style = "style-dark";
-
-    // const linkElement = document.querySelector('link[rel="stylesheet"][href*="styles.css_style-"]');
-    // if (linkElement) {
-    //     //linkElement.href = "/django/rsshistory/css/styles.css_style-dark.css";
-    // }
-
-    const htmlElement = document.documentElement;
-    htmlElement.setAttribute("data-bs-theme", "dark");
-
-    const navbar = document.getElementById('navbar');
-    navbar.classList.remove('navbar-light', 'bg-light');
-    navbar.classList.add('navbar-dark', 'bg-dark');
-}
-
-
 async function checkIfFileExists(url) {
     try {
         const response = await fetch(url, { method: 'HEAD' });
@@ -532,52 +492,6 @@ async function unPackFile(zip, fileBlob, extension=".db", unpackAs='uint8array')
         }
 
         console.error("No database file found in the ZIP.");
-    } catch (error) {
-        console.error("Error reading ZIP file:", error);
-    }
-}
-
-
-function updateListData(jsonData) {
-    if (!object_list_data) {
-        object_list_data = { entries: [] };
-    }
-
-    if (!object_list_data.entries) {
-        object_list_data.entries = [];
-    }
-
-    if (jsonData && Array.isArray(jsonData.entries)) {
-        object_list_data.entries.push(...jsonData.entries);
-    } else if (jsonData && Array.isArray(jsonData)) {
-        object_list_data.entries.push(...jsonData);
-    } else {
-        console.error("Invalid JSON data: jsonData.entries is either not defined or not an array.");
-    }
-}
-
-async function unPackFileJSONS(zip) {
-    let percentComplete = 0;
-
-    try {
-        const fileNames = Object.keys(zip.files);
-        const totalFiles = fileNames.length;
-        let processedFiles = 0;
-
-        for (const fileName of fileNames) {
-            processedFiles++;
-            percentComplete = Math.round((processedFiles / totalFiles) * 100);
-
-            // You can put some progressbar here
-
-            if (fileName.endsWith('.json')) {
-                const jsonFile = await zip.files[fileName].async('string');
-                const jsonData = JSON.parse(jsonFile);
-
-                updateListData(jsonData);
-            }
-        }
-
     } catch (error) {
         console.error("Error reading ZIP file:", error);
     }
@@ -737,6 +651,57 @@ async function requestFileChunksMultipart(file_name) {
     let chunks = await getFilePartsList(file_name);
 
     return await requestFileChunksFromList(chunks);
+}
+
+
+/**
+ Specific
+*/
+
+
+function updateListData(jsonData) {
+    if (!object_list_data) {
+        object_list_data = { entries: [] };
+    }
+
+    if (!object_list_data.entries) {
+        object_list_data.entries = [];
+    }
+
+    if (jsonData && Array.isArray(jsonData.entries)) {
+        object_list_data.entries.push(...jsonData.entries);
+    } else if (jsonData && Array.isArray(jsonData)) {
+        object_list_data.entries.push(...jsonData);
+    } else {
+        console.error("Invalid JSON data: jsonData.entries is either not defined or not an array.");
+    }
+}
+
+async function unPackFileJSONS(zip) {
+    let percentComplete = 0;
+
+    try {
+        const fileNames = Object.keys(zip.files);
+        const totalFiles = fileNames.length;
+        let processedFiles = 0;
+
+        for (const fileName of fileNames) {
+            processedFiles++;
+            percentComplete = Math.round((processedFiles / totalFiles) * 100);
+
+            // You can put some progressbar here
+
+            if (fileName.endsWith('.json')) {
+                const jsonFile = await zip.files[fileName].async('string');
+                const jsonData = JSON.parse(jsonFile);
+
+                updateListData(jsonData);
+            }
+        }
+
+    } catch (error) {
+        console.error("Error reading ZIP file:", error);
+    }
 }
 
 

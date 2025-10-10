@@ -119,6 +119,81 @@ function getProjectListText() {
 }
 
 
+function getNavBar() {
+    let home_text = getNavHomeButton();
+    let navbar_search_form = getNavSearchForm();
+    let navbar_files_menu = getNavFiles();
+    let navbar_view_menu = getNavBarViewMenu();
+    let suggestions = getSearchSuggestionContainer();
+
+    let nav_text = `
+    <nav id="navbar" class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+      <div class="d-flex w-100">
+        ${home_text}
+
+        ${navbar_search_form}
+
+        <!-- Navbar toggler button, aligned to the right -->
+        <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse ms-3" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+             ${navbar_files_menu}
+
+             ${navbar_view_menu}
+
+             <li class="nav-item">
+               <a id="helpButton" class="nav-link" href="#">?</a>
+             </li>
+          </ul>
+        </div>
+      </div>
+    
+    </nav>
+
+    ${suggestions}
+    `;
+
+
+    return nav_text;
+}
+
+
+function getNavSearchForm() {
+    return `
+        <form class="d-flex w-80 ms-3" id="searchContainer">
+          <div class="input-group">
+            <input id="searchInput" class="form-control me-1 flex-grow-1" type="search" placeholder="Search" autofocus aria-label="Search">
+            <button id="dropdownButton" class="btn btn-outline-secondary" type="button">⌄</button>
+            <button id="searchButton" class="btn btn-outline-success" type="submit">🔍</button>
+          </div>
+        </form>
+        `;
+}
+
+
+
+function getNavHomeButton() {
+    return `<a id="homeButton" class="d-flex align-items-center px-3 mb-2" href="#">🏠</a>`;
+}
+
+
+function getNavFiles() {
+    let project_text = getProjectListTextNav();
+    return `
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Files
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                ${project_text}
+            </ul>
+          </li>`;
+}
+
+
 function getProjectListTextNav() {
     let files = getFileList();
     
@@ -151,83 +226,122 @@ function getSearchSuggestionContainer() {
 }
 
 
-function getNavBar() {
-    let project_text = getProjectListTextNav();
-
-    let nav_text = `
-    <nav id="navbar" class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-      <div class="d-flex w-100">
-        <a id="homeButton" class="d-flex align-items-center px-3 mb-2" href="#">🏠</a>
-
-
-        <!-- Form with search input -->
-        <form class="d-flex w-100 ms-3" id="searchContainer">
-          <div class="input-group">
-            <input id="searchInput" class="form-control me-1 flex-grow-1" type="search" placeholder="Search" autofocus aria-label="Search">
-            <button id="dropdownButton" class="btn btn-outline-secondary" type="button">⌄</button>
-            <button id="searchButton" class="btn btn-outline-success" type="submit">🔍</button>
-          </div>
-        </form>
-
-        <!-- Navbar toggler button, aligned to the right -->
-        <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-      </div>
-    
-      <div class="collapse navbar-collapse ms-3" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Files
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                ${project_text}
-            </ul>
-          </li>
-
+function getNavBarViewMenu() {
+    return `
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarViewDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               View
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarViewDropdown">
-                <li><a id="viewStandard" class="dropdown-item" href="#">Standard</a></li>
-                <li><a id="viewGallery" class="dropdown-item" href="#">Gallery</a></li>
-                <li><a id="viewSearchEngine" class="dropdown-item" href="#">Search engine</a></li>
+                <!-- View Type Radio Group -->
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="viewMode" id="viewStandard" value="standard">
+                        <label class="form-check-label" for="viewStandard">Standard</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="viewMode" id="viewGallery" value="gallery">
+                        <label class="form-check-label" for="viewGallery">Gallery</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="viewMode" id="viewSearchEngine" value="search-engine">
+                        <label class="form-check-label" for="viewSearchEngine">Search engine</label>
+                    </div>
+                </li>
 
                 <li><hr class="dropdown-divider"></li>
 
-                <li><a id="displayLight" class="dropdown-item" href="#">Light</a></li>
-                <li><a id="displayDark" class="dropdown-item" href="#">Dark</a></li>
+                <!-- Theme Radio Group -->
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="theme" id="displayLight" value="style-light">
+                        <label class="form-check-label" for="displayLight">Light</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="theme" id="displayDark" value="style-dark">
+                        <label class="form-check-label" for="displayDark">Dark</label>
+                    </div>
+                </li>
 
                 <li><hr class="dropdown-divider"></li>
 
-                <li><a id="orderByVotes" class="dropdown-item" href="#">Order by Votes</a></li>
-                <li><a id="orderByDatePublished" class="dropdown-item" href="#">Order by Date published</a></li>
+                <!-- Order Radio Group -->
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="orderByVotesASC" value="page_rating_votes">
+                        <label class="form-check-label" for="orderByVotesASC">Order by Votes ASC</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="orderByVotesDESC" value="-page_rating_votes">
+                        <label class="form-check-label" for="orderByVotesDESC">Order by Votes DESC</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="orderByDatePublishedASC" value="date_published">
+                        <label class="form-check-label" for="orderByDatePublishedASC">Order by Date published ASC</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="orderByDatePublishedDESC" value="-date_published">
+                        <label class="form-check-label" for="orderByDatePublishedDESC">Order by Date published DESC</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="orderByMostFollowedASC" value="followers_count">
+                        <label class="form-check-label" for="orderByMostFollowedASC">Order by most followed ASC</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="orderByMostFollowedDESC" value="-followers_count">
+                        <label class="form-check-label" for="orderByMostFollowedDESC">Order by most followed DESC</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="orderByStarsASC" value="stars">
+                        <label class="form-check-label" for="orderByStarsASC">Order by most stars ASC</label>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="orderByStarsDESC" value="-stars">
+                        <label class="form-check-label" for="orderByStarsDESC">Order by most stars DESC</label>
+                    </div>
+                </li>
 
                 <li><hr class="dropdown-divider"></li>
 
-                <li><a id="showIcons" class="dropdown-item" href="#">Show icons</a></li>
-                <li><a id="hideIcons" class="dropdown-item" href="#">Hide icons</a></li>
+                <!-- Checkboxes -->
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="checkbox" id="showIcons">
+                        <label class="form-check-label" for="showIcons">Show icons</label>
+                    </div>
+                </li>
 
                 <li><hr class="dropdown-divider"></li>
 
-                <li><a id="directLinks" class="dropdown-item" href="#" title="Links lead directly to URL">Direct links</a></li>
-                <li><a id="localPreview" class="dropdown-item" href="#" title="Links lead to local preview">Local preview</a></li>
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="checkbox" id="directLinks">
+                        <label class="form-check-label" for="directLinks" title="Links lead directly to URL">Direct links</label>
+                    </div>
+                </li>
             </ul>
           </li>
-
-          <li class="nav-item">
-            <a id="helpButton" class="nav-link" href="#">?</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-    `;
-
-    let suggestions = getSearchSuggestionContainer();
-
-    return nav_text + " " + suggestions;
+          `;
 }
 
 
@@ -557,6 +671,53 @@ function showSearchSuggestions() {
 }
 
 
+function setLightMode() {
+    view_display_style = "style-light";
+
+    // const linkElement = document.querySelector('link[rel="stylesheet"][href*="styles.css_style-"]');
+    // if (linkElement) {
+    //     // TODO replace rsshistory with something else
+    //     //linkElement.href = "/django/rsshistory/css/styles.css_style-light.css";
+    // }
+
+    const htmlElement = document.documentElement;
+    htmlElement.setAttribute("data-bs-theme", "light");
+
+    const navbar = document.getElementById('navbar');
+    navbar.classList.remove('navbar-dark', 'bg-dark');
+    navbar.classList.add('navbar-light', 'bg-light');
+}
+
+
+function setDarkMode() {
+    view_display_style = "style-dark";
+
+    // const linkElement = document.querySelector('link[rel="stylesheet"][href*="styles.css_style-"]');
+    // if (linkElement) {
+    //     //linkElement.href = "/django/rsshistory/css/styles.css_style-dark.css";
+    // }
+
+    const htmlElement = document.documentElement;
+    htmlElement.setAttribute("data-bs-theme", "dark");
+
+    const navbar = document.getElementById('navbar');
+    navbar.classList.remove('navbar-light', 'bg-light');
+    navbar.classList.add('navbar-dark', 'bg-dark');
+}
+
+
+
+
+function updateWidgets() {
+    $('#showIcons').prop('checked', view_show_icons);
+    $('#directLinks').prop('checked', entries_direct_links);
+
+    $('input[name="viewMode"][value="' + view_display_type + '"]').prop('checked', true);
+    $('input[name="theme"][value="' + view_display_style + '"]').prop('checked', true);
+    $('input[name="order"][value="' + sort_function + '"]').prop('checked', true);
+}
+
+
 //-----------------------------------------------
 $(document).on('click', '.btnNavigation', function(e) {
     e.preventDefault();
@@ -719,68 +880,8 @@ $(document).on('keydown', "#searchInput", function(e) {
 
 
 //-----------------------------------------------
-$(document).on('click', '#orderByVotes', function(e) {
-    if (sort_function == "-page_rating_votes")
-    {
-        sort_function = "page_rating_votes";
-    }
-    else
-    {
-        sort_function = "-page_rating_votes";
-    }
-
-    if (sort_function != "-page_rating_votes") {
-        const currentUrl = new URL(window.location.href);
-        currentUrl.searchParams.set('order', sort_function);
-        window.history.pushState({}, '', currentUrl);
-    }
-    else {
-        const currentUrl = new URL(window.location.href);
-        currentUrl.searchParams.delete('order'); // Remove the 'order' parameter
-        window.history.pushState({}, '', currentUrl);
-    }
-
-    performSearch();
-});
-
-
-//-----------------------------------------------
-$(document).on('click', '#orderByDatePublished', function(e) {
-    if (sort_function == "-date_published")
-    {
-        sort_function = "date_published";
-    }
-    else
-    {
-        sort_function = "-date_published";
-    }
-
-    if (sort_function != "-page_rating_votes") {
-        const currentUrl = new URL(window.location.href);
-        currentUrl.searchParams.set('order', sort_function);
-        window.history.pushState({}, '', currentUrl);
-    }
-    else {
-        const currentUrl = new URL(window.location.href);
-        currentUrl.searchParams.delete('order'); // Remove the 'order' parameter
-        window.history.pushState({}, '', currentUrl);
-    }
-
-    performSearch();
-});
-
-
-//-----------------------------------------------
 $(document).on('click', '#showIcons', function(e) {
-    view_show_icons = true;
-
-    fillListData();
-});
-
-
-//-----------------------------------------------
-$(document).on('click', '#hideIcons', function(e) {
-    view_show_icons = false;
+    view_show_icons = $(this).is(':checked');
 
     fillListData();
 });
@@ -788,52 +889,42 @@ $(document).on('click', '#hideIcons', function(e) {
 
 //-----------------------------------------------
 $(document).on('click', '#directLinks', function(e) {
-    show_pure_links = true;
+    entries_direct_links = $(this).is(':checked');
 
     fillListData();
 });
 
 
 //-----------------------------------------------
-$(document).on('click', '#localPreview', function(e) {
-    show_pure_links = false;
+$(document).on('change', 'input[name="viewMode"]', function () {
+    view_display_type = $(this).val();
+    fillListData();
+});
+
+
+$(document).on('change', 'input[name="theme"]', function () {
+    view_display_style = $(this).val();
+
+    if (view_display_style == "style-light") {
+        setLightMode();
+    }
+    else {
+        setDarkMode();
+    }
 
     fillListData();
 });
 
 
 //-----------------------------------------------
-$(document).on('click', '#viewStandard', function(e) {
-    view_display_type = "standard";
-    fillListData();
-});
+$(document).on('change', 'input[name="order"]', function () {
+    sort_function = $(this).val();
 
+    const currentUrl = new URL(window.location.href);
+    currentUrl.searchParams.set('order', sort_function);
+    window.history.pushState({}, '', currentUrl);
 
-//-----------------------------------------------
-$(document).on('click', '#viewGallery', function(e) {
-    view_display_type = "gallery";
-    fillListData();
-});
-
-
-//-----------------------------------------------
-$(document).on('click', '#viewSearchEngine', function(e) {
-    view_display_type = "search-engine";
-    fillListData();
-});
-
-
-$(document).on("click", '#displayLight', function(e) {
-    setLightMode();
-
-    fillListData();
-});
-
-
-$(document).on("click", '#displayDark', function(e) {
-    setDarkMode();
-
-    fillListData();
+    performSearch();
 });
 
 
@@ -853,6 +944,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     readConfig();
+
+    updateWidgets();
 
     const urlParams = new URLSearchParams(window.location.search);
     const searchParam = urlParams.get('search');

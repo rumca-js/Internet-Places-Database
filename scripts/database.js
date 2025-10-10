@@ -28,15 +28,17 @@ function getEntriesSelectColumns() {
     columns += "l.page_rating,";                // 14
     columns += "l.page_rating_votes,";          // 15
     columns += "l.page_rating_contents,";       // 16
-    columns += "t.tag";                         // 17
-    //columns += "socialdata.thumbs_up,";         // 18
-    //columns += "socialdata.thumbs_down,";       // 19
-    //columns += "socialdata.view_count,";        // 20
-    //columns += "socialdata.followers_count,";   // 21
-    //columns += "socialdata.stars,";             // 22
-    //columns += "socialdata.upvote_ratio,";      // 23
-    //columns += "socialdata.upvote_diff,";       // 24
-    //columns += "socialdata.upvote_view_ratio";  // 25
+
+    columns += "t.tag,";                        // 17
+
+    columns += "socialdata.thumbs_up AS thumbs_up,";                // 18
+    columns += "socialdata.thumbs_down AS thumbs_down,";            // 19
+    columns += "socialdata.view_count AS view_count,";              // 20
+    columns += "socialdata.followers_count AS followers_count,";    // 21
+    columns += "socialdata.stars AS stars,";                        // 22
+    columns += "socialdata.upvote_ratio AS upvote_ratio,";          // 23
+    columns += "socialdata.upvote_diff AS upvote_diff,";            // 24
+    columns += "socialdata.upvote_view_ratio AS upvote_view_ratio";  // 25
 
     return columns;
 }
@@ -94,8 +96,8 @@ function unpackEntries(res) {
 `we need to join tags, because when we search for something we want to filter by tags`
 function getEntriesSelectFromStmt() {
    return ` FROM linkdatamodel AS l
-            LEFT JOIN entrycompactedtags AS t ON l.id = t.entry_id`;
-            // LEFT JOIN socialdata AS socialdata ON l.id = socialdata.entry_id`;
+            LEFT JOIN entrycompactedtags AS t ON l.id = t.entry_id
+            LEFT JOIN socialdata AS socialdata ON l.id = socialdata.entry_id`;
 }
 
 

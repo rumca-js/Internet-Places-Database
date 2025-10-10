@@ -29,7 +29,7 @@ function isEntryValid(entry) {
 
 
 function getEntryLink(entry) {
-    return show_pure_links ? entry.link : `?entry_id=${entry.id}`;
+    return entries_direct_links ? entry.link : `?entry_id=${entry.id}`;
 }
 
 
@@ -123,8 +123,8 @@ function getEntryReadLaterBadge(entry, overflow=false) {
     }
 
     let badge_text = entry.read_later ? `
-        <span class="badge text-bg-warning" style="${style}" title="Read Later">
-           R
+        <span class="badge text-bg-warning" style="${style}" title="Check Later">
+           L
         </span>` : '';
     return badge_text;
 }
@@ -843,7 +843,12 @@ function entryGalleryTemplateDesktop(entry, show_icons = true, small_icons = fal
     let invalid_style = getEntryDisplayStyle(entry);
     let bookmark_class = (entry.bookmarked && highlight_bookmarks) ? `list-group-item-primary` : '';
 
-    let thumbnail = getEntryThumbnail(entry);
+    let thumbnail = "";
+    if (show_icons)
+    {
+       thumbnail = getEntryThumbnail(entry);
+    }
+
     let thumbnail_text = `
         <img src="${thumbnail}" style="width:100%;max-height:100%;aspect-ratio:3/4;object-fit:cover;"/>
         <div class="ms-auto">
@@ -911,7 +916,11 @@ function entryGalleryTemplateMobile(entry, show_icons = true, small_icons = fals
     let invalid_style = getEntryDisplayStyle(entry);
     let bookmark_class = (entry.bookmarked && highlight_bookmarks) ? `list-group-item-primary` : '';
 
-    let thumbnail = getEntryThumbnail(entry);
+    let thumbnail = "";
+    if (show_icons)
+    {
+       thumbnail = getEntryThumbnail(entry);
+    }
     let thumbnail_text = `
         <img src="${thumbnail}" style="width:100%; max-height:100%; object-fit:cover"/>
         ${badge_text}
@@ -1138,17 +1147,23 @@ function isEntrySearchHitAdvanced(entry, searchText) {
 
 
 function sortEntries(entries) {
-    if (sort_function == "page_rating_votes") {
-        entries = entries.sort((a, b) => {
-            return a.page_rating_votes - b.page_rating_votes;
-        });
-    }
-    else if (sort_function == "-page_rating_votes") {
-        entries = entries.sort((a, b) => {
-            return b.page_rating_votes - a.page_rating_votes;
-        });
-    }
-    else if (sort_function == "-date_published") {
+    console.log(`Sorting using ${sort_function}`);
+    const sortFields = [
+        'link',
+        'title',
+        'page_rating_votes',
+        'followers_count',
+        'stars',
+        'view_count',
+        'upvote_ratio',
+        'upvote_diff',
+        'upvote_view_ratio',
+    ];
+
+    const isDescending = sort_function.startsWith('-');
+    const field = isDescending ? sort_function.slice(1) : sort_function;
+
+    if (sort_function == "-date_published") {
         entries = entries.sort((a, b) => {
             if (a.date_published === null && b.date_published === null) {
                 return 0;
@@ -1174,6 +1189,16 @@ function sortEntries(entries) {
                 return 1;
             }
             return new Date(a.date_published) - new Date(b.date_published);
+        });
+    }
+    else if (sortFields.includes(field)) {
+        entries.sort((a, b) => {
+            const aVal = a[field] ?? 0;
+            const bVal = b[field] ?? 0;
+
+            return isDescending
+                ? bVal - aVal
+                : aVal - bVal;
         });
     }
 
