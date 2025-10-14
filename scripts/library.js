@@ -262,13 +262,30 @@ class InputContent {
   }
 
   htmlify() {
-    this.text = this.stripHtmlAttributes();
-    this.text = this.linkify("https://");
-    this.text = this.linkify("http://");
+    this.text = this.noattrs();
+    this.text = this.linkify();
     return this.text;
   }
 
-  stripHtmlAttributes() {
+  nohtml() {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(this.text, "text/html");
+  
+    const elements = doc.querySelectorAll("p, div, table, a");
+  
+    elements.forEach(el => {
+      // Replace the <p> or <div> with its children (unwrap it)
+      const parent = el.parentNode;
+      while (el.firstChild) {
+        parent.insertBefore(el.firstChild, el);
+      }
+      parent.removeChild(el);
+    });
+  
+    return doc.body.innerHTML;
+  }
+
+  noattrs() {
     const parser = new DOMParser();
     const doc = parser.parseFromString(this.text, "text/html");
 
@@ -295,7 +312,13 @@ class InputContent {
     return doc.body.innerHTML;
   }
 
-  linkify(protocol = "https://") {
+  linkify() {
+    this.text = this.linkify_protocol("https://");
+    this.text = this.linkify_protocol("http://");
+    return this.text;
+  }
+
+  linkify_protocol(protocol = "https://") {
     let text = this.text;
 
     if (!text.includes(protocol)) {

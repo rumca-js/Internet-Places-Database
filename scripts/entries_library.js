@@ -325,9 +325,86 @@ function getEntryDescription(entry) {
 }
 
 
+function getEntryDescriptionSafe(entry) {
+  if (!entry.description)
+    return "";
+
+  let content = new InputContent(entry.description);
+  let content_text = content.nohtml();
+
+  content = new InputContent(content_text);
+  content_text = content.noattrs();
+
+  content = new InputContent(content_text);
+  content_text = content.linkify();
+
+  content_text = content_text.replace(/(\r\n|\r|\n)/g, "<br>");
+  return content_text;
+}
+
+
 /**
  * Detail view
  */
+
+
+function getEntryDetailText(entry) {
+    let text = getEntryDetailPreview(entry);
+
+    text += getEntryBodyText(entry);
+
+    text += "</div>";
+
+    return text;
+}
+
+
+function getEntryDetailPreview(entry) {
+    let handler_yt = new YouTubeVideoHandler(entry.link);
+    let handler_od = new OdyseeVideoHandler(entry.link);
+
+    if (handler_yt.isHandledBy())
+    {
+        return getEntryDetailYouTubePreview(entry);
+    }
+    else if (handler_od.isHandledBy())
+    {
+        return getEntryDetailOdyseePreview(entry);
+    }
+    return getEntryDetailThumbnailPreview(entry);
+}
+
+
+function getEntryBodyText(entry) {
+    let date_published = parseDate(entry.date_published);
+    let parameters = getEntryParameters(entry);
+
+    let text = `
+    <a href="${entry.link}"><h1>${entry.title}</h1></a>
+    <div><a href="${entry.link}">${entry.link}</a></div>
+    ${parameters}
+    `;
+
+    let tags_text = getEntryTagStrings(entry);
+    
+    if (tags_text) {
+       text += `
+           <div>Tags: ${tags_text}</div>
+       `;
+    }
+
+    text += getViewMenu(entry);
+
+    let description = getEntryDescription(entry);
+
+    text += `
+    <div>${description}</div>
+    `;
+
+    text += getEntryOpParameters(entry);
+
+    return text;
+}
 
 
 function getEntryDetailTags(entry) {
@@ -381,8 +458,8 @@ function getViewMenu(entry) {
     }
 
     let html = 
-    `<div class="dropdown mx-1">
-        <button class="btn btn-primary" type="button" id="#entryViewDrop" data-bs-toggle="dropdown" aria-expanded="false">
+    `<div class="dropdown">
+        <button class="btn btn-primary" type="button" id="#entryViewDrop${entry.id}" data-bs-toggle="dropdown" aria-expanded="false">
           View
         </button>
         <ul class="dropdown-menu">`;
@@ -497,39 +574,7 @@ function getEntryOpParameters(entry) {
 }
 
 
-function getEntryBodyText(entry) {
-    let date_published = parseDate(entry.date_published);
-    let parameters = getEntryParameters(entry);
-
-    let text = `
-    <a href="${entry.link}"><h1>${entry.title}</h1></a>
-    <div><a href="${entry.link}">${entry.link}</a></div>
-    ${parameters}
-    `;
-
-    let tags_text = getEntryTagStrings(entry);
-    
-    if (tags_text) {
-       text += `
-           <div>Tags: ${tags_text}</div>
-       `;
-    }
-
-    text += getViewMenu(entry);
-
-    let description = getEntryDescription(entry);
-
-    text += `
-    <div>${description}</div>
-    `;
-
-    text += getEntryOpParameters(entry);
-
-    return text;
-}
-
-
-function getEntryFullTextStandard(entry) {
+function getEntryDetailThumbnailPreview(entry) {
     let text = `<div entry="${entry.id}" class="entry-detail">`;
 
     if (entry.thumbnail) {
@@ -545,43 +590,35 @@ function getEntryFullTextStandard(entry) {
        }
     }
 
-    text += getEntryBodyText(entry);
-
-    text += "</div>";
-
     return text;
 }
 
 
-function getEntryFullTextYouTube(entry) {
-    embedUrl = entry.link;
-
+function getEntryDetailYouTubePreview(entry) {
     let handler = new YouTubeVideoHandler(entry.link);
-    if (handler.isHandledBy())
+    if (!handler.isHandledBy())
     {
-        embedUrl = handler.getEmbedUrl();
+        return;
     }
 
-    let text = `<div entry="${entry.id}" class="entry-detail">`;
+    const embedUrl = handler.getEmbedUrl();
 
-    text += `
+    return `
       <div class="youtube_player_container">
           <iframe src="${embedUrl}" frameborder="0" allowfullscreen class="youtube_player_frame" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     `;
-
-    text += getEntryBodyText(entry);
-
-    text += "</div>";
-
-    return text;
 }
 
 
-function getEntryFullTextOdysee(entry) {
-    const videoId = getOdyseeVideoId(entry.link);
+function getEntryDetailOdyseePreview(entry) {
+    let handler = new OdyseeVideoHandler(entry.link);
+    if (!handler.isHandledBy())
+    {
+        return;
+    }
 
-    const embedUrl = videoId ? `https://odysee.com/$/embed/${videoId}` : "";
+    const embedUrl = handler.getEmbedUrl();
 
     let text = `<div entry="${entry.id}" class="entry-detail">`;
 
@@ -593,28 +630,6 @@ function getEntryFullTextOdysee(entry) {
         `;
     }
 
-    text += getEntryBodyText(entry);
-    text += "</div>";
-
-    return text;
-}
-
-
-function getEntryDetailText(entry) {
-    let text = "";
-
-    const protocol_less = new UrlLocation(entry.link).getProtocolless();
-
-    let handler = new YouTubeVideoHandler(entry.link);
-    if (handler.isHandledBy())
-    {
-        text = getEntryFullTextYouTube(entry);
-    }
-    else if (protocol_less.startsWith("odysee.com/"))
-        text = getEntryFullTextOdysee(entry);
-    else
-        text = getEntryFullTextStandard(entry);
-
     return text;
 }
 
@@ -622,6 +637,24 @@ function getEntryDetailText(entry) {
 /**
  * Entry list items
  */
+
+
+function getOneEntryEntryText(entry) {
+    const templateMap = {
+        "standard": entryStandardTemplate,
+        "gallery": entryGalleryTemplate,
+        "search-engine": entrySearchEngineTemplate,
+        "content-centric": entryContentCentricTemplate
+    };
+
+    const templateFunc = templateMap[view_display_type];
+    if (!templateFunc) {
+        return;
+    }
+    var template_text = templateFunc(entry, view_show_icons, view_small_icons);
+
+    return template_text;
+}
 
 
 function getEntryTagStrings(entry) {
@@ -816,6 +849,86 @@ function entrySearchEngineTemplate(entry, show_icons = true, small_icons = false
                </div>
             </div>
         </a>
+    `;
+}
+
+
+function entryContentCentricTemplate(entry, show_icons = true, small_icons = false) {
+    let page_rating_votes = entry.page_rating_votes;
+
+    let badge_text = getEntryVotesBadge(entry);
+    let badge_star = highlight_bookmarks ? getEntryBookmarkBadge(entry) : "";
+    let badge_age = getEntryAgeBadge(entry);
+    let badge_dead = getEntryDeadBadge(entry);
+    let badge_read_later = getEntryReadLaterBadge(entry);
+    let badge_visited = getEntryVisitedBadge(entry);
+   
+    let invalid_style = getEntryDisplayStyle(entry);
+    let bookmark_class = (entry.bookmarked && highlight_bookmarks) ? `list-group-item-primary` : '';
+
+    let thumbnail = getEntryThumbnail(entry);
+
+    let thumbnail_text = '';
+    if (show_icons) {
+        const iconClass = small_icons ? 'icon-small' : 'icon-normal';
+        thumbnail_text = `
+            <div style="position: relative; display: inline-block;">
+                <img src="${thumbnail}" class="rounded ${iconClass}"/>
+            </div>`;
+    }
+    let tags_text = getEntryTagStrings(entry);
+    let language_text = "";
+    if (entry.language != null) {
+        language_text = `Language:${entry.language}`;
+    }
+    let title_safe = getEntryTitleSafe(entry);
+    let entry_link = getEntryLink(entry);
+    let hover_title = title_safe + " " + tags_text;
+    let link = entry.link;
+    let description = getEntryDescriptionSafe(entry);
+    let view_menu = getViewMenu(entry);
+
+    return `
+        <div 
+            entry="${entry.id}"
+            title="${hover_title}"
+            style="${invalid_style}"
+            class="my-1 p-1 list-group-item list-group-item-action ${bookmark_class} border rounded"
+        >
+            <a class="d-flex mx-2" href="${entry_link}">
+               ${thumbnail_text}
+
+               <div class="mx-2">
+                  <span style="font-weight:bold" class="text-primary" entryTitle="true">${title_safe}</span>
+                  <div class="text-primary text-decoration-underline">@ ${entry.link}</div>
+               </div>
+
+               <div class="mx-2 ms-auto">
+                  ${badge_text}
+                  ${badge_star}
+                  ${badge_age}
+                  ${badge_dead}
+                  ${badge_read_later}
+               </div>
+            </a>
+
+            <div class="mx-2">
+              ${view_menu}
+            </div>
+
+            <hr/>
+
+            <div class="mx-2" entryDetails="true">
+            </div>
+
+            <div class="mx-2">
+               ${tags_text} ${language_text}
+            </div>
+
+            <div class="mx-2">
+              ${description}
+            </div>
+        </div>
     `;
 }
 
@@ -1016,23 +1129,6 @@ function getEntriesList(entries) {
     htmlOutput += `</span>`;
 
     return htmlOutput;
-}
-
-
-function getOneEntryEntryText(entry) {
-    const templateMap = {
-        "standard": entryStandardTemplate,
-        "gallery": entryGalleryTemplate,
-        "search-engine": entrySearchEngineTemplate
-    };
-
-    const templateFunc = templateMap[view_display_type];
-    if (!templateFunc) {
-        return;
-    }
-    var template_text = templateFunc(entry, view_show_icons, view_small_icons);
-
-    return template_text;
 }
 
 

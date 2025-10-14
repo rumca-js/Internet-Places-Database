@@ -129,6 +129,146 @@ class YouTubeChannelHandler {
 }
 
 
+class OdyseeVideoHandler {
+    // Example: https://odysee.com/@samtime:1/apple-reacts-to-leaked-windows-12:1?test
+    constructor(url) {
+        this.originalUrl = url;
+        this.videoId = this.extractVideoId(url);
+        this.channelId = this.extractChannelId(url);
+    }
+
+    extractVideoId(url) {
+        try {
+            const urlObj = new URL(url);
+            const paths = urlObj.pathname.split("/").filter(Boolean);
+
+            const last = paths[paths.length - 1];
+            if (last && last.includes(":")) {
+                return last;
+            }
+
+            return null;
+        } catch (e) {
+            return null;
+        }
+    }
+
+    extractChannelId(url) {
+        try {
+            const urlObj = new URL(url);
+            const paths = urlObj.pathname.split("/").filter(Boolean);
+
+            // Look for a path segment starting with @ (e.g., "@samtime:1")
+            for (const part of paths) {
+                if (part.startsWith("@") && part.includes(":")) {
+                    return part;
+                }
+            }
+
+            return null;
+        } catch (e) {
+            return null;
+        }
+    }
+
+    getUrl() {
+        if (!this.channelId || !this.videoId) return null;
+        return `https://odysee.com/${this.channelId}/${this.videoId}`;
+    }
+
+    isHandledBy() {
+        return !!this.videoId;
+    }
+
+    getFeeds() {
+        if (!this.channelId) return [];
+        return [`https://odysee.com/$/rss/${this.channelId}`];
+    }
+
+    getLinkVersions() {
+        return [this.getUrl()];
+    }
+
+    getPreviewHtml() {
+        if (!this.channelId || !this.videoId) return null;
+
+        const embedUrl = `https://odysee.com/${this.channelId}/${this.videoId}`;
+
+        return `
+            <div class="odysee_player_container mb-4">
+                <iframe 
+                    src="${embedUrl}" 
+                    frameborder="0" 
+                    allowfullscreen 
+                    class="odysee_player_frame w-100" 
+                    style="aspect-ratio: 16 / 9;"
+                    referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+            </div>
+        `;
+    }
+
+    getEmbedUrl() {
+        if (!this.videoId) return null;
+
+        return `https://odysee.com/$/embed/${this.videoId}`;
+    }
+}
+
+
+class OdyseeChannelHandler {
+    // https://odysee.com/@samtime:1?test
+    // https://odysee.com/$/rss/@samtime:1
+    constructor(url) {
+        this.originalUrl = url;
+        this.channelId = this.extractChannelId(url);
+    }
+
+    extractChannelId(url) {
+        try {
+            const urlObj = new URL(url);
+            const paths = urlObj.pathname.split("/").filter(Boolean);
+    
+            // Odysee channel formats to support:
+            // - https://odysee.com/@channelName:channelId
+            // - https://odysee.com/$/rss/@channelName:channelId
+    
+            for (const part of paths) {
+                if (part.startsWith("@")) {
+                    return part; // this is the channel ID
+                }
+            }
+    
+            return null;
+        } catch (e) {
+            return null;
+        }
+    }
+
+    getUrl() {
+        if (!this.channelId) return null;
+        return `https://odysee.com/${this.channelId}`;
+    }
+
+    isHandledBy() {
+        return !!this.channelId;
+    }
+
+    getFeeds() {
+        if (!this.channelId) return [];
+        return [`https://odysee.com/$/rss/${this.channelId}`];
+    }
+
+    getLinkVersions() {
+       return [this.getUrl()];
+    }
+
+    getPreviewHtml() {
+       return null;
+    }
+}
+
+
 class RedditHandler {
     constructor(url) {
         this.originalUrl = url;
@@ -254,6 +394,18 @@ function getUrlHandler(link) {
         return handler;
     }
 
+    handler = new OdyseeVideoHandler(link);
+    if (handler.isHandledBy())
+    {
+        return handler;
+    }
+
+    handler = new OdyseeChannelHandler(link);
+    if (handler.isHandledBy())
+    {
+        return handler;
+    }
+
     handler = new RedditHandler(link);
     if (handler.isHandledBy())
     {
@@ -291,45 +443,20 @@ function GetAllServicableLinks(link) {
 }
 
 
-function getYouTubeChannelId(url) {
-    try {
-        const urlObj = new URL(url);
-        const hostname = urlObj.hostname;
-
-        if (urlObj.searchParams.has("channel_id")) {
-            return urlObj.searchParams.get("channel_id");
-        }
-
-        return null;
-    } catch (e) {
-        return null;
+function getChannelUrl(url) {
+    let handler = new YouTubeChannelHandler(url);
+    if (handler.isHandledBy())
+    {
+        return handler.getUrl()
+    }
+    handler = new OdyseeChannelHandler(url);
+    if (handler.isHandledBy())
+    {
+        return handler.getUrl()
+    }
+    handler = new RedditHandler(url);
+    if (handler.isHandledBy())
+    {
+        return handler.getUrl()
     }
 }
-
-
-function getYouTubeChannelUrl(url) {
-    let id = getYouTubeChannelId(url);
-    if (id)
-        return `https://www.youtube.com/channel/${id}`;
-}
-
-
-
-function getChannelUrl(url) {
-    let channelid = null;
-    if (!url)
-        return;
-
-    channelid = getYouTubeChannelUrl(url);
-    if (channelid)
-        return channelid;
-}
-
-
-function getOdyseeVideoId(url) {
-    const url_object = new URL(url);
-    const videoId = url_object.pathname.split('/').pop();
-    return videoId;
-}
-
-
