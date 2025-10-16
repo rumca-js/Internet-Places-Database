@@ -338,6 +338,11 @@ function getEntryDescriptionSafe(entry) {
   content = new InputContent(content_text);
   content_text = content.linkify();
 
+  if (entry.thumbnail != null) {
+    content = new InputContent(content_text);
+    content_text = content.removeImgs(entry.thumbnail);
+  }
+
   content_text = content_text.replace(/(\r\n|\r|\n)/g, "<br>");
   return content_text;
 }
@@ -395,7 +400,7 @@ function getEntryBodyText(entry) {
 
     text += getViewMenu(entry);
 
-    let description = getEntryDescription(entry);
+    let description = getEntryDescriptionSafe(entry);
 
     text += `
     <div>${description}</div>
@@ -644,7 +649,11 @@ function getOneEntryEntryText(entry) {
         "standard": entryStandardTemplate,
         "gallery": entryGalleryTemplate,
         "search-engine": entrySearchEngineTemplate,
-        "content-centric": entryContentCentricTemplate
+        "content-centric": entryContentCentricTemplate,
+        "read-later": getEntryReadLaterBar,
+        "realated": getEntryRelatedBar,
+        "visits": getEntryVisitsBar,
+        "text": getEntryTextBar,
     };
 
     const templateFunc = templateMap[view_display_type];
@@ -746,6 +755,7 @@ function entryStandardTemplate(entry, show_icons = true, small_icons = false) {
     let title_safe = getEntryTitleSafe(entry);
     let hover_title = title_safe + " " + tags_text;
     let entry_link = getEntryLink(entry);
+    let social = getEntrySocialDataText(entry);
 
     let author = entry.author;
     if (author && author != source__title)
@@ -776,6 +786,7 @@ function entryStandardTemplate(entry, show_icons = true, small_icons = false) {
                         ${source__title} ${date_published} ${author}
                     </div>
                     <div class="text-reset mx-2">${tags_text} ${language_text}</div>
+                    <div class="entry-social">${social}</div>
                 </div>
 
                 <div class="mx-2 ms-auto" entryBadges="true">
@@ -823,6 +834,7 @@ function entrySearchEngineTemplate(entry, show_icons = true, small_icons = false
     let entry_link = getEntryLink(entry);
     let hover_title = title_safe + " " + tags_text;
     let link = entry.link;
+    let social = getEntrySocialDataText(entry);
 
     return `
         <a 
@@ -838,6 +850,7 @@ function entrySearchEngineTemplate(entry, show_icons = true, small_icons = false
                   <span style="font-weight:bold" class="text-reset" entryTitle="true">${title_safe}</span>
                   <div class="text-reset text-decoration-underline" entryDetails="true">@ ${entry.link}</div>
                   <div class="text-reset mx-2">${tags_text} ${language_text}</div>
+                  <div class="entry-social">${social}</div>
                </div>
 
                <div class="mx-2 ms-auto">
@@ -870,11 +883,19 @@ function entryContentCentricTemplate(entry, show_icons = true, small_icons = fal
 
     let thumbnail_text = '';
     if (show_icons) {
-        const iconClass = small_icons ? 'icon-small' : 'icon-normal';
-        thumbnail_text = `
-            <div style="position: relative; display: inline-block;">
-                <img src="${thumbnail}" class="rounded ${iconClass}"/>
-            </div>`;
+        const iconClass = small_icons ? 'icon-normal' : 'icon-big';
+        if (isMobile()) {
+           thumbnail_text = `
+               <div style="position: relative; display: inline-block;">
+                   <img src="${thumbnail}" style="width:100%; max-height:100%; object-fit:cover"/>
+               </div>`;
+	}
+        else {
+           thumbnail_text = `
+               <div style="position: relative; display: inline-block;">
+                   <img src="${thumbnail}" style="width:50%; max-height:100%; object-fit:cover"/>
+               </div>`;
+	}
     }
     let tags_text = getEntryTagStrings(entry);
     let language_text = "";
@@ -887,36 +908,36 @@ function entryContentCentricTemplate(entry, show_icons = true, small_icons = fal
     let link = entry.link;
     let description = getEntryDescriptionSafe(entry);
     let view_menu = getViewMenu(entry);
+    let social = getEntrySocialDataText(entry);
 
     return `
         <div 
             entry="${entry.id}"
             title="${hover_title}"
-            style="${invalid_style}"
+            style="${invalid_style} text-decoration: none"
             class="my-1 p-1 list-group-item list-group-item-action ${bookmark_class} border rounded"
         >
             <a class="d-flex mx-2" href="${entry_link}">
-               ${thumbnail_text}
 
-               <div class="mx-2">
-                  <span style="font-weight:bold" class="text-primary" entryTitle="true">${title_safe}</span>
-                  <div class="text-primary text-decoration-underline">@ ${entry.link}</div>
+               <div class="text-wrap">
+                  <span style="font-weight:bold" class="h3 text-body" entryTitle="true">${title_safe}</span>
+                  <div class="text-body text-decoration-underline">@ ${entry.link}</div>
                </div>
 
-               <div class="mx-2 ms-auto">
-                  ${badge_text}
-                  ${badge_star}
-                  ${badge_age}
-                  ${badge_dead}
-                  ${badge_read_later}
-               </div>
+               ${badge_text}
+               ${badge_star}
+               ${badge_age}
+               ${badge_dead}
+               ${badge_read_later}
             </a>
 
             <div class="mx-2">
-              ${view_menu}
+               ${thumbnail_text}
             </div>
 
-            <hr/>
+            <!--div class="mx-2">
+              ${view_menu}
+            </div-->
 
             <div class="mx-2" entryDetails="true">
             </div>
@@ -925,7 +946,9 @@ function entryContentCentricTemplate(entry, show_icons = true, small_icons = fal
                ${tags_text} ${language_text}
             </div>
 
-            <div class="mx-2">
+            <div class="mx-2 entry-social">${social}</div>
+
+            <div class="mx-2 link-detail-description">
               ${description}
             </div>
         </div>
@@ -983,6 +1006,7 @@ function entryGalleryTemplateDesktop(entry, show_icons = true, small_icons = fal
     let hover_title = title_safe + " " + tags_text;
     let entry_link = getEntryLink(entry);
     let source__title = getEntrySourceTitle(entry);
+    let social = getEntrySocialDataText(entry);
 
     return `
         <a 
@@ -1009,6 +1033,7 @@ function entryGalleryTemplateDesktop(entry, show_icons = true, small_icons = fal
                     <span style="font-weight: bold" class="text-primary" entryTitle="true">${title_safe}</span>
                     <div class="link-list-item-description" entryDetails="true">${source__title}</div>
                     <div class="text-reset mx-2">${tags_text} ${language_text}</div>
+                    <div class="entry-social">${social}</div>
                 </div>
             </div>
         </a>
@@ -1054,6 +1079,7 @@ function entryGalleryTemplateMobile(entry, show_icons = true, small_icons = fals
     let hover_title = title_safe + " " + tags_text;
 
     let entry_link = getEntryLink(entry);
+    let social = getEntrySocialDataText(entry);
 
     return `
         <a 
@@ -1071,10 +1097,185 @@ function entryGalleryTemplateMobile(entry, show_icons = true, small_icons = fals
                     <span style="font-weight: bold" class="text-primary" entryTitle="true">${title_safe}</span>
                     <div class="link-list-item-description" entryDetails="true">${source__title}</div>
                     <div class="text-reset mx-2">${tags_text} ${language_text}</div>
+                    <div class="entry-social">${social}</div>
                 </div>
             </div>
         </a>
     `;
+}
+
+
+function getEntryVisitsBar(entry, show_icons=true, small_icons=true) {
+    let link_absolute = entry.link_absolute;
+    let id = entry.id;
+    let title = entry.title;
+    let title_safe = getEntryTitleSafe(entry);
+    let link = entry.link;
+    let thumbnail = entry.thumbnail;
+    let source__title = entry.source__title;
+    let date_published = getEntryDatePublished(entry);
+    let date_last_visit = entry.date_last_visit.toLocaleString();
+    let number_of_visits = entry.number_of_visits;
+
+    let badge_text = getEntryVotesBadge(entry, true);
+    let badge_star = getEntryBookmarkBadge(entry, true);
+    let badge_age = getEntryAgeBadge(entry, true);
+    let badge_dead = getEntryDeadBadge(entry, true);
+    let badge_read_later = getEntryReadLaterBadge(entry);
+
+    let img_text = '';
+    if (view_show_icons) {
+        const iconClass = view_small_icons ? 'icon-small' : 'icon-normal';
+        img_text = `<img src="${thumbnail}" class="rounded ${iconClass}" />`;
+    }
+    let link_text = getEntryLinkText(entry);
+
+    let text = `
+         <a
+         class="list-group-item list-group-item-action"
+         href="${link_absolute}" title="${title}">
+             ${badge_text}
+             ${badge_star}
+             ${badge_age}
+             ${badge_dead}
+             ${badge_read_later}
+
+             <div class="d-flex">
+               ${img_text}
+
+               <div class="mx-2">
+                  ${title_safe}
+                  Visits:${number_of_visits}
+                  Date of the last visit:${date_last_visit}
+		  ${link_text}
+               </div>
+             </div>
+         </a>
+    `;
+    return text;
+}
+
+
+function getEntryRelatedBar(entry, from_entry_id) {
+    let link_absolute = entry.link_absolute;
+    let id = entry.id;
+    let title = entry.title;
+    let title_safe = getEntryTitleSafe(entry);
+    let link = entry.link;
+    let thumbnail = entry.thumbnail;
+    let source__title = entry.source__title;
+    let date_published = getEntryDatePublished(entry);
+
+    let badge_text = getEntryVotesBadge(entry, true);
+    let badge_star = getEntryBookmarkBadge(entry, true);
+    let badge_age = getEntryAgeBadge(entry, true);
+    let badge_dead = getEntryDeadBadge(entry, true);
+    let badge_read_later = getEntryReadLaterBadge(entry);
+    let badge_visited = getEntryVisitedBadge(entry);
+
+    let img_text = '';
+    if (view_show_icons) {
+        const iconClass = view_small_icons ? 'icon-small' : 'icon-normal';
+        img_text = `<img src="${thumbnail}" class="rounded ${iconClass}" />`;
+    }
+    let link_text = getEntryLinkText(entry);
+
+    let text = `
+         <a
+         class="list-group-item list-group-item-action"
+         href="${link_absolute}?from_entry_id=${from_entry_id}" title="${title}">
+             ${badge_text}
+             ${badge_star}
+             ${badge_age}
+             ${badge_dead}
+             ${badge_read_later}
+
+             <div class="d-flex">
+               ${img_text}
+
+               <div class="mx-2">
+		  <div>
+        	  ${title_safe}
+		  ${link_text}
+		  </div>
+               </div>
+             </div>
+         </a>
+    `;
+    return text;
+}
+
+
+function getEntryReadLaterBar(entry, show_icons=true, small_icons=true) {
+    let remove_link = entry.remove_link; // manually set
+    let remove_icon = entry.remove_icon; // manually set
+
+    let link_absolute = entry.link_absolute;
+    let id = entry.id;
+    let title = entry.title;
+    let title_safe = entry.title_safe;
+    let link = entry.link;
+    let thumbnail = entry.thumbnail;
+    let source__title = entry.source__title;
+    let date_published = entry.date_published.toLocaleString();
+
+    let badge_text = getEntryVotesBadge(entry, true);
+    let badge_star = getEntryBookmarkBadge(entry, true);
+    let badge_age = getEntryAgeBadge(entry, true);
+    let badge_dead = getEntryDeadBadge(entry, true);
+
+    let img_text = '';
+    if (view_show_icons) {
+        const iconClass = view_small_icons ? 'icon-small' : 'icon-normal';
+        img_text = `<img src="${thumbnail}" class="rounded ${iconClass}" />`;
+    }
+    let link_text = getEntryLinkText(entry);
+
+    let text = `
+         <div 
+         class="list-group-item list-group-item-action"
+	 >
+             ${badge_text}
+             ${badge_star}
+             ${badge_age}
+             ${badge_dead}
+
+             <div class="d-flex">
+	         <a href="${link_absolute}" title="${title}" class="d-flex">
+		   ${img_text}
+        
+                   <div class="mx-2">
+		      <div>
+        	         ${title_safe}
+			 ${link_text}
+		      </div>
+        	   </div>
+	         </a>
+        
+                 <a id="${id}" class="remove-button ms-auto" href="${remove_link}" >
+                    ${remove_icon}
+                 </a>
+             </div>
+         </div>
+    `;
+    return text;
+}
+
+
+function getEntryTextBar(entry, show_icons=false, small_icons=false) {
+   let htmlOutput = "";
+   for (const [key, value] of Object.entries(entry)) {
+       if (key != "description")
+       {
+           htmlOutput += `
+           <div>
+               <strong>${key}:</strong> ${value ?? "N/A"}
+           </div>
+       `;
+       }
+   }
+
+   return htmlOutput;
 }
 
 

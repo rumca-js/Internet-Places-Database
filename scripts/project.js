@@ -55,16 +55,7 @@ function fillEntireListData() {
 
     fillListDataInternal(entries);
 
-    fillAllEntriesSocialData(entries);
-
     $('#statusLine').html("")
-}
-
-
-function fillAllEntriesSocialData(entries) {
-    entries.forEach(entry => {
-       FillSocialData(entry.id, entry);
-    });
 }
 
 
@@ -583,12 +574,6 @@ function workerFunction(e) {
         }
         else if (message_type == "socialdata") {
             debug(`Received social data len:${result.length}`);
-
-            if (result.length > 0) {
-               result.forEach( social_data => {
-                   FillSocialData(social_data.entry_id, social_data);
-               });
-            }
         }
         else if (message_type == "message") {
              if (result == "Creating database DONE") {

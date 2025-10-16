@@ -318,6 +318,17 @@ class InputContent {
     return this.text;
   }
 
+  removeImgs(link) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(this.text, "text/html");
+
+    const imgs = doc.querySelectorAll(`img[src="${link}"]`);
+    imgs.forEach(img => img.remove());
+
+    this.text = doc.body.innerHTML;
+    return this.text;
+  }
+
   linkify_protocol(protocol = "https://") {
     let text = this.text;
 

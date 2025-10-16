@@ -136,14 +136,6 @@ self.onmessage = async function (e) {
             }
             else if (type == "socialdata" )
             {
-                /*
-                debug("Worker - Sending social data respone");
-                postMessage({ success: true, message_type: "message", result: "Sending social data respone"});
-
-                let social_data_vec = unpackSocialData(result);
-
-                postMessage({ success: true, message_type: "socialdata", result: social_data_vec});
-                */
             }
         } catch (error) {
             postMessage({ success: false, error: error.message });
