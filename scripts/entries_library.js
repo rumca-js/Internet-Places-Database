@@ -317,7 +317,7 @@ function getEntryDescription(entry) {
   if (!entry.description)
     return "";
 
-  const content = new InputContent(entry.description);
+  const content = new ContentDisplay(entry.description);
   let content_text = content.htmlify();
 
   content_text = content_text.replace(/(\r\n|\r|\n)/g, "<br>");
@@ -329,17 +329,17 @@ function getEntryDescriptionSafe(entry) {
   if (!entry.description)
     return "";
 
-  let content = new InputContent(entry.description);
+  let content = new ContentDisplay(entry.description);
   let content_text = content.nohtml();
 
-  content = new InputContent(content_text);
+  content = new ContentDisplay(content_text);
   content_text = content.noattrs();
 
-  content = new InputContent(content_text);
+  content = new ContentDisplay(content_text);
   content_text = content.linkify();
 
   if (entry.thumbnail != null) {
-    content = new InputContent(content_text);
+    content = new ContentDisplay(content_text);
     content_text = content.removeImgs(entry.thumbnail);
   }
 

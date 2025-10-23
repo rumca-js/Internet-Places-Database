@@ -1,4 +1,280 @@
 
+
+function escapeHtml(unsafe)
+{
+  if (unsafe == null)
+      return "";
+
+  unsafe = String(unsafe);
+
+  return unsafe
+       .replace(/&/g, "&amp;")
+       .replace(/</g, "&lt;")
+       .replace(/>/g, "&gt;")
+       .replace(/"/g, "&quot;")
+       .replace(/'/g, "&#039;");
+}
+
+
+class UrlLocation {
+  constructor(urlString) {
+    try {
+      this.url = new URL(urlString);
+    } catch (e) {
+      throw new Error("Invalid URL");
+    }
+  }
+
+  getProtocolless() {
+    return sanitizeLink(this.url.href.replace(`${this.url.protocol}//`, ''));
+  }
+
+  getDomain() {
+    const protocolless = this.getProtocolless();
+    const firstSlashIndex = protocolless.indexOf('/');
+    if (firstSlashIndex === -1) {
+      return protocolless;
+    }
+    return protocolless.substring(0, firstSlashIndex);
+  }
+}
+
+
+class ContentDisplay {
+  constructor(text) {
+    this.text = text;
+  }
+
+  htmlify() {
+    this.text = this.noattrs();
+    this.text = this.linkify();
+    return this.text;
+  }
+
+  nohtml() {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(this.text, "text/html");
+  
+    const elements = doc.querySelectorAll("p, div, table, a");
+  
+    elements.forEach(el => {
+      // Replace the <p> or <div> with its children (unwrap it)
+      const parent = el.parentNode;
+      while (el.firstChild) {
+        parent.insertBefore(el.firstChild, el);
+      }
+      parent.removeChild(el);
+    });
+  
+    return doc.body.innerHTML;
+  }
+
+  noattrs() {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(this.text, "text/html");
+
+    const walk = (node) => {
+      if (node.nodeType === Node.ELEMENT_NODE) {
+        if (node.tagName.toLowerCase() === "a") {
+          const href = node.getAttribute("href");
+          node.getAttributeNames().forEach(attr => node.removeAttribute(attr));
+          if (href) node.setAttribute("href", href);
+        } else if (node.tagName.toLowerCase() === "img") {
+          const src = node.getAttribute("src");
+          node.getAttributeNames().forEach(attr => node.removeAttribute(attr));
+          if (src) node.setAttribute("src", src);
+        } else {
+          node.getAttributeNames().forEach(attr => node.removeAttribute(attr));
+        }
+      }
+      for (let child of node.childNodes) {
+        walk(child);
+      }
+    };
+
+    walk(doc.body);
+    return doc.body.innerHTML;
+  }
+
+  linkify() {
+    this.text = this.linkify_protocol("https://");
+    this.text = this.linkify_protocol("http://");
+    this.text = this.linkify_mail();
+    return this.text;
+  }
+
+  removeImgs(link) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(this.text, "text/html");
+
+    const imgs = doc.querySelectorAll(`img[src="${link}"]`);
+    imgs.forEach(img => img.remove());
+
+    this.text = doc.body.innerHTML;
+    return this.text;
+  }
+
+  linkify_protocol(protocol = "https://") {
+    let text = this.text;
+
+    if (!text.includes(protocol)) {
+        return text;
+    }
+
+    let result = "";
+    let i = 0;
+
+    while (i < text.length) {
+        const pattern = new RegExp(`${protocol}\\S+(?![\\w.])`);
+        const match = text.slice(i).match(pattern);
+
+        if (match && match.index === 0) {
+            const url = match[0];
+            const precedingChars = text.slice(Math.max(0, i - 10), i);
+
+            if (!precedingChars.includes('<a href="') && !precedingChars.includes("<img")) {
+                result += `<a href="${url}">${url}</a>`;
+            } else {
+                result += url;
+            }
+
+            i += url.length;
+        } else {
+            result += text[i];
+            i += 1;
+        }
+    }
+
+    return result;
+  }
+
+  linkify_mail() {
+    const pattern = /mailto:([\w.-]+@[\w.-]+\.\w+)/g;
+    this.text = this.text.replace(pattern, '<a href="mailto:$1">$1</a>');
+    return this.text;
+  }
+}
+
+
+function fixStupidGoogleRedirects(input_url) {
+    if (!input_url) {
+        return null;
+    }
+
+    if (input_url.includes("www.google.com/url")) {
+        const url = new URL(input_url);
+        let realURL = url.searchParams.get('q');
+        if (realURL) {
+            return realURL;
+        }
+        realURL = url.searchParams.get('url');
+        if (realURL) {
+            return realURL;
+        }
+        return input_url;
+    }
+
+    return input_url;
+}
+
+
+function fixStupidYoutubeRedirects(input_url) {
+    if (!input_url) {
+        return null;
+    }
+
+    if (input_url.includes("www.youtube.com/redirect")) {
+        const url = new URL(input_url);
+        let redirectURL = url.searchParams.get('q');
+
+        if (redirectURL) {
+            return decodeURIComponent(redirectURL);
+        }
+        else {
+            return input_url;
+        }
+    }
+
+    return input_url;
+}
+
+
+function fixStupidMicrosoftSafeLinks(input_url) {
+    if (!input_url) {
+        return null;
+    }
+
+    try {
+        const parsedUrl = new URL(input_url);
+
+        if (parsedUrl.hostname.endsWith("safelinks.protection.outlook.com")) {
+            const originalUrl = parsedUrl.searchParams.get("url");
+
+            if (originalUrl) {
+                return decodeURIComponent(originalUrl);
+            }
+        }
+    } catch (e) {
+    }
+
+    return input_url;
+}
+
+
+function sanitizeLinkGeneral(link) {
+   link = link.trimStart();
+
+   // link can be inserted by hand, so someone might enter / at the end
+   //if (link.endsWith("/")) {
+   //   link = link.slice(0, -1);
+   //}
+   if (link.endsWith(" ")) {
+      link = link.slice(0, -1);
+   }
+
+   return link;
+}
+
+
+function sanitizeLink(link) {
+   link = sanitizeLinkGeneral(link);
+   link = fixStupidGoogleRedirects(link);
+   link = fixStupidYoutubeRedirects(link);
+   link = fixStupidMicrosoftSafeLinks(link);
+   link = sanitizeLinkGeneral(link);
+
+   return link;
+}
+
+
+function isSocialMediaSupported(entry) {
+    let page = new UrlLocation(entry.link)
+    let domain = page.getDomain()
+    if (!domain) {
+        return false;
+    }
+
+    if (domain.includes("youtube.com")) {
+        return true;
+    }
+    if (domain.includes("github.com")) {
+        return true;
+    }
+    if (domain.includes("reddit.com")) {
+        return true;
+    }
+    if (domain.includes("news.ycombinator.com")) {
+        return true;
+    }
+
+    return false
+}
+
+
+/**
+ * Handlers
+ */
+
 class YouTubeVideoHandler {
     constructor(url) {
         this.originalUrl = url;
