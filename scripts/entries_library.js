@@ -29,7 +29,16 @@ function isEntryValid(entry) {
 
 
 function getEntryLink(entry) {
-    return entries_direct_links ? entry.link : `?entry_id=${entry.id}`;
+    if (entries_direct_links)
+    {
+        if (entry.link) {
+           return entry.link;
+	}
+        return `?entry_id=${entry.id}`;
+    }
+    else {
+        return `?entry_id=${entry.id}`;
+	}
 }
 
 
@@ -247,16 +256,22 @@ function getEntrySourceInfo(entry) {
 
     let html = "";
 
-    if (source_title) {
-        html += `<div><a href="${source_url}">${source_title}</a></div>`;
+    if (source_title && source_url) {
+        html += `<a href="${source_url}" title="${source_url}">${source_title}</a>`;
     }
     else if (source_url) {
-        html += `<div><a href="${source_url}">Source URL</a></div>`;
+        html += `<a href="${source_url}" title="${source_url}">Source URL</a>`;
+    }
+    else if (source_title) {
+        html += `<span>${source_title}</span>`;
     }
 
-    let channel_url = getChannelUrl(entry.source_url);
-    if (channel_url)
-        html += `<div><a href="${channel_url}">Channel</a></div>`;
+    if (entry.source_url) {
+       let channel_url = getChannelUrl(entry.source_url);
+       if (channel_url) {
+           html += `<a href="${channel_url}" title="${channel_url}">Channel</a>`;
+       }
+    }
 
     return html;
 }
@@ -537,7 +552,7 @@ function getEntryOpParameters(entry) {
 
     text += `
     <h3>Parameters</h3>
-    <div title="Points:Page rating|User rating|Page contents rating">Points: ${entry.page_rating}|${entry.page_rating_votes}|${entry.page_rating_contents}</div>
+    <div title="Points:Page rating|User rating|Page contents rating|Number of total visits">Points: ${entry.page_rating}|${entry.page_rating_votes}|${entry.page_rating_contents}|${entry.page_rating_visits}</div>
     `;
 
     if (entry.date_created) {
@@ -545,9 +560,13 @@ function getEntryOpParameters(entry) {
         text += `<div>Creation date:${date_created}</div>`;
     }
 
-    if (entry.date_updated) {
-        date_updated = parseDate(entry.date_updated);
+    if (entry.date_update_last) {
+        date_updated = parseDate(entry.date_update_last);
         text += `<div>Update date:${date_updated}</div>`;
+    }
+    if (entry.date_last_modified) {
+        date_last_modified = parseDate(entry.date_last_modified);
+        text += `<div>Last modified:${date_last_modified}</div>`;
     }
 
     if (entry.date_dead_since) {
@@ -555,24 +574,67 @@ function getEntryOpParameters(entry) {
         text += `<div>Dead since:${date_dead_since}</div>`;
     }
 
-    text += `
-    <div>Author: ${entry.author}</div>
-    <div>Album: ${entry.album}</div>
-    <div>Status code: ${entry.status_code}</div>
-    <div>Permanent: ${entry.permanent}</div>
-    <div>Language: ${entry.language}</div>
-    `;
+    if (entry.author) {
+        text += `<div>Author: ${entry.author}</div>`;
+    }
+    if (entry.album) {
+        text += `<div>Album: ${entry.album}</div>`;
+    }
 
+    if (entry.status_code_str) {
+       text += `<div>Status code: ${entry.status_code_str}</div>`;
+    }
+    else if (entry.status_code) {
+       text += `<div>Status code: ${entry.status_code}</div>`;
+    }
     if (entry.manual_status_code) {
        text += `
        <div>Manual status code: ${entry.manual_status_code}</div>
        `;
     }
 
+    text += `
+    <div>Language: ${entry.language}</div>
+    `;
+
     if (entry.age) {
        text += `
        <div>Age: ${entry.age}</div>
        `;
+    }
+
+    if (entry.visits) {
+       text += `
+       <div>Visits: ${entry.visits}</div>
+       `;
+    }
+
+    if (entry.last_browser) {
+       text += `
+       <div>Last browser: ${entry.last_browser}</div>
+       `;
+    }
+    if (entry.contents_hash) {
+       text += `
+       <div>Contents hash: ${entry.contents_hash}</div>
+       `;
+    }
+    if (entry.body_hash) {
+       text += `
+       <div>Body hash: ${entry.body_hash}</div>
+       `;
+    }
+
+    if (entry.permanent != null) {
+       text += `<div>Permanent: ${entry.permanent}</div>`;
+    }
+
+    if (entry.user_bookmarked != null) {
+       text += `<div>User Bookmarked: ${entry.user_bookmarked}</div>`;
+    }
+
+    if (entry.user_visits != null) {
+       text += `<div>User Visits: ${entry.user_visits}</div>`;
     }
 
     return text;
@@ -878,6 +940,7 @@ function entryContentCentricTemplate(entry, show_icons = true, small_icons = fal
    
     let invalid_style = getEntryDisplayStyle(entry);
     let bookmark_class = (entry.bookmarked && highlight_bookmarks) ? `list-group-item-primary` : '';
+    let source_info = getEntrySourceInfo(entry);
 
     let thumbnail = getEntryThumbnail(entry);
 
@@ -913,43 +976,45 @@ function entryContentCentricTemplate(entry, show_icons = true, small_icons = fal
     return `
         <div 
             entry="${entry.id}"
-            title="${hover_title}"
             style="${invalid_style} text-decoration: none"
             class="my-1 p-1 list-group-item list-group-item-action ${bookmark_class} border rounded"
         >
-            <a class="d-flex mx-2" href="${entry_link}">
-
+            <a class="d-flex mx-2"
+               href="${entry_link}"
+               title="${hover_title}"
+            >
                <div class="text-wrap">
                   <span style="font-weight:bold" class="h3 text-body" entryTitle="true">${title_safe}</span>
                   <div class="text-body text-decoration-underline">@ ${entry.link}</div>
                </div>
-
-               ${badge_text}
-               ${badge_star}
-               ${badge_age}
-               ${badge_dead}
-               ${badge_read_later}
             </a>
 
             <div class="mx-2">
+               <a href="${entry_link}" title="${hover_title}">
                ${thumbnail_text}
+               </a>
             </div>
 
             <!--div class="mx-2">
               ${view_menu}
             </div-->
 
-            <div class="mx-2" entryDetails="true">
-            </div>
-
             <div class="mx-2">
-               ${tags_text} ${language_text}
+               ${source_info} ${tags_text} ${language_text}
             </div>
-
+	    
             <div class="mx-2 entry-social">${social}</div>
 
             <div class="mx-2 link-detail-description">
               ${description}
+            </div>
+
+            <div class="mx-2 ms-auto">
+               ${badge_text}
+               ${badge_star}
+               ${badge_age}
+               ${badge_dead}
+               ${badge_read_later}
             </div>
         </div>
     `;

@@ -40,6 +40,21 @@ class UrlLocation {
 }
 
 
+function createLinks(inputText) {
+    const urlRegex = /(?<!<a[^>]*>)(https:\/\/[a-zA-Z0-9-_\.\/]+)(?!<\/a>)/g;
+    const urlRegex2 = /(?<!<a[^>]*>)(http:\/\/[a-zA-Z0-9-_\.\/]+)(?!<\/a>)/g;
+
+    inputText = inputText.replace(urlRegex, (match, url) => {
+        return `<a href="${url}" target="_blank">${url}</a>`;
+    });
+
+    inputText = inputText.replace(urlRegex2, (match, url) => {
+        return `<a href="${url}" target="_blank">${url}</a>`;
+    });
+
+    return inputText;
+}
+
 class ContentDisplay {
   constructor(text) {
     this.text = text;
