@@ -107,32 +107,32 @@ Tables, and sizes (will definitely change over time)
 ```
 Table: blockentrylist, Row count: 28
 Table: browser, Row count: 12
-Table: compactedtags, Row count: 3911
+Table: compactedtags, Row count: 3941
 Table: configurationentry, Row count: 1
 Table: credentials, Row count: 0
 Table: dataexport, Row count: 0
-Table: domains, Row count: 1603372
-Table: entrycompactedtags, Row count: 17838
+Table: domains, Row count: 1600803
+Table: entrycompactedtags, Row count: 17974
 Table: entryrules, Row count: 15
 Table: gateway, Row count: 82
-Table: linkdatamodel, Row count: 1606557
+Table: linkdatamodel, Row count: 1604138
 Table: modelfiles, Row count: 0
 Table: readlater, Row count: 0
 Table: searchview, Row count: 11
-Table: socialdata, Row count: 35617
+Table: socialdata, Row count: 35641
 Table: sourcecategories, Row count: 9
 Table: sourcedatamodel, Row count: 11706
 Table: sourcesubcategories, Row count: 14
 Table: user, Row count: 5
-Table: userbookmarks, Row count: 2561
+Table: userbookmarks, Row count: 2607
 Table: usercomments, Row count: 0
-Table: usercompactedtags, Row count: 3911
+Table: usercompactedtags, Row count: 3941
 Table: userconfig, Row count: 3
-Table: userentrytransitionhistory, Row count: 11671
+Table: userentrytransitionhistory, Row count: 11879
 Table: userentryvisithistory, Row count: 5001
 Table: usersearchhistory, Row count: 0
-Table: usertags, Row count: 27113
-Table: uservotes, Row count: 28188
+Table: usertags, Row count: 27363
+Table: uservotes, Row count: 28239
 ```
 
 # Contributing
