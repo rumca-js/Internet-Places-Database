@@ -70,6 +70,7 @@ function notify(text) {
     console.log(text);
 }
 
+
 function debug(text) {
     if (debug_mode) {
     console.log(text);
