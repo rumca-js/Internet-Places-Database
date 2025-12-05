@@ -60,7 +60,7 @@ def main():
 
     args = p.args
 
-    analyzer = DbAnalyzer(input_db = p.args.db, parser=p)
+    analyzer = DbAnalyzer(input_db = p.args.db, args=p.args)
     if p.args.summary:
         analyzer.print_summary()
     else:
