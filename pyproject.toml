@@ -7,6 +7,5 @@ license = "GPL3"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
-sqlalchemy = "^2.0.37"
-sympy = "^1.13.2"
+python = "^3.10"
+linkarchivetools="0.0.40"
