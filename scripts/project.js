@@ -111,6 +111,60 @@ function getProjectListText() {
 
 
 function getNavBar() {
+    if (isMobile()) {
+       return getNavBarMobile();
+    }
+    else {
+       return getNavBarDesktop();
+    }
+}
+
+
+function getNavBarMobile() {
+    let home_text = getNavHomeButton();
+    let navbar_search_form = getNavSearchForm();
+    let navbar_files_menu = getNavFiles();
+    let navbar_view_menu = getNavBarViewMenu();
+    let suggestions = getSearchSuggestionContainer();
+
+    let nav_text = `
+    <nav id="navbar" class="navbar sticky-top navbar-expand-lg navbar-light bg-light container-fluid">
+      <div class="container-fluid">
+      <!--div class="d-flex justify-content-end align-items-center w-100"-->
+        ${home_text}
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+
+      <div class="container-fluid">
+        ${navbar_search_form}
+      </div>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+               ${navbar_files_menu}
+
+               ${navbar_view_menu}
+
+               <li class="nav-item">
+                 <a id="helpButton" class="nav-link" href="#">?</a>
+               </li>
+            </ul>
+        </div>
+
+      </div>
+    </nav>
+
+    ${suggestions}
+    `;
+
+    return nav_text;
+}
+
+
+function getNavBarDesktop() {
     let home_text = getNavHomeButton();
     let navbar_search_form = getNavSearchForm();
     let navbar_files_menu = getNavFiles();
@@ -165,7 +219,7 @@ function getNavSearchForm() {
 
 
 function getNavHomeButton() {
-    return `<a id="homeButton" class="d-flex align-items-center px-3 mb-2" href="#">🏠</a>`;
+    return `<a id="homeButton" class="d-flex align-items-right px-3 mb-2" href="#">🏠</a>`;
 }
 
 

@@ -179,7 +179,10 @@ function getHumanReadableNumber(num) {
  * Returns date in Locale
  */
 function parseDate(inputDate) {
-    return inputDate.toLocaleString();
+    if (inputDate != null)
+    {
+       return inputDate.toLocaleString();
+    }
 }
 
 
