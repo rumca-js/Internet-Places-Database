@@ -106,33 +106,33 @@ There are many interesting places that provide information about web crawling
 Tables, and sizes (will definitely change over time)
 ```
 Table: blockentrylist, Row count: 28
-Table: browser, Row count: 12
-Table: compactedtags, Row count: 4141
+Table: browser, Row count: 16
+Table: compactedtags, Row count: 4181
 Table: configurationentry, Row count: 1
 Table: credentials, Row count: 0
 Table: dataexport, Row count: 0
-Table: domains, Row count: 1575305
-Table: entrycompactedtags, Row count: 19081
-Table: entryrules, Row count: 15
+Table: domains, Row count: 1581053
+Table: entrycompactedtags, Row count: 19377
+Table: entryrules, Row count: 16
 Table: gateway, Row count: 82
-Table: linkdatamodel, Row count: 1579687
+Table: linkdatamodel, Row count: 1585611
 Table: modelfiles, Row count: 0
 Table: readlater, Row count: 0
 Table: searchview, Row count: 11
-Table: socialdata, Row count: 35351
-Table: sourcecategories, Row count: 10
-Table: sourcedatamodel, Row count: 38
-Table: sourcesubcategories, Row count: 13
+Table: socialdata, Row count: 35453
+Table: sourcecategories, Row count: 12
+Table: sourcedatamodel, Row count: 53
+Table: sourcesubcategories, Row count: 15
 Table: user, Row count: 5
-Table: userbookmarks, Row count: 3597
+Table: userbookmarks, Row count: 3718
 Table: usercomments, Row count: 0
-Table: usercompactedtags, Row count: 4141
+Table: usercompactedtags, Row count: 4181
 Table: userconfig, Row count: 3
-Table: userentrytransitionhistory, Row count: 13696
+Table: userentrytransitionhistory, Row count: 14189
 Table: userentryvisithistory, Row count: 5001
 Table: usersearchhistory, Row count: 0
-Table: usertags, Row count: 29286
-Table: uservotes, Row count: 29131
+Table: usertags, Row count: 29819
+Table: uservotes, Row count: 29336
 ```
 
 # Contributing
