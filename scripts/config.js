@@ -76,3 +76,47 @@ function debug(text) {
     console.log(text);
     }
 }
+
+
+function getInitialSearchSuggestsions() {
+    return [
+        "tag=jeffrey epstein",
+        "tag=privacy",
+        "tag=survaillance",
+        "tag=censorship",
+        "tag=technofeudalism",
+        "tag=climate change",
+        "tag=covid",
+        "tag=facebook",
+        "tag=google",
+        "tag=inequality",
+    ];
+}
+
+
+function getViewStyles() {
+    return [
+        "standard",
+        "gallery",
+        "search-engine",
+        "content-centric",
+        "accordion",
+        "links-only",
+    ];
+}
+
+
+function getOrderPossibilities() {
+    return [
+        ['page_rating_votes', "Votes ASC"],
+        ['-page_rating_votes', "Votes DESC"],
+        ['page_rating_views', "Views ASC"],
+        ['-page_rating_views', "Views DESC"],
+        ['date_published', "Date published ASC"],
+        ['-date_published', "Date published DESC"],
+        ['followers_count', "Followers ASC"],
+        ['-followers_count', "Followers DESC"],
+        ['stars', "Stars ASC"],
+        ['-stars', "Stars DESC"],
+    ];
+}

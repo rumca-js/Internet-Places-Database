@@ -18,19 +18,70 @@ function escapeHtml(unsafe)
 
 class UrlLocation {
   constructor(urlString) {
+    this.raw = urlString;
     try {
       this.url = new URL(urlString);
     } catch (e) {
-      throw new Error("Invalid URL");
+      console.log(e);
+      this.url = null;
     }
   }
 
+  isWebLink() {
+        const url = this.raw;
+        if (url == null)
+        {
+            return false;
+        }
+
+        if (
+            url.startsWith("http://") ||
+            url.startsWith("https://") ||
+            url.startsWith("smb://") ||
+            url.startsWith("ftp://") ||
+            url.startsWith("//") ||
+            url.startsWith("\\\\")
+        ) {
+            // https://mailto is not a good link
+            if (!url.includes(".")) {
+                return false;
+            }
+
+            // no funny chars
+            const domainOnly = this.getDomain();
+            if (!domainOnly) {
+                return false;
+            }
+            if (domainOnly.includes("&")) {
+                return false;
+            }
+            if (domainOnly.includes("?")) {
+                return false;
+            }
+
+            const parts = domainOnly.split(".");
+            if (parts[0].trim() === "") {
+                return false;
+            }
+
+            return true;
+        }
+
+        return false;
+  }
+
   getProtocolless() {
-    return sanitizeLink(this.url.href.replace(`${this.url.protocol}//`, ''));
+    if (this.url != null) {
+       return sanitizeLink(this.url.href.replace(`${this.url.protocol}//`, ''));
+    }
   }
 
   getDomain() {
     const protocolless = this.getProtocolless();
+    if (protocolless == null) {
+      return;
+    }
+
     const firstSlashIndex = protocolless.indexOf('/');
     if (firstSlashIndex === -1) {
       return protocolless;
@@ -168,6 +219,122 @@ class ContentDisplay {
     this.text = this.text.replace(pattern, '<a href="mailto:$1">$1</a>');
     return this.text;
   }
+}
+
+
+class ContentLinkParser {
+    constructor(url, contents) {
+        this.url = url || null;
+        this.contents = contents;
+    }
+
+    getContents() {
+        return this.contents;
+    }
+
+    getLinks() {
+        let links = new Set();
+
+        this.getLinksHttps("https").forEach(l => links.add(l));
+        this.getLinksHttpsEncoded("https").forEach(l => links.add(l));
+        this.getLinksHttps("http").forEach(l => links.add(l));
+        this.getLinksHttpsEncoded("http").forEach(l => links.add(l));
+        this.getLinksHref().forEach(l => links.add(l));
+
+        //console.log("Obtained");
+        //this.debugLinks(links);
+
+        // Cleanup similar to Python code
+        let cleaned = new Set();
+
+        for (let item of links) {
+            if (!item) continue;
+
+            const cutTokens = ['"', '<', '>', '&quot;', '&gt;', '&lt;'];
+            for (const token of cutTokens) {
+                const idx = item.indexOf(token);
+                if (idx !== -1) {
+                    item = item.slice(0, idx);
+                }
+            }
+
+            item = item.trim();
+            if (item) {
+                cleaned.add(item);
+            }
+        }
+
+        //console.log("Cleaned");
+        //this.debugLinks(cleaned);
+
+        // Remove junk values
+        const blacklist = new Set([
+            null, "", "http", "https", "http://", "https://"
+        ]);
+
+        let result = new Set();
+        for (let link of cleaned) {
+            let link_location = new UrlLocation(link);
+            let is_web_link = link_location.isWebLink();
+
+            if (!blacklist.has(link) && is_web_link) {
+                result.add(link);
+            }
+        }
+
+        return result;
+    }
+
+    debugLinks(links) {
+        for (let item of links) {
+            console.log(item);
+        }
+    }
+
+    getLinksHttps(protocol = "https") {
+        const cont = String(this.getContents());
+        const pattern = new RegExp(
+            `(${protocol}:\\/\\/[a-zA-Z0-9./\\-_?&=#;:@]+)`,
+            "g"
+        );
+
+        const matches = cont.match(pattern) || [];
+        return new Set(matches.map(l => l.replace(/\.$/, "")));
+    }
+
+    getLinksHttpsEncoded(protocol = "https") {
+        const cont = String(this.getContents());
+        const pattern = new RegExp(
+            `(${protocol}:&#x2F;&#x2F;[a-zA-Z0-9./\\-_?&=#;:@]+)`,
+            "g"
+        );
+
+        const matches = cont.match(pattern) || [];
+        return matches
+            .map(l => l.replace(/\.$/, ""))
+            .map(decodeEncodedUrl);
+    }
+
+    getLinksHref() {
+        const cont = String(this.getContents());
+        const pattern = /href\s*=\s*["']([^"']+)["']/gi;
+
+        let result = new Set();
+        let match;
+        while ((match = pattern.exec(cont)) !== null) {
+            result.add(match[1]);
+        }
+        return result;
+    }
+}
+
+
+function decodeEncodedUrl(url) {
+    if (!url) return url;
+
+    const textarea = document.createElement("textarea");
+    textarea.innerHTML = url;
+    return textarea.value;
 }
 
 

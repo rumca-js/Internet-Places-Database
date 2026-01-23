@@ -1,4 +1,32 @@
 
+
+function getSearchSuggestsions() {
+   let initial_search_suggestions = getInitialSearchSuggestsions();
+
+   return [...search_suggestions, ...initial_search_suggestions];
+}
+
+
+function getVersionInformation() {
+   return "File version:" + getFileVersion() + " System version:" + getSystemVersion();
+}
+
+
+function getSystemInformationHtml() {
+   let file_name = getFileName();
+   let version = getVersionInformation();
+
+   let text = "";
+
+   text += `<div>File name ${file_name}</div>`;
+   text += `<div>${version}</div>`;
+
+   text += `<div>Current sort setting:${sort_function}</div>`;
+
+   return text;
+}
+
+
 function fillEntireListData() {
     let data = object_list_data;
 
@@ -229,7 +257,50 @@ function getSearchSuggestionContainer() {
 }
 
 
+function getOrderButtons() {
+
+    let text = "";
+    for (const style of getOrderPossibilities())
+    {
+        let style_real = style[0];
+        let style_name = style[1];
+        text += `
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="order" id="order${style_real}" value="${style_real}">
+                        <label class="form-check-label" for="order${style_real}">Order by ${style_name}</label>
+                    </div>
+                </li>
+          `;
+    }
+
+    return text;
+}
+
+
+function getViewButtons() {
+
+    let text = "";
+    for (const style of getViewStyles())
+    {
+        text += `
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="radio" name="viewMode" id="view-${style}" value="${style}">
+                        <label class="form-check-label" for="view-${style}">${style}</label>
+                    </div>
+                </li>
+                `;
+    }
+
+    return text;
+}
+
+
 function getNavBarViewMenu() {
+    let view_buttons = getViewButtons();
+    let order_buttons = getOrderButtons();
+
     return `
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarViewDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -237,30 +308,7 @@ function getNavBarViewMenu() {
             </a>
             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarViewDropdown">
                 <!-- View Type Radio Group -->
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="viewMode" id="viewStandard" value="standard">
-                        <label class="form-check-label" for="viewStandard">Standard</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="viewMode" id="viewGallery" value="gallery">
-                        <label class="form-check-label" for="viewGallery">Gallery</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="viewMode" id="viewSearchEngine" value="search-engine">
-                        <label class="form-check-label" for="viewSearchEngine">Search engine</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="viewMode" id="viewContentCentric" value="content-centric">
-                        <label class="form-check-label" for="viewContentCentric">Content centric</label>
-                    </div>
-                </li>
+                ${view_buttons}
 
                 <li><hr class="dropdown-divider"></li>
 
@@ -281,66 +329,7 @@ function getNavBarViewMenu() {
                 <li><hr class="dropdown-divider"></li>
 
                 <!-- Order Radio Group -->
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="order" id="orderByVotesASC" value="page_rating_votes">
-                        <label class="form-check-label" for="orderByVotesASC">Order by Votes ASC</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="order" id="orderByVotesDESC" value="-page_rating_votes">
-                        <label class="form-check-label" for="orderByVotesDESC">Order by Votes DESC</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="order" id="orderByDatePublishedASC" value="date_published">
-                        <label class="form-check-label" for="orderByDatePublishedASC">Order by Date published ASC</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="order" id="orderByDatePublishedDESC" value="-date_published">
-                        <label class="form-check-label" for="orderByDatePublishedDESC">Order by Date published DESC</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="order" id="viewsASC" value="view_count">
-                        <label class="form-check-label" for="viewsASC">Order by views ASC</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="order" id="viewsDESC" value="-view_count">
-                        <label class="form-check-label" for="viewsDESC">Order by views DESC</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="order" id="orderByMostFollowedASC" value="followers_count">
-                        <label class="form-check-label" for="orderByMostFollowedASC">Order by most followed ASC</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="order" id="orderByMostFollowedDESC" value="-followers_count">
-                        <label class="form-check-label" for="orderByMostFollowedDESC">Order by most followed DESC</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="order" id="orderByStarsASC" value="stars">
-                        <label class="form-check-label" for="orderByStarsASC">Order by most stars ASC</label>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown-item form-check">
-                        <input class="form-check-input me-2" type="radio" name="order" id="orderByStarsDESC" value="-stars">
-                        <label class="form-check-label" for="orderByStarsDESC">Order by most stars DESC</label>
-                    </div>
-                </li>
+                ${order_buttons}
 
                 <li><hr class="dropdown-divider"></li>
 
@@ -360,9 +349,32 @@ function getNavBarViewMenu() {
                         <label class="form-check-label" for="directLinks" title="Links lead directly to URL">Direct links</label>
                     </div>
                 </li>
+
+                <li><hr class="dropdown-divider"></li>
+
+                <li>
+                    <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="checkbox" id="highlight-bookmarks">
+                        <label class="form-check-label" for="directLinks" title="Highlights bookmarks">Highlight bookmark</label>
+                    </div>
+                </li>
             </ul>
           </li>
           `;
+}
+
+
+function hideSearchSuggestions() {
+   let search_suggestions = document.getElementById("search-suggestions");
+   search_suggestions.style.display = "none";
+   $("#dropdownButton").html("⌄");
+}
+
+
+function showSearchSuggestions() {
+   let search_suggestions = document.getElementById("search-suggestions");
+   search_suggestions.style.display = "block";
+   $("#dropdownButton").html("^");
 }
 
 
@@ -402,24 +414,11 @@ function setDarkMode() {
 
 
 function updateWidgets() {
-    $('#showIcons').prop('checked', view_show_icons);
-    $('#directLinks').prop('checked', entries_direct_links);
-
     $('input[name="viewMode"][value="' + view_display_type + '"]').prop('checked', true);
     $('input[name="theme"][value="' + view_display_style + '"]').prop('checked', true);
     $('input[name="order"][value="' + sort_function + '"]').prop('checked', true);
-}
 
-
-function hideSearchSuggestions() {
-   let search_suggestions = document.getElementById("search-suggestions");
-   search_suggestions.style.display = "none";
-   $("#dropdownButton").html("⌄");
-}
-
-
-function showSearchSuggestions() {
-   let search_suggestions = document.getElementById("search-suggestions");
-   search_suggestions.style.display = "block";
-   $("#dropdownButton").html("^");
+    $('#showIcons').prop('checked', view_show_icons);
+    $('#directLinks').prop('checked', entries_direct_links);
+    $('#highlight-bookmarks').prop('checked', highlight_bookmarks);
 }

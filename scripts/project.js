@@ -19,23 +19,6 @@ function getFileName() {
 }
 
 
-function getVersionInformation() {
-   return "File version:" + getFileVersion() + " System version:" + getSystemVersion();
-}
-
-
-function getSearchSuggestsions() {
-   let initial_search_suggestions = getInitialSearchSuggestsions();
-
-   return [...search_suggestions, ...initial_search_suggestions];
-}
-
-
-function animateToTop() {
-    $('html, body').animate({ scrollTop: 0 }, 'slow');
-}
-
-
 function isWorkerNeeded(fileName) {
     if (fileName.indexOf("db") != -1 || fileName.indexOf("db.zip") != -1) {
         return true;
@@ -268,5 +251,3 @@ function readConfig() {
         default_page_size = parseInt(urlParams.get('default_page_size'), 10);
     }
 }
-
-
