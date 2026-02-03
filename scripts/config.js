@@ -12,27 +12,12 @@ let debug_mode = false;
 
 let entries_direct_links = true;
 let highlight_bookmarks = false;
+let click_behavior_modal_window = true;
 let sort_function = "-page_rating_votes"; // page_rating_votes, date_published
 let default_page_size = 200;
 
 let entries_visit_alpha=1.0;
 let entries_dead_alpha=0.5;
-
-
-function getDefaultFileName() {
-    return "internet.db";
-}
-
-
-function getFileList() {
-    return ["internet.db",
-    ];
-}
-
-
-function getDefaultFileLocation() {
-    return "/";
-}
 
 
 function getFileVersion() {
@@ -43,6 +28,36 @@ function getFileVersion() {
 
 function getSystemVersion() {
     return "1.2";
+}
+
+
+function getDefaultFileName() {
+    return "internet.db";
+}
+
+
+function getFileList() {
+    return [];
+}
+
+
+function getDefaultFileLocation() {
+    return "/";
+}
+
+
+function getEntryAPI() {
+   return;
+}
+
+
+function getEntryLocalLink(entry) {
+    return `?entry_id=${entry.id}`;
+}
+
+
+function getHomeLocation() {
+    return "/";
 }
 
 
@@ -63,18 +78,6 @@ function getInitialSearchSuggestsions() {
         "t.tag LIKE '%wtf%'",
         "t.tag LIKE '%funny%'",
     ];
-}
-
-
-function notify(text) {
-    console.log(text);
-}
-
-
-function debug(text) {
-    if (debug_mode) {
-    console.log(text);
-    }
 }
 
 
@@ -119,4 +122,16 @@ function getOrderPossibilities() {
         ['stars', "Stars ASC"],
         ['-stars', "Stars DESC"],
     ];
+}
+
+
+function notify(text) {
+    console.log(text);
+}
+
+
+function debug(text) {
+    if (debug_mode) {
+    console.log(text);
+    }
 }

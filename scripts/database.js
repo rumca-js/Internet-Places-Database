@@ -7,6 +7,8 @@
  |_____/ \___\_\______|_|\__\___| |_|___/  \__,_| \_/\_/ \___||___/\___/|_| |_| |_|\___|
 */
 
+let PAGE_SIZE = 100;
+
 
 function getEntriesSelectColumns() {
     columns = "";
@@ -193,9 +195,6 @@ function getOrderStmt() {
 
    return `ORDER BY ${sort_method} ${order_method}`;
 }
-
-
-let PAGE_SIZE = 100;
 
 
 function getSelectEntry(entry_id) {

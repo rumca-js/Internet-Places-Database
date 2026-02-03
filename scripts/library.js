@@ -55,21 +55,13 @@ function putSpinnerOnIt(button) {
 }
 
 
-function GetPaginationNav(currentPage, totalPages, totalRows) {
-    totalPages = Math.ceil(totalPages);
-
-    if (totalPages <= 1) {
-        return '';
-    }
-
-    let paginationText = `
-        <nav aria-label="Page navigation">
-            <ul class="pagination">
-    `;
+function GetPaginationNavSimple(currentPage) {
 
     const currentUrl = new URL(window.location);
     currentUrl.searchParams.delete('page');
     const paginationArgs = `${currentUrl.searchParams.toString()}`;
+
+    let paginationText = ``;
 
     if (currentPage > 2) {
         paginationText += `
@@ -78,6 +70,54 @@ function GetPaginationNav(currentPage, totalPages, totalRows) {
             </li>
         `;
     }
+
+    if (currentPage > 2) {
+        paginationText += `
+            <li class="page-item">
+                <a href="?page=${currentPage - 1}&${paginationArgs}" data-page="${currentPage - 1}" class="btnNavigation page-link">&lt;</a>
+            </li>
+        `;
+    }
+
+    paginationText += `
+        <li class="page-item">
+            <a href="?page=${currentPage + 1}&${paginationArgs}" data-page="${currentPage + 1}" class="btnNavigation page-link">&gt;</a>
+        </li>
+    `;
+
+    let nav_html = `
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+               ${paginationText}
+            </ul>
+        </nav>
+    `;
+
+    return nav_html;
+}
+
+
+function GetPaginationNav(currentPage, totalPages, totalRows) {
+    totalPages = Math.ceil(totalPages);
+
+    if (totalPages <= 1) {
+        return '';
+    }
+
+    const currentUrl = new URL(window.location);
+    currentUrl.searchParams.delete('page');
+    const paginationArgs = `${currentUrl.searchParams.toString()}`;
+
+    let paginationText = ``;
+
+    if (currentPage > 2) {
+        paginationText += `
+            <li class="page-item">
+                <a href="?page=1&${paginationArgs}" data-page="1" class="btnNavigation page-link">|&lt;</a>
+            </li>
+        `;
+    }
+
     if (currentPage > 2) {
         paginationText += `
             <li class="page-item">
@@ -104,6 +144,7 @@ function GetPaginationNav(currentPage, totalPages, totalRows) {
             </li>
         `;
     }
+
     if (currentPage + 1 < totalPages) {
         paginationText += `
             <li class="page-item">
@@ -112,50 +153,12 @@ function GetPaginationNav(currentPage, totalPages, totalRows) {
         `;
     }
 
-    paginationText += `
-            </ul>
-            ${currentPage} / ${totalPages} @ ${totalRows} records.
-        </nav>
-    `;
-
-    return paginationText;
-}
-
-
-function GetPaginationNavSimple(currentPage) {
-    let paginationText = `
+    let nav_html = `
         <nav aria-label="Page navigation">
             <ul class="pagination">
-    `;
-
-    const currentUrl = new URL(window.location);
-    currentUrl.searchParams.delete('page');
-    const paginationArgs = `${currentUrl.searchParams.toString()}`;
-
-    if (currentPage > 1) {
-        paginationText += `
-            <li class="page-item">
-                <a href="?page=1&${paginationArgs}" data-page="1" class="btnNavigation page-link">|&lt;</a>
-            </li>
-        `;
-    }
-    if (currentPage > 1) {
-        paginationText += `
-            <li class="page-item">
-                <a href="?page=${currentPage - 1}&${paginationArgs}" data-page="${currentPage - 1}" class="btnNavigation page-link">&lt;</a>
-            </li>
-        `;
-    }
-
-    paginationText += `
-        <li class="page-item">
-            <a href="?page=${currentPage + 1}&${paginationArgs}" data-page="${currentPage + 1}" class="btnNavigation page-link">&gt;</a>
-        </li>
-    `;
-
-    paginationText += `
+              ${paginationText}
             </ul>
-            Page: ${currentPage}
+            ${currentPage} / ${totalPages} @ ${totalRows} records.
         </nav>
     `;
 
@@ -201,6 +204,50 @@ function getFormattedDate(input_date) {
 
     return formattedDate;
 }
+
+
+const getDynamicJsonRequestTracker = {};
+function getDynamicJson(url_address, callback = null, errorInHtml = false, retry=true, timeout_s=20000) {
+    // Abort previous request if needed
+    if (getDynamicJsonRequestTracker[url_address]?.xhr) {
+        getDynamicJsonRequestTracker[url_address].xhr.abort();
+    }
+
+    const requestId = (getDynamicJsonRequestTracker[url_address]?.id || 0) + 1;
+    getDynamicJsonRequestTracker[url_address] = { id: requestId };
+
+    const xhr = $.ajax({
+        url: url_address,
+        type: 'GET',
+        timeout: timeout_s,
+        success: function(data) {
+            if (getDynamicJsonRequestTracker[url_address].id === requestId) {
+                callback?.(data);
+            }
+        },
+        error: function(xhr, status, error) {
+          if (retry) {
+            if (status === 'timeout') {
+                console.warn(`Timeout on ${url_address}. Retrying...`);
+                if (getDynamicJsonRequestTracker[url_address].id === requestId) {
+                    getDynamicJson(url_address, callback, errorInHtml);
+                }
+            } else {
+                console.error(`Error fetching ${url_address}:`, status, error);
+            }
+          }
+        }
+    });
+
+    getDynamicJsonRequestTracker[url_address].xhr = xhr;
+}
+
+
+
+
+/**
+ * File processing
+ */
 
 
 async function checkIfFileExists(url) {
@@ -293,6 +340,7 @@ async function requestFileChunks(file_name, attempt = 1) {
         console.error("Error in requestFileChunks:", error);
     }
 }
+
 
 async function requestFileChunksUintArray(file_name, attempt = 1) {
     file_name = file_name + "?i=" + getFileVersion();
@@ -407,30 +455,7 @@ async function requestFileChunksMultipart(file_name) {
 }
 
 
-/**
- Specific
-*/
-
-
-function updateListData(jsonData) {
-    if (!object_list_data) {
-        object_list_data = { entries: [] };
-    }
-
-    if (!object_list_data.entries) {
-        object_list_data.entries = [];
-    }
-
-    if (jsonData && Array.isArray(jsonData.entries)) {
-        object_list_data.entries.push(...jsonData.entries);
-    } else if (jsonData && Array.isArray(jsonData)) {
-        object_list_data.entries.push(...jsonData);
-    } else {
-        console.error("Invalid JSON data: jsonData.entries is either not defined or not an array.");
-    }
-}
-
-async function unPackFileJSONS(zip) {
+async function unPackFileJSONS(zip, callback) {
     let percentComplete = 0;
 
     try {
@@ -448,7 +473,7 @@ async function unPackFileJSONS(zip) {
                 const jsonFile = await zip.files[fileName].async('string');
                 const jsonData = JSON.parse(jsonFile);
 
-                updateListData(jsonData);
+                callback(jsonData);
             }
         }
 

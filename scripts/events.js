@@ -1,17 +1,16 @@
-function onSystemReady() {
-    /* shared between JSON and DB */
+function onSearchStart() {
+    $('#searchInput').prop('disabled', true);
+    $('#searchButton').prop('disabled', true);
 
-    system_initialized = true;
+    let spinner_text = getSpinnerText("Searching");
+    $('#statusLine').html(spinner_text);
+}
+
+
+function onSearchStop() {
     $('#searchInput').prop('disabled', false);
-    $('#searchInput').focus();
-
-   let entry_id = getQueryParam("entry_id");
-   if (entry_id) {
-      performSearch();
-   }
-   else {
-      $('#statusLine').html("System is ready! You can perform search now");
-   }
+    $('#searchButton').prop('disabled', false);
+    $('#statusLine').html("");
 }
 
 
@@ -49,7 +48,7 @@ function workerFunction(e) {
              let nav_text = getPaginationText();
 
              $('#pagination').html(nav_text);
-             $('#statusLine').html("");
+             onSearchStop();
         }
         else if (message_type == "socialdata") {
             debug(`Received social data len:${result.length}`);
@@ -250,6 +249,14 @@ function registerEventsListeners() {
 
 
    //-----------------------------------------------
+   $(document).on('click', '#modal-preview', function(e) {
+       click_behavior_modal_window = $(this).is(':checked');
+   
+       fillListData();
+   });
+
+
+   //-----------------------------------------------
    $(document).on('click', '#highlight-bookmarks', function(e) {
        highlight_bookmarks = $(this).is(':checked');
    
@@ -319,6 +326,55 @@ function registerEventsListeners() {
        
        clearInput();
      }
+   });
+
+   function onShowContainer(container) {
+       if (!container || container.dataset.loaded) return;
+   
+       const src = container.dataset.youtubeSrc;
+   
+       container.innerHTML = `
+           <iframe
+               src="${src}"
+               title="YouTube video"
+               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+               allowfullscreen>
+           </iframe>
+       `;
+   
+       container.dataset.loaded = 'true';
+   }
+
+   function onHideContainer(container) {
+       if (!container) return;
+   
+       container.innerHTML = `
+           <div class="d-flex justify-content-center align-items-center bg-dark text-white">
+               ▶ Click to load video
+           </div>
+       `;
+   
+       delete container.dataset.loaded;
+   }
+
+   document.addEventListener('shown.bs.modal', function (e) {
+       const container = e.target.querySelector('.youtube-lazy');
+       onShowContainer(container);
+   });
+   
+   document.addEventListener('hidden.bs.modal', function (e) {
+       const container = e.target.querySelector('.youtube-lazy');
+       onHideContainer(container);
+   });
+
+   document.addEventListener('shown.bs.collapse', function (e) {
+       const container = e.target.querySelector('.youtube-lazy');
+       onShowContainer(container);
+   });
+   
+   document.addEventListener('hidden.bs.collapse', function (e) {
+       const container = e.target.querySelector('.youtube-lazy');
+       onHideContainer(container);
    });
 }
 

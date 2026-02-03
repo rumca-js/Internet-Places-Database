@@ -207,12 +207,16 @@ function getNavSearchForm() {
 
 
 function getNavHomeButton() {
-    return `<a id="homeButton" class="d-flex align-items-right px-3 mb-2" href="#">🏠</a>`;
+    let home_location = getHomeLocation();
+    return `<a id="homeButton" class="d-flex align-items-right px-3 mb-2" href="${home_location}">🏠</a>`;
 }
 
 
 function getNavFiles() {
     let project_text = getProjectListTextNav();
+    if (project_text == null)
+        return "";
+
     return `
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -227,6 +231,9 @@ function getNavFiles() {
 
 function getProjectListTextNav() {
     let files = getFileList();
+    if (files.length == 0) {
+        return;
+    }
     
     let html = ``;
     
@@ -345,6 +352,15 @@ function getNavBarViewMenu() {
 
                 <li>
                     <div class="dropdown-item form-check">
+                        <input class="form-check-input me-2" type="checkbox" id="modal-preview">
+                        <label class="form-check-label" for="directLinks" title="Click on entry opens preview">Modal preview</label>
+                    </div>
+                </li>
+
+                <li><hr class="dropdown-divider"></li>
+
+                <li>
+                    <div class="dropdown-item form-check">
                         <input class="form-check-input me-2" type="checkbox" id="directLinks">
                         <label class="form-check-label" for="directLinks" title="Links lead directly to URL">Direct links</label>
                     </div>
@@ -421,4 +437,5 @@ function updateWidgets() {
     $('#showIcons').prop('checked', view_show_icons);
     $('#directLinks').prop('checked', entries_direct_links);
     $('#highlight-bookmarks').prop('checked', highlight_bookmarks);
+    $('#modal-preview').prop('checked', click_behavior_modal_window);
 }

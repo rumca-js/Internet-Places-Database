@@ -60,10 +60,10 @@ function getEntryLink(entry) {
         if (entry.link) {
            return entry.link;
 	}
-        return `?entry_id=${entry.id}`;
+        return getEntryLocalLink(entry);
     }
     else {
-        return `?entry_id=${entry.id}`;
+        return getEntryLocalLink(entry);
     }
 }
 
@@ -271,11 +271,11 @@ function getEntryLinkText(entry) {
 
 
 function getEntrySourceTitle(entry) {
-    let source__title = "";
-    if (entry.source__title) {
-       source__title = escapeHtml(entry.source__title)
+    let source_title = "";
+    if (entry.source_title) {
+       source_title = escapeHtml(entry.source_title)
     }
-    return source__title;
+    return source_title;
 }
 
 
@@ -436,19 +436,19 @@ function getEntryDetailText(entry) {
 }
 
 
-function getEntryDetailPreview(entry) {
+function getEntryDetailPreview(entry, lazy=false) {
     let handler_yt = new YouTubeVideoHandler(entry.link);
     let handler_od = new OdyseeVideoHandler(entry.link);
 
     if (handler_yt.isHandledBy())
     {
-        return getEntryDetailYouTubePreview(entry);
+        return getEntryDetailYouTubePreview(entry, lazy);
     }
     else if (handler_od.isHandledBy())
     {
-        return getEntryDetailOdyseePreview(entry);
+        return getEntryDetailOdyseePreview(entry, lazy);
     }
-    return getEntryDetailThumbnailPreview(entry);
+    return getEntryDetailThumbnailPreview(entry, true, lazy);
 }
 
 
@@ -706,7 +706,11 @@ function getEntryOpParameters(entry) {
 }
 
 
-function getEntryDetailThumbnailPreview(entry, center=false) {
+function getEntryDetailThumbnailPreview(entry, center=false, lazy=false) {
+    if (!view_show_icons) {
+       return "";
+    }
+
     let div_style = "";
     if (center) {
       div_style = 'text-align:center;';
@@ -735,7 +739,7 @@ function getEntryDetailThumbnailPreview(entry, center=false) {
 }
 
 
-function getEntryDetailYouTubePreview(entry) {
+function getEntryDetailYouTubePreview(entry, lazy=false) {
     let handler = new YouTubeVideoHandler(entry.link);
     if (!handler.isHandledBy())
     {
@@ -744,15 +748,30 @@ function getEntryDetailYouTubePreview(entry) {
 
     const embedUrl = handler.getEmbedUrl();
 
+    if (lazy) {
+        return `
+          <div class="ratio ratio-16x9 youtube-lazy"
+               data-youtube-src="${embedUrl}">
+            <div class="d-flex justify-content-center align-items-center bg-dark text-white">
+                ▶ Click to load video
+            </div>
+          </div>
+        `;
+    }
+
     return `
-      <div class="youtube_player_container">
-          <iframe src="${embedUrl}" frameborder="0" allowfullscreen class="youtube_player_frame" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <div class="ratio ratio-16x9">
+          <iframe src="${embedUrl}"
+                  frameborder="0"
+                  allowfullscreen
+                  referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
       </div>
     `;
 }
 
 
-function getEntryDetailOdyseePreview(entry) {
+function getEntryDetailOdyseePreview(entry, lazy=false) {
     let handler = new OdyseeVideoHandler(entry.link);
     if (!handler.isHandledBy())
     {
@@ -761,15 +780,27 @@ function getEntryDetailOdyseePreview(entry) {
 
     const embedUrl = handler.getEmbedUrl();
 
-    let text = `<div entry="${entry.id}" class="entry-detail">`;
-
-    if (videoId) {
-        text += `
-           <div class="youtube_player_container">
-               <iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" width="100%" height="100%" src="${embedUrl}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
-           </div>
+    if (lazy) {
+        return `
+          <div class="ratio ratio-16x9 youtube-lazy"
+               data-youtube-src="${embedUrl}">
+            <div class="d-flex justify-content-center align-items-center bg-dark text-white">
+                ▶ Click to load video
+            </div>
+          </div>
         `;
     }
+
+    return `
+      <div class="ratio ratio-16x9">
+          <iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" width="100%" height="100%" 
+                        src="${embedUrl}"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+                        >
+          </iframe>
+      </div>
+    `;
 
     return text;
 }
@@ -874,52 +905,22 @@ function getEntryThumbnailBadge(entry, img_location, small_icons=false) {
 
 
 function entryStandardTemplate(entry, show_icons = true, small_icons = false) {
-    let page_rating_votes = entry.page_rating_votes;
-
-    let badge_text = getEntryVotesBadge(entry);
-    let badge_star = getEntryBookmarkBadge(entry);
-    let badge_age = getEntryAgeBadge(entry);
-    let badge_dead = getEntryDeadBadge(entry);
-    let badge_read_later = getEntryReadLaterBadge(entry);
-    let badge_visited = getEntryVisitedBadge(entry);
-
-    let invalid_style = getEntryDisplayStyle(entry);
+    let display_style = getEntryDisplayStyle(entry);
     let bookmark_class = (entry.bookmarked && highlight_bookmarks) ? `list-group-item-primary` : '';
-    let thumbnail = getEntryThumbnailOrFavicon(entry);
-
-    let img_text = '';
-    if (show_icons) {
-        const iconClass = small_icons ? 'icon-small' : 'icon-normal';
-        img_text = `<img src="${thumbnail}" class="rounded ${iconClass}" />`;
-    }
-    
-    let thumbnail_text = '';
-    if (img_text) {
-        thumbnail_text = `
-            <div style="position: relative; display: inline-block;">
-                ${img_text}
-            </div>`;
-    }
     let tags_text = getEntryTagStrings(entry);
-    let language_text = "";
-    if (entry.language != null) {
-        language_text = `Language:${entry.language}`;
-    }
-    let source__title = getEntrySourceTitle(entry);
-    let date_published = getEntryDatePublished(entry);
     let title_safe = getEntryTitleSafe(entry);
     let hover_title = title_safe + " " + tags_text;
     let entry_link = getEntryLink(entry);
-    let social = getEntrySocialDataText(entry);
+    let contents = entryStandardTemplateContents(entry, show_icons, small_icons);
 
-    let author = entry.author;
-    if (author && author != source__title)
-    {
-       author = "by " + getEntryAuthorText(entry);
-    }
-    else
-    {
-       author = "";
+    let view_modal_class_setup = "";
+    let modal_view_window = "";
+    if (click_behavior_modal_window) {
+        view_modal_class_setup += `
+        data-bs-toggle="modal"
+        data-bs-target="#modal-${entry.id}"
+	`;
+        modal_view_window = getEntryModalView(entry, show_icons, small_icons);
     }
 
     return `
@@ -927,134 +928,152 @@ function entryStandardTemplate(entry, show_icons = true, small_icons = false) {
             href="${entry_link}"
             entry="${entry.id}"
             title="${hover_title}"
-            style="${invalid_style}"
+            style="${display_style}"
+	    ${view_modal_class_setup}
             class="my-1 p-1 list-group-item list-group-item-action ${bookmark_class} border rounded"
         >
-            <div class="d-flex">
-                ${thumbnail_text}
-                <div class="mx-2">
-                    <span style="font-weight:bold" class="text-reset" entryTitle="true">${title_safe}</span>
-                    <div 
-                      class="text-reset"
-                       entryDetails="true"
-                    >
-                        ${source__title} ${date_published} ${author}
-                    </div>
-                    <div class="text-reset mx-2">${tags_text} ${language_text}</div>
-                    <div class="entry-social">${social}</div>
-                </div>
-
-                <div class="mx-2 ms-auto" entryBadges="true">
-                  ${badge_text}
-                  ${badge_star}
-                  ${badge_age}
-                  ${badge_dead}
-                  ${badge_read_later}
-                </div>
-            </div>
+	  ${contents}
         </a>
+        ${modal_view_window}
     `;
 }
 
 
 function entrySearchEngineTemplate(entry, show_icons = true, small_icons = false) {
-    let page_rating_votes = entry.page_rating_votes;
-
-    let badge_text = getEntryVotesBadge(entry);
-    let badge_star = highlight_bookmarks ? getEntryBookmarkBadge(entry) : "";
-    let badge_age = getEntryAgeBadge(entry);
-    let badge_dead = getEntryDeadBadge(entry);
-    let badge_read_later = getEntryReadLaterBadge(entry);
-    let badge_visited = getEntryVisitedBadge(entry);
-   
-    let invalid_style = getEntryDisplayStyle(entry);
+    let display_style = getEntryDisplayStyle(entry);
     let bookmark_class = (entry.bookmarked && highlight_bookmarks) ? `list-group-item-primary` : '';
 
-    let thumbnail = getEntryThumbnailOrFavicon(entry);
-
-    let thumbnail_text = '';
-    if (show_icons) {
-        const iconClass = small_icons ? 'icon-small' : 'icon-normal';
-        thumbnail_text = `
-            <div style="position: relative; display: inline-block;">
-                <img src="${thumbnail}" class="rounded ${iconClass}"/>
-            </div>`;
-    }
     let tags_text = getEntryTagStrings(entry);
-    let language_text = "";
-    if (entry.language != null) {
-        language_text = `Language:${entry.language}`;
-    }
     let title_safe = getEntryTitleSafe(entry);
     let entry_link = getEntryLink(entry);
     let hover_title = title_safe + " " + tags_text;
-    let link = entry.link;
-    let social = getEntrySocialDataText(entry);
+    let contents = entrySearchEngineTemplateContents(entry, show_icons, small_icons);
+ 
+    let view_modal_class_setup = "";
+    let modal_view_window = "";
+    if (click_behavior_modal_window) {
+        view_modal_class_setup += `
+        data-bs-toggle="modal"
+        data-bs-target="#modal-${entry.id}"
+	`;
+        modal_view_window = getEntryModalView(entry, show_icons, small_icons);
+    }
 
     return `
         <a 
             href="${entry_link}"
             entry="${entry.id}"
             title="${hover_title}"
-            style="${invalid_style}"
+            style="${display_style}"
+	    ${view_modal_class_setup}
             class="my-1 p-1 list-group-item list-group-item-action ${bookmark_class} border rounded"
         >
-            <div class="d-flex">
-               ${thumbnail_text}
-               <div class="mx-2">
-                  <span style="font-weight:bold" class="text-reset" entryTitle="true">${title_safe}</span>
-                  <div class="text-reset text-decoration-underline" entryDetails="true">@ ${entry.link}</div>
-                  <div class="text-reset mx-2">${tags_text} ${language_text}</div>
-                  <div class="entry-social">${social}</div>
-               </div>
-
-               <div class="mx-2 ms-auto">
-                  ${badge_text}
-                  ${badge_star}
-                  ${badge_age}
-                  ${badge_dead}
-                  ${badge_read_later}
-               </div>
-            </div>
+	   ${contents}
         </a>
+        ${modal_view_window}
+    `;
+}
+
+function entryGalleryTemplate(entry, show_icons = true, small_icons = false) {
+    if (isMobile()) {
+        return entryGalleryTemplateMobile(entry, show_icons, small_icons);
+    }
+    else {
+        return entryGalleryTemplateDesktop(entry, show_icons, small_icons);
+    }
+}
+
+
+function entryGalleryTemplateDesktop(entry, show_icons = true, small_icons = false) {
+    let display_style = getEntryDisplayStyle(entry);
+    let bookmark_class = (entry.bookmarked && highlight_bookmarks) ? `list-group-item-primary` : '';
+
+    let tags_text = getEntryTagStrings(entry);
+    let title_safe = getEntryTitleSafe(entry);
+    let hover_title = title_safe + " " + tags_text;
+    let entry_link = getEntryLink(entry);
+    let contents = entryGalleryTemplateDesktopContents(entry, show_icons, small_icons);
+
+    let view_modal_class_setup = "";
+    let modal_view_window = "";
+    if (click_behavior_modal_window) {
+        view_modal_class_setup += `
+        data-bs-toggle="modal"
+        data-bs-target="#modal-${entry.id}"
+	`;
+        modal_view_window = getEntryModalView(entry, show_icons, small_icons);
+    }
+
+    return `
+        <a 
+            href="${entry_link}"
+            entry="${entry.id}"
+            title="${hover_title}"
+            class="list-group-item list-group-item-action m-1 border rounded p-2"
+            style="text-overflow: ellipsis; max-width: 18%; min-width: 18%; width: auto; aspect-ratio: 1 / 1; text-decoration: none; display:flex; flex-direction:column; ${display_style} ${bookmark_class}"
+	    ${view_modal_class_setup}
+        >
+	${contents}
+        </a>
+        ${modal_view_window}
+    `;
+}
+
+
+function entryGalleryTemplateMobile(entry, show_icons = true, small_icons = false) {
+    let display_style = getEntryDisplayStyle(entry);
+    let bookmark_class = (entry.bookmarked && highlight_bookmarks) ? `list-group-item-primary` : '';
+
+    let tags_text = getEntryTagStrings(entry);
+    let title_safe = getEntryTitleSafe(entry);
+    let hover_title = title_safe + " " + tags_text;
+
+    let entry_link = getEntryLink(entry);
+    let contents = entryGalleryTemplateMobileContents(entry, show_icons, small_icons);
+
+    let view_modal_class_setup = "";
+    let modal_view_window = "";
+    if (click_behavior_modal_window) {
+        view_modal_class_setup += `
+        data-bs-toggle="modal"
+        data-bs-target="#modal-${entry.id}"
+	`;
+        modal_view_window = getEntryModalView(entry, show_icons, small_icons);
+    }
+
+    return `
+        <a 
+            href="${entry_link}"
+            entry="${entry.id}"
+            title="${hover_title}"
+            class="list-group-item list-group-item-action border rounded p-2"
+            style="text-overflow: ellipsis; max-width: 100%; min-width: 100%; width: auto; aspect-ratio: 1 / 1; text-decoration: none; display:flex; flex-direction:column; ${display_style} ${bookmark_class}"
+	    ${view_modal_class_setup}
+        >
+	${contents}
+        </a>
+        ${modal_view_window}
     `;
 }
 
 
 function entryAccordionTemplate(entry, show_icons = true, small_icons = false) {
-    let page_rating_votes = entry.page_rating_votes;
-
-    let badge_text = getEntryVotesBadge(entry);
+    let badge_votes = getEntryVotesBadge(entry);
     let badge_star = highlight_bookmarks ? getEntryBookmarkBadge(entry) : "";
     let badge_age = getEntryAgeBadge(entry);
     let badge_dead = getEntryDeadBadge(entry);
     let badge_read_later = getEntryReadLaterBadge(entry);
     let badge_visited = getEntryVisitedBadge(entry);
    
-    let entry_style = getEntryDisplayStyle(entry);
     let bookmark_class = (entry.bookmarked && highlight_bookmarks) ? `` : '';
-
-    let thumbnail = getEntryThumbnailOrFavicon(entry);
-
-    let thumbnail_text = '';
-    if (show_icons) {
-        const iconClass = small_icons ? 'icon-small' : 'icon-normal';
-        thumbnail_text = `
-            <div style="position: relative; display: inline-block;">
-                <img src="${thumbnail}" class="rounded ${iconClass}"/>
-            </div>`;
-    }
     let tags_text = getEntryTagStrings(entry);
-    let language_text = "";
-    if (entry.language != null) {
-        language_text = `Language:${entry.language}`;
-    }
     let title_safe = getEntryTitleSafe(entry);
     let entry_link = getEntryLink(entry);
     let hover_title = title_safe + " " + tags_text;
-    let link = entry.link;
-    let social = getEntrySocialDataText(entry);
-    let preview_text = getEntryDetailThumbnailPreview(entry, center=true);
+
+    let contents = entrySearchEngineTemplateContents(entry, show_icons, small_icons);
+
+    let preview_text = getEntryDetailPreview(entry, true);
     let detail_text = getEntryBodyText(entry);
 
     return `
@@ -1068,23 +1087,7 @@ function entryAccordionTemplate(entry, show_icons = true, small_icons = false) {
                data-bs-toggle="collapse"
                data-bs-target="#collapse-${entry.id}"
            >
-               <div class="d-flex">
-                  ${thumbnail_text}
-                  <div class="mx-2">
-                     <span style="font-weight:bold" class="text-reset" entryTitle="true">${title_safe}</span>
-                     <div class="text-reset text-decoration-underline" entryDetails="true">@ ${entry.link}</div>
-                     <div class="text-reset mx-2">${tags_text} ${language_text}</div>
-                     <div class="entry-social">${social}</div>
-                  </div>
-
-                  <div class="mx-2 ms-auto">
-                     ${badge_text}
-                     ${badge_star}
-                     ${badge_age}
-                     ${badge_dead}
-                     ${badge_read_later}
-                  </div>
-               </div>
+	       ${contents}
            </button>
         </h2>
         <div id="collapse-${entry.id}" class="accordion-collapse collapse" data-bs-parent="#accordion-parent">
@@ -1115,6 +1118,9 @@ function getEntryLinkTemplate(entry, show_icons = true, small_icons = false) {
 }
 
 
+/**
+ * Already incldues preview - so no more redirects, modal
+ */
 function entryContentCentricTemplate(entry, show_icons = true, small_icons = false) {
     let page_rating_votes = entry.page_rating_votes;
 
@@ -1212,155 +1218,6 @@ function entryContentCentricTemplate(entry, show_icons = true, small_icons = fal
 }
 
 
-function entryGalleryTemplate(entry, show_icons = true, small_icons = false) {
-    if (isMobile()) {
-        return entryGalleryTemplateMobile(entry, show_icons, small_icons);
-    }
-    else {
-        return entryGalleryTemplateDesktop(entry, show_icons, small_icons);
-    }
-}
-
-
-function entryGalleryTemplateDesktop(entry, show_icons = true, small_icons = false) {
-    let page_rating_votes = entry.page_rating_votes;
-    
-    let badge_text = getEntryVotesBadge(entry, true);
-    let badge_star = getEntryBookmarkBadge(entry, true);
-    let badge_age = getEntryAgeBadge(entry, true);
-    let badge_dead = getEntryDeadBadge(entry);
-    let badge_read_later = getEntryReadLaterBadge(entry);
-    let badge_visited = getEntryVisitedBadge(entry);
-
-    let invalid_style = getEntryDisplayStyle(entry);
-    let bookmark_class = (entry.bookmarked && highlight_bookmarks) ? `list-group-item-primary` : '';
-
-    let thumbnail = "";
-    if (show_icons)
-    {
-       thumbnail = getEntryThumbnailOrFavicon(entry);
-    }
-
-    let thumbnail_text = `
-        <img src="${thumbnail}" style="width:100%;max-height:100%;aspect-ratio:3/4;object-fit:cover;"/>
-        <div class="ms-auto">
-            ${badge_text}
-            ${badge_star}
-            ${badge_age}
-            ${badge_dead}
-            ${badge_read_later}
-        </div>
-    `;
-
-    let tags_text = getEntryTagStrings(entry);
-    let language_text = "";
-    if (entry.language != null) {
-        language_text = `Language:${entry.language}`;
-    }
-
-    let title_safe = getEntryTitleSafe(entry);
-    let hover_title = title_safe + " " + tags_text;
-    let entry_link = getEntryLink(entry);
-    let source__title = getEntrySourceTitle(entry);
-    let social = getEntrySocialDataText(entry);
-
-    return `
-        <a 
-            href="${entry_link}"
-            entry="${entry.id}"
-            title="${hover_title}"
-            class="list-group-item list-group-item-action m-1 border rounded p-2"
-            style="text-overflow: ellipsis; max-width: 18%; min-width: 18%; width: auto; aspect-ratio: 1 / 1; text-decoration: none; display:flex; flex-direction:column; ${invalid_style} ${bookmark_class}"
-        >
-            <div style="display: flex; flex-direction:column; align-content:normal; height:100%">
-                <div style="flex: 0 0 70%; flex-shrink: 0;flex-grow:0;max-height:70%" id="entryTumbnail">
-                    ${thumbnail_text}
-                </div>
-                <div
-                      style="
-                      flex: 0 0 auto;
-                      overflow: hidden;
-                      text-overflow: ellipsis;
-                      white-space: normal;
-                      line-height: 1.2em;
-                      max-height: 4.8em;
-                      "
-                      id="entryDetails">
-                    <span style="font-weight: bold" class="text-primary" entryTitle="true">${title_safe}</span>
-                    <div class="link-list-item-description" entryDetails="true">${source__title}</div>
-                    <div class="text-reset mx-2">${tags_text} ${language_text}</div>
-                    <div class="entry-social">${social}</div>
-                </div>
-            </div>
-        </a>
-    `;
-}
-
-
-function entryGalleryTemplateMobile(entry, show_icons = true, small_icons = false) {
-    let page_rating_votes = entry.page_rating_votes;
-    
-    let badge_text = getEntryVotesBadge(entry, true);
-    let badge_star = getEntryBookmarkBadge(entry, true);
-    let badge_age = getEntryAgeBadge(entry, true);
-    let badge_dead = getEntryDeadBadge(entry);
-    let badge_read_later = getEntryReadLaterBadge(entry);
-    let badge_visited = getEntryVisitedBadge(entry);
-
-    let invalid_style = getEntryDisplayStyle(entry);
-    let bookmark_class = (entry.bookmarked && highlight_bookmarks) ? `list-group-item-primary` : '';
-
-    let thumbnail = "";
-    if (show_icons)
-    {
-       thumbnail = getEntryThumbnailOrFavicon(entry);
-    }
-    let thumbnail_text = `
-        <img src="${thumbnail}" style="width:100%; max-height:100%; object-fit:cover"/>
-        ${badge_text}
-        ${badge_star}
-        ${badge_age}
-        ${badge_dead}
-        ${badge_read_later}
-    `;
-
-    let tags_text = getEntryTagStrings(entry);
-    let language_text = "";
-    if (entry.language != null) {
-        language_text = `Language:${entry.language}`;
-    }
-
-    let source__title = getEntrySourceTitle(entry);
-    let title_safe = getEntryTitleSafe(entry);
-    let hover_title = title_safe + " " + tags_text;
-
-    let entry_link = getEntryLink(entry);
-    let social = getEntrySocialDataText(entry);
-
-    return `
-        <a 
-            href="${entry_link}"
-            entry="${entry.id}"
-            title="${hover_title}"
-            class="list-group-item list-group-item-action border rounded p-2"
-            style="text-overflow: ellipsis; max-width: 100%; min-width: 100%; width: auto; aspect-ratio: 1 / 1; text-decoration: none; display:flex; flex-direction:column; ${invalid_style} ${bookmark_class}"
-        >
-            <div style="display: flex; flex-direction:column; align-content:normal; height:100%">
-                <div style="flex: 0 0 70%; flex-shrink: 0;flex-grow:0;max-height:70%">
-                    ${thumbnail_text}
-                </div>
-                <div style="flex: 0 0 30%; flex-shrink: 0;flex-grow:0;max-height:30%">
-                    <span style="font-weight: bold" class="text-primary" entryTitle="true">${title_safe}</span>
-                    <div class="link-list-item-description" entryDetails="true">${source__title}</div>
-                    <div class="text-reset mx-2">${tags_text} ${language_text}</div>
-                    <div class="entry-social">${social}</div>
-                </div>
-            </div>
-        </a>
-    `;
-}
-
-
 function getEntryVisitsBar(entry, show_icons=true, small_icons=true) {
     let link_absolute = entry.link_absolute;
     let id = entry.id;
@@ -1368,7 +1225,7 @@ function getEntryVisitsBar(entry, show_icons=true, small_icons=true) {
     let title_safe = getEntryTitleSafe(entry);
     let link = entry.link;
     let thumbnail = entry.thumbnail;
-    let source__title = entry.source__title;
+    let source_title = entry.source_title;
     let date_published = getEntryDatePublished(entry);
     let date_last_visit = entry.date_last_visit.toLocaleString();
     let number_of_visits = entry.number_of_visits;
@@ -1427,7 +1284,7 @@ function getEntryRelatedBar(entry, from_entry_id) {
     let title_safe = getEntryTitleSafe(entry);
     let link = entry.link;
     let thumbnail = entry.thumbnail;
-    let source__title = entry.source__title;
+    let source_title = entry.source_title;
     let date_published = getEntryDatePublished(entry);
 
     let badge_text = getEntryVotesBadge(entry, true);
@@ -1480,7 +1337,7 @@ function getEntryReadLaterBar(entry, show_icons=true, small_icons=true) {
     let title_safe = entry.title_safe;
     let link = entry.link;
     let thumbnail = entry.thumbnail;
-    let source__title = entry.source__title;
+    let source_title = entry.source_title;
     let date_published = entry.date_published.toLocaleString();
 
     let badge_text = getEntryVotesBadge(entry, true);
@@ -1543,6 +1400,281 @@ function getEntryTextBar(entry, show_icons=false, small_icons=false) {
 }
 
 
+function entryStandardTemplateContents(entry, show_icons = true, small_icons = false) {
+    let badge_votes = getEntryVotesBadge(entry);
+    let badge_star = getEntryBookmarkBadge(entry);
+    let badge_age = getEntryAgeBadge(entry);
+    let badge_dead = getEntryDeadBadge(entry);
+    let badge_read_later = getEntryReadLaterBadge(entry);
+    let badge_visited = getEntryVisitedBadge(entry);
+
+    let title_safe = getEntryTitleSafe(entry);
+    let date_published = getEntryDatePublished(entry);
+    let thumbnail = getEntryThumbnailOrFavicon(entry);
+    let author = getEntryAuthorText(entry);
+    let social = getEntrySocialDataText(entry);
+    let tags_text = getEntryTagStrings(entry);
+    let source_title = getEntrySourceTitle(entry);
+
+    let img_text = '';
+    if (show_icons) {
+        const iconClass = small_icons ? 'icon-small' : 'icon-normal';
+        img_text = `<img src="${thumbnail}" class="rounded ${iconClass}" />`;
+    }
+    
+    let thumbnail_text = '';
+    if (img_text) {
+        thumbnail_text = `
+            <div style="position: relative; display: inline-block;">
+                ${img_text}
+            </div>`;
+    }
+
+    let language_text = "";
+    if (entry.language != null) {
+        language_text = `Language:${entry.language}`;
+    }
+
+    if (author != "" && author != null)
+    {
+       author = "by " + author;
+    }
+
+    return `
+            <div class="d-flex">
+                ${thumbnail_text}
+                <div class="mx-2">
+                    <span style="font-weight:bold" class="text-reset" entryTitle="true">${title_safe}</span>
+                    <div 
+                      class="text-reset"
+                       entryDetails="true"
+                    >
+                        ${source_title} ${date_published} ${author}
+                    </div>
+                    <div class="text-reset mx-2">${tags_text} ${language_text}</div>
+                    <div class="entry-social">${social}</div>
+                </div>
+
+                <div class="mx-2 ms-auto" entryBadges="true">
+                  ${badge_votes}
+                  ${badge_star}
+                  ${badge_age}
+                  ${badge_dead}
+                  ${badge_read_later}
+                </div>
+            </div>
+	    `;
+}
+
+
+function entrySearchEngineTemplateContents(entry, show_icons = true, small_icons = false) {
+    let badge_votes = getEntryVotesBadge(entry);
+    let badge_star = highlight_bookmarks ? getEntryBookmarkBadge(entry) : "";
+    let badge_age = getEntryAgeBadge(entry);
+    let badge_dead = getEntryDeadBadge(entry);
+    let badge_read_later = getEntryReadLaterBadge(entry);
+    let badge_visited = getEntryVisitedBadge(entry);
+   
+    let thumbnail = getEntryThumbnailOrFavicon(entry);
+    let social = getEntrySocialDataText(entry);
+    let tags_text = getEntryTagStrings(entry);
+    let title_safe = getEntryTitleSafe(entry);
+
+    let thumbnail_text = '';
+    if (show_icons) {
+        const iconClass = small_icons ? 'icon-small' : 'icon-normal';
+        thumbnail_text = `
+            <div style="position: relative; display: inline-block;">
+                <img src="${thumbnail}" class="rounded ${iconClass}"/>
+            </div>`;
+    }
+
+    let language_text = "";
+    if (entry.language != null) {
+        language_text = `Language:${entry.language}`;
+    }
+
+    return `
+            <div class="d-flex">
+               ${thumbnail_text}
+               <div class="mx-2">
+                  <span style="font-weight:bold" class="text-reset" entryTitle="true">${title_safe}</span>
+                  <div class="text-reset text-decoration-underline" entryDetails="true">@ ${entry.link}</div>
+                  <div class="text-reset mx-2">${tags_text} ${language_text}</div>
+                  <div class="entry-social">${social}</div>
+               </div>
+
+               <div class="mx-2 ms-auto">
+                  ${badge_votes}
+                  ${badge_star}
+                  ${badge_age}
+                  ${badge_dead}
+                  ${badge_read_later}
+               </div>
+            </div>
+       `;
+}
+
+
+function entryGalleryTemplateDesktopContents(entry, show_icons = true, small_icons = false) {
+    let badge_votes = getEntryVotesBadge(entry, true);
+    let badge_star = getEntryBookmarkBadge(entry, true);
+    let badge_age = getEntryAgeBadge(entry, true);
+    let badge_dead = getEntryDeadBadge(entry);
+    let badge_read_later = getEntryReadLaterBadge(entry);
+    let badge_visited = getEntryVisitedBadge(entry);
+
+    let social = getEntrySocialDataText(entry);
+    let tags_text = getEntryTagStrings(entry);
+    let title_safe = getEntryTitleSafe(entry);
+    let source_title = getEntrySourceTitle(entry);
+
+    let thumbnail = "";
+    if (show_icons)
+    {
+       thumbnail = getEntryThumbnailOrFavicon(entry);
+    }
+
+    let thumbnail_text = `
+        <img src="${thumbnail}" style="width:100%;max-height:100%;aspect-ratio:3/4;object-fit:cover;"/>
+        <div class="ms-auto">
+            ${badge_votes}
+            ${badge_star}
+            ${badge_age}
+            ${badge_dead}
+            ${badge_read_later}
+        </div>
+    `;
+
+    let language_text = "";
+    if (entry.language != null) {
+        language_text = `Language:${entry.language}`;
+    }
+
+    return `
+            <div style="display: flex; flex-direction:column; align-content:normal; height:100%">
+                <div style="flex: 0 0 70%; flex-shrink: 0;flex-grow:0;max-height:70%" id="entryTumbnail">
+                    ${thumbnail_text}
+                </div>
+                <div
+                      style="
+                      flex: 0 0 auto;
+                      overflow: hidden;
+                      text-overflow: ellipsis;
+                      white-space: normal;
+                      line-height: 1.2em;
+                      max-height: 4.8em;
+                      "
+                      id="entryDetails">
+                    <span style="font-weight: bold" class="text-primary" entryTitle="true">${title_safe}</span>
+                    <div class="link-list-item-description" entryDetails="true">${source_title}</div>
+                    <div class="text-reset mx-2">${tags_text} ${language_text}</div>
+                    <div class="entry-social">${social}</div>
+                </div>
+            </div>
+     `;
+}
+
+
+function entryGalleryTemplateMobileContents(entry, show_icons = true, small_icons = false) {
+    let badge_text = getEntryVotesBadge(entry, true);
+    let badge_star = getEntryBookmarkBadge(entry, true);
+    let badge_age = getEntryAgeBadge(entry, true);
+    let badge_dead = getEntryDeadBadge(entry);
+    let badge_read_later = getEntryReadLaterBadge(entry);
+    let badge_visited = getEntryVisitedBadge(entry);
+
+    let title_safe = getEntryTitleSafe(entry);
+    let source_title = getEntrySourceTitle(entry);
+    let tags_text = getEntryTagStrings(entry);
+    let social = getEntrySocialDataText(entry);
+
+    let thumbnail = "";
+    if (show_icons)
+    {
+       thumbnail = getEntryThumbnailOrFavicon(entry);
+    }
+    let thumbnail_text = `
+        <img src="${thumbnail}" style="width:100%; max-height:100%; object-fit:cover"/>
+        ${badge_text}
+        ${badge_star}
+        ${badge_age}
+        ${badge_dead}
+        ${badge_read_later}
+    `;
+
+    let language_text = "";
+    if (entry.language != null) {
+        language_text = `Language:${entry.language}`;
+    }
+
+    return `
+            <div style="display: flex; flex-direction:column; align-content:normal; height:100%">
+                <div style="flex: 0 0 70%; flex-shrink: 0;flex-grow:0;max-height:70%">
+                    ${thumbnail_text}
+                </div>
+                <div
+		    style="flex: 0 0 30%;
+		           flex-shrink: 0;
+			   flex-grow:0;max-height:30%
+                      ">
+                    <span style="font-weight: bold" class="text-primary" entryTitle="true">${title_safe}</span>
+                    <div class="link-list-item-description" entryDetails="true">${source_title}</div>
+                    <div class="text-reset mx-2">${tags_text} ${language_text}</div>
+                    <div class="entry-social">${social}</div>
+                </div>
+            </div>
+	    `;
+}
+
+
+function getEntryModalView(entry, show_icons = true, small_icons = false) {
+    let badge_votes = getEntryVotesBadge(entry);
+    let badge_star = highlight_bookmarks ? getEntryBookmarkBadge(entry) : "";
+    let badge_age = getEntryAgeBadge(entry);
+    let badge_dead = getEntryDeadBadge(entry);
+    let badge_read_later = getEntryReadLaterBadge(entry);
+    let badge_visited = getEntryVisitedBadge(entry);
+
+    let title_safe = getEntryTitleSafe(entry);
+    let entry_link = getEntryLink(entry);
+
+    let preview_text = getEntryDetailPreview(entry, true);
+    let detail_text = getEntryBodyText(entry);
+
+    return `
+    <div class="modal fade" id="modal-${entry.id}" tabindex="-1"
+         aria-labelledby="modalLabel-${entry.id}" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modalLabel-${entry.id}">
+                        ${title_safe}
+                    </h5>
+                    <button type="button" class="btn-close"
+                            data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+
+                <div class="modal-body">
+                    ${preview_text}
+                    ${detail_text}
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary"
+                            data-bs-dismiss="modal">
+                        Close
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    `;
+}
+
+
 function getEntry(entry_id) {
     let filteredEntries = object_list_data.entries.filter(entry =>
         entry.id == entry_id
@@ -1590,80 +1722,16 @@ function getEntriesList(entries) {
         htmlOutput = '<li class="list-group-item">No entries found</li>';
     }
 
-    if (view_display_type == "gallery") {
-        htmlOutput += `</span>`;
-    }
     if (view_display_type == "accordion") {
         htmlOutput += `</div>`;
+    }
+    if (view_display_type == "gallery") {
+        htmlOutput += `</span>`;
     }
 
     htmlOutput += `</span>`;
 
     return htmlOutput;
-}
-
-
-/** 
- * JSON files
- */
-
-function sortEntries(entries) {
-    console.log(`Sorting using ${sort_function}`);
-    const sortFields = [
-        'link',
-        'title',
-        'page_rating_votes',
-        'followers_count',
-        'stars',
-        'view_count',
-        'upvote_ratio',
-        'upvote_diff',
-        'upvote_view_ratio',
-    ];
-
-    const isDescending = sort_function.startsWith('-');
-    const field = isDescending ? sort_function.slice(1) : sort_function;
-
-    if (sort_function == "-date_published") {
-        entries = entries.sort((a, b) => {
-            if (a.date_published === null && b.date_published === null) {
-                return 0;
-            }
-            if (a.date_published === null) {
-                return 1;
-            }
-            if (b.date_published === null) {
-                return -1;
-            }
-            return new Date(b.date_published) - new Date(a.date_published);
-        });
-    }
-    else if (sort_function == "date_published") {
-        entries = entries.sort((a, b) => {
-            if (a.date_published === null && b.date_published === null) {
-                return 0;
-            }
-            if (a.date_published === null) {
-                return -1;
-            }
-            if (b.date_published === null) {
-                return 1;
-            }
-            return new Date(a.date_published) - new Date(b.date_published);
-        });
-    }
-    else if (sortFields.includes(field)) {
-        entries.sort((a, b) => {
-            const aVal = a[field] ?? 0;
-            const bVal = b[field] ?? 0;
-
-            return isDescending
-                ? bVal - aVal
-                : aVal - bVal;
-        });
-    }
-
-    return entries;
 }
 
 
