@@ -112,34 +112,34 @@ Table: backgroundjobhistory, Row count: 0
 Table: blockentry, Row count: 0
 Table: blockentrylist, Row count: 28
 Table: browser, Row count: 16
-Table: compactedtags, Row count: 4227
+Table: compactedtags, Row count: 4238
 Table: configurationentry, Row count: 1
 Table: credentials, Row count: 0
 Table: dataexport, Row count: 0
-Table: domains, Row count: 1582531
-Table: entrycompactedtags, Row count: 19582
+Table: domains, Row count: 1583053
+Table: entrycompactedtags, Row count: 19652
 Table: entryrules, Row count: 16
 Table: gateway, Row count: 82
 Table: keywords, Row count: 0
-Table: linkdatamodel, Row count: 1587253
+Table: linkdatamodel, Row count: 1587803
 Table: modelfiles, Row count: 0
 Table: readlater, Row count: 0
 Table: searchview, Row count: 12
-Table: socialdata, Row count: 35950
+Table: socialdata, Row count: 35995
 Table: sourcecategories, Row count: 12
 Table: sourcedatamodel, Row count: 53
 Table: sourceoperationaldata, Row count: 0
 Table: sourcesubcategories, Row count: 15
 Table: user, Row count: 5
-Table: userbookmarks, Row count: 3897
+Table: userbookmarks, Row count: 3929
 Table: usercomments, Row count: 0
-Table: usercompactedtags, Row count: 4227
+Table: usercompactedtags, Row count: 4238
 Table: userconfig, Row count: 3
-Table: userentrytransitionhistory, Row count: 15166
+Table: userentrytransitionhistory, Row count: 15246
 Table: userentryvisithistory, Row count: 5001
 Table: usersearchhistory, Row count: 0
-Table: usertags, Row count: 30225
-Table: uservotes, Row count: 29502
+Table: usertags, Row count: 30377
+Table: uservotes, Row count: 29541
 ```
 
 # Contributing
