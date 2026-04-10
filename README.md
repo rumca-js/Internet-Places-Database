@@ -116,30 +116,30 @@ Table: compactedtags, Row count: 4316
 Table: configurationentry, Row count: 1
 Table: credentials, Row count: 0
 Table: dataexport, Row count: 0
-Table: domains, Row count: 1583908
-Table: entrycompactedtags, Row count: 18690
+Table: domains, Row count: 1602110
+Table: entrycompactedtags, Row count: 18707
 Table: entryrules, Row count: 16
 Table: gateway, Row count: 82
 Table: keywords, Row count: 0
-Table: linkdatamodel, Row count: 1588462
+Table: linkdatamodel, Row count: 1606597
 Table: modelfiles, Row count: 0
 Table: readlater, Row count: 0
 Table: searchview, Row count: 13
-Table: socialdata, Row count: 36305
+Table: socialdata, Row count: 36312
 Table: sourcecategories, Row count: 13
 Table: sourcedatamodel, Row count: 54
 Table: sourceoperationaldata, Row count: 0
 Table: sourcesubcategories, Row count: 16
 Table: user, Row count: 5
-Table: userbookmarks, Row count: 4242
+Table: userbookmarks, Row count: 4252
 Table: usercomments, Row count: 0
 Table: usercompactedtags, Row count: 4316
 Table: userconfig, Row count: 3
-Table: userentrytransitionhistory, Row count: 15152
+Table: userentrytransitionhistory, Row count: 15160
 Table: userentryvisithistory, Row count: 5001
 Table: usersearchhistory, Row count: 0
-Table: usertags, Row count: 29235
-Table: uservotes, Row count: 27055
+Table: usertags, Row count: 29258
+Table: uservotes, Row count: 27064
 ```
 
 # Contributing
