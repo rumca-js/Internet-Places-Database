@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dataanalyzer"
-version = "0.0.0"
+version = "0.0.1"
 description = "data analyzer"
 authors = ["Iwan Grozny <renegat@renegat0x0.ddns.net>"]
 license = "GPL3"

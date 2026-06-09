@@ -33,7 +33,8 @@ def main():
     if p.args.summary:
         analyzer.print_summary()
     else:
-        analyzer.search()
+        for _ in analyzer.search():
+            pass
 
 
 if __name__ == "__main__":
