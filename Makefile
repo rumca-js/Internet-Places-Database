@@ -37,6 +37,9 @@ server:
 summary:
 	poetry run python dataanalyzer.py --summary --db $(SOURCE_FILE)
 
+filter:
+	poetry run python filter.py --db internet.db
+
 example-search:
 	poetry run python ./dataanalyzer.py --db internet.db --search "*Warhammer*" --tags --social --title --description --status
 example-search2:
