@@ -249,6 +249,10 @@ Other
 
 Any SQLite database reader software, like DBeaver.
 
+# Android app
+
+https://github.com/rumca-js/OfflineWebSearch
+
 ## CLI script
 
 Do you want to search the database? I have got you covered! Use dataanalyzer.py
