@@ -42,13 +42,13 @@ The goal is to check how "wide" the Internet is, not how "deep" individual place
  - Use 'votes' to see credibility of domains
  - Be careful, Internet is a dangerous space. You should know what you are doing when using this list
 
-# Example
+# Demo and other databases
 
- - [Simple Search](https://rumca-js.github.io/search) uses domains that have votes > 0
+ - [Simple Search](https://rumca-js.github.io/search) demo search for entries with votes > 0
+ - [Top domains](https://github.com/rumca-js/awesome-database-top) small footprint database, with votes > 0
+ - [Mobile app](https://github.com/rumca-js/OfflineWebSearch) with access to top places database
 
- - [Music search](https://rumca-js.github.io/music) music bookmarks. Not really related, but you can check it out
-
-# Sources of data
+ # Sources of data
 
 Obtained by the [Django-link-archive](https://github.com/rumca-js/Django-link-archive) web crawler.
 
@@ -208,6 +208,8 @@ Some tags are quite obvious:
  - web spam - anything annoying, not worth, etc.
  - warhammer - anything that relates to...
  - radio station
+ - programming - anything related to programming
+ - convention
  - movie - page describing a movie
  - video game - page describing a video game, etc.
  - movie - page describing a movie
@@ -238,14 +240,16 @@ Some other notable examples
  - image assets / music assets / 
 
 Other
+ - artificial intelligence - anything to do with AI
  - artificial intelligence bot - AI bot, like chatGPT, etc.
+ - artificial intelligence platform - software to to use AI with
  - gatekeeper - platforms that are too big to fail. Monopolies, big tech, etc.
  - link service - link service, link shorteners, ad counters
  - monetization - if page includes some kind of monetization, subscription, loot boxes
  - gambling - if the page is about gambling
  - redirect issue - the page is not what it is supposed to be, redirects to some adult page etc.
  - the left wing - things for democrats, left wing of political spectrum
- - the right wing - things for republicans, left wing of political spectrum
+ - the right wing / conservative - things for republicans, left wing of political spectrum
  - conspiracy theories / 911
 
 # How to access the data?
@@ -349,9 +353,9 @@ I have my own opinions, with which you do not have to agree. Most of tags, votes
 - [x] Advertise in indie web sources. Potentially: HN, reddit self-host, reddit web scraping forums. Amiga board. Nice, hackery places
 - [x] Provide binary releases. SQLlite database, so that it would be easily imported by other tools
 - [x] Establish plan for binary releases
-- [ ] Create mobile app for searching. Upload to Google play & F-Droid
+- [x] Create mobile app for searching. Upload to Google play & F-Droid
 - [ ] Gather data using VPN, to receive english meta information
-- [ ] Secure funds for a organisation. Kickstarter?
+- [ ] Secure funds for a organization. Kickstarter?
 - [ ] Establish valid, simple domain for the project
 - [ ] Provide google-like search on the domain
 - [ ] Conquer the world
