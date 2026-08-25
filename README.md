@@ -45,9 +45,9 @@ The goal is to check how "wide" the Internet is, not how "deep" individual place
 # Demo and other databases
 
 Awesome databases:
- - https://github.com/rumca-js/awesome-database-awesomelists
- - https://github.com/rumca-js/awesome-database-top
- - https://github.com/rumca-js/awesome-database-feeds
+ - https://github.com/rumca-js/awesome-database-top - entries with votes > 0
+ - https://github.com/rumca-js/awesome-database-feeds - feeds
+ - https://github.com/rumca-js/awesome-database-awesomelists - links from awesome-lists
 
 Other
  - [Demo search](https://rumca-js.github.io/search) demo search for entries with votes > 0
