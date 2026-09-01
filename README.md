@@ -184,7 +184,7 @@ ON linkdatamodel.id = usertags.entry_id;
 
 Content ranking is established by the [Django link archive](https://github.com/rumca-js/Django-link-archive) project.
 
-To have a good page rating, it is desireable to follow good standards:
+To have a good page rating, it is desirable to follow good standards:
  - [Schema Validator](https://validator.schema.org/)
  - [W3C Validator](https://validator.w3.org/)
  - Provide HTML meta information. More info in [Open Graph Protocol](https://ogp.me/)
