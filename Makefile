@@ -35,15 +35,15 @@ server:
 	python3 -m http.server 8000
 
 summary:
-	poetry run python dataanalyzer.py --summary --db $(SOURCE_FILE)
+	poetry run python dbanalyzer.py --tables --db $(SOURCE_FILE)
 
 filter:
-	poetry run python filter.py --db internet.db
+	poetry run python dbupdate.py --db $(SOURCE_FILE) --trunc-no-users --trunc-search-data --trunc-configuration --trunc-dynamic-data --obfuscate
 
 example-search:
-	poetry run python ./dataanalyzer.py --db internet.db --search "*Warhammer*" --tags --social --title --description --status
+	poetry run python ./dbanalyzer.py --db internet.db --search "*Warhammer*" --tags --social --title --description --status
 example-search2:
-	poetry run python ./dataanalyzer.py --db internet.db --search "*youtube.com/channel*" --title --tags --social
+	poetry run python ./dbanalyzer.py --db internet.db --search "*youtube.com/channel*" --title --tags --social
 
 remove-history:
 	git checkout --orphan clean-main
