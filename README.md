@@ -267,16 +267,17 @@ https://github.com/rumca-js/OfflineWebSearch
 
 ## CLI script
 
-Do you want to search the database? I have got you covered! Use dataanalyzer.py
+Do you want to search the database? I have got you covered! Use dbanalyzer.py
 
 First install poetry. Then perform 'poetry update'. Then you can use the script.
 
 Unpack internet.zip, then...
 
 ```
-usage: dataanalyzer.py [-h] [--db DB] [--search SEARCH] [--order-by ORDER_BY] [--asc] [--desc]
-                       [--table TABLE] [--title] [--description] [--tags] [--social]
-                       [--date-published] [--source] [--summary] [--columns] [-i] [-v VERBOSITY]
+usage: dbanalyzer.py [-h] [--db DB] [--search SEARCH] [--order-by ORDER_BY] [--asc] [--desc] [--table TABLE]
+                     [--title] [--votes] [--description] [--status] [--tags] [--social] [--date-published]
+                     [--source] [--tables] [--columns] [--rss] [--channel] [--json] [--print-sources] [-i]
+                     [-v VERBOSITY]
 
 Data analyzer program
 
@@ -289,13 +290,19 @@ options:
   --desc                order descending
   --table TABLE         Table name
   --title               displays title
+  --votes               displays votes
   --description         displays description
+  --status              displays status
   --tags                displays tags
   --social              displays social data
   --date-published      displays date-published
   --source              displays source
-  --summary             displays summary of tables
-  --columns             displays summary of tables column nmaes
+  --tables              displays summary of tables
+  --columns             displays summary of tables column names
+  --rss                 displays RSS sources
+  --channel             displays channels
+  --json                JSON format
+  --print-sources       Lists sources
   -i, --ignore-case     Ignores case
   -v VERBOSITY, --verbosity VERBOSITY
                         Verbosity level
@@ -303,17 +310,17 @@ options:
 
 Search for warhammer in link, title, description. Shows title
 ```
-dataanalyzer.py --db internet.db --search "*warhammer*" --title
+dbanalyzer.py --db internet.db --search "*warhammer*" --title
 ```
 
 Search for warhammer in link name. Shows title, tags
 ```
-dataanalyzer.py --db internet.db --search "link=*warhammer*" --title --tags
+dbanalyzer.py --db internet.db --search "link=*warhammer*" --title --tags
 ```
 
 Search for youtube channels
 ```
-dataanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --tags --social
+dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --tags --social
 ```
 
 ## Access via web interface
