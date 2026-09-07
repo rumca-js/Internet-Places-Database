@@ -352,6 +352,7 @@ I have my own opinions, with which you do not have to agree. Most of tags, votes
  - Not all domains have to be stored here. I think it would be best to have valuable domains. Certainly we do not want content farms. We do not need sites that do not contribute anything useful to the society, to the reader
  - The distinction is not that clear-cut, but more lenient rules apply toward personal sites
  - I am not that interested in marking substack, or medium as "personal" sites, as I do not feel that it should be tagged as such
+ - This repository has commit history. However due to limitations the history of commits can be cleaned up if necessary. So please do make a backup, if you need one
  
 <div align="center">
   <img alt="Meme" src="images/bender.png">
