@@ -370,5 +370,4 @@ I have my own opinions, with which you do not have to agree. Most of tags, votes
 - [ ] Gather data using VPN, to receive english meta information
 - [ ] Secure funds for a organization. Kickstarter?
 - [ ] Establish valid, simple domain for the project
-- [ ] Provide google-like search on the domain
 - [ ] Conquer the world
