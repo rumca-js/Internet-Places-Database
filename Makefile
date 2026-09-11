@@ -5,6 +5,10 @@ SOURCE_FILE = internet.db
 # Declare phony targets
 .PHONY: zip unzip clean server pack-split unpack-split example-search
 
+
+filter:
+	poetry run python dbupdate.py --db $(SOURCE_FILE) --trunc-no-users --trunc-search-data --trunc-configuration --trunc-dynamic-data --obfuscate
+
 # Rule to create a zip archive split into 50MB parts
 zip:
 	zip -s 50m $(ARCHIVE_NAME) $(SOURCE_FILE)
@@ -37,8 +41,6 @@ server:
 summary:
 	poetry run python dbanalyzer.py --tables --db $(SOURCE_FILE)
 
-filter:
-	poetry run python dbupdate.py --db $(SOURCE_FILE) --trunc-no-users --trunc-search-data --trunc-configuration --trunc-dynamic-data --obfuscate
 
 example-search:
 	poetry run python ./dbanalyzer.py --db internet.db --search "*Warhammer*" --tags --social --title --description --status
