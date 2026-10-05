@@ -8,4 +8,4 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-linkarchivetools="1.0.5"
+linkarchivetools="1.0.20"
